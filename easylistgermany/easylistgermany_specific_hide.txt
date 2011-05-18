@@ -636,6 +636,7 @@ goldesel.to##a[href="jumpto/?p=highspeed"]
 goldesel.to##a[href="jumpto/?p=topdownload"]
 goldesel.to##a[href="jumpto/?p=topspeed"]
 goldesel.to##a[href="redirect/?p=highspeed"]
+goldesel.to##a[href^="jumpto/?p="]
 golem.de###iqadtile4gol
 golem.de##.iqadmarker
 golem.de##a[href^="http://ads.golem.de/"]
