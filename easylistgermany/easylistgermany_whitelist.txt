@@ -165,6 +165,7 @@
 @@||xara.hse24.de^*/hse_videoplayer.swf
 ! Anti-Adblock
 @@&adtype=$image,domain=hubbahotel.org
+@@.bidvertiser.$image,domain=hubbahotel.org
 @@|http://$xmlhttprequest,domain=easy-otr.de|otr.knoffl.com
 @@||adburner-network.de/banner/$image,domain=otrzone.de
 @@||adhs-zentrum.de^*/werbung1.jpg
