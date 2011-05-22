@@ -1619,6 +1619,7 @@ welt.de##a[href^="http://stayfriends.welt.de/"]
 welt.de##div[id^="banner_"]
 welt.de##div[style="width: 300px; height: 250px;"]
 weltdergadgets.de##.bannerContainer
+weltuntergang-2012.de##td[height="160"][width="297"][valign="top"]:first-child + td[width="263"]:last-child
 weltwoche.ch###fullbanner
 weltwoche.ch##a[href^="http://altfarm.mediaplex.com/ad/ck/"]
 wer-kennt-wen.de###ads
