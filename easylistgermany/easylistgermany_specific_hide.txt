@@ -974,6 +974,7 @@ moviebox.to##a[href="http://moviebox.to/download/?"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
 moviejones.de##.anzeige
 moviepilot.de##.banner-skyscraper
+moviestream.to##div[id]:first-child + div[id] + script + script + img + div[style]
 movietempel.com##a[href^="http://netload.in/index.php?refer_id="]
 movietempel.com##a[href^="http://ul.to/ref/"]
 movietempel.com##a[href^="http://www.fileserve.com/signup.php?reff="]
