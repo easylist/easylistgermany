@@ -415,6 +415,7 @@ downloadstube.net##a[onclick^="FileDownload('result_details',"]
 downloadstube.net##a[onclick^="window.open('/download-file.php?type=premium&"]
 drei.to##.box
 drei.to##form[action^="http://x7.to/foyer/"]
+drei.to##img[width="468"][height="60"]
 drei.to##input[value="Premium Download"]
 drop-games.org##a[href^="http://bit.ly"]
 drop-games.org##a[href^="http://goo.gl"]
