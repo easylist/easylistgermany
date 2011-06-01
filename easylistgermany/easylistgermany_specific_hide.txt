@@ -1493,6 +1493,8 @@ t-online.de###tl_anz-pos1
 t-online.de###tsrwh
 t-online.de##.tsc_www_p4p
 t-online.de##.tsc_www_p4p_bottom
+t-online.de##a[href^="http://clkde.tradedoubler.com/click?"]
+t-online.de##a[href^="http://count.shopping.t-online.de/RE?ID="]
 t-online.de##a[href^="http://count.shopping.t-online.de/RE?ID="][href*="&URL=http%3A%2F%2Fclkde.tradedoubler.com"]
 t-online.de##a[href^="http://shop.fussball.de/?ref="]
 t-online.de##a[href^="http://www.viversum.de/index.php?pid="]
