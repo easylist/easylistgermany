@@ -909,6 +909,7 @@ loads7.com##a[href^="http://www.adcell.de/click.php"]
 loads7.com##input[onclick^="window.open('http://loads7.com/pub1."]
 loads7.com##input[onclick^="window.open('http://www.FriendlyDuck.com/AF_"]
 lof.cc##.button[onclick^="window.open('http://www.freepremium.de/"]
+lof.cc##a[href^="http://ul.to/ref/"]
 lokalisten.de###logOutCon3
 lokalisten.de##.fullBanner
 lokalisten.de##.logoutCont
