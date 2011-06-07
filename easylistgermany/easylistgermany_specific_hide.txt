@@ -568,6 +568,7 @@ freeware.de###popup_layer
 freiepresse.de##.section-adv
 freies-wort.de##.superbanner
 freitag.de##div[id^="mf"]
+fremdwort.de##.RahmenRundrum[width="560"] > tbody > tr > td[colspan="2"]:first-child:last-child > table[border="0"]:first-child:last-child
 fremdwort.de##.anzeige
 fremdwort.de##table[width="560"][cellspacing="0"][border="0"] > tbody > tr > .text[colspan="2"]
 frimon.de###content:last-child > #sky_right:first-child + .padding_down + .padding_down
