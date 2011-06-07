@@ -1491,6 +1491,7 @@ suche.freenet.de##.frn_kapsel
 suchen.de##div[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 suchen.de##div[onclick^="window.open('http://www.suchen.de/ad?"]
 sueddeutsche.de##.ad
+sueddeutsche.de##.adbox
 sueddeutsche.de##.expediasearch
 sueddeutsche.de##.sponsor
 suedkurier.de###box_meinsueden
