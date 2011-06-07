@@ -186,6 +186,8 @@
 @@||cpmstar.com/cached/creatives/*?$image,domain=hubbahotel.org
 @@||david-forum.de/advertisement.css
 @@||die-schnelle-kuh.de^$script
+@@||doubleclick.net/crossdomain.xml$object-subrequest,domain=clipfish.de
+@@||doubleclick.net/hjghjghj?ts=$object-subrequest,domain=clipfish.de
 @@||downloadstube.net^*/adframe.js
 @@||easy-otr.de/images/$image
 @@||easy-otr.de^$elemhide
