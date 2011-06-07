@@ -95,8 +95,8 @@
 @@||i.computer-bild.de/imgs/$image,domain=computerbild.de
 @@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
-@@||inplay.tubemogul.com/bootloader/tubemogulflowplayer.swf$object-subrequest,domain=mystarcraft.de|pcgameshardware.de
-@@||inplay.tubemogul.com/crossdomain.xml$object-subrequest,domain=mystarcraft.de|pcgameshardware.de
+@@||inplay.tubemogul.com/bootloader/tubemogulflowplayer.swf$object-subrequest,domain=mystarcraft.de|pcgames.de|pcgameshardware.de
+@@||inplay.tubemogul.com/crossdomain.xml$object-subrequest,domain=mystarcraft.de|pcgames.de|pcgameshardware.de
 @@||intersport-voswinkel.de/static/cms/sites/dealer.intersport.de/dealers/*/werbung_$object,object-subrequest
 @@||kabeleins.de/php-bin/functions/adtags/$subdocument
 @@||kalaydo.de^*&adid=$xmlhttprequest
