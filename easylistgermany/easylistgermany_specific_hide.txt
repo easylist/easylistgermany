@@ -1438,6 +1438,7 @@ sound-load.net##a[href^="http://duckme.notlong.com"]
 sound-load.net##a[href^="http://uploaded.to/ref?id="]
 sound-load.net##input[onclick*="window.open('http://www.FriendlyDuck.com/AF_"]
 sound-load.net##input[onclick^="window.open('http://uploaded.to/ref?id="]
+sourcejunkies.de###banner
 speedload.to##a[href^="http://snipurl.com"]
 speedload.to##a[href^="http://tiny.cc"]
 speedlounge.in##a[href="usenet"]
