@@ -1514,6 +1514,8 @@ suite101.de##div[style="border-top:1px solid #CCCCCC; border-bottom:1px solid #C
 sunshine-live.de##.banner
 sunshine-live.de##.top
 super-otr.de###l93b850
+super-otr.de##div[style*="background-color: rgb(0, 0, 0);"]
+super-otr.de##div[style*="background-color: rgb(145, 145, 145);"]
 super-otr.de##div[style*="z-index: 100000; display: block"]
 surffact.de###skyscraper
 suxedoo.ch###banner
