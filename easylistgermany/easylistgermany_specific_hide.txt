@@ -421,12 +421,15 @@ downloadstube.net###links_container + script + a[onclick]
 downloadstube.net###results > div[class]:first-child
 downloadstube.net###results > div[class]:first-child + script + div[class]
 downloadstube.net##.download > a[onclick]:first-child + br + a[onclick]:last-child
+downloadstube.net##.download > a[onclick]:last-child
 downloadstube.net##.download_hoster
 downloadstube.net##.frame_side
 downloadstube.net##.frame_top
 downloadstube.net##.frameside
 downloadstube.net##.frametop
 downloadstube.net##.header > div:last-child > a[onclick]:first-child
+downloadstube.net##.load_side
+downloadstube.net##.load_top
 downloadstube.net##.mirror
 downloadstube.net##.side_frame
 downloadstube.net##.sidebox_details > div[class]:first-child
