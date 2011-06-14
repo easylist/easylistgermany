@@ -417,9 +417,11 @@ dokujunkies.org##div[style="background-image: url(\"http://justpic.info/images2/
 dokus.to##.downloadDoku
 donaukurier.de###superbanner
 dotnetpro.de###topbar
+downloadstube.net###alternative_download + a[onclick]
 downloadstube.net###links_container + script + a[onclick]
 downloadstube.net###results > div[class]:first-child
 downloadstube.net###results > div[class]:first-child + script + div[class]
+downloadstube.net##.download > a[onclick] > .redcolor
 downloadstube.net##.download > a[onclick]:first-child + br + a[onclick]:last-child
 downloadstube.net##.download > a[onclick]:last-child
 downloadstube.net##.download_hoster
