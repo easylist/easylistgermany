@@ -202,7 +202,7 @@
 @@||onlinetvrecorder.com/adcodes/?$subdocument
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
-@@||onvertise.com/bottom.png?$image,domain=hubbahotel.org
+@@||onvertise.com^*?*&$image,domain=hubbahotel.org
 @@||otr.knoffl.com/images/$image
 @@||otr.knoffl.com^*/adcode.js
 @@||otr.trixz.de^*/adcode.js
