@@ -1033,6 +1033,7 @@ monsterstream.info##img[onclick*="/affiliate/"]
 moonwalk.ch###rectangle
 mopo.de###MOPO-ad-uap-super-banner
 morgenpost.de##.advertising
+morgenpost.de##div[id^="advertisementRightcolumn_"]
 morgenweb.de###superbanner
 motor-talk.de###noadsDashboardOverlayFix
 motor-talk.de###topbanner
