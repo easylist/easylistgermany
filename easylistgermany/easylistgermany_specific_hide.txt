@@ -1055,9 +1055,11 @@ movie-blog.org###post-369870
 movie-blog.org###post-369870 + .date + .entry
 movie-blog.org###post-394729
 movie-blog.org###post-394729 + .date + .entry
+movie-blog.org###post-394729 + .date_x + .entry_x
 movie-blog.org##a[href="http://www.movie-blog.org/aktuelle-kinofilme.html"]
 movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://tinyurl.com/"]
+movie-blog.org##a[href^="http://www.mydownloader.net/pr/"]
 movie7.me##.dloadBtn
 moviebox.to##a[href="http://moviebox.to/download/?"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
