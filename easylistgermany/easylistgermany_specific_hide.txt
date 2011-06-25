@@ -700,6 +700,7 @@ gofeminin.de##.OffresSpe_cadre
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 goldesel.to##a[href*="/?p="]
 goldesel.to##a[href="highspeed/"]
+goldesel.to##a[href="highspeeds/"]
 goldesel.to##div:first-child:last-child > div[style="float:left;"]:first-child + div[style="float:left;"] > a
 goldesel.to##img[style="border: 1px solid rgb(187, 187, 187); margin-right: 5px;"]
 golem.de###iqadtile4gol
