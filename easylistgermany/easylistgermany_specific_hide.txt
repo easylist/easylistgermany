@@ -10,6 +10,7 @@
 1dl.in##a[href^="http://netload.in/index.php?refer_id="]
 1dl.in##a[href^="http://ul.to/ref/"]
 1dl.in##input[onclick^="window.open('http://www.1dl.in/highspeed/"]
+1dl.in##input[onclick^="window.open('http://www.friendlyduck.com/AF_"]
 1kh.de###Container > #head:first-child + #content + br + .spacer + center
 1load.net###ClickWand
 1load.net##a[href^="http://hotfile.com/register.html?reff="]
