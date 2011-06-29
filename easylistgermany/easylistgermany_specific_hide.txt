@@ -561,6 +561,7 @@ filefox.in##input[onclick^="window.open('http://filefox.in/highspeed_mirror/"]
 filmeforum.com##.banner
 filmz.de###m > div[style="left:16px;width:468px;overflow:hidden"] + .p[style="left:4px;width:492px;height:262px"]:last-child
 finanzen.net###bs_abstand
+finanztreff.de##a[href^="adclick.htn?b="]
 flashforum.de###ffPartner
 flashforum.de##table[width="491"][cellspacing="0"][cellpadding="0"][border="0"]
 flashgames.de###bottom10 > table[width="123"][height="615"]
