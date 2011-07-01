@@ -39,6 +39,8 @@
 4fuckr.com##a[href^="http://www.funnylicious.net"]
 4fuckr.com##a[href^="http://www.hoerbuch.in"]
 4fuckr.com##a[href^="http://xhamster.com/"]
+4players.de###AdHeader + style[type="text/css"] + div[id][style="display: block;"]
+4players.de###AdHeader + style[type="text/css"] + div[id][style="display: block;"] + div[id][style="display: block;"]
 5-jahres-wertung.de###logo-right > div[style="float:left;margin-top:25px;"]
 5-jahres-wertung.de##a[href^="http://ws.amazon.de/widgets/q?"]
 5-sms.com##div[onclick^="window.open('http://www.maxxfone.de/"]
