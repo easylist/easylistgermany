@@ -715,7 +715,6 @@ gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 goldesel.to##a[href="hd/"]
 goldesel.to##a[href^="highspeed"]
 goldesel.to##div:first-child:last-child > div[style="float:left;"]:first-child + div[style="float:left;"] > a
-goldesel.to##div[style="margin:0; float:left;"] > a[target="_blank"]
 golem.de###iqadtile4gol
 golem.de##.iqadmarker
 golem.de##a[href^="http://ads.golem.de/"]
