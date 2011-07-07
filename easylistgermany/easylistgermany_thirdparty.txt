@@ -220,6 +220,7 @@
 ||privat-akt.com^*/banner/$third-party
 ||privathobby.com^$third-party
 ||probefahrten.cc/campaigns/$third-party
+||probefahrten.cc^*?subid=$subdocument,third-party
 ||profiseller.de/banner/$third-party
 ||promotion.coreg.de^$third-party
 ||promotion.mmxlive.com^
