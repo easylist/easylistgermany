@@ -1293,6 +1293,7 @@ pirate-loads.to##input[onclick^="window.open('http://www.FriendlyDuck.com/AF_"]
 pixelio.de###contentcontainer > div[align="left"][style="margin-top: 10px; margin-left: 20px"]
 pixelio.de##div[style="width: 750px; height: 95px; float: left; margin-bottom: 10px;"]
 planet3dnow.de##tr > td[width="160"][valign="top"][align="center"]:last-child
+playboy.de##a[href^="http://track.adform.net/"]
 playcentral.de##.pnad
 playit.ch##a[href^="/ad/admanager.php?"]
 playmassive.de###brand
