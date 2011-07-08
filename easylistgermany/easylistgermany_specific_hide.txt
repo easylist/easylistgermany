@@ -1767,6 +1767,7 @@ vibe.cd##td[width="760"][height="116"][align="right"][colspan="2"] > IMG:last-ch
 vibe.cd##tr[height="180px"]:first-child + TR:last-child > td[style="background-color:transparent; margin:0px; padding:0px;"]:first-child
 videogameszone.de###rect_anz
 videogameszone.de##.aaaaaa
+videogameszone.de##.container > div[style] > a[target="_blank"][href^="/aid,"] > img
 videogameszone.de##.leaderboard
 videogameszone.de##.skyscraper
 videothek.cc##.header-banner
