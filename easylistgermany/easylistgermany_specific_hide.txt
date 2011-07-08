@@ -1253,6 +1253,7 @@ pcgames.de##.gul300
 pcgames.de##.leaderboard
 pcgames.de##.skyscraper
 pcgameshardware.de###column_right
+pcgameshardware.de###content_wrapper > div[style] > a[target="_blank"][href^="/aid,"] > img
 pcgameshardware.de###plakatfullsize
 pcgameshardware.de###plakathomecontentmetaboli1
 pcgameshardware.de###plakathomecontentmetaboli1bottom
