@@ -274,6 +274,7 @@ brokencomedy.de##.bc-medium-rectangle
 budspencer.de##.anzeigenBox
 buerschgens.de##.SponsorFuss
 buffed.de##.aaaaaa
+buffed.de##.container > div[style] > a[target="_blank"][href^="/aid,"] > img
 buffed.de##.leaderboard
 buffed.de##.skyscraper
 businessxp.at###main_skyscraper
