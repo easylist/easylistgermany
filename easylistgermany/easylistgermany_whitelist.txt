@@ -52,7 +52,6 @@
 @@||chiemsee-reggae.de/gallery/anzeige.php?$subdocument
 @@||chipeinbau.de/onlineshop/images/werbung_*.jpg
 @@||clipfish.de/ip/admeta.xml?$object-subrequest
-@@||clipkit.nuggad.net/rc?nuggn=$script,domain=dshini.net
 @@||comdirect.de^*.html&ad=$subdocument
 @@||comdirect.de^*.html?ad=$subdocument
 @@||comdirect.de^*/advertising.do?$subdocument
@@ -103,7 +102,6 @@
 @@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||intersport-voswinkel.de/static/cms/sites/dealer.intersport.de/dealers/*/werbung_$object,object-subrequest
-@@||ip.nuggad.net/rc?$script,domain=vox.de
 @@||kabeleins.de/php-bin/functions/adtags/$subdocument
 @@||kalaydo.de^*&adid=$xmlhttprequest
 @@||kmelektronik.de/shop/images/advertising/$image
@@ -121,6 +119,7 @@
 @@||n-tv.de/ads/images/kompakt_$image
 @@||n-tv.de/stat/videoplayer/admeta.xml$object-subrequest
 @@||n-tv.de/stat/videoplayer/ntv_player.swf?*/admeta.$object
+@@||nuggad.net/rc?nuggn=$script,domain=brokencomedy.de|dshini.net|vox.de
 @@||orange.at/content.node/flash/$object-subrequest
 @@||osthessen-tv.de/werbebanner/$object-subrequest
 @@||otto.de/is-bin/*/js/ads/$script
