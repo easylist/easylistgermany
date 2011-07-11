@@ -125,6 +125,7 @@
 @@||otto.de/is-bin/*/js/ads/$script
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||partner.zattoo.com/advertising/channelswitch/$subdocument
+@@||pcgames.de/ads.php$script
 @@||prosieben.de^*/ad-managment/$script
 @@||r.refinedads.com/l.js$script,domain=paypal-deutschland.de
 @@||radio.de/inc/ads/pix.swf?mp3=$object
