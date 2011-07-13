@@ -1257,6 +1257,7 @@ pc-max.de##.block-banner
 pcaction.de##.gul300
 pcaction.de##.leaderboard
 pcaction.de##.metaboli
+pcgames.de###container_fw > div[style] > a[target][href] > img
 pcgames.de###rect_anz
 pcgames.de##.bargain
 pcgames.de##.gul300
