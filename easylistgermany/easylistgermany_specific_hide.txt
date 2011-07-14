@@ -1300,6 +1300,7 @@ pg-logout.auskunft.de###auskunft
 photoshop-weblog.de##a[href="http://print24.com/de"]
 php-resource.de###topBanner
 php-resource.de##div[style="background-color:#fff7bd;border:1px #818181 solid;padding:15px;margin:15px;width:900px;"]
+php.de##a[onclick^="pageTracker._trackPageview('/outbound/ads/"]
 phpforum.de##.banner468x60
 phpforum.de##.banner728x90
 phpforum.de##a[href^="http://clkde.tradedoubler.com"]
