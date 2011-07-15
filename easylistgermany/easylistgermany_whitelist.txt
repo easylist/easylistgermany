@@ -39,6 +39,7 @@
 @@||ardie.de/homepage/werbung_$subdocument
 @@||atwola.com/?adrawdata/$object-subrequest,domain=player.nowonscreen.com
 @@||atwola.com/crossdomain.xml$object-subrequest,domain=player.nowonscreen.com
+@@||auditude.com^*/auditudeadunit.swf$object-subrequest,domain=bravo.de
 @@||autoscout24.de^*&adtype=
 @@||banner.t-online.de/?advideo/*;vidas=pre_roll;$object-subrequest,domain=autos.t-online.de
 @@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de
@@ -50,6 +51,7 @@
 @@||campact.de^*_300x250.gif
 @@||canoo.net/services/wordformationdictionary/gifs/
 @@||cashdorado.de/track/*.php?wm=$subdocument
+@@||cdn.auditude.com/crossdomain.xml$object-subrequest,domain=bravo.de
 @@||chiemsee-reggae.de/gallery/anzeige.php?$subdocument
 @@||chipeinbau.de/onlineshop/images/werbung_*.jpg
 @@||clipfish.de/ip/admeta.xml?$object-subrequest
