@@ -1568,6 +1568,7 @@ sound-load.net##input[onclick*="window.open('http://www.FriendlyDuck.com/AF_"]
 sound-load.net##input[onclick^="window.open('http://uploaded.to/ref?id="]
 sourcejunkies.de###banner
 sourcejunkies.de###banner_top
+sourcejunkies.de###header > #navigation + #logo + div:last-child
 speedload.to##a[href^="http://snipurl.com"]
 speedload.to##a[href^="http://tiny.cc"]
 speedlounge.in##a[href="usenet"]
