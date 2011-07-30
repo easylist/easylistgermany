@@ -259,6 +259,9 @@ blur.ws##a[href^="http://www.blur.ws/out.php"] > img
 bluray-disc.de###branding_header
 bluray-disc.de##.AnzeigenBlock2
 bluray-disc.de##.AnzeigenText
+board.gulli.com##a[href="http://www.getdigital.de/index/gulli"]
+board.gulli.com##a[href^="http://www.getdigital.de/"][href$="?her=GULLI"]
+board.gulli.com##a[href^="http://www.getdigital.de/"][href$="?her=GULLI"] + h4 + p
 bodybuilding-forum.at###post99999999999
 boerse-online.de###ivwimg
 boerse-online.de##.rsmodulanzeige
