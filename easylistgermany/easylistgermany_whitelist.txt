@@ -31,7 +31,7 @@
 @@||adserver.freenet.de/js.ng/site=*&affiliate=*&adset=*&prod=*&tbl=channel&ppos=11&$script,domain=buffed.de|gamesaktuell.de|pcgames.de|videogameszone.de
 @@||adserver.gb4.motorpresse.de/www/delivery/ajs.php?zoneid=*&target=_blank&$script,domain=mountainbike-magazin.de
 @@||adserver2.clipkit.de/www/delivery/ajs.php?$script,domain=jam.fm|paradiso.de
-@@||adshot.de/click/view.php$image,domain=dateibrowser.de|filebroker.de|q-load.me|thisload.de
+@@||adshot.de/click/view.php$image,domain=dateibrowser.de|filebroker.de|thisload.de
 @@||adtech.de/?adrawdata/$object-subrequest,domain=cineman.de|login.audimark.de|player.nowonscreen.com
 @@||adtech.de/adrawdata$object-subrequest,domain=player.nowonscreen.com
 @@||adtech.de/apps/$object-subrequest,domain=cineman.de
@@ -242,7 +242,6 @@
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||qtom.tv^*/adframe.js
 @@||rtl-now.rtl.de/img/ads/ad.js
-@@||sponsorads.de/script.php$script,domain=q-load.me
 @@||super-otr.de/inc/js/phpads/sponsorad.js
 @@||ttads.de/www/delivery/click.js
 @@||view.binlayer.com/ad-*.js$script,domain=die-schnelle-kuh.de|super-otr.de
