@@ -133,6 +133,7 @@
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||partner.zattoo.com/advertising/channelswitch/$subdocument
 @@||pcgames.de/ads.php$script
+@@||pcgames.de/screenshots/$image,~third-party
 @@||pcgameshardware.de/ads.php$script
 @@||prosieben.de^*/ad-managment/$script
 @@||r.refinedads.com/l.js$script,domain=paypal-deutschland.de
