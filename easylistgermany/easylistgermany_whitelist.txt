@@ -195,7 +195,7 @@
 @@&adtype=$image,domain=hubbahotel.org
 @@.bidvertiser.$image,domain=hubbahotel.org
 @@/content.yieldmanager.com^*/p.gif$domain=hubbahotel.org
-@@|http://$xmlhttprequest,domain=easy-otr.de|otr.knoffl.com
+@@|http://$xmlhttprequest,domain=easy-otr.de|hubbahotel.org|otr.knoffl.com
 @@||4fuckr.com^*/adframe.js
 @@||adburner-network.de/banner/$image,domain=otrzone.de
 @@||adhs-zentrum.de^*/werbung1.jpg
@@ -217,6 +217,8 @@
 @@||free-klingeltoene-handy.de/adframe.js
 @@||free-otr.de^*/adcode.js
 @@||g-stream.in^*/adcode.html$script
+@@||hubbahotel.org/images/$image
+@@||hubbahotel.org^$elemhide
 @@||hubbahotel.org^*&$image
 @@||kaufn.com/banner/ads/adserver/click/ad.js
 @@||lablue.at^$elemhide,script
@@ -237,9 +239,9 @@
 @@||otr.knoffl.com^*/adcode.js
 @@||otr.trixz.de^*/adcode.js
 @@||otrking.com/adimages/$subdocument
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=e-bol.net|lablue.at|lablue.ch|lablue.de|lohn-info.de|otrzone.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=e-bol.net|hubbahotel.org|lablue.at|lablue.ch|lablue.de|lohn-info.de|otrzone.de
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=e-bol.net
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=e-bol.net|lablue.at|lablue.ch|lablue.de|lohn-info.de|otrzone.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=e-bol.net|hubbahotel.org|lablue.at|lablue.ch|lablue.de|lohn-info.de|otrzone.de
 @@||pica.in^$document,image,domain=otr.knoffl.com
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||qtom.tv^*/adframe.js
