@@ -217,6 +217,7 @@ bild.de##a[href^="/unterhaltung/kino/film/trailerquiz-"] > img
 bild.de##a[href^="/unterhaltung/kino/kino/gewinnspiel-"] > .photo
 bild.de##a[href^="http://clk.atdmt.com/"]
 bild.de##a[href^="http://fotoservice.bild.de"]
+bild.de##a[href^="http://friendscout24.bild.de/"]
 bild.de##a[href^="http://shop.bild.de"] > .photo
 bild.de##a[href^="http://tagesdeals.bild.de/"] > img
 bild.de##a[href^="http://www.erotik1.de/"]
