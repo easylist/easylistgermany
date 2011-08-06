@@ -294,7 +294,6 @@ budspencer.de##.anzeigenBox
 buerschgens.de##.SponsorFuss
 buffed.de##.leaderboard
 buffed.de##.skyscraper
-buffed.de##div[style] > a[target][href] > img
 businessxp.at###main_skyscraper
 businessxp.at###platform_skyscraper
 byte.to###layer
@@ -695,7 +694,6 @@ gamersplus.de###header > a:first-child:last-child
 gamersplus.de##a[href^="http://adsfac.eu/link.asp"]
 gamesaktuell.de##.leaderboard
 gamesaktuell.de##.skyscraper
-gamesaktuell.de##div[style] > a[target][href] > img
 gameserveradmin.de##a[href^="./adclick.php?id="]
 gamestar.de###col_left > .fll
 gamestar.de##.banner_top
@@ -1291,7 +1289,6 @@ pcgames.de##.bargain
 pcgames.de##.gul300
 pcgames.de##.leaderboard
 pcgames.de##.skyscraper
-pcgames.de##div[style] > a[target][href] > img
 pcgameshardware.de###column_right
 pcgameshardware.de###plakatfullsize
 pcgameshardware.de###plakathomecontentmetaboli1
@@ -1840,7 +1837,6 @@ vibe.cd##tr[height="180px"]:first-child + TR:last-child > td[style="background-c
 videogameszone.de###rect_anz
 videogameszone.de##.leaderboard
 videogameszone.de##.skyscraper
-videogameszone.de##div[style] > a[target][href] > img
 videothek.cc##.header-banner
 vip-promis.blogspot.com##a[href^="http://www.adcell.de/"]
 vip.de##.eTeaser

@@ -29,7 +29,6 @@
 @@||adserver.bigwigmedia.com/ingamead2_$object-subrequest,domain=spielaffe.de
 @@||adserver.devaki.ch/www/images/$image,domain=player.streaming.devaki.ch
 @@||adserver.freenet.de/ads/script/praeludium_tmrkt.js$script,domain=transfermarkt.tv
-@@||adserver.freenet.de/js.ng/site=*&affiliate=*&adset=*&prod=*&tbl=channel&ppos=11&$script,domain=buffed.de|gamesaktuell.de|pcgames.de|videogameszone.de
 @@||adserver.gb4.motorpresse.de/www/delivery/ajs.php?zoneid=*&target=_blank&$script,domain=mountainbike-magazin.de
 @@||adserver2.clipkit.de/www/delivery/ajs.php?$script,domain=jam.fm|paradiso.de
 @@||adshot.de/click/view.php$image,domain=dateibrowser.de|filebroker.de|thisload.de
@@ -49,7 +48,6 @@
 @@||berufsstart.de^*/anzeigeshowframeset.php?$subdocument
 @@||bildarchiv-ostpreussen.de/files/fotoalbum/fotos/*_werbung_
 @@||boago.com/www/delivery/ck.php?n=$subdocument,domain=jetztspielen.de
-@@||buffed.de/ads.php$script
 @@||cache.kalaydo.de/mmo/logo/advert/$image
 @@||campact.de^*_300x250.gif
 @@||canoo.net/services/wordformationdictionary/gifs/
@@ -101,7 +99,6 @@
 @@||gamersplus.de/images/branding/*/header_
 @@||gamersplus.de/images/branding/*_header.
 @@||gamersplus.de/images/branding/*_header_
-@@||gamesaktuell.de/ads.php$script
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||handelshof.de/media/files/anzeige_html/*/werbung_
 @@||i.computer-bild.de/imgs/$image,domain=computerbild.de
@@ -132,9 +129,7 @@
 @@||otto.de/is-bin/*/js/ads/$script
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||partner.zattoo.com/advertising/channelswitch/$subdocument
-@@||pcgames.de/ads.php$script
 @@||pcgames.de/screenshots/$image,~third-party
-@@||pcgameshardware.de/ads.php$script
 @@||prosieben.de^*/ad-managment/$script
 @@||r.refinedads.com/l.js$script,domain=paypal-deutschland.de
 @@||radio.de/inc/ads/pix.swf?mp3=$object
@@ -177,7 +172,6 @@
 @@||viamichelin.ch/static/advert/afsquery/afsquery.js
 @@||viamichelin.de/static/advert/afsquery/afsquery.js
 @@||viamichelin.de^*/rentacar.js
-@@||videogameszone.de/ads.php$script
 @@||videogameszone.de/screenshots/*_werbung.$image
 @@||videostream4u.com^*/ac_oetags_clone.js
 @@||vox-static.liverail.com/swf/*/admanager.swf$object-subrequest,domain=lpcekay.de|readmore.de
