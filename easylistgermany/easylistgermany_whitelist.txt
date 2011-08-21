@@ -189,7 +189,7 @@
 @@&adtype=$image,domain=hubbahotel.org
 @@.bidvertiser.$image,domain=hubbahotel.org
 @@/content.yieldmanager.com^*/p.gif$domain=hubbahotel.org
-@@|http://$xmlhttprequest,domain=easy-otr.de|hubbahotel.org|otr.knoffl.com
+@@|http://$xmlhttprequest,domain=easy-otr.de|hubbahotel.org|otr.knoffl.com|streammafia.tv
 @@||4fuckr.com^*/adframe.js
 @@||adburner-network.de/banner/$image,domain=otrzone.de
 @@||adhs-zentrum.de^*/werbung1.jpg
@@ -242,6 +242,8 @@
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||qtom.tv^*/adframe.js
 @@||rtl-now.rtl.de/img/ads/ad.js
+@@||streammafia.tv/themes/ambient/images/$image
+@@||streammafia.tv^$elemhide
 @@||super-otr.de/inc/js/phpads/sponsorad.js
 @@||ttads.de/www/delivery/click.js
 @@||view.binlayer.com/ad-*.js$script,domain=die-schnelle-kuh.de|photoguide.pytalhost.net|super-otr.de
