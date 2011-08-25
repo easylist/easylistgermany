@@ -5,6 +5,9 @@
 @@||abacomuenchensued.de/pageear/$object,object-subrequest,script
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=autos.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=autos.t-online.de
+@@||ad.71i.de/global_js/globalv6.js$domain=brokencomedy.de|n24.de
+@@||ad.71i.de/global_js/sites/n24de.js$domain=n24.de
+@@||ad.71i.de/global_js/sites/pro7de.js$domain=brokencomedy.de
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad4.liverail.com/interstitial/?lr_publisher_id=$script,domain=jam.fm|paradiso.de
 @@||adclient.uimserv.net/js.ng/site=mklick&$script,domain=millionenklick.web.de
@@ -17,12 +20,7 @@
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
 @@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
 @@||adserv.quality-channel.de/realmedia/ads/*?videoad$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
-@@||adserver.71i.de/global_js/globalv6.js$domain=brokencomedy.de|hausgemacht.tv|kabeleins.de|n24.de|prosieben.de|sat1.de
-@@||adserver.71i.de/global_js/sites/kabel1de.js$domain=kabeleins.de
-@@||adserver.71i.de/global_js/sites/n24de.js$domain=n24.de
-@@||adserver.71i.de/global_js/sites/pro7de.js$domain=brokencomedy.de
-@@||adserver.71i.de/global_js/sites/sat1de.js$domain=sat1.de
-@@||adserver.71i.de/global_js/sites/wcms_pro7de.js$domain=prosieben.de
+@@||adserver.71i.de/global_js/globalv6.js$domain=hausgemacht.tv
 @@||adserver.bigwigmedia.com/adfetch2.php?$object-subrequest,domain=spielefuerdich.de
 @@||adserver.bigwigmedia.com/ingamead2_$object-subrequest,domain=spielaffe.de
 @@||adserver.devaki.ch/www/images/$image,domain=player.streaming.devaki.ch
