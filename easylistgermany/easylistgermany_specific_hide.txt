@@ -1947,6 +1947,8 @@ wetter.com###box-n24
 wetter.com###fem_box
 wetter.com###rc_travelad
 wetter.com###spox_box
+wetter.com##a[href^="http://exlog.wetter.com/v2/exlog/adclick.php?bannerid="]
+wetter.com##a[onclick^="exlogmask('"][href="javascript:void(0);"]
 wetter.de###loginboxXDOT
 wetter.de###page_arranged_quicklink > .pageQuicklinks
 wetter.de###teaser_hotelde_suche
