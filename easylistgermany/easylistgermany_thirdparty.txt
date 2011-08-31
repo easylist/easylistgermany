@@ -82,7 +82,7 @@
 ||erotik1.de^*.html?ifw=*&ifh=$subdocument,third-party
 ||erotikdating.com/geoip.php?$subdocument,third-party
 ||escortkartei.com/banner/$third-party
-||eteleon.de/partner/$third-party,domain=~apps.facebook.com
+||eteleon.de/partner/$third-party,domain=~facebook.com
 ||eteleon.de/partnerprogramm/$third-party
 ||fantasticzero.com^*/skinnings/$third-party
 ||festivalfick.com/banner/$third-party
