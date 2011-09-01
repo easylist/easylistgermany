@@ -2069,6 +2069,7 @@ zoozle.net###search_topline
 zoozle.net##a[onclick^="downloadFile('download_big', null,"]
 zoozle.net##a[onclick^="downloadFile('download_related', null,"]
 ! Legacy rules (for Firefox 3 and similar Gecko 1 browsers)
+~pregecko2,5-jahres-wertung.de###logo-right > div[style="float: left; margin-top: 25px;"]
 ~pregecko2,abnehmen.com##div[style="width: 70%; height: 280px; min-width: 680px ! important;"]
 ~pregecko2,acer-userforum.de##div[style="text-align: center; width: 750px; height: 105px; padding-top: 8px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 88, 86);"]
 ~pregecko2,acer-userforum.de##div[style="text-align: center; width: 760px; height: 120px; padding-top: 15px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 88, 86);"]
@@ -2160,7 +2161,6 @@ zoozle.net##a[onclick^="downloadFile('download_related', null,"]
 ~pregecko2,satempfang-magazin.de##div[style="display: block; position: absolute; overflow: hidden; z-index: 1001; outline: 0px none; height: auto; width: 800px; top: 208.5px; left: 551.5px;"]
 ~pregecko2,simkea.de##div[style="position: relative; width: 728px; height: 90px; text-align: right; margin: 1px auto; overflow: hidden;"]
 ~pregecko2,spektrumdirekt.de##div[style="height: 90px;"]:first-child:last-child
-~pregecko2,style,5-jahres-wertung.de###logo-right > div[style="float: left; margin-top: 25px;"]
 ~pregecko2,suite101.de##div[style="border-top: 1px solid rgb(204, 204, 204); border-bottom: 1px solid rgb(204, 204, 204);"]
 ~pregecko2,suxedoo.ch##div[style="position: relative; height: 70px; left: 40px; top: 10px;"]
 ~pregecko2,symptome.ch###collapseobj_sidebar > div[style="height: 600px;"]
