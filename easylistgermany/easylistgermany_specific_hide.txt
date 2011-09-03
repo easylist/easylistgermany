@@ -76,8 +76,8 @@ activevb.de##.dontprint[cellpadding="1"][bgcolor="#c0c0c0"][align="center"]
 adhs-zentrum.de###a4d1af
 adhs-zentrum.de###a4d1af + div
 aero.de##.add_balken
-aero.de##TR:first-child > td[style="padding-bottom:5px;height:82px;"]:first-child
 aero.de##div[style="width:326px;padding-bottom:13px;text-align:center;background-color:#f0f0f0;padding-top:3px;"]
+aero.de##tr:first-child > td[style="padding-bottom:5px;height:82px;"]:first-child
 aerzteblatt.de###bannerContainer
 aerzteblatt.de##.bottomBanner
 aiobase.com###quickLoginBox + center + style + div:last-child
@@ -323,8 +323,8 @@ canoo.net##.banner_container
 car.de##div[class^="wrb-"]
 centertv.de###skyscraper
 chat4free.de##.skyscraper
-chat4free.de##TD > FONT[style="font-size:9;"]
 chat4free.de##div[style="float: left;padding:0 10 0 10;margin:0 10 10 0;"]
+chat4free.de##td > font[style="font-size:9;"]
 chatroulette-deutsch.com##a[href^="http://tinyurl.com/"]
 cheating.de##.bannerContainer
 cheats.de###partner_box
@@ -394,7 +394,7 @@ ddl-blog.to###post-13187
 ddl-blog.to###post-38271
 ddl-blog.to###post-5840
 ddl-blog.to###scbox
-ddl-blog.to##.entry > P > STRONG > SPAN[style="color: #000000"]:first-child
+ddl-blog.to##.entry > p > strong > span[style="color: #000000"]:first-child
 ddl-blog.to##a[href^="http://tinyurl.com/"]
 ddl-blog.to##form[action^="http://tinyurl.com"]
 ddl-moviez.org##a[href^="http://uploaded.to/ref?id="]
@@ -596,7 +596,7 @@ falk.de###header_banner_wrapper
 falk.de###hotel_container
 fanfiktion.de###ad
 fast-stream.ch##.ad
-favicon-generator.de##TR:first-child:last-child > td[align="left"][width="150"][valign="top"]:first-child + td[align="center"] + td[align="left"][width="150"][valign="top"]:last-child
+favicon-generator.de##tr:first-child:last-child > td[align="left"][width="150"][valign="top"]:first-child + td[align="center"] + td[align="left"][width="150"][valign="top"]:last-child
 faz.net###BoxAngebotVerlagEnvelope
 faz.net##.AnzeigenKopf
 fem.com###add_square
@@ -641,8 +641,8 @@ frankenpost.de##.superbanner
 frauenzimmer.de##.topSpacer
 free.mysmspage.de##div[style="width:148px; font-family:Arial; font-size:12px;padding:2px"]
 freechat.de##.skyscraper
-freechat.de##TD > FONT[style="font-size:9;"]
 freechat.de##div[style="float: left;padding:0 10 0 10;margin:0 10 10 0;"]
+freechat.de##td > font[style="font-size:9;"]
 freenet.de##.frn_promoReisen
 freesms-senden.net##a[href^="http://www.freesms-senden.net/sms-"]
 freeware.de###popup_layer
@@ -688,7 +688,7 @@ g-stream.in##a[target="_blank"] > img[width="468"][height="60"]
 g-stream.in##a[target="_blank"] > img[width="720"][height="90"]
 g-stream.in##button[onclick^="window.open('http://g-stream.in/mirror/"]
 g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
-g15-applets.de##TR:first-child:last-child > .bodyline[valign="top"]:first-child + td[width="120"][valign="top"]:last-child
+g15-applets.de##tr:first-child:last-child > .bodyline[valign="top"]:first-child + td[width="120"][valign="top"]:last-child
 game-freaks.net###div_flip
 game-freaks.net##a[href^="http://freakshare.net/?ref="]
 game-freaks.net##input[onclick^="window.open('http://www.friendlyduck.com/AF_"]
@@ -795,9 +795,9 @@ guru-world.net##.entry > strong + a
 guru-world.net##div[style="font-weight:bold;color: #FF0000;font-size: 15px;padding-bottom:8px;"]
 gutefrage.net###poweredBy
 gwarez.cc##.whitelink
-hamm2night.de##TR:last-child > td[style="padding-left:9px;"][colspan="2"]:first-child:last-child
-hamm2night.de##TR:last-child > td[style="padding-left:9px;"][colspan="2"]:first-child:last-child
 hamm2night.de##div[style="width:300px; height:250px; margin:22px 12px; float:left;"]
+hamm2night.de##tr:last-child > td[style="padding-left:9px;"][colspan="2"]:first-child:last-child
+hamm2night.de##tr:last-child > td[style="padding-left:9px;"][colspan="2"]:first-child:last-child
 handelsblatt.com###iqadtile5
 handy-faq.de##a[href^="http://adt.traffictrack.de/go.cgi?"]
 handy-faq.de##a[href^="http://partners.webmasterplan.com/"]
@@ -1078,7 +1078,7 @@ manager-magazin.de###wrapBoard > #wrapMain:first-child > .pbox
 manager-magazin.de##a[href^="http://www.finanztreff.de/adclick.htn?b="]
 map24.com##.hand[onclick="showbahn();"]
 maxrev.de##a[href^="redirect,banner_id,"]
-mazda-forum.info##TR > td[width="175"][valign="top"][style="padding-left: 15px"]:last-child
+mazda-forum.info##tr > td[width="175"][valign="top"][style="padding-left: 15px"]:last-child
 med1.de###w2_u[style="visibility: visible; margin-bottom: 1em; clear: left;"]
 med1.de###w_o
 med1.de###w_s
@@ -1169,7 +1169,7 @@ msn.de###Sales3
 msn.de###Sales4
 msn.de###msnpromo
 msxfaq.de###skyscraper
-mtb-news.de##TR:first-child:last-child > td[valign="top"]:first-child + td[align="left"][width="160"][valign="top"]:last-child
+mtb-news.de##tr:first-child:last-child > td[valign="top"]:first-child + td[align="left"][width="160"][valign="top"]:last-child
 muenchen.de##.dienste_anzeige
 muenchen.de##.wrapper_dienste_anzeigen
 muensterschezeitung.de##.digitaleAnzeigen
@@ -1262,7 +1262,7 @@ oberberg-aktuell.de##.special_combination_add
 oberberg-aktuell.de##.text_anzeige
 ogame.de###combox_container
 ogame.org###combox_container
-okbb.de##TR[bgcolor="#FFFF00"]
+okbb.de##tr[bgcolor="#FFFF00"]
 omega-music.com##a[href^="http://freakshare.net/?ref="]
 omega-music.com##input[onclick^="window.open('http://www.friendlyduck.com/AF_"]
 omfg.to###sidebar > .ad
@@ -1499,7 +1499,7 @@ ruhrnachrichten.de##.digitaleAnzeigen
 rund-magazin.de###bigsizebanner
 rundschau-online.de##.BoxAnzeige
 rundschau-online.de##.BoxContentPosAnzeige
-rundumkoeln.de##div[align="center"] > A#top[name="top"]:first-child + table[border="0"]:last-child
+rundumkoeln.de##div[align="center"] > a#top[name="top"]:first-child + table[border="0"]:last-child
 russland.ru##.werbung_01[valign="top"][align="left"]
 russland.tv##.werbung_01[valign="top"][align="right"]
 saarbruecker-zeitung.de##.anzeige
@@ -1777,23 +1777,23 @@ teen-blog.us###post-1985
 teen-blog.us##.voteLayer
 teen-blog.us##img[height="60"][width="468"]
 teleboerse.de###banner_spacer
-telefon-treff.de##TR:first-child:last-child > td[valign="top"]:first-child + td[width="160"][valign="top"]:last-child
+telefon-treff.de##tr:first-child:last-child > td[valign="top"]:first-child + td[width="160"][valign="top"]:last-child
 terminplanen.de##td[width="160"][valign="top"][align="center"]:last-child > table[width="156"][border="0"]
 testedich.de###top
 testreich.com###genlayer
 tikonline.de###bigsize
 titanic-magazin.de###bnr-kiwi
-titanic-magazin.de###teaser-wrap > SPAN[style="font-size: 7pt; color: grey;"]
-titanic-magazin.de##P[style="font-size: 7pt; color: grey; text-align: left; margin: 0; padding: 0;"]
+titanic-magazin.de###teaser-wrap > span[style="font-size: 7pt; color: grey;"]
+titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; margin: 0; padding: 0;"]
 titanload.to##a[href^="http://uploaded.to/ref?id="]
 tobitech.de##a[href^="banners.php?op="]
 tonight.rp-online.de##div[style="padding-left:10px;width:980px;height:90px;"]
-top-ddl.info##INPUT[onclick^="location.href='http://www.firstload.de/affiliate/"]
+top-ddl.info##input[onclick^="location.href='http://www.firstload.de/affiliate/"]
 top-dsl.com###Layer1
 top-dsl.com###Layer2
 top-hitz.com###top-hitz-bar
-top-hitz.com##INPUT[onclick^="window.open('http://www.adcell.de/click.php"]
 top-hitz.com##a[href^="http://www.adcell.de/click.php"]
+top-hitz.com##input[onclick^="window.open('http://www.adcell.de/click.php"]
 toppreise.ch##a[href^="http://clk.tradedoubler.com/click?"]
 torrent.to###ttoadbar
 torrent.to###ttolayer
@@ -1868,8 +1868,8 @@ vetax.in##a[href^="http://tinyurl.com"]
 vhs-ol.de###banner
 vhs-ol.de###special
 vibe.cd##div[style="position:absolute; top:173px; left:80px; z-index:2;"]
-vibe.cd##td[width="760"][height="116"][align="right"][colspan="2"] > IMG:last-child
-vibe.cd##tr[height="180px"]:first-child + TR:last-child > td[style="background-color:transparent; margin:0px; padding:0px;"]:first-child
+vibe.cd##td[width="760"][height="116"][align="right"][colspan="2"] > img:last-child
+vibe.cd##tr[height="180px"]:first-child + tr:last-child > td[style="background-color:transparent; margin:0px; padding:0px;"]:first-child
 videogameszone.de###rect_anz
 videogameszone.de##.leaderboard
 videogameszone.de##.skyscraper
@@ -1968,8 +1968,8 @@ wetter.info###sky_anz
 wetter.net###content_anzeige
 wetterbote.de##table[width="738"][height="90"]
 wettforum.info##div[style="position: fixed; width: 748px; height: 93px; left: 200px; top: 0px; text-align: left; z-index: 2; background-image: url(http://www.wettforum.info/styles/frame.png); background-position: center; background-repeat: no-repeat;"]
-wettforum.info##table[width="100%"][cellspacing="0"][cellpadding="0"] > TBODY:first-child:last-child > tr:first-child + tr > td[width="140"][valign="top"]:first-child
-wettforum.info##table[width="100%"][cellspacing="0"][cellpadding="0"] > TBODY:first-child:last-child > tr:first-child > td[align="center"][colspan="2"]:first-child:last-child
+wettforum.info##table[width="100%"][cellspacing="0"][cellpadding="0"] > tbody:first-child:last-child > tr:first-child + tr > td[width="140"][valign="top"]:first-child
+wettforum.info##table[width="100%"][cellspacing="0"][cellpadding="0"] > tbody:first-child:last-child > tr:first-child > td[align="center"][colspan="2"]:first-child:last-child
 wichsfleck.com###layer
 wide-wallpaper.de##div[style=" text-align:center;float:left;margin:4px; padding:0px; width:290px;height:270px;border: 1px solid #666666;"]
 wide-wallpaper.de##div[style=" text-align:center;float:right;margin:4px; padding:0px; width:290px;height:270px;border: 1px solid #666666;"]
@@ -1999,9 +1999,9 @@ witz.de##.bannergroup
 woerterbuch.info##.ov
 woerterbuch.info##.standard[valign="top"][bgcolor="#e5e5e5"][align="right"][colspan="2"]
 wohnmobilforum.de###dropin
-wohnmobilforum.de##TR:first-child:last-child > td[align="left"][valign="top"]:first-child + td[width="120"][valign="top"]:last-child
-wohnmobilforum.de##TR:first-child:last-child > td[align="left"][width="120"][valign="top"]:first-child
 wohnmobilforum.de##div[style="width:120px; height:1720px; overflow:hidden; background-color:#eeeeee"]
+wohnmobilforum.de##tr:first-child:last-child > td[align="left"][valign="top"]:first-child + td[width="120"][valign="top"]:last-child
+wohnmobilforum.de##tr:first-child:last-child > td[align="left"][width="120"][valign="top"]:first-child
 wootly.com##.frame_adv
 wortfilter.de##.kuriosbox
 wortfilter.de##body > table[style="margin-bottom:6px;"]:first-child
@@ -2041,10 +2041,10 @@ xxx-4-free.net###gne
 xxx-4-free.net###lyr
 xxx-blog.to###post-31656
 xxx-blog.to###post-6155
-xxx-blog.to##FORM[action="http://xxx-blog.to/mirror.php?download=highspeed"]
 xxx-blog.to##a[href="http://xxx-blog.to/mirror.php?download=usenet"]
 xxx-blog.to##a[href^="http://tracking.to/"]
 xxx-blog.to##a[href^="http://ul.to/ref/"]
+xxx-blog.to##form[action="http://xxx-blog.to/mirror.php?download=highspeed"]
 xxx-boardz.com##a[href^="http://ul.to/ref/"]
 xxx-boardz.com##img[width="360"][height="46"]
 xxx-boardz.com##img[width="366"][height="46"]
@@ -2080,8 +2080,8 @@ zoozle.net##a[onclick^="downloadFile('download_related', null,"]
 abnehmen.com,~pregecko2##div[style="width: 70%; height: 280px; min-width: 680px ! important;"]
 acer-userforum.de,~pregecko2##div[style="text-align: center; width: 750px; height: 105px; padding-top: 8px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 88, 86);"]
 acer-userforum.de,~pregecko2##div[style="text-align: center; width: 760px; height: 120px; padding-top: 15px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 88, 86);"]
-aero.de,~pregecko2##TR:first-child > td[style="padding-bottom: 5px; height: 82px;"]:first-child
 aero.de,~pregecko2##div[style="width: 326px; padding-bottom: 13px; text-align: center; background-color: rgb(240, 240, 240); padding-top: 3px;"]
+aero.de,~pregecko2##tr:first-child > td[style="padding-bottom: 5px; height: 82px;"]:first-child
 android-hilfe.de,~pregecko2##.smallfont[style^="text-align: center; width: 740px; height: 110px;"]
 android-hilfe.de,~pregecko2##div[style="float: left; width: 186px; position: absolute; left: 25px; top: 15px;"]
 android-hilfe.de,~pregecko2##div[style^="width: 748px; height: 100px; padding-top: 10px;"]
@@ -2163,7 +2163,7 @@ pixelio.de,~pregecko2###contentcontainer > div[align="left"][style="margin-top: 
 ~pregecko2,pressakey.com##div[style="width: 260px; height: 310px; background-image: url(\"gfximg/rnavi_w3.jpg\");"]
 ~pregecko2,quotenmeter.de##.qm-right-box[style="position: relative;"]
 ~pregecko2,rollertuningpage.de##.logobackground > span[style="color: rgb(255, 255, 255); font-size: 10px;"]
-~pregecko2,rollertuningpage.de##TR:first-child:last-child > td[style="background-image: url(\"http://www.rollertuningpage.de/images/shop_hg.jpg\"); vertical-align: top; padding-left: 5px; padding-top: 100px; width: 125px;"]:last-child
+~pregecko2,rollertuningpage.de##tr:first-child:last-child > td[style="background-image: url(\"http://www.rollertuningpage.de/images/shop_hg.jpg\"); vertical-align: top; padding-left: 5px; padding-top: 100px; width: 125px;"]:last-child
 ~pregecko2,rp-online.de###container > div > div[style="background: url(\"http://static.rp-online.de/layout/img/icon/leiste.gif\") no-repeat scroll 0% 0% transparent; width: 786px;"]
 ~pregecko2,satempfang-magazin.de##div[style="display: block; position: absolute; overflow: hidden; z-index: 1001; outline: 0px none; height: auto; width: 800px; top: 208.5px; left: 551.5px;"]
 ~pregecko2,simkea.de##div[style="position: relative; width: 728px; height: 90px; text-align: right; margin: 1px auto; overflow: hidden;"]
@@ -2172,7 +2172,7 @@ pixelio.de,~pregecko2###contentcontainer > div[align="left"][style="margin-top: 
 ~pregecko2,suxedoo.ch##div[style="position: relative; height: 70px; left: 40px; top: 10px;"]
 ~pregecko2,symptome.ch###collapseobj_sidebar > div[style="height: 600px;"]
 ~pregecko2,t-online.de##img[width="178"][height="365"][style="margin-left: -10px; margin-bottom: 10px;"]
-~pregecko2,titanic-magazin.de##P[style="font-size: 7pt; color: grey; text-align: left; margin: 0pt; padding: 0pt;"]
+~pregecko2,titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; margin: 0pt; padding: 0pt;"]
 ~pregecko2,tonight.rp-online.de##div[style="padding-left: 10px; width: 980px; height: 90px;"]
 ~pregecko2,triathlon-szene.de##td[style="padding: 0px; border-right: 1px solid rgb(204, 204, 204); border-bottom: 1px solid rgb(204, 204, 204);"] > div[align="left"][style="margin-bottom: 10px;"]
 ~pregecko2,ubuntu-forum.de##table[align="center"][valign="middle"][style="border: 1px dashed rgb(168, 144, 88);"]
