@@ -802,7 +802,6 @@ gutefrage.net###poweredBy
 gwarez.cc##.whitelink
 hamm2night.de##div[style="width:300px; height:250px; margin:22px 12px; float:left;"]
 hamm2night.de##tr:last-child > td[style="padding-left:9px;"][colspan="2"]:first-child:last-child
-hamm2night.de##tr:last-child > td[style="padding-left:9px;"][colspan="2"]:first-child:last-child
 handelsblatt.com###iqadtile5
 handy-faq.de##a[href^="http://adt.traffictrack.de/go.cgi?"]
 handy-faq.de##a[href^="http://partners.webmasterplan.com/"]
@@ -936,8 +935,6 @@ jappy.de##.spAdMR
 java-forum.org###header_right_cell
 jenatv.de##a[href^="http://www1.belboon.de/adtracking/"]
 jetztspielen.de###main_top_banner
-jetztspielen.de###main_top_banner
-jetztspielen.de##.banner
 jetztspielen.de##.banner
 jobanova.de###top_afs_container
 jobboerse.de##a[href^="http://www.jobboerse.de/index.php?bannerklick="]
@@ -1213,7 +1210,6 @@ n-tv.de###premio_rectangle
 n-tv.de###wrapper_content > div[style="height: 120px;"]:first-child
 n-tv.de##.sidebar_block[style="width:300px;height:163px"]
 n-tv.de##.sidebar_block_dark[style="padding-left: 40px; height: 200px;"]
-n-tv.de##.sidebar_block_dark[style="padding-left: 40px; height: 200px;"]
 n-tv.de##.teaser_220_450.clearfix[style="background-color: #02225a; padding: 5px 0 5px 0; margin: -10px 0 10px 0; "]
 n-tv.de##a[href^="http://ad.doubleclick.net/clk"] + * + * + .jq_link
 n-tv.de##a[href^="http://ad.doubleclick.net/clk;"] + .box
@@ -1383,7 +1379,6 @@ playmassive.de###brand
 playmassive.de##.pnad
 playnation.de##.pnad
 plz-postleitzahl.de##td[valign="top"][style="padding-left: 15px;"] > table[width="250"][cellspacing="0"][cellpadding="0"]:first-child
-plz-postleitzahl.de##td[valign="top"][style="padding-left: 15px;"] > table[width="250"][cellspacing="0"][cellpadding="0"]:first-child
 pnp.de##.em_cnt_ad_hinweis
 pnp.de##.em_cnt_ad_hinweis + div
 pocketpc.ch###post_
@@ -1417,7 +1412,6 @@ preisvergleich.de##.adswsk
 premiumpresse.de##.cBannerTop
 pressakey.com##div[style="width:260px;height:310px;background-image:url(gfximg/rnavi_w3.jpg);"]
 presseecho.de###newsbanner
-presseportal.de##div[style="position:fixed;left:980px;top:10px;color:#9B9A9D;font-size:10px"]
 presseportal.de##div[style="position:fixed;left:980px;top:10px;color:#9B9A9D;font-size:10px"]
 preussenspiegel-online.de##.bannerright
 preussenspiegel-online.de##.fullbanner
@@ -1533,7 +1527,6 @@ sb.sbsb.cc###mediaget_box
 sb.sbsb.cc##a[href="/download.php"]
 sb.sbsb.cc##a[href="download.php"]
 sb.sbsb.cc##a[href="http://sb.sbsb.cc/download.php"]
-sb.sbsb.cc##form[action^="http://www.seitensprung.ag/?id="]
 sb.sbsb.cc##form[action^="http://www.seitensprung.ag/?id="]
 sbb.ch##.btn_promo
 sbb.ch##img[alt="Halbtax mit Gratis-Kreditkarte."]
