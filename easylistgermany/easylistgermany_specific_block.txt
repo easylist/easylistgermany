@@ -731,6 +731,7 @@
 ||quoka.de/qpc/xmlsearch.php?$script
 ||quoka.de/qpc/xmlsearch.php?view=*&partner=$script
 ||quoka.de/services/get_json.php?jsonurl=http%3a%2f%2fwww.mirago.de%2ffeed.json.ashx&$xmlhttprequest
+||quoka.de/yaqpc/xmlsearch.php?search=$xmlhttprequest
 ||quoka.de/yaqpc/xmlsearch.php?view=$xmlhttprequest
 ||radio32.ch/pages/dyn/*/header.cfm|$subdocument
 ||radio32.ch^*/banner/
