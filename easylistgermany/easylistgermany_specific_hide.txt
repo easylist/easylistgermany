@@ -618,6 +618,7 @@ filefox.in##input[onclick^="window.open('http://filefox.in/highspeed_mirror/"]
 filmeforum.com##.banner
 filmz.de###m > div[style="left:16px;width:468px;overflow:hidden"] + .p[style="left:4px;width:492px;height:262px"]:last-child
 filsh.net##.advert + .notification
+finanzen.net###banner
 finanzen.net###bs_abstand
 finanztreff.de##a[href^="adclick.htn?b="]
 flashforum.de###ffPartner
