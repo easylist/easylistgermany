@@ -188,7 +188,7 @@
 @@||wodas.wetteronline.de/static/womfkts.js
 @@||xara.hse24.de^*/hse_videoplayer.swf
 ! Anti-Adblock
-@@|http://$xmlhttprequest,domain=adamski.tv|hubbahotel.ws|otr.knoffl.com|streammafia.tv
+@@|http://$xmlhttprequest,domain=adamski.tv|hubbahotel.ws|streammafia.tv
 @@||4fuckr.com^*/adframe.js
 @@||adamski.clan.su^$image
 @@||adamski.tv^$elemhide,image
@@ -203,12 +203,10 @@
 @@||david-forum.de/advertisement.css
 @@||die-schnelle-kuh.de^$script
 @@||doubleclick.net/ad/clipfish.smartclip/;sz=$object-subrequest,domain=clipfish.de
-@@||downloadstube.net^*/adframe.js
 @@||eltern-zentrum.de^*/werbung.jpg
 @@||exchangecash.de/layer-*.js|$domain=mines.oprojekt.net
 @@||free-klingeltoene-handy.de/adframe.js
 @@||free-otr.de^*/adcode.js
-@@||g-stream.in^*/adcode.html$script
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
 @@||goolive.de/adframe.js
 @@||habbo.com^*?*&$image,domain=hubbahotel.ws
@@ -231,17 +229,11 @@
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onvertise.com/images/*?$image,domain=hubbahotel.ws
-@@||otr.knoffl.com/images/$image
-@@||otr.knoffl.com^*/adcode.js
-@@||otr.trixz.de^*/adcode.js
-@@||otrking.com/adimages/$subdocument
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=e-bol.net|hubbahotel.ws|lablue.at|lablue.ch|lablue.de|lohn-info.de|otrzone.de
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=e-bol.net
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=e-bol.net|hubbahotel.ws|lablue.at|lablue.ch|lablue.de|lohn-info.de|otrzone.de
-@@||pica.in^$document,image,domain=otr.knoffl.com
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||qtom.tv^*/adframe.js
-@@||rtl-now.rtl.de/img/ads/ad.js
 @@||streamcity.no-ip.org^$script
 @@||streammafia.tv/themes/ambient/images/$image
 @@||streammafia.tv^$elemhide
