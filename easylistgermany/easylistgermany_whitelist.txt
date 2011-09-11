@@ -188,7 +188,7 @@
 @@||wodas.wetteronline.de/static/womfkts.js
 @@||xara.hse24.de^*/hse_videoplayer.swf
 ! Anti-Adblock
-@@|http://$xmlhttprequest,domain=adamski.tv|easy-otr.de|hubbahotel.ws|otr.knoffl.com|streammafia.tv
+@@|http://$xmlhttprequest,domain=adamski.tv|hubbahotel.ws|otr.knoffl.com|streammafia.tv
 @@||4fuckr.com^*/adframe.js
 @@||adamski.clan.su^$image
 @@||adamski.tv^$elemhide,image
@@ -204,8 +204,6 @@
 @@||die-schnelle-kuh.de^$script
 @@||doubleclick.net/ad/clipfish.smartclip/;sz=$object-subrequest,domain=clipfish.de
 @@||downloadstube.net^*/adframe.js
-@@||easy-otr.de/images/$image
-@@||easy-otr.de^$elemhide
 @@||eltern-zentrum.de^*/werbung.jpg
 @@||exchangecash.de/layer-*.js|$domain=mines.oprojekt.net
 @@||free-klingeltoene-handy.de/adframe.js
