@@ -1913,6 +1913,7 @@ volksfreund.de###Rectangle
 volksfreund.de###RectangleOMS
 volksfreund.de##.superbanner
 vox.de##.rectangel
+vox.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
 voxnow.de##a[href^="/tools/count/xdot/count.php?id="]
 voxnow.de##div[onclick^="window.open('/tools/count/xdot/count.php?id="]
 walliserbote.ch##.ban-img
