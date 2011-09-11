@@ -637,7 +637,7 @@ focus.de##.ps-redAnzeige
 fohlen-hautnah.de###banner_oben
 forendienst.de###dropin
 forenhoster.net##table[width="728"][height="90"]
-forum.jswelt.de###posts > div.postbit
+forum.jswelt.de###posts > .postbit
 forum.worldofplayers.de###banner
 fr-online.de###kalaydo
 fr-online.de##.Anzeige
@@ -852,7 +852,7 @@ heise.de##.online-markt
 heise.de##.sponsor
 heise.de##.teaser_ebook
 heise.de##.teaser_geizhals
-heise.de##heisetext > table.img[width="100%"]
+heise.de##heisetext > .img[width="100%"]
 heise.de##td[align="left"][valign="top"][rowspan="5"]
 herold.at###fsb > a > img[width="468"]
 herold.at###loveat
@@ -952,7 +952,7 @@ jobrapido.de###modalDialog[style="display: block; top: 355.5px; left: 686.5px;"]
 jokermovie.org##a[href^="http://www.filesonic.com/referral/"]
 jokermovie.org##input[onclick^="window.open('http://www.FriendlyDuck.com/AF_"]
 jokermovie.org##tr:first-child:last-child > td[width="644"][align="CENTER"]:first-child:last-child > center:first-child:last-child
-jswelt.de##div[id^="edit"]:first-child:last-child > div.spacer:last-child
+jswelt.de##div[id^="edit"]:first-child:last-child > .spacer:last-child
 jungefreiheit.de###topBanner
 justload.org##a[href^="http://tinyurl.com"]
 justload.org##a[href^="http://www.share-online.biz/affiliate/"]
@@ -1514,7 +1514,7 @@ ruhrnachrichten.de##.digitaleAnzeigen
 rund-magazin.de###bigsizebanner
 rundschau-online.de##.BoxAnzeige
 rundschau-online.de##.BoxContentPosAnzeige
-rundumkoeln.de##div[align="center"] > a#top[name="top"]:first-child + table[border="0"]:last-child
+rundumkoeln.de##div[align="center"] > #top[name="top"]:first-child + table[border="0"]:last-child
 russland.ru##.werbung_01[valign="top"][align="left"]
 russland.tv##.werbung_01[valign="top"][align="right"]
 saarbruecker-zeitung.de##.anzeige
