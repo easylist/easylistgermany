@@ -188,7 +188,7 @@
 @@||wodas.wetteronline.de/static/womfkts.js
 @@||xara.hse24.de^*/hse_videoplayer.swf
 ! Anti-Adblock
-@@|http://$xmlhttprequest,domain=adamski.tv|hubbahotel.ws|streammafia.tv
+@@|http://$xmlhttprequest,domain=adamski.tv|hubbahotel.ws|otrworld.at|streammafia.tv
 @@||4fuckr.com^*/adframe.js
 @@||adamski.clan.su^$image
 @@||adamski.tv^$elemhide,image
@@ -229,11 +229,13 @@
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onvertise.com/images/*?$image,domain=hubbahotel.ws
+@@||otrworld.at^$elemhide,image,script
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=e-bol.net|hubbahotel.ws|lablue.at|lablue.ch|lablue.de|lohn-info.de|otrzone.de
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=e-bol.net
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=e-bol.net|hubbahotel.ws|lablue.at|lablue.ch|lablue.de|lohn-info.de|otrzone.de
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||qtom.tv^*/adframe.js
+@@||sponsorads.de/script.php?s=$script,domain=otrworld.at
 @@||streamcity.no-ip.org^$script
 @@||streammafia.tv/themes/ambient/images/$image
 @@||streammafia.tv^$elemhide
