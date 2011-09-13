@@ -213,9 +213,7 @@
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
 @@||goolive.de/adframe.js
 @@||habbo.com^*?*&$image,domain=hubbahotel.ws
-@@||hubbahotel.ws/images/$image
-@@||hubbahotel.ws^$elemhide
-@@||hubbahotel.ws^*?*&$image
+@@||hubbahotel.ws^$elemhide,image
 @@||kaufn.com/banner/ads/adserver/click/ad.js
 @@||lablue.at^$elemhide,script
 @@||lablue.ch^$elemhide,script
