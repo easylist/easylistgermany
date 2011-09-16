@@ -1543,6 +1543,8 @@ saugzone.info##center > a[style="font-size: 15px; color: 185AC3; text-decoration
 saugzone.info##input[onclick^="window.open('http://saugzone.info/usenet/"]
 saugzone.info##input[onclick^="window.open('http://tinyurl.com/"]
 saugzone.info##input[onclick^="window.open('http://www.friendlyduck.com/AF_"]
+saugzone.org###popover
+saugzone.org##input[onclick^="window.open('http://www.friendlyduck.com/AF_"]
 saz-aktuell.com###bannertop
 saz-aktuell.com##.textadul
 sb.sbsb.cc###infobar
