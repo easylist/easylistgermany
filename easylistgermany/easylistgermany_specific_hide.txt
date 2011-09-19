@@ -1676,7 +1676,9 @@ sourcejunkies.de###page:first-child:last-child > div[id]:first-child
 sourcejunkies.de##a[target="_blank"][href^="redirect/"]
 speedload.to##a[href^="http://snipurl.com"]
 speedload.to##a[href^="http://tiny.cc"]
+speedlounge.in##.rightbox
 speedlounge.in##a[href="usenet"]
+speedlounge.in##a[href^="/go/"]
 speedshare.org##a[href^="http://www.speedshare.org/ads"]
 spektrumdirekt.de##div[style="height:90px;"]:first-child:last-child
 spiegelfechter.com##.parship
