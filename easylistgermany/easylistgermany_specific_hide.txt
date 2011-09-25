@@ -1763,6 +1763,7 @@ stylebook.de##.afc
 stylebook.de##.rectangle
 stz-online.de##.superbanner
 suche.freenet.de##.frn_kapsel
+suchen.de##a[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 suchen.de##div[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 suchen.de##div[onclick^="window.open('http://www.suchen.de/ad?"]
 sueddeutsche.de##.ad
