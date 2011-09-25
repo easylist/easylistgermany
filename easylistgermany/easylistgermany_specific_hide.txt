@@ -814,6 +814,7 @@ guru-world.net##.entry > strong + a
 guru-world.net##div[style="font-weight:bold;color: #FF0000;font-size: 15px;padding-bottom:8px;"]
 gutefrage.net###poweredBy
 gwarez.cc##.whitelink
+gwarez.cc##a[href^="http://netload.in/index.php?refer_id="]
 hamm2night.de##div[style="width:300px; height:250px; margin:22px 12px; float:left;"]
 hamm2night.de##tr:last-child > td[style="padding-left:9px;"][colspan="2"]:first-child:last-child
 handelsblatt.com###iqadtile5
