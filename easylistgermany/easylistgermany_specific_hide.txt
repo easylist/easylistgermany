@@ -1695,6 +1695,7 @@ speedload.to##a[href^="http://tiny.cc"]
 speedlounge.in##.rightbox
 speedlounge.in##a[href="usenet"]
 speedlounge.in##a[href^="/go/"]
+speedlounge.in##a[href^="/to/"]
 speedshare.org##a[href^="http://www.speedshare.org/ads"]
 spektrumdirekt.de##div[style="height:90px;"]:first-child:last-child
 spiegelfechter.com##.parship
