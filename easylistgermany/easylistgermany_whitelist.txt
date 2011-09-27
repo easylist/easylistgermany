@@ -218,6 +218,7 @@
 @@||google.com/recaptcha/api/$image,domain=hubbahotel.ws
 @@||googleads.g.doubleclick.net/pagead/imgad?id=$image,domain=hubbahotel.ws
 @@||goolive.de/adframe.js
+@@||gw.zro.co^$image,domain=hubbahotel.ws
 @@||habbo.com^*?*&$image,domain=hubbahotel.ws
 @@||hubbahotel.ws^$elemhide,image
 @@||kaufn.com/banner/ads/adserver/click/ad.js
