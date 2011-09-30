@@ -1715,10 +1715,13 @@ sourcejunkies.de###page:first-child:last-child > div[id]:first-child
 sourcejunkies.de##a[target="_blank"][href^="redirect/"]
 speedload.to##a[href^="http://snipurl.com"]
 speedload.to##a[href^="http://tiny.cc"]
+speedlounge.in##.content > center > hr[width="100%"] + a
 speedlounge.in##.rightbox
+speedlounge.in##.rightcontent
 speedlounge.in##a[href="usenet"]
 speedlounge.in##a[href^="/go/"]
 speedlounge.in##a[href^="/to/"]
+speedlounge.in##a[target="_blank"][href^="/download/"]
 speedshare.org##a[href^="http://www.speedshare.org/ads"]
 spektrumdirekt.de##div[style="height:90px;"]:first-child:last-child
 spiegelfechter.com##.parship
