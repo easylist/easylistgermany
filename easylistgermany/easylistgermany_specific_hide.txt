@@ -1721,6 +1721,7 @@ sound-load.net##a[href^="http://duckme.notlong.com"]
 sound-load.net##a[href^="http://uploaded.to/ref?id="]
 sound-load.net##input[onclick*="window.open('http://www.FriendlyDuck.com/AF_"]
 sound-load.net##input[onclick^="window.open('http://uploaded.to/ref?id="]
+sound.to###mediaget_box
 sourcejunkies.de###banner
 sourcejunkies.de###banner_top
 sourcejunkies.de###header > #navigation + #logo + div:last-child
