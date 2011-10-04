@@ -842,9 +842,11 @@ handy-hilfeforum.de##a[href^="http://adfarm.adyard.de/ad/"]
 handy-player.de##.bannerbox
 handykino.info##a[href^="http://ul.to/ref/"]
 hardbase.fm###Banner
+hardcoremetal.biz##a[href="http://hardcoremetal.biz/usenet/"]
 hardcoremetal.biz##a[href^="http://ul.to/ref/"]
 hardcoremetal.biz##a[href^="http://uploaded.to/ref?id="]
 hardcoremetal.biz##a[href^="http://x7.to/foyer/"]
+hardcoremetal.biz##input[onclick^="window.open('http://hardcoremetal.biz/usenet/"]
 hardcoremetal.biz##input[onclick^="window.open('http://www.FriendlyDuck.com/AF_"]
 hardware-experten.de###dailybanner
 hardware-infos.com##.bannerContainer
