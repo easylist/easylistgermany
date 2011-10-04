@@ -78,9 +78,11 @@
 ||eis.de/shop/images/banner/$third-party
 ||eliado.com/banner/$third-party
 ||emion-gmbh.de/banner/$third-party
+||emoluder.com/index.php?ref=$third-party
 ||enforcer-shop.de/banner/
 ||erotik1.de^*.html?ifw=*&ifh=$subdocument,third-party
 ||erotikdating.com/geoip.php?$subdocument,third-party
+||erwischtegirls.com/index.php?ref=$third-party
 ||escortkartei.com/banner/$third-party
 ||eteleon.de/partner/$third-party,domain=~facebook.com
 ||eteleon.de/partnerprogramm/$third-party
@@ -99,6 +101,7 @@
 ||fs-location.de/img/partner/
 ||fuckshow.org^$subdocument,third-party
 ||gay-thailand.de^*/gay-thailand468x60.gif
+||geilefreundin.com/index.php?ref=$third-party
 ||geilelivecams.net/hsa/$third-party
 ||geobanner.germanfriendfinder.com^$third-party
 ||getdigital.de/banner/$third-party
@@ -232,6 +235,7 @@
 ||prepaid-fakten.de/go/webnapping/$third-party
 ||primusportal.de/banner/$third-party
 ||privat-akt.com^*/banner/$third-party
+||privatamateure.com/?wmid=*&program=$third-party
 ||privathobby.com^$third-party
 ||probefahrten.cc/campaigns/$third-party
 ||probefahrten.cc^*?subid=$subdocument,third-party
