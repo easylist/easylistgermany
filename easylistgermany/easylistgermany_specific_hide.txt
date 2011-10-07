@@ -230,6 +230,7 @@ bild.de##a[href^="/spiele/deutschland-spielt-kostenlos/download-spiele/kostenlos
 bild.de##a[href^="/unterhaltung/kino/film/seite-"] > .photo
 bild.de##a[href^="/unterhaltung/kino/film/trailerquiz-"] > img
 bild.de##a[href^="/unterhaltung/kino/kino/gewinnspiel-"] > .photo
+bild.de##a[href^="/unterhaltung/musik/anzeige/"]
 bild.de##a[href^="http://clk.atdmt.com/"]
 bild.de##a[href^="http://fotoservice.bild.de"]
 bild.de##a[href^="http://friendscout24.bild.de"]
