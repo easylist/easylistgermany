@@ -201,7 +201,7 @@
 @@||wodas.wetteronline.de/static/womfkts.js
 @@||xara.hse24.de^*/hse_videoplayer.swf
 ! Anti-Adblock
-@@|http://$xmlhttprequest,domain=adamski.tv|hubbahotel.ws|otrworld.at|streammafia.tv
+@@|http://$xmlhttprequest,domain=adamski.tv|hubbahotel.ws|otrworld.at
 @@||4fuckr.com^*/adframe.js
 @@||adamski.clan.su^$image
 @@||adamski.tv^$elemhide,image
@@ -248,8 +248,6 @@
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||qtom.tv^*/adframe.js
 @@||sponsorads.de/script.php?s=$script,domain=otrworld.at
-@@||streammafia.tv/themes/ambient/images/$image
-@@||streammafia.tv^$elemhide
 @@||super-otr.de/inc/js/phpads/sponsorad.js
 @@||ttads.de/www/delivery/click.js
 @@||view.binlayer.com/ad-*.js$script,domain=die-schnelle-kuh.de|photoguide.pytalhost.net|super-otr.de
