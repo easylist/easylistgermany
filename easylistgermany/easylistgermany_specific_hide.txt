@@ -226,6 +226,7 @@ bild.de##a[href="http://www.videobuster.de/bild/"]
 bild.de##a[href="http://www.videobuster.de/bild/"] + .mark
 bild.de##a[href="https://bild.bewerbung.de"]
 bild.de##a[href="https://bild.bewerbung.de"] + .mark
+bild.de##a[href^="/gewinnspiele/movieman/"]
 bild.de##a[href^="/spiele/deutschland-spielt-kostenlos/download-spiele/kostenlos-spielen-"] > .photo
 bild.de##a[href^="/unterhaltung/kino/film/seite-"] > .photo
 bild.de##a[href^="/unterhaltung/kino/film/trailerquiz-"] > img
