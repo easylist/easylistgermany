@@ -353,6 +353,7 @@ chip.de###top-banner
 chip.de##.anzeigeimage
 chip.de##.bullet-partner
 cine.to##form[action^="http://www.firstload.de/affiliate/"]
+cine24.tv##a[href^="http://bit.ly/"]
 cine24.tv##a[href^="http://tinyurl.com/"]
 cine24.tv##a[href^="http://www.firstload.de/index.php?log="]
 cine24.tv##td[style=" width:140px; padding:5px; vertical-align:top "]
