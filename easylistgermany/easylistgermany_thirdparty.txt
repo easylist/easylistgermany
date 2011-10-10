@@ -18,6 +18,7 @@
 ||alfahosting.org/forum/f_bild/ban-kopf-
 ||all-inkl.com^*/banner/$third-party
 ||amadeal.de/banner/$third-party
+||amateurseite.com^$image,~image,popup
 ||anitoplist.de^$third-party
 ||appscene.de/time/$third-party
 ||ashop.tv/ebay/$third-party
@@ -39,6 +40,7 @@
 ||bn.gewinn24.de^
 ||bn.profiwin.de^$third-party
 ||bodyguardapotheke.com^*/banner/
+||boerse.bz/toplist/vote/$image,~image,popup
 ||boerse.bz/toplist/vote/$third-party
 ||boerse.bz^*/banners/$third-party
 ||boxen1.com^*/jessica1.jpg
@@ -248,6 +250,7 @@
 ||px24.com/promotion/$third-party
 ||qooia.com/interstitial/$third-party
 ||raenox.com/vote/$third-party
+||raidrush.ws/vote/$image,~image,popup
 ||ranklist.us/in.php$third-party
 ||rapidflat.com/?a=$third-party
 ||red-stripe-beer.de/arnold.jpgbanner/
@@ -270,6 +273,7 @@
 ||skyfillers.com^*/banner/$third-party
 ||slapped.de^*/banner/$third-party
 ||slimm.de^$subdocument
+||slimtrade.com/out.php?$image,~image,popup
 ||slotkings.de/img/banner/$third-party
 ||smoketown.de/banner/$third-party
 ||sms4fans.de/img/banner$third-party
@@ -346,6 +350,7 @@
 ||wm-space.youero.com^
 ||woom.ws/banner/
 ||woz.to/banners/$third-party
+||woz.to/vote/$image,~image,popup
 ||woz.to/vote/$third-party
 ||wpseo.de^*/banner/$third-party
 ||wurzelimperium.de/banner/
