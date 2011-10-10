@@ -1,4 +1,3 @@
-|http:$image,~image,popup,third-party,domain=hd-planet.org
 ||0815sms.com^*/doku-de-de.php
 ||188.165.201.228^$domain=protector.to
 ||1dl.in/layer/
@@ -1124,3 +1123,5 @@
 ||zumlink.de/public/images/banner/
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
+! Popups
+|http:$image,~image,popup,third-party,domain=hd-planet.org
