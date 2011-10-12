@@ -914,8 +914,10 @@ hoerbuch.in###post-12447
 hoerbuch.in###post-13049
 hoerbuch.in###post-15796
 hoerbuch.in###post-17929
+hoerbuch.in###post-19319
 hoerbuch.in###warning
 hoerbuch.in##a[href*="http://www.firstload.de/affiliate/"]
+hoerbuch.in##a[href^="http://hoerbuch.in/wp/tipp/"]
 hoerbuch.in##a[target="_blank"] > img[border="0"][src^="http://picload.org/image/"]
 hoerbuch.in##a[target="_blank"] > img[border="0"][src^="http://pictrade.info/img/"]
 hoerbuch.in##a[target="_blank"][href*="tinyurl.com/"]
