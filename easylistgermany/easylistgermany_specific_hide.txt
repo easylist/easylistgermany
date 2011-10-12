@@ -1224,6 +1224,7 @@ movie-blog.org##a[href="http://www.movie-blog.org/aktuelle-kinofilme.html"]
 movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://tinyurl.com/"]
 movie-blog.org##a[href^="http://www.mydownloader.net/pr/"]
+movie2k.to##body > style[id] + div[id]:nth-child(n+13)
 movie7.me##.dloadBtn
 moviebox.to##a[href="http://moviebox.to/download/?"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
