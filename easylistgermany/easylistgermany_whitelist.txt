@@ -101,7 +101,7 @@
 @@||gamersplus.de/images/branding/*_header.
 @@||gamersplus.de/images/branding/*_header_
 @@||games.tfag.de^$domain=fitforfun.de
-@@||gfsrv.net/ad/*.js$domain=ogame.de
+@@||gfsrv.net/ad/$domain=ogame.de
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.de/search?q=$xmlhttprequest
 @@||handelshof.de/media/files/anzeige_html/*/werbung_
