@@ -223,9 +223,11 @@
 @@||feed-reader.net/adsense.js
 @@||free-klingeltoene-handy.de/adframe.js
 @@||free-otr.de^*/adcode.js
+@@||g.doubleclick.net/gampad/ads?$domain=news.feed-reader.net
+@@||g.doubleclick.net/gampad/google_ads.js$domain=news.feed-reader.net
+@@||g.doubleclick.net/pagead/imgad?id=$image,domain=hubbahotel.ws
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
 @@||google.com/recaptcha/api/$image,domain=hubbahotel.ws
-@@||googleads.g.doubleclick.net/pagead/imgad?id=$image,domain=hubbahotel.ws
 @@||goolive.de/adframe.js
 @@||goolive.de/getads.js
 @@||gw.zro.co^$image,domain=hubbahotel.ws
@@ -255,7 +257,6 @@
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=news.feed-reader.net
 @@||partner.googleadservices.com/gampad/google_service.js$domain=news.feed-reader.net
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
-@@||pubads.g.doubleclick.net/gampad/ads?$script,domain=news.feed-reader.net
 @@||qtom.tv^*/adframe.js
 @@||sponsorads.de/script.php?s=$script,domain=otrworld.at
 @@||super-otr.de/inc/js/phpads/sponsorad.js
