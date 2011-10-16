@@ -218,9 +218,7 @@
 @@||die-schnelle-kuh.de^$script
 @@||doubleclick.net/ad/clipfish.smartclip/;sz=$object-subrequest,domain=clipfish.de
 @@||eltern-zentrum.de^*/werbung.jpg
-@@||feed-reader.net/adframe.js
-@@||feed-reader.net/ads_*.js
-@@||feed-reader.net/adsense.js
+@@||feed-reader.net^$script
 @@||free-klingeltoene-handy.de/adframe.js
 @@||free-otr.de^*/adcode.js
 @@||g.doubleclick.net/gampad/ads?$domain=news.feed-reader.net
