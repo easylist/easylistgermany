@@ -646,6 +646,8 @@ fernsehlounge.de##.sidebanner
 fettrap.com###gonamicerror
 fettrap.com##a[href^="http://fettrap.com/highspeed/"]
 fettrap.com##input[onclick^="window.open('http://fettrap.com/highspeed/"]
+fettspielen.de###banner
+fettspielen.de##a[href^="http://ads2.fettspielen.de"]
 ff-online.com###banner
 filefox.in##a[href^="http://filefox.in/highspeed_download/"]
 filefox.in##a[href^="http://filefox.in/highspeed_mirror/"]
