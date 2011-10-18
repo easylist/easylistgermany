@@ -203,6 +203,7 @@
 @@||wodas.wetteronline.de/static/womfkts.js
 @@||xara.hse24.de^*/hse_videoplayer.swf
 ! Anti-Adblock
+@@/werbung/$script,domain=news.feed-reader.net
 @@|http://$xmlhttprequest,domain=adamski.tv|hubbahotel.ws|otrworld.at
 @@||4fuckr.com^*/adframe.js
 @@||adamski.clan.su^$image
