@@ -956,16 +956,6 @@ housetime.fm###Banner
 html-world.de##div[style="border:1px solid #8EC1CF; padding:3px; margin:0px; background-color:white;"]
 html-world.de##div[style="width:300px; height:250px; "]
 htwk-leipzig.de##a[href*="/adclick.php?"]
-hubbahotel.org##a[id] + style + div:last-child
-hubbahotel.org##div + div + style + div[id]:last-child
-hubbahotel.org##div + style + div[id]:last-child
-hubbahotel.org##div[id] + div + style + div[id]:last-child
-hubbahotel.org##div[style*="background: url(\"data:image/gif;base64,"]
-hubbahotel.org##div[style*="background: url(\"http://gw.zro.co/"]
-hubbahotel.org##div[style*="background: url(\"http://gw.zro.co/"] + div:last-child
-hubbahotel.org##div[style*="background: url(\"http://gw.zro.co/02d87500X/1.gif\")"]
-hubbahotel.org##div[style^="background-color:#9900"]
-hubbahotel.org##div[style^="background:#9900"]
 hubbahotel.ws##body > style[id] + div[id]:nth-child(n+13)
 i-have-a-dreambox.com##a[href="https://www.satplace.de"]
 ibash.de##.partner
