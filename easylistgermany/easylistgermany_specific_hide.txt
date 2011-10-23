@@ -1134,6 +1134,7 @@ loads7.com##a[href^="http://www.adcell.de/click.php"]
 loads7.com##input[onclick^="window.open('http://fil7.com/pub"]
 loads7.com##input[onclick^="window.open('http://loads7.com/pub1."]
 loads7.com##input[onclick^="window.open('http://www.FriendlyDuck.com/AF_"]
+loadsieben.org##table[cellspacing="0"][cellpadding="5"][border="0"] > tbody > tr:first-child:last-child > td:first-child + td + td[align="right"]:last-child
 lof.cc##.button[onclick^="window.open('http://www.freepremium.de/"]
 lof.cc##a[href^="http://ul.to/ref/"]
 lokalisten.de###logOutCon3
