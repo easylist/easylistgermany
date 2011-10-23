@@ -141,6 +141,7 @@ areadvd.de##td[width="200"][valign="top"][height="1"][rowspan="3"]
 asia-load.org##a[href^="http://www.asia-load.org/out.php?p=75&url=http://www.firstload.de/affiliate/"]
 ati-forum.de##.aktionsflaeche
 atomload.at##input[onclick*="window.open('http://www.globalvpn.net/?glvref="]
+atomload.at##input[onclick^="window.open('http://atomload.at/out.php"]
 atv.at##.content_rectangle
 au-ja.de##.advframe
 au-ja.de##.headADB
