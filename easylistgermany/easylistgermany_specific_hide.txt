@@ -1849,6 +1849,7 @@ stayfriends.de##form[action^="http://www.stayfriends.de/tracking/linkcounter.php
 stealth.to##input[value="Mirror"]
 steelwarez.com###error > div[style="margin-left:25px; margin-top:2px;"]
 steelwarez.com###mediaget_box
+steelwarez.com###popover
 steelwarez.com##a[href="http://pirat.to"]
 steelwarez.com##a[href="http://steelwarez.com/?out=usenext.de"]
 steelwarez.com##a[href^="http://tinyurl.com/"]
