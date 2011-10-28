@@ -215,7 +215,7 @@
 @@||adamski.clan.su^$image
 @@||adamski.tv^$elemhide,image
 @@||adhs-zentrum.de^*/werbung1.jpg
-@@||alle-news.com^$script,domain=news.feed-reader.net
+@@||alle-news.com^$image,script,domain=news.feed-reader.net
 @@||betreut-wohnen.de/adserver/ad.js
 @@||boardking.de^*/adframe.js
 @@||chat.lycos.de/adimages/$subdocument
@@ -226,11 +226,8 @@
 @@||die-schnelle-kuh.de^$script
 @@||doubleclick.net/ad/clipfish.smartclip/;sz=$object-subrequest,domain=clipfish.de
 @@||eltern-zentrum.de^*/werbung.jpg
-@@||feed-reader.net^$script
 @@||free-klingeltoene-handy.de/adframe.js
 @@||free-otr.de^*/adcode.js
-@@||g.doubleclick.net/gampad/ads?$domain=news.feed-reader.net
-@@||g.doubleclick.net/gampad/google_ads.js$domain=news.feed-reader.net
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
 @@||goolive.de/adframe.js
 @@||goolive.de/getads.js
@@ -244,7 +241,7 @@
 @@||mypolonia.de^*/adframe.js
 @@||n-roms.de/adframe.js
 @@||news.feed-reader.net/adimages/$subdocument
-@@||news.feed-reader.net^$elemhide,image
+@@||news.feed-reader.net^$elemhide,image,script
 @@||nuggad.net/bk?*&nuggtg=de_putpattv_music&$object-subrequest,domain=putpat.tv
 @@||nuggad.net/crossdomain.xml$object-subrequest,domain=putpat.tv
 @@||online-schauen.com/adframe.js
@@ -252,11 +249,9 @@
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||otrworld.at^$elemhide,image,script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=e-bol.net|lablue.at|lablue.ch|lablue.de|lohn-info.de|mines.oprojekt.net|news.feed-reader.net|onlineberatung-therapie.de|risiko-gesundheit.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=e-bol.net|lablue.at|lablue.ch|lablue.de|lohn-info.de|mines.oprojekt.net|onlineberatung-therapie.de|risiko-gesundheit.de
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=e-bol.net
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=e-bol.net|lablue.at|lablue.ch|lablue.de|lohn-info.de|mines.oprojekt.net|news.feed-reader.net|onlineberatung-therapie.de|risiko-gesundheit.de
-@@||partner.googleadservices.com/gampad/google_ads.js$domain=news.feed-reader.net
-@@||partner.googleadservices.com/gampad/google_service.js$domain=news.feed-reader.net
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=e-bol.net|lablue.at|lablue.ch|lablue.de|lohn-info.de|mines.oprojekt.net|onlineberatung-therapie.de|risiko-gesundheit.de
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||qtom.tv^*/adframe.js
 @@||sponsorads.de/script.php?s=$script,domain=otrworld.at
