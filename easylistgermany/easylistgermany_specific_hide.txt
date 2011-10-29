@@ -1370,6 +1370,7 @@ nrhz.de###banner_left_container_lc
 nutten.to###post-12791
 nutten.to###post-9226
 nutten.to###vote-layer
+nutten.to##a[href^="http://nutten.to/download.php?id="] + br + strong + strong
 nutten.to##a[href^="http://tinyurl.com/"]
 nutten.to##form[action^="http://tinyurl.com/"]
 nwzonline.de##.anzeige
