@@ -781,6 +781,7 @@ gamers.at##.networkbanner + script + a + a
 gamers.at##a[href^="http://ad.perfectworld.eu/"]
 gamers.at##a[href^="http://ads2.krawall.de"]
 gamers.at##a[href^="http://adsfac.eu/link.asp"]
+gamers.de##div[id^="click"]
 gamersglobal.de###ahoz
 gamersglobal.de###arb
 gamersglobal.de##.artikel-cad
