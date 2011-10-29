@@ -162,10 +162,9 @@
 @@||smart2.allocine.fr/call2/pubjall/*?$script,domain=filmstarts.de
 @@||smart2.allocine.fr/call2/pubjallnc/*?$script,domain=filmstarts.de
 @@||smartadserver.com/a/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
+@@||smartadserver.com/call/pubj/*/s/$script,domain=freestream.nmdn.net
 @@||smartadserver.com/call/pubj/*_index)/$script,domain=welt.de
-@@||smartadserver.com/call/pubj/176*/*/788*/s/$script,domain=freestream.nmdn.net
 @@||smartadserver.com/call/pubj/177*/*/788*/s/$script,domain=edge.download.newmedia.nacamar.net
-@@||smartadserver.com/call/pubj/24609/166193/78*/s/$script,domain=freestream.nmdn.net
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=syfy.de
 @@||smartadserver.com/def/def/showdef.asp|$script,domain=welt.de
 @@||smartadserver.com/diff/*/smartad.js|$domain=welt.de
