@@ -449,9 +449,11 @@ ddl-warez.in##a[href^="http://ul.to/ref/"]
 ddl-warez.in##input[onclick^="javascript:window.open('http://www.FriendlyDuck.com/AF_"]
 ddl-world.ws###sidebar > div[id^="text-"]
 ddl-world.ws###text-4
+ddl-world.ws##.widget_text
 ddl-world.ws##a[href^="http://bit.ly/"]
 ddl-world.ws##a[href^="http://goo.gl/"]
 ddl-world.ws##a[href^="http://ul.to/ref/"]
+ddl-world.ws##div[id][class]:last-child > div[id][class]:last-child > div[id]:first-child:last-child
 ddlporn.org###vote_9load
 ddlporn.org##a[href^="http://www.raenox.com/vote/"]
 ddlporn.org##input[value="Highspeed Mirror"]
