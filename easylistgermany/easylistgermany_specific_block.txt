@@ -411,6 +411,7 @@
 ||germanscooterforum.de/bannermanagement/
 ||geschenke.de/banner/
 ||gesichtskirmes.net/deal.php
+||gesichtskirmes.net^*.php|$script
 ||giessener-allgemeine.de/cms_media/module_wb/$object
 ||gigagfx.de^*/blocker_alternative/$domain=giga.de
 ||goastro.de/popup_chat/
