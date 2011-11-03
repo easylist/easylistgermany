@@ -1122,8 +1122,11 @@ lesen.to###post-2199
 lesen.to###post-27843
 lesen.to##.eintrag_dowload0_link
 lesen.to##a[href^="http://lesen.to/wp/tipp/"]
+lesen.to##a[href^="http://www.bluray-deals.com"]
 lesen.to##center > font[face="Verdana"][size="1"]:last-child > a[title][target="_blank"]
 lesen.to##form[action^="http://www.firstload.de/affiliate/"]
+lesen.to##img[height="60"][width="468"]
+lesen.to##table[cellpadding="0"][bgcolor="#FFFFFF"][style="width: 750px;"] > tbody > tr > td > center:first-child > a[target="_blank"] > img
 lesen.to##td > center:first-child:last-child > a[target="_blank"] > img
 lingostudy.de##.psw_banner
 linguee.de###banner_top
