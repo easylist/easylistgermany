@@ -79,6 +79,7 @@ adhs-zentrum.de###a4d1af + div
 adhs-zentrum.de##.Text[width="100%"][valign="top"] + td[valign="top"]:last-child
 adhs-zentrum.de##.text[align="center"][colspan="6"]:first-child:last-child > p[align="center"]:first-child:last-child
 adhs-zentrum.de##a[href^="http://www.profiseller.de/shop1/index.php3?ps_id="]
+adhs-zentrum.de##table[cellspacing="2"][cellpadding="4"][border="0"][width="200"]:first-child:last-child
 aero.de##.add_balken
 aero.de##div[style="width:326px;padding-bottom:13px;text-align:center;background-color:#f0f0f0;padding-top:3px;"]
 aero.de##tr:first-child > td[style="padding-bottom:5px;height:82px;"]:first-child
