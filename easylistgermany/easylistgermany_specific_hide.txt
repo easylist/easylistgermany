@@ -872,7 +872,6 @@ goldesel.to##div[style="float:left; margin:0px;"] > a
 goldesel.to##div[style="float:left; padding:0; margin:0px;"] > a
 goldesel.to##div[style="margin:0; float:left;"] > a
 goldesel.to##div[style] > div[style] > a[target="_blank"]
-goldesel.to##div[style] > div[style] > div[style] > div[style] > a[target="_self"]
 goldesel.to##div[style] > div[style]:first-child > a[onclick][target][href] > img
 goldesel.to##div[style]:first-child + div[style] > a[onclick][target][href]
 golem.de###iqadtile4gol
