@@ -863,8 +863,8 @@ goettgen.de###GAS_SUBA
 gofeminin.de###af_columnPubLabel
 gofeminin.de##.OffresSpe_cadre
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
+goldesel.to##a[target^="1321137"]
 goldesel.to##div[style] > a[onclick^="window.open('http://goldesel.to/dl/', '"]
-goldesel.to##div[style] > div[class]:first-child + div[style]:last-child > div[class]:first-child:last-child > a[onclick^="window.open('http://goldesel.to/dl/', '"]:first-child
 golem.de###iqadtile4gol
 golem.de##.iqadmarker
 golem.de##a[href^="http://ads.golem.de/"]
