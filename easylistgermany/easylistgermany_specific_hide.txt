@@ -849,6 +849,7 @@ german-foreign-policy.com###ad
 gesichtskirmes.net###layer
 gesund.tv##.boxContent-brands
 getgoods.4teams.de##.commercial
+ggoldesel.to##a[href="http://goldesel.to/dl/"]:first-child > div[style="float:left; padding:0px; margin:0px;"]:first-child + div[style="float:left; padding:0px; margin:0px;"]
 gh.de##.gh_fp
 gh.de##.gh_fp_wide
 gloria.tv###advertisement
@@ -866,8 +867,6 @@ gofeminin.de###af_columnPubLabel
 gofeminin.de##.OffresSpe_cadre
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 goldesel.to##a[target^="1321137"]
-goldesel.to##div[class]:first-child:last-child > a[onclick][target]:first-child > div[style]:first-child + div[style]
-goldesel.to##div[style] > a[onclick^="window.open('http://goldesel.to/dl/', '"]
 goldesel.to##img[src="image/hoster/fix.png"]
 golem.de###iqadtile4gol
 golem.de##.iqadmarker
