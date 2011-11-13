@@ -1840,6 +1840,8 @@ sourcejunkies.de###banner_top
 sourcejunkies.de###header > #navigation + #logo + div:last-child
 sourcejunkies.de###page:first-child:last-child > div[id]:first-child
 sourcejunkies.de##a[target="_blank"][href^="redirect/"]
+sourcejunkies.de##div[style="float: left; height: 90px; width: 728px; margin: 50px 0px 10px 262px; padding: 5px; position: absolute; background: url(http://img.sourcejunkies.de/shadow.png) no-repeat;"]
+sourcejunkies.de##img[height="90"][width="728"]
 speedload.to##a[href^="http://snipurl.com"]
 speedload.to##a[href^="http://tiny.cc"]
 speedlounge.in##.content > center > hr[width="100%"] + a
