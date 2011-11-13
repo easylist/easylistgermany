@@ -864,7 +864,9 @@ gofeminin.de###af_columnPubLabel
 gofeminin.de##.OffresSpe_cadre
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 goldesel.to##a[target^="1321137"]
+goldesel.to##div[class]:first-child:last-child > a[onclick][target]:first-child > div[style]:first-child + div[style]
 goldesel.to##div[style] > a[onclick^="window.open('http://goldesel.to/dl/', '"]
+goldesel.to##img[src="image/hoster/fix.png"]
 golem.de###iqadtile4gol
 golem.de##.iqadmarker
 golem.de##a[href^="http://ads.golem.de/"]
