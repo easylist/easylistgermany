@@ -227,6 +227,7 @@
 @@||david-forum.de/advertisement.css
 @@||die-schnelle-kuh.de^$script
 @@||eltern-zentrum.de^*/werbung.jpg
+@@||feed-reader.net^$elemhide,image,script
 @@||free-klingeltoene-handy.de/adframe.js
 @@||free-otr.de^*/adcode.js
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
@@ -243,7 +244,6 @@
 @@||n-roms.de/adframe.js
 @@||news-reader.info^$image,script,domain=news.feed-reader.net
 @@||news.feed-reader.net/adimages/$subdocument
-@@||news.feed-reader.net^$elemhide,image,script
 @@||nuggad.net/bk?*&nuggtg=de_putpattv_music&$object-subrequest,domain=putpat.tv
 @@||nuggad.net/crossdomain.xml$object-subrequest,domain=putpat.tv
 @@||online-schauen.com/adframe.js
