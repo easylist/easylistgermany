@@ -869,6 +869,7 @@ gofeminin.de###af_columnPubLabel
 gofeminin.de##.OffresSpe_cadre
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 goldesel.to##a[target^="1321137"]
+goldesel.to##a[target^="1321369"]
 goldesel.to##div[class] > a[onclick] > div[style="float:left;"]:first-child + div[style="float:left;"]
 goldesel.to##div[style]:last-child > div[class]:first-child:last-child > a[onclick][target]:first-child > div[style="float:left; padding:0px; margin:0px;"]:first-child + div[style]
 goldesel.to##img[src="image/hoster/adblock.png"]
