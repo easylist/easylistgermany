@@ -72,7 +72,6 @@
 @@||drei.at/moma/adserver/adview.php?$image
 @@||emediate.eu/eas?cu=10422;cre=mu;js=y;target=_blank$script,domain=welt.de
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object-subrequest,domain=mobile.de
-@@||erwachsene-ads.de^$~document,~third-party
 @@||esmnet.com/b64/images/stories/werbung/
 @@||eyewonder.com/crossdomain.xml$object-subrequest,domain=putpat.tv
 @@||eyewonder.com^*/bwtest.swf$object-subrequest,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
@@ -104,7 +103,6 @@
 @@||gfsrv.net/ad/$domain=ogame.de
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.de/search?q=$xmlhttprequest
-@@||gymnasium-august-dicke.de^*/ads-
 @@||gymnasium-august-dicke.de^*/ads/
 @@||handelshof.de/media/files/anzeige_html/*/werbung_
 @@||i.computer-bild.de/imgs/$image,domain=computerbild.de
@@ -119,7 +117,6 @@
 @@||kurier.at^*/ac_oetags_clone.js
 @@||lachschon.de/images/*_werbung.
 @@||landwirt.com/commercials/$object-subrequest
-@@||leben-mit-ads.de^$~document,~third-party
 @@||liberale-hochschulgruppen.de/images/stories/werbemittel/$~third-party
 @@||lovefilm.de/ajax/widgets/advertising/competitions_data.html?$xmlhttprequest
 @@||markt.de^*/advert_search_results.gif
@@ -202,7 +199,6 @@
 @@||werbung-out-of-the-box.de^*wp-content/themes/werbung-$image,script,stylesheet
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
-@@||weser-kurier.de/inc/component/boxes-dmp-*-cached-ads.ajax?$xmlhttprequest
 @@||wetter.com^*/openx_fl.js
 @@||willhaben.apa.net/mmo/logo/advert/$domain=willhaben.at
 @@||wn-immo.de/search.html?*&adtype=
