@@ -199,6 +199,7 @@
 @@||vox-static.liverail.com^*/liverail_preroll.swf$object,domain=jam.fm|paradiso.de
 @@||web-fuxx.de/werbung.php$subdocument
 @@||werbeartikel-aller-art.de/templates/werbung/
+@@||werbung-out-of-the-box.de^*wp-content/themes/werbung-$image,script,stylesheet
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
 @@||weser-kurier.de/inc/component/boxes-dmp-*-cached-ads.ajax?$xmlhttprequest
