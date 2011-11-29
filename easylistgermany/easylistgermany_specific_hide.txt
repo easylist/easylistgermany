@@ -369,16 +369,20 @@ chip.de##.bullet-partner
 chriszim.com##div[style="border:1px #8c8c8c solid; font-size:80%; margin:5px auto; text-align:center; width:640px;"]
 cine.to##form[action^="http://www.firstload.de/affiliate/"]
 cine24.tv###ratingDiv > a[rel="nofollow"] > img
+cine24.tv###ratingDiv > a[target="_blank"] > img:first-child
 cine24.tv##a[href^="http://bit.ly/"]
 cine24.tv##a[href^="http://goo.gl/"]
 cine24.tv##a[href^="http://is.gd/"]
+cine24.tv##a[href^="http://mrte.ch/"]
 cine24.tv##a[href^="http://tiny.cc/"]
 cine24.tv##a[href^="http://tinyurl.com/"]
 cine24.tv##a[href^="http://www.firstload.de/index.php?log="]
 cine24.tv##a[href^="http://x.co/"]
 cine24.tv##a[onclick="window.open(this.href,'_blank');return false"] > img
 cine24.tv##br + table[cellspacing="0"][cellpadding="0"][border="0"][width="99%"] > tbody:first-child:last-child > tr:first-child > td[style]:first-child:last-child
+cine24.tv##table > tbody > tr > td[style=" width:140px; padding:1px; vertical-align:top; "]:first-child
 cine24.tv##table > tbody > tr > td[style="text-align:center; font-size:16px;"]
+cine24.tv##table > tbody > tr > td[style="text-align:center; font-size:17px; font-weight:bold;"]
 cine24.tv##table[cellspacing="0"][cellpadding="0"][border="0"][width="100%"] > tbody:first-child:last-child > tr:first-child > td[style]:first-child:last-child
 cine24.tv##table[style] > tbody:first-child:last-child > tr:first-child + tr > td[style]:first-child
 cine24.tv##table[width="100%"] > tbody > tr > td[style="text-align:center; font-size:16px; font-weight:bold;"]
