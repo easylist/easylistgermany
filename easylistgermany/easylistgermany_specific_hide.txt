@@ -244,6 +244,7 @@ bild.de##a[href^="http://reiseshop.bild.de/"]
 bild.de##a[href^="http://shop.bild.de"] > .photo
 bild.de##a[href^="http://tagesdeals.bild.de/"] > img
 bild.de##a[href^="http://www.erotik1.de/"]
+bild.de##a[href^="http://www.erotik1cams.de/"]
 bild.de##a[href^="http://www.flirtpub.de/index.php?wid="]
 bild.de##a[href^="http://www.stylebook.de"] > img
 bild.de##a[href^="http://www.stylisto.de/"]
