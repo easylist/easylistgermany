@@ -1097,7 +1097,7 @@
 ||treffy.de/images/preisbringer.jpg
 ||trendhure.com/gadgets/
 ||trendhure.com^*/gadgets.php
-||trendhure.tv^$domain=trendhure.com
+||trendhure.tv^$subdocument,domain=trendhure.com
 ||trendmile.de/gedichte.htm
 ||trenkwalder-admira.com/flash/sponsor.swf
 ||trenkwalder-admira.com/img/banner/
