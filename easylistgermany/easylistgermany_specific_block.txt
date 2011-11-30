@@ -1096,8 +1096,10 @@
 ||treffseiten.de^*/logo_anzeige_$image
 ||treffy.de/images/preisbringer.jpg
 ||trendhure.com/gadgets/
+||trendhure.com^$subdocument
 ||trendhure.com^*/gadgets.php
 ||trendhure.tv^$subdocument,domain=trendhure.com
+||trendhurecdn.appspot.com/images/$image,domain=trendhure.com
 ||trendmile.de/gedichte.htm
 ||trenkwalder-admira.com/flash/sponsor.swf
 ||trenkwalder-admira.com/img/banner/
