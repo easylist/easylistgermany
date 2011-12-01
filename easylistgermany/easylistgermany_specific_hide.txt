@@ -2071,9 +2071,11 @@ trancebase.fm###Banner
 trendhure.com###content-left > .center > a[target="_blank"] > img
 trendhure.com###content-left > .center > a[target] > img
 trendhure.com###content-left > .center:first-child > a > img
+trendhure.com###content-left > a[target] > img
 trendhure.com###content-left > div[style]:first-child > a > img
 trendhure.com##.randompic
 trendhure.com##.randompicsrow
+trendhure.com##a[href^="http://amzn.to/"]
 trendhure.com##a[href^="http://amzn.trendhure.com"]
 trendhure.com##a[href^="http://ext.trendhure.com/"]
 trendhure.com##a[href^="http://extern.trendhure.com/"]
@@ -2084,6 +2086,7 @@ trendhure.com##a[href^="http://www.amazon.de/"][href*="&tag=trendhureco09-21&"] 
 trendhure.com##a[href^="http://www.trendhure.tv/"]
 trendhure.com##a[target="_blank"][href^="http://www.trendhure.com/"][href*="/B00"]
 trendhure.com##div[style="padding:0px; margin:0px auto; text-align:center;"]
+trendhure.com##iframe
 trendmile.de###genlayer
 tri-mag.de###superbanner_wide
 triathlon-szene.de###BannerOben
