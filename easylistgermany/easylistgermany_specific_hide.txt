@@ -2069,10 +2069,15 @@ torrent.to##a[href^="http://www.firstload.net/affiliate/"]
 trackfox.com##body
 trailerzone.info##.leaderboard
 trancebase.fm###Banner
+trendhure.com###content-left > .center:first-child > a > img
 trendhure.com###content-left > div[style]:first-child > a > img
+trendhure.com##.randompic
+trendhure.com##.randompicsrow
 trendhure.com##a[href^="http://amzn.trendhure.com"]
+trendhure.com##a[href^="http://ext.trendhure.com/"]
 trendhure.com##a[href^="http://extern.trendhure.com/"]
 trendhure.com##a[href^="http://goo.gl/"]
+trendhure.com##a[href^="http://tinyurl.com/"]
 trendhure.com##a[href^="http://www.amazon.de/"][href*="&tag=trendhureco09-21&"] > img
 trendhure.com##a[href^="http://www.trendhure.tv/"]
 trendmile.de###genlayer
