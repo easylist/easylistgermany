@@ -2081,6 +2081,8 @@ trendhure.com##a[href^="http://tinyurl.com/"]
 trendhure.com##a[href^="http://www.amazon.de/"][href*="&creative="] > img
 trendhure.com##a[href^="http://www.amazon.de/"][href*="&tag=trendhureco09-21&"] > img
 trendhure.com##a[href^="http://www.trendhure.tv/"]
+trendhure.com##a[target="_blank"][href^="http://www.trendhure.com/"][href*="/B00"]
+trendhure.com##div[style="padding:0px; margin:0px auto; text-align:center;"]
 trendmile.de###genlayer
 tri-mag.de###superbanner_wide
 triathlon-szene.de###BannerOben
