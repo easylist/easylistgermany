@@ -9,6 +9,7 @@
 @@||ad.71i.de/global_js/sites/n24de.js$domain=n24.de
 @@||ad.71i.de/global_js/sites/pro7de.js$domain=brokencomedy.de
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
+@@||ad.de.doubleclick.net/crossdomain.xml$object-subrequest,domain=n24.de
 @@||ad4.liverail.com/interstitial/?lr_publisher_id=$script,domain=jam.fm|paradiso.de
 @@||adclient.uimserv.net/js.ng/site=mklick&$script,domain=millionenklick.web.de
 @@||adimg.uimserv.net^$image,domain=millionenklick.web.de
@@ -68,6 +69,7 @@
 @@||doubleclick.net/adj/*;sz=1x2;$script,domain=moviemaze.de
 @@||doubleclick.net/adj/oms.szon.de/homepage;oms=homepage;*;sz=10x10;$script,domain=schwaebische.de
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
+@@||doubleclick.net/pfadx/de_n24/*;sz=50x1;$object-subrequest,domain=n24.de
 @@||drei.at/moma/adserver/adview.php?$image
 @@||elhabib.com/wp-content/uploads/*-300x250.jpg
 @@||emediate.eu/eas?cu=10422;cre=mu;js=y;target=_blank$script,domain=welt.de
