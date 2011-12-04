@@ -34,6 +34,7 @@
 @@||adtech.de/adrawdata$object-subrequest,domain=player.nowonscreen.com
 @@||adtech.de/apps/$object-subrequest,domain=cineman.de
 @@||adtech.de/crossdomain.xml$object-subrequest,domain=20min.ch|cineman.de|login.audimark.de|player.nowonscreen.com|teleboy.ch|yavido.tv
+@@||aka-cdn-ns.adtech.de/apps/$image,domain=neckermann.de
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
 @@||altfarm.mediaplex.com/ad/ck/$image,domain=paypal-deutschland.de
 @@||amazon.de^*/ref=*&adid=$object,~third-party
@@ -186,6 +187,7 @@
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
 @@||strahlendeslicht.de/images/werbung/$image
 @@||tape.tv/tape2fs/images/campaign/teaser-redaktion.swf?
+@@||teaser.neckermann.de/addyn/3.0/*/adtech;loc=100;target=_blank;grp=*;misc=$script,domain=neckermann.de
 @@||tfag.de/img/$domain=focus.de
 @@||tfag.de/js_ng/js_ng_ant_0200.js$domain=antenne.de
 @@||tfag.de/js_ng/js_ng_msg_0300.js$domain=mein-schoener-garten.de
