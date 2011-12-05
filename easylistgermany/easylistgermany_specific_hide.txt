@@ -1374,6 +1374,7 @@ mydrg.de##.frameo
 mydrg.de##.frameu
 mygully.com##a[href^="http://dl1.mygully.com"]
 mysmag.de###sky
+mysmspage.de##body > style + div[id]:nth-child(n+13)
 myspass.de###playerData > div[style="height: 250px; overflow: hidden;"]
 myspass.de###target_banner_wrapper
 mysqldumper.de##a[href^="http://www.artfiles.de/?affiliate="]
