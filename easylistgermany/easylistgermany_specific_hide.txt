@@ -924,6 +924,9 @@ grosseleute.de##div[align="center"][style="width:100%; padding-top:5px; height:6
 grosseleute.de##img[width="728"][height="90"]
 grosseleute.de##table[width="980"][height="90"] > tbody > tr > td[align="right"] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
 gulli.com###plista1_belowArticle > .TeaserBox:first-child + .TeaserBox
+gulli.com##a[href="http://www.gulli.com/internet/chrome"]
+gulli.com##a[href="http://www.gulli.com/internet/chrome"] + H2 + p
+gulli.com##a[href="http://www.gulli.com/internet/chrome"] + p
 gulli.com##a[href^="http://rc23.overture.com/"]
 gullipics.com##.a-zone
 guru-world.net##.b00k3
