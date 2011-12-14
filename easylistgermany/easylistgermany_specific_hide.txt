@@ -1663,12 +1663,15 @@ putpat.tv###skyscraper_pane
 q-load.me###lyr_back
 q-load.me###lyr_front
 queer.de##a[href^="http://ad.zanox.com"]
+quoka.de###ColumnOuterRight > .yui3-u-1 > .box:first-child + .box > .ly-1:first-child:last-child
 quoka.de###ColumnOuterRight > .yui3-u-1:first-child:last-child > .box:last-child > .ly-1:first-child:last-child
 quoka.de###Layout2Column2 > .MsBoxSection
 quoka.de###divBannerRESULTHEADER
 quoka.de##.partnersmall
+quoka.de##.sem > li > #ContentPoleposition_Result
 quoka.de##a[onclick^="_gaq.push( [ '_trackEvent',"]
 quoka.de##a[onclick^="_gaq.push(['_trackEvent',"]
+quoka.de##a[target="_blank"][href*="/solute/cd/banner?"]
 quotenmeter.de##.qm-news-list-box
 quotenmeter.de##.qm-right-box[style="position:relative"]
 radio-trausnitz.de##.metrieanzeigen
