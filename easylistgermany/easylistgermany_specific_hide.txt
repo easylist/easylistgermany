@@ -2333,7 +2333,9 @@ widescreen-online.de###rect_anz
 widescreen-online.de##table[bgcolor="#FFC990"][align="center"][width="158"][style="border:1px solid #D25802;"]
 wiealt.myvideo.de##.logout_container_box
 wikio.de###wpub
+winboard.org##.alt2[style="padding-top:0px"] > ul[style="list-style-type:none; margin:0px; padding:0px"] > br:first-child + div[align="center"]:last-child
 winboard.org##td[width="130"][valign="top"][align="center"]:last-child
+winboard.org##tr > td[width="100%"][valign="top"][align="center"]:first-child + td[width="180"][style="vertical-align: top;"]:last-child
 windows-tweaks.info##table[width="738"][cellspacing="0"][cellpadding="0"][border="0"][nof="LY"]
 winfuture.de###comments_box > div[style="height:60px;margin-top:1.3em;"]
 winfuture.de##div[style] > a[href^="javascript:"][href$="();"]:first-child:last-child > img:first-child:last-child
