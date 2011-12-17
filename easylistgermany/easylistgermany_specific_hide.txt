@@ -951,6 +951,7 @@ gulli.com###plista1_belowArticle > .TeaserBox:first-child + .TeaserBox
 gulli.com##a[href="http://www.gulli.com/internet/chrome"]
 gulli.com##a[href="http://www.gulli.com/internet/chrome"] + H2 + p
 gulli.com##a[href="http://www.gulli.com/internet/chrome"] + p
+gulli.com##a[href^="http://ad.doubleclick.net/"] + p
 gulli.com##a[href^="http://rc23.overture.com/"]
 gullipics.com##.a-zone
 guru-world.net##.b00k3
