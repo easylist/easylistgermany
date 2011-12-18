@@ -105,7 +105,7 @@
 ||desire-xx.net^$third-party
 ||digitaladverts.net^$third-party
 ||digitalresponse.de^$third-party
-||doubleclick.net/*;sz=$object-subrequest,third-party,domain=brokencomedy.de|ehrensenf.com|ehrensenf.de|finanzen.net|fitforfun.de|game-tv.com|gameone.de|gamona.de|mtv.ch|mtv.de|mtvhome.de|myspass.de|n-tv.de|netzwelt.de|serienjunkies.de|smash247.com|sport1.de|sportalplus.com|teleboerse.de|topsport.com|zeit.de
+||doubleclick.net/*;sz=$object-subrequest,third-party,domain=brokencomedy.de|clipfish.de|ehrensenf.com|ehrensenf.de|finanzen.net|fitforfun.de|game-tv.com|gameone.de|gamona.de|mtv.ch|mtv.de|mtvhome.de|myspass.de|n-tv.de|netzwelt.de|serienjunkies.de|smash247.com|sport1.de|sportalplus.com|teleboerse.de|topsport.com|zeit.de
 ||doubleclick.net/pfadx/*.myspass.de_de/$object-subrequest
 ||doubleclick.net/pfadx/golem/$object-subrequest,third-party
 ||doubleclick.net^$iamge,~image,popup,domain=cash-online.de
