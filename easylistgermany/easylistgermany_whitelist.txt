@@ -52,7 +52,7 @@
 @@||cache.kalaydo.de/mmo/logo/advert/$image
 @@||campact.de^*_300x250.gif
 @@||canoo.net/services/wordformationdictionary/gifs/
-@@||cashdorado.de/track/*.php?wm=$subdocument
+@@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
 @@||cdn.auditude.com/crossdomain.xml$object-subrequest,domain=bravo.de
 @@||chiemsee-reggae.de/gallery/anzeige.php?$subdocument
 @@||chipeinbau.de/onlineshop/images/werbung_*.jpg
