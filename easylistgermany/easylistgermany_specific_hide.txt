@@ -621,7 +621,7 @@ duckcrypt.info##a[href^="http://download.duckcrypt.info"]
 duckcrypt.info##a[href^="http://highspeed.duckcrypt.info"]
 dug-portal.com###layer
 dvd-forum.at##.partner
-dwdl.de###pagecontainer:first-child > .regular_LB:first-child
+dwdl.de###pagecontainer > .regular_LB
 dwdl.de##.partner
 dwdl.de##div[style="width: 300px; height: 100px; margin-bottom: 20px;"]
 dwdl.de##div[style="width: 300px; height: 250px; margin-bottom: 20px; text-align: right;"]
