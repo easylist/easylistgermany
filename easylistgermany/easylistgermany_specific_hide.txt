@@ -943,7 +943,9 @@ grosseleute.de###rightboxcontent:first-child:last-child .container-1:first-child
 grosseleute.de##.contentBox11[align="center"][style="margin-bottom:20px;"] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
 grosseleute.de##.portalColumnInner[style] .container-1:first-child
 grosseleute.de##a[href^="http://ad.zanox.com/"]
+grosseleute.de##a[href^="http://www.grosseleute.de/"] > img[src^="images/"]
 grosseleute.de##a[href^="http://www.zanox-affiliate.de/"]
+grosseleute.de##body > div[id] > div[style] > table[width][height]:first-child:last-child
 grosseleute.de##div[align="center"][style="padding:2px; height:600px;"]
 grosseleute.de##div[align="center"][style="width:100%; padding-top:5px; height:600px;"]
 grosseleute.de##div[class] > a[href^="http://www.grosseleute.de/"] > img[border="0"]
