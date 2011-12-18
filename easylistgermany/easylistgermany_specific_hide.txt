@@ -949,6 +949,7 @@ grosseleute.de##div[class] > a[href^="http://www.grosseleute.de/"] > img[border=
 grosseleute.de##div[class] > div[align][style] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
 grosseleute.de##div[class]:first-child:last-child > style[type="text/css"] + div[class][align][style]:last-child
 grosseleute.de##div[class]:first-child:last-child > style[type="text/css"]:first-child + div[align][style]
+grosseleute.de##div[style] > table[width="980"][height="90"]
 grosseleute.de##img[width="728"][height="90"]
 grosseleute.de##table[width="980"][align="center"] > tbody > tr > td[align] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
 grosseleute.de##table[width="980"][height="90"] > tbody > tr > td[align="right"] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
