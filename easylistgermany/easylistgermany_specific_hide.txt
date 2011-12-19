@@ -2328,6 +2328,7 @@ wetter.com###box-n24
 wetter.com###fem_box
 wetter.com###rc_travelad
 wetter.com###spox_box
+wetter.com##.adbox
 wetter.com##a[href^="http://exlog.wetter.com/v2/exlog/adclick.php?bannerid="]
 wetter.com##a[onclick^="exlogmask('"][href="javascript:void(0);"]
 wetter.de###loginboxXDOT
