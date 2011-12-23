@@ -912,9 +912,13 @@ goslarsche.de##.container_skyscraper_wallpaper
 goyax.de##.wpad
 gratissoft.de###homepage_rectangle
 gronkh.de##.branding
+grosseleute.de###leftboxcontent > #box46 + div
 grosseleute.de###leftboxcontent:first-child:last-child .container-1:first-child
+grosseleute.de###profilrechts > div + table + div
+grosseleute.de###rightboxcontent > #box15 + div
 grosseleute.de###rightboxcontent:first-child:last-child .container-1:first-child
 grosseleute.de##.contentBox11[align="center"][style="margin-bottom:20px;"] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
+grosseleute.de##.portalColumnInner > #box46 + div
 grosseleute.de##.portalColumnInner[style] .container-1:first-child
 grosseleute.de##a[href^="http://ad.zanox.com/"]
 grosseleute.de##a[href^="http://www.grosseleute.de/"] > img[src^="images/"]
