@@ -918,6 +918,7 @@ grosseleute.de###leftboxcontent > #box46 + div
 grosseleute.de###leftboxcontent:first-child:last-child .container-1:first-child
 grosseleute.de###profilrechts > div + table + div
 grosseleute.de###rightboxcontent > #box15 + div
+grosseleute.de###rightboxcontent div[id][align="center"] > a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
 grosseleute.de###rightboxcontent:first-child:last-child .container-1:first-child
 grosseleute.de##.contentBox11[align="center"][style="margin-bottom:20px;"] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
 grosseleute.de##.portalColumnInner > #box46 + div
