@@ -916,32 +916,10 @@ goslarsche.de##.container_skyscraper_wallpaper
 goyax.de##.wpad
 gratissoft.de###homepage_rectangle
 gronkh.de##.branding
-grosseleute.de###leftboxcontent > #box46 + div
-grosseleute.de###leftboxcontent div[class] > a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
-grosseleute.de###leftboxcontent:first-child:last-child .container-1:first-child
-grosseleute.de###profilrechts > div + table + div
-grosseleute.de###profilrechts div[class][align="center"] > a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
-grosseleute.de###rightboxcontent > #box15 + div
-grosseleute.de###rightboxcontent div[id][align="center"] > a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
-grosseleute.de###rightboxcontent:first-child:last-child .container-1:first-child
-grosseleute.de##.contentBox11[align="center"][style="margin-bottom:20px;"] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
-grosseleute.de##.portalColumnInner > #box46 + div
-grosseleute.de##.portalColumnInner div[class] > [href^="http://www.grosseleute.de/"] > img[src^="image/"]
-grosseleute.de##.portalColumnInner[style] .container-1:first-child
-grosseleute.de##a[href^="http://ad.zanox.com/"]
-grosseleute.de##a[href^="http://www.grosseleute.de/"] > img[src^="images/"]
-grosseleute.de##a[href^="http://www.zanox-affiliate.de/"]
-grosseleute.de##body > div[id] > div[style] > table[width][height]:first-child:last-child
-grosseleute.de##div[align="center"][style="padding:2px; height:600px;"]
-grosseleute.de##div[align="center"][style="width:100%; padding-top:5px; height:600px;"]
-grosseleute.de##div[class] > a[href^="http://www.grosseleute.de/"] > img[border="0"]
-grosseleute.de##div[class] > div[align][style] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
-grosseleute.de##div[class]:first-child:last-child > style[type="text/css"] + div[class][align][style]:last-child
-grosseleute.de##div[class]:first-child:last-child > style[type="text/css"]:first-child + div[align][style]
-grosseleute.de##div[style] > table[width="980"][height="90"]
-grosseleute.de##img[width="728"][height="90"]
-grosseleute.de##table[width="980"][align="center"] > tbody > tr > td[align] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
-grosseleute.de##table[width="980"][height="90"] > tbody > tr > td[align="right"] > a[target="_blank"][href^="http://www.grosseleute.de/"] > img
+grosseleute.de###leftboxcontent a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
+grosseleute.de###mainContainer > div[style] a[href^="http://www.grosseleute.de/"] > table[width][height]
+grosseleute.de###rightboxcontent a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
+grosseleute.de##.portalColumnInner[style] a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
 gulli.com###plista1_belowArticle > .TeaserBox:first-child + .TeaserBox
 gulli.com##a[href="http://www.gulli.com/internet/chrome"]
 gulli.com##a[href="http://www.gulli.com/internet/chrome"] + H2 + p
