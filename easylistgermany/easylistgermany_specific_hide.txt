@@ -1382,6 +1382,7 @@ musicelster.net###vote_popup
 musicjoker.org##a[href="http://www.musicjoker.org/mirror/"]
 musicloud.fm##.green
 musik.am##input[onclick^="window.open('http://www.friendlyduck.com/AF_"]
+musiksampler.de###rechts > table[weight="150"]:first-child + br + table[weight="150"]:last-child
 musotalk.de###ads
 mv-online.de##div[style="width:820px; height:90px; margin:0px; background-color:#D2D2D5;"]
 mydealz.de###content_banner
