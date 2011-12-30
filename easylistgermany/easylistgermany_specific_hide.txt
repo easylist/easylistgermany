@@ -921,6 +921,7 @@ grosseleute.de###rightboxcontent a[href^="http://www.grosseleute.de/"] > img[src
 grosseleute.de##.portalColumnInner[style] a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
 grosseleute.de##a[href^="4"] > img[src^="image/"]
 grosseleute.de##a[href^="9"] > img[src^="image/"]
+grosseleute.de##a[href^="profil"][href$="1"] > img[src^="image/"]
 grosseleute.de##a[href^="profilc"]
 grosseleute.de##table[align="center"][width][height][cellspacing="0"][cellpadding="0"][border="0"]
 gulli.com###plista1_belowArticle > .TeaserBox:first-child + .TeaserBox
