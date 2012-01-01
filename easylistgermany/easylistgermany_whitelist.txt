@@ -228,6 +228,7 @@
 ! Anti-Adblock
 @@|http://$xmlhttprequest,domain=adamski.tv|otrworld.at
 @@||4fuckr.com^*/adframe.js
+@@||ad-emea.doubleclick.net/ad/putpat.de.smartclip/;sz=400x320;$object-subrequest,domain=putpat.tv
 @@||adamski.clan.su^$image
 @@||adamski.tv^$elemhide,image
 @@||adhs-zentrum.de^*/werbung1.jpg
