@@ -918,8 +918,11 @@ goyax.de##.wpad
 gratissoft.de###homepage_rectangle
 gronkh.de##.branding
 grosseleute.de###leftboxcontent a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
+grosseleute.de###leftboxcontent a[href^="profil"] > img[src^="image/"]
 grosseleute.de###mainContainer > div[style] a[href^="http://www.grosseleute.de/"] > table[width][height]
 grosseleute.de###rightboxcontent a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
+grosseleute.de###rightboxcontent div:first-child:last-child > a[href^="profil"] > img[src^="image/"]
+grosseleute.de##.portalColumnInner a[href^="profil"] > img[src^="image/"]
 grosseleute.de##.portalColumnInner[style] a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
 grosseleute.de##a[href^="4"] > img[src^="image/"]
 grosseleute.de##a[href^="9"] > img[src^="image/"]
