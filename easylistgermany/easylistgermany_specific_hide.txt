@@ -1732,6 +1732,7 @@ rollertuningpage.de##tr:first-child > td[align="center"][style="background-color
 rollertuningpage.de##tr:first-child:last-child > td[style="background-image: url(http://www.rollertuningpage.de/images/shop_hg.jpg); vertical-align:top;padding-left:5px;padding-top:100px;width:125px;"]:last-child
 romhood.com##a[href^="http://freakshare.com/?ref="]
 rp-online.de###container > div > div[style="background:url(http://static.rp-online.de/layout/img/icon/leiste.gif) no-repeat;width:786px;"]
+rp-online.de###container > div[style="position:absolute;top:9px;left:9px;"]:first-child
 rp-online.de##.rectangle
 rp-online.de##div[style="background:url(http://stat01.rp-online.de/layout/img/icon/leiste.gif) no-repeat;width:786px;"]
 rs-load.blogspot.com##a[href="http://multimedia-load.com"]
