@@ -105,6 +105,7 @@
 ||eteleon.de/partner/$third-party,domain=~facebook.com
 ||eteleon.de/partnerprogramm/$third-party
 ||ex.joyjasp.com^$third-party
+||ext.amateurcommunity.com^$image,~image,popup,third-party
 ||fantasticzero.com^*/skinnings/$third-party
 ||farm.plista.com/iframewidget.php?*&widgetname=i160x600&$subdocument
 ||farm.plista.com/tiny/$third-party
