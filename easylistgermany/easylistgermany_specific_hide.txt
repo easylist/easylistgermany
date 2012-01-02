@@ -920,18 +920,11 @@ goslarsche.de##.container_skyscraper_wallpaper
 goyax.de##.wpad
 gratissoft.de###homepage_rectangle
 gronkh.de##.branding
-grosseleute.de###leftboxcontent a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
-grosseleute.de###leftboxcontent a[href^="profil"] > img[src^="image/"]
-grosseleute.de###mainContainer > div[style] a[href^="http://www.grosseleute.de/"] > table[width][height]
-grosseleute.de###rightboxcontent a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
-grosseleute.de###rightboxcontent div:first-child:last-child > a[href^="profil"] > img[src^="image/"]
-grosseleute.de##.portalColumnInner a[href^="profil"] > img[src^="image/"]
-grosseleute.de##.portalColumnInner[style] a[href^="http://www.grosseleute.de/"] > img[src^="image/"]
-grosseleute.de##a[href^="4"] > img[src^="image/"]
-grosseleute.de##a[href^="9"] > img[src^="image/"]
-grosseleute.de##a[href^="profil"][href$="1"] > img[src^="image/"]
-grosseleute.de##a[href^="profilc"]
-grosseleute.de##table[align="center"][width][height][cellspacing="0"][cellpadding="0"][border="0"]
+grosseleute.de###leftboxcontent > :nth-child(n) a[href] > img[src^="image/"]
+grosseleute.de###mainContainer > :nth-child(n) + div:last-child div:first-child:last-child > div:first-child:last-child > a[href] > img[src^="image/"]
+grosseleute.de###mainContainer > div[align="center"] table[width][height] a[href] > table[width][height]
+grosseleute.de###rightboxcontent > :nth-child(n) div:first-child:last-child > a[href] > img[src^="image/"]
+grosseleute.de##.portalColumnInner > :nth-child(n) div:first-child:last-child > div:first-child > a[href] > img[src^="image/"]
 gulli.com###plista1_belowArticle > .TeaserBox:first-child + .TeaserBox
 gulli.com##a[href="http://www.gulli.com/internet/chrome"]
 gulli.com##a[href="http://www.gulli.com/internet/chrome"] + H2 + p
