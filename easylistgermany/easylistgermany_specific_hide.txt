@@ -2036,9 +2036,12 @@ suchen.de###topPPC
 suchen.de##a[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 suchen.de##div[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 suchen.de##div[onclick^="window.open('http://www.suchen.de/ad?"]
+sueddeutsche.de###iqd_flashAd
 sueddeutsche.de##.ad
 sueddeutsche.de##.adbox
 sueddeutsche.de##.expediasearch
+sueddeutsche.de##.iqadcontainer
+sueddeutsche.de##.overlay
 sueddeutsche.de##.sponsor
 suedkurier.de###box_meinsueden
 suedkurier.de##.rectangle
