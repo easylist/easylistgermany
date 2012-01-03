@@ -116,6 +116,7 @@
 ||fireradio.fm/img/banner/$third-party
 ||firstaffair.de/netforge/*&pid=$third-party
 ||flirttoday.de/banner/
+||flirty.com/?pr=*&wm=$subdocument,third-party
 ||flymedia.de/banner/$third-party
 ||free-toplisten.at^$third-party
 ||freenet.de^*&affiliate=$script
@@ -374,6 +375,7 @@
 ||venus-community.com/banner/$third-party
 ||verleihshop.de/gfx/partner/$third-party
 ||versandtarif.de^*?partnerid=$third-party
+||verschenkehandy.de/?pid=$third-party
 ||vienna.at/banner/
 ||view.autoscout24.de^$third-party
 ||view.ilove.de^$third-party
