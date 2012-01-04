@@ -2044,6 +2044,7 @@ suchen.de##a[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 suchen.de##div[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 suchen.de##div[onclick^="window.open('http://www.suchen.de/ad?"]
 sueddeutsche.de###iqd_flashAd
+sueddeutsche.de###iqd_medrecAd
 sueddeutsche.de##.ad
 sueddeutsche.de##.adbox
 sueddeutsche.de##.expediasearch
