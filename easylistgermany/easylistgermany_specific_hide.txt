@@ -1524,6 +1524,7 @@ os-informer.de###plakathomecontentmetaboli2bottom
 os-informer.de###rect_anz
 ostfussball.com##a[href^="http://adfarm.mediaplex.com/"]
 otr-cloud.net##body > style[id] + div[id]:nth-child(n+13)
+otr-keys.de##body > div[id]:first-child + div[id][style]
 otr-keys.de##body > style + div[id]:nth-child(n+13)
 otr-keys.de##div[style*="background-color: rgb(0, 0, 0);"]
 otr-keys.de##div[style*="background-color: rgb(145, 145, 145);"]
