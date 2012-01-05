@@ -1954,6 +1954,7 @@ sourcejunkies.de##a[target="_blank"][href^="redirect/"]
 sourcejunkies.de##body > div[id]:first-child > div[style]:first-child:last-child > div[class]:first-child:last-child
 sourcejunkies.de##div[style="float: left; height: 90px; width: 728px; margin: 50px 0px 10px 262px; padding: 5px; position: absolute; background: url(http://img.sourcejunkies.de/shadow.png) no-repeat;"]
 sourcejunkies.de##img[height="90"][width="728"]
+speed-warez.com##body > style + div[id]:nth-child(n+13)
 speedload.to##a[href^="http://snipurl.com"]
 speedload.to##a[href^="http://tiny.cc"]
 speedlounge.in##.content > center > hr[width="100%"] + a
