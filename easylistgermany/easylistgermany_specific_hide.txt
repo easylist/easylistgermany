@@ -1712,7 +1712,7 @@ rapidvideo.com###player:first-child + center:last-child > a[target="_blank"]:fir
 rapidvideo.com##a[href^="http://network.adsmarket.com"]
 rawsucker.com##.galine
 rc-network.de##.above_body:first-child + table[cellspacing="0"][cellpadding="0"][border="0"][align="center"]
-readmore.de##.block[href^="http://www.amazon.de/"][href*="&tag=readmore-21"]
+readmore.de##.block[href^="http://www.amazon.de/"][href*="tag=readmore-21"]
 readmore.de##.ofhidden > div[style="width:520px; height:50px;"]
 readmore.de##a[href^="http://www4.smartadserver.com/"]
 readmore.de##div[style="height:193px;position:relative;margin-bottom: 10px;"]
