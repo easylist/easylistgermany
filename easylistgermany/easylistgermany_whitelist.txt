@@ -39,7 +39,6 @@
 @@||aka-cdn-ns.adtech.de/apps/$image,domain=neckermann.de
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
 @@||altfarm.mediaplex.com/ad/ck/$image,domain=paypal-deutschland.de
-@@||amazon.de^*/ref=*&adid=$object,~third-party
 @@||ardie.de/homepage/werbung_$subdocument
 @@||atwola.com/?adrawdata/$object-subrequest,domain=player.nowonscreen.com
 @@||atwola.com/crossdomain.xml$object-subrequest,domain=player.nowonscreen.com
@@ -123,11 +122,9 @@
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||interhome.at/javascript/ad-gallery.js
 @@||intersport-voswinkel.de/static/cms/sites/dealer.intersport.de/dealers/*/werbung_$object,object-subrequest
-@@||intimesrevier.com/mnewshome.ajax?*&adid=$xmlhttprequest
 @@||joepenas.com/index.swf?clicktag=$object,~third-party
 @@||juleps-esslingen.de/index.swf?clicktag=$object,~third-party
 @@||kabeleins.de/php-bin/functions/adtags/$subdocument
-@@||kalaydo.de^*&adid=$xmlhttprequest
 @@||kmelektronik.de/shop/images/advertising/$image
 @@||kurier.at^*/ac_oetags_clone.js
 @@||lachschon.de/images/*_werbung.
@@ -219,7 +216,6 @@
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
 @@||wetter.com^*/openx_fl.js
 @@||willhaben.apa.net/mmo/logo/advert/$domain=willhaben.at
-@@||willhaben.at/iad/*&adid=$xmlhttprequest
 @@||wn-immo.de/search.html?*&adtype=
 @@||wn-jobs.de/search.html?*&adtype=
 @@||wn-markt.de/search.html?*&adtype=
