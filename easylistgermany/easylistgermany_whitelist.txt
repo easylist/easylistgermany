@@ -149,7 +149,6 @@
 @@||orange.at/content.node/flash/$object-subrequest
 @@||os1.tv/js/omsvc_externalad.js
 @@||osthessen-tv.de/werbebanner/$object-subrequest
-@@||otto.de/is-bin/*/js/ads/$script
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||partner.zattoo.com/advertising/channelswitch/$subdocument
 @@||pcgames.de/screenshots/$image,~third-party
@@ -157,7 +156,6 @@
 @@||prosieben.de^*/ad-managment/$script
 @@||r.refinedads.com/l.js$script,domain=paypal-deutschland.de
 @@||radio.de/inc/ads/pix.swf?mp3=$object
-@@||ran.de/pub/js/ads/simad.min.js
 @@||raumobil.de/js/advertise.js
 @@||re-publica.de/banner/$image,domain=re-publica.de
 @@||rhodesian-ridgeback-forum.org^$elemhide
