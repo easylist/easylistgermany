@@ -1067,6 +1067,7 @@ htwk-leipzig.de##a[href*="/adclick.php?"]
 hubbahotel.ws##body > style[id] + div[id]:nth-child(n+13)
 i-have-a-dreambox.com##a[href="https://www.satplace.de"]
 ibash.de##.partner
+ibash.de##tr > td[valign="top"]:first-child + td[width="15"] + td[width="186"][valign="top"]:last-child
 ichspiele.cc###big-sky
 ichspiele.cc##.google-box
 ichspiele.cc##.leader
