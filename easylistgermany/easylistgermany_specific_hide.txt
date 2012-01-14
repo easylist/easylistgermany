@@ -262,7 +262,6 @@ bild.de##a[href^="http://tagesdeals.bild.de/"] > img
 bild.de##a[href^="http://www.erotik1.de/"]
 bild.de##a[href^="http://www.erotik1cams.de/"]
 bild.de##a[href^="http://www.flirtpub.de/index.php?wid="]
-bild.de##a[href^="http://www.stylebook.de"] > img
 bild.de##a[href^="http://www.stylisto.de"] > img
 bild.de##a[onclick*="/partner/"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/Download-Spiele;"]
@@ -275,7 +274,6 @@ bild.de##a[onclick^="wt_send_timeparams('ce1=/sky/"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/videobuster/"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/videobuster/"] + .entry-title + .entry-content
 bild.de##a[onclick^="wt_send_timeparams('ce1=erotik1/"]
-bild.de##img[alt="stylebook"]
 bildblog.de##.reklam
 bildschirmarbeiter.com###col3_content > .sidebox:first-child
 bildschirmarbeiter.com##a[href^="http://www.bildschirmarbeiter.com/alink_"]
