@@ -1695,6 +1695,7 @@ quoka.de###Layout2Column2 > .MsBoxSection
 quoka.de###divBannerRESULTHEADER
 quoka.de##.partnersmall
 quoka.de##.sem > li > #ContentPoleposition_Result
+quoka.de##a[href^="http://connect.quoka.de/qpa/click.php"]
 quoka.de##a[onclick^="_gaq.push( [ '_trackEvent',"]
 quoka.de##a[onclick^="_gaq.push(['_trackEvent',"]
 quoka.de##a[target="_blank"][href*="/solute/cd/banner?"]
