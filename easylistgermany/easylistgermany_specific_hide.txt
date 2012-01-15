@@ -1373,6 +1373,7 @@ movie7.me##.dloadBtn
 moviebb.to##.highspeed_button
 moviebox.to##a[href="http://moviebox.to/download/?"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
+moviebox.to##a[href^="http://mirror.moviebox.to"]
 moviejones.de##.anzeige
 moviepilot.de##.banner-skyscraper
 movietempel.com##a[href^="http://netload.in/index.php?refer_id="]
