@@ -218,6 +218,7 @@
 ||newsticker.save.tv^$third-party
 ||nexworld.tv^*/banner/$third-party
 ||nx8.de/nx8de_*.jpg$third-party
+||o2-freikarte.de/affiliate/$image,~image,popup
 ||oecherdeal.de^$subdocument,third-party
 ||offizielles-umfrageportal.de/leads/$third-party
 ||okm-community.com/banner/$third-party
