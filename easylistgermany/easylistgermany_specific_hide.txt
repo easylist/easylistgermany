@@ -930,6 +930,8 @@ goslarsche.de##.container_skyscraper_wallpaper
 goyax.de##.wpad
 gratissoft.de###homepage_rectangle
 gronkh.de##.branding
+gronkh.de##.revbig
+gronkh.de##.revbox
 grosseleute.de###leftboxcontent > :nth-child(n) a[href] > img[src^="image/"]
 grosseleute.de###leftboxcontent > :nth-child(n) a[href] div img[src^="image/"]
 grosseleute.de###mainContainer > :nth-child(n) + div:last-child div:first-child:last-child > div:first-child:last-child > a[href] > img[src^="image/"]
