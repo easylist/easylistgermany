@@ -120,6 +120,7 @@ anderes-wort.de###linkline
 android-hilfe.de##.smallfont[style="text-align:center;width:740px;height:110px;padding-left:10px;padding-top:10px;padding-bottom:12px;background-color: #ffffff;border:1px solid #DFE6ED"]
 android-hilfe.de##.smallfont[style="text-align:center;width:740px;height:110px;padding-left:10px;padding-top:10px;padding-bottom:5px;background-color: #ffffff;border:1px solid #DFE6ED"]
 android-hilfe.de##div[style="float:left;width: 186px;position:absolute;left:25px;top:15px;"]
+android-hilfe.de##div[style="float:left;width: 186px;position:fixed;left:25px;top:15px;text-align:center;border:1px solid #636C74;height:610px;padding-top:13px;padding-bottom:5px;background-color: #ffffff;z-index:1;"]
 android-hilfe.de##div[style^="width:748px;height:100px;padding-top:10px;"]
 androidpit.de##.boxLightLeft[style="width:620px; text-align:center; font-size:95%"]
 androidpit.de##div[style="float:left; width:1200px; height:100px; position:relative; left:-120px; top:0px"]
