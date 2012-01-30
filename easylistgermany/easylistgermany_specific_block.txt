@@ -1067,6 +1067,7 @@
 ||spiegel.tv/sw/$object-subrequest
 ||spiegel.tv/sy/$object-subrequest
 ||spiegel.tv/sz/$object-subrequest
+||spiegel.tv^*/|$object-subrequest,~third-party
 ||spiegel.tv^*@v*?ms=*&ts=$object-subrequest
 ||spiegelfechter.com/img/apotheke.gif
 ||spiegelfechter.com/img/logone.jpg
