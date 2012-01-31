@@ -112,6 +112,7 @@ allfacebook.de##.fanwerden + .popular-posts
 allinklwith.us###ad_global_below_navbar
 alphaspeed.de##a[href="/firstload.php"]
 alphaspeed.de##body > :nth-child(6) + style + div[id]:last-child
+alphaspeed.de##body > script + #topcontrol + style + div[id]:last-child
 alternative-zu.de##.azuitem_googleAdSense
 am-ende-des-tages.de###topbanner
 amazon.de###DAr2
