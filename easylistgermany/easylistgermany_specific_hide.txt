@@ -2218,6 +2218,7 @@ tubeload.to###sysbar
 tubeload.to###sysclose
 tubeload.to##a[href^="out/"]
 tutorials.de##.above_body > #header + #navbar + table:last-child
+tv-stream.to##a[href^="http://www.firstload.com/affiliate/"]
 tvheute.at###sky
 tvinfo.de###bannerTop
 tvmatrix.at##td[width="300"][height="250"]
