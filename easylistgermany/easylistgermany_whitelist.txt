@@ -234,7 +234,6 @@
 @@||xara.hse24.de^*/hse_videoplayer.swf
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=notenbuch24.de
 ! Anti-Adblock
-@@|http://$xmlhttprequest,domain=otrworld.at
 @@||4fuckr.com^*/adframe.js
 @@||ad-emea.doubleclick.net/ad/putpat.de.smartclip/;sz=400x320;$object-subrequest,domain=putpat.tv
 @@||adhs-zentrum.de^*/werbung1.jpg
@@ -276,13 +275,12 @@
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||otr-keys.de/adimages/$subdocument
 @@||otr-keys.de^*/adframe.js
-@@||otrworld.at^$elemhide,image,script
+@@||otrworld.at^$script
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=dokumente-online.com|e-bol.net|lablue.at|lablue.ch|lablue.de|lohn-info.de|mines.oprojekt.net|onlineberatung-therapie.de|risiko-gesundheit.de
 @@||pagead2.googlesyndication.com/pagead/expansion_embed.js$domain=e-bol.net
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=dokumente-online.com|e-bol.net|lablue.at|lablue.ch|lablue.de|lohn-info.de|mines.oprojekt.net|onlineberatung-therapie.de|risiko-gesundheit.de
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||qtom.tv^*/adframe.js
-@@||sponsorads.de/script.php?s=$script,domain=otrworld.at
 @@||sudoku-space.de^$script
 @@||super-otr.de/inc/js/phpads/sponsorad.js
 @@||ttads.de/www/delivery/click.js
