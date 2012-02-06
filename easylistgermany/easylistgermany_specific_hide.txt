@@ -2274,7 +2274,7 @@ uwarez.ws##a[href*=".gigaflat.com/affiliate/"]
 uwarez.ws##input[onclick^="window.open('http://dlprofit.com/registration.php?ref="]
 uwarez.ws##input[onclick^="window.open('http://unlimited-downloads.biz/?id="]
 uwarez.ws##input[onclick^="window.open('http://www.gigaflat.com/affiliate/"]
-vampirediaries.in##body > :nth-child(24) + style + div[id]:last-child
+vampirediaries.in##body > :nth-child(n+20) + style + div[id]:last-child
 vanion.eu###skyscraper
 velderboard.li##img[width="468"][height="60"]
 verboten.to##a[href^="http://www.sofort-geld-verdienen.com"]
