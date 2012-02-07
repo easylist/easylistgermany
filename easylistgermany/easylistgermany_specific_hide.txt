@@ -1051,6 +1051,7 @@ hoerbuch.in###post-19319
 hoerbuch.in###warning
 hoerbuch.in##.eintrag_download0
 hoerbuch.in##.post .box2
+hoerbuch.in##.post a[href^="http://hoerbuch.in/wp/goto/"]
 hoerbuch.in##a[href*="http://www.firstload.de/affiliate/"]
 hoerbuch.in##a[href^="http://hoerbuch.in/wp/goto/Download/"]
 hoerbuch.in##a[href^="http://hoerbuch.in/wp/tipp/"]
