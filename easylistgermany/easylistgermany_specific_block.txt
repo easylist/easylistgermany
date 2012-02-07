@@ -4,7 +4,6 @@
 ||1dl.in/layer/
 ||1stream.org/popup.js
 ||1und1.de/movein_$xmlhttprequest
-||2c62105ee18ecd5f0ee37bc8c35718eb.spiegel.tv^
 ||2concert.de/banner/
 ||360hacks.de^*/partner/
 ||3dl.tv/popup.php$image,~image,popup
@@ -19,14 +18,9 @@
 ||5-jahres-wertung.de/cl/online/cl-dateien/image*.jpg
 ||5-jahres-wertung.de/el/online/el-dateien/image*.jpg
 ||5-jahres-wertung.de/forum/images/other/*.jpg
-||5c7d5705ab73466c0584cc782cb12d2e.spiegel.tv^
 ||6dl.to/images/girl_x7.png
-||7f5144f962efde75e0f7661e032166db.spiegel.tv^
 ||87.237.123.50/jcorner.php$domain=mydia.de
-||8f03ad02c6cad600d2c00a972a9bcce6.spiegel.tv^
-||8fc4c7ab4453d247e011738197b6136c.spiegel.tv^
 ||90elf.de^*/buderus_banner_
-||9c3ce93643ed68583a32f9056b0dd3b6.spiegel.tv^
 ||a.nyx.at^
 ||abakus-internet-marketing.de/img/forum-800_120_
 ||abc-sms.de/frame1.php
@@ -190,11 +184,9 @@
 ||byte.to/sky.gif
 ||byte.to/spinningpopup.js
 ||byte.to^*/booby.js
-||c4de9fe96832a877668d0dced80657b8.spiegel.tv^
 ||center.tv/cms/fileadmin/site/flash/anzeigen/
 ||center.tv^*_pimpmyleasing.jpg
 ||centertv.de/upload/anzeigen/
-||cf2e4f52be52a8f281a8ee892ae60535.spiegel.tv^
 ||chili-warez.net^*/gigaflat.js
 ||chilloutzone.net/consume/
 ||chip.de/hphdas2/
@@ -267,7 +259,6 @@
 ||deal-magazin.com/dat/pix/immoscout.gif
 ||deal-magazin.com/dat/pix/kon.gif
 ||deal-magazin.com/dat/pix/voelkel.gif
-||defd40204344c9659a0a3eb4ebc125f6.spiegel.tv^
 ||deinesms.com/landing/$third-party
 ||delamar.de/wp-content/themes/delamar_v4/iframes/
 ||deluxestream.info/layer/
@@ -326,7 +317,6 @@
 ||dsv.de/images/banners/
 ||dxtv.de/2spnsrs/
 ||e-va.com^*/skyscraper/
-||e45ee7ce7e88149af8dd32b27f9512ce.spiegel.tv^$object-subrequest
 ||easywarez.biz/layer/
 ||ebase.to/layer/
 ||ebby.de^*/boxen1_com_klein-220.gif
@@ -1072,14 +1062,7 @@
 ||speedload.to^*/note.js
 ||speedlounge.in^*/highspeedmirror.jpg
 ||speedlounge.in^*=highspeedmirror|
-||spiegel.tv/st/$object-subrequest
-||spiegel.tv/su/$object-subrequest
-||spiegel.tv/sv/$object-subrequest
-||spiegel.tv/sw/$object-subrequest
-||spiegel.tv/sy/$object-subrequest
-||spiegel.tv/sz/$object-subrequest
-||spiegel.tv^*/|$object-subrequest,~third-party
-||spiegel.tv^*@v*?ms=*&ts=$object-subrequest
+||spiegel.tv/|$object-subrequest
 ||spiegelfechter.com/img/apotheke.gif
 ||spiegelfechter.com/img/logone.jpg
 ||spiegelfechter.com/img/parship_pic.jpg

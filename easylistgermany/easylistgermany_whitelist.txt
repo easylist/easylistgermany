@@ -2,6 +2,7 @@
 @@||46.4.236.198/ox/www/delivery/ajs.php?zoneid=*&loc=http%3a//wz-newsline.de/index.php$script,domain=wz-newsline.de
 @@||4players.de/4players.php/tvplayer/*_werbung.html$object
 @@||4players.de/pub/videos/*_werbung.mp4
+@@||70efdf2ec9b086079795c442636b55fb.spiegel.tv/|$object-subrequest
 @@||abacomuenchensued.de/pageear/$object,object-subrequest,script
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=autos.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=autos.t-online.de
@@ -196,8 +197,6 @@
 @@||smartclip.net/inpage/inpage.swf$object,domain=90elf.de|login.audimark.de
 @@||soerenmuenzer.de/bilder-pictures/werbung-commercial-editorial/$image
 @@||sparfoto.de/article_designer/ad.php?$object
-@@||spiegel.tv/datetime/|$object-subrequest
-@@||spiegel.tv/streaming_servers/|$object-subrequest
 @@||spielkarussell.de^*/ads_loader_new.js
 @@||spotrails.com/video/$object-subrequest,domain=mobile.de
 @@||stadtlist.de/images/ads/$image
