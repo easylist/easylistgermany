@@ -2,7 +2,6 @@
 @@||46.4.236.198/ox/www/delivery/ajs.php?zoneid=*&loc=http%3a//wz-newsline.de/index.php$script,domain=wz-newsline.de
 @@||4players.de/4players.php/tvplayer/*_werbung.html$object
 @@||4players.de/pub/videos/*_werbung.mp4
-@@||70efdf2ec9b086079795c442636b55fb.spiegel.tv/|$object-subrequest
 @@||abacomuenchensued.de/pageear/$object,object-subrequest,script
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=autos.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=autos.t-online.de
@@ -25,8 +24,10 @@
 @@||ads.heias.com/x/heias.smartclip/?$script,domain=podcast.de
 @@||ads.heias.com^*/heias.stream/$object,object-subrequest,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
-@@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
+@@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|spiegel.tv|vanityfair.de|vogue.de
 @@||adserv.quality-channel.de/realmedia/ads/*?videoad$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
+@@||adserv.quality-channel.de/realmedia/ads/adstream_lx.ads/www.spiegel.tv/*/vmiddle/qc/st-zaehler-*/zaehler.gif$object-subrequest,domain=spiegel.tv
+@@||adserv.quality-channel.de/realmedia/ads/adstream_sx.ads/www.spiegel.tv/*@vmiddle$object-subrequest,domain=spiegel.tv
 @@||adserver.71i.de/global_js/globalv6.js$domain=hausgemacht.tv
 @@||adserver.bigwigmedia.com/adfetch2.php?$object-subrequest,domain=spielefuerdich.de
 @@||adserver.bigwigmedia.com/ingamead2_$object-subrequest,domain=spielaffe.de
