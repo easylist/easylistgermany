@@ -909,6 +909,8 @@
 ||pz-news.de^*/module_wb/
 ||querverweis.net/show/index.php?sac_cat=
 ||quoka.de/fif.html
+||quoka.de/isl87a/*?$script
+||quoka.de/services/get_json.js?*=$xmlhttprequest
 ||quoka.de^*-|$script
 ||r3view.de/images/banners/
 ||radio32.ch/pages/dyn/*/header.cfm|$subdocument
