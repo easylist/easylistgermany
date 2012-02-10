@@ -2258,6 +2258,7 @@ tvtv.de##a[href^="http://www.TwinPlan.de/AF_"]
 tweakpc.de##.anzeige
 tweakpc.de##table[height="60"][width="482"][align="center"]
 typo3blogger.de##.chemical_sitelogo_r
+typo3forum.net##div[style="padding: 6px 0px 0px 0px"] > .tborder
 ubuntu-forum.de##table[style="background-color: none; border-top: 1px dashed; border-color: #a89058; border-left: 1px dashed; border-color: #a89058; border-right: 1px dashed; border-color: #a89058; border-bottom: 1px dashed; border-color: #a89058;"]
 ucoz.de##div[id^="adBar"]
 uhrforum.de###sidebar_container
