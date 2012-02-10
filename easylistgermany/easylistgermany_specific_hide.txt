@@ -2205,6 +2205,7 @@ top-hitz.com###top-hitz-bar
 top-hitz.com##a[href^="http://www.adcell.de/click.php"]
 top-hitz.com##input[onclick^="window.open('http://www.adcell.de/click.php"]
 top-suchmaschinenranking.de##body > style + div[id]:nth-child(n+13)
+topmodels.de##img[width="120"][height="600"]
 toppreise.ch##a[href^="http://clk.tradedoubler.com/click?"]
 torrent.to###ttoadbar
 torrent.to###ttolayer
