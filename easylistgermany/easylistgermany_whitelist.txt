@@ -24,10 +24,8 @@
 @@||ads.heias.com/x/heias.smartclip/?$script,domain=podcast.de
 @@||ads.heias.com^*/heias.stream/$object,object-subrequest,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
-@@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|spiegel.tv|vanityfair.de|vogue.de
+@@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
 @@||adserv.quality-channel.de/realmedia/ads/*?videoad$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
-@@||adserv.quality-channel.de/realmedia/ads/adstream_lx.ads/www.spiegel.tv/*/vmiddle/qc/st-zaehler-*/zaehler.gif$object-subrequest,domain=spiegel.tv
-@@||adserv.quality-channel.de/realmedia/ads/adstream_sx.ads/www.spiegel.tv/*@vmiddle$object-subrequest,domain=spiegel.tv
 @@||adserver.71i.de/global_js/globalv6.js$domain=hausgemacht.tv
 @@||adserver.bigwigmedia.com/adfetch2.php?$object-subrequest,domain=spielefuerdich.de
 @@||adserver.bigwigmedia.com/ingamead2_$object-subrequest,domain=spielaffe.de
