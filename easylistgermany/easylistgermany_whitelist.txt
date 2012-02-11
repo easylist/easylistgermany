@@ -40,6 +40,7 @@
 @@||adtech.de/apps/$object-subrequest,domain=cineman.de
 @@||adtech.de/crossdomain.xml$object-subrequest,domain=20min.ch|cineman.de|filmstarts.de|login.audimark.de|player.nowonscreen.com|teleboy.ch|yavido.tv
 @@||aka-cdn-ns.adtech.de/apps/$image,domain=neckermann.de
+@@||aka-cdn-ns.adtech.de/apps/$object-subrequest,domain=filmstarts.de
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
 @@||altfarm.mediaplex.com/ad/ck/$image,domain=paypal-deutschland.de
 @@||ardie.de/homepage/werbung_$subdocument
