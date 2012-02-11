@@ -848,6 +848,7 @@ gamers.at###header > a[target="_blank"]
 gamers.at##.networkbanner + script + a
 gamers.at##.networkbanner + script + a + a
 gamers.at##a[href^="http://ad.perfectworld.eu/"]
+gamers.at##a[href^="http://ads.oomz.de/"]
 gamers.at##a[href^="http://ads2.krawall.de"]
 gamers.at##a[href^="http://adsfac.eu/link.asp"]
 gamers.de##div[id^="click"]
