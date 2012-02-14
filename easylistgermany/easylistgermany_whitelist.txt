@@ -244,6 +244,7 @@
 @@||contaxe.com/go/show.js?atp=bnr&$subdocument,domain=bloodpatches.net
 @@||david-forum.de/advertisement.css
 @@||deutschland-spion.de/www/delivery/spcjs.php?id=$script,domain=mv-spion.de
+@@||dokumente-online.com^*/adframe.js
 @@||feed-reader.net^$elemhide,image,script
 @@||free-klingeltoene-handy.de/adframe.js
 @@||free-otr.de^*/adcode.js
@@ -267,8 +268,8 @@
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=dokumente-online.com|lablue.at|lablue.ch|lablue.de|mines.oprojekt.net|risiko-gesundheit.de
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=dokumente-online.com|lablue.at|lablue.ch|lablue.de|mines.oprojekt.net|risiko-gesundheit.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=lablue.at|lablue.ch|lablue.de|mines.oprojekt.net|risiko-gesundheit.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=lablue.at|lablue.ch|lablue.de|mines.oprojekt.net|risiko-gesundheit.de
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||qtom.tv^*/adframe.js
 @@||sudoku-space.de^$script
