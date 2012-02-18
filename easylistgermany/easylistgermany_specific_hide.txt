@@ -2342,6 +2342,7 @@ vox.de##.rectangel
 vox.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
 voxnow.de##a[href^="/tools/count/xdot/count.php?id="]
 voxnow.de##div[onclick^="window.open('/tools/count/xdot/count.php?id="]
+wahretabelle.de###banner_top
 walliserbote.ch##.ban-img
 wallpaper.to###genlayer
 wallstreet-online.de##.posting + div[style="width:860px;"]
