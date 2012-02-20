@@ -1935,6 +1935,7 @@ sdx.cc###layer
 sdx.cc##.announce_text
 sdx.cc##a[href^="http://eads.to"]
 sdx.cc##a[href^="http://mirror.sdx.cc/"]
+sdx.cc##a[href^="http://netload.in/index.php?refer_id="]
 seaofsin.info##a[href^="http://ad.zanox.com/ppc/?"]
 seatforum.de##img[src="http://www.seatforum.de/forum/images/anzeige.gif"] + a[target="_blank"] > img
 secured.in##.container-banner-image
