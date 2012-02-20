@@ -1872,9 +1872,11 @@ saugzone.in###popover
 saugzone.in##input[onclick^="window.open('http://www.friendlyduck.com/AF_"]
 saugzone.in##input[onclick^="window.open('http://www2.filedroid.net/AF_"]
 saugzone.info###popover
+saugzone.info##a[href="http://saugzone.info/highspeed/"]
 saugzone.info##a[href^="http://saugzone.info/usenet/"]
 saugzone.info##a[href^="http://tinyurl.com/"]
 saugzone.info##center > a[style="font-size: 15px; color: 185AC3; text-decoration:"][target="_self"]
+saugzone.info##input[onclick^="window.open('http://saugzone.info/highspeed/"]
 saugzone.info##input[onclick^="window.open('http://saugzone.info/usenet/"]
 saugzone.info##input[onclick^="window.open('http://tinyurl.com/"]
 saugzone.info##input[onclick^="window.open('http://www.friendlyduck.com/AF_"]
