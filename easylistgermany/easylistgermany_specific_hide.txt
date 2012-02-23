@@ -2016,6 +2016,7 @@ sound-load.net##a[href^="http://uploaded.to/ref?id="]
 sound-load.net##input[onclick*="window.open('http://www.FriendlyDuck.com/AF_"]
 sound-load.net##input[onclick^="window.open('http://uploaded.to/ref?id="]
 sound.to###mediaget_box
+speed-warez.com##body > noscript > style + div[id]:last-child
 speed-warez.com##body > style + div[id]:nth-child(n+13)
 speedload.to##a[href^="http://snipurl.com"]
 speedload.to##a[href^="http://tiny.cc"]
