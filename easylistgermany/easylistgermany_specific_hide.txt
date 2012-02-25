@@ -2537,6 +2537,8 @@ gamerzblog.de##body > :nth-child(n) + style + div[id]:last-child
 gamerzblog.de##body > div[id]:first-child
 germanycash.de##body > :nth-child(n) + style + div[id]:last-child
 germanycash.de##body > noscript > style + div[id]:last-child
+leverkusen-online.info##body > :nth-child(n) + style + div[id]:last-child
+leverkusen-online.info##body > div > div > noscript > style + div[id]:last-child
 mysmspage.de##body > style + div[id]:nth-child(n+13)
 otr-cloud.net##body > style[id] + div[id]:nth-child(n+13)
 otr-keys.de##body > div[id]:first-child + div[id][style]
