@@ -112,8 +112,6 @@ allfacebook.de##.fanwerden + .popular-posts
 allinklwith.us###ad_global_below_navbar
 alphaspeed.de##a[href*=".clickbank.net"]
 alphaspeed.de##a[href="/firstload.php"]
-alphaspeed.de##body > :nth-child(6) + p[id][style]
-alphaspeed.de##body > :nth-child(6) + style + div[id]:last-child
 alternative-zu.de##.azuitem_googleAdSense
 am-ende-des-tages.de###topbanner
 amazon.de###DAr2
@@ -832,7 +830,6 @@ g-stream.in##a[target="_blank"] > img[width="720"][height="90"]
 g-stream.in##button[onclick^="window.open('http://g-stream.in/mirror/"]
 g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
 g15-applets.de##tr:first-child:last-child > .bodyline[valign="top"]:first-child + td[width="120"][valign="top"]:last-child
-game-complex.blogspot.com##body > :nth-child(n) + style + div[id]:last-child
 game-freaks.net###div_flip
 game-freaks.net##a[href^="http://freakshare.net/?ref="]
 gamefront.de##img[width="160"][height="600"]
@@ -1093,7 +1090,6 @@ ht4u.net##div[style="float:left;margin:10px 3px 10px 0px;width:300px;height:250p
 html-world.de##div[style="border:1px solid #8EC1CF; padding:3px; margin:0px; background-color:white;"]
 html-world.de##div[style="width:300px; height:250px; "]
 htwk-leipzig.de##a[href*="/adclick.php?"]
-hubbahotel.ws##body > style[id] + div[id]:nth-child(n+13)
 i-have-a-dreambox.com##a[href="https://www.satplace.de"]
 ibash.de##.partner
 ibash.de##div[style="clear:left; font-family: Verdana,Tahoma,Geneva,Verdana,sans-serif; font-size:11px;width:380px;"]
@@ -1449,7 +1445,6 @@ mydrg.de##.frameo
 mydrg.de##.frameu
 mygully.com##a[href^="http://dl1.mygully.com"]
 mysmag.de###sky
-mysmspage.de##body > style + div[id]:nth-child(n+13)
 myspass.de###playerData > div[style="height: 250px; overflow: hidden;"]
 myspass.de###target_banner_wrapper
 mysqldumper.de##a[href^="http://www.artfiles.de/?affiliate="]
@@ -1546,7 +1541,6 @@ online-moviez.com##a[href^="http://www.online-moviez.com/cgateway/"]
 online-schauen.com##.banner
 online-schauen.com##a[href^="http://goo.gl/"]
 online-schauen.com##a[href^="http://www.meingutscheindeal.de"]
-online-stream.tv##body > style + div[id]:nth-child(n+13)
 onlinekosten.de##.newstxt > table[width="308"][cellspacing="0"][cellpadding="0"][border="0"][align="right"]
 onlinekosten.de##div[align="left"][style="padding:0px 25px 0px 25px"] > div[align="center"][style="margin: 10px 0px 20px 0px;"]
 onlinekosten.de##div[style="width: 850px; margin: 0px auto 10px auto; color: #fff;"]
@@ -1577,12 +1571,6 @@ os-informer.de###plakathomecontentmetaboli2
 os-informer.de###plakathomecontentmetaboli2bottom
 os-informer.de###rect_anz
 ostfussball.com##a[href^="http://adfarm.mediaplex.com/"]
-otr-cloud.net##body > style[id] + div[id]:nth-child(n+13)
-otr-keys.de##body > div[id]:first-child + div[id][style]
-otr-keys.de##body > style + div[id]:nth-child(n+13)
-otr-keys.de##div[style*="background-color: rgb(0, 0, 0);"]
-otr-keys.de##div[style*="background-color: rgb(145, 145, 145);"]
-otr-share.de##body > :nth-child(n) + style + div[id]:last-child
 otr.datenkeller.at###bannerBlock
 otrkey.com###ad
 otrkey.com##a[href^="http://www.TwinPlan.com/AF_"]
@@ -1652,8 +1640,6 @@ petitionen24.com##div[style="border: solid #95bce2 1px;  padding: 1em 0; margin:
 pfaelzischer-merkur.de##.anzeigeBox
 pg-logout.auskunft.de###auskunft
 phonostar.de##.ad
-photoguide.pytalhost.net##body > :nth-child(15) + div[id][style]
-photoguide.pytalhost.net##body > :nth-child(15) + div[id][style] + div[style]
 photoshop-weblog.de##a[href="http://print24.com/de"]
 php-resource.de###topBanner
 php-resource.de##div[style="background-color:#fff7bd;border:1px #818181 solid;padding:15px;margin:15px;width:900px;"]
@@ -1788,8 +1774,6 @@ regensburg-digital.de##.seitenanzeige
 reimemaschine.de##.rechts_neu > table[border="0"][align="center"][width="150"]:first-child:last-child
 relfreaks.com##a[href^="http://relfreaks.com/usenet/"]
 relfreaks.com##input[onclick^="window.open('http://relfreaks.com/usenet/"]
-rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
-rene-neuweiler.ch##body > noscript > style + div[id]:last-child
 repage.de##table[style="background-color:5F5F5F;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
 repage8.de##table[style*=";table-layout:visible;width:468px;height:60px;"]
 report-k.de###bantabelle
@@ -1996,7 +1980,6 @@ smartphone-daily.de###rect_anz
 smartphone-daily.de###row_top
 sms-box.de##a[href^="http://clkde.tradedoubler.com/click?"]
 sms-elite.de##a[target="_blank"][href^="http://versand.sms-elite.de/www/../weiter/"]
-sms-elite.de##body > style + div[id]:nth-child(n+13)
 smsform.de##a[href^="http://www.adscads.de/sites/"]
 smsgott.de##a[href="/d2freikarte.php"]
 smsgott.de##a[href^="/o2freikarte.php"]
@@ -2019,8 +2002,6 @@ sound-load.net##a[href^="http://uploaded.to/ref?id="]
 sound-load.net##input[onclick*="window.open('http://www.FriendlyDuck.com/AF_"]
 sound-load.net##input[onclick^="window.open('http://uploaded.to/ref?id="]
 sound.to###mediaget_box
-speed-warez.com##body > noscript > style + div[id]:last-child
-speed-warez.com##body > style + div[id]:nth-child(n+13)
 speedload.to##a[href^="http://snipurl.com"]
 speedload.to##a[href^="http://tiny.cc"]
 speedlounge.in##.content > center > hr[width="100%"] + a
@@ -2068,8 +2049,6 @@ spotlight.de##table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"] 
 spotlight.de##tr > .BoxWPresse[valign="top"][align="center"] > br:first-child + table:last-child
 spotlight.de##tr:first-child:last-child > td[valign="top"]:first-child + td[valign="top"]:last-child > br:first-child + br + table:last-child
 spox.com###frnBanner
-spreadlink.us##body > :nth-child(n) + a[id] + div[id]:last-child
-spreadlink.us##body > :nth-child(n) + style + div[id]:last-child
 spritmonitor.de###towe
 staedte-info.net###Layer1
 staedte-info.net###Layer2
@@ -2100,7 +2079,6 @@ stream-collector.com##a[href^="http://tinyurl.com/"]
 stream-tv.de##a[href^="http://partners.webmasterplan.com/click.asp"]
 stream800.com##a[href="download.php"]
 stream800.com##a[href="netarena.php"]
-streammafia.com##body > :nth-child(14) + style + div[id]:last-child
 streams.to##a[href^="http://mediaget.com"]
 streams.to##a[href^="http://www.topmail.cc"]
 streams4.us##a[onclick$=";OpenStreambox('directdownload');"]
@@ -2133,11 +2111,6 @@ suedostschweiz.ch##.sponsoredby
 suite101.de##div[style="border-top:1px solid #CCCCCC; border-bottom:1px solid #CCCCCC"]
 sunshine-live.de##.banner
 sunshine-live.de##.top
-super-otr.de###l93b850
-super-otr.de##body > style[id] + div[id]:nth-child(n+13)
-super-otr.de##div[style*="background-color: rgb(0, 0, 0);"]
-super-otr.de##div[style*="background-color: rgb(145, 145, 145);"]
-super-otr.de##div[style*="z-index: 100000; display: block"]
 surffact.de###skyscraper
 suxedoo.ch###banner
 suxedoo.ch###banner_left
@@ -2216,7 +2189,6 @@ top-dsl.com###Layer2
 top-hitz.com###top-hitz-bar
 top-hitz.com##a[href^="http://www.adcell.de/click.php"]
 top-hitz.com##input[onclick^="window.open('http://www.adcell.de/click.php"]
-top-suchmaschinenranking.de##body > style + div[id]:nth-child(n+13)
 topmodels.de##img[width="120"][height="600"]
 toppreise.ch##a[href^="http://clk.tradedoubler.com/click?"]
 torrent.to###ttoadbar
@@ -2298,8 +2270,6 @@ uwarez.ws##a[href*=".gigaflat.com/affiliate/"]
 uwarez.ws##input[onclick^="window.open('http://dlprofit.com/registration.php?ref="]
 uwarez.ws##input[onclick^="window.open('http://unlimited-downloads.biz/?id="]
 uwarez.ws##input[onclick^="window.open('http://www.gigaflat.com/affiliate/"]
-vampirediaries.in##body > :nth-child(n+20) + style + div[id]:last-child
-vampirediaries.in##body > noscript > style + div[id]:last-child
 vanion.eu###skyscraper
 velderboard.li##img[width="468"][height="60"]
 verboten.to##a[href^="http://www.sofort-geld-verdienen.com"]
@@ -2547,6 +2517,28 @@ zoozle.net###search_right
 zoozle.net###search_topline
 zoozle.net##a[onclick^="downloadFile('download_big', null,"]
 zoozle.net##a[onclick^="downloadFile('download_related', null,"]
+! Anti-Adblock
+alphaspeed.de##body > :nth-child(6) + p[id][style]
+alphaspeed.de##body > :nth-child(6) + style + div[id]:last-child
+game-complex.blogspot.com##body > :nth-child(n) + style + div[id]:last-child
+mysmspage.de##body > style + div[id]:nth-child(n+13)
+otr-cloud.net##body > style[id] + div[id]:nth-child(n+13)
+otr-keys.de##body > div[id]:first-child + div[id][style]
+otr-share.de##body > :nth-child(n) + style + div[id]:last-child
+rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
+rene-neuweiler.ch##body > noscript > style + div[id]:last-child
+sms-elite.de##body > style + div[id]:nth-child(n+13)
+speed-warez.com##body > noscript > style + div[id]:last-child
+speed-warez.com##body > style + div[id]:nth-child(n+13)
+spreadlink.us##body > :nth-child(n) + a[id] + div[id]:last-child
+spreadlink.us##body > :nth-child(n) + style + div[id]:last-child
+streammafia.com##body > :nth-child(14) + style + div[id]:last-child
+super-otr.de##body > style[id] + div[id]:nth-child(n+13)
+super-otr.de##div[style*="background-color: rgb(0, 0, 0);"]
+super-otr.de##div[style*="background-color: rgb(145, 145, 145);"]
+super-otr.de##div[style*="z-index: 100000; display: block"]
+vampirediaries.in##body > :nth-child(n+20) + style + div[id]:last-child
+vampirediaries.in##body > noscript > style + div[id]:last-child
 ! Legacy rules (for Firefox 3 and similar Gecko 1 browsers)
 5-jahres-wertung.de,~pregecko2###logo-right > div[style="float: left; margin-top: 25px;"]
 abnehmen.com,~pregecko2##div[style="width: 70%; height: 280px; min-width: 680px ! important;"]
