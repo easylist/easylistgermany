@@ -44,6 +44,7 @@
 ||banner.sealmedia.de^$third-party
 ||banner.upjers.com^$third-party
 ||banners.jobwinner.ch^$third-party
+||base.de/partner/start?id=*&nsctrid=$image,~image,popup,third-party
 ||baygel.de/banner/
 ||beyond-media.at/bm_banner_oa.gif$third-party
 ||biild.host56.com^$image,~image,popup
@@ -402,6 +403,7 @@
 ||view.jamba.de^$third-party
 ||visit-x.net/001/$third-party
 ||visit-x.net/promo/$third-party
+||vodafone.de^*&tsid=$image,~image,popup,third-party
 ||volksbank-oberberg.de/banner/$third-party
 ||vorratsdatenspeicherung.de/images/akvs*.gif$third-party
 ||vote4me.de^$third-party
