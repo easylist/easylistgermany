@@ -2522,6 +2522,8 @@ alphaspeed.de##body > :nth-child(6) + p[id][style]
 alphaspeed.de##body > :nth-child(6) + style + div[id]:last-child
 axi92.at##body > :nth-child(n) + style + div[id]:last-child
 axi92.at##body > noscript > style + div[id]:last-child
+battleround.ath.cx##body > :nth-child(n) + style + div[id]:last-child
+battleround.ath.cx##body > noscript > style + div[id]:last-child
 game-complex.blogspot.com##body > :nth-child(n) + style + div[id]:last-child
 mysmspage.de##body > style + div[id]:nth-child(n+13)
 otr-cloud.net##body > style[id] + div[id]:nth-child(n+13)
