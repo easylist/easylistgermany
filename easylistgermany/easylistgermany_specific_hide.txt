@@ -2550,6 +2550,8 @@ nachrichtenamort.de##body > noscript > style + div[id]:last-child
 otr-cloud.net##body > style[id] + div[id]:nth-child(n+13)
 otr-keys.de##body > div[id]:first-child + div[id][style]
 otr-share.de##body > :nth-child(n) + style + div[id]:last-child
+pfalzfussball.de##BODY noscript > style + div[id]:last-child
+pfalzfussball.de##body > :nth-child(n) + style + div[id]:last-child
 rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
 rene-neuweiler.ch##body > noscript > style + div[id]:last-child
 sms-elite.de##body > style + div[id]:nth-child(n+13)
