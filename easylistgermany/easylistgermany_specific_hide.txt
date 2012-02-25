@@ -2528,6 +2528,8 @@ cpp-crashkurs.de##body > :nth-child(n) + style + div[id]:last-child
 cpp-crashkurs.de##body > noscript > style + div[id]:last-child
 doclaurence-sector.de##body > :nth-child(n) + style + div[id]:last-child
 doclaurence-sector.de##body > noscript > style + div[id]:last-child
+erfthalle.de##body > :nth-child(n) + style + div[id]:last-child
+erfthalle.de##body > noscript > style + div[id]:last-child
 game-complex.blogspot.com##body > :nth-child(n) + style + div[id]:last-child
 mysmspage.de##body > style + div[id]:nth-child(n+13)
 otr-cloud.net##body > style[id] + div[id]:nth-child(n+13)
