@@ -2570,6 +2570,8 @@ up-tv.de##body > :nth-child(n) + style + div[id]:last-child
 up-tv.de##body > noscript > style + div[id]:last-child
 vampirediaries.in##body > :nth-child(n+20) + style + div[id]:last-child
 vampirediaries.in##body > noscript > style + div[id]:last-child
+wwwok.at##BODY div > font > noscript > div[id]:last-child
+wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 ! Legacy rules (for Firefox 3 and similar Gecko 1 browsers)
 5-jahres-wertung.de,~pregecko2###logo-right > div[style="float: left; margin-top: 25px;"]
 abnehmen.com,~pregecko2##div[style="width: 70%; height: 280px; min-width: 680px ! important;"]
