@@ -2550,8 +2550,8 @@ nachrichtenamort.de##body > noscript > style + div[id]:last-child
 otr-cloud.net##body > style[id] + div[id]:nth-child(n+13)
 otr-keys.de##body > div[id]:first-child + div[id][style]
 otr-share.de##body > :nth-child(n) + style + div[id]:last-child
-pfalzfussball.de##BODY noscript > style + div[id]:last-child
 pfalzfussball.de##body > :nth-child(n) + style + div[id]:last-child
+pfalzfussball.de##body noscript > style + div[id]:last-child
 rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
 rene-neuweiler.ch##body > noscript > style + div[id]:last-child
 sms-elite.de##body > style + div[id]:nth-child(n+13)
@@ -2570,8 +2570,8 @@ up-tv.de##body > :nth-child(n) + style + div[id]:last-child
 up-tv.de##body > noscript > style + div[id]:last-child
 vampirediaries.in##body > :nth-child(n+20) + style + div[id]:last-child
 vampirediaries.in##body > noscript > style + div[id]:last-child
-wwwok.at##BODY div > font > noscript > div[id]:last-child
 wwwok.at##body > :nth-child(n) + style + div[id]:last-child
+wwwok.at##body div > font > noscript > div[id]:last-child
 ! Legacy rules (for Firefox 3 and similar Gecko 1 browsers)
 5-jahres-wertung.de,~pregecko2###logo-right > div[style="float: left; margin-top: 25px;"]
 abnehmen.com,~pregecko2##div[style="width: 70%; height: 280px; min-width: 680px ! important;"]
