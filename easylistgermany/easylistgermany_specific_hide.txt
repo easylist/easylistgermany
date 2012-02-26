@@ -2543,6 +2543,7 @@ diedreifragezeichen.tk##body > :nth-child(n) + style + div[id]:last-child
 diedreifragezeichen.tk##body > noscript > style + div[id]:last-child
 doclaurence-sector.de##body > :nth-child(n) + style + div[id]:last-child
 doclaurence-sector.de##body > noscript > style + div[id]:last-child
+doit2help.de##body > div[id]:first-child
 erfthalle.de##body > :nth-child(n) + style + div[id]:last-child
 erfthalle.de##body > noscript > style + div[id]:last-child
 game-complex.blogspot.com##body > :nth-child(n) + style + div[id]:last-child
