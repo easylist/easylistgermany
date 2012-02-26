@@ -2570,6 +2570,8 @@ pfalzfussball.de##body > :nth-child(n) + style + div[id]:last-child
 pfalzfussball.de##body noscript > style + div[id]:last-child
 rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
 rene-neuweiler.ch##body > noscript > style + div[id]:last-child
+rentatobi.de##body > :nth-child(n) + style + div[id]:last-child
+rentatobi.de##body > noscript > style + div[id]:last-child
 sms-elite.de##body > style + div[id]:nth-child(n+13)
 speed-warez.com##body > noscript > style + div[id]:last-child
 speed-warez.com##body > style + div[id]:nth-child(n+13)
