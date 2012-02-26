@@ -2527,6 +2527,8 @@ zoozle.net###search_topline
 zoozle.net##a[onclick^="downloadFile('download_big', null,"]
 zoozle.net##a[onclick^="downloadFile('download_related', null,"]
 ! Anti-Adblock
+84.113.231.167##body > :nth-child(n) + style + div[id]:last-child
+84.113.231.167##body > noscript > style + div[id]:last-child
 alphaspeed.de##body > :nth-child(6) + p[id][style]
 alphaspeed.de##body > :nth-child(6) + style + div[id]:last-child
 axi92.at##body > :nth-child(n) + style + div[id]:last-child
