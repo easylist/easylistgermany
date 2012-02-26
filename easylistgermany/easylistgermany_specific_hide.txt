@@ -2573,6 +2573,8 @@ rene-neuweiler.ch##body > noscript > style + div[id]:last-child
 rentatobi.de##body > :nth-child(n) + style + div[id]:last-child
 rentatobi.de##body > noscript > style + div[id]:last-child
 sms-elite.de##body > style + div[id]:nth-child(n+13)
+spacebattle.ath.cx##body > :nth-child(n) + style + div[id]:last-child
+spacebattle.ath.cx##body > noscript > style + div[id]:last-child
 speed-warez.com##body > noscript > style + div[id]:last-child
 speed-warez.com##body > style + div[id]:nth-child(n+13)
 spreadlink.us##body > :nth-child(n) + a[id] + div[id]:last-child
