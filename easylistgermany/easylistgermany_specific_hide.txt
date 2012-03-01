@@ -1773,6 +1773,9 @@ rapidvideo.com###player:first-child + center:last-child > a[target="_blank"]:fir
 rapidvideo.com##a[href^="http://network.adsmarket.com"]
 rawsucker.com##.galine
 rc-network.de##.above_body:first-child + table[cellspacing="0"][cellpadding="0"][border="0"][align="center"]
+rclineforum.de###RotBanner
+rclineforum.de##div[style="position: absolute; right: 7px; top: 128px;"]
+rclineforum.de##div[style="position: absolute; right:0px; top:0px; background-image:url(wcf/images/img/banner-bg.png); width: 482px; height: 71px; padding: 3px 0 0 15px;"]
 readmore.de##.block[href^="http://www.amazon.de/"][href*="tag=readmore-21"]
 readmore.de##.ofhidden > div[style="width:520px; height:50px;"]
 readmore.de##a[href^="http://www4.smartadserver.com/"]
