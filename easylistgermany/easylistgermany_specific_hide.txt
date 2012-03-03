@@ -997,6 +997,7 @@ hardcoremetal.biz##a[href^="http://ul.to/ref/"]
 hardcoremetal.biz##a[href^="http://uploaded.to/ref?id="]
 hardcoremetal.biz##a[href^="http://x7.to/foyer/"]
 hardcoremetal.biz##input[onclick^="window.open('http://hardcoremetal.biz/usenet/"]
+hardcoremetal.biz##input[onclick^="window.open('http://tinyurl.com/"]
 hardware-experten.de###dailybanner
 hardware-infos.com##.bannerContainer
 hardware-infos.com##table[style="position: absolute; top: 140px; left: 50%; margin-left: 505px; width: 120px; height: 600px; border-collapse: collapse; border: 1px solid #808080"]
