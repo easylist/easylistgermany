@@ -2217,10 +2217,13 @@ top-hitz.com##a[href^="http://www.adcell.de/click.php"]
 top-hitz.com##input[onclick^="window.open('http://www.adcell.de/click.php"]
 topmodels.de##img[width="120"][height="600"]
 toppreise.ch##a[href^="http://clk.tradedoubler.com/click?"]
+torrent.to###OptionMenu > div + div + div[class]
 torrent.to###ttoadbar
 torrent.to###ttolayer
 torrent.to##.SubMenu > .Headline + div[style="margin:14px"]:last-child
+torrent.to##a[href^="http://bit.ly/"]
 torrent.to##a[href^="http://goo.gl/"]
+torrent.to##a[href^="http://tinyurl.com/"]
 torrent.to##a[href^="http://www.firstload.net/affiliate/"]
 torrent.to##a[href^="http://www.teddy-town.com"]
 trackfox.com##body
