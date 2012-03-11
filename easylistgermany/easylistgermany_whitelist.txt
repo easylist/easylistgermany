@@ -119,6 +119,7 @@
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.com/adsense/search/ads.js$domain=marktplatz.nordclick.de
 @@||google.com/uds/api/ads/*/search.in.js$domain=marktplatz.nordclick.de
+@@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
 @@||googletagservices.com/tag/js/gpt.js$domain=kleinanzeigen.ebay.de
 @@||greuther-fuerth.de/fileadmin/templates/js/plugins/pagepeel/$object,object-subrequest,script
