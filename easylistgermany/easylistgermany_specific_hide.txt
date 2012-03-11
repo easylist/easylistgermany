@@ -1001,6 +1001,7 @@ hardcoremetal.biz##a[href="http://hardcoremetal.biz/usenet/"]
 hardcoremetal.biz##a[href^="http://ul.to/ref/"]
 hardcoremetal.biz##a[href^="http://uploaded.to/ref?id="]
 hardcoremetal.biz##a[href^="http://x7.to/foyer/"]
+hardcoremetal.biz##input[onclick^="window.open('http://hardcoremetal.biz/premium"]
 hardcoremetal.biz##input[onclick^="window.open('http://hardcoremetal.biz/usenet/"]
 hardcoremetal.biz##input[onclick^="window.open('http://tinyurl.com/"]
 hardware-experten.de###dailybanner
