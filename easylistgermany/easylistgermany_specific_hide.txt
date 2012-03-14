@@ -2236,12 +2236,14 @@ top-hitz.com##a[href^="http://www.adcell.de/click.php"]
 top-hitz.com##input[onclick^="window.open('http://www.adcell.de/click.php"]
 topmodels.de##img[width="120"][height="600"]
 toppreise.ch##a[href^="http://clk.tradedoubler.com/click?"]
+torrent.to###MainMenu:first-child + div + div > div:first-child + div + div
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div + div[class]
 torrent.to###ttoadbar
 torrent.to###ttolayer
 torrent.to##a[href^="http://bit.ly/"]
 torrent.to##a[href^="http://goo.gl/"]
 torrent.to##a[href^="http://tinyurl.com/"]
+torrent.to##a[href^="http://www.firstload.com/?uniq="]
 torrent.to##a[href^="http://www.firstload.net/affiliate/"]
 trackfox.com##body
 trackfox2.com##body
