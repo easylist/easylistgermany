@@ -2247,6 +2247,7 @@ torrent.to##a[href^="http://goo.gl/"]
 torrent.to##a[href^="http://tinyurl.com/"]
 torrent.to##a[href^="http://www.firstload.com/?uniq="]
 torrent.to##a[href^="http://www.firstload.net/affiliate/"]
+torrent.to##div[style] > div + div + div + a > img
 trackfox.com##body
 trackfox2.com##body
 trailerzone.info##.leaderboard
