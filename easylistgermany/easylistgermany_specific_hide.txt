@@ -2241,6 +2241,7 @@ top-hitz.com##a[href^="http://www.adcell.de/click.php"]
 top-hitz.com##input[onclick^="window.open('http://www.adcell.de/click.php"]
 topmodels.de##img[width="120"][height="600"]
 toppreise.ch##a[href^="http://clk.tradedoubler.com/click?"]
+torrent.to###Content + div > div + div + div + a > img
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div + div[class]
 torrent.to###ttoadbar
