@@ -481,7 +481,7 @@ ddl-music.org##a[href^="http://www.roulette-trick.eu"]
 ddl-music.org##a[href^="http://www.share-online.biz/service.php?p="]
 ddl-music.org##a[href^="http://x7.to/foyer/"]
 ddl-music.org##a[href^="https://www.share-online.biz/affiliate/"]
-ddl-music.org##body > div[style]:first-child
+ddl-music.org##body > :first-child
 ddl-music.org##form[action^="http://www.gigaflat.com/affiliate/"]
 ddl-music.org##input[onclick^="javascript:window.open('http://www.FriendlyDuck.com/AF_"]
 ddl-porn.us###post-2302
