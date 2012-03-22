@@ -2249,6 +2249,7 @@ toppreise.ch##a[href^="http://clk.tradedoubler.com/click?"]
 torrent.to###Content + div > div + div + div + a > img
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div + div[class]
+torrent.to###Mainframe > div > a > img
 torrent.to###ttoadbar
 torrent.to###ttolayer
 torrent.to##a[href^="http://bit.ly/"]
