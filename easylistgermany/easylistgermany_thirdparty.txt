@@ -55,7 +55,7 @@
 ||bn.gewinn24.de^
 ||bn.profiwin.de^$third-party
 ||bodyguardapotheke.com^*/banner/
-||boerse.bz/toplist/vote/$image,~image,popup
+||boerse.bz/toplist/vote/$image,~image,popup,domain=~linkvz.net
 ||boerse.bz/toplist/vote/$third-party
 ||boerse.bz^*/banners/$third-party
 ||boxen1.com^*/jessica1.jpg
@@ -310,7 +310,7 @@
 ||questler.de/gfx/banner/$third-party
 ||rabattsparer.de/banner234x60.gif
 ||raenox.com/vote/$third-party
-||raidrush.ws/vote/$image,~image,popup,domain=~speedlounge.in
+||raidrush.ws/vote/$image,~image,popup,domain=~linkvz.net|~speedlounge.in
 ||randyrun.de/affil/
 ||ranklist.us/in.php$third-party
 ||rapidflat.com/?a=$third-party
@@ -430,7 +430,7 @@
 ||wm-space.youero.com^
 ||woom.ws/banner/
 ||woz.to/banners/$third-party
-||woz.to/vote/$image,~image,popup,domain=~speedlounge.in
+||woz.to/vote/$image,~image,popup,domain=~linkvz.net|~speedlounge.in
 ||woz.to/vote/$third-party
 ||wpseo.de^*/banner/$third-party
 ||wurzelimperium.de/banner/
