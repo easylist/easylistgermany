@@ -408,6 +408,7 @@
 ||verleihshop.de/gfx/partner/$third-party
 ||versandtarif.de^*?partnerid=$third-party
 ||verschenkehandy.de/?pid=$third-party
+||vidonna.de/pop.php$image,~image,popup,third-party
 ||vienna.at/banner/
 ||view.autoscout24.de^$third-party
 ||view.ilove.de^$third-party
