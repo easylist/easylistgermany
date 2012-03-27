@@ -20,6 +20,7 @@
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
 @@||admin.brightcove.com/viewer/*/advertisingmodule.swf$domain=bunch.tv|dmax.de|morgenpost.de
+@@||adonline.anonza.de^$~document,~third-party
 @@||ads.autoscout24.com/adserver/*&elementid=ctl00_ctl00_decoratedarea_contentarea_fsbox0&$script,domain=autoscout24.de
 @@||ads.heias.com/x/heias.smartclip/?$script,domain=podcast.de
 @@||ads.heias.com^*/heias.stream/$object,object-subrequest,script,domain=frustfrei-lernen.de
@@ -43,6 +44,7 @@
 @@||aka-cdn-ns.adtech.de/apps/$object-subrequest,domain=filmstarts.de
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
 @@||altfarm.mediaplex.com/ad/ck/$image,domain=paypal-deutschland.de
+@@||anonza.de^*/adonline.css
 @@||ardie.de/homepage/werbung_$subdocument
 @@||atwola.com/?adrawdata/$object-subrequest,domain=player.nowonscreen.com
 @@||atwola.com/crossdomain.xml$object-subrequest,domain=player.nowonscreen.com
