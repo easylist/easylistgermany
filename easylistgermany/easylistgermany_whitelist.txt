@@ -206,7 +206,7 @@
 @@||soerenmuenzer.de/bilder-pictures/werbung-commercial-editorial/$image
 @@||sparfoto.de/article_designer/ad.php?$object
 @@||spielkarussell.de^*/ads_loader_new.js
-@@||spilcdn.com^*/advertisement/css/sgadteens.css$domain=jetztspielen.de|spielen.com
+@@||spilcdn.com^*/advertisement/css/*.css$domain=jetztspielen.de|spielen.com
 @@||spilcdn.com^*/advertisement/flowplayer/flowplayer-*.min.js$domain=jetztspielen.de|spielen.com
 @@||spilcdn.com^*/advertisement/flowplayer/flowplayer.commercial-*.swf$object,domain=jetztspielen.de|spielen.com
 @@||spotrails.com/video/$object-subrequest,domain=mobile.de
