@@ -430,12 +430,7 @@ comedycentral.de##.adv
 comedycentral.de##.topHatLink
 compliancemagazin.de##a[href^="http://www.itseccity.de/adserver/"]
 compliancemagazin.de##div[style="text-align:center; margin-bottom:10px;"]
-computerbase.de###main > .box:first-child > div > span:first-child + ul:last-child
-computerbase.de###main:first-child > .box:first-child > ul > li:first-child:last-child
 computerbase.de##.amazon-links
-computerbase.de##.amazon-links + div > ul:last-child > li
-computerbase.de##.amazon-links + span + ul
-computerbase.de##.text-content > p:last-child > a[target="_blank"][href$="?tag=cb-content-21"]
 computerbild.de###toplinks > .first
 computerbild.de##.anzeige
 computerbild.de##.partner
