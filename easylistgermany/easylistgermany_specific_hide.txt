@@ -2137,6 +2137,8 @@ steelwarez.com##input[onclick^="window.open(''http://www.firstload.de/affiliate/
 steelwarez.com##input[onclick^="window.open('http://steelwarez.com/?out=usenext.de"]
 steelwarez.com##input[onclick^="window.open('http://tinyurl.com/"]
 steelwarez.com##input[onclick^="window.open('http://www.gigaflat.com/affiliate/"]
+stefan-niggemeier.de##.right-content > .external-content + .region-info
+stefan-niggemeier.de##.right-content > .external-content + .region-info + a > img
 stern.de##.moduleLPartners
 stern.de##.sidebarTeaserKastenAnzeige
 stern.de##.spitzanzeige
