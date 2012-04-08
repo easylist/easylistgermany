@@ -15,6 +15,8 @@
 @@||ad4.liverail.com/interstitial/?lr_publisher_id=$script,domain=jam.fm|paradiso.de
 @@||adclient.uimserv.net/js.ng/site=mklick&$script,domain=millionenklick.web.de
 @@||adcounter.darmstaedter-echo.de^$~third-party
+@@||adfarm1.adition.com/banner?sid=$script,domain=jam.fm
+@@||adfarm1.adition.com/js?wp_id=$script,domain=jam.fm
 @@||adimg.uimserv.net^$image,domain=millionenklick.web.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
@@ -62,6 +64,7 @@
 @@||campact.de^*_300x250.gif
 @@||canoo.net/services/wordformationdictionary/gifs/
 @@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
+@@||cdn-static.liverail.com/js/liverail.interstitial-*.js?lr_publisher_id=$script,domain=jam.fm
 @@||cdn.auditude.com/crossdomain.xml$object-subrequest,domain=bravo.de
 @@||centershop.de/tl_files/werbung/$object-subrequest
 @@||chiemsee-reggae.de/gallery/anzeige.php?$subdocument
@@ -146,6 +149,7 @@
 @@||lachschon.de/images/*_werbung.
 @@||landwirt.com/commercials/$object-subrequest
 @@||liberale-hochschulgruppen.de/images/stories/werbemittel/$~third-party
+@@||liverail.com^*/liverail_preroll.swf$object,domain=jam.fm|paradiso.de
 @@||lovefilm.de/ajax/widgets/advertising/competitions_data.html?$xmlhttprequest
 @@||magenschmerzen.net/wp-content/themes/zeemagazine_adtech/$~third-party
 @@||markt.de^*/advert_search_results.gif
@@ -237,7 +241,6 @@
 @@||viamichelin.de^*/rentacar.js
 @@||videogameszone.de/screenshots/*_werbung.$image
 @@||videostream4u.com^*/ac_oetags_clone.js
-@@||vox-static.liverail.com^*/liverail_preroll.swf$object,domain=jam.fm|paradiso.de
 @@||web-fuxx.de/werbung.php$subdocument
 @@||werbeartikel-aller-art.de/templates/werbung/
 @@||werbung-out-of-the-box.de^*wp-content/themes/werbung-$image,script,stylesheet
