@@ -112,6 +112,7 @@
 ||digitaladverts.net^$third-party
 ||digitalresponse.de^$third-party
 ||doubleclick.net/adx/*/extern_gmxnet/$object-subrequest
+||doubleclick.net/adx/rtl2.de/*;sz=$object-subrequest
 ||doubleclick.net/pfadx/*.myspass.de_de/$object-subrequest
 ||doubleclick.net/pfadx/golem/$object-subrequest,third-party
 ||doubleclick.net^$image,~image,popup,domain=cash-online.de
