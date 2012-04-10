@@ -2661,6 +2661,8 @@ otr-keys.de##body > div[id]:first-child + div[id][style]
 otr-share.de##body > :nth-child(n) + style + div[id]:last-child
 pfalzfussball.de##body > :nth-child(n) + style + div[id]:last-child
 pfalzfussball.de##body noscript > style + div[id]:last-child
+photoguide.pytalhost.net##body > script + div[id][style]
+photoguide.pytalhost.net##body > script + div[id][style] + div[style]:last-child
 rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
 rene-neuweiler.ch##body > noscript > style + div[id]:last-child
 rentatobi.de##body > :nth-child(n) + style + div[id]:last-child
