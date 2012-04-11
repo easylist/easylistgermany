@@ -1,7 +1,5 @@
 @@||1000steine.de/img/ads/
 @@||46.4.236.198/ox/www/delivery/ajs.php?zoneid=*&loc=http%3a//wz-newsline.de/index.php$script,domain=wz-newsline.de
-@@||4players.de/4players.php/tvplayer/*_werbung.html$object
-@@||4players.de/pub/videos/*_werbung.mp4
 @@||abacomuenchensued.de/pageear/$object,object-subrequest,script
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=autos.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=autos.t-online.de
@@ -55,7 +53,6 @@
 @@||banner.edll-fir.de^$image
 @@||banner.t-online.de/?advideo/*;vidas=pre_roll;$object-subrequest,domain=autos.t-online.de
 @@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de
-@@||berliner-rundfunk.de/images/player/93x93_werbung.png$object-subrequest
 @@||berufsstart.de^*/anzeigeshowframeset.php?$subdocument
 @@||berufsstart.de^*/show-advert-info.html?$subdocument
 @@||bildarchiv-ostpreussen.de/files/fotoalbum/fotos/*_werbung_
@@ -107,7 +104,6 @@
 @@||familienbildung-hamburg.de/cgi-bin/adframe/$subdocument,domain=fbs-harburg.de
 @@||fcbayern.t-com.de^*/fotogalerie_*/sponsoren/$image
 @@||fiducia.de^*/werbung.css
-@@||flv.dumpert.nl^*_werbung.flv$object-subrequest,domain=dumpert.nl
 @@||fn-neon.de/javascript/adserver_banner.js
 @@||forum.digitalfernsehen.de/forum/werbung.php$subdocument
 @@||forum.froxlor.org^*/adsense.css
@@ -146,7 +142,6 @@
 @@||kleinanzeigen.idowa.de^*/advertisement/$~third-party,xmlhttprequest
 @@||kmelektronik.de/shop/images/advertising/$image
 @@||kurier.at^*/ac_oetags_clone.js
-@@||lachschon.de/images/*_werbung.
 @@||landwirt.com/commercials/$object-subrequest
 @@||liberale-hochschulgruppen.de/images/stories/werbemittel/$~third-party
 @@||liverail.com^*/liverail_preroll.swf$object,domain=jam.fm|paradiso.de
@@ -239,7 +234,6 @@
 @@||viamichelin.ch/static/advert/afsquery/afsquery.js
 @@||viamichelin.de/static/advert/afsquery/afsquery.js
 @@||viamichelin.de^*/rentacar.js
-@@||videogameszone.de/screenshots/*_werbung.$image
 @@||videostream4u.com^*/ac_oetags_clone.js
 @@||web-fuxx.de/werbung.php$subdocument
 @@||werbeartikel-aller-art.de/templates/werbung/
