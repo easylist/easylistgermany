@@ -2414,9 +2414,9 @@ vox.de##.rectangel
 vox.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
 voxnow.de##a[href^="/tools/count/xdot/count.php?id="]
 voxnow.de##div[onclick^="window.open('/tools/count/xdot/count.php?id="]
-w3-warez.cc##.post2[width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr:first-child
+w3-warez.cc###middleContainer > div > :nth-child(11) + div[id] > table > tbody > tr:first-child
 w3-warez.cc##a[href^="http://ul.to/ref/"]
-w3-warez.cc##tr > th > div[style="width:190px;"] > a[target="_blank"] > img
+w3-warez.cc##tr > th > div[style] > a[target="_blank"] > img
 wahretabelle.de###banner_top
 walliserbote.ch##.ban-img
 wallpaper.to###genlayer
