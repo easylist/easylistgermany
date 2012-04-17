@@ -736,6 +736,7 @@ eselfilme.com##a[href^="http://linkpin.de/"]
 eselfilme.com##a[href^="http://myref.to?dest="]
 eselfilme.com##a[href^="http://ul.to/ref/"]
 eselfilme.com##a[href^="http://www.share-online.biz/affiliate/"]
+eselfilme.com##a[href^="http://www.share-online.biz/service.php?p="]
 eselfilme.com##tbody > tr:first-child:last-child > td[align="center"][valign="middle"]:first-child:last-child > br:first-child + div[align="center"]:last-child
 esl.eu##.montrealadvertisementlayer
 esl.eu##.montrealadvertisementlayer2
