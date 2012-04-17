@@ -88,7 +88,7 @@
 @@||eyewonder.com/crossdomain.xml$object-subrequest,domain=putpat.tv
 @@||eyewonder.com^*/bwtest.swf$object-subrequest,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||eyewonder.com^*/exp_proxy.js$domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
-@@||eyewonder.com^*/nacamar_480x360_as3.swf$object,domain=freestream.nmdn.net
+@@||eyewonder.com^*/nacamar_480x360_as3.swf$object,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||eyewonder.com^*/nacamar_expandable_480x360_as2.swf$object,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||eyewonder.com^*/video/*_instream_*.flv?$object-subrequest,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||eyewonder.com^*/wrapper.js$domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
