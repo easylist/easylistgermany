@@ -2422,11 +2422,16 @@ voxnow.de##div[onclick^="window.open('/tools/count/xdot/count.php?id="]
 w3-warez.cc###middleContainer > div > :nth-child(11) + div[id] > table > tbody > tr:first-child
 w3-warez.cc###middleContainer > div > :nth-child(11) + div[id] > table > tbody > tr:first-child +tr
 w3-warez.cc###middleContainer > div > :nth-child(11) + div[id] > table > tbody > tr:first-child +tr +tr
+w3-warez.cc###middleContainer > div > :nth-child(11) + div[id] > table > tbody > tr:first-child +tr +tr +tr
 w3-warez.cc##a[href="http://w3-warez.cc/buyul.php"]
 w3-warez.cc##a[href="http://w3-warez.cc/buyulto.php"]
+w3-warez.cc##a[href="http://w3-warez.cc/ulto.php"]
 w3-warez.cc##a[href^="http://ul.to/ref/"]
+w3-warez.cc##a[href^="http://www.shragle.com?ref="]
+w3-warez.cc##a[href^="https://www.share-online.biz/affiliate/"]
 w3-warez.cc##table > tbody > tr > th > span[style] > a[target="_blank"] > img
 w3-warez.cc##tr > th > div[style] > a[target="_blank"] > img
+w3-warez.cc##tr > th > span[style] > a[target="_blank"] img[alt]
 wahretabelle.de###banner_top
 walliserbote.ch##.ban-img
 wallpaper.to###genlayer
