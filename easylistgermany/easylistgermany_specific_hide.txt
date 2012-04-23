@@ -778,6 +778,7 @@ fettspielen.de###banner
 fettspielen.de##a[href^="http://ads2.fettspielen.de"]
 ff-online.com###banner
 file-lounge.com##a[href^="http://ul.to/ref/"]
+file-lounge.com##input[onclick^="location.href='http://ul.to/ref/"]
 file-lounge.com##input[onclick^="location.href='http://www.gigaflat.com/affiliate/"]
 filefox.in##a[href^="http://filefox.in/highspeed_download/"]
 filefox.in##a[href^="http://filefox.in/highspeed_mirror/"]
