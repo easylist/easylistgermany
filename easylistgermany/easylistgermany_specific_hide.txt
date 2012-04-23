@@ -2552,8 +2552,6 @@ winboard.org##td[width="130"][valign="top"][align="center"]:last-child
 winboard.org##tr > td[width="100%"][valign="top"][align="center"]:first-child + td[width="180"][style="vertical-align: top;"]:last-child
 windows-tweaks.info##table[width="738"][cellspacing="0"][cellpadding="0"][border="0"][nof="LY"]
 winfuture.de###comments_box > div[style="height:60px;margin-top:1.3em;"]
-winfuture.de##div[style] > a[href^="javascript:"][href$="();"]:first-child:last-child > img:first-child:last-child
-winfuture.de##div[style]:last-child > a[href^="javascript:"][href$="();"]:first-child:last-child > img:first-child:last-child
 winload.de###downloading > #websearch[style="margin-top: 8px; background-color: white;"]
 winload.de###header-link-loadblog
 winload.de###leftBanner
@@ -2736,6 +2734,8 @@ up-tv.de##body > :nth-child(n) + style + div[id]:last-child
 up-tv.de##body > noscript > style + div[id]:last-child
 vampirediaries.in##body > :nth-child(n+20) + style + div[id]:last-child
 vampirediaries.in##body > noscript > style + div[id]:last-child
+winfuture.de###container > div[style] > img[onclick$="();"]:first-child:last-child
+winfuture.de###container > div[style]:last-child > img[onclick$="();"]:first-child:last-child
 wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
 ! Legacy rules (for Firefox 3 and similar Gecko 1 browsers)
