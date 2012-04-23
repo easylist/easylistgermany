@@ -706,6 +706,7 @@ elixic.de##div[style^="background-image:url(http://www.elixic.de/typo3conf/ext/s
 elixic.de##td[name="google-bar"]
 elixic.de##td[name="top-banner"]
 eltern-zentrum.de##.Text1[valign="top"]:last-child > .tabberlive:last-child
+elternforen.com##body > div[align="center"] > table[align="left"][cellspacing="0"][cellpadding="0"][style="width: 99%"]
 emergency-forum.de###main > .border > .container-1[style="text-align: center"]:first-child:last-child
 emok.tv##.fenster_gadgets
 emok.tv##a[href^="http://www.goo.gl/"]
