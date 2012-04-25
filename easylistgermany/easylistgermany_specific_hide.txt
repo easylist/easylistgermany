@@ -2739,7 +2739,7 @@ up-tv.de##body > noscript > style + div[id]:last-child
 vampirediaries.in##body > :nth-child(n+20) + style + div[id]:last-child
 vampirediaries.in##body > noscript > style + div[id]:last-child
 winfuture.de###container > div[style] > img[onclick$="();"]:first-child:last-child
-winfuture.de###container > div[style]:last-child > img[onclick$="();"]:first-child:last-child
+winfuture.de###container > div[style] img[style][onclick$="();"]
 wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
 ! Legacy rules (for Firefox 3 and similar Gecko 1 browsers)
