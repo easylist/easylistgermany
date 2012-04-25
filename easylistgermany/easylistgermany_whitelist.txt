@@ -114,6 +114,7 @@
 @@||gamestar.de/js/gamestar/my_ad_integration.js
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
 @@||gfsrv.net/ad/$domain=ogame.de
+@@||gmx.net^*/video-adserver-config.xml$object-subrequest
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.com/adsense/search/ads.js$domain=marktplatz.nordclick.de
 @@||google.com/uds/api/ads/*/search.in.js$domain=marktplatz.nordclick.de
