@@ -1429,7 +1429,6 @@ mikrocontroller.net###first-palayer
 mikrocontroller.net###second-palayer
 mikrocontroller.net##.ad
 mikrocontroller.net##div[style="width: 160px; text-align: center; font-size: 12px; border: 2px solid #ffa500; padding: 3px; background: -moz-linear-gradient(top, white, #ffa500); background: -webkit-gradient(linear, left top, left bottom, from(white), to(#ffa500)); overflow: hidden;"]
-mines.oprojekt.net###odcbed5
 mirror-otr.de###r5924bd
 mixeryrawdeluxe.tv###bannerSky
 mixeryrawdeluxe.tv###outerBanner
@@ -2704,6 +2703,7 @@ leverkusen-online.info##body > div > div > noscript > style + div[id]:last-child
 metalfa.npage.de##body > :nth-child(n) + style + div[id]:last-child
 metalfa.npage.de##body > font > noscript > style + div[id]:last-child
 metalfa.npage.de##body > noscript > style + div[id]:last-child
+mines.oprojekt.net##body > noscript + script + div[id]:last-child
 mobilfunk-geschichte.de##body > :nth-child(n) + style + div[id]:last-child
 mobilfunk-geschichte.de##body > noscript > style + div[id]:last-child
 mysmspage.de##body > style + div[id]:nth-child(n+13)
