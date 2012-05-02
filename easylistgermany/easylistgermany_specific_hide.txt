@@ -2752,6 +2752,8 @@ winfuture.de###container > div[style] img[border="0"]
 winfuture.de###container > div[style] img[style][onclick$="();"]
 wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
+zattoo.com###blockmsg
+zattoo.com###blockmsg + #exposeMask
 ! Legacy rules (for Firefox 3 and similar Gecko 1 browsers)
 5-jahres-wertung.de,~pregecko2###logo-right > div[style="float: left; margin-top: 25px;"]
 abnehmen.com,~pregecko2##div[style="width: 70%; height: 280px; min-width: 680px ! important;"]
