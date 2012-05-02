@@ -235,9 +235,12 @@
 @@|http://$xmlhttprequest,domain=adamski.tv
 @@||4fuckr.com^*/adframe.js
 @@||ad-emea.doubleclick.net/ad/putpat.de.smartclip/;sz=400x320;$object-subrequest,domain=putpat.tv
+@@||ad.mar3k.de/delivery/spc.php?zones=$script,domain=plusboard.de
+@@||ad.mar3k.de/delivery/spcjs.php?id=$script,domain=plusboard.de
 @@||adamski.clan.su^$image,domain=adamski.tv
 @@||adamski.tv^$elemhide,image
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
+@@||adscale.de/getads.js$domain=plusboard.de
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
 @@||betreut-wohnen.de/adserver/ad.js
 @@||boardking.de^*/adframe.js
@@ -277,6 +280,7 @@
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
+@@||plusboard.de^$image
 @@||qtom.tv^*/adframe.js
 @@||sudoku-space.de^$script
 @@||super-otr.de/inc/js/phpads/sponsorad.js
