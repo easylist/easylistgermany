@@ -66,6 +66,7 @@
 @@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
 @@||cdn-static.liverail.com/js/liverail.interstitial-*.js?lr_publisher_id=$script,domain=jam.fm
 @@||cdn.auditude.com/crossdomain.xml$object-subrequest,domain=bravo.de
+@@||cdn.flashtalking.com/xre/*/js/j-*.js$domain=n-tv.de
 @@||chiemsee-reggae.de/gallery/anzeige.php?$subdocument
 @@||clipfish.de/ip/admeta.xml?$object-subrequest
 @@||comdirect.de^*.html&ad=$subdocument
@@ -82,10 +83,11 @@
 @@||doubleclick.net/adj/*;sz=1x2;$script,domain=moviemaze.de
 @@||doubleclick.net/adj/oms.szon.de/homepage;oms=homepage;*;sz=10x10;$script,domain=schwaebische.de
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
-@@||doubleclick.net/adj/www.nntv.de/vid_*;theme=vid_*;pack=;sz=600x500;$script,domain=n-tv.de
+@@||doubleclick.net/adj/www.nntv.de;adid=*;sz=1x1;ord=$script,domain=n-tv.de
 @@||doubleclick.net/pfadx/de_n24.*;sz=50x1;$object-subrequest,domain=n24.de
 @@||doubleclick.net/pfadx/de_n24/*;sz=50x1;$object-subrequest,domain=n24.de
 @@||doubleclick.net^*/podcast.de.smartclip/*;sz=400x320;$script,domain=podcast.de
+@@||doubleclick.net^*/www.nntv.de/vid_*;theme=vid_$script,domain=n-tv.de
 @@||drei.at/moma/adserver/adview.php?$image
 @@||eckelmann-glock.de/logo-eckelmann-glock-3-300x250.gif
 @@||elhabib.com/wp-content/uploads/*-300x250.jpg
@@ -183,6 +185,7 @@
 @@||rtl.de^*/player_modul_onclick_300x250.jpg
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||save.tv/stv/img/global/trailer20sec.swf?
+@@||servedby.flashtalking.com/imp/*?click=http://ad.doubleclick.net/clk;$script,domain=n-tv.de
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
 @@||sevengames.at/ressource/js/sevengames/sevengames/adtags.*.js
 @@||smart.allocine.fr/call/pubx/*&video=$object-subrequest
