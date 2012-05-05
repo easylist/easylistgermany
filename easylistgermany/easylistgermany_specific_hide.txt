@@ -1764,6 +1764,7 @@ pirate-loads.to##a[href^="http://uploaded.to/ref?id="]
 pirate-loads.to##input[onclick^="window.open('http://pirate-loads.to/premium"]
 pirate-loads.to##input[onclick^="window.open('http://tinyurl.com/"]
 pixelio.de###banner_right
+pixelio.de###clipdealer
 pixelio.de###contentcontainer > div[align="left"][style="margin-top: 10px; margin-left: 20px"]
 pixelio.de##.banner_top
 pixelio.de##div[style="width: 750px; height: 95px; float: left; margin-bottom: 10px;"]
