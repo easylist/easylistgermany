@@ -190,6 +190,7 @@
 @@||sevengames.at/ressource/js/sevengames/sevengames/adtags.*.js
 @@||smart.allocine.fr/call/pubx/*&video=$object-subrequest
 @@||smart.allocine.fr/crossdomain.xml$object-subrequest
+@@||smart.allocine.fr/def/def/xshowdef.asp$object-subrequest,domain=filmstarts.de
 @@||smartadserver.com/a/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/call/pubj/*/s/$script,domain=freestream.nmdn.net
 @@||smartadserver.com/call/pubj/*_index)/$script,domain=welt.de
