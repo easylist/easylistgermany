@@ -11,9 +11,13 @@
 1dl.in##a[href^="http://netload.in/index.php?refer_id="]
 1dl.in##a[href^="http://ul.to/ref/"]
 1dl.in##input[onclick^="window.open('http://www.1dl.in/highspeed/"]
+1dl.to##a[href="http://1dl.to/gfx/index.php"]
 1dl.to##a[href^="http://1dl.to/highspeed/"]
 1dl.to##img[width="120"][height="600"]
 1dl.to##input[onclick^="window.open('http://1dl.to/highspeed/"]
+1dl.to##input[onclick^="window.open(http://1dl.to/gfx/index.php"]
+1dl.to##td[width="644"][valign="top"][align="center"] > .main_box[width="644"] + br + .main_box[width="644"]
+1dl.to##td[width="644"][valign="top"][align="center"] > .main_box[width="644"] + br + .main_box[width="644"] + .main_box[width="644"]
 1kh.de###Container > #head:first-child + #content + br + .spacer + center
 1load.net###ClickWand
 1load.net##.voteLayer
