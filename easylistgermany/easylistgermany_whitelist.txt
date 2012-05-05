@@ -68,6 +68,7 @@
 @@||cdn.auditude.com/crossdomain.xml$object-subrequest,domain=bravo.de
 @@||cdn.flashtalking.com/xre/*/js/j-*.js$domain=n-tv.de
 @@||chiemsee-reggae.de/gallery/anzeige.php?$subdocument
+@@||classistatic.de^*/advertising/*advertisingpacked.js$domain=mobile.de
 @@||clipfish.de/ip/admeta.xml?$object-subrequest
 @@||comdirect.de^*.html&ad=$subdocument
 @@||comdirect.de^*.html?ad=$subdocument
