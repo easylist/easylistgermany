@@ -12,6 +12,7 @@
 1dl.in##a[href^="http://ul.to/ref/"]
 1dl.in##input[onclick^="window.open('http://www.1dl.in/highspeed/"]
 1dl.to##a[href="http://1dl.to/gfx/index.php"]
+1dl.to##a[href="http://1dl.to/gfx/pre/"]
 1dl.to##a[href^="http://1dl.to/highspeed/"]
 1dl.to##img[width="120"][height="600"]
 1dl.to##input[onclick^="window.open('http://1dl.to/highspeed/"]
