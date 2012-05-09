@@ -383,6 +383,7 @@
 ||talkplus.de/banner/$third-party
 ||tarifdoc.de^$subdocument,third-party
 ||tarifliste.com/index.php?log=$image,~image,popup,third-party
+||tarifliste.com^$subdocument,third-party
 ||tele.net/shoppingbanner.php?
 ||tinyprice.de/aktion/$third-party
 ||tnt-game.com^*/banner/$third-party
