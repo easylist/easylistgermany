@@ -1115,6 +1115,8 @@ herold.at###rightsponsor
 herold.at##.homesponsor
 herold.at##.kronehit
 herold.at##.sponsors
+herold.at##.sponsors + .hdgTeaser
+herold.at##.sponsors + .hdgTeaser + #karriere
 herold.at##a[target="_blank"][href="http://www.adaffix.com"]
 herold.at##a[target="_blank"][href="http://www.reise-hero.com/"]
 herold.at##a[target="_blank"][href="http://www.urlauburlaub.at"]
