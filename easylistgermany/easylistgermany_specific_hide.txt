@@ -218,7 +218,7 @@ best-movies.to##.entry > center > a > img
 best-movies.to##.postbody > a[target="_blank"] > img
 best-movies.to##.postbody > center > a + a > img
 best-movies.to##a[href^="http://alturl.com/"]
-best-movies.to##a[href^="http://anonym.to/?http://tinyurl.com/"]
+best-movies.to##a[href^="http://anonym.to/?"]
 best-movies.to##a[href^="http://bit.ly/"]
 best-movies.to##a[href^="http://goo.gl/"]
 best-movies.to##a[href^="http://netload.in/index.php?refer_id="]
