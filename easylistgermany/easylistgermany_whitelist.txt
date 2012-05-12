@@ -85,6 +85,7 @@
 @@||doubleclick.net/adj/oms.szon.de/homepage;oms=homepage;*;sz=10x10;$script,domain=schwaebische.de
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
 @@||doubleclick.net/adj/www.nntv.de;adid=*;sz=1x1;ord=$script,domain=n-tv.de
+@@||doubleclick.net/noidadj/www.nntv.de;adid=*;sz=1x1;$script,domain=n-tv.de
 @@||doubleclick.net/pfadx/de_n24.*;sz=50x1;$object-subrequest,domain=n24.de
 @@||doubleclick.net/pfadx/de_n24/*;sz=50x1;$object-subrequest,domain=n24.de
 @@||doubleclick.net^*/podcast.de.smartclip/*;sz=400x320;$script,domain=podcast.de
