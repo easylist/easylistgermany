@@ -82,10 +82,13 @@
 @@||doubleclick.net/ad/qtom.generic.smartclip/flash;$object-subrequest,domain=qtom.tv
 @@||doubleclick.net/adi/bluewin.sub.de.ch/$subdocument,domain=bluewin.ch
 @@||doubleclick.net/adj/*;sz=1x2;$script,domain=moviemaze.de
+@@||doubleclick.net/adj/nntv.de/;adid=*;sz=1x1;$script,domain=teleboerse.de
 @@||doubleclick.net/adj/oms.szon.de/homepage;oms=homepage;*;sz=10x10;$script,domain=schwaebische.de
+@@||doubleclick.net/adj/teleboerse.de/;adid=*;sz=1x1;$script,domain=teleboerse.de
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
-@@||doubleclick.net/adj/www.nntv.de;adid=*;sz=1x1;ord=$script,domain=n-tv.de
-@@||doubleclick.net/noidadj/www.nntv.de;adid=*;sz=1x1;$script,domain=n-tv.de
+@@||doubleclick.net/adj/www.nntv.de;adid=*;sz=1x1;ord=$script,domain=n-tv.de|teleboerse.de
+@@||doubleclick.net/adj/www.teleboerse.de/vid_*;theme=$script,domain=teleboerse.de
+@@||doubleclick.net/noidadj/www.nntv.de;adid=*;sz=1x1;$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net/pfadx/de_n24.*;sz=50x1;$object-subrequest,domain=n24.de
 @@||doubleclick.net/pfadx/de_n24/*;sz=50x1;$object-subrequest,domain=n24.de
 @@||doubleclick.net^*/podcast.de.smartclip/*;sz=400x320;$script,domain=podcast.de
