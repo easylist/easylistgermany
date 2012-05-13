@@ -418,7 +418,7 @@
 ||fhz-forum.de/banner_$image
 ||file-upload.net^*/popup.js
 ||files.putpat.tv/misc/*.xml|$object-subrequest
-||files.putpat.tv/umusic/*/umusic_*.xml|$object-subrequest
+||files.putpat.tv^*/umusic_*.xml|$object-subrequest
 ||filestore.to/banner/
 ||filmz.de/h/la.htm
 ||filmz.de/h/r.htm
