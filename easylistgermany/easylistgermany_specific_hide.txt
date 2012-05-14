@@ -2188,6 +2188,7 @@ spielen.com###container > iframe + #overlay + #overlay_bg
 spieleportal.de###partner_box
 spieletipps.de##.stiYsmLink
 spieletipps.de##a[href^="http://rc23.overture.com"]
+spieletipps.de##body > .jqmOverlay
 sport.de##.artikelrectangel
 sport.de##.rectangel
 sport.de##a[target="_blank"][href^="/tools/count/xdot/count.php?id="][style="display: block;"]
