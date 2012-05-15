@@ -216,6 +216,7 @@ best-movies.to###post-186942
 best-movies.to###post-34854
 best-movies.to###votewoz
 best-movies.to##.entry > center > a > img
+best-movies.to##.entry > img + br + H1[style] > a
 best-movies.to##.postbody > a[target="_blank"] > img
 best-movies.to##.postbody > center > a + a > img
 best-movies.to##a[href^="http://alturl.com/"]
