@@ -2749,7 +2749,8 @@ germanycash.de##body > noscript > style + div[id]:last-child
 hardwareluxx.de###leaderboard
 hardwareluxx.de###sky
 ingame.de##.layer
-ingame.de##body > :nth-child(n) + div[id][style] > div[id]
+ingame.de##div[id][style="display: block;"] > div[id$="-background"]
+ingame.de##div[id][style="display: block;"] > div[id$="-background"] + div[id$="-note"]
 leverkusen-online.info##body > :nth-child(n) + style + div[id]:last-child
 leverkusen-online.info##body > div > div > noscript > style + div[id]:last-child
 metalfa.npage.de##body > :nth-child(n) + style + div[id]:last-child
