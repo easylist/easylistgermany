@@ -120,6 +120,7 @@ alle-autos-in.de##a[href^="http://partners.webmasterplan.com/click.asp?"]
 alle-immobilien.ch##.ad
 allesueberfilme.de###superbanner
 allfacebook.de##.fanwerden + .popular-posts
+allfacebook.de##.popular-posts > h4 + ul
 allinklwith.us###ad_global_below_navbar
 alphaspeed.de##a[href*=".clickbank.net"]
 alphaspeed.de##a[href="/firstload.php"]
