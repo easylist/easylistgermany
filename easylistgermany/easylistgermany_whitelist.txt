@@ -228,6 +228,7 @@
 @@||toggo.de/js/advertise.js
 @@||tv.derstandard.at/adserver.php?*&pos=video$subdocument
 @@||ui-portal.de^*/video-adserver-config.xml$object-subrequest
+@@||uicdn.com^*/video-adserver-config.xml$object-subrequest
 @@||vdn-mobile.oas-limited.com/ad/$object-subrequest,domain=mobile.de
 @@||viamichelin.at/static/advert/afsquery/afsquery.js
 @@||viamichelin.ch/static/advert/afsquery/afsquery.js
