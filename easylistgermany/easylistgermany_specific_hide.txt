@@ -1535,9 +1535,13 @@ movie-blog.org###post-555111 + :nth-child(n)
 movie-blog.org###post-556393
 movie-blog.org###post-556393 + * + *
 movie-blog.org###post-556393 + :nth-child(n)
+movie-blog.org###post-558070
+movie-blog.org###post-558070 + * + *
+movie-blog.org###post-558070 + :nth-child(n)
 movie-blog.org##a[href="http://movie-blog.org/down.html"]
 movie-blog.org##a[href="http://movie-blog.org/download.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/aktuelle-kinofilme.html"]
+movie-blog.org##a[href="http://www.movie-blog.org/anmel.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/down.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/download.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/join.html"]
