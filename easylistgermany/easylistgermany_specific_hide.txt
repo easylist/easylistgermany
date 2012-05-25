@@ -940,6 +940,7 @@ gameserveradmin.de##a[href^="./adclick.php?id="]
 gamestar.de###col_left > .fll
 gamestar.de##.adsense
 gamestar.de##.dlightboxContainerBody > div[style="color: #5D5D5D; font-size: 18px; margin: 10px 10px 10px 20px; text-align: left;"] + .standardcontent > [type="text/css"] + .articlelb > table
+gamestar.de##.elemCont div[class] > a[href^="/"] + [class] > *
 gamestar.de##.leaderboard
 gamestar.de##.marketbox_brace
 gamestar.de##a[href^="http://www.gamestar.de/_misc/linkforward/"][target="_blank"]
