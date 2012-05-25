@@ -5,10 +5,12 @@
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=autos.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=autos.t-online.de
 @@||ad.71i.de/global_js/globalv6.js$domain=brokencomedy.de|gamepro.de|gamestar.de|n24.de
+@@||ad.71i.de/global_js/sites/gamestarde.js$domain=gamestar.de
 @@||ad.71i.de/global_js/sites/n24de.js$domain=n24.de
 @@||ad.71i.de/global_js/sites/pro7de.js$domain=brokencomedy.de
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.de.doubleclick.net/ad/clipfish.smartclip/;sz=400x320;dcmt=text/html;ord=$object-subrequest,domain=clipfish.de
+@@||ad.de.doubleclick.net/adj/de_gamestar.de/*;sz=300x250;*;ord=$script,domain=gamestar.de
 @@||ad.de.doubleclick.net/crossdomain.xml$object-subrequest,domain=n24.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad4.liverail.com/interstitial/?lr_publisher_id=$script,domain=jam.fm|paradiso.de
