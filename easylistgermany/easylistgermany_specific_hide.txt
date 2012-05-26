@@ -1365,16 +1365,7 @@ lix.in##form[action="ads.php"]
 load.to##.small_red
 loaded.it##a[href^="/redirect.php?"]
 loaderz.net##input[value="Highspeed Download"]
-loads7.com###table40 + table[style="border-collapse: collapse; width: 100%;"]
-loads7.com##a[href="/pub.php"]
-loads7.com##a[href="http://fil7.com/pub.php"]
-loads7.com##a[href^="http://fil7.com/pub"]
-loads7.com##a[href^="http://loads7.com/letitbit."]
-loads7.com##a[href^="http://loads7.com/pub1."]
-loads7.com##a[href^="http://mediaget.com/"]
-loads7.com##a[href^="http://www.adcell.de/click.php"]
-loads7.com##input[onclick^="window.open('http://fil7.com/pub"]
-loads7.com##input[onclick^="window.open('http://loads7.com/pub1."]
+loads7.com##a[href="http://loads7.com/pub.php"]
 loadsieben.org##table[cellspacing="0"][cellpadding="5"][border="0"] > tbody > tr:first-child:last-child > td:first-child + td + td[align="right"]:last-child
 loadsieben.org##td[align="CENTER"][width="644"] > p:first-child + center
 local.ch###sky
