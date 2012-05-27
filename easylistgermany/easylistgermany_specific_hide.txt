@@ -1898,6 +1898,7 @@ radiohamburg.de###bannerleiste
 radioleipzig.de##.banner-rechts
 radioleipzig.de##div[style="width:720px; height:90px; margin:auto"]
 radiorst.de###banner_skyscraper
+raidrush.ws##a[href^="http://ads.raidrush.org/"]
 raidrush.ws##img[height="250"][width="300"]
 rapidvideo.com###player:first-child + center:last-child > a[target="_blank"]:first-child:last-child > img:first-child:last-child
 rapidvideo.com##a[href^="http://network.adsmarket.com"]
