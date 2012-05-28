@@ -23,7 +23,6 @@
 1load.net###ClickWand
 1load.net##.voteLayer
 1load.net##a[href^="http://hotfile.com/register.html?reff="]
-1load.net##a[href^="http://uploaded.to/ref?id="]
 1load.net##a[href^="http://www.share-online.biz/affiliate/"]
 1load.net##a[href^="https://www.share-online.biz/affiliate/"]
 1load.net##img[height="60"][width="468"]
@@ -42,7 +41,6 @@
 3min.de###featured_superbanner
 3min.de###mediadetails_add_box
 3min.de##.content_mrec
-4dl.bz##a[href^="http://x7.to/foyer/"]
 4forums.de###p
 4fuckr.com###content > div[align="center"] > b[style="font-size: 15px;"]
 4fuckr.com##.thumb[rel][href^="/"]
@@ -64,7 +62,6 @@
 6dl.org##tr[onclick^="self.window.location = 'mirror/1_"]
 6dl.to###girl
 6dl.to##tr[onclick^="self.window.location='mirror/1_"]
-6load.us##input[onclick^="location.href='http://uploaded.to/ref?id="]
 94.199.241.194##a[href$="_zalando"]
 94.199.241.194##a[href="http://www.xlhost.de/"]
 aachener-nachrichten.de###kalaydoklein
@@ -446,7 +443,6 @@ cine24.tv##a[href$=".gu.ma"]
 cine24.tv##div[id^="ratingDiv"] > a[target][alt] > img
 cine24.tv##table[cellspacing="0"][cellpadding="0"][border="0"][width] > tbody > tr > td[style^="text-align:center"]
 cine24.tv##tr > td[valign="top"][style] > table[style] > tbody > tr > td[style]:first-child
-cineload.org##a[href^="http://uploaded.to/ref?id="]
 cinema.de##.fswrapper
 cinema.de##a[href^="http://a3.superwin.de/click."]
 cineman.de###rectangle
@@ -512,15 +508,12 @@ ddl-blog.to###scbox
 ddl-blog.to##.entry > p > strong > span[style="color: #000000"]:first-child
 ddl-blog.to##a[href^="http://tinyurl.com/"]
 ddl-blog.to##form[action^="http://tinyurl.com"]
-ddl-moviez.org##a[href^="http://uploaded.to/ref?id="]
 ddl-music.org###misterload
 ddl-music.org###so_ad
 ddl-music.org##a[href^="http://mediaget.com"]
-ddl-music.org##a[href^="http://uploaded.to/ref/"]
 ddl-music.org##a[href^="http://www.gigaflat.com/affiliate/"]
 ddl-music.org##a[href^="http://www.roulette-trick.eu"]
 ddl-music.org##a[href^="http://www.share-online.biz/service.php?p="]
-ddl-music.org##a[href^="http://x7.to/foyer/"]
 ddl-music.org##a[href^="https://www.share-online.biz/affiliate/"]
 ddl-music.org##form[action^="http://www.gigaflat.com/affiliate/"]
 ddl-music.org##input[onclick^="javascript:window.open('http://www.FriendlyDuck.com/AF_"]
@@ -535,7 +528,6 @@ ddl-search.biz##a[href^="http://www.mister-load.com/"]
 ddl-warez.in###misterload
 ddl-warez.in###so_ad
 ddl-warez.in##a[href^="http://mediaget.com/"]
-ddl-warez.in##a[href^="http://x7.to/foyer/"]
 ddl-warez.in##input[onclick^="javascript:window.open('http://www.FriendlyDuck.com/AF_"]
 ddl-world.ws##a[href^="http://alturl.com/"]
 ddl-world.ws##a[href^="http://bit.ly/"]
@@ -747,8 +739,6 @@ enuresis-zentrum.de###a4d1af
 enuresis-zentrum.de###a4d1af + div
 eot-clan.net###posts > li[id^="yui-gen"]
 epicspeedload.in##a[href^="http://freakshare.net/?ref="]
-epicspeedload.in##a[href^="http://uploaded.to/ref?id="]
-epicspeedload.in##a[href^="http://x7.to/foyer/"]
 epicspeedload.in##div[style^="border: 2px solid red; margin: 10px; padding: 10px 10px 100px; text-align: left; height: 80px; background-color: "]
 epicspeedload.in##fieldset[style="width: 468px; text-align: center;"]
 erdbeerlounge.de##.ads
@@ -1067,8 +1057,6 @@ handy-hilfeforum.de##a[href^="http://adfarm.adyard.de/ad/"]
 handy-player.de##.bannerbox
 hardbase.fm###Banner
 hardcoremetal.biz##a[href="http://hardcoremetal.biz/usenet/"]
-hardcoremetal.biz##a[href^="http://uploaded.to/ref?id="]
-hardcoremetal.biz##a[href^="http://x7.to/foyer/"]
 hardcoremetal.biz##input[onclick^="window.open('http://hardcoremetal.biz/premium"]
 hardcoremetal.biz##input[onclick^="window.open('http://hardcoremetal.biz/usenet/"]
 hardcoremetal.biz##input[onclick^="window.open('http://tinyurl.com/"]
@@ -1548,7 +1536,6 @@ movietempel.com##a[href^="http://www.share-online.biz/affiliate/"]
 moviez.to##.bonus
 moviez.to##.span-10 > .hoster
 moviez.to##a[href^="http://share.cx/partner"]
-moviez.to##a[href^="http://uploaded.to/ref?id="]
 moviez.to##a[href^="http://www.share-online.biz/service.php?p="]
 msn.de###Sales1
 msn.de###Sales2
@@ -1669,7 +1656,6 @@ okbb.de##tr[bgcolor="#FFFF00"]
 omega-music.com##a[href^="http://freakshare.net/?ref="]
 omfg.to###sidebar > .ad
 omfg.to##a[href^="http://www.china-deals.net/"]
-oneload.org##a[href^="http://uploaded.to/ref?id="]
 onipepper.de##.bannerContainer
 online-gebuehrenrechner.de##img[width="728"][height="90"]
 online-moviez.com##a[href^="http://www.online-moviez.com/cgateway/"]
@@ -1714,7 +1700,6 @@ otrportal.com##a[href^="http://www.TwinPlan.com/AF_"]
 oxygen-scene.com###content > .board_message
 oxygen-scene.com###vote_popup
 oxygen-scene.com##a[href^="http://tinyurl.com"]
-oxygen-scene.com##a[href^="http://uploaded.to/ref?id="]
 oxygen-scene.com##a[href^="http://www.share-online.biz/affiliate/"]
 oxygen-scene.com##a[href^="http://www.share-online.biz/service.php?p="]
 pafnet.de##.FlyerRahmen1[width="125"]
@@ -1786,7 +1771,6 @@ pi-news.net##a[href$="/werbung.pdf"]
 picdumps.com##.evil_1
 picdumps.com##.pcd_mitte
 pirate-loads.to##a[href^="http://tinyurl.com/"]
-pirate-loads.to##a[href^="http://uploaded.to/ref?id="]
 pirate-loads.to##input[onclick^="window.open('http://pirate-loads.to/premium"]
 pirate-loads.to##input[onclick^="window.open('http://tinyurl.com/"]
 pixelio.de###banner_right
@@ -1839,7 +1823,6 @@ pornkino.to##a[href^="http://www.stargames.com/bridge.asp?"]
 pornlounge.org###so_ad
 pornofilme24.info###layer
 pornz.to###cinetopia
-powerfiles.us##a[href^="http://uploaded.to/ref?id="]
 ppc-welt.info###collapseobj_vbcms_table_right > .tborder:first-child
 prad.de###p-empfehlungen-box
 preisgenau.de##.gads
@@ -1944,7 +1927,6 @@ rp-online.de##div[style="background:url(http://stat01.rp-online.de/layout/img/ic
 rs-load.blogspot.com##a[href="http://multimedia-load.com"]
 rsd-store.com##button[onclick^="visitPartner("]
 rsswarez.org##a[href^="/out/"]
-rsswarez.org##a[href^="http://uploaded.to/ref?id="]
 rsswarez.org##a[href^="http://www.fileserve.com/signup.php?reff=t"]
 rtf1.de##td[width="83"] + td[align="right"][width="120"]
 rtl-now.rtl.de###ipslidebanner
@@ -1980,7 +1962,6 @@ russland.tv##.werbung_01[valign="top"][align="right"]
 saarbruecker-zeitung.de##.anzeige
 safeyourlink.com###container > a[target="_blank"] > font[color="ff0000"]
 safeyourlink.com##a[href^="http://www.eads.to/home.php?ref="]
-safeyourlink.com##a[href^="http://x7.to/foyer/"]
 salzi.at##body > div[id^="fb_"]
 sat1.ch##a[href^="http://clk.atdmt.com/"]
 sat1.de##a[href^="http://clk.atdmt.com/"]
@@ -2070,7 +2051,6 @@ sdx.cc##a[href^="http://www.gigaflat.com/affiliate/"]
 seaofsin.info##a[href^="http://ad.zanox.com/ppc/?"]
 seatforum.de##img[src="http://www.seatforum.de/forum/images/anzeige.gif"] + a[target="_blank"] > img
 secured.in##.container-banner-image
-secured.in##a[href^="http://uploaded.to/ref?id="]
 sein.de###ja-col1 a[target="_blank"] > img[alt=""]
 sein.de##.advs
 sein.de##td[style="width: 970px;"] + td[style="width: 20%; vertical-align: top; text-align: left;"]
@@ -2092,7 +2072,6 @@ serienfreaks.to##input[onclick^="window.open('http://serienfreaks.to/usenet/"]
 serienfreaks.to##input[onclick^="window.open('http://www.serienfreaks.to/usenet/"]
 serienjunkies.org##.post > .post-title + #outer
 serienjunkies.org##a[href*="/mirror."]
-serienjunkies.org##a[href="http://uploaded.to/money"]
 serienjunkies.org##a[href^="http://alternads.info/"]
 serienjunkies.org##a[href^="http://download.serienjunkies.org/md-"]
 serienjunkies.org##a[href^="http://is.gd/"]
@@ -2152,9 +2131,7 @@ sosuanachrichten.com###right_banner
 sosuanachrichten.com##.article[style="width: 440px; background-color: #000066; margin: 6px; margin-top: 6px;"]
 sound-blog.org###post-3968
 sound-load.net##a[href^="http://duckme.notlong.com"]
-sound-load.net##a[href^="http://uploaded.to/ref?id="]
 sound-load.net##input[onclick*="window.open('http://www.FriendlyDuck.com/AF_"]
-sound-load.net##input[onclick^="window.open('http://uploaded.to/ref?id="]
 speedload.to##a[href^="http://snipurl.com"]
 speedload.to##a[href^="http://tiny.cc"]
 speedlounge.in##.content > center > hr[width="100%"] + a
@@ -2322,7 +2299,6 @@ techno4ever.fm##.skyscraper
 techno4ever.fm##div[style="width:904px; margin-left: auto; margin-right: auto; text-align: right"]
 technobase.fm###Banner
 technorocker.info##.vim
-technorocker.info##a[href^="http://uploaded.to/ref?id="]
 technorocker.info##img[width="468"][height="60"]
 teckbote.de###container_banner_wallpaper
 teckbote.de##.sebo_rectangle
@@ -2339,7 +2315,6 @@ titanic-magazin.de###bnr-kiwi
 titanic-magazin.de###teaser-wrap > span[style="font-size: 7pt; color: grey;"]
 titanic-magazin.de##div[style="clear:left; font-family: Verdana,Tahoma,Geneva,Verdana,sans-serif; font-size:11px;width:285px;"]
 titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; margin: 0; padding: 0;"]
-titanload.to##a[href^="http://uploaded.to/ref?id="]
 tixuma.de##.stdfont[bgcolor="#ecf5fa"]
 tobitech.de##a[href^="banners.php?op="]
 tonight.rp-online.de##div[style="padding-left:10px;width:980px;height:90px;"]
