@@ -2130,8 +2130,7 @@ sosuanachrichten.com###left_banner
 sosuanachrichten.com###right_banner
 sosuanachrichten.com##.article[style="width: 440px; background-color: #000066; margin: 6px; margin-top: 6px;"]
 sound-blog.org###post-3968
-sound-load.net##a[href^="http://duckme.notlong.com"]
-sound-load.net##input[onclick*="window.open('http://www.FriendlyDuck.com/AF_"]
+sound-load.com##.content_box_content_dl > div + .fc + div
 speedload.to##a[href^="http://snipurl.com"]
 speedload.to##a[href^="http://tiny.cc"]
 speedlounge.in##.content > center > hr[width="100%"] + a
