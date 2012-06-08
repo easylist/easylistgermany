@@ -1415,12 +1415,17 @@ movie-blog.org###post-559650 + :nth-child(n)
 movie-blog.org###post-561630
 movie-blog.org###post-561630 + * + *
 movie-blog.org###post-561630 + :nth-child(n)
+movie-blog.org###post-563475
+movie-blog.org###post-563475 + * + *
+movie-blog.org###post-563475 + :nth-child(n)
+movie-blog.org##.entry > center > a[target="_blank"][href^="http://www.movie-blog.org/"]
 movie-blog.org##a[href="http://movie-blog.org/down.html"]
 movie-blog.org##a[href="http://movie-blog.org/download.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/aktuelle-kinofilme.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/anmel.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/down.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/download.html"]
+movie-blog.org##a[href="http://www.movie-blog.org/dwload.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/join.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/mbspecial.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/movdown.html"]
