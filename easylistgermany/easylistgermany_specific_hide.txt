@@ -641,7 +641,12 @@ ebay.de##.vi-as
 ebay.de##.vi-d-pad
 eblogx.com##.sponsorleft
 ebook-hell.to##a[href^="http://de.generic4all.com/"]
+ebook-hell.to##a[href^="http://rod.gs/"]
+ebook-hell.to##form[target="id__"]
+ebook-hell.to##input[onclick^="location='http://3wl.li/"]
+ebook-hell.to##input[onclick^="location='http://alturl.com/"]
 ebook-hell.to##input[onclick^="location='http://bit.ly/"]
+ebook-hell.to##input[onclick^="location='http://cl.lk/"]
 ebook-hell.to##input[onclick^="location='http://www.FriendlyDuck.com/AF_"]
 ebook-hell.to##input[onclick^="location='http://www.firstload.com/?uniq="]
 echo-online.de##.banner_horizontal
