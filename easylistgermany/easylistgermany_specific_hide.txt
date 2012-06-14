@@ -1400,6 +1400,7 @@ mov-world.net###uflip
 mov-world.net###usenet_flip
 movie-blog.org###footer > script[type="text/javascript"] + div[id][style]
 movie-blog.org###layer
+movie-blog.org###page > #content > center > a[target="_blank"][href^="http://www.movie-blog.org/"]
 movie-blog.org###post-1439
 movie-blog.org###post-1439 + * + *
 movie-blog.org###post-1439 + :nth-child(n)
