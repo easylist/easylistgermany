@@ -67,6 +67,7 @@
 ||albumz.us/out.js
 ||allesueberfilme.de/img/nextbase_banner.gif
 ||allfacebook.de/wp-content/uploads/*/bookme.jpg
+||alturl.com^$image,~image,popup,domain=byte.to
 ||amadeal.de/pics/240.gif
 ||amazon.de/aan/$subdocument
 ||amazon.de^*&tag=bluray18-21&$image,~image,popup,domain=bluray-disc.de
@@ -163,6 +164,7 @@
 ||bild.de^*=adtag^
 ||bilder.static-fra.de/wetter11/images/offer/$domain=wetter.de
 ||bildschirmarbeiter.com/images/poster/
+||bit.ly^$image,~image,popup,domain=byte.to
 ||bitly.com^$image,~image,popup,domain=ddl-music.org|ddl-warez.in|pornlounge.org
 ||bizipic.de/images/gbcodes200.jpg
 ||bizipic.de/images/gross.png
