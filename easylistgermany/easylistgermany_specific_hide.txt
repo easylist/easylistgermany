@@ -2253,6 +2253,7 @@ tripadvisor.de##.commerce
 tu-berlin.de##.banner
 tutorials.de##.above_body > #header + #navbar + table:last-child
 tv-kino.net##a[href^="http://www.TwinPlan.com/AF_"]
+tv-kino.net##a[href^="http://www.twinplan.com/AF_"]
 tv-stream.to###layer_1
 tv-stream.to##a[href^="http://www.firstload.com/affiliate/"]
 tvheute.at###sky
