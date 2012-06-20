@@ -68,7 +68,7 @@
 ||catsms.de/images/banner/
 ||cdn.kaisergames.de/www.*/images/wallpaper_
 ||china-gadgets.de^$subdocument,third-party
-||china-gadgets.de^*&utm_campaign=$image,~image,popup,third-party
+||china-gadgets.de^*&utm_medium=popdown&$image,~image,popup,third-party
 ||clanmonster.de/clanmonster_gross.jpg$third-party
 ||clanplanet.de/cp-leaderboard.jpg
 ||conserva.de^*/banner_$third-party
@@ -87,7 +87,7 @@
 ||ddl-search.biz/bilder/banner_$third-party
 ||dealdoktor.de/m/$third-party
 ||dealdoktor.de/misc/$third-party
-||dealdoktor.de^*&utm_campaign=$image,~image,popup,third-party
+||dealdoktor.de^*&utm_medium=popdown&$image,~image,popup,third-party
 ||deinplan.de/pharus-shop.gif
 ||dentaltrade-zahnersatz.de^*/banner/$third-party
 ||deutschland-spielt.de/partners/$third-party
