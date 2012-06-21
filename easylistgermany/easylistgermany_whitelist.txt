@@ -258,6 +258,7 @@
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
 @@||betreut-wohnen.de/adserver/ad.js
 @@||boardking.de^*/adframe.js
+@@||byte.to/js/ads.js
 @@||chat.lycos.de/adimages/$subdocument
 @@||combatarms-game.de/adframe.js
 @@||contaxe.com/go/go.js?atp=bnr&$script,domain=bloodpatches.net|dtk-deutschland.com
@@ -301,4 +302,3 @@
 @@||super-otr.de/inc/js/phpads/sponsorad.js
 @@||ttads.de/www/delivery/click.js
 @@||view.binlayer.com/ad-*.js$script,domain=super-otr.de
-||byte.to/js/ads.js
