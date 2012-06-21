@@ -1560,6 +1560,7 @@ netzpolitik.org##.ad
 netzwelt.de###iqadtile6
 netzwelt.de###iqadtile6 + *
 netzwelt.de###looking_glass
+netzwelt.de###rightnav > style + .informative + .social_block + .informative
 netzwelt.de###rightnav > style[type="text/css"] + .informative
 netzwelt.de###takeover_helper
 netzwelt.de###takeover_helper + style[type="text/css"] + .informative + .social_block + .informative
