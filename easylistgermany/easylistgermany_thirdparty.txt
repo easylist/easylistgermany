@@ -154,7 +154,6 @@
 ||grauzone.biz/images/grauzone_$third-party
 ||gulli.com/vote/$third-party
 ||hallimash.com/werber/$third-party
-||hamster.cc/?log=$image,~image,popup,third-party
 ||hamster.cc^*.php$subdocument,third-party
 ||handy-find.de/banner/$third-party
 ||handy-toplist.de/vote/$image,~image,popup
