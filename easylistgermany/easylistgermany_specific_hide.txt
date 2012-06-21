@@ -403,6 +403,7 @@ byte.to##input[onclick^="window.open('http://torrent.byte.to/first/"]
 byte.to##input[onclick^="window.open('http://www.byte.to/first/"]
 byte.to##input[onclick^="window.open('http://www.byte.to/firstload/"]
 byte.to##input[onclick^="window.open('http://www.firstload.com/affiliate/"]
+byte.to##input[type="BUTTON"][onclick^="location='http://"][value]
 bz-berlin.de##.sponsorTop
 c1neon.com##.cineadd
 canna.to##a[href^="http://www.globalvpn.net/?glvref="]
