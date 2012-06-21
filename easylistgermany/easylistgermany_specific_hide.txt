@@ -155,6 +155,7 @@ atomload.at##a[href^="http://goo.gl/"]
 atomload.at##a[href^="http://www.gigaflat.com/affiliate/"]
 atomload.at##input[onclick^="window.open('http://goo.gl/"]
 atomload.at##input[onclick^="window.open('http://ul.to/ref/"]
+atomload.at##input[onclick^="window.open('http://www.gigaflat.com/affiliate/"]
 atv.at##.content_rectangle
 au-ja.de##.advframe
 au-ja.de##.headADB
