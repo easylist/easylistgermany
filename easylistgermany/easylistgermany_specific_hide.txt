@@ -2005,6 +2005,7 @@ serienfreaks.to##a[href^="http://tinyurl.com/"]
 serienfreaks.to##a[href^="http://www.serienfreaks.to/usenet/"]
 serienfreaks.to##input[onclick^="window.open('http://serienfreaks.to/usenet/"]
 serienfreaks.to##input[onclick^="window.open('http://www.serienfreaks.to/usenet/"]
+serienjunkies.org###download_mirrors > div[style="display: block;"] + div:last-child
 serienjunkies.org##.post > .post-title + #outer
 serienjunkies.org##a[href*="/mirror."]
 serienjunkies.org##a[href^="http://alternads.info/"]
