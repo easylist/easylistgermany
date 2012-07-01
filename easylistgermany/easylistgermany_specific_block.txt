@@ -376,6 +376,7 @@
 ||ebook-hell.to/js/zk.js
 ||ebook-hell.to/js/zk1.js
 ||ebook-hell.to/out.php$image,~image,popup
+||ebook-hell.to/popdown.js
 ||ecdl-moodle.de^*/script_banner_
 ||econo.de/uploads/tx_macinabanners/
 ||edvinfos.de/banner/
@@ -1315,7 +1316,7 @@
 ||testreich.com/layer*.html
 ||ticket-leistung.de^*/banner/
 ||tinyurl.com^$domain=g-stream.in|hd-world.org|hoerbuch.in|kino24.to|kinox.tv|lesen.to|linkfarm.in|playporn.to|pornkino.to|rapidvideo.com|relink.us|saugzone.info|smsit.me|xxx-blog.to
-||tinyurl.com^$image,~image,popup,domain=smsit.me
+||tinyurl.com^$image,~image,popup,domain=ebook-hell.to|smsit.me
 ||titanic-magazin.de/fileadmin/content/anzeigen/
 ||tobitech.de/images/*.swf
 ||tollesthueringen.de/img_proximus/anzeigen/
