@@ -216,6 +216,7 @@
 ||byte.to/js/banner.js
 ||byte.to/js/danner.js
 ||byte.to/js/film.js
+||byte.to/js/honk.js
 ||byte.to/js/mov.js
 ||byte.to/out.php$image,~image,popup
 ||byte.to/popdown.js
@@ -573,7 +574,7 @@
 ||golem.de^*_afc1.js
 ||golem.de^*_afc2.js
 ||golem.de^*_afc3.js
-||goo.gl^$popup,domain=atomload.at|fail.to|omfg.to
+||goo.gl^$popup,domain=atomload.at|byte.to|fail.to|omfg.to
 ||googlewatchblog.de/apt.png
 ||gooster.at/js/ov.js.php?
 ||gooster.ch/js/ov.js.php?
