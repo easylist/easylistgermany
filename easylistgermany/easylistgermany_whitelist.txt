@@ -12,11 +12,11 @@
 @@||ad.de.doubleclick.net/crossdomain.xml$object-subrequest,domain=n24.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad4.liverail.com/interstitial/?lr_publisher_id=$script,domain=jam.fm|paradiso.de
+@@||adclient.uimserv.net/js.ng/*&site=mklick&tagid=ut_mioklick_$script,domain=millionenklick.web.de
 @@||adclient.uimserv.net/js.ng/site=mklick&$script,domain=millionenklick.web.de
 @@||adcounter.darmstaedter-echo.de^$~third-party
 @@||adfarm1.adition.com/banner?sid=$script,domain=jam.fm
 @@||adfarm1.adition.com/js?wp_id=$script,domain=jam.fm
-@@||adimg.uimserv.net^$image,domain=millionenklick.web.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
@@ -193,10 +193,12 @@
 @@||re-publica.de/banner/$image,domain=re-publica.de
 @@||recyclart.org/wp-content/uploads/*-300x250.$image
 @@||rhodesian-ridgeback-forum.org^$elemhide
+@@||rover.ebay.com/ar/1/75997/4?mpt=*&size=300x250&adid=$image,domain=millionenklick.web.de
 @@||rtl.de^*/admeta.xml?$object-subrequest
 @@||rtl.de^*/player_modul_onclick_300x250.jpg
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||save.tv/stv/img/global/trailer20sec.swf?
+@@||secure.img-cdn.mediaplex.com^*_300x250.gif$domain=millionenklick.web.de
 @@||servedby.flashtalking.com/imp/*?click=http://ad.doubleclick.net/clk;$script,domain=n-tv.de
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
 @@||sevengames.at/ressource/js/sevengames/sevengames/adtags.*.js
