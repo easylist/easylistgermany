@@ -1934,6 +1934,7 @@ saugking.net###div_flip
 saugzone.info##a[href^="http://goo.gl/"]
 saugzone.info##a[href^="http://tinyurl.com/"]
 saugzone.info##a[title="Usenet gratis"]
+saugzone.info##input[onclick^="location='http://goo.gl/"]
 saugzone.info##input[onclick^="window.open('http://goo.gl/"]
 saugzone.info##input[onclick^="window.open('http://tinyurl.com/"]
 saugzone.info##input[onclick^="window.open('http://www2.filedroid.net/AF_"]
