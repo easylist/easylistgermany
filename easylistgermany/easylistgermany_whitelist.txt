@@ -97,6 +97,7 @@
 @@||doubleclick.net^*/podcast.de.smartclip/*;sz=400x320;$script,domain=podcast.de
 @@||doubleclick.net^*/www.nntv.de/vid_*;theme=vid_$script,domain=n-tv.de
 @@||drei.at/moma/adserver/adview.php?$image
+@@||ebaystatic.com/aw/pics/im/default_300x250.jpg$domain=millionenklick.web.dede
 @@||eckelmann-glock.de/logo-eckelmann-glock-3-300x250.gif
 @@||elhabib.com/wp-content/uploads/*-300x250.jpg
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object-subrequest,domain=mobile.de
