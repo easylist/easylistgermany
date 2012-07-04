@@ -1468,8 +1468,12 @@ movie-blog.org###post-565009 + :nth-child(n)
 movie-blog.org###post-568304
 movie-blog.org###post-568304 + * + *
 movie-blog.org###post-568304 + :nth-child(n)
+movie-blog.org###post-570582
+movie-blog.org###post-570582 + * + *
+movie-blog.org###post-570582 + :nth-child(n)
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://www.movie-blog.org/"]
+movie-blog.org##.post > .entry > center > a[target="_blank"]
 movie-blog.org##.post p > a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.post p > a[target="_blank"][href^="http://www.movie-blog.org/"]
 movie-blog.org##a[href="http://movie-blog.org/down.html"]
@@ -1487,6 +1491,7 @@ movie-blog.org##a[href="http://www.movie-blog.org/reg.html"]
 movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://anmeldung.movie-blog.org"]
 movie-blog.org##a[href^="http://mbreg.movie-blog.org"]
+movie-blog.org##a[href^="http://mbregister.movie-blog.org"]
 movie-blog.org##a[href^="http://tinyurl.com/"]
 movie-blog.org##a[href^="http://tinyurl.com/"] + strong + a
 movie-blog.org##a[href^="http://www.mydownloader.net/pr/"]
