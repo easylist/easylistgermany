@@ -2609,32 +2609,11 @@ zoozle.net###search_topline
 zoozle.net##a[onclick^="downloadFile('download_big', null,"]
 zoozle.net##a[onclick^="downloadFile('download_related', null,"]
 ! Anti-Adblock
-84.113.231.167##body > :nth-child(n) + style + div[id]:last-child
-84.113.231.167##body > noscript > style + div[id]:last-child
-alphaspeed.de##body > :nth-child(6) + p[id][style]
-alphaspeed.de##body > :nth-child(6) + style + div[id]:last-child
-axi92.at##body > :nth-child(n) + style + div[id]:last-child
-axi92.at##body > noscript > style + div[id]:last-child
 battleround.ath.cx##body > :nth-child(n) + style + div[id]:last-child
 battleround.ath.cx##body > noscript > style + div[id]:last-child
-cpp-crashkurs.de##body > :nth-child(n) + style + div[id]:last-child
-cpp-crashkurs.de##body > noscript > style + div[id]:last-child
-css-elements.tk##body > :nth-child(n) + style + div[id]:last-child
-css-elements.tk##body > noscript > style + div[id]:last-child
-diedreifragezeichen.tk##body > :nth-child(n) + style + div[id]:last-child
-diedreifragezeichen.tk##body > noscript > style + div[id]:last-child
-doclaurence-sector.de##body > :nth-child(n) + style + div[id]:last-child
-doclaurence-sector.de##body > noscript > style + div[id]:last-child
-doit2help.de##body > div[id]:first-child
-erfthalle.de##body > :nth-child(n) + style + div[id]:last-child
-erfthalle.de##body > noscript > style + div[id]:last-child
+doclaurence-sector.de###cb49f5
+doclaurence-sector.de###cb49f5 + div
 g-stream.in##[id^="i180"]
-game-complex.blogspot.com##body > :nth-child(n) + style + div[id]:last-child
-gamemods.org##body > :nth-child(n) + style + div[id]:last-child
-gamemods.org##body > noscript > style + div[id]:last-child
-gamerzblog.de##body > :nth-child(n) + style + div[id]:last-child
-germanycash.de##body > :nth-child(n) + style + div[id]:last-child
-germanycash.de##body > noscript > style + div[id]:last-child
 hardwareluxx.de###leaderboard
 hardwareluxx.de###sky
 ingame.de##.layer
@@ -2642,18 +2621,11 @@ ingame.de##div[id][style="display: block;"] > div[id$="-background"]
 ingame.de##div[id][style="display: block;"] > div[id$="-background"] + div[id$="-note"]
 leverkusen-online.info##body > :nth-child(n) + style + div[id]:last-child
 leverkusen-online.info##body > div > div > noscript > style + div[id]:last-child
-metalfa.npage.de##body > :nth-child(n) + style + div[id]:last-child
-metalfa.npage.de##body > font > noscript > style + div[id]:last-child
-metalfa.npage.de##body > noscript > style + div[id]:last-child
-mines.oprojekt.net##body > noscript + script + div[id]:last-child
 mobilfunk-geschichte.de##body > :nth-child(n) + style + div[id]:last-child
 mobilfunk-geschichte.de##body > noscript > style + div[id]:last-child
 mysmspage.de##body > style + div[id]:nth-child(n+13)
 nachrichtenamort.de##body > :nth-child(n) + style + div[id]:last-child
 nachrichtenamort.de##body > noscript > style + div[id]:last-child
-otr-cloud.net##body > style[id] + div[id]:nth-child(n+13)
-otr-keys.de##body > div[id]:first-child + div[id][style]
-otr-share.de##body > :nth-child(n) + style + div[id]:last-child
 pfalzfussball.de##body > :nth-child(n) + style + div[id]:last-child
 pfalzfussball.de##body noscript > style + div[id]:last-child
 photoguide.pytalhost.net##body > script + div[id][style]
@@ -2662,16 +2634,9 @@ rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
 rene-neuweiler.ch##body > noscript > style + div[id]:last-child
 rentatobi.de##body > :nth-child(n) + style + div[id]:last-child
 rentatobi.de##body > noscript > style + div[id]:last-child
-schnellangeld.de##body > :nth-child(n) + style + div[id]:last-child
-schnellangeld.de##body div > noscript > style + div[id]:last-child
-serienkino.net###p4b2
 sms-elite.de##body > style + div[id]:nth-child(n+13)
 spacebattle.ath.cx##body > :nth-child(n) + style + div[id]:last-child
 spacebattle.ath.cx##body > noscript > style + div[id]:last-child
-speed-warez.com##body > noscript > style + div[id]:last-child
-speed-warez.com##body > style + div[id]:nth-child(n+13)
-spreadlink.us##body > :nth-child(n) + a[id] + div[id]:last-child
-spreadlink.us##body > :nth-child(n) + style + div[id]:last-child
 streammafia.com##body > :nth-child(14) + style + div[id]:last-child
 super-otr.de##body > style[id] + div[id]:nth-child(n+13)
 super-otr.de##div[style*="background-color: rgb(0, 0, 0);"]
@@ -2680,10 +2645,6 @@ super-otr.de##div[style*="z-index: 100000; display: block"]
 tips-for-teens.de##body > :nth-child(n) + style + div[id]:last-child
 tips-for-teens.de##body > noscript > style + div[id]:last-child
 twixzo.de###s7e1
-up-tv.de##body > :nth-child(n) + style + div[id]:last-child
-up-tv.de##body > noscript > style + div[id]:last-child
-vampirediaries.in##body > :nth-child(n+20) + style + div[id]:last-child
-vampirediaries.in##body > noscript > style + div[id]:last-child
 winfuture.de###container > div[style] > img[onclick$="();"]:first-child:last-child
 winfuture.de###container > div[style] img[border="0"]
 winfuture.de###container > div[style] img[style][onclick$="();"]
