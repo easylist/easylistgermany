@@ -2625,8 +2625,7 @@ doclaurence-sector.de##body > noscript > style + div[id]:last-child
 doit2help.de##body > div[id]:first-child
 erfthalle.de##body > :nth-child(n) + style + div[id]:last-child
 erfthalle.de##body > noscript > style + div[id]:last-child
-g-stream.in###i180
-g-stream.in###i1808
+g-stream.in##[id^="i180"]
 game-complex.blogspot.com##body > :nth-child(n) + style + div[id]:last-child
 gamemods.org##body > :nth-child(n) + style + div[id]:last-child
 gamemods.org##body > noscript > style + div[id]:last-child
