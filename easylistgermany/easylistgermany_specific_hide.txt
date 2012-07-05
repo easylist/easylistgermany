@@ -1294,6 +1294,8 @@ lippewelle.de###banner_top
 lix.in##a[href^="http://lix.in/ad.php?"]
 lix.in##form[action="ads.php"]
 load.to##.small_red
+loads7.com##.post-content div[style="background-color:khaki;width:230px;"]:first-child
+loads7.com##a[href="/pub.php"]
 loads7.com##a[href="http://loads7.com/pub.php"]
 loadsieben.org##table[cellspacing="0"][cellpadding="5"][border="0"] > tbody > tr:first-child:last-child > td:first-child + td + td[align="right"]:last-child
 loadsieben.org##td[align="CENTER"][width="644"] > p:first-child + center
