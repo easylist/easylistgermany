@@ -28,9 +28,9 @@
 @@||ads.heias.com^*/heias.stream/$object,object-subrequest,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
 @@||ads.spilgames.com/ad/$script,domain=jetztspielen.de|spielen.com
-@@||ads.spilgames.com/css/*.css$domain=jetztspielen.de|spielen.com
 @@||ads.spilgames.com/vendor/flowplayer/flowplayer-*.min.js$domain=jetztspielen.de|spielen.com
 @@||ads.spilgames.com/vendor/flowplayer/flowplayer.commercial-*.swf$object,domain=jetztspielen.de|spielen.com
+@@||ads.spilgames.com^*.css$domain=jetztspielen.de|spielen.com
 @@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
 @@||adserv.quality-channel.de/realmedia/ads/*?videoad$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
 @@||adserver.71i.de/global_js/globalv6.js$domain=hausgemacht.tv
