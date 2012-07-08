@@ -215,8 +215,8 @@
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=syfy.de
 @@||smartclip.net/delivery/tag?$object-subrequest,domain=qtom.tv
 @@||smartclip.net/delivery/tag?sid=$script,domain=kostenlosspielen.net|podcast.de
-@@||smartclip.net/inpage/inpage.js$domain=90elf.de|chilloutzone.net|energy.de|kostenlosspielen.net|login.audimark.de|techno4ever.fm
-@@||smartclip.net/inpage/inpage.swf$object,domain=90elf.de|chilloutzone.net|kostenlosspielen.net|login.audimark.de
+@@||smartclip.net/inpage/inpage.js$domain=90elf.de|chilloutzone.net|energy.de|kostenlosspielen.net|login.audimark.de|techno4ever.fm|technobase.fm
+@@||smartclip.net/inpage/inpage.swf$object,domain=90elf.de|chilloutzone.net|kostenlosspielen.net|login.audimark.de|technobase.fm
 @@||sparfoto.de/article_designer/ad.php?$object
 @@||spielkarussell.de^*/ads_loader_new.js
 @@||spilcdn.com^*/advertisement/css/*.css$domain=jetztspielen.de|spielen.com
