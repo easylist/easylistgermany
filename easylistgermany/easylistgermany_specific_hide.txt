@@ -852,6 +852,7 @@ g-stream.in##a[target="_blank"] > img[width="468"][height="60"]
 g-stream.in##a[target="_blank"] > img[width="720"][height="90"]
 g-stream.in##button[onclick^="window.open('http://g-stream.in/mirror/"]
 g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
+g-stream.in##div[style="max-width: 720px;"] > div[align="center"] > div[id][style]
 g15-applets.de##tr:first-child:last-child > .bodyline[valign="top"]:first-child + td[width="120"][valign="top"]:last-child
 game-freaks.net###div_flip
 game-freaks.net##a[href^="http://freakshare.com/?ref="]
