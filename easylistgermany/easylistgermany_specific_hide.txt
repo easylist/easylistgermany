@@ -852,6 +852,8 @@ g-stream.in##a[target="_blank"] > img[width="468"][height="60"]
 g-stream.in##a[target="_blank"] > img[width="720"][height="90"]
 g-stream.in##button[onclick^="window.open('http://g-stream.in/mirror/"]
 g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
+g-stream.in##script[type="text/javascript"] + div[class] + script[type="text/javascript"] + *
+g-stream.in##script[type="text/javascript"] + div[class] + script[type="text/javascript"] + * + *
 g-stream.in##td[valign="top"] > div[style^="max-width:"] > [class] + [id]
 g-stream.in##td[valign="top"] > div[style^="max-width:"] > div[id]
 g15-applets.de##tr:first-child:last-child > .bodyline[valign="top"]:first-child + td[width="120"][valign="top"]:last-child
