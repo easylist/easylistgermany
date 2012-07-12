@@ -1482,6 +1482,9 @@ movie-blog.org###post-568304 + :nth-child(n)
 movie-blog.org###post-570582
 movie-blog.org###post-570582 + * + *
 movie-blog.org###post-570582 + :nth-child(n)
+movie-blog.org###post-572596
+movie-blog.org###post-572596 + * + *
+movie-blog.org###post-572596 + :nth-child(n)
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://www.movie-blog.org/"]
 movie-blog.org##.post > .entry > center > a[target="_blank"]
@@ -1507,6 +1510,7 @@ movie-blog.org##a[href^="http://tinyurl.com/"]
 movie-blog.org##a[href^="http://tinyurl.com/"] + strong + a
 movie-blog.org##a[href^="http://www.mydownloader.net/pr/"]
 movie-blog.org##a[href^="http://www.tarifliste.com/"]
+movie-blog.org##a[target="_blank"][href^="http://tinyurl.com/"] + * + * + a[target="_blank"]
 movie-blog.org##table[width="930"][height="450"]
 moviebb.to##.highspeed_button
 moviebox.to##.post > .cover > center > a[target="_blank"]
