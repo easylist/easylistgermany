@@ -496,6 +496,8 @@
 ||g-stream.in/mirror/
 ||g-stream.in/mirror/$image,~image,popup
 ||g-stream.in/out.php|$image,~image,popup
+||g-stream.in/showthread.php?p=$image,~image,popup,~third-party
+||g-stream.in/zoomtube/buttons/*.jpg|
 ||g-stream.in^*.php|$script
 ||g-stream.in^*/pfull2.js
 ||game-freaks.net/popup.php
@@ -1329,7 +1331,7 @@
 ||testreich.com/layer*.html
 ||ticket-leistung.de^*/banner/
 ||tinyurl.com^$domain=g-stream.in|hd-world.org|hoerbuch.in|kino24.to|kinox.tv|lesen.to|linkfarm.in|movie-blog.org|playporn.to|pornkino.to|rapidvideo.com|relink.us|saugzone.info|smsit.me|xxx-blog.to
-||tinyurl.com^$image,~image,popup,domain=ebook-hell.to|smsit.me
+||tinyurl.com^$image,~image,popup,domain=ebook-hell.to|g-stream.in|smsit.me
 ||titanic-magazin.de/fileadmin/content/anzeigen/
 ||tobitech.de/images/*.swf
 ||tollesthueringen.de/img_proximus/anzeigen/
