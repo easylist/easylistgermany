@@ -900,6 +900,7 @@ gamestar.de##a[href^="http://www.gamestar.de/_misc/linkforward/"][target="_blank
 gamestar.de##div[id^="idAd"]
 gamestar.de##div[style="background-image:url(/img/gamestar/products/banner_amazon.png);width:610px;height:70px;font-size:10px;color:#FFF;border:1px solid #D5D5D5"]
 gamestar.de##div[style="background-image:url(/img/gamestar/products/banner_gamesload2.png);width:610px;height:70px;font-size:10px;color:#FFF;border:1px solid #D5D5D5"]
+gamestar.de##div[style^="background-image:url(/img/gamestar/products/banner_mcgame.png)"]
 gamezone.de##.amazonTopList
 gamezone.de##.leaderboard
 gamiano.de##a[href^="https://www.amazon.de/"][href*="?tag=gamiano-21&"]
