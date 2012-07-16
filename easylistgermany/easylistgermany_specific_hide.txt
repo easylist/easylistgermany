@@ -1420,6 +1420,7 @@ mov-world.net###mdh_flip
 mov-world.net###mw_layer
 mov-world.net###uflip
 mov-world.net###usenet_flip
+movie-blog.org###content > .hreview-aggregate + center > a[target="_blank"]
 movie-blog.org###footer > script[type="text/javascript"] + div[id][style]
 movie-blog.org###layer
 movie-blog.org###page > #content > center > a[target="_blank"][href^="http://www.movie-blog.org/"]
@@ -1486,6 +1487,9 @@ movie-blog.org###post-570582 + :nth-child(n)
 movie-blog.org###post-572596
 movie-blog.org###post-572596 + * + *
 movie-blog.org###post-572596 + :nth-child(n)
+movie-blog.org###post-573584
+movie-blog.org###post-573584 + * + *
+movie-blog.org###post-573584 + :nth-child(n)
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://www.movie-blog.org/"]
 movie-blog.org##.post > .entry > center > a[target="_blank"]
@@ -1507,7 +1511,9 @@ movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://anmeldung.movie-blog.org"]
 movie-blog.org##a[href^="http://mbreg.movie-blog.org"]
 movie-blog.org##a[href^="http://mbregister.movie-blog.org"]
+movie-blog.org##a[href^="http://premium.movie-blog.org"]
 movie-blog.org##a[href^="http://tinyurl.com/"]
+movie-blog.org##a[href^="http://tinyurl.com/"] + * + * + * + * + * + a
 movie-blog.org##a[href^="http://tinyurl.com/"] + strong + a
 movie-blog.org##a[href^="http://www.mydownloader.net/pr/"]
 movie-blog.org##a[href^="http://www.tarifliste.com/"]
