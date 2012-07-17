@@ -501,7 +501,6 @@
 ||g-stream.in/mirror/
 ||g-stream.in/mirror/$image,~image,popup
 ||g-stream.in/out.php|$image,~image,popup
-||g-stream.in/showthread.php?p=$image,~image,popup,~third-party
 ||g-stream.in/zoomtube/buttons/*.jpg|
 ||g-stream.in^*.php|$script
 ||g-stream.in^*/pfull2.js
