@@ -300,6 +300,7 @@
 @@||n-roms.de/adframe.js
 @@||news-reader.info^$image,script,domain=news.feed-reader.net
 @@||news.feed-reader.net/adimages/$subdocument
+@@||newscomm.de/js/ads.js
 @@||nuggad.net/bk?*&nuggtg=de_putpattv_music&$object-subrequest,domain=putpat.tv
 @@||nuggad.net/crossdomain.xml$object-subrequest,domain=putpat.tv
 @@||onlinetvrecorder.com/adcodes/?$subdocument
