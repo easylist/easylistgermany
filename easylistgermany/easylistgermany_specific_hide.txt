@@ -1500,6 +1500,9 @@ movie-blog.org###post-572596 + :nth-child(n)
 movie-blog.org###post-573584
 movie-blog.org###post-573584 + * + *
 movie-blog.org###post-573584 + :nth-child(n)
+movie-blog.org###post-575083
+movie-blog.org###post-575083 + * + *
+movie-blog.org###post-575083 + :nth-child(n)
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://www.movie-blog.org/"]
 movie-blog.org##.post > .entry > center > a[target="_blank"]
@@ -1519,6 +1522,8 @@ movie-blog.org##a[href="http://www.movie-blog.org/movdown.html"]
 movie-blog.org##a[href="http://www.movie-blog.org/reg.html"]
 movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://anmeldung.movie-blog.org"]
+movie-blog.org##a[href^="http://bit.ly/"]
+movie-blog.org##a[href^="http://bit.ly/"] + * + * + a[target="_blank"]
 movie-blog.org##a[href^="http://mbreg.movie-blog.org"]
 movie-blog.org##a[href^="http://mbregister.movie-blog.org"]
 movie-blog.org##a[href^="http://premium.movie-blog.org"]
