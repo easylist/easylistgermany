@@ -1237,8 +1237,10 @@ klicktel.de###mediaBanner
 knuddels.de##.adbg
 knuddels.de##a[href^="http://im.banner.t-online.de/?adlink|"]
 kochbar.de##.rectangel
+kochbar.de##.smatch
 kochbar.de##.tTraffic
 kochbar.de##.teaser_rezepte
+kochbar.de##div[style="position: relative;margin: 0;padding: 0;border: 0;width: 300px;height: 238px;background-color:#FFF;"]
 koelschwasser.eu###banner
 kontaktanzeigen-flirt.de###popup
 kostenlosspielen.net##.content-main-box-300x250
