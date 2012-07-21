@@ -88,6 +88,7 @@
 @@||doubleclick.net/adj/*;sz=1x2;$script,domain=moviemaze.de
 @@||doubleclick.net/adj/nntv.de/;adid=*;sz=1x1;$script,domain=teleboerse.de
 @@||doubleclick.net/adj/oms.szon.de/homepage;oms=homepage;*;sz=10x10;$script,domain=schwaebische.de
+@@||doubleclick.net/adj/rmsi.sunshinelive.de/webradio;$script,domain=player.sunshine-live.de
 @@||doubleclick.net/adj/teleboerse.de/;adid=*;sz=1x1;$script,domain=teleboerse.de
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
 @@||doubleclick.net/adj/www.nntv.de;adid=*;sz=1x1;ord=$script,domain=n-tv.de|teleboerse.de
