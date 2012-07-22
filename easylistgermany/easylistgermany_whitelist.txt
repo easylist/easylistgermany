@@ -205,6 +205,8 @@
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||save.tv/stv/img/global/trailer20sec.swf?
 @@||secure.img-cdn.mediaplex.com^*_300x250.gif$domain=millionenklick.web.de
+@@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=autos.t-online.de
+@@||servedby.flashtalking.com/imp/*?cachebuster=$object-subrequest,domain=autos.t-online.de
 @@||servedby.flashtalking.com/imp/*?click=http://ad.doubleclick.net/clk;$script,domain=n-tv.de
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
 @@||sevengames.at/ressource/js/sevengames/sevengames/adtags.*.js
