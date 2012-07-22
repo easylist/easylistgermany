@@ -59,7 +59,7 @@
 @@||aus.laola1.tv/realmedia/ads/adstream_sx.ads/www.laola1.at/$object-subrequest
 @@||bada-com.de/page/wp-content/uploads/*-300x250.$image
 @@||banner.edll-fir.de^$image
-@@||banner.t-online.de/?advideo/*;vidas=pre_roll;$object-subrequest,domain=autos.t-online.de
+@@||banner.t-online.de/?advideo/*;vidas=pre_roll;$object-subrequest,domain=autos.t-online.de|mahjonggwelt.de
 @@||banner.t-online.de/crossdomain.xml$object-subrequest,domain=mahjonggwelt.de
 @@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de
 @@||berufsstart.de^*/anzeigeshowframeset.php?$subdocument
