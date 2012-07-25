@@ -757,7 +757,9 @@ fail.to##.ad
 fail.to##.dealheader
 fail.to##a[href^="http://www.china-deals.net"]
 falk.de###allianzBl
+falk.de###bahn
 falk.de###header_banner_wrapper
+falk.de###header_bservice_wrapper
 falk.de###hotel_container
 fanfiktion.de###ad
 favicon-generator.de##tr:first-child:last-child > td[align="left"][width="150"][valign="top"]:first-child + td[align="center"] + td[align="left"][width="150"][valign="top"]:last-child
