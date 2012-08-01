@@ -1527,12 +1527,14 @@ movie-blog.org###post-575083 + :nth-child(n)
 movie-blog.org###post-576382
 movie-blog.org###post-576382 + * + *
 movie-blog.org###post-576382 + :nth-child(n)
+movie-blog.org###post-578597
+movie-blog.org###post-578597 + * + *
+movie-blog.org###post-578597 + :nth-child(n)
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://www.movie-blog.org/"]
 movie-blog.org##.post > .entry > center > a[target="_blank"]
 movie-blog.org##.post p > a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.post p > a[target="_blank"][href^="http://www.movie-blog.org/"]
-movie-blog.org##[href^="http://goo.gl/"] + * + * + a
 movie-blog.org##a[href="http://movie-blog.org/down.html"]
 movie-blog.org##a[href="http://movie-blog.org/download.html"]
 movie-blog.org##a[href="http://movie-blog.org/premiumload.html"]
@@ -1550,6 +1552,9 @@ movie-blog.org##a[href^="http://anmeldung.movie-blog.org"]
 movie-blog.org##a[href^="http://bit.ly/"]
 movie-blog.org##a[href^="http://bit.ly/"] + * + * + a[target="_blank"]
 movie-blog.org##a[href^="http://goo.gl/"]
+movie-blog.org##a[href^="http://goo.gl/"] + * + * + a
+movie-blog.org##a[href^="http://is.gd/"]
+movie-blog.org##a[href^="http://is.gd/"] + * + * + a
 movie-blog.org##a[href^="http://mbreg.movie-blog.org"]
 movie-blog.org##a[href^="http://mbregister.movie-blog.org"]
 movie-blog.org##a[href^="http://premium.movie-blog.org"]
