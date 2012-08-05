@@ -92,6 +92,7 @@
 @@||doubleclick.net/adj/rmsi.sunshinelive.de/webradio;$script,domain=player.sunshine-live.de
 @@||doubleclick.net/adj/teleboerse.de/;adid=*;sz=1x1;$script,domain=teleboerse.de
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
+@@||doubleclick.net/adj/www.nntv.de/vid;theme=vid;pack=;sz=$script,domain=n-tv.de
 @@||doubleclick.net/adj/www.nntv.de;adid=*;sz=1x1;ord=$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net/adj/www.teleboerse.de/vid_*;theme=$script,domain=teleboerse.de
 @@||doubleclick.net/noidadj/www.nntv.de;adid=*;sz=1x1;$script,domain=n-tv.de|teleboerse.de
