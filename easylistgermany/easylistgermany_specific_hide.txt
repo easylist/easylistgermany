@@ -2698,6 +2698,8 @@ zoozle.net###search_topline
 zoozle.net##a[onclick^="downloadFile('download_big', null,"]
 zoozle.net##a[onclick^="downloadFile('download_related', null,"]
 ! Anti-Adblock
+1jux.net###fourlayer_fill
+1jux.net###fourlayer_layer
 battleround.ath.cx##body > :nth-child(n) + style + div[id]:last-child
 battleround.ath.cx##body > noscript > style + div[id]:last-child
 doclaurence-sector.de###cb49f5
