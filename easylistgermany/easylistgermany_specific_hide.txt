@@ -787,6 +787,7 @@ finanzen.net###banner
 finanzen.net###bs_abstand
 finanzen.net##.coW[style="background-color: #009DE0;"]
 finanztreff.de##a[href^="adclick.htn?b="]
+firstload.us###x36d
 fischkopf.de##.ads
 flash-moviez.tv##div[id^="adBar"]
 flashforum.de###ffPartner
@@ -1530,6 +1531,9 @@ movie-blog.org###post-576382 + :nth-child(n)
 movie-blog.org###post-578597
 movie-blog.org###post-578597 + * + *
 movie-blog.org###post-578597 + :nth-child(n)
+movie-blog.org###post-580407
+movie-blog.org###post-580407 + * + *
+movie-blog.org###post-580407 + :nth-child(n)
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.entry > center > a[target="_blank"][href^="http://www.movie-blog.org/"]
 movie-blog.org##.post > .entry > center > a[target="_blank"]
@@ -1557,6 +1561,8 @@ movie-blog.org##a[href^="http://is.gd/"]
 movie-blog.org##a[href^="http://is.gd/"] + * + * + a
 movie-blog.org##a[href^="http://mbreg.movie-blog.org"]
 movie-blog.org##a[href^="http://mbregister.movie-blog.org"]
+movie-blog.org##a[href^="http://ow.ly/"]
+movie-blog.org##a[href^="http://ow.ly/"] + * + * + a
 movie-blog.org##a[href^="http://premium.movie-blog.org"]
 movie-blog.org##a[href^="http://tinyurl.com/"]
 movie-blog.org##a[href^="http://tinyurl.com/"] + * + * + * + * + * + a
