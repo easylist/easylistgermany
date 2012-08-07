@@ -1520,6 +1520,9 @@ movie-blog.org###post-568304 + :nth-child(n)
 movie-blog.org###post-570582
 movie-blog.org###post-570582 + * + *
 movie-blog.org###post-570582 + :nth-child(n)
+movie-blog.org###post-570595
+movie-blog.org###post-570595 + * + *
+movie-blog.org###post-570595 + :nth-child(n)
 movie-blog.org###post-572596
 movie-blog.org###post-572596 + * + *
 movie-blog.org###post-572596 + :nth-child(n)
@@ -1568,6 +1571,7 @@ movie-blog.org##a[href^="http://mbregister.movie-blog.org"]
 movie-blog.org##a[href^="http://ow.ly/"]
 movie-blog.org##a[href^="http://ow.ly/"] + * + * + a
 movie-blog.org##a[href^="http://premium.movie-blog.org"]
+movie-blog.org##a[href^="http://specialdownload.movie-blog.org"]
 movie-blog.org##a[href^="http://tinyurl.com/"]
 movie-blog.org##a[href^="http://tinyurl.com/"] + * + * + * + * + * + a
 movie-blog.org##a[href^="http://tinyurl.com/"] + strong + a
