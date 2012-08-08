@@ -617,7 +617,7 @@
 ||golem.de^*_afc1.js
 ||golem.de^*_afc2.js
 ||golem.de^*_afc3.js
-||goo.gl^$popup,domain=atomload.at|byte.to|fail.to|omfg.to
+||goo.gl^$image,~image,popup,domain=atomload.at|byte.to|fail.to|omfg.to
 ||googlewatchblog.de/apt.png
 ||gooster.at/js/ov.js.php?
 ||gooster.ch/js/ov.js.php?
@@ -679,7 +679,7 @@
 ||hartgeld.com^*/hgb_
 ||haustechnikdialog.de/banner/
 ||hd-load.org/out.php$image,~image,popup
-||hd-load.org^$popup,domain=ddl-porn.us
+||hd-load.org^$image,~image,popup,domain=ddl-porn.us
 ||hd-movies.cx^$image,~image,popup,domain=drop-games.org
 ||hd-vidz.net/layer.php
 ||hd-vidz.net/out.js
@@ -1075,7 +1075,7 @@
 ||pornit.org/l.js
 ||pornit.org^*/trade.js
 ||pornkino.to/pk_out.js
-||pornstream.cc^$popup,domain=ddl-porn.us
+||pornstream.cc^$image,~image,popup,domain=ddl-porn.us
 ||powerforen.de^*/lookatme.js
 ||ppc-welt.info^*/banner/
 ||pragerzeitung.cz/images/banners/
@@ -1246,7 +1246,7 @@
 ||serienoldies.de^*/jamba_ringtone.gif
 ||service4handys.de/banner/
 ||sevenmac.de/banner/
-||sexfilmchen.com^$popup,domain=ddl-porn.us
+||sexfilmchen.com^$image,~image,popup,domain=ddl-porn.us
 ||sexgeschichten.com/banner/
 ||sexkino.to/777cams.html
 ||sexkino.to/777camsvert.html
@@ -1263,8 +1263,7 @@
 ||sixx.de^*/adbridgeplugin.swf$object-subrequest
 ||sk-austriakaernten.at/images/990x33_sk_austria_kaernten2.swf
 ||sk-austriakaernten.at/images/bande_animation.swf
-||slimtrade.com/out.php?$image,~image,popup,domain=hd-load.org
-||slimtrade.com/out.php?$popup,domain=ddl-porn.us
+||slimtrade.com/out.php?$image,~image,popup,domain=ddl-porn.us|hd-load.org
 ||sms.at/werbung/
 ||sms4free.cc/js/more.php
 ||smsit.me^$subdocument,domain=g-stream.in|playporn.to|rapidvideo.com
@@ -1325,6 +1324,7 @@
 ||stol.it/var/ezflow_site/storage/images/werbung_intern/look4you/
 ||store51.de/banner.js
 ||store51.de/banner1.js
+||stream-box.net/out.php$image,~image,popup
 ||stream-seiten.org/out.php$image,~image,popup
 ||stream800.com/images/firstload-anmelden.gif
 ||stream800.com/layer.js
