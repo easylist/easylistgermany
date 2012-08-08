@@ -679,6 +679,7 @@
 ||hartgeld.com^*/hgb_
 ||haustechnikdialog.de/banner/
 ||hd-load.org/out.php$image,~image,popup
+||hd-load.org^$popup,domain=ddl-porn.us
 ||hd-movies.cx^$image,~image,popup,domain=drop-games.org
 ||hd-vidz.net/layer.php
 ||hd-vidz.net/out.js
@@ -1073,6 +1074,7 @@
 ||pornit.org/l.js
 ||pornit.org^*/trade.js
 ||pornkino.to/pk_out.js
+||pornstream.cc^$popup,domain=ddl-porn.us
 ||powerforen.de^*/lookatme.js
 ||ppc-welt.info^*/banner/
 ||pragerzeitung.cz/images/banners/
@@ -1243,6 +1245,7 @@
 ||serienoldies.de^*/jamba_ringtone.gif
 ||service4handys.de/banner/
 ||sevenmac.de/banner/
+||sexfilmchen.com^$popup,domain=ddl-porn.us
 ||sexgeschichten.com/banner/
 ||sexkino.to/777cams.html
 ||sexkino.to/777camsvert.html
@@ -1260,6 +1263,7 @@
 ||sk-austriakaernten.at/images/990x33_sk_austria_kaernten2.swf
 ||sk-austriakaernten.at/images/bande_animation.swf
 ||slimtrade.com/out.php?$image,~image,popup,domain=hd-load.org
+||slimtrade.com/out.php?$popup,domain=ddl-porn.us
 ||sms.at/werbung/
 ||sms4free.cc/js/more.php
 ||smsit.me^$subdocument,domain=g-stream.in|playporn.to|rapidvideo.com
@@ -1582,5 +1586,3 @@
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Anti-Adblock
 ||loads7.com^*/werbungan.js
-! Popups
-|http:$image,~image,popup,third-party,domain=ddl-porn.us|hd-planet.org
