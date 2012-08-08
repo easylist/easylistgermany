@@ -677,6 +677,7 @@
 ||hardwaremax.net/images/banners/
 ||hartgeld.com^*/hgb_
 ||haustechnikdialog.de/banner/
+||hd-load.org/out.php$image,~image,popup
 ||hd-movies.cx^$image,~image,popup,domain=drop-games.org
 ||hd-vidz.net/layer.php
 ||hd-vidz.net/out.js
@@ -1257,6 +1258,7 @@
 ||sixx.de^*/adbridgeplugin.swf$object-subrequest
 ||sk-austriakaernten.at/images/990x33_sk_austria_kaernten2.swf
 ||sk-austriakaernten.at/images/bande_animation.swf
+||slimtrade.com/out.php?$image,~image,popup,domain=hd-load.org
 ||sms.at/werbung/
 ||sms4free.cc/js/more.php
 ||smsit.me^$subdocument,domain=g-stream.in|playporn.to|rapidvideo.com
