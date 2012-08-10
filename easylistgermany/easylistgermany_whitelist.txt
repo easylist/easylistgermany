@@ -265,11 +265,6 @@
 ! Anti-Adblock
 @@|http://$xmlhttprequest,domain=adamski.tv
 @@||4fuckr.com^*/adframe.js
-@@||ad-emea.doubleclick.net/ad/putpat.de.smartclip/;sz=400x320;$object-subrequest,domain=putpat.tv
-@@||ad.de.doubleclick.net/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||ad.de.doubleclick.net/pfadx/*;sz=*;pos=int;block=*;tile=*;spot=*;theme=*;pack=*;film_id=*;playerseite=ja;u=*;dcmt=text/xml;ord=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||ad.de.doubleclick.net/pfadx/*;sz=*;pos=pre*;tile=*;spot=*;theme=*;pack=*;film_id=*;playerseite=ja;u=*;dcmt=text/xml;ord=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||ad.de.doubleclick.net/pfadx/*;tile=*;spot=*;theme=*;pack=*;film_id=*;playerseite=ja;u=*;dcmt=text/xml;ord=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adamski.clan.su^$image,domain=adamski.tv
 @@||adamski.tv^$elemhide,image
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
