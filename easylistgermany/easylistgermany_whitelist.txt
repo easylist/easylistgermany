@@ -264,6 +264,7 @@
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=notenbuch24.de
 ! Anti-Adblock
 @@||4fuckr.com^*/adframe.js
+@@||ad-hits.de/script.php?s=212|$script
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
 @@||adscale.de/getads.js$domain=plusboard.de
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
