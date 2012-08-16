@@ -459,6 +459,7 @@ cine24.tv##a[href^="http://www.digizigi.de/"]
 cine24.tv##div[id^="ratingDiv"] > a[target][alt] > img
 cine24.tv##table[cellspacing="0"][cellpadding="0"][border="0"][width] > tbody > tr > td[style^="text-align:center"]
 cine24.tv##tr > td[valign="top"][style] > table[style] > tbody > tr > td[style]:first-child
+cine4home.de###banner
 cinema.de##.fswrapper
 cinema.de##a[href^="http://a3.superwin.de/click."]
 cineman.de###rectangle
