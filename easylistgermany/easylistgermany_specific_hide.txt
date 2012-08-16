@@ -54,6 +54,7 @@
 4fuckr.com##a[href^="http://goo.gl/"]
 4fuckr.com##div[style="display:block;width:700;height:110;text-align:center;"]
 4fuckr.com##div[style="display:block;width:740;height:100;position:relative;margin-left:220;text-align:center;"]
+4fuckr.com##div[style] > div[class] > a[target="_blank"][href^="/"] > img
 4fuckr.com##div[style] > div[style]:last-child > table[style]
 4fuckr.com##div[style]:last-child > table[width][border="0"][bgcolor="#fff"]
 4fuckr.com##table[width="483"][border="0"][bgcolor="#fff"]
