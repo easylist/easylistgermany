@@ -2395,6 +2395,7 @@ vox.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?
 voxnow.de##a[href^="/tools/count/xdot/count.php?id="]
 voxnow.de##div[onclick^="window.open('/tools/count/xdot/count.php?id="]
 w3-warez.cc##a[href^="https://www.share-online.biz/affiliate/"]
+wa.de##.idMediaParagraph > .idMediaRight > .idTextBox
 wahretabelle.de###banner_top
 walliserbote.ch##.ban-img
 wallpaper.to###genlayer
