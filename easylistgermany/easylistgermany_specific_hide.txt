@@ -46,20 +46,11 @@
 3min.de##.content_mrec
 4forums.de###p
 4fuckr.com###content > div[align="center"] > b[style="font-size: 15px;"]
-4fuckr.com##.thumb[rel][href^="/"]
-4fuckr.com##.thumb[rel][href^="http://"]
-4fuckr.com##.thumb[target="_blank"][href^="http://"]
-4fuckr.com##a[href^="/amateur/"]
-4fuckr.com##a[href^="/mdh/"]
-4fuckr.com##a[href^="http://goo.gl/"]
 4fuckr.com##div[style="display:block;height:110;text-align:center;width:730;"]
 4fuckr.com##div[style="display:block;height:110;width:730;text-align:center;"]
 4fuckr.com##div[style="display:block;width:700;height:110;text-align:center;"]
 4fuckr.com##div[style="display:block;width:740;height:100;position:relative;margin-left:220;text-align:center;"]
-4fuckr.com##div[style] > div[class] > a[target="_blank"][href^="/"] > img
-4fuckr.com##div[style] > div[style]:last-child > table[style]
-4fuckr.com##div[style]:last-child > table[width][border="0"][bgcolor="#fff"]
-4fuckr.com##table[width="483"][border="0"][bgcolor="#fff"]
+4fuckr.com##div[style] > a[style][href="/"]:first-child + div[class]:last-child > a[target="_blank"][href^="g/"]:first-child:last-child > img[src^="/g/"]:first-child:last-child
 4players.de##a[href^="http://www.ultraforce.de/?refID="]
 5-jahres-wertung.de###logo-right > div[style="float:left;margin-top:25px;"]
 5-jahres-wertung.de##a[href="http://www.tagesgeld-direktbank.de/tagesgeld-vergleich.html"]

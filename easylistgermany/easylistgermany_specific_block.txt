@@ -2,7 +2,6 @@
 /gadgets.php$subdocument,domain=trendhure.com
 /jquery.ui.*.css?rand=$third-party,domain=gamestar.de
 |http://$subdocument,third-party,domain=bonimail.de
-|http://4fuckr.com/img/*.gif|
 ||0815sms.com/doku/$script
 ||0nk.de/banner/
 ||188.165.201.228^$domain=protector.to
@@ -23,8 +22,6 @@
 ||3dl.tv/popup.php$image,~image,popup
 ||3min.de/media/featured_sites/featured_bg_$image
 ||4dl.bz/load.php$image,~image,popup
-||4fuckr.com/partnerliste.html
-||4fuckr.com/top.html
 ||4players.de/sourcen/portal/4players/utraforce/
 ||4taktershop.de^$subdocument,domain=rollertuningpage.de
 ||5-jahres-wertung.de/apd/online/5-jahres-wertung-dateien/image*.gif
