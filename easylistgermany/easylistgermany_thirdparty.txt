@@ -30,7 +30,7 @@
 ||amadeal.de/banner/$third-party
 ||amarotic.com^*.php?wmid=$script,third-party
 ||amateurbusters.com^*.php?wmid=$script,third-party
-||amateurseite.com^$image,~image,popup
+||amateurseite.com^$image,~image,popup,third-party
 ||anitoplist.de^$third-party
 ||anleger-fernsehen.de/movadplugin.swf
 ||appscene.de/time/$third-party
