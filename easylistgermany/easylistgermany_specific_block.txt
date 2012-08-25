@@ -1,6 +1,3 @@
-/ep?rand=$third-party,domain=gamestar.de
-/gadgets.php$subdocument,domain=trendhure.com
-/jquery.ui.*.css?rand=$third-party,domain=gamestar.de
 |http://$subdocument,third-party,domain=bonimail.de
 ||0815sms.com/doku/$script
 ||0nk.de/banner/
