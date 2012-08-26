@@ -119,6 +119,7 @@
 ||enforcer-shop.de/banner/
 ||erotik1.de^*.php?$subdocument,third-party
 ||erotikdating.com/geoip.php?$subdocument,third-party
+||erotikdeal.com/?ref=$third-party
 ||erwischtegirls.com/index.php?ref=$third-party
 ||escortkartei.com/banner/$third-party
 ||eteleon.de/partner/$third-party,domain=~facebook.com
