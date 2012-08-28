@@ -2068,6 +2068,7 @@ serienjunkies.org##a[href^="http://is.gd/"]
 serienjunkies.org##a[href^="http://mein-deal.com/"]
 serienjunkies.org##a[href^="http://www.firstload.com/affiliate/"]
 serienjunkies.org##form[action="http://mirror.serienjunkies.org"]
+serienjunkies.org##form[action^="http://www.firstload.com/affiliate/"]
 serienoldies.de##a[href^="http://click.jamba.de/click.asp?"]
 sex-up.net##.BoxSidebarGoogleSexUp
 sexabc.ch##tr > td[width="120"][valign="top"][align="right"]:last-child
