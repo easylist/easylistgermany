@@ -1627,3 +1627,8 @@
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Anti-Adblock
 ||loads7.com^*/werbungan.js
+! Malware
+||akamaihd.net/js/*/r.js$domain=clipfish.de
+||akamaihd.net/loaders/*/l.js?$domain=clipfish.de
+||d3pzomt0ul12fo.cloudfront.net^$domain=clipfish.de
+||trkjmp.com^$domain=clipfish.de
