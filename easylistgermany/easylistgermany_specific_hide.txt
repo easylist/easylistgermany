@@ -1422,8 +1422,10 @@ map24.com##.hand[onclick="showbahn();"]
 maxrev.de##a[href^="redirect,banner_id,"]
 mazda-forum.info##tr > td[width="175"][valign="top"][style="padding-left: 15px"]:last-child
 med1.de###w2_u[style="visibility: visible; margin-bottom: 1em; clear: left;"]
+med1.de###w_b
 med1.de###w_o
 med1.de###w_s
+med1.de##.adContainer
 medizin-netz.de##.anzeige
 mega-stream.to###streamTabs > :nth-child(6) + .ui-accordion-header
 mega-stream.to##a[href^="http://www2.filedroid.net/AF_"]
