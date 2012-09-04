@@ -11,6 +11,7 @@
 @@||ad.de.doubleclick.net/ad/clipfish.smartclip/;sz=400x320;dcmt=text/html;ord=$object-subrequest,domain=clipfish.de
 @@||ad.de.doubleclick.net/crossdomain.xml$object-subrequest,domain=n24.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
+@@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|preismafia.com
 @@||ad4.liverail.com/interstitial/?lr_publisher_id=$script,domain=jam.fm|paradiso.de
 @@||adadapter.netzathleten-media.de^*/namediaad.js$domain=lustich.de
 @@||adclient.uimserv.net/js.ng/*&site=mklick&tagid=ut_mioklick_$script,domain=millionenklick.web.de
@@ -62,9 +63,11 @@
 @@||banner.t-online.de/?advideo/*;vidas=pre_roll;$object-subrequest,domain=autos.t-online.de|mahjonggwelt.de
 @@||banner.t-online.de/crossdomain.xml$object-subrequest,domain=mahjonggwelt.de
 @@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de
+@@||belboon.de/adtracking/$subdocument,domain=preismafia.com
 @@||berufsstart.de^*/anzeigeshowframeset.php?$subdocument
 @@||berufsstart.de^*/show-advert-info.html?$subdocument
 @@||boago.com/www/delivery/ck.php?n=$subdocument,domain=jetztspielen.de
+@@||bs.serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||bundesliga.de/js/my_ad_integration.js
 @@||cache.kalaydo.de/mmo/logo/advert/$image
 @@||campact.de^*_300x250.gif
@@ -77,6 +80,7 @@
 @@||classic-motorrad.de/anzeigen/layout_images/new/top_ads_icon.gif
 @@||classistatic.de^*/advertising/*advertisingpacked.js$domain=mobile.de
 @@||clipfish.de/ip/admeta.xml?$object-subrequest
+@@||clkde.tradedoubler.com/click?p=$subdocument,domain=eule.de|preismafia.com
 @@||comdirect.de^*.html&ad=$subdocument
 @@||comdirect.de^*.html?ad=$subdocument
 @@||comdirect.de^*/advertising.do?$subdocument
@@ -190,6 +194,7 @@
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibraryas3.swf$object-subrequest,domain=didigames.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibrarylocalconnection.swf?$object-subrequest,domain=didigames.com
 @@||partner.zattoo.com/advertising/channelswitch/$subdocument
+@@||partners.webmasterplan.com/click.asp?ref=$subdocument,domain=eule.de
 @@||pcgames.de/screenshots/$image,~third-party
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
@@ -243,6 +248,7 @@
 @@||tfag.de/img/$domain=focus.de
 @@||tfag.de/js_ng/js_ng_ant_0200.js$domain=antenne.de
 @@||tfag.de/js_ng/js_ng_msg_0300.js$domain=mein-schoener-garten.de
+@@||tkqlhce.com/click-$subdocument,domain=eule.de
 @@||toggo.de/js/advertise.js
 @@||tv.derstandard.at/adserver.php?*&pos=video$subdocument
 @@||ui-portal.de^*/video-adserver-config.xml$object-subrequest
@@ -264,6 +270,7 @@
 @@||wodas.wetteronline.de/dynamic/wo_sky.fcgi?$subdocument
 @@||wodas.wetteronline.de/static/womfkts.js
 @@||xara.hse24.de^*/hse_videoplayer.swf
+@@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|preismafia.com
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=notenbuch24.de
 ! Anti-Adblock
 @@||95.211.188.41^$script,domain=my-entertainment.biz
