@@ -943,6 +943,7 @@
 ||mov-world.net/exit/$image,~image,popup
 ||mov-world.net^*/fidel.js
 ||movie-blog.org/ad.html$image,~image,popup
+||movie-blog.org^*.php|$script
 ||movie-blog.org^*/stargames.js
 ||movie-stream.to^*/popxx.js
 ||moviebb.to/img/banner/
