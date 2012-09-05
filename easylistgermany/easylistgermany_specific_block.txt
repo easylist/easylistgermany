@@ -1124,6 +1124,8 @@
 ||primavera24.de/images/banners/
 ||privacybox.net/images/vpn.gif
 ||private-blog.org/out.php$image,~image,popup
+||private-blog.org^*.php|$script
+||private-blog.org^*/rotator.php
 ||pro-linux.de/images/forum/w0.png
 ||pro-linux.de^*/action/
 ||pro.de/pro_ballon/
