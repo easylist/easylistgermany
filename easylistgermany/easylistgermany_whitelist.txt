@@ -276,6 +276,7 @@
 ! Anti-Adblock
 @@||95.211.188.41^$script,domain=my-entertainment.biz
 @@||adform.net/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||adform.net/serving/videoad/?$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
 @@||adscale.de/getads.js$domain=plusboard.de
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
