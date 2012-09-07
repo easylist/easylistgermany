@@ -246,6 +246,8 @@
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tape.tv/tape2fs/images/campaign/teaser-redaktion.swf?
 @@||teaser.neckermann.de/addyn/3.0/*/adtech;loc=100;target=_blank;grp=*;misc=$script,domain=neckermann.de
+@@||telemetryverification.net/?cb=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||telemetryverification.net/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||tfag.de/img/$domain=focus.de
 @@||tfag.de/js_ng/js_ng_ant_0200.js$domain=antenne.de
 @@||tfag.de/js_ng/js_ng_msg_0300.js$domain=mein-schoener-garten.de
@@ -263,6 +265,7 @@
 @@||viamichelin.de/static/advert/securoute/securoute.js
 @@||viamichelin.de/static/advert/sponsoring/itinerarypage/itinerarypage.js
 @@||viamichelin.de^*/rentacar.js
+@@||videoplaza.tv/proxy/distributor?$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||videostream4u.com^*/ac_oetags_clone.js
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
