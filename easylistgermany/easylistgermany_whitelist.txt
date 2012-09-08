@@ -274,6 +274,7 @@
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|preismafia.com
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=notenbuch24.de
 ! Anti-Adblock
+@@/adcycle.js$domain=my-entertainment.biz
 @@/adframe.js$domain=my-entertainment.biz
 @@||95.211.188.41^$script,domain=my-entertainment.biz
 @@||adform.net/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -306,6 +307,7 @@
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
+@@||goodluckwith.us^$script,domain=my-entertainment.biz
 @@||goolive.de^*.js|
 @@||honda-innova-forum.de/styles/$image
 @@||istream.ws/adframe.js
