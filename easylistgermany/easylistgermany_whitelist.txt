@@ -290,8 +290,8 @@
 @@||atwebpages.com^$script,domain=my-entertainment.biz
 @@||betreut-wohnen.de/adserver/ad.js
 @@||boardking.de^*/adframe.js
-@@||bs.serving-sys.com/burstingpipe/adserver.bs?$object-subrequest,domain=rtlnitronow.de
-@@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=rtlnitronow.de
+@@||bs.serving-sys.com/burstingpipe/adserver.bs?$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||byte.to/js/ads.js
 @@||byte.to/js/gigaflat.js
 @@||chat.lycos.de/adimages/$subdocument
