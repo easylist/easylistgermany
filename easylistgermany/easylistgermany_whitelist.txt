@@ -276,6 +276,7 @@
 ! Anti-Adblock
 @@/adcycle.js$domain=my-entertainment.biz
 @@/adframe.js$domain=my-entertainment.biz
+@@/lol-ad-large.js$domain=my-entertainment.biz
 @@||95.211.188.41^$script,domain=my-entertainment.biz
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -323,6 +324,7 @@
 @@||lablue.ch^$elemhide,script
 @@||lablue.de^$elemhide,script
 @@||luckytalk.de/styles/$image
+@@||medianewsonline.com^$script,domain=my-entertainment.biz
 @@||mirror-archiv.com/banner/ads/adserver/click/ad.js
 @@||mirror-otr.de^*/adframe.js
 @@||musicelster.net/adframe.js
