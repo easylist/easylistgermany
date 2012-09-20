@@ -329,6 +329,7 @@
 @@||medianewsonline.com^$script,domain=my-entertainment.biz
 @@||mirror-archiv.com/banner/ads/adserver/click/ad.js
 @@||mirror-otr.de^*/adframe.js
+@@||multiadserv.com/layer.php?pid=$script,domain=uploaded-premium.ru
 @@||musicelster.net/adframe.js
 @@||my-entertainment.biz^*#/$image
 @@||my-entertainment.biz^*.js|
@@ -358,6 +359,7 @@
 @@||sefeti46.comze.com^$script,domain=my-entertainment.biz
 @@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||servedby.flashtalking.com/imp/$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||sponsorads.de/script.php?s=$script,domain=uploaded-premium.ru
 @@||sudoku-space.de^$script
 @@||super-otr.de/inc/js/phpads/sponsorad.js
 @@||telemetryverification.net/?cb=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
