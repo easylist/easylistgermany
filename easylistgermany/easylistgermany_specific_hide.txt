@@ -1506,6 +1506,7 @@ mov-world.net###mdh_flip
 mov-world.net###mw_layer
 mov-world.net###uflip
 mov-world.net###usenet_flip
+movie-blog.org###content > span + center > a[target="_blank"]
 movie-blog.org###layer
 movie-blog.org###post-578597
 movie-blog.org###post-578597 + * + *
@@ -1543,6 +1544,9 @@ movie-blog.org###post-590474 + :nth-child(n)
 movie-blog.org###post-592254
 movie-blog.org###post-592254 + * + *
 movie-blog.org###post-592254 + :nth-child(n)
+movie-blog.org###post-593256
+movie-blog.org###post-593256 + * + *
+movie-blog.org###post-593256 + :nth-child(n)
 movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.entry > p > a[target="_blank"][href*=".movie-blog.org"]
 movie-blog.org##.entry a[target="_blank"][href$=".movie-blog.org/"]
@@ -1559,6 +1563,7 @@ movie-blog.org##a[href^="http://bit.ly/"]
 movie-blog.org##a[href^="http://goo.gl/"]
 movie-blog.org##a[href^="http://is.gd/"]
 movie-blog.org##a[href^="http://ow.ly/"]
+movie-blog.org##a[href^="http://snipurl.com/"]
 movie-blog.org##a[href^="http://tinyurl.com/"]
 movie-blog.org##a[href^="http://www.tarifliste.com/"]
 movie-stream.to##a[href^="http://www.firstload.com/affiliate/"]
