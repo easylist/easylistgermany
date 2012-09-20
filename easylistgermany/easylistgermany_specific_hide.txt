@@ -1267,6 +1267,8 @@ kgsw.eu##tr > td > .fieldset[style="margin:0px 0px 0px 0px"]:first-child:last-ch
 kicker.de###ctl00_ControlNavi_presenterCtrl
 kicker.de###rect_anz
 kicker.de##.linksebay
+kidsweb.de##td[width="115"][valign="top"][bgcolor="#FFFFCC"]:last-child > div[align="left"] > div[align="center"]
+kidsweb.de##td[width="116"][valign="top"][bgcolor="#FFFFCC"][rowspan="2"]:first-child > table[width="116"][border="0"][bgcolor="#FFFFCC"]:first-child + table[width="114"][border="0"]:last-child
 kidszone.de###rect_anz
 kidszone.de##.skyscraper_background
 kidszone.de##.skyscraper_forum
