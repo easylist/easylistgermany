@@ -2410,6 +2410,7 @@ tv-kino.net##a[href^="http://www.TwinPlan.com/AF_"]
 tv-kino.net##a[href^="http://www.twinplan.com/AF_"]
 tv-stream.to###layer_1
 tv-stream.to##a[href^="http://www.firstload.com/affiliate/"]
+tv-stream.to##body > :nth-child(9) + div[id][style]
 tvheute.at###sky
 tvinfo.de###bannerTop
 tvmatrix.at##td[width="300"][height="250"]
