@@ -679,6 +679,8 @@ ebay.de##.vi-as
 ebay.de##.vi-d-pad
 eblogx.com##.sponsorleft
 ebook-hell.to##.BUTTON[type="BUTTON"][onclick^="location='http://"]
+ebook-hell.to##[width="620"][bordercolor="#808080"] td[height="60"][align="CENTER"] > a > img
+ebook-hell.to##a[href^="http://3wl.li/"]
 ebook-hell.to##a[href^="http://b1t.it/"]
 ebook-hell.to##a[href^="http://bit.ly/"]
 ebook-hell.to##a[href^="http://de.generic4all.com/"]
@@ -697,6 +699,7 @@ ebook-hell.to##input[onclick^="location='http://www.firstload.com/?uniq="]
 ebook-hell.to##input[onclick^="parent.location='http://b1t.it/"]
 ebook-hell.to##input[onclick^="parent.location='http://bit.ly/"]
 ebook-hell.to##input[onclick^="parent.location='http://ow.ly/"]
+ebook-hell.to##input[onclick^="parent.location='http://tinyurl.com/"]
 ebook-hell.to##input[onclick^="parent.location='http://www.goo.gl/"]
 echo-online.de##.banner_horizontal
 echo-online.de##.bottom-buttons
