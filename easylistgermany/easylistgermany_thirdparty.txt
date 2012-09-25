@@ -1,6 +1,4 @@
 ||1deluxe.eu/banner/
-||1load.net/mehrinfos1.php$image,~image,popup
-||1und1.de/?__reuse=$image,~image,popup,third-party
 ||1und1.hoch-it.de/images/$third-party
 ||213.133.100.18^*&clicktag=
 ||24level.com/banner/$third-party
@@ -30,7 +28,6 @@
 ||amadeal.de/banner/$third-party
 ||amarotic.com^*.php?wmid=$script,third-party
 ||amateurbusters.com^*.php?wmid=$script,third-party
-||amateurseite.com^$image,~image,popup,third-party
 ||anitoplist.de^$third-party
 ||anleger-fernsehen.de/movadplugin.swf
 ||appscene.de/time/$third-party
@@ -47,18 +44,15 @@
 ||banner.sealmedia.de^$third-party
 ||banner.upjers.com^$third-party
 ||banners.jobwinner.ch^$third-party
-||base.de/partner/start?id=*&nsctrid=$image,~image,popup,third-party
 ||baygel.de/banner/
 ||beate-uhse.com/banner/$third-party
 ||beyond-media.at/bm_banner_oa.gif$third-party
-||biild.host56.com^$image,~image,popup
 ||bluepoint-radio.de/banner/$third-party
 ||blumi.to^$image,script,subdocument
 ||bmportal.de/fileadmin/bm/gfx/banner_$third-party
 ||bn.gewinn24.de^
 ||bn.profiwin.de^$third-party
 ||bodyguardapotheke.com^*/banner/
-||boerse.bz/toplist/vote/$image,~image,popup,domain=~linkvz.net
 ||boerse.bz/toplist/vote/$third-party
 ||boerse.bz^*/banners/$third-party
 ||boxen1.com^*/jessica1.jpg
@@ -72,7 +66,6 @@
 ||catsms.de/images/banner/
 ||cdn.kaisergames.de/www.*/images/wallpaper_
 ||china-gadgets.de^$subdocument,third-party
-||china-gadgets.de^*&utm_medium=popdown&$image,~image,popup,third-party
 ||clanmonster.de/clanmonster_gross.jpg$third-party
 ||clanplanet.de/cp-leaderboard.jpg
 ||congstar.de/mgm/starseller/$third-party
@@ -88,12 +81,10 @@
 ||ddl-blog.org/banner/$third-party
 ||ddl-blog.to/banner/$third-party
 ||ddl-moviez.org/promo/
-||ddl-network.org/ad/$image,~image,popup
 ||ddl-search.biz/bilder/banner/
 ||ddl-search.biz/bilder/banner_$third-party
 ||dealdoktor.de/m/$third-party
 ||dealdoktor.de/misc/$third-party
-||dealdoktor.de^*&utm_medium=popdown&$image,~image,popup,third-party
 ||deinplan.de/pharus-shop.gif
 ||dentaltrade-zahnersatz.de^*/banner/$third-party
 ||deutschland-spielt.de/partners/$third-party
@@ -124,7 +115,6 @@
 ||eteleon.de/partner/$third-party,domain=~facebook.com
 ||eteleon.de/partnerprogramm/$third-party
 ||ex.joyjasp.com^$third-party
-||ext.amateurcommunity.com^$image,~image,popup,third-party
 ||fairvital.com/images/banner_$third-party
 ||fairvital.com/images/skyscraper_$third-party
 ||fandealer.de^*/promo/
@@ -165,7 +155,6 @@
 ||hallimash.com/werber/$third-party
 ||hamster.cc^*.php$subdocument,third-party
 ||handy-find.de/banner/$third-party
-||handy-toplist.de/vote/$image,~image,popup
 ||happyweekend-community.com/banner/
 ||happywins.com/images/banner/
 ||hd-vidz.net/layers.php
@@ -184,7 +173,6 @@
 ||icq-styler.de/promo.html
 ||ideecon.com^*/iphone4-ohne-vertrag-ratenkauf.gif
 ||igijon.com/personales/cyonix/$third-party
-||ilove.de^*/landing_pages/$image,~image,popup
 ||img.share-online.biz^$third-party
 ||imgimg.de/popit/
 ||immoversum.com/index/wb_suchform$third-party
@@ -224,7 +212,6 @@
 ||mafia.to/popup.php
 ||mafia.to^*/popup.js$third-party
 ||media.alphaload.com^
-||mediadealr.com^$image,~image,popup,third-party
 ||mediaplazza.com^*/topboxgames.php?$third-party
 ||medipreis.de/partner/$third-party
 ||mein-deal.com^$script,third-party
@@ -258,7 +245,6 @@
 ||nexworld.tv^*/banner/$third-party
 ||nordsport-shop.de/content/$third-party
 ||nx8.de/nx8de_*.jpg$third-party
-||o2-freikarte.de/affiliate/$image,~image,popup
 ||oecherdeal.de^$subdocument,third-party
 ||offizielles-umfrageportal.de/leads/$third-party
 ||okm-community.com/banner/$third-party
@@ -370,7 +356,6 @@
 ||server.nitrado.net/img.nitrado/nitrado_minecraft1_
 ||server4.pro/images/banner_$third-party
 ||shopprops.de/flashbanner/$third-party
-||shortnews.de^*_adtext_id=$image,~image,popup
 ||silbertresor.de^*/banner/$third-party
 ||sims-it.net/az.html$third-party
 ||skipmp3.com/affiliate/$third-party
@@ -382,7 +367,6 @@
 ||smoketown.de/banner/$third-party
 ||sms4fans.de/img/banner$third-party
 ||smsdate.com/lovefinder.php$third-party
-||smstune.de/la/$image,~image,popup
 ||sn-multimedia.de/download/bannersn.gif
 ||sn-multimedia.de/weitereangebote-v2/$third-party
 ||sn-multimedia.de/weitereangebote/$third-party
@@ -412,7 +396,6 @@
 ||t-shirt-drucker.de/banner/$third-party
 ||talkplus.de/banner/$third-party
 ||tarifdoc.de^$subdocument,third-party
-||tarifliste.com/index.php?log=$image,~image,popup,third-party
 ||tarifliste.com^$subdocument,third-party
 ||tele.net/shoppingbanner.php?
 ||tinyprice.de/aktion/$third-party
@@ -436,7 +419,6 @@
 ||trackfox2.com^
 ||travoya.de^*/banner/$third-party
 ||tuifly.com/partner/$third-party
-||tuneclub.de^*/lp.pl?$image,~image,popup
 ||tuneup.de^*/affiliate/
 ||tuneyourscoot.com/images/banner
 ||turbo-promo.de/banners/
@@ -450,14 +432,12 @@
 ||verleihshop.de/gfx/partner/$third-party
 ||versandtarif.de^*?partnerid=$third-party
 ||verschenkehandy.de/?pid=$third-party
-||vidonna.de/pop.php$image,~image,popup,third-party
 ||vienna.at/banner/
 ||view.autoscout24.de^$third-party
 ||view.ilove.de^$third-party
 ||view.jamba.de^$third-party
 ||visit-x.net/001/$third-party
 ||visit-x.net/promo/$third-party
-||vodafone.de^*&tsid=$image,~image,popup,third-party
 ||volksbank-oberberg.de/banner/$third-party
 ||vorratsdatenspeicherung.de/images/akvs*.gif$third-party
 ||vote4me.de^$third-party

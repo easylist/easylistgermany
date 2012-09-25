@@ -5,9 +5,6 @@
 ||1dl.in/layer/
 ||1dl.to/highspeed/
 ||1dl.to/js/klavier.js
-||1load.net/highspeedmirror.php$image,~image,popup
-||1load.net/mehrinfos.php$image,~image,popup
-||1load.net/out.php$image,~image,popup
 ||1load.net/resources/images/banner/
 ||1load.net/resources/images/share123.gif
 ||1load.net/resources/images/shareonline.gif
@@ -16,9 +13,7 @@
 ||2concert.de/banner/
 ||360hacks.de^*/partner/
 ||3d-area.in/out.js
-||3dl.tv/popup.php$image,~image,popup
 ||3min.de/media/featured_sites/featured_bg_$image
-||4dl.bz/load.php$image,~image,popup
 ||4players.de/sourcen/portal/4players/utraforce/
 ||4taktershop.de^$subdocument,domain=rollertuningpage.de
 ||5-jahres-wertung.de/apd/online/5-jahres-wertung-dateien/image*.gif
@@ -39,11 +34,9 @@
 ||ad-hoc-news.de/js/jquery.lightboxad.js
 ||ad.dslr-forum.de^
 ||ad.main-netz.de^
-||ad.netzquadrat.de^$image,~image,popup,domain=sms.de
 ||ad.putenbrust.net^
 ||adbl.spieletipps.de^
 ||adhs-zentrum.de^*.php$subdocument
-||adsfac.eu/link.asp?$image,~image,popup,domain=iamgamer.de
 ||adsm.gameforge.de^
 ||aerger.tv/images/03-1.gif
 ||aerger.tv/images/a.gif
@@ -66,10 +59,8 @@
 ||albumz.us/out.js
 ||allesueberfilme.de/img/nextbase_banner.gif
 ||allfacebook.de/wp-content/uploads/*/bookme.jpg
-||alturl.com^$image,~image,popup,domain=byte.to
 ||amadeal.de/pics/240.gif
 ||amazon.de/aan/$subdocument
-||amazon.de^*&tag=bluray18-21&$image,~image,popup,domain=bluray-disc.de
 ||analog-forum.de/werbung/
 ||androidpit.de/swf/app-seller.swf?xmlpath=$object
 ||anime-loads.org/images/c3on9.jpg
@@ -100,7 +91,6 @@
 ||atomload.at/js/giga.js
 ||atomload.at/js/xxx.js
 ||atomload.at/layer/
-||atomload.at/out.php$image,~image,popup
 ||atomload.at^*/layer.php
 ||atomload.at^*/noop.js
 ||atv.at/adonly?
@@ -174,8 +164,6 @@
 ||bild.de^*=adtag^
 ||bilder.static-fra.de/wetter11/images/offer/$domain=wetter.de
 ||bildschirmarbeiter.com/images/poster/
-||bit.ly^$image,~image,popup,domain=byte.to
-||bitly.com^$image,~image,popup,domain=ddl-music.org|ddl-warez.in|pornlounge.org
 ||bizipic.de/images/gbcodes200.jpg
 ||bizipic.de/images/gross.png
 ||blackbeats.fm/defshopbanner.swf
@@ -232,7 +220,6 @@
 ||byte.to/js/mov.js
 ||byte.to/jse/pimmelarsch.js
 ||byte.to/mouseover.js
-||byte.to/out.php$image,~image,popup
 ||byte.to/over.js
 ||byte.to/popdown.js
 ||byte.to/popdown1.js
@@ -241,7 +228,6 @@
 ||byte.to/spinningpopup.js
 ||byte.to/top5.js
 ||byte.to^*/booby.js
-||campartner.com^$image,~image,popup,domain=g-stream.in
 ||casecenter.net^*/werbung/
 ||casinowelt.com/banner/
 ||center.tv/cms/fileadmin/site/flash/anzeigen/
@@ -323,8 +309,6 @@
 ||ddl-porn.us/frontpics/
 ||ddl-porn.us/layer/
 ||ddl-porn.us/pop.php
-||ddl-porn.us/popt/$image,~image,popup
-||ddl-porn.us/popup.php$image,~image,popup
 ||ddl-porn.us/trade.js
 ||ddl-scene.com/usenext.php
 ||ddl-search.biz/banner/
@@ -416,9 +400,7 @@
 ||ebook-hell.to/js/tooltips.js
 ||ebook-hell.to/js/zk.js
 ||ebook-hell.to/js/zk1.js
-||ebook-hell.to/out.php$image,~image,popup
 ||ebook-hell.to/popdown.js
-||ebook-hell.to^*/out.php$image,~image,popup
 ||ecdl-moodle.de^*/script_banner_
 ||econo.de/uploads/tx_macinabanners/
 ||edvinfos.de/banner/
@@ -493,7 +475,6 @@
 ||finanzen.net/swf/a_anzeige/
 ||finde-reitbeteiligung.de/banner/
 ||finya.de/ad/
-||firstload.us^$image,~image,popup,domain=movie-blog.org
 ||fischkopf.de/image-content/wallpapers/
 ||flashmob.de/modules/mod_beinvolved/images/wordpress.png
 ||flirttoday.de/popup_
@@ -556,8 +537,6 @@
 ||g-stream.in/img/covers/863621937.jpg
 ||g-stream.in/lla2/
 ||g-stream.in/mirror/
-||g-stream.in/mirror/$image,~image,popup
-||g-stream.in/out.php|$image,~image,popup
 ||g-stream.in/zoomtube/buttons/*.jpg|
 ||g-stream.in^*.php|$script
 ||g-stream.in^*/pfull2.js
@@ -653,14 +632,12 @@
 ||golem.de^*_afc1.js
 ||golem.de^*_afc2.js
 ||golem.de^*_afc3.js
-||goo.gl^$image,~image,popup,domain=atomload.at|byte.to|fail.to|omfg.to
 ||googlewatchblog.de/apt.png
 ||gooster.at/js/ov.js.php?
 ||gooster.ch/js/ov.js.php?
 ||gooster.de/js/ov.js.php?
 ||gotv.at^*_clicktag.swf
 ||grauzone.us^*/dropin.js
-||green.ingame.de/www/delivery/inck.php?oaparams=*__bannerid=*__zoneid=*__oadest=$image,~image,popup
 ||green.ingame.de^
 ||gronkh.de/media/brandings/
 ||grosseleute.de/banner
@@ -685,7 +662,6 @@
 ||hallo-verlag.de/img/super_*.swf
 ||hammonline.de/bannerbox.php
 ||hammonline.de/bannerlb.php
-||hamster.cc^$image,~image,popup,domain=movie-blog.org
 ||handelsblatt.com/images/icon/anzeige_h.gif
 ||handwerksblatt.de/banner_scripte/
 ||handy-sparen.net^$domain=germanload.to
@@ -714,9 +690,6 @@
 ||hardwaremax.net/images/banners/
 ||hartgeld.com^*/hgb_
 ||haustechnikdialog.de/banner/
-||hd-load.org/out.php$image,~image,popup
-||hd-load.org^$image,~image,popup,domain=ddl-porn.us
-||hd-movies.cx^$image,~image,popup,domain=drop-games.org
 ||hd-vidz.net/layer.php
 ||hd-vidz.net/out.js
 ||heddesheimblog.de^*/anzeige-
@@ -728,7 +701,6 @@
 ||herold.at/images/dealofday.swf
 ||herold.at^*.swf?*&linktarget=_blank
 ||hertener-allgemeine.de^*/anzeigen/
-||hifi-forum.de/forum/banner/$image,~image,popup
 ||highspeed.duckcrypt.info^
 ||hildesheimer-allgemeine.de/uploads/tx_macinabanners/
 ||hirnfick.to/hf.php
@@ -739,7 +711,6 @@
 ||hochzeitsplaner.de^*_200x600.
 ||hochzeitstage.de^*/200x600_
 ||hochzeitstage.de^*/728x90hochzeitsdrucksachen.gif
-||hoerbuch.in/enterpopup.php$image,~image,popup
 ||hoerbuch.in/newlay/
 ||hoerbuch.in/pop.php
 ||hoerbuch.in/rssmd.php
@@ -810,7 +781,6 @@
 ||jokermovie.org/js/giga.js
 ||jokermovie.org/js/klavier.js
 ||jokermovie.org/layer/
-||jokermovie.org/out.php$image,~image,popup
 ||jokermovie.org/pop.js
 ||jokermovie.org^*/layer.php
 ||jokermovie.org^*/pop.js
@@ -898,7 +868,6 @@
 ||looki.de/ba/*/swf/video.swf
 ||looki.de/gfx/cache/ba_*.png
 ||lose-keller.de/sk_views.php
-||lovoo.net^$image,~image,popup,domain=smsform.de
 ||lowbird.com/media/ichwuerde.gif
 ||luebeck-tourismus.de/images/stories/*_154x70
 ||luebeck-tourismus.de/images/stories/banners/
@@ -908,7 +877,6 @@
 ||mafia-linkz.to/tmp/fl_$image
 ||mafia.to/base.php?
 ||mafia.to/dl_header.cfm
-||mafia.to/exit.cfm$image,~image,popup
 ||mailgen.biz/img/banner_
 ||mailgen.biz/lla2/
 ||map24.com/banner/
@@ -926,7 +894,6 @@
 ||mega-stream.to/do.php
 ||mega-stream.to/js/pop*.js
 ||mega-stream.to/js/ppop*.js
-||mega-stream.to/xtend_pop*.html$image,~image,popup
 ||mein-shirt.net^$domain=g-stream.in|smsit.me
 ||meintomtom.de^*/back_adblock.gif
 ||meisterkuehler.de/bilder/artikel/banner/
@@ -952,9 +919,7 @@
 ||morgfx.de/banner/
 ||motorsport-total.com/i/dunlop_flash.gif
 ||motorsport-xl.de^*/werbung/
-||mov-world.net/exit/$image,~image,popup
 ||mov-world.net^*/fidel.js
-||movie-blog.org/ad.html$image,~image,popup
 ||movie-blog.org^*.php|$script
 ||movie-blog.org^*/stargames.js
 ||movie-stream.to^*/popxx.js
@@ -999,7 +964,6 @@
 ||nanu.de/modules/wochenschau/banner/
 ||naturpark-augsburg.de/img_layout/zech_partner.jpg
 ||navi-forum.net/navishop.gif
-||neckermann.de^$image,~image,popup,domain=5vor12.de
 ||nerdcore.de/banner/
 ||nerdcore.de/wp/wp-content/themes/*/_img/hosteurope.gif
 ||netheweb.de/images/a-
@@ -1129,7 +1093,6 @@
 ||pornkino.to/pk_out.js
 ||pornkino.to^*.php|$script
 ||pornkino.to^*/rotator.php
-||pornstream.cc^$image,~image,popup,domain=ddl-porn.us
 ||powerforen.de^*/lookatme.js
 ||ppc-welt.info^*/banner/
 ||pragerzeitung.cz/images/banners/
@@ -1139,7 +1102,6 @@
 ||presseportal.de/images/eyecatcher/
 ||primavera24.de/images/banners/
 ||privacybox.net/images/vpn.gif
-||private-blog.org/out.php$image,~image,popup
 ||private-blog.org^*.php|$script
 ||private-blog.org^*/rotator.php
 ||pro-linux.de/images/forum/w0.png
@@ -1166,7 +1128,6 @@
 ||psychic.de/bilder/muskelentspannung.png
 ||pszone.eu/templates/playzone/img/bg_all.jpg
 ||pszone.eu/uploads/banners/
-||putenbrust.net/cgi-bin/atc/out.cgi?l=popup&$image,~image,popup
 ||putpat.tv^*/sponsoring/
 ||pz-news.de^*/module_wb/
 ||querverweis.net/show/index.php?sac_cat=
@@ -1192,7 +1153,6 @@
 ||rapidvideo.com/layer.js
 ||rapidvideo.com/layer.php
 ||rapidvideo.com/layer2.php
-||rapidvideo.com/popup.php$image,~image,popup
 ||rc-heli-fan.org/images/banner/
 ||rclineforum.de/forum/index.php?target=_blank&*&zoneid=$script
 ||rdrvision.com/images/partner/banner-
@@ -1237,7 +1197,6 @@
 ||saugzone.info/images/*.gif|
 ||saugzone.info/test.js
 ||saugzone.info/vote/
-||saugzone.info/vote/out.php$image,~image,popup
 ||saved.im/mtg2ntuxbwzx/okryohr2.jpg$domain=6dl.to
 ||saz-aktuell.com/img/com.png
 ||sb.sbsb.cc/images/first/
@@ -1305,7 +1264,6 @@
 ||serienoldies.de^*/jamba_ringtone.gif
 ||service4handys.de/banner/
 ||sevenmac.de/banner/
-||sexfilmchen.com^$image,~image,popup,domain=ddl-porn.us
 ||sexgeschichten.com/banner/
 ||sexkino.to/777cams.html
 ||sexkino.to/777camsvert.html
@@ -1323,7 +1281,6 @@
 ||sixx.de^*/adbridgeplugin.swf$object-subrequest
 ||sk-austriakaernten.at/images/990x33_sk_austria_kaernten2.swf
 ||sk-austriakaernten.at/images/bande_animation.swf
-||slimtrade.com/out.php?$image,~image,popup,domain=ddl-porn.us|hd-load.org
 ||sms.at/werbung/
 ||sms4free.cc/js/more.php
 ||smsit.me^$subdocument,domain=g-stream.in|playporn.to|rapidvideo.com
@@ -1384,8 +1341,6 @@
 ||stol.it/var/ezflow_site/storage/images/werbung_intern/look4you/
 ||store51.de/banner.js
 ||store51.de/banner1.js
-||stream-box.net/out.php$image,~image,popup
-||stream-seiten.org/out.php$image,~image,popup
 ||stream800.com/images/firstload-anmelden.gif
 ||stream800.com/layer.js
 ||streamload.in/grafics/update.jpg
@@ -1398,7 +1353,6 @@
 ||stuttgarter-nachrichten.de^*/stn_ajax_galleryad?
 ||stuttgarter-zeitung.de/meinprospekt/
 ||suedkurier.de^*_omsv.js
-||superclix.de^$image,~image,popup,domain=0815sms.com
 ||superfunblog.com^*/layer.js
 ||surfmusik.de/anz1.gif
 ||surfmusik.de/audialsone-1.gif
@@ -1445,7 +1399,6 @@
 ||testreich.com/layer*.html
 ||ticket-leistung.de^*/banner/
 ||tinyurl.com^$domain=g-stream.in|hd-world.org|hoerbuch.in|kino24.to|kinox.tv|lesen.to|linkfarm.in|movie-blog.org|playporn.to|pornkino.to|rapidvideo.com|relink.us|saugzone.info|smsit.me|xxx-blog.to
-||tinyurl.com^$image,~image,popup,domain=ebook-hell.to|g-stream.in|smsit.me
 ||titanic-magazin.de/fileadmin/content/anzeigen/
 ||tobitech.de/images/*.swf
 ||tollesthueringen.de/img_proximus/anzeigen/
@@ -1506,11 +1459,9 @@
 ||unser-star-fuer-baku.tv/usfo/player/default/avt_config.php?$object-subrequest
 ||unser-star-fuer-oslo.de^*/config_avtblocks.xml$object-subrequest
 ||unternehmerkarte.de/include/config/popup.js
-||usenext.de^$image,~image,popup,domain=5vor12.de
 ||v-gaming.de/static/scripts/php/show.php?type=$subdocument
 ||v2load.de/kamp/
 ||vampirediaries.in/partner.php
-||vampirediaries.in/popin.php$image,~image,popup
 ||vanion.eu/static/scripts/php/show.php?type=$subdocument
 ||vegan.de/foren/templates/default/images/b_*.gif
 ||vegetarierforum.com^*/google_links.jpg
@@ -1587,8 +1538,6 @@
 ||wiiunews.at/wp-content/uploads/2012/08/crazycase1.gif
 ||willhaben.apa.net/clientscript/google/
 ||willhaben.apa.net/clientscript/oas.js
-||williamhill.com^$image,~image,popup,domain=trailerzone.info
-||williamhillcasino.com^$image,~image,popup,domain=trailerzone.info
 ||win-lan.de^*/banners/
 ||windows-tweaks.info^*/safersurf__
 ||wintergarten-ratgeber.de/uploads/tx_macinabanners/
@@ -1625,11 +1574,9 @@
 ||xtream.to/images/player/save.png
 ||xup.in/com/pop.
 ||xxx-4-free.net/gfx/layer/
-||xxx-blog.to/download_out.php$image,~image,popup
 ||xxx-blog.to^*.php|$script
 ||xxx-blog.to^*/rotator.php
 ||yabeat.com/generate_layer.php
-||yasni.de/ad_pop.php$image,~image,popup
 ||yasni.de/js/min/ads.js?
 ||yasni.de^*/partner/
 ||yigg.de^*/sponsorings/
