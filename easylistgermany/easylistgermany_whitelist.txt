@@ -22,6 +22,7 @@
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
+@@||admedia.adgemini.de^$~third-party
 @@||admin.brightcove.com/viewer/*/advertisingmodule.swf$domain=bunch.tv|dmax.de|morgenpost.de
 @@||adonline.anonza.de^$~document,~third-party
 @@||ads.adcloud.net/s/14221.js$domain=focus.de
