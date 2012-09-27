@@ -283,6 +283,7 @@
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
 @@||atomload.at/js/esel.js
 @@||atwebpages.com^$script,domain=my-entertainment.biz
+@@||batcave.net^$script,domain=my-entertainment.biz
 @@||betreut-wohnen.de/adserver/ad.js
 @@||boardking.de^*/adframe.js
 @@||bs.serving-sys.com/burstingpipe/adserver.bs?$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
