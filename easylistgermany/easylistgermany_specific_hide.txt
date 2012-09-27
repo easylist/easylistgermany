@@ -2797,9 +2797,7 @@ super-otr.de##div[style*="z-index: 100000; display: block"]
 tips-for-teens.de##body > :nth-child(n) + style + div[id]:last-child
 tips-for-teens.de##body > noscript > style + div[id]:last-child
 twixzo.de###s7e1
-uploaded-premium.ru##body > script + #wrapper + script + script + div[style]
-uploaded-premium.ru##body > script + #wrapper + script + script + div[style] + div[style]
-uploaded-premium.ru##body > script + #wrapper + script + script + div[style] + div[style] + div[style]:last-child
+uploaded-premium.ru##div[id$="_layer"]
 winfuture.de###container > div[style] > img[onclick$="();"]:first-child:last-child
 winfuture.de###container > div[style] img[border="0"]
 winfuture.de###container > div[style] img[style][onclick$="();"]
