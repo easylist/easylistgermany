@@ -233,81 +233,50 @@ bielertagblatt.ch###bannerRight
 bielertagblatt.ch###bannerTopRight
 bigbrother11hd.in###l93b850
 bigbrother11live.info###l93b850
-biild.host56.com##body
 bild.de###badge > object[id^="pub_"]
-bild.de###divInterstitielLayer
 bild.de###fullBanner
-bild.de##.affiliateAS24
-bild.de##.jetzt_aufnehmen
+bild.de###subchannelBanner1_1
+bild.de###subchannelBanner2_2
+bild.de##.cbErotikContentbar15
+bild.de##.contentbar
+bild.de##.footerbar
 bild.de##.rectangle
-bild.de##a[href*=".bigpoint.com/?aid="]
 bild.de##a[href*=".smartadserver.com/"]
-bild.de##a[href*="/advertorial/"]
-bild.de##a[href*="/asmi/"]
+bild.de##a[href*=".smartadserver.com/"] + .mark
 bild.de##a[href*="/partner/"]
 bild.de##a[href*="/partner/"] + .mark
 bild.de##a[href*="?AffiliateID="]
 bild.de##a[href="/geld/sparen/sparen/home-16885918.bild.html"]
 bild.de##a[href="/geld/sparen/sparen/home-16885918.bild.html"] + .mark
-bild.de##a[href="/lifestyle/singles/dating/home-17141842.bild.html"]
-bild.de##a[href="/lifestyle/singles/dating/home-17141842.bild.html"] + .mark
-bild.de##a[href="http://appcenter.bild.de"]
-bild.de##a[href="http://appcenter.bild.de"] + .mark
+bild.de##a[href="/lifestyle/horoskop/horoskop/home-21648048.bild.html"]
+bild.de##a[href="/lifestyle/horoskop/horoskop/home-21648048.bild.html"] + .mark
 bild.de##a[href="http://automarkt.bild.de/"]
 bild.de##a[href="http://automarkt.bild.de/"] + .mark
-bild.de##a[href="http://bild.its.de"]
-bild.de##a[href="http://bild.its.de"] + .mark
 bild.de##a[href="http://download-spiele.bild.de"]
 bild.de##a[href="http://download-spiele.bild.de"] + .mark
 bild.de##a[href="http://dvd.bild.de/"]
 bild.de##a[href="http://dvd.bild.de/"] + .mark
-bild.de##a[href="http://fashionshopping.bild.de/"]
 bild.de##a[href="http://fotoservice.bild.de/"] + .mark
-bild.de##a[href="http://horoskope.bild.de"]
-bild.de##a[href="http://horoskope.bild.de"] + .mark
+bild.de##a[href="http://immobiliensuche.bild.de"]
+bild.de##a[href="http://immobiliensuche.bild.de"] + .mark
 bild.de##a[href="http://immonet.bild.de/"]
 bild.de##a[href="http://immonet.bild.de/"] + .mark
 bild.de##a[href="http://neuwagen.bild.de/"]
 bild.de##a[href="http://neuwagen.bild.de/"] + .mark
 bild.de##a[href="http://partnersuche.bild.de/"]
 bild.de##a[href="http://partnersuche.bild.de/"] + .mark
-bild.de##a[href="http://reiseshop.bild.de/"] > img
-bild.de##a[href="http://www.videobuster.de/bild/"]
-bild.de##a[href="http://www.videobuster.de/bild/"] + .mark
 bild.de##a[href="https://bild.bewerbung.de"]
 bild.de##a[href="https://bild.bewerbung.de"] + .mark
-bild.de##a[href^="/gewinnspiele/gewinnspielseite/gewinnspiele/"]
 bild.de##a[href^="/gewinnspiele/movieman/"]
-bild.de##a[href^="/spiele/deutschland-spielt-kostenlos/download-spiele/kostenlos-spielen-"] > .photo
-bild.de##a[href^="/unterhaltung/erotik/erotik/das-erotik-portal-erotik1-"]
-bild.de##a[href^="/unterhaltung/kino/film/seite-"] > .photo
-bild.de##a[href^="/unterhaltung/kino/film/trailerquiz-"] > img
-bild.de##a[href^="/unterhaltung/kino/kino/gewinnspiel-"] > .photo
-bild.de##a[href^="/unterhaltung/musik/anzeige/"]
-bild.de##a[href^="http://clk.atdmt.com/"]
 bild.de##a[href^="http://fotoservice.bild.de"]
-bild.de##a[href^="http://friendscout24.bild.de"]
-bild.de##a[href^="http://friendscout24.bild.de/"]
-bild.de##a[href^="http://reiseshop.bild.de/"]
-bild.de##a[href^="http://shop.bild.de"] > .photo
-bild.de##a[href^="http://tagesdeals.bild.de/"] > img
 bild.de##a[href^="http://www.erotik1.de/"]
-bild.de##a[href^="http://www.erotik1cams.de/"]
-bild.de##a[href^="http://www.flirtpub.de/index.php?wid="]
 bild.de##a[href^="http://www.stylisto.de"] > img
 bild.de##a[onclick*="/partner/"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/Download-Spiele;"]
-bild.de##a[onclick^="wt_send_timeparams('ce1=/angebot/"]
-bild.de##a[onclick^="wt_send_timeparams('ce1=/angebote/"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/edarling_"]
-bild.de##a[onclick^="wt_send_timeparams('ce1=/erotik1/"]
-bild.de##a[onclick^="wt_send_timeparams('ce1=/erotik1_"]
-bild.de##a[onclick^="wt_send_timeparams('ce1=/movieman/"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/sky/"]
-bild.de##a[onclick^="wt_send_timeparams('ce1=/spotify/"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/videobuster/"]
-bild.de##a[onclick^="wt_send_timeparams('ce1=/videobuster/"] + .entry-title + .entry-content
-bild.de##a[onclick^="wt_send_timeparams('ce1=erotik1/"]
+bild.de##div[id^="content_stoerer_"]
 bildblog.de##.reklam
 bildschirmarbeiter.com###col3_content > .sidebox:first-child
 bildschirmarbeiter.com##.searchContainer + a + .sidebox
