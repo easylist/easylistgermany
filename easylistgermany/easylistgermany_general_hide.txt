@@ -35,6 +35,7 @@
 ###forumformwerbung
 ###freikarte_layer
 ###gonamicerror
+###hauptnaviwerbelinks
 ###headerWerbung
 ###header_werbung
 ###headerwerbung
@@ -159,6 +160,7 @@
 ##.werbung-rectangle
 ##.werbung-skyscraper
 ##.werbung-skyscraper2
+##.werbung-unten
 ##.werbung1
 ##.werbung2
 ##.werbung280x70_wrap
@@ -169,6 +171,7 @@
 ##.werbungTabelle
 ##.werbung_bereich
 ##.werbung_box
+##.werbung_links
 ##.werbungamazon
 ##.werbungrechtstitel
 ##a[href^="http://farm.plista.com/pets"]
