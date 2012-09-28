@@ -1947,9 +1947,6 @@ ragecomic.de##a[href^="http://goo.gl/"]
 ragecomic.de##a[href^="http://www.amazon.de/"][href*="&tag=s32a-21&"]
 raidrush.ws##a[href^="http://ads.raidrush.org/"]
 raidrush.ws##img[height="250"][width="300"]
-rapidvideo.com###banners3
-rapidvideo.com###player:first-child + center:last-child > a[target="_blank"]:first-child:last-child > img:first-child:last-child
-rapidvideo.com##a[href^="http://network.adsmarket.com"]
 rawsucker.com##.galine
 rc-network.de##.above_body:first-child + table[cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 rclineforum.de###RotBanner
