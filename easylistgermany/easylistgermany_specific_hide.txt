@@ -2531,8 +2531,10 @@ volksfreund.de###Rectangle
 volksfreund.de###RectangleOMS
 volksfreund.de##.superbanner
 voltigierzirkel.de##.banner
+vox-now.de##.slidebox > .height200
 vox.de##.rectangel
 vox.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
+voxnow.de##.slidebox > .height200
 voxnow.de##a[href^="/tools/count/xdot/count.php?id="]
 voxnow.de##div[onclick^="window.open('/tools/count/xdot/count.php?id="]
 w3-warez.cc##a[href^="https://www.share-online.biz/affiliate/"]
