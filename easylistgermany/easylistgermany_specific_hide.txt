@@ -371,6 +371,7 @@ byte.to###toplist
 byte.to###toplistbar
 byte.to###toppartner
 byte.to##a[href="http://www.byte.to/first/"]
+byte.to##a[href^="http://tinyurl.com/"]
 byte.to##a[href^="http://torrent.byte.to/first/"]
 byte.to##a[href^="http://www.firstload.com/affiliate/"]
 byte.to##a[href^="http://www.globalvpn.net"]
@@ -381,6 +382,7 @@ byte.to##input[onclick^="location='http://bit.ly/"]
 byte.to##input[onclick^="location='http://goo.gl/"]
 byte.to##input[onclick^="location='http://www.FriendlyDuck.com/AF_"]
 byte.to##input[onclick^="location='http://www.firstload.com/?uniq="]
+byte.to##input[onclick^="window.open('http://tinyurl.com/"]
 byte.to##input[onclick^="window.open('http://torrent.byte.to/first/"]
 byte.to##input[onclick^="window.open('http://www.byte.to/first/"]
 byte.to##input[onclick^="window.open('http://www.byte.to/firstload/"]
