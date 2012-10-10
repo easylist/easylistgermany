@@ -1100,6 +1100,8 @@
 ||porn-x.org/abkeulen.js
 ||porn-xx.net/pop-code.js
 ||porn2you.org/traffictrade.js
+||porn2you.org^*.php|$script
+||porn2you.org^*/rotator.php
 ||pornflash.net/out.js
 ||pornit.org/l.js
 ||pornit.org^*/trade.js
