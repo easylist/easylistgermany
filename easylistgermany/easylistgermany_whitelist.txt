@@ -229,7 +229,7 @@
 @@||spilcdn.com^*/advertisement/flowplayer/flowplayer-*.min.js$domain=jetztspielen.de|spielen.com
 @@||spilcdn.com^*/advertisement/flowplayer/flowplayer.commercial-*.swf$object,domain=jetztspielen.de|spielen.com
 @@||spotrails.com/video/$object-subrequest,domain=mobile.de
-@@||srx.de.ebayrtm.com/rtm?RtmCmd&a=inline&p=$script,domain=pages.ebay.de
+@@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=dealseu.ebay.de|pages.ebay.de
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
 @@||static-fra.de^*/admeta.xml?$object-subrequest
