@@ -450,6 +450,7 @@ compliancemagazin.de##a[href^="http://www.itseccity.de/adserver/"]
 compliancemagazin.de##div[style="text-align:center; margin-bottom:10px;"]
 computerbase.de##.amazon-links
 computerbase.de##.amazon-links-2
+computerbase.de##a[style="color:#000;display:block;padding:10px 7px 8px;position:relative"]
 computerbild.de###toplinks > .first
 computerbild.de##.anzeige
 computerbild.de##.partner
