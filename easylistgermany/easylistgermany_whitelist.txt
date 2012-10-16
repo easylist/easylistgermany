@@ -46,11 +46,11 @@
 @@||adserver2.clipkit.de/www/delivery/ajs.php?$script,domain=jam.fm|paradiso.de
 @@||adshot.de/click/view.php$image,domain=dateibrowser.de|filebroker.de|thisload.de
 @@||adtech.de/?adrawdata/$object-subrequest,domain=cineman.de|login.audimark.de|player.nowonscreen.com
-@@||adtech.de/?advideo/$object-subrequest,domain=cinemaxx.de|filmstarts.de
+@@||adtech.de/?advideo/$object-subrequest,domain=filmstarts.de
 @@||adtech.de/adrawdata$object-subrequest,domain=player.nowonscreen.com
 @@||adtech.de/apps/$object-subrequest,domain=cineman.de
 @@||aka-cdn-ns.adtech.de/apps/$image,domain=neckermann.de
-@@||aka-cdn-ns.adtech.de/apps/$object-subrequest,domain=cinemaxx.de|filmstarts.de
+@@||aka-cdn-ns.adtech.de/apps/$object-subrequest,domain=filmstarts.de
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
 @@||altfarm.mediaplex.com/ad/ck/$image,domain=paypal-deutschland.de
 @@||anonza.de^*/adonline.css
