@@ -1578,6 +1578,9 @@ movie-blog.org###post-597646 + :nth-child(n)
 movie-blog.org###post-598425
 movie-blog.org###post-598425 + * + *
 movie-blog.org###post-598425 + :nth-child(n)
+movie-blog.org###post-599970
+movie-blog.org###post-599970 + * + *
+movie-blog.org###post-599970 + :nth-child(n)
 movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.entry > p > a[target="_blank"][href*=".movie-blog.org"]
 movie-blog.org##.entry a[target="_blank"][href$=".movie-blog.org/"]
