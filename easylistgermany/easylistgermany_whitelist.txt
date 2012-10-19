@@ -4,7 +4,9 @@
 @@||abacomuenchensued.de/pageear/$object,object-subrequest,script
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=autos.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=autos.t-online.de
+@@||ad.71i.de/global_js/AdScripts/change_site_position.js$domain=gamestar.de
 @@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|brokencomedy.de|gamepro.de|gamestar.de|n24.de
+@@||ad.71i.de/global_js/Sites/gamestarde.js$domain=gamestar.de
 @@||ad.71i.de/global_js/sites/n24de.js$domain=n24.de
 @@||ad.71i.de/global_js/sites/pro7de.js$domain=brokencomedy.de
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
@@ -104,6 +106,7 @@
 @@||doubleclick.net/noidadj/www.nntv.de;adid=*;sz=1x1;$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net/pfadx/de_n24.*;sz=50x1;$object-subrequest,domain=n24.de
 @@||doubleclick.net/pfadx/de_n24/*;sz=50x1;$object-subrequest,domain=n24.de
+@@||doubleclick.net^*/DE_Gamestar.de/*;sz=468x60;$script,domain=gamestar.de
 @@||doubleclick.net^*/podcast.de.smartclip/*;sz=400x320;$script,domain=podcast.de
 @@||doubleclick.net^*/www.nntv.de/vid_*;theme=vid_$script,domain=n-tv.de
 @@||drei.at/moma/adserver/adview.php?$image
