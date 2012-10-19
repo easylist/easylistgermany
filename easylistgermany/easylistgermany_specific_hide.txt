@@ -929,6 +929,7 @@ gamestar.de###sponsorbar
 gamestar.de##.adsense
 gamestar.de##.centeredDiv > .homeContReg > .doubleBlkLeft[style="height:270px;padding-top:20px;"]:first-child
 gamestar.de##.centeredDiv > .homeContReg > .doubleBlkRight[style="height:300px;padding:20px 0;"]:last-child
+gamestar.de##.centeredDiv[style="position:inherit;"] > div[style="width:980px;float:left;"] > .leaderboard
 gamestar.de##.dlightboxContainerBody > div[style="color: #5D5D5D; font-size: 18px; margin: 10px 10px 10px 20px; text-align: left;"] + .standardcontent > [type="text/css"] + .articlelb > table
 gamestar.de##.marketbox_brace
 gamestar.de##a[href^="http://www.betvictor-emtippspiel.de/index.cfm?"]
