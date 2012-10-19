@@ -1809,6 +1809,9 @@ paradisi.de##a[href^="http://adserver.adtech.de/?"]
 partyamt.de##.anzeigen
 partybilder24.com###popup
 paules-pc-forum.de###header_right_cell
+pbportal.de##table[width="730"][height="92"]
+pbportal.de##td[width="730"][height="92"]
+pbportal.de##tr > td[width="100%"][valign="top"][align="left"]:first-child + td + td[valign="top"]:last-child
 pc-magazin.de##.newsletterTeaser
 pc-max.de##.bannerContainer
 pc-max.de##.block-banner
