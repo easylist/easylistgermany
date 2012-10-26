@@ -370,7 +370,6 @@
 @@||telemetryverification.net/?cb=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||telemetryverification.net/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ttads.de/www/delivery/click.js
-@@||videoplaza.tv/proxy/distributor/$object-subrequest,domain=filmstarts.de
-@@||videoplaza.tv/proxy/distributor?$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||videoplaza.tv/proxy/distributor?$object-subrequest,domain=filmstarts.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||view.binlayer.com/ad-*.js$script,domain=super-otr.de
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
