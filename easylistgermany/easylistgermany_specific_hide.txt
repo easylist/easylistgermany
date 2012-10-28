@@ -786,6 +786,7 @@ fettrap.com##input[onclick^="window.open('http://fettrap.com/highspeed/"]
 fettspielen.de###banner
 fettspielen.de##a[href^="http://ads2.fettspielen.de"]
 ff-online.com###banner
+fhm-magazin.de##.medrectcol2
 file-lounge.com##input[onclick^="location.href='http://ul.to/ref/"]
 file-lounge.com##input[onclick^="location.href='http://www.gigaflat.com/affiliate/"]
 filmeforum.com##.banner
