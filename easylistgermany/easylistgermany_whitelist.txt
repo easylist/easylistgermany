@@ -14,11 +14,11 @@
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|preismafia.com
 @@||ad4.liverail.com/interstitial/?lr_publisher_id=$script,domain=jam.fm|paradiso.de
 @@||adadapter.netzathleten-media.de^*/namediaad.js$domain=lustich.de
-@@||adclient.uimserv.net/js.ng/*&site=mklick&tagid=ut_mioklick_$script,domain=millionenklick.web.de
-@@||adclient.uimserv.net/js.ng/site=mklick&$script,domain=millionenklick.web.de
+@@||adclient.uimserv.net^$script,domain=millionenklick.web.de
 @@||adcounter.darmstaedter-echo.de^$~third-party
 @@||adfarm1.adition.com/banner?sid=$script,domain=jam.fm
 @@||adfarm1.adition.com/js?wp_id=$script,domain=jam.fm
+@@||adimg.uimserv.net^$image,object,script,domain=millionenklick.web.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
@@ -150,6 +150,7 @@
 @@||i.computer-bild.de/imgs/$image,domain=computerbild.de
 @@||idowa.de/rest/db/frontend/advertisement/$xmlhttprequest
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
+@@||img.ui-portal.de/uim/*/Promo/$image,domain=millionenklick.web.de
 @@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||interhome.at/javascript/ad-gallery.js
