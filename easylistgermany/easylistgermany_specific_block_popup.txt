@@ -32,6 +32,7 @@
 ||jokermovie.org/out.php$image,~image,popup
 ||lovoo.net^$image,~image,popup,domain=smsform.de
 ||mafia.to/exit.cfm$image,~image,popup
+||maniac.de/maniadrd.php?i=$image,~image,popup
 ||mega-stream.to/xtend_pop*.html$image,~image,popup
 ||mov-world.net/exit/$image,~image,popup
 ||movie-blog.org/ad.html$image,~image,popup
