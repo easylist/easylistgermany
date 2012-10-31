@@ -23,6 +23,7 @@
 ||g-stream.in/out.php|$image,~image,popup
 ||goo.gl^$image,~image,popup,domain=atomload.at|byte.to|fail.to|omfg.to
 ||green.ingame.de/www/delivery/inck.php?oaparams=*__bannerid=*__zoneid=*__oadest=$image,~image,popup
+||greres.com^$image,~image,popup,domain=gamestar.de
 ||hamster.cc^$image,~image,popup,domain=movie-blog.org
 ||hd-load.org/out.php$image,~image,popup
 ||hd-load.org^$image,~image,popup,domain=ddl-porn.us

@@ -1,12 +1,10 @@
-.com/werbung_
-/werbung-rechts1.
-/werbung_banner1.
 -werb_hori.
 -werb_vert.
 -werbebanner.
 .at/ads/
 .ch/ads/
 .com/de/ad/
+.com/werbung_
 .de.be/zzz/$script
 .de.ms/zzz/$script
 .de.vu/zzz/$script
@@ -68,6 +66,7 @@
 /werbeteaser/*
 /werbetrenner_
 /werbezonen/*
+/werbung-rechts1.
 /werbung-sky/*
 /werbung.$third-party
 /werbung.gif
@@ -79,6 +78,7 @@
 /werbung5jw/*
 /werbung90.
 /werbung_*?
+/werbung_banner1.
 /werbungheader.
 /werbunglongbanner1.
 /werbungsbilder/*
