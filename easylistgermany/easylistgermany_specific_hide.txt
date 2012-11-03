@@ -2329,6 +2329,7 @@ spieletipps.de##a[href^="http://rc23.overture.com"]
 spieletipps.de##body > .jqmOverlay
 sport.de##.artikelrectangel
 sport.de##.rectangel
+sport.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
 sport.de##a[target="_blank"][href^="/tools/count/xdot/count.php?id="][style="display: block;"]
 sport1.de##.addPicture
 sportal.ch##.anzeige_468

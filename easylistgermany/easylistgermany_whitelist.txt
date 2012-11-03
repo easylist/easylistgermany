@@ -231,6 +231,7 @@
 @@||spilcdn.com^*/advertisement/css/*.css$domain=jetztspielen.de|spielen.com
 @@||spilcdn.com^*/advertisement/flowplayer/flowplayer-*.min.js$domain=jetztspielen.de|spielen.com
 @@||spilcdn.com^*/advertisement/flowplayer/flowplayer.commercial-*.swf$object,domain=jetztspielen.de|spielen.com
+@@||sport.de/autoimg/*/300x250/$image,~third-party
 @@||spotrails.com/video/$object-subrequest,domain=mobile.de
 @@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=deals.ebay.de|dealseu.ebay.de|pages.ebay.de
 @@||stadtlist.de/images/ads/$image
