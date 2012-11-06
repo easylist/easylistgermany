@@ -1628,6 +1628,9 @@ movie-blog.org###post-604126 + :nth-child(n)
 movie-blog.org###post-604917
 movie-blog.org###post-604917 + * + *
 movie-blog.org###post-604917 + :nth-child(n)
+movie-blog.org###post-606450
+movie-blog.org###post-606450 + * + *
+movie-blog.org###post-606450 + :nth-child(n)
 movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.entry a[href*=".movie-blog.org"]
 movie-blog.org##.entry center > a[target="_blank"][href*=".movie-blog.org/"]
@@ -1655,6 +1658,7 @@ movie-blog.org##a[href^="http://tinyurl.com/"]
 movie-blog.org##a[href^="http://trick.ly/"]
 movie-blog.org##a[href^="http://ur1.ca/"]
 movie-blog.org##a[href^="http://url9.de/"]
+movie-blog.org##a[href^="http://vyu.me/"]
 movie-blog.org##a[href^="http://www.tarifliste.com/"]
 movie-stream.to##a[href^="http://www.firstload.com/affiliate/"]
 moviebb.to##.highspeed_button
