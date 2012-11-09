@@ -2599,6 +2599,7 @@ uimserv.net###advWrapper
 uimserv.net###logoutlounge
 ultras.ws##.post.bg1 + .divider + .post.bg3
 ultras.ws##a[href^="http://www1.belboon.de/"]
+ultras.ws##td[valign="top"][style="width: 85%"]:last-child > br:first-child + center > H2:first-child
 unawave.de###googlebanner
 unawave.de##a[href^="http://ad.zanox.com/"]
 unawave.de##a[href^="http://clix.superclix.de/"]
