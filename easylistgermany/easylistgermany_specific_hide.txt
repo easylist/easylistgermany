@@ -2360,6 +2360,8 @@ spieleportal.de###partner_box
 spieletipps.de##.stiYsmLink
 spieletipps.de##a[href^="http://rc23.overture.com"]
 spieletipps.de##body > .jqmOverlay
+spielkarussell.de##.banner
+spielkarussell.de##.game-side-banner-wrap
 sport.de##.artikelrectangel
 sport.de##.rectangel
 sport.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
