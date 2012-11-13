@@ -445,7 +445,12 @@
 ||verleihshop.de/gfx/partner/$third-party
 ||versandtarif.de^*?partnerid=$third-party
 ||verschenkehandy.de/?pid=$third-party
-||vertical-n.de/scripts/soz_soz/$third-party
+||vertical-n.de/scripts/*/mediumrect.js
+||vertical-n.de/scripts/*/sky.js
+||vertical-n.de/scripts/*/supb.js
+||verticalnetwork.de/scripts/*/mediumrect.js
+||verticalnetwork.de/scripts/*/sky.js
+||verticalnetwork.de/scripts/*/supb.js
 ||vienna.at/banner/
 ||view.autoscout24.de^$third-party
 ||view.ilove.de^$third-party
