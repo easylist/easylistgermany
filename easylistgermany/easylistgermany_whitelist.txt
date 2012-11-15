@@ -1,5 +1,6 @@
 @@||0815sms.com/img/pagepeel.php?$image
 @@||1000steine.de/img/ads/
+@@||360yield.com/adj?p=$script,domain=jetztspielen.de
 @@||46.4.236.198/ox/www/delivery/ajs.php?zoneid=*&loc=http%3a//wz-newsline.de/index.php$script,domain=wz-newsline.de
 @@||abacomuenchensued.de/pageear/$object,object-subrequest,script
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=autos.t-online.de
@@ -47,6 +48,7 @@
 @@||adshot.de/click/view.php$image,domain=dateibrowser.de|filebroker.de|thisload.de
 @@||adtech.de/?adrawdata/$object-subrequest,domain=cineman.de|login.audimark.de|player.nowonscreen.com
 @@||adtech.de/?advideo/$object-subrequest,domain=filmstarts.de
+@@||adtech.de/addyn/*/ADTECH;$script,domain=jetztspielen.de
 @@||adtech.de/adrawdata$object-subrequest,domain=player.nowonscreen.com
 @@||adtech.de/apps/$object-subrequest,domain=cineman.de
 @@||aka-cdn-ns.adtech.de/apps/$image,domain=neckermann.de
@@ -189,8 +191,10 @@
 @@||os1.tv/js/omsvc_externalad.js
 @@||osthessen-tv.de/werbebanner/$object-subrequest
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=jetztspielen.de|tech-blog.net
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibraryas3.swf$object-subrequest,domain=didigames.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibrarylocalconnection.swf?$object-subrequest,domain=didigames.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=jetztspielen.de|tech-blog.net
 @@||partner.zattoo.com/advertising/channelswitch/$subdocument
 @@||partners.webmasterplan.com/click.asp?ref=$subdocument,domain=eule.de
 @@||pcgames.de/screenshots/$image,~third-party
@@ -360,8 +364,8 @@
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|tech-blog.net
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|tech-blog.net
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
