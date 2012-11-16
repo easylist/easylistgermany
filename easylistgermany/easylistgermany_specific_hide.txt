@@ -1648,6 +1648,10 @@ movie-blog.org###post-607338 + :nth-child(n)
 movie-blog.org###post-609714
 movie-blog.org###post-609714 + * + *
 movie-blog.org###post-609714 + :nth-child(n)
+movie-blog.org###post-610937
+movie-blog.org###post-610937 + * + *
+movie-blog.org###post-610937 + :nth-child(n)
+movie-blog.org##.entry > a[target="_blank"]
 movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.entry a[href*=".movie-blog.org"]
 movie-blog.org##.entry center > a[target="_blank"][href*=".movie-blog.org/"]
@@ -1659,6 +1663,7 @@ movie-blog.org##.post > center > a[target="_blank"][href*=".movie-blog.org"]
 movie-blog.org##.post > center:last-child > a[target="_blank"]
 movie-blog.org##.post a[target="_blank"][href$=".movie-blog.org"]
 movie-blog.org##.post p > a[target="_blank"][href*=".movie-blog.org/"]
+movie-blog.org##.post-ratings + .entry + a[target="_blank"]
 movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://b23.ru/"]
 movie-blog.org##a[href^="http://bit.ly/"]
@@ -1679,6 +1684,7 @@ movie-blog.org##a[href^="http://ur1.ca/"]
 movie-blog.org##a[href^="http://url9.de/"]
 movie-blog.org##a[href^="http://vyu.me/"]
 movie-blog.org##a[href^="http://www.tarifliste.com/"]
+movie-blog.org##a[href^="http://x.co/"]
 movie-blog.org##a[href^="http://yi.tl/"]
 movie-stream.to##a[href^="http://www.firstload.com/affiliate/"]
 moviebb.to##.highspeed_button
