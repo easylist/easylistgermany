@@ -922,9 +922,12 @@ gamehammer.de##a[href^="banner_click.php?advert_id="]
 gameone.de###top_add
 gameone.de##.q_teaser_wrapper
 gameone.de##.skyscraper_wrapper
+gamepro.de##.centeredDiv > .border > .homeContReg > .doubleBlkLeft[style="height:270px;padding-top:20px;"]:first-child
+gamepro.de##.centeredDiv > .border > .homeContReg > .doubleBlkRight[style="height:300px;padding:20px 0;"]:last-child
 gamepro.de##.marketbox_brace
 gamepro.de##a[href^="http://www.amazon.de/gp/"][href*="&tag=gscon-21"]
 gamepro.de##a[href^="http://www.betvictor-emtippspiel.de/index.cfm?"]
+gamepro.de##a[target="_blank"][href^="http://www.gamepro.de/_misc/linkforward/linkforward.cfm?linkid="]
 gamepro.de##div[style="background-image:url(/img/gamestar/products/banner_amazon.png);width:610px;height:70px;font-size:10px;color:#FFF;border:1px solid #D5D5D5"]
 gamers.at###header > a[target="_blank"]
 gamers.at##.networkbanner + script + a
