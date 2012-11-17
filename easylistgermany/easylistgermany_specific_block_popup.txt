@@ -40,6 +40,7 @@
 ||movie-blog.org/ad.html$image,~image,popup
 ||neckermann.de^$image,~image,popup,domain=5vor12.de
 ||pornstream.cc^$image,~image,popup,domain=ddl-porn.us
+||premium.movie-blog.org^$image,~image,popup,~third-party
 ||private-blog.org/out.php$image,~image,popup
 ||putenbrust.net/cgi-bin/atc/out.cgi?l=popup&$image,~image,popup
 ||rapidvideo.com/popup.php$image,~image,popup
