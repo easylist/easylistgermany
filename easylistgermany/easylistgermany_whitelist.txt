@@ -22,12 +22,14 @@
 @@||adimg.uimserv.net^$image,object,script,domain=millionenklick.web.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
+@@||adjug.com/AdJugSearch/Results.aspx?$script,domain=jetztspielen.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
 @@||admedia.adgemini.de^$~third-party
 @@||admin.brightcove.com/viewer/*/advertisingmodule.swf$domain=bunch.tv|dmax.de|morgenpost.de
 @@||adonline.anonza.de^$~document,~third-party
 @@||ads.adcloud.net/s/14221.js$domain=focus.de
 @@||ads.autoscout24.com/adserver/*&elementid=ctl00_ctl00_decoratedarea_contentarea_fsbox0&$script,domain=autoscout24.de
+@@||ads.creative-serving.com/adj/cdde.$script,domain=jetztspielen.de
 @@||ads.heias.com/x/heias.smartclip/?$script,domain=podcast.de
 @@||ads.heias.com^*/heias.stream/$object,object-subrequest,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
@@ -70,6 +72,8 @@
 @@||belboon.de/adtracking/$subdocument,domain=preismafia.com
 @@||berufsstart.de^*/anzeigeshowframeset.php?$subdocument
 @@||berufsstart.de^*/show-advert-info.html?$subdocument
+@@||betrad.com/geo/ba.js?$script,domain=jetztspielen.de
+@@||betrad.com/surly.js?$script,domain=jetztspielen.de
 @@||boago.com/www/delivery/ck.php?n=$subdocument,domain=jetztspielen.de
 @@||bs.serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||bundesliga.de/js/my_ad_integration.js
