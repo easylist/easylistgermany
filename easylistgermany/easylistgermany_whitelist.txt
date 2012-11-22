@@ -330,6 +330,7 @@
 @@||gegahost.net^$script,domain=my-entertainment.biz
 @@||getenjoyment.net^$script,domain=my-entertainment.biz
 @@||goodluckwith.us^$script,domain=my-entertainment.biz
+@@||googletagservices.com/tag/js/gpt.js$domain=gamona.de
 @@||goolive.de^*.js|
 @@||honda-innova-forum.de/styles/$image
 @@||hostingsiteforfree.com^$script,domain=my-entertainment.biz
@@ -367,9 +368,11 @@
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
+@@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=gamona.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||plusboard.de^$image
+@@||pubads.g.doubleclick.net/gampad/ads?$script,domain=gamona.de
 @@||sefeti46.comze.com^$script,domain=my-entertainment.biz
 @@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||servedby.flashtalking.com/imp/$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
