@@ -1656,6 +1656,9 @@ movie-blog.org###post-610937 + :nth-child(n)
 movie-blog.org###post-612119
 movie-blog.org###post-612119 + * + *
 movie-blog.org###post-612119 + :nth-child(n)
+movie-blog.org###post-612759
+movie-blog.org###post-612759 + * + *
+movie-blog.org###post-612759 + :nth-child(n)
 movie-blog.org##.entry > a[target="_blank"]
 movie-blog.org##.entry > a[target="blank"]
 movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
@@ -1663,6 +1666,7 @@ movie-blog.org##.entry a[href*=".movie-blog.org"]
 movie-blog.org##.entry center > a[target="_blank"][href*=".movie-blog.org/"]
 movie-blog.org##.hreview-aggregate > .post + a[target="_blank"]
 movie-blog.org##.hreview-aggregate > a[target="blank"]
+movie-blog.org##.post + a
 movie-blog.org##.post + center:last-child > a[target="_blank"]
 movie-blog.org##.post > .entry > center > a[target="_blank"]
 movie-blog.org##.post > center > a[target="_blank"][href*=".hd-world.org"]
@@ -1674,6 +1678,7 @@ movie-blog.org##.post-ratings + .entry + a[target="_blank"]
 movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://b23.ru/"]
 movie-blog.org##a[href^="http://bit.ly/"]
+movie-blog.org##a[href^="http://chilp.it/"]
 movie-blog.org##a[href^="http://cl.lk/"]
 movie-blog.org##a[href^="http://fur.ly/"]
 movie-blog.org##a[href^="http://gg.gg/"]
