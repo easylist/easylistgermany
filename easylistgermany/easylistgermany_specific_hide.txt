@@ -2358,6 +2358,7 @@ sound-load.com##.content_box_content_dl > div + .fc + div
 speedlounge.in##.content > center > hr[width="100%"] + a
 speedlounge.in##.rightbox
 speedlounge.in##.rightcontent
+speedlounge.in##a[href="/download/footer"]
 speedlounge.in##a[href="usenet"]
 speedlounge.in##a[href^="/go/"]
 speedlounge.in##a[href^="/to/"]
