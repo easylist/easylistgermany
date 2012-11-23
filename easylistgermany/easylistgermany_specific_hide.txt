@@ -791,6 +791,7 @@ fcbayern.telekom.de###BannerSkyscraper
 fcbayern.telekom.de##.SectionPresenting
 fck.de###site_overlay_wrapper
 fck.de##.site_ovlerlay
+feiertage.net##a[href^="http://bit.ly/"] > img
 fem.com###add_square
 fernsehkritik.tv###content > #rclm[style="width:224px;"]:last-child
 fernsehlounge.de##.headbanner
