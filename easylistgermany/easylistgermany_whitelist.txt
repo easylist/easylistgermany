@@ -91,6 +91,7 @@
 @@||comdirect.de^*.html&ad=$subdocument
 @@||comdirect.de^*.html?ad=$subdocument
 @@||comdirect.de^*/advertising.do?$subdocument
+@@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||dawanda.com/ads?$xmlhttprequest
 @@||de.ebayobjects.com/1ai/mobile.homepage/superteaser;$subdocument,domain=mobile.de
 @@||devaki.ch/www/delivery/ajs.php?$script,domain=tagesanzeiger.ch
@@ -212,6 +213,7 @@
 @@||re-publica.de/banner/$image,domain=re-publica.de
 @@||reimkultur-mv.de/9products/images/ad/$image,~third-party
 @@||rhodesian-ridgeback-forum.org^$elemhide
+@@||richmedia.coolespiele.com^$~third-party
 @@||rtl.de^*/admeta.xml?$object-subrequest
 @@||rtl.de^*/player_modul_onclick_300x250.jpg
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
