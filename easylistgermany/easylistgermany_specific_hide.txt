@@ -2517,6 +2517,7 @@ tagblatt.de###container_banner
 tagblatt.de###container_banner_wallpaper
 tageblatt.lu##.ads
 tagesanzeiger.ch##.ad
+tagesanzeiger.ch##li[id^="msgId_"] > .rightCol > p > a[target="_blank"] > img
 tagesspiegel.de###anzeige_schnippsel
 tagesspiegel.de##a[href^="http://adfarm1.adition.com"]
 taketv.net##.leftbanner
