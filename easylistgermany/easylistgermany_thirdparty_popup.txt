@@ -11,6 +11,7 @@
 ||ilove.de^*/landing_pages/$image,~image,popup
 ||mediadealr.com^$image,~image,popup,third-party
 ||o2-freikarte.de/affiliate/$image,~image,popup
+||relink.us^*/landing.php$image,~image,popup
 ||shortnews.de^*_adtext_id=$image,~image,popup
 ||smstune.de/la/$image,~image,popup
 ||tarifliste.com/index.php?log=$image,~image,popup,third-party
