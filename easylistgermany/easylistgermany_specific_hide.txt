@@ -1380,6 +1380,7 @@ lehrerfreund.de##.sponsor
 lesben.org###logo
 lesben.org##.bannergroup
 lesen.to###content > font[color="red"] > H2
+lesen.to###main:first-child > br:first-child + br + .box2
 lesen.to###post-17047
 lesen.to###post-19999
 lesen.to###post-27843
