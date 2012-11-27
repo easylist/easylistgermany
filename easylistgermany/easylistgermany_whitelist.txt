@@ -317,10 +317,10 @@
 @@||deutschland-spion.de/www/delivery/spc.php?zones=$script,domain=mv-spion.de
 @@||deutschland-spion.de/www/delivery/spcjs.php?id=$script,domain=mv-spion.de
 @@||dokumente-online.com^*/adframe.js
-@@||doubleclick.net/adj/www.nntv.de/*^sz=120x600^$script,domain=n-tv.de
-@@||doubleclick.net/adj/www.nntv.de/*^sz=468x61^$script,domain=n-tv.de
-@@||doubleclick.net/adj/www.nntv.de/*^sz=600x500^$script,domain=n-tv.de
 @@||doubleclick.net^*/RP_Sat1/other;dcmt=*;showroom=abp;$domain=prosieben.at|prosieben.ch|prosieben.de|sat1.at|sat1.ch|sat1.de|the-voice-of-germany.de
+@@||doubleclick.net^*/www.nntv.de/*^sz=120x600^$script,domain=n-tv.de
+@@||doubleclick.net^*/www.nntv.de/*^sz=468x61^$script,domain=n-tv.de
+@@||doubleclick.net^*/www.nntv.de/*^sz=600x500^$script,domain=n-tv.de
 @@||ebook-hell.to/js/ads.js
 @@||fastshare.org/advertisement.js
 @@||feed-reader.net^$elemhide,image,script
