@@ -379,6 +379,7 @@ byte.to###toplist
 byte.to###toplistbar
 byte.to###toppartner
 byte.to##a[href="http://www.byte.to/first/"]
+byte.to##a[href^="data/download.php?id="] + a > img
 byte.to##a[href^="http://bit.ly/"]
 byte.to##a[href^="http://tinyurl.com/"]
 byte.to##a[href^="http://torrent.byte.to/first/"]
