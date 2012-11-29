@@ -887,7 +887,8 @@
 ||movie-blog.org^*.php|$script
 ||movie-blog.org^*/stargames.js
 ||movie-blog.org^*/starlay.js
-||movie-stream.to^*/popxx.js
+||movie-stream.to/do.php
+||movie-stream.to^*/pop*.js
 ||moviebb.to/img/banner/
 ||moviebox.to/do.php
 ||moviebox.to^*/*pop*.js
