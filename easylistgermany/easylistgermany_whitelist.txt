@@ -397,3 +397,4 @@
 @@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=filmstarts.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||view.binlayer.com/ad-*.js$script,domain=super-otr.de
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
+@@||zieki.com^$image,domain=gamestar.de
