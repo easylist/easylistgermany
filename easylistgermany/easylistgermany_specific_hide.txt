@@ -277,6 +277,7 @@ bild.de##a[href^="http://fotoservice.bild.de"]
 bild.de##a[href^="http://img-cdn.mediaplex.com/"]
 bild.de##a[href^="http://www.erotik1.de/"]
 bild.de##a[href^="http://www.stylisto.de"] > img
+bild.de##a[href^="https://www.spotify.com/"][href*="?referrer="]
 bild.de##a[onclick*="/partner/"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/Download-Spiele;"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/edarling_"]
