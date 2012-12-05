@@ -284,9 +284,6 @@
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|preismafia.com
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=notenbuch24.de
 ! Anti-Adblock
-@@/adcycle.js$domain=my-entertainment.biz
-@@/adframe.js$domain=my-entertainment.biz
-@@/lol-ad-large.js$domain=my-entertainment.biz
 @@||10001mb.com^$script,domain=my-entertainment.biz
 @@||125mb.com^$script,domain=my-entertainment.biz
 @@||2kool4u.net^$script,domain=my-entertainment.biz
@@ -297,6 +294,8 @@
 @@||95.211.188.41^$script,domain=my-entertainment.biz
 @@||97.74.195.190^$script,domain=my-entertainment.biz
 @@||97.74.205.206^$script,domain=my-entertainment.biz
+@@||ad.71i.de/global_js/AdScripts/fullbanner2_wallpaper.js$domain=gamestar.de
+@@||ad.71i.de/global_js/Sites/gamestarde.js$domain=gamestar.de
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adform.net/banners/stream/*.mp4$object-subrequest,domain=filmstarts.de
@@ -328,6 +327,7 @@
 @@||deutschland-spion.de/www/delivery/spc.php?zones=$script,domain=mv-spion.de
 @@||deutschland-spion.de/www/delivery/spcjs.php?id=$script,domain=mv-spion.de
 @@||dokumente-online.com^*/adframe.js
+@@||doubleclick.net^*/DE_Gamestar.*^sz=468x60^$script,domain=gamestar.de
 @@||doubleclick.net^*/RP_Sat1/other;dcmt=*;showroom=abp;$domain=prosieben.at|prosieben.ch|prosieben.de|sat1.at|sat1.ch|sat1.de|the-voice-of-germany.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=120x600^$script,domain=n-tv.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=468x61^$script,domain=n-tv.de
