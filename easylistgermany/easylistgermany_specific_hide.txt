@@ -1657,6 +1657,9 @@ movie-blog.org###post-604126 + :nth-child(n)
 movie-blog.org###post-604723
 movie-blog.org###post-604723 + * + *
 movie-blog.org###post-604723 + :nth-child(n)
+movie-blog.org###post-604727
+movie-blog.org###post-604727  + * + *
+movie-blog.org###post-604727  + :nth-child(n)
 movie-blog.org###post-604917
 movie-blog.org###post-604917 + * + *
 movie-blog.org###post-604917 + :nth-child(n)
@@ -1666,6 +1669,9 @@ movie-blog.org###post-606450 + :nth-child(n)
 movie-blog.org###post-607338
 movie-blog.org###post-607338 + * + *
 movie-blog.org###post-607338 + :nth-child(n)
+movie-blog.org###post-608707
+movie-blog.org###post-608707  + * + *
+movie-blog.org###post-608707  + :nth-child(n)
 movie-blog.org###post-609714
 movie-blog.org###post-609714 + * + *
 movie-blog.org###post-609714 + :nth-child(n)
@@ -1722,6 +1728,7 @@ movie-blog.org##a[href^="http://url9.de/"]
 movie-blog.org##a[href^="http://vyu.me/"]
 movie-blog.org##a[href^="http://www.tarifliste.com/"]
 movie-blog.org##a[href^="http://x.co/"]
+movie-blog.org##a[href^="http://y.ahoo.it/"]
 movie-blog.org##a[href^="http://yi.tl/"]
 movie-stream.to##a[href^="http://download.movie-stream.to"]
 movie-stream.to##a[href^="http://www.firstload.com/affiliate/"]
