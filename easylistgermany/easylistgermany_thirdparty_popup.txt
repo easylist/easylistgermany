@@ -15,6 +15,7 @@
 ||relink.us^*/landing.php$image,~image,popup
 ||shortnews.de^*_adtext_id=$image,~image,popup
 ||smstune.de/la/$image,~image,popup
+||sunmaker.com/?a_aid=$image,~image,popup
 ||tarifliste.com/index.php?log=$image,~image,popup,third-party
 ||tuneclub.de^*/lp.pl?$image,~image,popup
 ||vidonna.de/pop.php$image,~image,popup,third-party
