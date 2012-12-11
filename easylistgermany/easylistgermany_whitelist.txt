@@ -288,6 +288,7 @@
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de
 @@||2mdn.net^*_946x620_*.swf?clickTag=$object,domain=n-tv.de
 @@||ad.71i.de/global_js/AdScripts/fullbanner2_wallpaper.js$domain=gamestar.de
+@@||ad.71i.de/global_js/AdScripts/standard.js$domain=gamestar.de
 @@||ad.71i.de/global_js/Sites/gamestarde.js$domain=gamestar.de
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -318,7 +319,8 @@
 @@||deutschland-spion.de/www/delivery/spc.php?zones=$script,domain=mv-spion.de
 @@||deutschland-spion.de/www/delivery/spcjs.php?id=$script,domain=mv-spion.de
 @@||dokumente-online.com^*/adframe.js
-@@||doubleclick.net^*/DE_Gamestar.*^sz=468x60^$script,domain=gamestar.de
+@@||doubleclick.net^*/DE_Gamestar.*;sz=$script,domain=gamestar.de
+@@||doubleclick.net^*/gamestar3.de/$script,domain=gamestar.de
 @@||doubleclick.net^*/RP_Sat1/other;dcmt=*;showroom=abp;$domain=prosieben.at|prosieben.ch|prosieben.de|sat1.at|sat1.ch|sat1.de|the-voice-of-germany.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=120x600^$script,domain=n-tv.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=468x61^$script,domain=n-tv.de
