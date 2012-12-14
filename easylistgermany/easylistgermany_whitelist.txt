@@ -334,6 +334,8 @@
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
 @@||goolive.de^*.js|
 @@||honda-innova-forum.de/styles/$image
+@@||innovid.com/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||innovid.com^*;cb=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||istream.ws/adframe.js
 @@||kaufn.com/banner/ads/adserver/click/ad.js
 @@||lablue.at^$elemhide,script
