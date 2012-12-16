@@ -1671,9 +1671,15 @@ movie-blog.org###post-607338 + :nth-child(n)
 movie-blog.org###post-608707
 movie-blog.org###post-608707  + * + *
 movie-blog.org###post-608707  + :nth-child(n)
+movie-blog.org###post-609603
+movie-blog.org###post-609603 + * + *
+movie-blog.org###post-609603 + :nth-child(n)
 movie-blog.org###post-609714
 movie-blog.org###post-609714 + * + *
 movie-blog.org###post-609714 + :nth-child(n)
+movie-blog.org###post-610820
+movie-blog.org###post-610820 + * + *
+movie-blog.org###post-610820 + :nth-child(n)
 movie-blog.org###post-610937
 movie-blog.org###post-610937 + * + *
 movie-blog.org###post-610937 + :nth-child(n)
@@ -1702,6 +1708,7 @@ movie-blog.org##.post a[target="_blank"][href$=".movie-blog.org"]
 movie-blog.org##.post p > a[target="_blank"][href*=".movie-blog.org/"]
 movie-blog.org##.post-ratings + .entry + a[target="_blank"]
 movie-blog.org##a[href^="http://alturl.com/"]
+movie-blog.org##a[href^="http://anonym.to/?http://ul.to/ref/"]
 movie-blog.org##a[href^="http://b23.ru/"]
 movie-blog.org##a[href^="http://bit.ly/"]
 movie-blog.org##a[href^="http://chilp.it/"]
@@ -1724,6 +1731,7 @@ movie-blog.org##a[href^="http://trick.ly/"]
 movie-blog.org##a[href^="http://ur1.ca/"]
 movie-blog.org##a[href^="http://url9.de/"]
 movie-blog.org##a[href^="http://vyu.me/"]
+movie-blog.org##a[href^="http://wck.me/"]
 movie-blog.org##a[href^="http://www.tarifliste.com/"]
 movie-blog.org##a[href^="http://x.co/"]
 movie-blog.org##a[href^="http://y.ahoo.it/"]
