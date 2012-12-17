@@ -286,6 +286,7 @@
 ! Anti-Adblock
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de
+@@||2mdn.net^*/GS_Affiliate_TP_LB.html$subdocument,domain=gamestar.de
 @@||2mdn.net^*_946x620_*.swf?clickTag=$object,domain=n-tv.de
 @@||ad.71i.de/global_js/AdScripts/fullbanner2_wallpaper.js$domain=gamestar.de
 @@||ad.71i.de/global_js/AdScripts/standard.js$domain=gamestar.de
