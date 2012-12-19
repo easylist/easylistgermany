@@ -1093,9 +1093,8 @@ hamm2night.de##.rect
 hamm2night.de##.rectBox
 hammonline.de##.content > div[style="position:relative; top:-13px; float:right; margin-left:15px; font-size:10px; text-align:right;"]
 handelsblatt.com###iqadtile5
-handy-faq.de##a[href^="http://adt.traffictrack.de/go.cgi?"]
-handy-faq.de##a[href^="http://partners.webmasterplan.com/"]
-handy-faq.de##a[href^="http://www.active-tracking.de/go.cgi?pid="]
+handy-faq.de##div[align="center"] > span[style="text-decoration:none; color:red;font-size:18px;"]:first-child
+handy-faq.de##div[align="center"] > span[style="text-decoration:none; color:red;font-size:18px;"]:first-child + a
 handy-faq.de##div[style="float:left; width:301px; height:251px; border:0px solid #336699;margin-left:2px;margin-right:15px;"]
 handy-hilfeforum.de###post_218944
 handy-hilfeforum.de##a[href^="http://adfarm.adyard.de/ad/"]
