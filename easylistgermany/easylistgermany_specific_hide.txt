@@ -971,6 +971,7 @@ gamestar.de##a[target="_blank"][href^="http://amzn.to/"]
 gamestar.de##a[target="_blank"][href^="http://goo.gl/"] > img
 gamestar.de##a[target="_blank"][href^="http://www.amazon.de/gp/product/"][href*="&tag=gamestarq-21"]
 gamestar.de##a[target="_blank"][href^="http://www.amazon.de/gp/product/"][href*="&tag=gscon-21"]
+gamestar.de##a[target="_blank"][href^="https://itunes.apple.com/"][href*="&affId="]
 gamestar.de##div[id^="bgclick_sky_"]
 gamestar.de##div[id^="idAd"]
 gamestar.de##div[style="background-image:url(/img/gamestar/products/banner_amazon.png);width:610px;height:70px;font-size:10px;color:#FFF;border:1px solid #D5D5D5"]
