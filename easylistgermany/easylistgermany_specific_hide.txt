@@ -344,6 +344,7 @@ boerse.bz##a[href="/share.php"]
 boerse.bz##a[href="/shareoffer.php"]
 boerse.bz##a[href^="http://www.boerse.bz/out/?url=http://dl1.gulli.bz/"]
 boerse.bz##a[href^="http://www.boerse.bz/out/?url=http://www.share.cx/partner"]
+boerse.bz##div[onclick^="window.open('https://www.hide.io/"]
 boerse.bz##img[alt*="Anzeige"]
 boerse.de###big
 boerse.de##.bannerbox_container
