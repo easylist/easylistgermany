@@ -340,6 +340,7 @@ boerse-online.de##.rsmodulanzeige
 boerse.bz##.bt
 boerse.bz##.hideyourself
 boerse.bz##.page > div > div > a > img
+boerse.bz##a[href*=".hide.io"]
 boerse.bz##a[href="/share.php"]
 boerse.bz##a[href="/shareoffer.php"]
 boerse.bz##a[href^="http://www.boerse.bz/out/?url=http://dl1.gulli.bz/"]
