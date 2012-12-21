@@ -1264,10 +1264,10 @@ internetworld.de##.rectangleBox
 ircgalerie.net###leaderboard
 ircgalerie.net##.ad
 isarszene.de###banner
-ishare.to###flowertabsb > ul > li:last-child > a[target="_blank"]
 ishare.to##a[href^="http://anonym.to/?http://ul.to/ref/"]
 ishare.to##a[href^="http://anonym.to/?https://www.share-online.biz/affiliate/"]
 ishare.to##a[href^="http://anonym.to?http://www.firstload.com/affiliate/"]
+ishare.to##div[id^="flowertabs"] > ul > li:last-child > a[target="_blank"]
 istream.ws##.leaderboard2
 istream.ws##a[href^="http://tinyurl.com"]
 it-sa.de###banner
