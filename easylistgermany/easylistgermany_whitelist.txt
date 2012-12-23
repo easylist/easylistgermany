@@ -218,7 +218,7 @@
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
 @@||sevengames.at/ressource/js/sevengames/sevengames/adtags.*.js
 @@||showfusion.eu/xml/ads/ad_1.xml$object-subrequest,domain=urbia.de
-@@||smart.allocine.fr/a/diff/*/show*.asp?$object-subrequest,domain=filmstarts.de
+@@||smart.allocine.fr/a/diff/*/show*.asp?$object-subrequest,domain=filmstarts.de|ufa-dresden.de
 @@||smart.allocine.fr/call/pubx/*&video=$object-subrequest
 @@||smart.allocine.fr/crossdomain.xml$object-subrequest
 @@||smart.allocine.fr/def/def/xshowdef.asp$object-subrequest,domain=filmstarts.de
