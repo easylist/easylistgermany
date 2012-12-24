@@ -1587,6 +1587,7 @@ mov-world.net###mdh_flip
 mov-world.net###mw_layer
 mov-world.net###uflip
 mov-world.net###usenet_flip
+mov-world.net##a[href^="http://nvpn.net/"]
 movie-blog.org###content > center > a[target="_blank"]
 movie-blog.org###content > span + center > a[target="_blank"]
 movie-blog.org###layer
