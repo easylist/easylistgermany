@@ -1816,6 +1816,7 @@ n-tv.de###wrapper_content > div[style="height: 120px;"]:first-child
 n-tv.de##.sidebar_block[style="width:300px;height:163px"]
 n-tv.de##.sidebar_block_dark[style="padding-left: 40px; height: 200px;"]
 n-tv.de##.teaser_220_450.clearfix[style="background-color: #02225a; padding: 5px 0 5px 0; margin: -10px 0 10px 0; "]
+n-tv.de##a[href^="http://ad.doubleclick.net/"]
 n-tv.de##a[href^="http://ad.doubleclick.net/clk"] + * + * + .jq_link
 n-tv.de##a[href^="http://ad.doubleclick.net/clk;"] + .box
 n-tv.de##div[style="margin: 0 5px; width:290px; height:100px; background-image:url(http://www.n-tv.de/ads/images/rechner/c24-bg.png);"]
