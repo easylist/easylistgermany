@@ -1,5 +1,7 @@
 @@||0815sms.com/img/pagepeel.php?$image
 @@||1000steine.de/img/ads/
+@@||2mdn.net^*/flash_inpage_rendering_lib_$script,domain=cnet.de
+@@||2mdn.net^*/plcr_$script,domain=cnet.de
 @@||360yield.com/adj?p=$script,domain=jetztspielen.de
 @@||46.4.236.198/ox/www/delivery/ajs.php?zoneid=*&loc=http%3a//wz-newsline.de/index.php$script,domain=wz-newsline.de
 @@||abacomuenchensued.de/pageear/$object,object-subrequest,script
@@ -75,7 +77,6 @@
 @@||betrad.com/geo/ba.js?$script,domain=jetztspielen.de
 @@||betrad.com/surly.js?$script,domain=jetztspielen.de
 @@||boago.com/www/delivery/ck.php?n=$subdocument,domain=jetztspielen.de
-@@||bs.serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||bundesliga.de/js/my_ad_integration.js
 @@||cache.kalaydo.de/mmo/logo/advert/$image
 @@||canoo.net/services/wordformationdictionary/gifs/
@@ -127,6 +128,7 @@
 @@||forum.froxlor.org^*/adsense.css
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g-stream.in/lla2/smoothscroll.js
+@@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de
 @@||gamepro.de/js/gamepro/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
 @@||gamers.at/images/branding/*/header.
@@ -147,7 +149,7 @@
 @@||google.com/uds/api/ads/*/search.in.js$domain=marktplatz.nordclick.de
 @@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
-@@||googletagservices.com/tag/js/gpt.js$domain=kleinanzeigen.ebay.de
+@@||googletagservices.com/tag/js/gpt.js$domain=cnet.de|kleinanzeigen.ebay.de
 @@||greuther-fuerth.de/fileadmin/templates/js/plugins/pagepeel/$object,object-subrequest,script
 @@||gymnasium-august-dicke.de^*/ads/
 @@||i.computer-bild.de/imgs/$image,domain=computerbild.de
@@ -192,9 +194,11 @@
 @@||osthessen-tv.de/werbebanner/$object-subrequest
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=jetztspielen.de|tech-blog.net
+@@||pagead2.googlesyndication.com/pagead/osd.js$domain=cnet.de
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibraryas3.swf$object-subrequest,domain=didigames.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibrarylocalconnection.swf?$object-subrequest,domain=didigames.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=jetztspielen.de|tech-blog.net
+@@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=cnet.de
 @@||partner.zattoo.com/advertising/channelswitch/$subdocument
 @@||partners.webmasterplan.com/click.asp?ref=$subdocument,domain=eule.de
 @@||pcgames.de/screenshots/$image,~third-party
@@ -216,6 +220,11 @@
 @@||save.tv/stv/img/global/trailer20sec.swf?
 @@||secure.img-cdn.mediaplex.com^*_300x250.gif$domain=millionenklick.web.de
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
+@@||serving-sys.com/BurstingCachedScripts/*/ebStdBanner.js$domain=cnet.de
+@@||serving-sys.com/BurstingCachedScripts/ebBanner_$script,domain=cnet.de
+@@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=cnet.de
+@@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
+@@||serving-sys.com/BurstingRes//Site-*/Type-*/$script,domain=cnet.de
 @@||sevengames.at/ressource/js/sevengames/sevengames/adtags.*.js
 @@||showfusion.eu/xml/ads/ad_1.xml$object-subrequest,domain=urbia.de
 @@||smart.allocine.fr/a/diff/*/show*.asp?$object-subrequest,domain=filmstarts.de|ufa-dresden.de
