@@ -76,6 +76,8 @@
 @@||berufsstart.de^*/show-advert-info.html?$subdocument
 @@||betrad.com/geo/ba.js?$script,domain=jetztspielen.de
 @@||betrad.com/surly.js?$script,domain=jetztspielen.de
+@@||bluelithium.com/imp?$script,domain=jetztspielen.de
+@@||bluelithium.com/st?*&pub_redirect=http://ad.360yield.com/click/$script,domain=jetztspielen.de
 @@||boago.com/www/delivery/ck.php?n=$subdocument,domain=jetztspielen.de
 @@||bundesliga.de/js/my_ad_integration.js
 @@||cache.kalaydo.de/mmo/logo/advert/$image
@@ -205,6 +207,7 @@
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
 @@||photo.knuddels.de/kde/ad2/$image
+@@||pixel.adsafeprotected.com/jspix?$script,domain=jetztspielen.de
 @@||pleasure.gamersplus.de/www/delivery/ajs.php?campaignid=$script,domain=gamers.at|gamersplus.de
 @@||prosieben.de^*/ad-managment/$script
 @@||r.refinedads.com/l.js$script,domain=paypal-deutschland.de
@@ -286,6 +289,7 @@
 @@||wodas.wetteronline.de/dynamic/wo_sky.fcgi?$subdocument
 @@||wodas.wetteronline.de/static/womfkts.js
 @@||xara.hse24.de^*/hse_videoplayer.swf
+@@||yieldmanager.com/imp?$script,domain=jetztspielen.de
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|preismafia.com
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=notenbuch24.de
 ! Anti-Adblock
