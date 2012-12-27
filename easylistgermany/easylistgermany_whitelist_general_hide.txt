@@ -1,7 +1,7 @@
 ferienhaus-hagge.de#@##AdServer
 ping-timeout.de#@##Advertisements
 kids.t-online.de#@##Tadspacehead
-~egofm.de###WerbungObenRechts8_GesamtDIV
+egofm.de#@##WerbungObenRechts8_GesamtDIV
 frankenlist.de#@##ad-content
 sat1.de#@##ad-fullbanner-outer
 wg-gesucht.de#@##ad-wrapper
@@ -29,8 +29,8 @@ der-postillon.com#@##middleads
 campusboard.at#@##my-ads
 schuepora.de#@##topad
 bildspielt.de#@##videoAd
-~anime-loads.org,~nicht-lustig.de,~studentenwerk-aachen.de,~youthweb.net###werbung
-~egofm.de##.WerbungLinksRechts
+anime-loads.org,nicht-lustig.de,studentenwerk-aachen.de,youthweb.net#@##werbung
+egofm.de#@#.WerbungLinksRechts
 zeitleser.de#@#.ad-bottom
 horsebase.de#@#.ad-box
 mobile.de#@#.ad-container
@@ -62,7 +62,7 @@ idowa.de,ping-timeout.de#@#.advertisement
 e-valuate.de#@#.advertiser
 macwelt.de#@#.advertisment
 1und1.de,gmx.at,gmx.de,gmx.net,web.de#@#.advertorial
-~rp-online.de##.anzeigenwerbung
+rp-online.de#@#.anzeigenwerbung
 web.de#@#.banner-728
 lustiges-taschenbuch.de#@#.contentad
 delamar.de#@#.custom_ads
@@ -70,7 +70,7 @@ autoscout24.de#@#.detail-ads
 der-postillon.com#@#.middleads
 netbooknews.de#@#.post-ad
 blesius.de#@#.text_werbung
-~delamar.de,~ews-markt.de,~mediamarkt.de##.werbung
+delamar.de,ews-markt.de,mediamarkt.de#@#.werbung
 ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
 zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
 ! Anti-Adblock
