@@ -314,6 +314,7 @@
 @@||byte.to/js/ads.js
 @@||byte.to/js/gigaflat.js
 @@||cdn.flashtalking.com/xre/*/js/j-*.js$domain=teleboerse.de
+@@||cdn.flashtalking.com^$object-subrequest,domain=filmstarts.de
 @@||chat.lycos.de/adimages/$subdocument
 @@||combatarms-game.de/adframe.js
 @@||contaxe.com/go/go.js?atp=bnr&$script,domain=dtk-deutschland.com
@@ -376,8 +377,8 @@
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||plusboard.de^$image
-@@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||servedby.flashtalking.com/imp/$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=filmstarts.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||servedby.flashtalking.com/imp/$object-subrequest,domain=filmstarts.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||sevenads.net/layer.php?p=*&u=*&r=$script,domain=uploaded-premium.ru
 @@||sponsorads.de/script.php?s=$script,domain=uploaded-premium.ru
 @@||sudoku-space.de^$script
