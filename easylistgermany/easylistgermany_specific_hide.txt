@@ -221,7 +221,7 @@ best-movies.to###post-34854
 best-movies.to###votewoz
 best-movies.to##.entry > center > a > img
 best-movies.to##.entry > h1 > a
-best-movies.to##.entry > img + br + H1[style] > a
+best-movies.to##.entry > img + br + h1[style] > a
 best-movies.to##.postbody > a[target="_blank"] > img
 best-movies.to##.postbody > center > a + a > img
 best-movies.to##a[href^="http://alturl.com/"]
@@ -1100,7 +1100,7 @@ grosseleute.de##.portalColumnInner > :nth-child(n) a[href] div img[src^="image/"
 grosseleute.de##.portalColumnInner > :nth-child(n) div:first-child:last-child > div:first-child > a[href] > img[src^="image/"]
 gulli.com###plista1_belowArticle > .TeaserBox:first-child + .TeaserBox
 gulli.com##a[href="http://www.gulli.com/internet/chrome"]
-gulli.com##a[href="http://www.gulli.com/internet/chrome"] + H2 + p
+gulli.com##a[href="http://www.gulli.com/internet/chrome"] + h2 + p
 gulli.com##a[href="http://www.gulli.com/internet/chrome"] + p
 gulli.com##a[href^="http://ad.doubleclick.net/"] + p
 gulli.com##a[href^="http://rc23.overture.com/"]
@@ -1200,7 +1200,7 @@ hitradio-rtl.de##div[style="width:822px; height:90px; margin:auto"]
 hitradio.com.na##div[style="position: relative; z-index: 1; width: 240px; height: 220px;"]
 hitradio.com.na##img[width="220"][height="48"]
 hoerbuch.in###content > center > .box2:first-child:last-child
-hoerbuch.in###content > font[color="red"] > H2
+hoerbuch.in###content > font[color="red"] > h2
 hoerbuch.in###post-12447
 hoerbuch.in###post-13049
 hoerbuch.in###post-15796
@@ -1420,7 +1420,7 @@ lehrerfreund.de##.anzeige
 lehrerfreund.de##.sponsor
 lesben.org###logo
 lesben.org##.bannergroup
-lesen.to###content > font[color="red"] > H2
+lesen.to###content > font[color="red"] > h2
 lesen.to###main:first-child > br:first-child + br + .box2
 lesen.to###post-17047
 lesen.to###post-19999
@@ -1690,8 +1690,8 @@ movie-blog.org###post-604723
 movie-blog.org###post-604723 + * + *
 movie-blog.org###post-604723 + :nth-child(n)
 movie-blog.org###post-604727
-movie-blog.org###post-604727  + * + *
-movie-blog.org###post-604727  + :nth-child(n)
+movie-blog.org###post-604727 + * + *
+movie-blog.org###post-604727 + :nth-child(n)
 movie-blog.org###post-604917
 movie-blog.org###post-604917 + * + *
 movie-blog.org###post-604917 + :nth-child(n)
@@ -1702,8 +1702,8 @@ movie-blog.org###post-607338
 movie-blog.org###post-607338 + * + *
 movie-blog.org###post-607338 + :nth-child(n)
 movie-blog.org###post-608707
-movie-blog.org###post-608707  + * + *
-movie-blog.org###post-608707  + :nth-child(n)
+movie-blog.org###post-608707 + * + *
+movie-blog.org###post-608707 + :nth-child(n)
 movie-blog.org###post-609603
 movie-blog.org###post-609603 + * + *
 movie-blog.org###post-609603 + :nth-child(n)
@@ -2752,7 +2752,7 @@ uimserv.net###advWrapper
 uimserv.net###logoutlounge
 ultras.ws##.post.bg1 + .divider + .post.bg3
 ultras.ws##a[href^="http://www1.belboon.de/"]
-ultras.ws##td[valign="top"][style="width: 85%"]:last-child > br:first-child + center > H2:first-child
+ultras.ws##td[valign="top"][style="width: 85%"]:last-child > br:first-child + center > h2:first-child
 unawave.de###googlebanner
 unawave.de##a[href^="http://ad.zanox.com/"]
 unawave.de##a[href^="http://clix.superclix.de/"]
