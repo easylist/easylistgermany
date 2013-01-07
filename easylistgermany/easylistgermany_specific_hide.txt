@@ -491,6 +491,7 @@ computerbase.de##a[style="color:#000;display:block;padding:10px 7px 8px;position
 computerbild.de###toplinks > .first
 computerbild.de##.anzeige
 computerbild.de##.partner
+computerbild.de##iframe[id^="adSlot_"]
 computerhilfen.de###bodyarea > div[style="height:95px;margin-top:17px;"]
 computerhilfen.de###bodyarea > div[style="height:95px;margin-top:17px;position:relative;"]
 computerhilfen.de##.fcontent2 > a > img[width="612"][height="221"]
