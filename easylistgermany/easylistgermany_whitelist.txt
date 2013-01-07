@@ -381,6 +381,7 @@
 @@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=filmstarts.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||servedby.flashtalking.com/imp/$object-subrequest,domain=filmstarts.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||sevenads.net/layer.php?p=*&u=*&r=$script,domain=uploaded-premium.ru
+@@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.tv
 @@||sponsorads.de/script.php?s=$script,domain=uploaded-premium.ru
 @@||sudoku-space.de^$script
 @@||super-otr.de/inc/js/phpads/sponsorad.js
