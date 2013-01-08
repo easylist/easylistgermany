@@ -2946,9 +2946,7 @@ wetterkontor.de###banner_470
 wettforum.info##div[style="position: fixed; width: 748px; height: 93px; left: 200px; top: 0px; text-align: left; z-index: 2; background-image: url(http://www.wettforum.info/styles/frame.png); background-position: center; background-repeat: no-repeat;"]
 wettforum.info##table[width="100%"][cellspacing="0"][cellpadding="0"] > tbody:first-child:last-child > tr:first-child + tr > td[width="140"][valign="top"]:first-child
 wettforum.info##table[width="100%"][cellspacing="0"][cellpadding="0"] > tbody:first-child:last-child > tr:first-child > td[align="center"][colspan="2"]:first-child:last-child
-wg-gesucht.de##tr[id][onmouseover="this.style.backgroundColor=\"#ffffff\";self.status=\"Weitere Angebote\";return true;"]
-wg-gesucht.de##tr[id^="angebote_liste_"]
-wg-gesucht.de##tr[id^="listAdPos_"]
+wg-gesucht.de##.listenansicht[style="background-color: #D2E2F0; padding: 0px;"]
 wichsfleck.com###layer
 wide-wallpaper.de##div[style=" text-align:center;float:left;margin:4px; padding:0px; width:290px;height:270px;border: 1px solid #666666;"]
 wide-wallpaper.de##div[style=" text-align:center;float:right;margin:4px; padding:0px; width:290px;height:270px;border: 1px solid #666666;"]
