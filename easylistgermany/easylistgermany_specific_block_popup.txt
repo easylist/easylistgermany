@@ -1,4 +1,5 @@
 ^utm_medium=popunder^$image,~image,popup,domain=hilfreich.de
+^utm_source=superclixx^$image,~image,popup,domain=ascii-bilder.net
 ||1load.net/highspeedmirror.php$image,~image,popup
 ||1load.net/mehrinfos.php$image,~image,popup
 ||1load.net/out.php$image,~image,popup
@@ -10,6 +11,7 @@
 ||alturl.com^$image,~image,popup,domain=byte.to
 ||amazon.de^*&tag=bluray18-21&$image,~image,popup,domain=bluray-disc.de
 ||atomload.at/out.php$image,~image,popup
+||bestofsingles.net^$image,~image,popup,domain=ascii-bilder.net
 ||bit.ly^$image,~image,popup,domain=byte.to
 ||bitly.com^$image,~image,popup,domain=ddl-music.org|ddl-warez.in|pornlounge.org
 ||byte.to/out.php$image,~image,popup
