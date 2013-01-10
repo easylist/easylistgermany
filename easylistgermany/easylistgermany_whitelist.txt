@@ -3,7 +3,7 @@
 @@||123people.us/trackads/display?zones=$script,domain=123people.de
 @@||2mdn.net^*/flash_inpage_rendering_lib_$script,domain=cnet.de
 @@||2mdn.net^*/plcr_$script,domain=cnet.de
-@@||360yield.com/adj?p=$script,domain=jetztspielen.de
+@@||360yield.com/adj?$script,domain=jetztspielen.de|spielen.com
 @@||46.4.236.198/ox/www/delivery/ajs.php?zoneid=*&loc=http%3a//wz-newsline.de/index.php$script,domain=wz-newsline.de
 @@||abacomuenchensued.de/pageear/$object,object-subrequest,script
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
@@ -25,21 +25,15 @@
 @@||adimg.uimserv.net^$image,object,script,domain=millionenklick.web.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
-@@||adjug.com/AdJugSearch/Results.aspx?$script,domain=jetztspielen.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
 @@||admedia.adgemini.de^$~third-party
 @@||admin.brightcove.com/viewer/*/advertisingmodule.swf$domain=bunch.tv|dmax.de|morgenpost.de
 @@||adonline.anonza.de^$~document,~third-party
 @@||ads.adcloud.net/s/14221.js$domain=focus.de
 @@||ads.autoscout24.com/adserver/*&elementid=ctl00_ctl00_decoratedarea_contentarea_fsbox0&$script,domain=autoscout24.de
-@@||ads.creative-serving.com/adj/cdde.$script,domain=jetztspielen.de
 @@||ads.heias.com/x/heias.smartclip/?$script,domain=podcast.de
 @@||ads.heias.com^*/heias.stream/$object,object-subrequest,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
-@@||ads.spilgames.com/ad/$script,domain=jetztspielen.de|spielen.com
-@@||ads.spilgames.com/vendor/flowplayer/flowplayer-*.min.js$domain=jetztspielen.de|spielen.com
-@@||ads.spilgames.com/vendor/flowplayer/flowplayer.commercial-*.swf$object,domain=jetztspielen.de|spielen.com
-@@||ads.spilgames.com^*.css$domain=jetztspielen.de|spielen.com
 @@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
 @@||adserv.quality-channel.de/realmedia/ads/*?videoad$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
 @@||adserver.71i.de/global_js/globalv6.js$domain=hausgemacht.tv
@@ -54,6 +48,8 @@
 @@||adtech.de/?adrawdata/$object-subrequest,domain=cineman.de|login.audimark.de|player.nowonscreen.com
 @@||adtech.de/?advideo/$object-subrequest,domain=filmstarts.de
 @@||adtech.de/addyn/*/ADTECH;$script,domain=jetztspielen.de
+@@||adtech.de/addyn/*/ADTECH;$script,domain=jetztspielen.de|spielen.com
+@@||adtech.de/adperf/$script,domain=jetztspielen.de|spielen.com
 @@||adtech.de/adrawdata$object-subrequest,domain=player.nowonscreen.com
 @@||adtech.de/apps/$object-subrequest,domain=cineman.de
 @@||aka-cdn-ns.adtech.de/apps/$image,domain=neckermann.de
@@ -76,11 +72,8 @@
 @@||belboon.de/adtracking/$subdocument,domain=preismafia.com
 @@||berufsstart.de^*/anzeigeshowframeset.php?$subdocument
 @@||berufsstart.de^*/show-advert-info.html?$subdocument
-@@||betrad.com/geo/ba.js?$script,domain=jetztspielen.de
-@@||betrad.com/surly.js?$script,domain=jetztspielen.de
-@@||bluelithium.com/imp?$script,domain=jetztspielen.de
-@@||bluelithium.com/st?*&pub_redirect=http://ad.360yield.com/click/$script,domain=jetztspielen.de
-@@||boago.com/www/delivery/ck.php?n=$subdocument,domain=jetztspielen.de
+@@||bluelithium.com/imp?$script,domain=jetztspielen.de|spielen.com
+@@||bluelithium.com/st?$script,domain=jetztspielen.de|spielen.com
 @@||bundesliga.de/js/my_ad_integration.js
 @@||cache.kalaydo.de/mmo/logo/advert/$image
 @@||canoo.net/services/wordformationdictionary/gifs/
@@ -199,11 +192,11 @@
 @@||os1.tv/js/omsvc_externalad.js
 @@||osthessen-tv.de/werbebanner/$object-subrequest
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=jetztspielen.de|tech-blog.net
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=jetztspielen.de|spielen.com|tech-blog.net
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=cnet.de
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibraryas3.swf$object-subrequest,domain=didigames.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoadslibrarylocalconnection.swf?$object-subrequest,domain=didigames.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=jetztspielen.de|tech-blog.net
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=jetztspielen.de|spielen.com|tech-blog.net
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=cnet.de
 @@||partner.zattoo.com/advertising/channelswitch/$subdocument
 @@||partners.webmasterplan.com/click.asp?ref=$subdocument,domain=eule.de
@@ -211,7 +204,7 @@
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
 @@||photo.knuddels.de/kde/ad2/$image
-@@||pixel.adsafeprotected.com/jspix?$script,domain=jetztspielen.de
+@@||pixel.adsafeprotected.com/jspix?$script,domain=jetztspielen.de|spielen.com
 @@||pleasure.gamersplus.de/www/delivery/ajs.php?campaignid=$script,domain=gamers.at|gamersplus.de
 @@||prosieben.de^*/ad-managment/$script
 @@||r.refinedads.com/l.js$script,domain=paypal-deutschland.de
@@ -248,9 +241,6 @@
 @@||softwareload.kpcustomer.de/voting/public/flash/300x250_widget_$object
 @@||sparfoto.de/article_designer/ad.php?$object
 @@||spielkarussell.de^*/ads_loader_new.js
-@@||spilcdn.com^*/advertisement/css/*.css$domain=jetztspielen.de|spielen.com
-@@||spilcdn.com^*/advertisement/flowplayer/flowplayer-*.min.js$domain=jetztspielen.de|spielen.com
-@@||spilcdn.com^*/advertisement/flowplayer/flowplayer.commercial-*.swf$object,domain=jetztspielen.de|spielen.com
 @@||sport.de/autoimg/*/300x250/$image,~third-party
 @@||spotrails.com/video/$object-subrequest,domain=mobile.de
 @@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=deals.ebay.de|dealseu.ebay.de|pages.ebay.de
@@ -293,7 +283,7 @@
 @@||wodas.wetteronline.de/dynamic/wo_sky.fcgi?$subdocument
 @@||wodas.wetteronline.de/static/womfkts.js
 @@||xara.hse24.de^*/hse_videoplayer.swf
-@@||yieldmanager.com/imp?$script,domain=jetztspielen.de
+@@||yieldmanager.com/imp?$script,domain=jetztspielen.de|spielen.com
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|preismafia.com
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=notenbuch24.de
 ! Anti-Adblock
