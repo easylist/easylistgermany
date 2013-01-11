@@ -365,6 +365,7 @@ boerse.bz##a[href^="http://www.boerse.bz/out/?url=http://www.share.cx/partner"]
 boerse.bz##div[id^="edit"] > table[id^="post"] + br + .tborder[width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"]
 boerse.bz##div[onclick^="window.open('https://www.hide.io/"]
 boerse.bz##img[alt*="Anzeige"]
+boerse.bz##tr:last-child > .forumdisplay-topborder[width="100%"][colspan="3"]
 boerse.bz##tr[valign="top"] > td > .tborder + div[style] + div[align="center"] > a > img
 boerse.de###big
 boerse.de##.bannerbox_container
