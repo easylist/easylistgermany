@@ -852,6 +852,7 @@ file-lounge.com##input[onclick^="location.href='http://www.gigaflat.com/affiliat
 filmeforum.com##.banner
 filmz.de###m > div[style="left:16px;width:468px;overflow:hidden"] + .p[style="left:4px;width:492px;height:262px"]:last-child
 filsh.net##.advert + .notification
+finanzen.net###Ads_BA_CAD_box + .content_box
 finanzen.net###banner
 finanzen.net###bs_abstand
 finanzen.net##.coW[style="background-color: #009DE0;"]
