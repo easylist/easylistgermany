@@ -1299,6 +1299,7 @@ insidegames.ch##.banner_rectangle
 insidegames.ch##.right_banner
 insidegames.ch##.right_top_banner
 insidegames.ch##.skyscraper_div
+insidegames.ch##div[id^="click"][onclick^="_gaq.push(['_trackEvent',"]
 internet-sms.com##.skybg
 internet-sms.com##table[style="margin-top:4px; margin-left:198px"]
 internetcologne.de###kopfbanner
