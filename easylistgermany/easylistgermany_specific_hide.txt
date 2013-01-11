@@ -1580,8 +1580,10 @@ mikrocontroller.net###first-alayer
 mikrocontroller.net###first-palayer
 mikrocontroller.net###second-alayer
 mikrocontroller.net###second-palayer
+mikrocontroller.net###sidebar-right > div[style]:last-child > div[id]:last-child > div[style]
 mikrocontroller.net###sidebar-right > div[style]:last-child > script + div[style]:last-child
 mikrocontroller.net##.noprint > div[style] + div[style] > script:first-child + div[style]:last-child
+mikrocontroller.net##.noprint > div[style] > div[id]:last-child > div[style]
 mikrocontroller.net##div[style$="120px; text-align:center; font-size:12px; border:2px solid #ffa500; padding:3px; background:#EEE; overflow:hidden;"]
 mikrocontroller.net##div[style$="120px; text-align:center; font-size:12px; border:2px solid #ffa500; padding:3px; background:-moz-linear-gradient(top, #EEE, #ffa500); background:-webkit-gradient(linear, left top, left bottom, from(#EEE), to(#ffa500)); overflow: hidden;"]
 mikrocontroller.net##div[style$="160px; text-align:center; font-size:12px; border:2px solid #ffa500; padding:3px; background:#EEE; overflow:hidden;"]
