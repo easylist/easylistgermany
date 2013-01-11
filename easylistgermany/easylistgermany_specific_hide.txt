@@ -1157,13 +1157,18 @@ haz.de##.teaser_anzeige300
 hd-world.org###post-196712
 hd-world.org###post-196712 + * + *
 hd-world.org###post-196712 + :nth-child(n)
+hd-world.org###post-201659
+hd-world.org###post-201659 + * + *
+hd-world.org###post-201659 + :nth-child(n)
 hd-world.org###post-43541
 hd-world.org###post-43541 + .date + .entry
 hd-world.org###post-55122
 hd-world.org###post-55122 + .date + .entry
 hd-world.org###post-55122 + .date + .entry + .info_m
+hd-world.org##.entry > p[style]
 hd-world.org##a[href^="http://netload.in/"][href*="&refer_id="]
 hd-world.org##a[href^="http://tinyurl.com/"]
+hd-world.org##a[href^="http://zip5.de/"]
 heimkinomarkt.de##td[align="center"][height="72"][valign="middle"][colspan="3"]
 heimspiel-online.de##.content-rahmen + table[cellspacing="0"][cellpadding="0"][border="0"][style="padding-bottom:5px;"]
 heinertown.de###bigSliderFrame0
