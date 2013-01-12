@@ -1565,6 +1565,7 @@ med1.de##.adContainer
 medienkuh.de##div[style="background-repeat:no-repeat;width:338px;height:280px;border:1px solid #dbdbdb;"]
 medizin-netz.de##.anzeige
 mega-stream.to###streamTabs > :nth-child(6) + .ui-accordion-header
+mega-stream.to##a[href^="http://fastmirror.mega-stream.to"]
 mega-stream.to##a[href^="http://www2.filedroid.net/AF_"]
 mein-kummerkasten.de##div[style$="width:300px;height:250px;"]
 meintomtom.de###idealo
