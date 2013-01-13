@@ -96,7 +96,6 @@
 @@||devaki.ch/www/delivery/lg.php?$image,domain=tagesanzeiger.ch
 @@||docs.google.com/viewer?url=http://goerge-markt.de/fileadmin/werbung/$subdocument,domain=goerge-markt.de
 @@||doubleclick.net/ad/kostenlosspielen.de.smartclip/$object-subrequest,domain=kostenlosspielen.net
-@@||doubleclick.net/ad/nacamar.de.smartclip/*;ord=$script,domain=freestream.nmdn.net
 @@||doubleclick.net/adi/bluewin.sub.de.ch/$subdocument,domain=bluewin.ch
 @@||doubleclick.net/adj/*;sz=1x2;$script,domain=moviemaze.de
 @@||doubleclick.net/adj/oms.szon.de/homepage;oms=homepage;*;sz=10x10;$script,domain=schwaebische.de
@@ -104,6 +103,8 @@
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
 @@||doubleclick.net/pfadx/de_n24.*;sz=50x1;$object-subrequest,domain=n24.de
 @@||doubleclick.net/pfadx/de_n24/*;sz=50x1;$object-subrequest,domain=n24.de
+@@||doubleclick.net^*/nacamar.ads.de.smartclip/*;ord=$object-subrequest,domain=edge.download.newmedia.nacamar.net
+@@||doubleclick.net^*/nacamar.de.smartclip/*;ord=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||doubleclick.net^*/podcast.de.smartclip/*;sz=400x320;$script,domain=podcast.de
 @@||drei.at/moma/adserver/adview.php?$image
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object-subrequest,domain=mobile.de
@@ -184,6 +185,7 @@
 @@||n-tv.de/stat/videoplayer/ntv_player.swf?*/admeta.$object
 @@||nadann.de/small_ads/$~third-party
 @@||nordclick.de/js/colors/adsense_colors.js
+@@||nuggad.net/bk?nuggn=$object-subrequest,domain=edge.download.newmedia.nacamar.net
 @@||nuggad.net/bk?nuggn=$script,domain=podcast.de
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|brokencomedy.de|dshini.net|frustfrei-lernen.de|juice.de|sky.de|studis-online.de|vox.de
 @@||openx.musotalk.de/crossdomain.xml
@@ -236,7 +238,7 @@
 @@||smartadserver.com/call/pubj/177*/*/788*/s/$script,domain=edge.download.newmedia.nacamar.net
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=syfy.de
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
-@@||smartclip.net/delivery/tag?sid=$script,domain=freestream.nmdn.net|kostenlosspielen.net|podcast.de
+@@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|podcast.de
 @@||smartclip.net/inpage/inpage.js
 @@||smartclip.net/inpage/inpage.swf$object
 @@||softwareload.kpcustomer.de/voting/public/flash/300x250_widget_$object
