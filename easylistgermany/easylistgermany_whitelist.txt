@@ -238,7 +238,7 @@
 @@||smartadserver.com/call/pubj/177*/*/788*/s/$script,domain=edge.download.newmedia.nacamar.net
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=syfy.de
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
-@@||smartclip.net/delivery/tag?sid=$script,domain=clipfish.de|edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|podcast.de|radiobob.de
+@@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|podcast.de|radiobob.de
 @@||smartclip.net/inpage/inpage.js
 @@||smartclip.net/inpage/inpage.swf$object
 @@||softwareload.kpcustomer.de/voting/public/flash/300x250_widget_$object
@@ -379,6 +379,7 @@
 @@||servedby.flashtalking.com/imp/$object-subrequest,domain=filmstarts.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||sevenads.net/layer.php?p=*&u=*&r=$script,domain=uploaded-premium.ru
 @@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.tv
+@@||smartclip.net/delivery/tag?sid=$object-subrequest,domain=clipfish.de
 @@||sponsorads.de/script.php?s=$script,domain=uploaded-premium.ru
 @@||sudoku-space.de^$script
 @@||super-otr.de/inc/js/phpads/sponsorad.js
