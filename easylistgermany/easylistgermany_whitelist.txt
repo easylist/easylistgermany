@@ -46,7 +46,6 @@
 @@||adshot.de/click/view.php$image,domain=dateibrowser.de|filebroker.de|thisload.de
 @@||adtech.de/?adrawdata/$object-subrequest,domain=cineman.de|login.audimark.de|player.nowonscreen.com
 @@||adtech.de/?advideo/$object-subrequest,domain=filmstarts.de
-@@||adtech.de/addyn/*/ADTECH;$script,domain=jetztspielen.de
 @@||adtech.de/addyn/*/ADTECH;$script,domain=jetztspielen.de|spielen.com
 @@||adtech.de/adperf/$script,domain=jetztspielen.de|spielen.com
 @@||adtech.de/adrawdata$object-subrequest,domain=player.nowonscreen.com
