@@ -251,6 +251,7 @@
 @@||static-fra.de^*/admeta.xml?$object-subrequest
 @@||static.freenet.de/adserver/introductio.js$domain=vid.buffed.de|videos.gamesaktuell.de|videos.pcgames.de|videos.videogameszone.de
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
+@@||storm-chasing.de^*/ad-gallery/$image,~third-party
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tape.tv/tape2fs/images/campaign/teaser-redaktion.swf?
 @@||teaser.neckermann.de/addyn/3.0/*/adtech;loc=100;target=_blank;grp=*;misc=$script,domain=neckermann.de
