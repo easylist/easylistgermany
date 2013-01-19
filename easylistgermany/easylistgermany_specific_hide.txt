@@ -1802,8 +1802,15 @@ movie-blog.org###post-619799 + :nth-child(n)
 movie-blog.org###post-619806
 movie-blog.org###post-619806 + * + *
 movie-blog.org###post-619806 + :nth-child(n)
+movie-blog.org###post-623574
+movie-blog.org###post-623574 + * + *
+movie-blog.org###post-623574 + :nth-child(n)
+movie-blog.org###post-623580
+movie-blog.org###post-623580 + * + *
+movie-blog.org###post-623580 + :nth-child(n)
 movie-blog.org##.entry > a[target="_blank"]
 movie-blog.org##.entry > a[target="blank"]
+movie-blog.org##.entry > div[style*="color:"]
 movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.entry > p[style*="color:"]
 movie-blog.org##.entry a[href*=".movie-blog.org"]
@@ -1821,6 +1828,7 @@ movie-blog.org##.post-ratings + .entry + a[target="_blank"]
 movie-blog.org##a[href*="http://ul.to/ref/"]
 movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://b23.ru/"]
+movie-blog.org##a[href^="http://bim.im/"]
 movie-blog.org##a[href^="http://bit.ly/"]
 movie-blog.org##a[href^="http://chilp.it/"]
 movie-blog.org##a[href^="http://cl.lk/"]
