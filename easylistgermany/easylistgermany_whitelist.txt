@@ -3,7 +3,7 @@
 @@||123people.us/trackads/display?zones=$script,domain=123people.de
 @@||2mdn.net^*/flash_inpage_rendering_lib_$script,domain=cnet.de
 @@||2mdn.net^*/plcr_$script,domain=cnet.de
-@@||360yield.com/adj?$script,domain=jetztspielen.de|spielen.com
+@@||360yield.com/adj?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||46.4.236.198/ox/www/delivery/ajs.php?zoneid=*&loc=http%3a//wz-newsline.de/index.php$script,domain=wz-newsline.de
 @@||abacomuenchensued.de/pageear/$object,object-subrequest,script
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
@@ -46,7 +46,7 @@
 @@||adshot.de/click/view.php$image,domain=dateibrowser.de|filebroker.de|thisload.de
 @@||adtech.de/?adrawdata/$object-subrequest,domain=cineman.de|login.audimark.de|player.nowonscreen.com
 @@||adtech.de/?advideo/$object-subrequest,domain=filmstarts.de
-@@||adtech.de/addyn/*/ADTECH;$script,domain=jetztspielen.de|spielen.com
+@@||adtech.de/addyn/*/ADTECH;$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||adtech.de/adperf/$script,domain=jetztspielen.de|spielen.com
 @@||adtech.de/adrawdata$object-subrequest,domain=player.nowonscreen.com
 @@||adtech.de/apps/$object-subrequest,domain=cineman.de
@@ -70,8 +70,8 @@
 @@||belboon.de/adtracking/$subdocument,domain=preismafia.com
 @@||berufsstart.de^*/anzeigeshowframeset.php?$subdocument
 @@||berufsstart.de^*/show-advert-info.html?$subdocument
-@@||bluelithium.com/imp?$script,domain=jetztspielen.de|spielen.com
-@@||bluelithium.com/st?$script,domain=jetztspielen.de|spielen.com
+@@||bluelithium.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
+@@||bluelithium.com/st?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||bundesliga.de/js/my_ad_integration.js
 @@||cache.kalaydo.de/mmo/logo/advert/$image
 @@||canoo.net/services/wordformationdictionary/gifs/
@@ -86,7 +86,7 @@
 @@||comdirect.de^*.html&ad=$subdocument
 @@||comdirect.de^*.html?ad=$subdocument
 @@||comdirect.de^*/advertising.do?$subdocument
-@@||cookex.amp.yahoo.com/v2/cexposer/SIG=*//ad.yieldmanager.com/imp?$script,domain=jetztspielen.de
+@@||cookex.amp.yahoo.com/v2/cexposer/SIG=*//ad.yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||dawanda.com/ads?$xmlhttprequest
 @@||de.ebayobjects.com/1ai/mobile.homepage/superteaser;$subdocument,domain=mobile.de
@@ -206,7 +206,7 @@
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
 @@||photo.knuddels.de/kde/ad2/$image
-@@||pixel.adsafeprotected.com/jspix?$script,domain=jetztspielen.de|spielen.com
+@@||pixel.adsafeprotected.com/jspix?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||pleasure.gamersplus.de/www/delivery/ajs.php?campaignid=$script,domain=gamers.at|gamersplus.de
 @@||prosieben.de^*/ad-managment/$script
 @@||r.refinedads.com/l.js$script,domain=paypal-deutschland.de
@@ -288,7 +288,7 @@
 @@||wodas.wetteronline.de/dynamic/wo_sky.fcgi?$subdocument
 @@||wodas.wetteronline.de/static/womfkts.js
 @@||xara.hse24.de^*/hse_videoplayer.swf
-@@||yieldmanager.com/imp?$script,domain=jetztspielen.de|spielen.com
+@@||yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|notenbuch24.de|preismafia.com
 @@||zanox-affiliate.de/ppv/?$image,domain=14-tage-wettervorhersage.de
 ! Anti-Adblock
