@@ -63,6 +63,7 @@
 ||teen-blog.us/out_to_trade.php$image,~image,popup
 ||teltarif.de/click/m:*.a=$image,~image,popup
 ||tinyurl.com^$image,~image,popup,domain=ebook-hell.to|g-stream.in|smsit.me
+||tradedoubler.com/click?$image,~image,popup,domain=smsform.de
 ||uploaded-premium.ru/out.php$image,~image,popup
 ||usenext.de^$image,~image,popup,domain=5vor12.de
 ||vampirediaries.in/popin.php$image,~image,popup

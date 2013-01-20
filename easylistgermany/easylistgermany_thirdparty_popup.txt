@@ -20,6 +20,7 @@
 ||smstune.de/la/$image,~image,popup
 ||sunmaker.com/?a_aid=$image,~image,popup
 ||tagoria.net/?ref=$image,~image,popup,third-party
+||taps.io^*/sms?__ref=$image,~image,popup
 ||tarifliste.com/index.php?log=$image,~image,popup,third-party
 ||tracking.traviangames.com^$image,~image,popup,third-party
 ||tuneclub.de^*/lp.pl?$image,~image,popup
