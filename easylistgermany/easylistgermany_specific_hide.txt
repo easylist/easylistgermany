@@ -360,6 +360,7 @@ bodybuilding-forum.at###post99999999999
 boerse-online.de###ivwimg
 boerse-online.de##.rsmodulanzeige
 boerse.bz##.bt
+boerse.bz##.jquery-msgbox
 boerse.bz##.page > div > div > a > img
 boerse.bz##a[href*=".hide.io"] > img
 boerse.bz##a[href="/share.php"]
@@ -368,6 +369,7 @@ boerse.bz##a[href^="http://www.boerse.bz/out/?url=http://dl1.gulli.bz/"]
 boerse.bz##a[href^="http://www.boerse.bz/out/?url=http://www.share.cx/partner"]
 boerse.bz##div[id^="edit"] > table[id^="post"] + br + .tborder[width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"]
 boerse.bz##div[onclick^="window.open('https://www.hide.io/"]
+boerse.bz##div[style="display:none"] + script + div[id][style^="position: fixed; top: 0px; left: 0px; opacity: 0.5; z-index:"]
 boerse.bz##img[alt*="Anzeige"]
 boerse.bz##tr:last-child > .forumdisplay-topborder[width="100%"][colspan="3"]
 boerse.bz##tr[valign="top"] > td > .tborder + div[style] + div[align="center"] > a > img
