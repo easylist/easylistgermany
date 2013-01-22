@@ -257,6 +257,7 @@ bild.de###badge > object[id^="pub_"]
 bild.de###fullBanner
 bild.de###subchannelBanner1_1
 bild.de###subchannelBanner2_2
+bild.de##.affiliate.pm001
 bild.de##.affiliate.pm007
 bild.de##.affiliate.pm033
 bild.de##.affiliate.pm107
@@ -269,6 +270,7 @@ bild.de##.jetzt_aufnehmen
 bild.de##.rectangle
 bild.de##.servicelinks
 bild.de##.txe
+bild.de##.yield
 bild.de##a[href*=".smartadserver.com/"]
 bild.de##a[href*=".smartadserver.com/"] + .mark
 bild.de##a[href*="/partner/"]
