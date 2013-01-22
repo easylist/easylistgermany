@@ -2432,8 +2432,11 @@ schnittberichte.com##a[href="goto.php?ID=3"]
 schnittberichte.com##a[href="http://www.schnittberichte.com/goto.php?ID=1459"]
 schnittberichte.com##a[href="http://www.schnittberichte.com/goto.php?ID=1545"]
 schnittberichte.com##center > a[href^="goto.php?ID="] > img
+schnittberichte.com##div[style="margin-right:5px;"] > table[height="100%"][cellpadding="2"][border="0"]
 schnittberichte.com##img[alt*="BMV Medien"]
+schnittberichte.com##table[width="786px"][align="center"][style="border: 1px solid #B6B6B6; margin-bottom:11px;"]
 schnittberichte.com##table[width="786px"][style="border: 1px solid #B6B6B6; margin-bottom:10px;"]
+schnittberichte.com##td[width="154"][valign="top"][align="left"] > table[width="154px"][style="border: 1px solid #CACACA;"]
 schnittberichte.com##td[width="526px"][valign="top"] > div[align="left"]:first-child > center > a[href^="http://www.schnittberichte.com/goto.php?ID="] > img
 schueler.cc###avoWrapper
 schueler.cc###bauhausTeaserShow
