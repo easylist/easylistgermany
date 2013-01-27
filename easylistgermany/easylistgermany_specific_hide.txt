@@ -364,8 +364,6 @@ boerse-online.de##.rsmodulanzeige
 boerse.bz##.bt
 boerse.bz##body > :nth-child(n+12) + div[class][style]
 boerse.bz##body > :nth-child(n+12) + div[id][style]
-boerse.bz##div[class][style*="position:"][style*="z-index:"][style*="background-color:"]
-boerse.bz##div[id][style*="z-index:"][style*="background-color:"][style*="opacity:"]
 boerse.bz##div[id^="edit"] > table[id^="post"] + br + .tborder[width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"]
 boerse.de###big
 boerse.de##.bannerbox_container
