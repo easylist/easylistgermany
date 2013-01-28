@@ -15,6 +15,7 @@
 ||mannagor.de/?track=ad:$image,~image,popup,third-party
 ||mediadealr.com^$image,~image,popup,third-party
 ||o2-freikarte.de/affiliate/$image,~image,popup
+||pornme.com/*.php?ref=$image,~image,popup,third-party
 ||relink.us^*/landing.php$image,~image,popup
 ||shortnews.de^*_adtext_id=$image,~image,popup
 ||smstune.de/la/$image,~image,popup
