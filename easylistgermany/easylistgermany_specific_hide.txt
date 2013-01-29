@@ -3065,6 +3065,7 @@ winboard.org##td[width="130"][valign="top"][align="center"]:last-child
 winboard.org##tr > td[width="100%"][valign="top"][align="center"]:first-child + td[width="180"][style="vertical-align: top;"]:last-child
 windows-tweaks.info##table[width="738"][cellspacing="0"][cellpadding="0"][border="0"][nof="LY"]
 winfuture.de###comments_box > div[style="height:60px;margin-top:1.3em;"]
+winfuture.de###rightWrap > .win7_special_teaser:first-child + .rightBx
 winfuture.de##.amzwgt
 winload.de###beforedownload
 winload.de###downloading > #websearch[style="margin-top: 8px; background-color: white;"]
