@@ -363,6 +363,7 @@ boerse-online.de###ivwimg
 boerse-online.de##.rsmodulanzeige
 boerse.bz##.bt
 boerse.bz##.forumdisplay-topborder[width="100%"][colspan="3"] > div[align="center"] > a[target="_blank"][href^="http://www.boerse.bz/out/?url="] > img
+boerse.bz##a[href^="http://www.boerse.bz/go/?url=http://dl1.gulli.bz/goto-"]
 boerse.bz##body > :nth-child(n+12) + div[class][style]
 boerse.bz##body > :nth-child(n+12) + div[id][style]
 boerse.bz##div[class][style^="display:"][style*="position:"][style*="top:"][style*="left:"][style*="width:"][style*="height:"][style*="z-index:"][style*="word-wrap:"][style*="box-shadow:"][style*="border-radius:"][style*="background-color:"]
