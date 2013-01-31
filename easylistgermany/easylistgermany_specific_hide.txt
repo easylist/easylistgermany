@@ -1013,9 +1013,8 @@ gamestar.de##.homeContReg > .homeContRegCol1 > .elemCont > a > img
 gamestar.de##.homeContReg > .homeContRegCol1 > .elemCont > a[href^="http://goo.gl/"] > img
 gamestar.de##.marketbox_brace
 gamestar.de##a[href^="http://amzn.to/"]
+gamestar.de##a[href^="http://www.amazon.de/"][href$="&tag=gamestarq-21"]
 gamestar.de##a[href^="http://www.amazon.de/"][href*="&tag=gscon-21"]
-gamestar.de##a[href^="http://www.amazon.de/gp/product/"][href*="&tag=gamestarq-21"]
-gamestar.de##a[href^="http://www.amazon.de/gp/product/"][href*="&tag=gscon-21"]
 gamestar.de##a[href^="http://www.betvictor-emtippspiel.de/index.cfm?"]
 gamestar.de##a[href^="http://www.gamestar.de/_misc/linkforward/"][target="_blank"]
 gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
