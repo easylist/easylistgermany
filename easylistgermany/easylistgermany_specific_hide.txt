@@ -372,6 +372,7 @@ boerse.bz##body > :nth-child(n+12) + div[id][style]
 boerse.bz##div[class][style^="display:"][style*="position:"][style*="top:"][style*="left:"][style*="width:"][style*="height:"][style*="z-index:"][style*="word-wrap:"][style*="box-shadow:"][style*="border-radius:"][style*="background-color:"]
 boerse.bz##div[id][class][style^="z-index:"][style*="background-color:"][style*="opacity:"][style*="height:"][style*="width:"][style*="display:"]
 boerse.bz##div[id^="edit"] > table[id^="post"] + br + .tborder[width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"]
+boerse.bz##div[onclick^="window.open('http://www.boerse.bz/go/?register=new&m=guest'"]
 boerse.de###big
 boerse.de##.bannerbox_container
 boersennews.de###gAd_0
