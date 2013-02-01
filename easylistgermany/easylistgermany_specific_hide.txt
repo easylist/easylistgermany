@@ -968,10 +968,8 @@ game-freaks.net##a[href^="http://freakshare.com/?ref="]
 gamefront.de##a[href="http://www.gamedealer.de"]
 gamefront.de##a[href^="http://www.amazon.de/"][href*="&tag=gamefrontde-21"]
 gamefront.de##img[width="160"][height="600"]
-gamefront.de##table[bgcolor="#470B02"][align="center"][width="950"][cellspacing="1"]
 gamefront.de##table[width="728"][align="center"]:first-child:last-child
-gamefront.de##table[width="950"][bgcolor="#9EC2BE"][align="center"]
-gamefront.de##table[width="950"][bgcolor="#DAD6C2"][align="center"]
+gamefront.de##table[width="950"][bgcolor][align="center"]
 gamefront.de##table[width="950"][cellspacing="1"][cellpadding="0"][border="0"][bgcolor="#ffffff"][align="left"]
 gamehammer.de##a[href^="banner_click.php?advert_id="]
 gameone.de###top_add
