@@ -26,6 +26,8 @@
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
 @@||admedia.adgemini.de^$~third-party
+@@||admeld.com/ad/js/*/game-page?$script,domain=jetztspielen.de|spielen.com
+@@||admeld.com/meld128.js$domain=jetztspielen.de|spielen.com
 @@||admin.brightcove.com/viewer/*/advertisingmodule.swf$domain=bunch.tv|dmax.de|morgenpost.de
 @@||adonline.anonza.de^$~document,~third-party
 @@||adpartner.de^$~third-party
