@@ -293,6 +293,7 @@
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|notenbuch24.de|preismafia.com
 @@||zanox-affiliate.de/ppv/?$image,domain=14-tage-wettervorhersage.de
 ! Anti-Adblock
+@@|http://*.cu.cc/$script,domain=my-entertainment.biz
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de
 @@||2mdn.net^*_946x620_*.swf?clickTag=$object,domain=n-tv.de
