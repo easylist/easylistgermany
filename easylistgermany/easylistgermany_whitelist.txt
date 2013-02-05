@@ -154,8 +154,8 @@
 @@||greuther-fuerth.de/fileadmin/templates/js/plugins/pagepeel/$object,object-subrequest,script
 @@||gymnasium-august-dicke.de^*/ads/
 @@||i.computer-bild.de/imgs/$image,domain=computerbild.de
-@@||idowa.de/rest/db/frontend/advertisement/$xmlhttprequest
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
+@@||idowa.de^*/advertisement/$xmlhttprequest
 @@||img.ui-portal.de/uim/*/Promo/$image,domain=millionenklick.web.de
 @@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
@@ -164,7 +164,6 @@
 @@||joepenas.com/index.swf?clicktag=$object,~third-party
 @@||juleps-esslingen.de/index.swf?clicktag=$object,~third-party
 @@||kabeleins.de/php-bin/functions/adtags/$subdocument
-@@||kleinanzeigen.idowa.de^*/advertisement/$~third-party,xmlhttprequest
 @@||kmelektronik.de/shop/images/advertising/$image
 @@||kurier.at^*/ac_oetags_clone.js
 @@||landwirt.com/commercials/$object-subrequest
