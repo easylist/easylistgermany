@@ -1858,12 +1858,19 @@ movie-blog.org###post-629692 + :nth-child(n)
 movie-blog.org###post-629705
 movie-blog.org###post-629705 + * + *
 movie-blog.org###post-629705 + :nth-child(n)
+movie-blog.org###post-629963
+movie-blog.org###post-629963 + * + *
+movie-blog.org###post-629963 + :nth-child(n)
+movie-blog.org###post-629968
+movie-blog.org###post-629968 + * + *
+movie-blog.org###post-629968 + :nth-child(n)
 movie-blog.org##.entry + center > a
 movie-blog.org##.entry > a[target="_blank"]
 movie-blog.org##.entry > a[target="blank"]
 movie-blog.org##.entry > center > a
 movie-blog.org##.entry > div[style*="color:"]
 movie-blog.org##.entry > div[style^="border-style:"]
+movie-blog.org##.entry > iframe + * + a
 movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.entry > p[style*="color:"]
 movie-blog.org##.entry a[href*=".movie-blog.org"]
@@ -1887,6 +1894,7 @@ movie-blog.org##a[href^="http://bit.ly/"]
 movie-blog.org##a[href^="http://chilp.it/"]
 movie-blog.org##a[href^="http://cl.lk/"]
 movie-blog.org##a[href^="http://fave.co/"]
+movie-blog.org##a[href^="http://flaturl.com/"]
 movie-blog.org##a[href^="http://fur.ly/"]
 movie-blog.org##a[href^="http://gg.gg/"]
 movie-blog.org##a[href^="http://goo.gl/"]
