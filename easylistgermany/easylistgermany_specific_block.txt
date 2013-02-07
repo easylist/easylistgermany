@@ -283,6 +283,7 @@
 ||cine4home.de/pics/heimkino_160x240.gif
 ||cinebee.org/_out.js
 ||cinebee.org/la.js
+||cinebee.org^*.js|
 ||cinebee.org^*/rotator.php
 ||cinecity.at^*/banner*.gif
 ||cineman.ch^*/promobox_$subdocument
