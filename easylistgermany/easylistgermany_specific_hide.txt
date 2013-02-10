@@ -2579,6 +2579,7 @@ shopbetreiber-blog.de##.ad
 shortnews.de###vv
 shortnews.de##a[href^="http://www.sparwelt.de/"]
 shortnews.de##a[href^="http://www.tickntalk.com/?af="]
+shortnews.de##div[style="border:1px solid #E5E5E5; margin:0px; display:block;"]
 silicon.de###leaderboard-top
 simfans.de###storeBanner_Sidebar
 simkea.de##div[style="position:relative; width:728px; height:90px; text-align:right; margin:1px auto 1px auto; overflow:hidden;"]
