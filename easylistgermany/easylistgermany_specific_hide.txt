@@ -1434,7 +1434,7 @@ kochbar.de##.rectangel
 kochbar.de##.smatch
 kochbar.de##.tTraffic
 kochbar.de##.teaser_rezepte
-kochbar.de##A[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
+kochbar.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
 kochbar.de##div[style="position: relative;margin: 0;padding: 0;border: 0;width: 300px;height: 238px;background-color:#FFF;"]
 koelschwasser.eu###banner
 kontaktanzeigen-flirt.de###popup
