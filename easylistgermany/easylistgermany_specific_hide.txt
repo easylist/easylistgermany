@@ -828,8 +828,11 @@ euronics.de###master_footer_box_placeholder
 euronics.de###xxl_master_top_banner_container
 evo-cars.de##.xaded
 evocars-magazin.de##div[style="float:left; width:300px; height:250px; margin:8px 15px 5px 3px;"]
+excitingcommerce.de###alpha-inner > .module-typelist:first-child + .module-typelist
+excitingcommerce.de###alpha-inner > .module-typelist:first-child + .module-typelist + .module-typelist
 excitingcommerce.de##.typelist-note > a > img[style="margin: 5px 5px 5px 0px; border-width: 0px;"]
 excitingcommerce.de##.typelist-note > a > img[style="margin: 5px 5px 5px 0px; border-width:0px;"]
+excitingcommerce.de##img[style="margin: 5px 5px 0px 0px; border-width:0px; align="]
 exp.de###b4nner
 express.de###JSAnzeigen
 express.de###RotatingPartner
