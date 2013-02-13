@@ -3092,6 +3092,7 @@ wetter.com###hrs_tool_wrapNEW
 wetter.com###rc_travelad
 wetter.com###spox_box
 wetter.com##.adbox
+wetter.com##.ext_url[onclick^="_gaq.push(['_trackEvent', 'Toolbar_Pets"]
 wetter.com##.localBox
 wetter.com##a[href^="http://exlog.wetter.com/v2/exlog/adclick.php?bannerid="]
 wetter.com##a[onclick^="exlogmask('"][href="javascript:void(0);"]
