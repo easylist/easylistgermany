@@ -3271,6 +3271,7 @@ leverkusen-online.info##body > :nth-child(n) + style + div[id]:last-child
 leverkusen-online.info##body > div > div > noscript > style + div[id]:last-child
 mobilfunk-geschichte.de##body > :nth-child(n) + style + div[id]:last-child
 mobilfunk-geschichte.de##body > noscript > style + div[id]:last-child
+mv-spion.de###spionLayer
 mysmspage.de##body > style + div[id]:nth-child(n+13)
 nachrichtenamort.de##body > :nth-child(n) + style + div[id]:last-child
 nachrichtenamort.de##body > noscript > style + div[id]:last-child
