@@ -47,6 +47,7 @@
 ||movie-blog.org/login/$popup
 ||movie-blog.org/redir/$image,~image,popup
 ||movie-blog.org/|$image,~image,popup,~third-party
+||movie-blog.org^*.html$image,~image,popup
 ||movie-blog.org^*.php$image,~image,popup
 ||neckermann.de^$image,~image,popup,domain=5vor12.de
 ||partners.webmasterplan.com^$image,~image,popup,domain=tele5.de
