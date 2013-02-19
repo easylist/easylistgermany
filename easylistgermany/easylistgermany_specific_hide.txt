@@ -1030,6 +1030,7 @@ gamestar.de##.columnContentTeaser > .gl
 gamestar.de##.dlightboxContainerBody > div[style="color: #5D5D5D; font-size: 18px; margin: 10px 10px 10px 20px; text-align: left;"] + .standardcontent > [type="text/css"] + .articlelb > table
 gamestar.de##.homeContHlCol3[style="width:289px;"] > div[style="padding:20px 0 0 0;"]:last-child
 gamestar.de##.homeContReg > .homeContRegCol1 > .elemCont > a > img
+gamestar.de##.homeContReg > .homeContRegCol1 > div[style] > a > img
 gamestar.de##.marketbox_brace
 gamestar.de##a[href^="http://amzn.to/"]
 gamestar.de##a[href^="http://www.amazon.de/"][href$="&tag=gamestarq-21"]
@@ -1042,6 +1043,7 @@ gamestar.de##div[id^="bgclick_sky_"]
 gamestar.de##div[id^="idAd"]
 gamestar.de##div[style="background-image:url(/img/gamestar/products/banner_amazon.png);width:610px;height:70px;font-size:10px;color:#FFF;border:1px solid #D5D5D5"]
 gamestar.de##div[style="background-image:url(/img/gamestar/products/banner_gamesload2.png);width:610px;height:70px;font-size:10px;color:#FFF;border:1px solid #D5D5D5"]
+gamestar.de##div[style="border-bottom: 1px solid #c9c9c9; padding: 10px 19px; position: relative; padding-top:15px; padding-bottom:15px;"]
 gamestar.de##div[style="width:100%;background: url(/img/aktionen/sb_bg.png) repeat-x;"]
 gamestar.de##div[style="width:100%;background: url(/img/aktionen/sponsorbar_bg.png) repeat-x;"]
 gamestar.de##div[style="width:100%;background: url(/img/sb_bg.png) repeat-x;"]
