@@ -1900,6 +1900,12 @@ movie-blog.org###post-632102 + :nth-child(n)
 movie-blog.org###post-632105
 movie-blog.org###post-632105 + * + *
 movie-blog.org###post-632105 + :nth-child(n)
+movie-blog.org###post-633904
+movie-blog.org###post-633904 + * + *
+movie-blog.org###post-633904 + :nth-child(n)
+movie-blog.org###post-633942
+movie-blog.org###post-633942 + * + *
+movie-blog.org###post-633942 + :nth-child(n)
 movie-blog.org##.entry + a
 movie-blog.org##.entry + center > a
 movie-blog.org##.entry > a[target="_blank"]
@@ -1936,6 +1942,7 @@ movie-blog.org##a[href^="http://fave.co/"]
 movie-blog.org##a[href^="http://flaturl.com/"]
 movie-blog.org##a[href^="http://fur.ly/"]
 movie-blog.org##a[href^="http://gg.gg/"]
+movie-blog.org##a[href^="http://goo.by/"]
 movie-blog.org##a[href^="http://goo.gl/"]
 movie-blog.org##a[href^="http://href.hu/"]
 movie-blog.org##a[href^="http://ilnk.me/"]
