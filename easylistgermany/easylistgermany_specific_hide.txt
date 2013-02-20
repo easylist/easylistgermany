@@ -1909,12 +1909,19 @@ movie-blog.org###post-633904 + :nth-child(n)
 movie-blog.org###post-633942
 movie-blog.org###post-633942 + * + *
 movie-blog.org###post-633942 + :nth-child(n)
+movie-blog.org###post-634267
+movie-blog.org###post-634267 + * + *
+movie-blog.org###post-634267 + :nth-child(n)
+movie-blog.org###post-634273
+movie-blog.org###post-634273 + * + *
+movie-blog.org###post-634273 + :nth-child(n)
 movie-blog.org##.entry + a
 movie-blog.org##.entry + center > a
 movie-blog.org##.entry > a[target="_blank"]
 movie-blog.org##.entry > a[target="blank"]
 movie-blog.org##.entry > center > a
 movie-blog.org##.entry > div > a
+movie-blog.org##.entry > div > div > a
 movie-blog.org##.entry > div[style*="color:"]
 movie-blog.org##.entry > div[style^="border-style:"]
 movie-blog.org##.entry > iframe + * + a
@@ -1980,6 +1987,7 @@ movie-blog.org##a[href^="http://x.co/"]
 movie-blog.org##a[href^="http://y.ahoo.it/"]
 movie-blog.org##a[href^="http://yi.tl/"]
 movie-blog.org##a[href^="http://zip5.de/"]
+movie-blog.org##a[href^="http://zzb.bz/"]
 movie-stream.to##a[href^="http://download.movie-stream.to"]
 movie-stream.to##a[href^="http://www.firstload.com/affiliate/"]
 moviebb.to##.highspeed_button
