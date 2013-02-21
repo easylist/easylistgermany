@@ -758,7 +758,6 @@ ebook-hell.to##a[href^="http://rod.gs/"]
 ebook-hell.to##form[target="id__"]
 ebook-hell.to##input[onclick^="location='http://"]
 ebook-hell.to##input[onclick^="parent.location='http://"]
-ebook-hell.to##input[onclick^="self.location.href='"]
 echo-online.de##.banner_horizontal
 echo-online.de##.bottom-buttons
 echte-abzocke.de##.smallfont[style="text-align:center;width:740px;height:115px;padding-top:10px;background-color: #ffffff;border:1px solid #DFE6ED"]
