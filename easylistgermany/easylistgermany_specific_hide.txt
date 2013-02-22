@@ -487,6 +487,8 @@ chip.de##.bullet-partner
 chip.de##.teaser-headline-gray
 chip.de##a[title^="Anzeige:"][href^="http://adx.chip.de/www/delivery/ck.php?"]
 chriszim.com##div[style="border:1px #8c8c8c solid; font-size:80%; margin:5px auto; text-align:center; width:640px;"]
+cine-dream.com##a[href^="http://bit.ly/"]
+cine-dream.com##a[href^="http://tinyurl.com/"]
 cine24.tv##a[href$=".gu.ma"]
 cine24.tv##a[href^="http://www.digizigi.de/"]
 cine24.tv##div[id^="ratingDiv"] > a[target][alt] > img
