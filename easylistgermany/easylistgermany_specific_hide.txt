@@ -1924,6 +1924,12 @@ movie-blog.org###post-634945 + :nth-child(n)
 movie-blog.org###post-634952
 movie-blog.org###post-634952 + * + *
 movie-blog.org###post-634952 + :nth-child(n)
+movie-blog.org###post-635318
+movie-blog.org###post-635318 + * + *
+movie-blog.org###post-635318 + :nth-child(n)
+movie-blog.org###post-635321
+movie-blog.org###post-635321 + * + *
+movie-blog.org###post-635321 + :nth-child(n)
 movie-blog.org##.entry + a
 movie-blog.org##.entry + center > a
 movie-blog.org##.entry > a[target="_blank"]
@@ -1955,6 +1961,7 @@ movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://b23.ru/"]
 movie-blog.org##a[href^="http://bim.im/"]
 movie-blog.org##a[href^="http://bit.ly/"]
+movie-blog.org##a[href^="http://blue.gg/"]
 movie-blog.org##a[href^="http://chilp.it/"]
 movie-blog.org##a[href^="http://chrst.ph/"]
 movie-blog.org##a[href^="http://cl.lk/"]
