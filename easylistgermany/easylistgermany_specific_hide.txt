@@ -2158,8 +2158,9 @@ notebookjournal.de##.content > div[style="width:50%;height:260px;float:left;"]
 notebooksbilliger.de##.banner_left
 notebooksbilliger.de##.banner_right
 np-coburg.de##.superbanner
-npage.de##.content > script + link + div[id][class][style]
-npage.de##script[src] + style + script + link + div[id][class][style]
+npage.at##script + link + div[id][class][style]
+npage.ch##script + link + div[id][class][style]
+npage.de##script + link + div[id][class][style]
 npd-blog.info###banner1
 nrhz.de###banner_container_rc
 nrhz.de###banner_left_container_lc
