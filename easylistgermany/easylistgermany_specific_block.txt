@@ -1652,6 +1652,7 @@
 ! Anti-Adblock
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/.+x\d{4,}.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/\d{4,}x.+.jpg/$domain=gamestar.de
+/\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/x\d{4,}.jpg/$domain=gamestar.de
 ||fjove.com^$domain=gamestar.de
 ||greres.com^$domain=gamestar.de
 ||images.gamestar.de/images/idgwpgsgp/bdb/23*/*x*a.jpg
