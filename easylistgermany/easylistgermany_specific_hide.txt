@@ -2857,6 +2857,7 @@ t-online.de###Tcmd1 > .Tmect
 t-online.de###med_anz
 t-online.de###sky_anz
 t-online.de###tl_anz-pos1
+t-online.de###tsc_skyscraper
 t-online.de###tsrwh
 t-online.de##.Tadspacemrec
 t-online.de##.Tamrecbox
@@ -2870,6 +2871,7 @@ t-online.de##a[href^="http://wirtschaft.t-online.de/testen-sie-den-devisen-hande
 t-online.de##a[href^="http://wirtschaft.t-online.de/top-girokonto-der-norisbank/id_"]
 t-online.de##a[href^="http://www.viversum.de/index.php?pid="]
 t-online.de##a[target="_blank"][href^="http://im.banner.t-online.de/?adlink"] > img
+t-online.de##div[id^="tsc_google_adsense_1"]
 t-online.de##img[height="365"][width="178"][style="margin-left:-10px;margin-bottom:10px"]
 t-online.de##img[width="209"][usemap^="#immap"]
 t-online.de##img[width="641"][usemap^="#immap"]
