@@ -1939,6 +1939,12 @@ movie-blog.org###post-635318 + :nth-child(n)
 movie-blog.org###post-635321
 movie-blog.org###post-635321 + * + *
 movie-blog.org###post-635321 + :nth-child(n)
+movie-blog.org###post-636270
+movie-blog.org###post-636270 + * + *
+movie-blog.org###post-636270 + :nth-child(n)
+movie-blog.org###post-636276
+movie-blog.org###post-636276 + * + *
+movie-blog.org###post-636276 + :nth-child(n)
 movie-blog.org##.entry + a
 movie-blog.org##.entry + center > a
 movie-blog.org##.entry > a[target="_blank"]
@@ -1974,6 +1980,7 @@ movie-blog.org##a[href^="http://blue.gg/"]
 movie-blog.org##a[href^="http://chilp.it/"]
 movie-blog.org##a[href^="http://chrst.ph/"]
 movie-blog.org##a[href^="http://cl.lk/"]
+movie-blog.org##a[href^="http://cutt.us/"]
 movie-blog.org##a[href^="http://fave.co/"]
 movie-blog.org##a[href^="http://flaturl.com/"]
 movie-blog.org##a[href^="http://fur.ly/"]
