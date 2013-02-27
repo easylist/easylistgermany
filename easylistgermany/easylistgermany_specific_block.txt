@@ -1661,6 +1661,7 @@
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/1.+\x6\d{2,}.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/1.+\x7\d{2,}.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/\d{4,}x.+.jpg/$domain=gamestar.de
+/\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/b\d{3,}x\d{3,}.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/x\d{4,}.jpg/$domain=gamestar.de
 ||fjove.com^$domain=gamestar.de
 ||greres.com^$domain=gamestar.de
