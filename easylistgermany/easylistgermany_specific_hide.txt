@@ -1957,6 +1957,12 @@ movie-blog.org###post-636582 + :nth-child(n)
 movie-blog.org###post-636586
 movie-blog.org###post-636586 + * + *
 movie-blog.org###post-636586 + :nth-child(n)
+movie-blog.org###post-636710
+movie-blog.org###post-636710 + * + *
+movie-blog.org###post-636710 + :nth-child(n)
+movie-blog.org###post-636714
+movie-blog.org###post-636714 + * + *
+movie-blog.org###post-636714 + :nth-child(n)
 movie-blog.org##.entry + a
 movie-blog.org##.entry + center > a
 movie-blog.org##.entry + div > a > b
@@ -1971,6 +1977,7 @@ movie-blog.org##.entry > iframe + * + a
 movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.entry > p[style*="color:"]
 movie-blog.org##.entry a[href^="http://movie-blog.org/2010"]
+movie-blog.org##.entry a[href^="http://www.movie-blog.org/2010"]
 movie-blog.org##.entry a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.entry center > a[target="_blank"][href*=".movie-blog.org/"]
 movie-blog.org##.hreview-aggregate > a[target="blank"]
