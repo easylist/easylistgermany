@@ -1977,6 +1977,12 @@ movie-blog.org###post-637380 + :nth-child(n)
 movie-blog.org###post-637388
 movie-blog.org###post-637388 + * + *
 movie-blog.org###post-637388 + :nth-child(n)
+movie-blog.org###post-637540
+movie-blog.org###post-637540 + * + *
+movie-blog.org###post-637540 + :nth-child(n)
+movie-blog.org###post-637552
+movie-blog.org###post-637552 + * + *
+movie-blog.org###post-637552 + :nth-child(n)
 movie-blog.org##.entry + a
 movie-blog.org##.entry + center > a
 movie-blog.org##.entry + div > a > b
@@ -2010,6 +2016,7 @@ movie-blog.org##a[href*="http://ul.to/ref/"]
 movie-blog.org##a[href^="http://4short.de/"]
 movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://b23.ru/"]
+movie-blog.org##a[href^="http://bi.ai/"]
 movie-blog.org##a[href^="http://bim.im/"]
 movie-blog.org##a[href^="http://bit.ly/"]
 movie-blog.org##a[href^="http://blue.gg/"]
@@ -2057,6 +2064,8 @@ movie-blog.org##a[href^="http://y.ahoo.it/"]
 movie-blog.org##a[href^="http://yi.tl/"]
 movie-blog.org##a[href^="http://zip5.de/"]
 movie-blog.org##a[href^="http://zzb.bz/"]
+movie-blog.org##div[class^="entry"] a[href^="http://movie-blog.org/"]
+movie-blog.org##div[class^="post"] a[href^="http://movie-blog.org/"]
 movie-stream.to##a[href^="http://download.movie-stream.to"]
 movie-stream.to##a[href^="http://www.firstload.com/affiliate/"]
 moviebb.to##.highspeed_button
