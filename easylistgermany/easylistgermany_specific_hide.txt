@@ -1967,6 +1967,12 @@ movie-blog.org###post-636710 + :nth-child(n)
 movie-blog.org###post-636714
 movie-blog.org###post-636714 + * + *
 movie-blog.org###post-636714 + :nth-child(n)
+movie-blog.org###post-637380
+movie-blog.org###post-637380 + * + *
+movie-blog.org###post-637380 + :nth-child(n)
+movie-blog.org###post-637388
+movie-blog.org###post-637388 + * + *
+movie-blog.org###post-637388 + :nth-child(n)
 movie-blog.org##.entry + a
 movie-blog.org##.entry + center > a
 movie-blog.org##.entry + div > a > b
@@ -1980,7 +1986,7 @@ movie-blog.org##.entry > div[style^="border-style:"]
 movie-blog.org##.entry > iframe + * + a
 movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.entry > p[style*="color:"]
-movie-blog.org##.entry a[href^="http://movie-blog.org/2010"]
+movie-blog.org##.entry a[href^="http://www.movie-blog.org/"]
 movie-blog.org##.entry a[href^="http://www.movie-blog.org/2010"]
 movie-blog.org##.entry a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.entry center > a[target="_blank"][href*=".movie-blog.org/"]
@@ -1991,6 +1997,7 @@ movie-blog.org##.post > .entry > center > a[target="_blank"]
 movie-blog.org##.post > center > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.post > center > a[target="_blank"][href*=".movie-blog.org"]
 movie-blog.org##.post > center:last-child > a[target="_blank"]
+movie-blog.org##.post a[href^="http://movie-blog.org/"]
 movie-blog.org##.post a[target="_blank"][href$=".movie-blog.org"]
 movie-blog.org##.post p > a[target="_blank"][href*=".movie-blog.org/"]
 movie-blog.org##.post-ratings + .entry + a[target="_blank"]
