@@ -2331,6 +2331,8 @@ pctipp.ch##a[target="_blank"][href^="http://www.brack.ch/tabid/"]
 pctipp.ch##div[style="position:absolute;left:50%;margin-left:-500px;width:1000px;height:85px;top:6px;"]
 pctipp.ch##form[action^="http://www.hoststar.ch/"]
 pctipp.ch##img[src="/img/wallpaper.gif"]
+pcwelt.de##.col-right > .teaser.ecommerce
+pcwelt.de##.col-right > .teaser.imageteaser.ajax
 pcwelt.de##.ecommerce + .ecommerce
 pcwelt.de##.nortonheader
 pcwelt.de##.sponsored
