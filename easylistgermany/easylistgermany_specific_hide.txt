@@ -1723,6 +1723,9 @@ mov-world.net###uflip
 mov-world.net###usenet_flip
 mov-world.net##a[href^="http://nvpn.net/"]
 movie-blog.org###content > center > a[target="_blank"]
+movie-blog.org###content > div[class] > div[class] > div > div > a[href^="http://movie-blog.org/"]
+movie-blog.org###content > div[class] > div[class] > p > a[href^="http://movie-blog.org/"]
+movie-blog.org###content > div[class] > div[class] > p a[href^="http://movie-blog.org/"]
 movie-blog.org###content > span + center > a[target="_blank"]
 movie-blog.org###layer
 movie-blog.org###post-578597
@@ -1977,12 +1980,6 @@ movie-blog.org###post-637380 + :nth-child(n)
 movie-blog.org###post-637388
 movie-blog.org###post-637388 + * + *
 movie-blog.org###post-637388 + :nth-child(n)
-movie-blog.org###post-637540
-movie-blog.org###post-637540 + * + *
-movie-blog.org###post-637540 + :nth-child(n)
-movie-blog.org###post-637552
-movie-blog.org###post-637552 + * + *
-movie-blog.org###post-637552 + :nth-child(n)
 movie-blog.org##.entry + a
 movie-blog.org##.entry + center > a
 movie-blog.org##.entry + div > a > b
@@ -2001,6 +1998,7 @@ movie-blog.org##.entry a[href^="http://www.movie-blog.org/2010"]
 movie-blog.org##.entry a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.entry center > a[target="_blank"][href*=".movie-blog.org/"]
 movie-blog.org##.hreview-aggregate > a[target="blank"]
+movie-blog.org##.hreview-aggregate > div[class] > div > a[href^="http://movie-blog.org/"]
 movie-blog.org##.post + a
 movie-blog.org##.post + center:last-child > a[target="_blank"]
 movie-blog.org##.post > .entry > center > a[target="_blank"]
@@ -2066,6 +2064,12 @@ movie-blog.org##a[href^="http://zip5.de/"]
 movie-blog.org##a[href^="http://zzb.bz/"]
 movie-blog.org##div[class^="entry"] a[href^="http://movie-blog.org/"]
 movie-blog.org##div[class^="post"] a[href^="http://movie-blog.org/"]
+movie-blog.org##h1[id^="post"][id$="-637540"]
+movie-blog.org##h1[id^="post"][id$="-637540"] + * + *
+movie-blog.org##h1[id^="post"][id$="-637540"] + :nth-child(n)
+movie-blog.org##h1[id^="post"][id$="-637552"]
+movie-blog.org##h1[id^="post"][id$="-637552"] + * + *
+movie-blog.org##h1[id^="post"][id$="-637552"] + :nth-child(n)
 movie-stream.to##a[href^="http://download.movie-stream.to"]
 movie-stream.to##a[href^="http://www.firstload.com/affiliate/"]
 moviebb.to##.highspeed_button
