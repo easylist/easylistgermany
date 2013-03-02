@@ -2063,14 +2063,15 @@ movie-blog.org##a[href^="http://y.ahoo.it/"]
 movie-blog.org##a[href^="http://yi.tl/"]
 movie-blog.org##a[href^="http://zip5.de/"]
 movie-blog.org##a[href^="http://zzb.bz/"]
+movie-blog.org##div[class^="eintrag"] a[href^="http://www.movie-blog.org/"]
 movie-blog.org##div[class^="entry"] a[href^="http://movie-blog.org/"]
 movie-blog.org##div[class^="post"] a[href^="http://movie-blog.org/"]
-movie-blog.org##h1[id^="post"][id$="-637540"]
-movie-blog.org##h1[id^="post"][id$="-637540"] + * + *
-movie-blog.org##h1[id^="post"][id$="-637540"] + :nth-child(n)
-movie-blog.org##h1[id^="post"][id$="-637552"]
-movie-blog.org##h1[id^="post"][id$="-637552"] + * + *
-movie-blog.org##h1[id^="post"][id$="-637552"] + :nth-child(n)
+movie-blog.org##h1[id$="-637540"]
+movie-blog.org##h1[id$="-637540"] + * + *
+movie-blog.org##h1[id$="-637540"] + :nth-child(n)
+movie-blog.org##h1[id$="-637552"]
+movie-blog.org##h1[id$="-637552"] + * + *
+movie-blog.org##h1[id$="-637552"] + :nth-child(n)
 movie-stream.to##a[href^="http://download.movie-stream.to"]
 movie-stream.to##a[href^="http://www.firstload.com/affiliate/"]
 moviebb.to##.highspeed_button
