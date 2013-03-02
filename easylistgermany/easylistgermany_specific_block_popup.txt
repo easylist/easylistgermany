@@ -73,3 +73,4 @@
 ||xxx-blog.to/download_out.php$image,~image,popup
 ||xxx-blog.to/out.php$image,~image,popup
 ||yasni.de/ad_pop.php$image,~image,popup
+||zumlink.de^$image,~image,popup,domain=byte.to
