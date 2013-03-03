@@ -153,8 +153,7 @@
 @@||gmx.net^*/video-adserver-config.xml$object-subrequest
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.com/ads/search/module/ads/*/search.js$domain=suche.t-online.de
-@@||google.com/adsense/search/ads.js$domain=marktplatz.nordclick.de
-@@||google.com/adsense/search/ads.js$domain=suche.t-online.de
+@@||google.com/adsense/search/ads.js$domain=marktplatz.nordclick.de|suche.t-online.de
 @@||google.com/uds/afs?q=*^loader=alt^$document,subdocument,domain=suche.t-online.de
 @@||google.com/uds/api/ads/*/search.in.js$domain=marktplatz.nordclick.de
 @@||google.de/ads/css/ads-base.$stylesheet
