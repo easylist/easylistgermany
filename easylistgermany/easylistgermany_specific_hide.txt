@@ -3430,6 +3430,8 @@ rene-neuweiler.ch##body > noscript > style + div[id]:last-child
 rentatobi.de##body > :nth-child(n) + style + div[id]:last-child
 rentatobi.de##body > noscript > style + div[id]:last-child
 sms-elite.de##body > style + div[id]:nth-child(n+13)
+smsmich.de###softbg
+smsmich.de###softbg + #innerpop
 spacebattle.ath.cx##body > :nth-child(n) + style + div[id]:last-child
 spacebattle.ath.cx##body > noscript > style + div[id]:last-child
 streammafia.com##body > :nth-child(14) + style + div[id]:last-child
