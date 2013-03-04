@@ -1988,6 +1988,7 @@ movie-blog.org###post-637380 + :nth-child(n)
 movie-blog.org###post-637388
 movie-blog.org###post-637388 + * + *
 movie-blog.org###post-637388 + :nth-child(n)
+movie-blog.org##.eintrag2 a[target="_blank"] > b
 movie-blog.org##.eintrag2 b > a[target="_blank"]
 movie-blog.org##.entry + a
 movie-blog.org##.entry + center > a
@@ -2020,6 +2021,7 @@ movie-blog.org##.post p > a[target="_blank"][href*=".movie-blog.org/"]
 movie-blog.org##.post-ratings + .entry + a[target="_blank"]
 movie-blog.org##.ulnet
 movie-blog.org##a[href*="http://ul.to/ref/"]
+movie-blog.org##a[href^="http://0l3.de/"]
 movie-blog.org##a[href^="http://4short.de/"]
 movie-blog.org##a[href^="http://alturl.com/"]
 movie-blog.org##a[href^="http://b23.ru/"]
