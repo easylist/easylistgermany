@@ -2883,7 +2883,7 @@ stylebook.de##.rectangle
 stylebook.de##a[href^="http://style.glossybox.de/?zanpid="]
 stz-online.de##.superbanner
 suche.freenet.de##.frn_kapsel
-suche.t-online.de##div[style^="margin: 0px 0px 10px; padding: "][style*="px; font-size: 1"][style*="px; background: none repeat scroll 0% 0% rgb(245, 249, 253); font-weight: normal; text-align: "]
+suche.t-online.de##div[style^="margin: 0px 0px 10px; padding: "][style*="px; font-size: 1"][style*="px; background: none repeat scroll 0% 0% rgb(245, 249, 253); font-weight: normal; text-align: "][style*="height: "]
 suchen.de###topPPC
 suchen.de##a[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 suchen.de##div[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
