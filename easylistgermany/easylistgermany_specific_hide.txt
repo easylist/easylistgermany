@@ -1989,6 +1989,7 @@ movie-blog.org###post-637380 + :nth-child(n)
 movie-blog.org###post-637388
 movie-blog.org###post-637388 + * + *
 movie-blog.org###post-637388 + :nth-child(n)
+movie-blog.org##.beitrag > div > div > a[href^="http://movie-blog.org/"]
 movie-blog.org##.eintrag2 a[target="_blank"] > b
 movie-blog.org##.eintrag2 b > a[target="_blank"]
 movie-blog.org##.entry + a
@@ -2059,6 +2060,7 @@ movie-blog.org##a[href^="http://sn.im/"]
 movie-blog.org##a[href^="http://snipr.com/"]
 movie-blog.org##a[href^="http://snipurl.com/"]
 movie-blog.org##a[href^="http://step.to/"]
+movie-blog.org##a[href^="http://tini.cc/"]
 movie-blog.org##a[href^="http://tiny.cc/"]
 movie-blog.org##a[href^="http://tiny.tw/"]
 movie-blog.org##a[href^="http://tinyurl.com/"]
@@ -2077,7 +2079,6 @@ movie-blog.org##a[href^="http://y.ahoo.it/"]
 movie-blog.org##a[href^="http://yi.tl/"]
 movie-blog.org##a[href^="http://zip5.de/"]
 movie-blog.org##a[href^="http://zzb.bz/"]
-movie-blog.org##div[class^="eintrag"] a[href^="http://www.movie-blog.org/"]
 movie-blog.org##div[class^="entry"] a[href^="http://movie-blog.org/"]
 movie-blog.org##div[class^="post"] a[href^="http://movie-blog.org/"]
 movie-blog.org##h1[id$="-637540"]
