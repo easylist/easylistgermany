@@ -1671,6 +1671,7 @@
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Anti-Adblock
+/\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/.+\x2\d{1}.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/.+x\d{4,}.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/1.+\x6\d{2,}.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/23.+\/1.+\x7\d{2,}.jpg/$domain=gamestar.de
