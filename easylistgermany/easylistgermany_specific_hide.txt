@@ -2799,6 +2799,7 @@ speedlounge.in##a[href^="/to/"]
 speedlounge.in##a[target="_blank"][href^="/download/"]
 speedshare.org##a[href^="http://www.speedshare.org/ads"]
 spektrumdirekt.de##div[style="height:90px;"]:first-child:last-child
+spiegel.de###spSmallTeaserColumn > .spListboxPicnavi
 spiegel.de##.spCommercial
 spiegelfechter.com##.parship
 spiegelfechter.com##iframe[height="600"][width="160"]
