@@ -1,6 +1,7 @@
 ###Ad_Win2day
 ###Werb_Postbit_Bottom
 ###WerbungObenRechts10_GesamtDIV
+###WerbungObenRechts8_GesamtDIV
 ###WerbungObenRechts9_GesamtDIV
 ###WerbungUntenLinks4_GesamtDIV
 ###WerbungUntenLinks7_GesamtDIV
@@ -68,6 +69,7 @@
 ###werbekasten
 ###werbeleiste
 ###werbetrenner
+###werbung
 ###werbung-left
 ###werbung-skyscraper
 ###werbung125_links
@@ -96,11 +98,13 @@
 ##.Werbung
 ##.WerbungAdpepper
 ##.WerbungDetailRectangle
+##.WerbungLinksRechts
 ##.WerbungMitte
 ##.ad_mitte
 ##.adrechts
 ##.ads_rechts
 ##.adzeiger
+##.anzeigenwerbung
 ##.bannerAnzeige
 ##.bdeFotoGalAd
 ##.bdeFotoGalAdText
@@ -135,12 +139,14 @@
 ##.tab_artikelwerbung
 ##.teaser_adliste
 ##.teaser_werbung
+##.text_werbung
 ##.textad_hauptlink
 ##.topwerbung
 ##.werbeadd_ueber
 ##.werbebanner
 ##.werbeflaeche
 ##.werbekennzeichnerrectangle
+##.werbung
 ##.werbung-250x250
 ##.werbung-bigbox
 ##.werbung-bigsize
