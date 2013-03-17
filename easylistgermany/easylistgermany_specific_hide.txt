@@ -245,7 +245,6 @@ best-movies.to###post-34854
 best-movies.to###votewoz
 best-movies.to##.entry > center > a > img
 best-movies.to##.entry > h1 > a
-best-movies.to##.entry > img + br + h1[style] > a
 best-movies.to##.postbody > a[target="_blank"] > img
 best-movies.to##.postbody > center > a + a > img
 best-movies.to##a[href^="http://alturl.com/"]
@@ -686,7 +685,6 @@ downloadstube.net###links_container + script + a[onclick]
 downloadstube.net###results > div[class]:first-child
 downloadstube.net###results > div[class]:first-child + script + div[class]
 downloadstube.net##.download > a[onclick] > .redcolor
-downloadstube.net##.download > a[onclick]:first-child + br + a[onclick]:last-child
 downloadstube.net##.download > a[onclick]:last-child
 downloadstube.net##.download_hoster
 downloadstube.net##.frame_side
@@ -1055,7 +1053,6 @@ gamestar.de##.adsense
 gamestar.de##.amz
 gamestar.de##.centeredDiv > .homeContReg > .doubleBlkLeft[style="height:270px;padding-top:20px;"]:first-child
 gamestar.de##.centeredDiv > .homeContReg > .doubleBlkRight[style="height:300px;padding:20px 0;"]:last-child
-gamestar.de##.centeredDiv > .homeContReg > .homeContRegCol1 > div[style] > a > img
 gamestar.de##.columnContentTeaser > .gl
 gamestar.de##.dlightboxContainerBody > div[style="color: #5D5D5D; font-size: 18px; margin: 10px 10px 10px 20px; text-align: left;"] + .standardcontent > [type="text/css"] + .articlelb > table
 gamestar.de##.homeContHlCol3[style="width:289px;"] > div[style="padding:20px 0 0 0;"]:last-child
@@ -1747,9 +1744,7 @@ mov-world.net###usenet_flip
 mov-world.net##a[href^="http://nvpn.net/"]
 movie-blog.org###content > center > a[target="_blank"]
 movie-blog.org###content > div[class] > div[class] > div > div > a[href^="http://movie-blog.org/"]
-movie-blog.org###content > div[class] > div[class] > p > a[href^="http://movie-blog.org/"]
 movie-blog.org###content > div[class] > div[class] > p a[href^="http://movie-blog.org/"]
-movie-blog.org###content > span + center > a[target="_blank"]
 movie-blog.org###layer
 movie-blog.org###post-578597
 movie-blog.org###post-578597 + * + *
@@ -2020,21 +2015,18 @@ movie-blog.org##.entry > iframe + * + a
 movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.entry > p[style*="color:"]
 movie-blog.org##.entry a[href^="http://www.movie-blog.org/"]
-movie-blog.org##.entry a[href^="http://www.movie-blog.org/2010"]
 movie-blog.org##.entry a[target="_blank"][href^="http://movie-blog.org/"]
 movie-blog.org##.entry center > a[target="_blank"][href*=".movie-blog.org/"]
 movie-blog.org##.hreview-aggregate > a[target="blank"]
 movie-blog.org##.hreview-aggregate > div[class] > div > a[href^="http://movie-blog.org/"]
 movie-blog.org##.post + a
 movie-blog.org##.post + center:last-child > a[target="_blank"]
-movie-blog.org##.post > .entry > center > a[target="_blank"]
 movie-blog.org##.post > center > a[target="_blank"][href*=".hd-world.org"]
 movie-blog.org##.post > center > a[target="_blank"][href*=".movie-blog.org"]
 movie-blog.org##.post > center:last-child > a[target="_blank"]
 movie-blog.org##.post a[href^="http://movie-blog.org/"]
 movie-blog.org##.post a[target="_blank"][href$=".movie-blog.org"]
 movie-blog.org##.post p > a[target="_blank"][href*=".movie-blog.org/"]
-movie-blog.org##.post-ratings + .entry + a[target="_blank"]
 movie-blog.org##.ulnet
 movie-blog.org##a[href*="http://ul.to/ref/"]
 movie-blog.org##a[href^="http://0l3.de/"]
@@ -2176,7 +2168,6 @@ n-tv.de##.sidebar_block_dark[style="padding-left: 40px; height: 200px;"]
 n-tv.de##.teaser_220_450.clearfix[style="background-color: #02225a; padding: 5px 0 5px 0; margin: -10px 0 10px 0; "]
 n-tv.de##a[href^="http://ad.doubleclick.net/clk"] + * + * + .jq_link
 n-tv.de##a[href^="http://ad.doubleclick.net/clk;"] + *
-n-tv.de##a[href^="http://ad.doubleclick.net/clk;"] + .box
 n-tv.de##div[style="margin: 0 5px; width:290px; height:100px; background-image:url(http://www.n-tv.de/ads/images/rechner/c24-bg.png);"]
 n-tv.de##div[style="width:290px;height:100px;background-image:url(http://www.n-tv.de/ads/images/rechner/c24-bg.png);background-repeat:repeat-x;background-position:bottom;font-family:arial,verdana,sans-serif;margin: 0 5px;"]
 n-tv.de##form[action^="http://www.n-tv.de/ratgeber/vergleichsrechner/"]
@@ -2647,7 +2638,6 @@ sachsen-fernsehen.de##.asidebar
 sachsen-fernsehen.de##a[target="_blank"][href^="http://www.sachsen-fernsehen.de/loadBanner.aspx?id="]
 safeyourlink.com###container > a[target="_blank"] > font[color="ff0000"]
 safeyourlink.com##a[href^="http://www.eads.to/home.php?ref="]
-salzburg.com##.werbung
 salzi.at##body > div[id^="fb_"]
 sat1.ch##a[href^="http://clk.atdmt.com/"]
 sat1.de##.partner_box
