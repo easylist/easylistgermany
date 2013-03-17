@@ -323,6 +323,7 @@
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
 @@||adscale.de/getads.js$domain=plusboard.de
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
+@@||bdv.bidvertiser.com/BidVertiser.dbm?pid=*&bid=$script,subdocument,domain=tv-kino.net
 @@||betreut-wohnen.de/adserver/ad.js
 @@||boardking.de^*/adframe.js
 @@||bs.serving-sys.com/burstingpipe/adserver.bs?$object-subrequest,domain=clipfish.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
