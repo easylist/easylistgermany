@@ -334,6 +334,7 @@
 @@||cdn.flashtalking.com/xre/*/js/j-*.js$domain=teleboerse.de
 @@||cdn.flashtalking.com^$object-subrequest,domain=filmstarts.de
 @@||chat.lycos.de/adimages/$subdocument
+@@||chip.de/cxo_adtech/js/cxo_adtech-*-min.js
 @@||combatarms-game.de/adframe.js
 @@||contaxe.com/go/go.js?atp=bnr&$script,domain=dtk-deutschland.com
 @@||contaxe.com/go/show.js?atp=bnr&$subdocument,domain=dtk-deutschland.com
