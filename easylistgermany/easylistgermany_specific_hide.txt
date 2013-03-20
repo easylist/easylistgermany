@@ -3268,9 +3268,12 @@ wetter.com##.ext_url[onclick^="_gaq.push(['_trackEvent', 'Toolbar_Pets"]
 wetter.com##.localBox
 wetter.com##a[href^="http://exlog.wetter.com/v2/exlog/adclick.php?bannerid="]
 wetter.com##a[onclick^="exlogmask('"][href="javascript:void(0);"]
+wetter.de###lbs-offers-container
 wetter.de###loginboxXDOT
+wetter.de###pageRelated > #pageHalfpage
 wetter.de###page_arranged_quicklink > .pageQuicklinks
 wetter.de###teaser_hotelde_suche
+wetter.de##.halfsizerect + .pageItem
 wetter.de##.pageTeaserbarHorizontal
 wetter.de##.presenter-image
 wetter.de##.xdotRelated
