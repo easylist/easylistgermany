@@ -1063,6 +1063,8 @@ gamestar.de##.dlightboxContainerBody > div[style="color: #5D5D5D; font-size: 18p
 gamestar.de##.homeContHlCol3[style="width:289px;"] > div[style="padding:20px 0 0 0;"]:last-child
 gamestar.de##.homeContReg > .homeContRegCol1 > .elemCont > a > img
 gamestar.de##.homeContReg > .homeContRegCol1 > div[style] > a > img
+gamestar.de##.homeContRegCol3 > .elemCont + .elemCont + .elemCont + .elemCont[style="position:relative;"] + .elemCont + .elemCont > .titleHead + .article
+gamestar.de##.homeContRegCol3 > .elemCont + .elemCont + .elemCont + .elemCont[style="position:relative;"] + .elemCont[style="position: relative;"] > .titleHead + .article
 gamestar.de##.marketbox_brace
 gamestar.de##.sushibar
 gamestar.de##a[href^="http://amzn.to/"]
