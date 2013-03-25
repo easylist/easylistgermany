@@ -80,7 +80,7 @@
 /werbezonen/*
 /werbung-
 /werbung.$third-party
-/werbung.$~image
+/werbung.$~image,~stylesheet
 /werbung.gif
 /werbung/*$third-party
 /Werbung/*_banner_
