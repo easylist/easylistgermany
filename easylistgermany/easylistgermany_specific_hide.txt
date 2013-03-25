@@ -2416,6 +2416,8 @@ pi-news.net##.l_pics > a:not([href*=".pi-news.net/"])
 pi-news.net##a[href$="/werbung.pdf"]
 picdumps.com##.evil_1
 picdumps.com##.pcd_mitte
+pinfy.de###fullsize-background-container
+pinfy.de##.banners
 pixelio.de###banner_right
 pixelio.de###clipdealer
 pixelio.de###contentcontainer > div[align="left"][style="margin-top: 10px; margin-left: 20px"]
