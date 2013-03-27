@@ -366,6 +366,8 @@
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
+@@||gmads.net/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||gmads.net/r?$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||goolive.de^*.js|
 @@||honda-innova-forum.de/styles/$image
 @@||innovid.com/crossdomain.xml$object-subrequest,domain=clipfish.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
