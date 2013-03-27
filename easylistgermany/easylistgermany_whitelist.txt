@@ -316,7 +316,7 @@
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de
-@@||2mdn.net^*_946x620_*.swf?clickTag=$object,domain=n-tv.de
+@@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/crossdomain.xml$object-subrequest,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adform.net/banners/stream/*.mp4$object-subrequest,domain=filmstarts.de
