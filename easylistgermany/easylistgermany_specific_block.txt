@@ -1434,6 +1434,7 @@
 ||stuttgarter-zeitung.de/meinprospekt/
 ||suche.gmx.net/uns/amazon?$xmlhttprequest
 ||suche.t-online.de*^name=amazon^$xmlhttprequest
+||suche.t-online.de^*^name=pageplace^$xmlhttprequest
 ||suche.web.de/uns/amazon?$xmlhttprequest
 ||suedkurier.de^*/textlinktest.php
 ||suedkurier.de^*_omsv.js
