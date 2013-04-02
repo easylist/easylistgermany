@@ -1054,6 +1054,7 @@ gamesaktuell.de##.skyscraper
 gameserveradmin.de##a[href^="./adclick.php?id="]
 gamestar.de###col_left > .fll
 gamestar.de###gamestarsb
+gamestar.de###header + style + div[id]
 gamestar.de###sponsorbar
 gamestar.de##.adsense
 gamestar.de##.amz
