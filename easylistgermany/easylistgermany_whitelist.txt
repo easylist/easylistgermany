@@ -372,8 +372,7 @@
 @@||honda-innova-forum.de/styles/$image
 @@||innovid.com/crossdomain.xml$object-subrequest,domain=clipfish.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||innovid.com^*;cb=$object-subrequest,domain=clipfish.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||istream.ws/adframe.js
-@@||istream.ws/adjs.js
+@@||istream.ws^$script
 @@||kaufn.com/banner/ads/adserver/click/ad.js
 @@||lablue.at^$elemhide,script
 @@||lablue.ch^$elemhide,script
