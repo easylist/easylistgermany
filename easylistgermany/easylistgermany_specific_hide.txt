@@ -3065,6 +3065,9 @@ torrent.to##a[href^="http://tinyurl.com/"]
 torrent.to##a[href^="http://www.firstload.com/?uniq="]
 torrent.to##a[href^="http://www.firstload.net/affiliate/"]
 torrent.to##div[style] > div + div + div + a > img
+totalbash.org###mitte > .menueoben + .beitrag_oben2
+totalbash.org###mitte > .menueoben + .beitrag_oben2 + .beitrag
+totalbash.org###mitte > .menueoben + .beitrag_oben2 + .beitrag + .beitrag_unten
 trackfox.com##body
 trackfox2.com##body
 trailerzone.info##.leaderboard
