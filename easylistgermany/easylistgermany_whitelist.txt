@@ -87,7 +87,6 @@
 @@||cache.kalaydo.de/mmo/logo/advert/$image
 @@||canoo.net/services/wordformationdictionary/gifs/
 @@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
-@@||cdn-static.liverail.com/js/liverail.interstitial-*.js?lr_publisher_id=$script,domain=jam.fm
 @@||cdn.auditude.com/crossdomain.xml$object-subrequest,domain=bravo.de
 @@||chiemsee-reggae.de/gallery/anzeige.php?$subdocument
 @@||cinebee.org/wp-content/plugins/wp-*.js|
@@ -183,6 +182,9 @@
 @@||kurier.at^*/ac_oetags_clone.js
 @@||landwirt.com/commercials/$object-subrequest
 @@||liberale-hochschulgruppen.de/images/stories/werbemittel/$~third-party
+@@||liverail.com/js/LiveRail.AdManager-*.js$domain=jam.fm
+@@||liverail.com/js/liverail.interstitial-*.js?lr_publisher_id=$script,domain=jam.fm
+@@||liverail.com/swf/ui/vpaid-player.swf$object,domain=jam.fm
 @@||liverail.com^*/liverail_preroll.swf$object,domain=jam.fm|paradiso.de
 @@||lovefilm.de/ajax/widgets/advertising/competitions_data.html?$xmlhttprequest
 @@||magenschmerzen.net/wp-content/themes/zeemagazine_adtech/$~third-party
