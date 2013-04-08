@@ -458,6 +458,7 @@ byte.to##input[onclick^="window.open('http://www.byte.to/first/"]
 byte.to##input[onclick^="window.open('http://www.byte.to/firstload/"]
 byte.to##input[onclick^="window.open('http://www.firstload.com/affiliate/"]
 byte.to##input[type="BUTTON"][onclick^="location='http://"][value]
+byte.to##p[style="color: #FFFFFF;"] > a > big
 bz-berlin.de##.sponsorTop
 c1neon.com##.cineadd
 camidos.de##.ebay_hits
@@ -3060,6 +3061,7 @@ top-dsl.com###Layer1
 top-dsl.com###Layer2
 topmodels.de##img[width="120"][height="600"]
 toppreise.ch##a[href^="http://clk.tradedoubler.com/click?"]
+torrent.byte.to##div[align="center"] > .BUTTON[type="SUBMIT"][onclick][value]
 torrent.to###Content + div > div + div + div + a > img
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div + div[class]
