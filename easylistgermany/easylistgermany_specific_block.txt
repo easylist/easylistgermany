@@ -1705,8 +1705,8 @@
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/((?!46x69)\d{2}\w\d{2})\.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/((?!72x104|81x110)\d{2}\w\d{3})\.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/((?!77x)\d{2}\w)\.jpg/$domain=gamestar.de
-/\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/((?!7v224x126|v300x168)\w\d{3}\w\d{3})\.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/((?!b144x81)\w\d{3}\w\d{2})\.jpg/$domain=gamestar.de
+/\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/((?!v224x126|v300x168)\w\d{3}\w\d{3})\.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/((?!x198)\w\d{3})\.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/.+x\d{4,}.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/[a-d].jpg/$domain=gamestar.de
