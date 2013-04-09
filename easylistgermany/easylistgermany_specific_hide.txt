@@ -3418,6 +3418,7 @@ xboxfront.de###leaderboard
 xboxfront.de###shopauszug
 xc.dhv.de##.mainBodyTable2 > tbody > tr > td[style="vertical-align: top; padding-top: 30px; padding-right: 20px; text-align: right;"]:first-child
 xc.dhv.de##td[style="vertical-align: top; padding-top: 30px; padding-right: 20px; text-align: right;"]:first-child + .bodyline[valign="top"][align="left"] + td[style="vertical-align: top; padding-top: 30px; "]:last-child
+xdate.ch##.empfehlung
 xflat24.com##.KEYWORDS
 xink.it##.buttonMirror
 xolopo.de###subnav_partner
