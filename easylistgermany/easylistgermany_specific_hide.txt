@@ -1516,6 +1516,10 @@ kleinreport.ch##.TopBannerContainer
 klicktel.de###mediaBanner
 knuddels.de##.adbg
 knuddels.de##a[href^="http://im.banner.t-online.de/?adlink|"]
+kochbar.de##.isAdVisible + .halfpage
+kochbar.de##.isAdVisible + .halfpage + * + * + * + * + * + * + * + * + * + .T_1er_hoch
+kochbar.de##.isAdVisible + .halfpage + * + * + * + * + * + * + .toprelated
+kochbar.de##.isAdVisible + .halfpage + * + .T_1er_hoch
 kochbar.de##.rectangel
 kochbar.de##.smatch
 kochbar.de##.tTraffic
