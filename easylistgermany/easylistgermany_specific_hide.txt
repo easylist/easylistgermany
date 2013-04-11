@@ -2471,7 +2471,9 @@ playmassive.de##.cad
 playmassive.de##.pnad
 playnation.de##.cad
 playnation.de##.pnad
+playporn.to###simplemodal-login-form + * + * + div[id][style]
 playporn.to##.ad
+playporn.to##a[href^="http://media.campartner.com/"]
 playporn.to##img[height="110"][width="720"]
 plz-postleitzahl.de##td[valign="top"][style="padding-left: 15px;"] > table[width="250"][cellspacing="0"][cellpadding="0"]:first-child
 pnp.de##.em_cnt_ad_hinweis
