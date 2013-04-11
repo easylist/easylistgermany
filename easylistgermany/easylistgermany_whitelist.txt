@@ -418,9 +418,9 @@
 @@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=filmstarts.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||servedby.flashtalking.com/imp/$object-subrequest,domain=filmstarts.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||sevenads.net/layer.php?p=*&u=*&r=$script,domain=uploaded-premium.ru
-@@||slimspots.com/adspace/35.js$domain=lieblingspornos.com
-@@||slimtrade.com/in.php?s=*&t=*&b=*&c=*&tm=*&r=$script,domain=lieblingspornos.com
-@@||slimtrade.com/s1799.js$domain=lieblingspornos.com
+@@||slimspots.com/adspace/*.js$domain=geile-tube.com|lieblingspornos.com
+@@||slimtrade.com/in.php?s=*&t=*&b=*&c=*&tm=*&r=$script,domain=geile-tube.com|lieblingspornos.com
+@@||slimtrade.com/s*.js$domain=geile-tube.com|lieblingspornos.com
 @@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.tv
 @@||smartclip.net/delivery/tag?sid=$object-subrequest,domain=clipfish.de
 @@||sponsorads.de/script.php?s=$script,domain=uploaded-premium.ru
