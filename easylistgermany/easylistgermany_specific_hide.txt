@@ -2647,6 +2647,7 @@ rp-online.de###container > div[style="position:absolute;top:9px;left:9px;"]:firs
 rp-online.de##.rectangle
 rp-online.de##a[target="_blank"][href^="http://ad.zanox.com/ppc/?"]
 rp-online.de##div[style="background:url(http://stat01.rp-online.de/layout/img/icon/leiste.gif) no-repeat;width:786px;"]
+rp-online.de##img[width="786"][height="100"]
 rs-load.blogspot.com##a[href="http://multimedia-load.com"]
 rsd-store.com##button[onclick^="visitPartner("]
 rtf1.de##td[width="83"] + td[align="right"][width="120"]
