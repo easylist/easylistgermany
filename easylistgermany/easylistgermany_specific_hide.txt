@@ -3076,7 +3076,11 @@ telefon-treff.de##tr:first-child:last-child > td[valign="top"]:first-child + td[
 telelino.de##.banner_right
 teltarif.de###LxFloatShop
 teltarif.de##.arial2[style="clear: both; color: #CCCCCC; margin: 9px 13px; border-bottom: #CCCCCC 1px solid;"]
+teltarif.de##.tetable:first-child + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
+teltarif.de##img[width="300"][height="250"]
+teltarif.de##p + .tetable + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
 teltarif.de##table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][style="margin: 0 0 8px 0;"]
+teltarif.de##td[width="300"][valign="top"] > .tetable + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
 terminplanen.de##td[width="160"][valign="top"][align="center"]:last-child > table[width="156"][border="0"]
 tes-5-skyrim.de##.addleft
 testedich.de###top
