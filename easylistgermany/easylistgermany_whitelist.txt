@@ -351,7 +351,7 @@
 @@||dokumente-online.com^*/adframe.js
 @@||doubleclick.net/ad/clipfish.smartclip/$object-subrequest,domain=clipfish.de
 @@||doubleclick.net/ad/pushbackde.smartclip/clipfish.smartclip/$object-subrequest,domain=clipfish.de
-@@||doubleclick.net/adj/P4444.om.myspass.de_de/?_=$script
+@@||doubleclick.net^*.myspass.de_de/?_=$script,domain=myspass.de
 @@||doubleclick.net^*/RP_Sat1/other;dcmt=*;showroom=abp;$domain=prosieben.at|prosieben.ch|prosieben.de|sat1.at|sat1.ch|sat1.de|the-voice-of-germany.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=120x600^$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=468x61^$script,domain=n-tv.de|teleboerse.de
