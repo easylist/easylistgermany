@@ -1728,6 +1728,7 @@
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/[a-z]\d{2}[a-z]\d{2}\.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/[a-z]{1,}\.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/[a-z]{2,}\d{1,}\.jpg/$domain=gamestar.de
+/\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/\d\w\.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/\d{1,}[^x]+\d{1,}\.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/\d{1,}\.jpg/$domain=gamestar.de
 /\:\/\/images\.gamestar\.de\/images\/idgwpgsgp\/bdb\/.+\/\d{1}x\d{1}\.jpg/$domain=gamestar.de
