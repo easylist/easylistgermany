@@ -209,7 +209,7 @@
 @@||nuggad.net/bk?nuggn=$object-subrequest,domain=clipfish.de|edge.download.newmedia.nacamar.net
 @@||nuggad.net/bk?nuggn=$script,domain=podcast.de
 @@||nuggad.net/crossdomain.xml$object-subrequest,domain=gameone.de
-@@||nuggad.net/rc?nuggn=$script,domain=areagames.de|brokencomedy.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|sky.de|studis-online.de|vox.de
+@@||nuggad.net/rc?nuggn=$script,domain=areagames.de|brokencomedy.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|sky.de|studis-online.de|teleboerse.de|vox.de
 @@||openx.musotalk.de/crossdomain.xml
 @@||openx.musotalk.de/www/delivery/fc.php?script=bannertypehtml:vastinlinebannertypehtml:vastinlinehtml&$object-subrequest
 @@||orange.at/content.node/flash/$object-subrequest
@@ -313,9 +313,9 @@
 @@||zanox-affiliate.de/ppv/?$image,domain=14-tage-wettervorhersage.de
 ! Anti-Adblock
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
-@@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de
-@@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de
-@@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de
+@@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
+@@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
+@@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
 @@||ad4.liverail.com/?LR_PUBLISHER_ID=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ad4.liverail.com/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
