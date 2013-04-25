@@ -20,11 +20,9 @@
 @@||adap.tv/redir/client/swfloader.swf?id=swfloader$object,domain=lycos.de
 @@||adap.tv/redir/javascript/vpaid.js$domain=lycos.de
 @@||adcell.de/click.php?bid=$subdocument,domain=mein-rabatt.com
-@@||adclient.uimserv.net^$script,domain=millionenklick.web.de
 @@||adcounter.darmstaedter-echo.de^$~third-party
 @@||adfarm1.adition.com/banner?sid=$script,domain=jam.fm
 @@||adfarm1.adition.com/js?wp_id=$script,domain=jam.fm
-@@||adimg.uimserv.net^$image,object,script,domain=millionenklick.web.de
 @@||adindex.de^*^gutschein_$subdocument,domain=gutscheindoktor.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
@@ -172,7 +170,6 @@
 @@||i.computer-bild.de/imgs/$image,domain=computerbild.de
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
 @@||idowa.de^*/advertisement/$xmlhttprequest
-@@||img.ui-portal.de/uim/*/Promo/$image,domain=millionenklick.web.de
 @@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||inskinmedia.com^*/generic.js$domain=clipfish.de
@@ -248,7 +245,6 @@
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
 @@||save.tv/stv/img/global/trailer20sec.swf?
-@@||secure.img-cdn.mediaplex.com^*_300x250.gif$domain=millionenklick.web.de
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
 @@||serving-sys.com/BurstingCachedScripts/*/ebStdBanner.js$domain=cnet.de
 @@||serving-sys.com/BurstingCachedScripts/ebBanner_$script,domain=cnet.de
