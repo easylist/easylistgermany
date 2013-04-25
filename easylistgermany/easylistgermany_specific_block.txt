@@ -67,6 +67,8 @@
 ||allfacebook.de/wp-content/uploads/*/bookme.jpg
 ||altesrad.net/phpBB3/images/banner/
 ||amadeal.de/pics/240.gif
+||amateur-blog.org^*.php|$script
+||amateur-blog.org^*/rotator.php
 ||amazon.de/aan/$subdocument
 ||amerika-forum.de^*/ebay_logo.gif
 ||androidpit.de/swf/app-seller.swf?xmlpath=$object
