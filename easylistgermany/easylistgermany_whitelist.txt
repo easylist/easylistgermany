@@ -25,6 +25,7 @@
 @@||adfarm1.adition.com/banner?sid=$script,domain=jam.fm
 @@||adfarm1.adition.com/js?wp_id=$script,domain=jam.fm
 @@||adimg.uimserv.net^$image,object,script,domain=millionenklick.web.de
+@@||adindex.de^*^gutschein_$subdocument,domain=gutscheindoktor.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
