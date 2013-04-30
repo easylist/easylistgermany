@@ -385,6 +385,7 @@ bodybuilding-forum.at###post99999999999
 boerse-online.de###ivwimg
 boerse-online.de##.rsmodulanzeige
 boerse.bz##.forumdisplay-topborder[width="100%"][colspan="3"] > div[align="center"] > a[target="_blank"] > img
+boerse.bz##.tborder[width="100%"][cellspacing="1"][cellpadding="6"][border="0"][align="center"] > tbody > tr > .alt1 > div > div[align="center"][style="width:770px;margin:auto;"]
 boerse.bz##a[href^="https://www.hide.io/?"] > img
 boerse.bz##body > :nth-child(n+12) + div[class][style]
 boerse.bz##body > :nth-child(n+12) + div[id][style]
