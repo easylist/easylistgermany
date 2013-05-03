@@ -2106,6 +2106,7 @@ movie-blog.org##.post a[target="_blank"][href$=".movie-blog.org"]
 movie-blog.org##.post p > a[target="_blank"][href*=".movie-blog.org/"]
 movie-blog.org##.ulnet
 movie-blog.org##a[href*="http://ul.to/ref/"]
+movie-blog.org##a[href="http://movie-blog.org/2007"]
 movie-blog.org##a[href^="http://0l3.de/"]
 movie-blog.org##a[href^="http://4short.de/"]
 movie-blog.org##a[href^="http://alturl.com/"]
