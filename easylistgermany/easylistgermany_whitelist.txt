@@ -356,12 +356,13 @@
 @@||dokumente-online.com^*/adframe.js
 @@||doubleclick.net/ad/clipfish.smartclip/$object-subrequest,domain=clipfish.de
 @@||doubleclick.net/ad/pushbackde.smartclip/clipfish.smartclip/$object-subrequest,domain=clipfish.de
-@@||doubleclick.net^*.myspass.de_de/?_=$script,domain=myspass.de
+@@||doubleclick.net^*.myspass_video.de_de/si_video;formt=*;subfm=*;tile=*;sz=*;pos=$object-subrequest,domain=myspass.de
 @@||doubleclick.net^*/RP_Sat1/other;dcmt=*;showroom=abp;$domain=prosieben.at|prosieben.ch|prosieben.de|sat1.at|sat1.ch|sat1.de|the-voice-of-germany.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=120x600^$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=468x61^$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=600x500^$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net^*;sz=1x1;$script,domain=n-tv.de|teleboerse.de
+@@||doubleclick.net^*?_=$script,domain=myspass.de
 @@||ebook-hell.to/js/ads.js
 @@||einrichtungsbeispiele.de^*/click.js
 @@||fastshare.org/advertisement.js
@@ -373,6 +374,7 @@
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
 @@||gmads.net/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||gmads.net/r?$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||google.com/doubleclick/|$script,domain=myspass.de
 @@||goolive.de^*.js|
 @@||honda-innova-forum.de/styles/$image
 @@||innovid.com/crossdomain.xml$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
