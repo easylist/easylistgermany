@@ -447,7 +447,6 @@ byte.to##a[href^="http://b1t.it/"]
 byte.to##a[href^="http://bit.ly/"]
 byte.to##a[href^="http://tinyurl.com/"]
 byte.to##a[href^="http://torrent.byte.to/first/"]
-byte.to##a[href^="http://www.firstload.com/affiliate/"]
 byte.to##a[href^="http://www.globalvpn.net"]
 byte.to##form[target="id__"]
 byte.to##input[onclick^="location='http://3wl.li/"]
@@ -696,7 +695,6 @@ dokujunkies.org##a[href^="http://cloudzer.net/ref/"]
 dokujunkies.org##a[href^="http://is.gd/"]
 dokujunkies.org##a[href^="http://mirror."]
 dokujunkies.org##a[href^="http://tinyurl.com"]
-dokujunkies.org##a[href^="http://www.firstload.com/affiliate/"]
 dokujunkies.org##div[style="background-image: url(\"http://justpic.info/images2/3f05/prj_bg.jpg\"); width: 679px; height: 149px; margin-top: 25px;"]
 dokus.to##.prc
 donaukurier.de###superbanner
@@ -1244,7 +1242,6 @@ gwarez.cc##.whitelink
 gwarez.cc##a[href^="/mirror/1/"]
 gwarez.cc##a[href^="/mirror/5/"]
 gwarez.cc##a[href^="http://netload.in/index.php?refer_id="]
-gwarez.cc##a[href^="http://www.firstload.com/affiliate/"]
 halle.de###skyscraper
 hamm.biz##.banner
 hamm.biz##.content > div[style="position:relative; top:-13px; float:right; margin-left:15px; font-size:10px; text-align:right;"]
@@ -1373,7 +1370,6 @@ hoerbuch.in##.eintrag_dowload0_link
 hoerbuch.in##.eintrag_download0
 hoerbuch.in##.eintrag_download0_link
 hoerbuch.in##a[href^="http://www.bluray-deals.com"]
-hoerbuch.in##a[href^="http://www.firstload.com/affiliate/"]
 hoerbuch.in##a[href^="https://www.share-online.biz/affiliate/"]
 hoerbuch.in##a[target="_blank"][href^="http://megacache.net/free"]
 hoerbuch.in##form[action^="http://www.firstload.de/affiliate/"]
@@ -1621,7 +1617,6 @@ lesen.to##.clicky_log_outbound[style="color: rgb(255, 51, 0);  title="]
 lesen.to##.eintrag_dowload0_link
 lesen.to##.eintrag_download0
 lesen.to##a[href^="http://www.bluray-deals.com"]
-lesen.to##a[href^="http://www.firstload.com/affiliate/"]
 lesen.to##a[href^="https://www.share-online.biz/affiliate/"]
 lesen.to##a[target="_blank"][href^="http://megacache.net/free"]
 lesen.to##form[action^="http://www.firstload.de/affiliate/"]
@@ -2181,13 +2176,11 @@ movie-blog.org##h1[id$="-637552"]
 movie-blog.org##h1[id$="-637552"] + * + *
 movie-blog.org##h1[id$="-637552"] + :nth-child(n)
 movie-stream.to##a[href^="http://download.movie-stream.to"]
-movie-stream.to##a[href^="http://www.firstload.com/affiliate/"]
 moviebb.to##.highspeed_button
 moviebox.to##.post > .cover > center > a[target="_blank"]
 moviebox.to##a[href="http://moviebox.to/download/?"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
 moviebox.to##a[href^="http://mirror.moviebox.to"]
-moviebox.to##a[href^="http://www.firstload.com/affiliate/"]
 moviebox.to##a[href^="http://www2.filedroid.net/AF_"]
 moviejones.de##.anzeige
 moviekk.net##a[href^="http://tinyurl.com/"]
@@ -2836,7 +2829,6 @@ serienjunkies.org##a[href^="http://alternads.info/"]
 serienjunkies.org##a[href^="http://download.serienjunkies.org/md-"]
 serienjunkies.org##a[href^="http://is.gd/"]
 serienjunkies.org##a[href^="http://mein-deal.com/"]
-serienjunkies.org##a[href^="http://www.firstload.com/affiliate/"]
 serienjunkies.org##a[href^="http://www.lumovies.com/"]
 serienjunkies.org##form[action="http://mirror.serienjunkies.org"]
 serienjunkies.org##form[action^="http://www.firstload.com/affiliate/"]
@@ -3181,7 +3173,6 @@ tutorials.de##.above_body > #header + #navbar + table:last-child
 tv-kino.net##a[href^="http://www.TwinPlan.com/AF_"]
 tv-kino.net##a[href^="http://www.twinplan.com/AF_"]
 tv-stream.to###layer_1
-tv-stream.to##a[href^="http://www.firstload.com/affiliate/"]
 tv-stream.to##body > :nth-child(9) + div[id][style]
 tv-stream.to##script[src^="/"] + div > div[id][style]
 tvheute.at###sky
