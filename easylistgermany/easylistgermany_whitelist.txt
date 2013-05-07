@@ -321,6 +321,7 @@
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
 @@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
+@@||ad.movad.net/crossdomain.xml$object-subrequest,domain=myspass.de
 @@||ad4.liverail.com/?LR_PUBLISHER_ID=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ad4.liverail.com/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -330,7 +331,9 @@
 @@||adform.net/serving/videoad/?$object-subrequest,domain=filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
 @@||ads.heias.com/x/heias.smartclip/?*.smartclip?_=$domain=myspass.de
+@@||adscale.de/crossdomain.xml$object-subrequest,domain=myspass.de
 @@||adscale.de/getads.js$domain=plusboard.de
+@@||adscale.de/vah?sid=$object-subrequest,domain=myspass.de
 @@||adspaces.ero-advertising.com/adspace/214418.js$domain=berlin-nutten.com
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
 @@||betreut-wohnen.de/adserver/ad.js
@@ -392,6 +395,7 @@
 @@||luckytalk.de/styles/$image
 @@||mirror-archiv.com/banner/ads/adserver/click/ad.js
 @@||mirror-otr.de^*/adframe.js
+@@||movad.net/stream.ad?a=$object-subrequest,domain=myspass.de
 @@||moviejones.de/jscripts/adcode.js
 @@||musicelster.net/adframe.js
 @@||my-entertainment.biz^$script
