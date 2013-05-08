@@ -401,7 +401,7 @@
 @@||my-entertainment.biz^$script
 @@||myentertainment.$script,third-party
 @@||mypolonia.de^*/adframe.js
-@@||myvideo.de^*/ad.js
+@@||myvideo.*/ad.js
 @@||n-roms.de/adframe.js
 @@||n-tv.de/ads/bmw/bmw_tv.js$domain=teleboerse.de
 @@||news-reader.info^$image,script,domain=news.feed-reader.net
