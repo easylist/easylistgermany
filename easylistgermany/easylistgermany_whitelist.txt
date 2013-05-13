@@ -435,6 +435,7 @@
 @@||smartclip.net/delivery/tag?sid=$object-subrequest,domain=clipfish.de
 @@||smartclip.net/delivery/tag?sid=$script,domain=myspass.de
 @@||sudoku-space.de^$script
+@@||sueddeutsche.com^*/show_ads.js$domain=sueddeutsche.de
 @@||super-otr.de/inc/js/phpads/sponsorad.js
 @@||tape.tv/js/adblockdetection.js
 @@||telemetryverification.net/?*;cb=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de

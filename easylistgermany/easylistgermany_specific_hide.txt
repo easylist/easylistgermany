@@ -3595,7 +3595,7 @@ spacebattle.ath.cx##body > :nth-child(n) + style + div[id]:last-child
 spacebattle.ath.cx##body > noscript > style + div[id]:last-child
 spiegel.de###spWrapper > .spClearfix
 streammafia.com##body > :nth-child(14) + style + div[id]:last-child
-sueddeutsche.de##.homepage > div:first-child > div:first-child:last-child
+sueddeutsche.de##body > div:first-child > div:first-child:last-child
 super-otr.de##body > style[id] + div[id]:nth-child(n+13)
 super-otr.de##div[style*="background-color: rgb(0, 0, 0);"]
 super-otr.de##div[style*="background-color: rgb(145, 145, 145);"]
