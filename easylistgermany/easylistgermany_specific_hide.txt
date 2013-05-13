@@ -3584,6 +3584,7 @@ rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
 rene-neuweiler.ch##body > noscript > style + div[id]:last-child
 rentatobi.de##body > :nth-child(n) + style + div[id]:last-child
 rentatobi.de##body > noscript > style + div[id]:last-child
+rp-online.de###banneroben
 sms-elite.de##body > style + div[id]:nth-child(n+13)
 smsmich.de###softbg
 smsmich.de###softbg + #innerpop
