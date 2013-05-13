@@ -3561,7 +3561,7 @@ dug-portal.com###dp_layer
 faz.net##.FAZPageWrapper > #TOPNoAd
 foren4all.de###t47b
 g-stream.in##[id^="i180"]
-golem.de##div[style="background: black; margin: 20px 0 20px 20px; padding: 20px; border-radius: 10px; color: white; font-size: 20px; line-height: 24px;"]
+golem.de##div[style^="background: black; margin: 20px 0 20px 20px; padding: 20px;"]
 hardwareluxx.de###leaderboard
 hardwareluxx.de###sky
 ingame.de##.layer
