@@ -3607,7 +3607,7 @@ uploaded-premium.ru##div[id$="_layer"]
 winfuture.de###container > div[style] > img[onclick$="();"]:first-child:last-child
 winfuture.de###container > div[style] img[border="0"]
 winfuture.de###container > div[style] img[style][onclick$="();"]
-winfuture.de##div[style]:first-child:last-child > em > em > span > img
+winfuture.de##div[style]:first-child:last-child img[src^="http://i.wfcdn.de/4/"]
 wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
 zeit.de##div[style="border:8px solid #900;padding: 20px;font-family:Georgia, serif;font-size: 24px;line-height:1.4;margin-bottom:20px;"]
