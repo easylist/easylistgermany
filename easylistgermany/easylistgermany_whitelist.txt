@@ -435,6 +435,7 @@
 @@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.tv
 @@||smartclip.net/delivery/tag?sid=$object-subrequest,domain=clipfish.de
 @@||smartclip.net/delivery/tag?sid=$script,domain=myspass.de
+@@||spiegel.de^*/bannerad/$xmlhttprequest
 @@||sudoku-space.de^$script
 @@||sueddeutsche.com^*/show_ads.js$domain=sueddeutsche.de
 @@||super-otr.de/inc/js/phpads/sponsorad.js
