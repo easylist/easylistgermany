@@ -3558,7 +3558,7 @@ battleround.ath.cx##body > noscript > style + div[id]:last-child
 doclaurence-sector.de###cb49f5
 doclaurence-sector.de###cb49f5 + div
 dug-portal.com###dp_layer
-faz.net##.FAZPageWrapper > #TOPNoAd
+faz.net##.FAZPageWrapper > [id][style]:first-child
 foren4all.de###t47b
 g-stream.in##[id^="i180"]
 golem.de###screen > div[style*="background-color: "]
