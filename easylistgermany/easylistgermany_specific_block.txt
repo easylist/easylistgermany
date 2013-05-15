@@ -1442,6 +1442,7 @@
 ||sprachnudel.de^*/?$xmlhttprequest
 ||sprachnudel.de^*/overture/$xmlhttprequest
 ||sprachnudel.de^*?*^q=$xmlhttprequest
+||sprachnudel.de^*_/*&*=$xmlhttprequest
 ||spreadnews.de/banner/
 ||spreeblick.com^*/intro_banner.png
 ||spreeblick.com^*/thomann_banner_2.jpg
