@@ -1270,6 +1270,7 @@
 ||quoka.de/services/get_json.js?*=$xmlhttprequest
 ||quoka.de^*-|$script
 ||r3view.de/images/banners/
+||radio-siam.de/banner/
 ||radio.de/banners/$~object-subrequest
 ||radio32.ch/pages/dyn/*/header.cfm|$subdocument
 ||radio32.ch^*/banner/
