@@ -376,9 +376,6 @@
 @@||ebook-hell.to/js/ads.js
 @@||einrichtungsbeispiele.de^*/click.js
 @@||fastshare.org/advertisement.js
-@@||faz.net/f6/ad/faz/$script
-@@||faz.net/f6/ad/iq/ad_support.min.js
-@@||faz.net/f6/ad/iq/track_prod_ada.js
 @@||feed-reader.net^$elemhide,image,script
 @@||flashtalking.com/imp/*;BMWTVTeaser220x180/?click=$script,domain=teleboerse.de
 @@||forum-fuer-senioren.de^*/ad.js
@@ -417,7 +414,6 @@
 @@||nuggad.net/bk?*&nuggtg=de_putpattv_music&$object-subrequest,domain=putpat.tv
 @@||nuggad.net/bk?nuggn=*.smartclip?_=$domain=myspass.de
 @@||nuggad.net/crossdomain.xml$object-subrequest,domain=putpat.tv
-@@||nuggad.net/rc?nuggn=$script,domain=golem.de
 @@||onlinetvrecorder.com/adcodes/?$subdocument
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
@@ -441,9 +437,7 @@
 @@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.tv
 @@||smartclip.net/delivery/tag?sid=$object-subrequest,domain=clipfish.de
 @@||smartclip.net/delivery/tag?sid=$script,domain=myspass.de
-@@||spiegel.de^*/bannerad/$xmlhttprequest
 @@||sudoku-space.de^$script
-@@||sueddeutsche.com^*/show_ads.js$domain=sueddeutsche.de
 @@||super-otr.de/inc/js/phpads/sponsorad.js
 @@||tape.tv/js/adblockdetection.js
 @@||telemetryverification.net/?*;cb=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de

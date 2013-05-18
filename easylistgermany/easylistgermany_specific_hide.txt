@@ -3576,12 +3576,7 @@ doclaurence-sector.de###cb49f5
 doclaurence-sector.de###cb49f5 + div
 dug-portal.com###dp_layer
 foren4all.de###t47b
-forum.spiegel.de###spWrapper > div[style]:first-child
 g-stream.in##[id^="i180"]
-golem.de###screen > div[style*="background-color: "]
-golem.de###screen > div[style*="background: "]
-golem.de##div[style="margin: 20px 0 20px 20px; padding: 20px; line-height: 24px; border-radius: 10px; color: white; font-size: 20px; background: #000;"]
-golem.de##div[style^="background: black; margin: 20px 0 20px 20px; padding: 20px;"]
 hardwareluxx.de###leaderboard
 hardwareluxx.de###sky
 ingame.de##.layer
@@ -3610,9 +3605,7 @@ smsmich.de###softbg
 smsmich.de###softbg + #innerpop
 spacebattle.ath.cx##body > :nth-child(n) + style + div[id]:last-child
 spacebattle.ath.cx##body > noscript > style + div[id]:last-child
-spiegel.de###spWrapper > .spClearfix
 streammafia.com##body > :nth-child(14) + style + div[id]:last-child
-sueddeutsche.de##body > div:first-child > div:first-child:last-child
 super-otr.de##body > style[id] + div[id]:nth-child(n+13)
 super-otr.de##div[style*="background-color: rgb(0, 0, 0);"]
 super-otr.de##div[style*="background-color: rgb(145, 145, 145);"]
@@ -3627,4 +3620,3 @@ winfuture.de###container > div[style] img[style][onclick$="();"]
 winfuture.de##div[style]:first-child:last-child img[src^="http://i.wfcdn.de/4/"]
 wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
-zeit.de###header > div[id][style]:first-child
