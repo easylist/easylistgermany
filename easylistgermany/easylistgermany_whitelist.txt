@@ -121,6 +121,7 @@
 @@||doubleclick.net^*/nacamar.de.smartclip/*;ord=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||doubleclick.net^*/podcast.de.smartclip/*;sz=400x320;$script,domain=podcast.de
 @@||drei.at/moma/adserver/adview.php?$image
+@@||efiliale.de/efiliale/pop/js/pop.js
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object-subrequest,domain=mobile.de
 @@||enjoykitz.tv/werbung.txt$object-subrequest
 @@||expertklein.de/xml/banner.php?id=$object-subrequest
