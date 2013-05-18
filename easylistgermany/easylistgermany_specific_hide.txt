@@ -154,8 +154,6 @@ androidpit.de##div[style="float:left; width:1200px; height:100px; position:relat
 angesagter.de##a[href^="out.php?bid="]
 anime-stream24.com###ad1
 anime-stream24.com###layer
-aniweather.com##.divBottomNotice
-aniweather.com##.divCenterNotice
 annos.de###banner-top
 anonstream.com###advertisiment
 anonym.to##a[href^="http://partners.affiliace.com/"]
@@ -342,7 +340,6 @@ bild.de##a[onclick^="wt_send_timeparams('ce1=/sky/"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/spotify/"]
 bild.de##a[onclick^="wt_send_timeparams('ce1=/videobuster/"]
 bild.de##div[id^="content_stoerer_"]
-bildblog.de##.reklam
 bildschirmarbeiter.com###col3_content > .sidebox:first-child
 bildschirmarbeiter.com##.searchContainer + a + .sidebox
 bildschirmarbeiter.com##a[href^="http://www.bildschirmarbeiter.com/alink_"]
@@ -616,7 +613,6 @@ ddlporn.org###vote_9load
 ddlporn.org##a[href^="http://www.raenox.com/vote/"]
 ddlporn.org##input[value="Highspeed Mirror"]
 de.de##.leaderboard
-de.djtunes.com##.superskybanner
 de.msn.com###TOnlineMagazin
 de.msn.com###anzeigen
 de.msn.com###ciao
@@ -827,7 +823,6 @@ eisenbahn-kurier.de###banner
 eiskaltmacher.de###banners
 electronicscout24.de###google1
 electronicscout24.de###google2
-electronicscout24.de##.google_add
 elektrischer-reporter.de###banner
 elhabib.com###sitepromo
 eliteanimes.com###wleft
@@ -1061,7 +1056,6 @@ gamefront.de##table[width="950"][bgcolor][align="center"]
 gamefront.de##table[width="950"][cellspacing="1"][cellpadding="0"][border="0"][bgcolor="#ffffff"][align="left"]
 gamehammer.de##a[href^="banner_click.php?advert_id="]
 gameloads.org##a[href^="http://goo.gl/"]
-gameone.de###top_add
 gameone.de##.q_teaser_wrapper
 gameone.de##.skyscraper_wrapper
 gamepro.de##.centeredDiv > .border > .homeContReg > .doubleBlkLeft[style="height:270px;padding-top:20px;"]:first-child
@@ -1757,7 +1751,6 @@ meintomtom.de##div[style="height:600px;padding:6px 0 6px 0;border: 1px solid #b4
 meintomtom.de##div[style="width: 728px; height:108px;padding: 0 11px 0 11px;border:solid #b4c39a;border-width: 0 0 1px 0;margin: 0;background:url(/grafx/meintomtom/back_adblock.gif) no-repeat center;"]
 meintomtom.de##div[style="width:160px;height:100px;padding:6px;margin:0 0 18px 0;border: solid #b4c39a;background:#f9fcf1 none;border-width: 1px;"]
 meproxsoft.de###banner
-meproxsoft.de##.widget_advwidget
 messerforum.net###ad_global_below_navbar
 metacrawler.de##a[href^="http://performance-netzwerk.de"]
 metager.de##a[href*=".overture.com/"][href$="?plmg=1"]
@@ -2255,7 +2248,6 @@ mz-web.de###kalaydo
 mz-web.de##.rectangle_anzeige
 n-mag.de##.advs
 n-roms.de###Tabelle2[width="129"][cellspacing="3"][cellpadding="1"][border="1"]
-n-tv.de###banner_spacer
 n-tv.de###premio_rectangle
 n-tv.de###sky
 n-tv.de###wrapper_content > div[style="height: 120px;"]:first-child
@@ -2274,7 +2266,6 @@ n-tv.de##form[onsubmit="return c24_track_strom(this)"]
 n-tvnow.de##.slidebox > .height200
 nachbarn.cc###TB_load[style="display: block;"]
 nachbarn.cc###TB_overlay
-nachrichten.at###OAS_Top
 nailfreaks.com###bottomBanner
 namibia-forum.ch###abakus
 nanu.de###superBanner
@@ -2657,7 +2648,6 @@ readmore.de##.ofhidden > div[style="width:520px; height:50px;"]
 readmore.de##a[href^="http://www4.smartadserver.com/"]
 readmore.de##div[style="height:193px;position:relative;margin-bottom: 10px;"]
 readmore.de##div[style="width:520px; height:120px;"] > div[style="width:202px; height:88px;float:right;text-align:right;margin:5px 5px 0 0;"]
-recentr.com##.ad-1
 regensburg-digital.de##.seitenanzeige
 reimemaschine.de##.rechts_neu > table[border="0"][align="center"][width="150"]:first-child:last-child
 reitforum.de##.ebayitems
@@ -2931,7 +2921,6 @@ spiegelfechter.com##iframe[src="http://spiegelfechter.com/wordpress/gads.html"]
 spielaffe.de###adv_skyscraper_pos
 spielaffe.de###game_background_content
 spielaffe.de###game_instruction_container
-spielaffe.de##.game__adv_containerLeaderboard
 spielaffe.de##.game__bottomInfoRightContainer
 spielaffe.de##.search_adv_container
 spielaffe.de##.start_overview_adv_container
@@ -3118,7 +3107,6 @@ teckbote.de###container_banner_wallpaper
 teckbote.de##.sebo_rectangle
 teen-blog.us##.voteLayer
 teen-blog.us##img[height="60"][width="468"]
-teleboerse.de###banner_spacer
 telefon-treff.de##tr:first-child:last-child > td[valign="top"]:first-child + td[width="160"][valign="top"]:last-child
 telelino.de##.banner_right
 teltarif.de###LxFloatShop
@@ -3405,7 +3393,6 @@ wetter.net###content_anzeige
 wetterbote.de##table[width="738"][height="90"]
 wetterkontor.de###banner_470
 wetteronline.de###topcontainer
-wetteronline.de##.adplace
 wettforum.info##div[style="position: fixed; width: 748px; height: 93px; left: 200px; top: 0px; text-align: left; z-index: 2; background-image: url(http://www.wettforum.info/styles/frame.png); background-position: center; background-repeat: no-repeat;"]
 wettforum.info##table[width="100%"][cellspacing="0"][cellpadding="0"] > tbody:first-child:last-child > tr:first-child + tr > td[width="140"][valign="top"]:first-child
 wettforum.info##table[width="100%"][cellspacing="0"][cellpadding="0"] > tbody:first-child:last-child > tr:first-child > td[align="center"][colspan="2"]:first-child:last-child
@@ -3462,7 +3449,6 @@ wohnmobilforum.de##tr:first-child:last-child > td[align="left"][valign="top"]:fi
 wohnmobilforum.de##tr:first-child:last-child > td[align="left"][width="120"][valign="top"]:first-child
 wonnemar.de###box-banner
 woom.ws##a[href^="http://www2.filedroid.net/AF_"]
-wootly.com##.frame_adv
 world-of-hentai.to###ad_global_below_navbar
 worldofminecraft.eu##.ads
 wortfilter.de##.kuriosbox
