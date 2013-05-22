@@ -451,5 +451,6 @@
 @@||uploaded-premium.ru/advertisement.js
 @@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||view.binlayer.com/ad-*.js$script,domain=super-otr.de
+@@||websc.org/script.php?s=234|$script,domain=uploaded-premium.ru
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
 @@||zattoo.com/ads/cs?$xmlhttprequest
