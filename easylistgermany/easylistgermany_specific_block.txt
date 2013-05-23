@@ -1442,6 +1442,7 @@
 ||sprachnudel.de^*/*.*=&$xmlhttprequest
 ||sprachnudel.de^*/?$xmlhttprequest
 ||sprachnudel.de^*/overture/$xmlhttprequest
+||sprachnudel.de^*=|$xmlhttprequest
 ||sprachnudel.de^*?*^q=$xmlhttprequest
 ||sprachnudel.de^*_/*&*=$xmlhttprequest
 ||spreadnews.de/banner/
