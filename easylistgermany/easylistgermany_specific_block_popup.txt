@@ -39,6 +39,7 @@
 ||hifi-forum.de/forum/banner/$image,~image,popup
 ||hoerbuch.in/enterpopup.php$image,~image,popup
 ||jokermovie.org/out.php$image,~image,popup
+||ligatus.com^$popup,domain=n-tv.de
 ||lovoo.net^$image,~image,popup,domain=smsform.de
 ||luschtiges.blogspot.de^$image,~image,popup,domain=ragecomic.com
 ||mafia.to/exit.cfm$image,~image,popup
