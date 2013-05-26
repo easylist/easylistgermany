@@ -2347,15 +2347,6 @@ notebookjournal.de##.content > div[style="width:50%;height:260px;float:left;"]
 notebooksbilliger.de##.banner_left
 notebooksbilliger.de##.banner_right
 np-coburg.de##.superbanner
-npage.at,npage.ch,npage.de##div[style^="background-image:  url('http://file1.npage.de/"] > script + script + script + [id][style]
-npage.at,npage.ch,npage.de##link[href="/style.css"] + * + * + * + [id][style]
-npage.at,npage.ch,npage.de##link[href="/style.css"] + * + * + [id][style]
-npage.at,npage.ch,npage.de##link[href="/style.css"] + * + [id][style]
-npage.at,npage.ch,npage.de##script + link + div[id][class][style]
-npage.at,npage.ch,npage.de##script[type="text/javascript"] + * + * + * + [id][style]
-npage.at,npage.ch,npage.de##style[type="text/css"] + * + * + * + [id][style]
-npage.at,npage.ch,npage.de##style[type="text/css"] + * + * + [id][style]
-npage.at,npage.ch,npage.de##style[type="text/css"] + * + [id][style]
 npd-blog.info###banner1
 nrhz.de###banner_container_rc
 nrhz.de###banner_left_container_lc
