@@ -2840,6 +2840,7 @@ serienfreaks.to##a[href^="http://tinyurl.com/"]
 serienfreaks.to##a[href^="http://www.serienfreaks.to/usenet/"]
 serienfreaks.to##input[onclick^="window.open('http://serienfreaks.to/usenet/"]
 serienfreaks.to##input[onclick^="window.open('http://www.serienfreaks.to/usenet/"]
+serienjunkies.de##div[style="text-align:center; background:#1d8900;color:#fff;padding:5px;"]
 serienjunkies.org##.post > .post-title + #outer
 serienjunkies.org##a[href*="/mirror."]
 serienjunkies.org##a[href^="http://alternads.info/"]
