@@ -3403,6 +3403,7 @@ wetter.com###spox_box
 wetter.com##.adbox
 wetter.com##.ext_url[onclick^="_gaq.push(['_trackEvent', 'Toolbar_Pets"]
 wetter.com##.localBox > .lokalinfolist
+wetter.com##.vertical-margin-top-small + a[target="_blank"][onclick^="_gaq.push(['_trackEvent', '"]
 wetter.com##a[href^="http://exlog.wetter.com/v2/exlog/adclick.php?bannerid="]
 wetter.com##a[onclick^="exlogmask('"][href="javascript:void(0);"]
 wetter.de###lbs-offers-container
