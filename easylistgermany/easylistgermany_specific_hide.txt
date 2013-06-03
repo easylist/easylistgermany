@@ -3231,6 +3231,7 @@ ucoz.de##div[id^="adBar"]
 uhrforum.de###sidebar_container
 uhrzeit.org###wallpaperlink
 uimserv.net###logoutlounge
+ultras.ws##.inner:first-child:last-child > .corners-top:first-child + .topiclist + div[style="padding: 5px 5px 2px 5px; font-size: 1.1em; background-color: #ECF1F3; margin: 0px auto; text-align: center;"]
 ultras.ws##.post + .divider + .post.bg3
 ultras.ws##a[href^="http://www1.belboon.de/"]
 ultras.ws##td[valign="top"][style="width: 85%"]:last-child > br:first-child + center > h2:first-child
