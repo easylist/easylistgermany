@@ -3567,6 +3567,8 @@ zensiert.to###innercontent2 > .contentcontainer + .contentfooter + br + center
 zensiert.to##a[href^="http://caracum.net?ref="]
 zensiert.to##a[href^="http://goo.gl/"]
 zfans.de##.logo_rechts_mitte
+zitate-online.de##.witz > .bewertung + .detaillink + p:last-child
+zitate-online.de##.witz > .bewertung + p:last-child
 zmk-aktuell.de##.banner
 zoozle.net###search_right
 zoozle.net###search_topline
