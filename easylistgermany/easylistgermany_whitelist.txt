@@ -328,7 +328,6 @@
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
 @@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
-@@||ad.movad.net/crossdomain.xml$object-subrequest,domain=myspass.de
 @@||ad4.liverail.com/?LR_PUBLISHER_ID=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ad4.liverail.com/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -339,17 +338,14 @@
 @@||adform.net/crossdomain.xml$object-subrequest,domain=filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adform.net/serving/videoad/?$object-subrequest,domain=filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
-@@||ads.heias.com/x/heias.smartclip/?*.smartclip?_=$domain=myspass.de
-@@||adscale.de/crossdomain.xml$object-subrequest,domain=myspass.de
 @@||adscale.de/getads.js$domain=plusboard.de
-@@||adscale.de/vah?sid=$object-subrequest,domain=myspass.de
 @@||adspaces.ero-advertising.com/adspace/214418.js$domain=berlin-nutten.com
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
 @@||altfarm.mediaplex.com/ad/js/*?mpt=*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
 @@||betreut-wohnen.de/adserver/ad.js
 @@||boardking.de^*/adframe.js
-@@||bs.serving-sys.com/burstingpipe/adserver.bs?$object-subrequest,domain=clipfish.de|myspass.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=clipfish.de|myspass.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||bs.serving-sys.com/burstingpipe/adserver.bs?$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||byte.to/js/ads.js
 @@||byte.to/js/gigaflat.js
 @@||cas.criteo.com/delivery/afr.php?zoneid=$subdocument,domain=netzkino.de
@@ -376,13 +372,11 @@
 @@||dokumente-online.com^*/adframe.js
 @@||doubleclick.net/ad/clipfish.smartclip/$object-subrequest,domain=clipfish.de
 @@||doubleclick.net/ad/pushbackde.smartclip/clipfish.smartclip/$object-subrequest,domain=clipfish.de
-@@||doubleclick.net^*.myspass_video.de_de/si_video;formt=*;subfm=*;tile=*;sz=*;pos=$object-subrequest,domain=myspass.de
 @@||doubleclick.net^*/RP_Sat1/other;dcmt=*;showroom=abp;$domain=prosieben.at|prosieben.ch|prosieben.de|sat1.at|sat1.ch|sat1.de|the-voice-of-germany.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=120x600^$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=468x61^$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=600x500^$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net^*;sz=1x1;$script,domain=n-tv.de|teleboerse.de
-@@||doubleclick.net^*?_=$script,domain=myspass.de
 @@||doubleclick.net^*^kw=iqadtile1^$script,domain=faz.net
 @@||ebook-hell.to/js/ads.js
 @@||einrichtungsbeispiele.de^*/click.js
@@ -396,7 +390,6 @@
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
 @@||gmads.net/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||gmads.net/r?$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||google.com/doubleclick/|$script,domain=myspass.de
 @@||goolive.de^*.js|
 @@||honda-innova-forum.de/styles/$image
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
@@ -411,7 +404,6 @@
 @@||luckytalk.de/styles/$image
 @@||mirror-archiv.com/banner/ads/adserver/click/ad.js
 @@||mirror-otr.de^*/adframe.js
-@@||movad.net/stream.ad?a=$object-subrequest,domain=myspass.de
 @@||moviejones.de/jscripts/adcode.js
 @@||musicelster.net/adframe.js
 @@||my-entertainment.biz^$script
@@ -424,7 +416,6 @@
 @@||news.feed-reader.net/adimages/$subdocument
 @@||newscomm.de/js/ads.js
 @@||nuggad.net/bk?*&nuggtg=de_putpattv_music&$object-subrequest,domain=putpat.tv
-@@||nuggad.net/bk?nuggn=*.smartclip?_=$domain=myspass.de
 @@||nuggad.net/crossdomain.xml$object-subrequest,domain=putpat.tv
 @@||onlinetvrecorder.com/adcodes/?$subdocument
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
@@ -432,7 +423,7 @@
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=lablue.at|lablue.ch|lablue.de|myspass.de|risiko-gesundheit.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||picload.org/ads-1.js
@@ -448,7 +439,6 @@
 @@||slimtrade.com/s*.js$domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.tv
 @@||smartclip.net/delivery/tag?sid=$object-subrequest,domain=clipfish.de
-@@||smartclip.net/delivery/tag?sid=$script,domain=myspass.de
 @@||sudoku-space.de^$script
 @@||super-otr.de/inc/js/phpads/sponsorad.js
 @@||tape.tv/js/adblockdetection.js
