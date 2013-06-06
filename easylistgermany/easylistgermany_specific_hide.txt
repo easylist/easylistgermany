@@ -2357,6 +2357,7 @@ notebooksbilliger.de##.banner_right
 np-coburg.de##.superbanner
 npage.at,npage.ch,npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
+npage.at,npage.ch,npage.de##a[onclick$="();"] > img[src^="/"]
 npage.at,npage.ch,npage.de##a[onclick][href$="#"] > img[src^="/"]
 npd-blog.info###banner1
 nrhz.de###banner_container_rc
