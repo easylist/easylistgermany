@@ -16,7 +16,7 @@
     You should have received a copy of the GNU General Public License
     along with this program. If not, see <http://www.gnu.org/licenses/>."""
 # FOP version number
-VERSION = 3.6
+VERSION = 3.7
 
 # Import the key modules
 import collections, filecmp, os, re, subprocess, sys
@@ -31,7 +31,8 @@ if sys.version_info < (MAJORREQUIRED, MINORREQUIRED):
 from urllib.parse import urlparse
 
 # Compile regular expressions to match important filter parts (derived from Wladimir Palant's Adblock Plus source code)
-DOMAINPATTERN = re.compile(r"^([^\/\*\|\@\"\!]*?)#\@?#")
+ELEMENTDOMAINPATTERN = re.compile(r"^([^\/\*\|\@\"\!]*?)#\@?#")
+FILTERDOMAINPATTERN = re.compile(r"(?:\$|\,)domain\=([^\,\s]+)$")
 ELEMENTPATTERN = re.compile(r"^([^\/\*\|\@\"\!]*?)(#\@?#)([^{}]+)$")
 OPTIONPATTERN = re.compile(r"^(.*)\$(~?[\w\-]+(?:=[^,\s]+)?(?:,~?[\w\-]+(?:=[^,\s]+)?)*)$")
 
@@ -50,7 +51,8 @@ BLANKPATTERN = re.compile(r"^\s*$")
 COMMITPATTERN = re.compile(r"^(A|M|P)\:\s(\((.+)\)\s)?(.*)$")
 
 # List the files that should not be sorted, either because they have a special sorting system or because they are not filter files
-IGNORE = ("CC-BY-SA.txt", "easytest.txt", "GPL.txt", "MPL.txt")
+IGNORE = ("CC-BY-SA.txt", "easytest.txt", "GPL.txt", "MPL.txt",
+          "enhancedstats-addon.txt", "fanboy-tracking", "firefox-regional", "other")
 
 # List all Adblock Plus options (excepting domain, which is handled separately), as of version 1.3.9
 KNOWNOPTIONS = ("collapse", "document", "elemhide",
@@ -120,10 +122,10 @@ def main (location):
     # Work through the directory and any subdirectories, ignoring hidden directories
     print("\nPrimary location: {folder}".format(folder = os.path.join(os.path.abspath(location), "")))
     for path, directories, files in os.walk(location):
-        print("Current directory: {folder}".format(folder = os.path.join(os.path.abspath(path), "")))
-        for direct in directories:
-            if direct.startswith("."):
+        for direct in directories[:]:
+            if direct.startswith(".") or direct in IGNORE:
                 directories.remove(direct)
+        print("Current directory: {folder}".format(folder = os.path.join(os.path.abspath(path), "")))
         directories.sort()
         for filename in sorted(files):
             address = os.path.join(path, filename)
@@ -154,12 +156,43 @@ def fopsort (filename):
     # Read in the input and output files concurrently to allow filters to be saved as soon as they are finished with
     with open(filename, "r", encoding = "utf-8", newline = "\n") as inputfile, open(temporaryfile, "w", encoding = "utf-8", newline = "\n") as outputfile:
 
+        # Combines domains for (further) identical rules
+        def combinefilters(uncombinedFilters, DOMAINPATTERN, domainseparator):
+            combinedFilters = []
+            for i in range(len(uncombinedFilters)):
+                domains1 = re.search(DOMAINPATTERN, uncombinedFilters[i])
+                if i+1 < len(uncombinedFilters) and domains1:
+                    domains2 = re.search(DOMAINPATTERN, uncombinedFilters[i+1])
+                if not domains1 or i+1 == len(uncombinedFilters) or not domains2 or len(domains1.group(1)) == 0 or len(domains2.group(1)) == 0:
+                    # last filter or filter didn't match regex or no domains
+                    combinedFilters.append(uncombinedFilters[i])
+                elif domains1.group(0).replace(domains1.group(1), domains2.group(1), 1) != domains2.group(0):
+                    # non-identical filters shouldn't be combined
+                    combinedFilters.append(uncombinedFilters[i])
+                elif re.sub(DOMAINPATTERN, "", uncombinedFilters[i]) == re.sub(DOMAINPATTERN, "", uncombinedFilters[i+1]):
+                    # identical filters. Try to combine them...
+                    newDomains = "{d1}{sep}{d2}".format(d1=domains1.group(1), sep=domainseparator, d2=domains2.group(1))
+                    newDomains = domainseparator.join(sorted(set(newDomains.split(domainseparator)), key = lambda domain: domain.strip("~")))
+                    if newDomains.count("~") > 0 and newDomains.count("~") != newDomains.count(domainseparator) + 1:
+                        # skip combining rules with both included and excluded domains. It can go wrong in many ways and is not worth the code needed to do it correctly
+                        combinedFilters.append(uncombinedFilters[i])
+                    else:
+                        domainssubstitute = domains1.group(0).replace(domains1.group(1), newDomains, 1)
+                        uncombinedFilters[i+1] = re.sub(DOMAINPATTERN, domainssubstitute, uncombinedFilters[i])
+                else:
+                    # non-identical filters shouldn't be combined
+                    combinedFilters.append(uncombinedFilters[i])
+            return combinedFilters
+
+
         # Writes the filter lines to the file
         def writefilters():
             if globalelementlines > (filterlines + nonglobalelementlines):
-                outputfile.write("{filters}\n".format(filters = "\n".join(sorted(set(section), key = lambda rule: re.sub(DOMAINPATTERN, "", rule)))))
+                uncombinedFilters = sorted(set(section), key = lambda rule: re.sub(ELEMENTDOMAINPATTERN, "", rule))
+                outputfile.write("{filters}\n".format(filters = "\n".join(combinefilters(uncombinedFilters, ELEMENTDOMAINPATTERN, ","))))
             elif filterlines > nonglobalelementlines:
-                outputfile.write("{filters}\n".format(filters = "\n".join(sorted(set(section), key = str.lower))))
+                uncombinedFilters = sorted(set(section), key = str.lower)
+                outputfile.write("{filters}\n".format(filters = "\n".join(combinefilters(uncombinedFilters, FILTERDOMAINPATTERN, "|"))))
             else:
                 outputfile.write("{filters}\n".format(filters = "\n".join(sorted(set(section)))))
 
@@ -342,7 +375,7 @@ def removeunnecessarywildcards (filtertext):
     if filtertext[0:2] == "@@":
         whitelist = True
         filtertext = filtertext[2:]
-    while len(filtertext) > 1 and filtertext[0] == "*" and not filtertext[1] == "|":
+    while len(filtertext) > 1 and filtertext[0] == "*" and not filtertext[1] == "|" and not filtertext[1] == "!":
         filtertext = filtertext[1:]
         hadStar = True
     while len(filtertext) > 1 and filtertext[-1] == "*" and not filtertext[-2] == "|":
