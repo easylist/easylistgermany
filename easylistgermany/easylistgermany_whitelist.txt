@@ -127,8 +127,8 @@
 @@||doubleclick.net^*/nacamar.de.smartclip/*;ord=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||doubleclick.net^*/podcast.de.smartclip/*;sz=400x320;$script,domain=podcast.de
 @@||drei.at/moma/adserver/adview.php?$image
-@@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.ebay.at
-@@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.ebay.at
+@@||ebayrtm.com/rtm?RtmCmd&a=json&p=$script,domain=www.ebay.at|www.ebay.ch
+@@||ebayrtm.com/rtm?RtmPreviewContent&$subdocument,domain=www.ebay.at|www.ebay.ch
 @@||efiliale.de/efiliale/pop/js/pop.js
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object-subrequest,domain=mobile.de
 @@||enjoykitz.tv/werbung.txt$object-subrequest
