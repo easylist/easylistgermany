@@ -479,12 +479,6 @@ wer-kennt-wen.de###multimediaTeaserMini
 mov-world.net###mw_layer
 lexas.biz###mypop2_b
 send4free.de###n8f880e
-boerse.bz###navbar_notice_1044
-boerse.bz###navbar_notice_1045
-boerse.bz###navbar_notice_1046
-boerse.bz###navbar_notice_1047
-boerse.bz###navbar_notice_1048
-boerse.bz###navbar_notice_1049
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
 web.de###navigation > #navSpecial[style="height: 235px;"]
@@ -1186,6 +1180,7 @@ bild.de##.affiliate.pm140
 bild.de##.affiliate.pm172
 tweakpc.de##.aflink
 ati-forum.de##.aktionsflaeche
+boerse.bz##.alt1 > div[id^="navbar_notice_"]
 modernboard.de##.alt1[style="padding-top:0px"] > div[style="clear:both"] + ul[style="list-style-type:none; margin:0px; padding:0px"]
 dforum.net##.alt2[colspan="2"][style="background: #eaeab4"] > font[color="#000"]:first-child:last-child > table[width="100%"][cellspacing="0"][cellpadding="0"]:first-child:last-child
 winboard.org##.alt2[style="padding-top:0px"] > ul[style="list-style-type:none; margin:0px; padding:0px"] > br:first-child + div[align="center"]:last-child
