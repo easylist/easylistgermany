@@ -1881,6 +1881,7 @@ derboersianer.com##.xmlnewsSingleCheap
 chilloutzone.net##.yeah
 bild.de##.yield
 magistrix.de##.zeezee
+npage.at,npage.ch,npage.de##[class] + * > a[onclick$=")"] > img[src^="/"]
 npage.at,npage.ch,npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
