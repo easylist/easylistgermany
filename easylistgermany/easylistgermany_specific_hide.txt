@@ -1881,10 +1881,10 @@ derboersianer.com##.xmlnewsSingleCheap
 chilloutzone.net##.yeah
 bild.de##.yield
 magistrix.de##.zeezee
-npage.at,npage.ch,npage.de##[class] + * > a[onclick$=")"] > img[src^="/"]
-npage.at,npage.ch,npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
-npage.at,npage.ch,npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
-npage.at,npage.ch,npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
+npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] + * > a[onclick$=")"] > img[src^="/"]
+npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
+npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
+npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
 forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 100px; left: 550px; empty-cells: hide;"]
 ebook-hell.to##[width="620"][bordercolor="#808080"] td[height="60"][align="CENTER"] > a > img
 cine24.tv##a[href$=".gu.ma"]
