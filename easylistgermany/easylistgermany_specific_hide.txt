@@ -1882,7 +1882,6 @@ derboersianer.com##.xmlnewsSingleCheap
 chilloutzone.net##.yeah
 bild.de##.yield
 magistrix.de##.zeezee
-npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] + * > a[onclick$=")"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
@@ -2317,6 +2316,7 @@ linxcrypt.com##a[id^="eckBild"]
 ixquick.de##a[id^="sptitle"]
 ixquick.de##a[id^="spurl"]
 gaming-insight.de##a[id^="takeoverlink"]
+npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=")"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=");"] > img[src^="/"]
 bild.de##a[onclick*="/partner/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick][href$="#"] > img[src^="/"]
@@ -2421,7 +2421,6 @@ g-stream.in##button[onclick^="window.open('http://g-stream.in/mirror/"]
 g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
 repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
 englische-briefe.de##center > table[width="574"][cellspacing="0"][cellpadding="0"][border="0"]
-npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##div > a[onclick$=")"] > img[src^="/"]
 rundumkoeln.de##div[align="center"] > #top[name="top"]:first-child + table[border="0"]:last-child
 torrent.byte.to##div[align="center"] > .BUTTON[type="SUBMIT"][onclick][value]
 handy-faq.de##div[align="center"] > span[style="text-decoration:none; color:red;font-size:18px;"]:first-child
