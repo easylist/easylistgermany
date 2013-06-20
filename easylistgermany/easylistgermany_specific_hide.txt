@@ -2321,6 +2321,7 @@ npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=");"] > img[src^="/"]
 bild.de##a[onclick*="/partner/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick][href$="#"] > img[src^="/"]
+kochbar.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/teaser.php?"]
 kochbar.de,rtl.de,sport.de,vip.de,vox.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
 downloadstube.net##a[onclick^="DownloadFile('details'"]
 downloadstube.net##a[onclick^="DownloadFile('result_details'"]
