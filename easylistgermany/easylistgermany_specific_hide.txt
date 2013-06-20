@@ -2463,6 +2463,7 @@ jswelt.de##div[id^="edit"]:first-child:last-child > .spacer:last-child
 ishare.to##div[id^="flowertabs"] > ul > li:last-child > a[target="_blank"]
 gamestar.de##div[id^="idAd"]
 freitag.de##div[id^="mf"]
+boerse.bz##div[id^="navbar_notice_"] > div[style="text-align:center;width:770px;margin:auto;"]
 krawall.de##div[id^="ntpw"]
 ruppiner-medien.de##div[id^="promotion"]
 cine24.tv##div[id^="ratingDiv"] > a[target][alt] > img
