@@ -223,7 +223,7 @@ rp-online.de###container > div[style="position:absolute;top:9px;left:9px;"]:firs
 abendzeitung-muenchen.de###container > div[style="width: 860px; margin-bottom: 5px; "]
 spielen.com###container > iframe + #overlay
 spielen.com###container > iframe + #overlay + #overlay_bg
-dtoday.de,goslarsche.de,lkz.de,neckar-chronik.de,schwaebische.de,tagblatt.de,weser-kurier.de###container_banner
+dtoday.de,goslarsche.de,lkz.de,mittelhessen.de,neckar-chronik.de,schwaebische.de,tagblatt.de,weser-kurier.de###container_banner
 augsburger-allgemeine.de,goslarsche.de,schwaebische.de,szon.de,tagblatt.de,teckbote.de###container_banner_wallpaper
 schwaebische.de###container_banner_wallpaper_placeholder
 neckar-chronik.de###container_bottom
@@ -1718,6 +1718,7 @@ schulterglatze.de##.schulterglatze_leaderboard
 hotfrog.at,hotfrog.ch,hotfrog.de##.search-middle-adblock
 bildschirmarbeiter.com##.searchContainer + a + .sidebox
 spielaffe.de##.search_adv_container
+mittelhessen.de##.sebo_advert
 teckbote.de##.sebo_rectangle
 freiepresse.de##.section-adv
 regensburg-digital.de##.seitenanzeige
