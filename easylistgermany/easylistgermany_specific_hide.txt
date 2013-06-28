@@ -1522,6 +1522,7 @@ welt.de##.inTextTeaser1
 hornoxe.com##.infobox + .navigation + [align="center"] + .box-grey
 netzwelt.de##.informative[style="padding-left:5px; padding-right:5px; height: 438px;"]
 netzwelt.de##.informative[style="padding-left:5px; padding-right:5px;"]
+quoka.de##.inner > #RelatedAdsList + .yui3-g
 blur.ws##.inner > .pefb
 ultras.ws##.inner:first-child:last-child > .corners-top:first-child + .topiclist + div[style="padding: 5px 5px 2px 5px; font-size: 1.1em; background-color: #ECF1F3; margin: 0px auto; text-align: center;"]
 hcelb.de##.intpartner
@@ -1697,6 +1698,8 @@ mz-web.de##.rectangle_anzeige
 rhein-zeitung.de##.rectangle_head
 perun.net##.rekl-links
 frag-mutti.de##.relcookiepopup
+quoka.de##.result a[href^="http://connect.quoka.de/qpa/click.php?url="]
+quoka.de##.result-sml a[href^="http://connect.quoka.de/qpa/click.php?url="]
 gronkh.de##.revbig
 gronkh.de##.revbox
 notebookcheck.com##.reviewlisttable[width="100%"][border="0"][style="background-color:#EEEEEE;"]
@@ -2085,7 +2088,6 @@ phpforum.de##a[href^="http://clkde.tradedoubler.com"]
 giga.de,macerkopf.de##a[href^="http://clkde.tradedoubler.com/"]
 rtl.de,sms-box.de,t-online.de##a[href^="http://clkde.tradedoubler.com/click?"]
 atomload.at,dbase.ws,dokujunkies.org##a[href^="http://cloudzer.net/ref/"]
-quoka.de##a[href^="http://connect.quoka.de/qpa/click.php"]
 t-online.de##a[href^="http://count.shopping.t-online.de/RE?ID="]
 hd-world.org,movie-blog.org##a[href^="http://cutt.us/"]
 byte.to##a[href^="http://ddl.byte.to/go1/"]
