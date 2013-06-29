@@ -75,6 +75,7 @@
 ###werbetrenner
 ###werbung
 ###werbung-left
+###werbung-map-top
 ###werbung-skyscraper
 ###werbung125_links
 ###werbung125_rechts
@@ -165,6 +166,7 @@
 ##.werbung-contentad
 ##.werbung-fullbanner
 ##.werbung-halfbanner
+##.werbung-inline
 ##.werbung-label
 ##.werbung-leiste
 ##.werbung-rectangle
