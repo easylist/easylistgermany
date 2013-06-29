@@ -55,14 +55,12 @@
 @@||adsett.de/templates/ads/$~third-party
 @@||adshot.de/click/view.php$image,domain=dateibrowser.de|filebroker.de|thisload.de
 @@||adtech.de/?adrawdata/$object-subrequest,domain=cineman.de|login.audimark.de|player.nowonscreen.com
-@@||adtech.de/?advideo/$object-subrequest,domain=filmstarts.de
 @@||adtech.de/addyn/*/ADTECH;$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||adtech.de/adperf/$script,domain=jetztspielen.de|spielen.com
 @@||adtech.de/adrawdata$object-subrequest,domain=player.nowonscreen.com
 @@||adtech.de/apps/$object-subrequest,domain=cineman.de
 @@||afcdn.com/world/ads.js$domain=gofeminin.de
 @@||aka-cdn-ns.adtech.de/apps/$image,domain=neckermann.de
-@@||aka-cdn-ns.adtech.de/apps/$object-subrequest,domain=filmstarts.de
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
 @@||alfred-delp-schule.bildung-rp.de/ads_$~third-party
 @@||altfarm.mediaplex.com/ad/ck/$image,domain=paypal-deutschland.de
@@ -274,10 +272,9 @@
 @@||serving-sys.com/BurstingRes//Site-*/Type-*/$script,domain=cnet.de
 @@||sevengames.at/ressource/js/sevengames/sevengames/adtags.*.js
 @@||showfusion.eu/xml/ads/ad_1.xml$object-subrequest,domain=urbia.de
-@@||smart.allocine.fr/a/diff/*/show*.asp?$object-subrequest,domain=filmstarts.de|ufa-dresden.de
+@@||smart.allocine.fr/a/diff/*/show*.asp?$object-subrequest,domain=ufa-dresden.de
 @@||smart.allocine.fr/call/pubx/*&video=$object-subrequest
 @@||smart.allocine.fr/crossdomain.xml$object-subrequest
-@@||smart.allocine.fr/def/def/xshowdef.asp$object-subrequest,domain=filmstarts.de
 @@||smartadserver.com/a/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=syfy.de
@@ -349,9 +346,8 @@
 @@||adfarm1.adition.com/banner?sid=*&adjsver=*&clickurl=http%3A//ad.de.doubleclick.net/click%$script,domain=n-tv.de
 @@||adfarm1.adition.com/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/js?wp_id=*&kid=*&ts=*&clickurl=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
-@@||adform.net/banners/stream/*.mp4$object-subrequest,domain=filmstarts.de
-@@||adform.net/crossdomain.xml$object-subrequest,domain=filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||adform.net/serving/videoad/?$object-subrequest,domain=filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||adform.net/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||adform.net/serving/videoad/?$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
 @@||adscale.de/getads.js$domain=plusboard.de
 @@||adspaces.ero-advertising.com/adspace/214418.js$domain=berlin-nutten.com
@@ -366,7 +362,6 @@
 @@||byte.to/js/gigaflat.js
 @@||cas.criteo.com/delivery/afr.php?zoneid=$subdocument,domain=netzkino.de
 @@||cdn.flashtalking.com/xre/*/js/j-*.js$domain=teleboerse.de
-@@||cdn.flashtalking.com^$object-subrequest,domain=filmstarts.de
 @@||chat.lycos.de/adimages/$subdocument
 @@||chickenkiller.com^$script,domain=my-entertainment.biz
 @@||combatarms-game.de/adframe.js
@@ -447,8 +442,8 @@
 @@||plusboard.de^$image
 @@||pure-anime.biz^*/advertisement.js
 @@||quoka.de^*/adframe.js
-@@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||servedby.flashtalking.com/imp/$object-subrequest,domain=filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||servedby.flashtalking.com/imp/$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||slimspots.com/adspace/*.js$domain=arschfick-pornos.net|badjojo-porno.com|bruder-schwester-fick.com|deviantclip-porno.com|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|pornorio.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com
 @@||slimspots.com/view/$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||slimtrade.com/in.php?s=*&t=*&b=*&c=*&tm=*&r=$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
@@ -465,7 +460,7 @@
 @@||ttads.de/www/delivery/banner/click.js
 @@||ttads.de/www/delivery/click.js
 @@||uploaded-premium.ru/advertisement.js
-@@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||view.binlayer.com/ad-*.js$script,domain=super-otr.de
 @@||websc.org/script.php?s=234|$script,domain=uploaded-premium.ru
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
