@@ -53,7 +53,13 @@ msn.de###Sales4
 dfb.de###SkyscraperContainer
 send4free.de###Step1
 t-online.de###T-40618666
+t-online.de###T-40776064
+t-online.de###T-40930662
+t-online.de###T-40932654
+t-online.de###T-41978998
+t-online.de###T-42205738
 t-online.de###T-43371478
+t-online.de###T-55388342
 t-online.de###T-61529810[onfocus="A('zid=48911012;mp=ts-emb;vn=6')"]
 t-online.de###T-61656804[onfocus="A('zid=63191132;mp=ts-emb;vn=20')"]
 t-online.de###T-64167586
@@ -67,6 +73,7 @@ t-online.de###T-64233980
 t-online.de###T-64234242
 t-online.de###T-64234396
 t-online.de###T-64234528
+t-online.de###T-64234652
 t-online.de###T-64235766
 t-online.de###T-64237222
 t-online.de###T-64237338
@@ -2688,6 +2695,7 @@ free-klingeltoene-handy.de##div[style="width:950px; border: 1px solid #FFFFFF; p
 torrent.to##div[style] > div + div + div + a > img
 mikrocontroller.net##div[style] > script + div[id^="a"][style] > div[style]
 gamestar.de##div[style^="background-image:url(/img/gamestar/products/banner_mcgame.png)"]
+t-online.de##div[style^="background-image:url(http://bilder.t-online.de/b/62/17/80/56/id_62178056/tid_da/index.jpg"]
 elixic.de##div[style^="background-image:url(http://www.elixic.de/typo3conf/ext/start/res/img/ad-rahmen-"]
 mafia.to##div[style^="background: url(\"images/topbar_bg.png\")"]
 ka-news.de##div[style^="width:145px;height:150px;"]
