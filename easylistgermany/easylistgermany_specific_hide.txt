@@ -1995,6 +1995,7 @@ aktuell.ru##a[href^="http://www.aktuell.ru/inc/banners.php?"]
 gamefront.de##a[href^="http://www.amazon.de/"][href*="&tag=gamefrontde-21"]
 gamestar.de##a[href^="http://www.amazon.de/"][href*="tag=gamestarq-21"]
 gamestar.de##a[href^="http://www.amazon.de/"][href*="tag=gscon-21"]
+wetteronline.de##a[href^="http://www.amazon.de/gp/"][href$="&tag=wwwwetteronli-21"][target="_blank"] > img
 gamepro.de##a[href^="http://www.amazon.de/gp/"][href*="&tag="]
 rtl.de##a[href^="http://www.amazon.de/gp/"][href*="&tag=rtlratgeber-21&"]
 das-sternzeichen.de##a[href^="http://www.amazon.de/gp/product/"][href*="&tag=suncash-21&"]
