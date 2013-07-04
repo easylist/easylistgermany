@@ -510,6 +510,8 @@ boerse.bz###navbar_notice_1055
 boerse.bz###navbar_notice_1057
 boerse.bz###navbar_notice_1064
 boerse.bz###navbar_notice_1066
+boerse.bz###navbar_notice_1067
+boerse.bz###navbar_notice_1069
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
 web.de###navigation > #navSpecial[style="height: 235px;"]
@@ -1378,6 +1380,7 @@ derwesten.de,stuttgarter-zeitung.de##.mp-slider
 motor-talk.de##.mtbwrapper
 express.de##.nah_box_horizonal
 express.de##.nah_box_vertical
+boerse.bz##.navbar_notice a[target="_blank"][rel="nofollow"]
 alle-autos-in.de##.naviP
 gamers.at##.networkbanner + script + a
 gamers.at##.networkbanner + script + a + a
