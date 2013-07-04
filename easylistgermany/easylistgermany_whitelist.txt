@@ -335,6 +335,7 @@
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|notenbuch24.de|preismafia.com
 @@||zanox-affiliate.de/ppv/?$image,domain=14-tage-wettervorhersage.de
 ! Anti-Adblock
+@@/adserver/ads.js$domain=lustich.de
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
