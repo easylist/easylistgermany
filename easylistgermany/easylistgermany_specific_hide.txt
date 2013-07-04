@@ -2280,6 +2280,7 @@ myfreefarm.de##div[onclick^="window.open('http://media.gan-online.com/www/delive
 boerse.bz##div[onclick^="window.open('http://www.boerse.bz/go/?register=new&m=guest'"]
 5-sms.com##div[onclick^="window.open('http://www.maxxfone.de/"]
 suchen.de##div[onclick^="window.open('http://www.suchen.de/ad?"]
+wetter.info##div[onfocus*=";mp=gelbeseiten;"]
 mikrocontroller.net##div[style$="120px; text-align:center; font-size:12px; border:2px solid #ffa500; padding:3px; background:#EEE; overflow:hidden;"]
 mikrocontroller.net##div[style$="120px; text-align:center; font-size:12px; border:2px solid #ffa500; padding:3px; background:-moz-linear-gradient(top, #EEE, #ffa500); background:-webkit-gradient(linear, left top, left bottom, from(#EEE), to(#ffa500)); overflow: hidden;"]
 mikrocontroller.net##div[style$="160px; text-align:center; font-size:12px; border:2px solid #ffa500; padding:3px; background:#EEE; overflow:hidden;"]
