@@ -92,7 +92,6 @@ ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
 zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
 schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 ! Anti-Adblock
-prad.de#@##adWrapper
 tape.tv#@##adframe:not(frameset)
 netzkino.de#@#.advertising-top
 netzkino.de#@#.advertising-top-box
