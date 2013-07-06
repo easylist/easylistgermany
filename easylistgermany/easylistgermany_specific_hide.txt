@@ -1336,6 +1336,7 @@ au-ja.de##.leftADV
 taketv.net##.leftbanner
 wetteronline.de##.leftflow > div[style^="cursor: pointer;"]:last-child
 wetteronline.de##.leftflow > span > img[src^="data:image"]
+wetteronline.de##.leftflow img[width="300"][height^="2"]
 bunte.de##.li_imageteaser_row_typ3
 kicker.de##.linksebay
 l-iz.de##.liz_Ad_468_60
