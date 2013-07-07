@@ -337,7 +337,8 @@
 ! Anti-Adblock
 @@.org/*.js$third-party,domain=lustich.de
 @@/adserver/*$domain=lustich.de
-@@|http://*.cu.cc/$script,domain=lustich.de|my-entertainment.biz
+@@|http://*.cu.cc/$script,domain=my-entertainment.biz
+@@|http://*.cu.cc/*.js|$domain=lustich.de
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
 @@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
