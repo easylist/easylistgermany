@@ -1337,6 +1337,7 @@ lkz.de##.left > .content[style="min-height:100px"]
 au-ja.de##.leftADB
 au-ja.de##.leftADV
 taketv.net##.leftbanner
+wetteronline.de##.leftflow > div > img[src^="data:image"]
 wetteronline.de##.leftflow > div[style^="cursor: pointer;"]:last-child
 wetteronline.de##.leftflow > span > img[src^="data:image"]
 wetteronline.de##.leftflow img[width="300"][height^="2"]
