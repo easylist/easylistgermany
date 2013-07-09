@@ -97,7 +97,6 @@
 @@||cdn.auditude.com/crossdomain.xml$object-subrequest,domain=bravo.de
 @@||chiemsee-reggae.de/gallery/anzeige.php?$subdocument
 @@||cinebee.org/wp-content/plugins/wp-*.js|
-@@||citti24.de/cc24/ext/html/werbung-subdocument
 @@||classic-motorrad.de/anzeigen/layout_images/new/top_ads_icon.gif
 @@||classistatic.de^*/advertising/*advertisingpacked.js$domain=mobile.de
 @@||clipfish.de/ip/admeta.xml?$object-subrequest
@@ -204,7 +203,6 @@
 @@||liverail.com^*/liverail_preroll.swf$object,domain=jam.fm|paradiso.de
 @@||lovefilm.de/ajax/widgets/advertising/competitions_data.html?$xmlhttprequest
 @@||magenschmerzen.net/wp-content/themes/zeemagazine_adtech/$~third-party
-@@||marcus-hammerschmidt.de^*/werbung-$~third-party
 @@||markt.de^*/advert_search_results.gif
 @@||master.captchaad.com/www/delivery/$script,domain=winload.de
 @@||media.gan-online.com/www/delivery/*.php?$script,subdocument,domain=myfreefarm.de
@@ -256,7 +254,6 @@
 @@||reimkultur-mv.de/9products/images/ad/$image,~third-party
 @@||rhodesian-ridgeback-forum.org^$elemhide
 @@||richmedia.coolespiele.com^$~third-party
-@@||rocknord24.com/shop/images/slider_images/werbung-
 @@||rtl.de^*/admeta.xml?$object-subrequest
 @@||rtl.de^*/player_modul_onclick_300x250.jpg
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
@@ -311,8 +308,6 @@
 @@||uicdn.com^*/video-adserver-config.xml$object-subrequest
 @@||vdn-mobile.oas-limited.com/ad/$object-subrequest,domain=mobile.de
 @@||videostream4u.com^*/ac_oetags_clone.js
-@@||werbung-adkunden.de^$~third-party
-@@||werbung-praxis.de^$~third-party
 @@||werbung.gruppedrei.com^$~third-party
 @@||werbung.karstadt.de^$~third-party
 @@||werbung.oebb.at^$~third-party
