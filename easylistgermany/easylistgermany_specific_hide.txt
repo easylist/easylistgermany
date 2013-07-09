@@ -1145,6 +1145,7 @@ hammstars.de##.content > div[style="margin-top:-18px; float:right; width:237px; 
 hamm.biz,hammonline.de##.content > div[style="position:relative; top:-13px; float:right; margin-left:15px; font-size:10px; text-align:right;"]
 notebookjournal.de##.content > div[style="width:50%;height:260px;float:left;"]
 kaufn.com##.content > h1 > hinweis
+sprachnudel.de##.content > span[id^="viewcontent"]:first-child > ul:first-child:last-child
 sprachnudel.de##.content > ul[class^="toplinks"]
 sprachnudel.de##.content > ul[id]:first-child
 designtagebuch.de##.content-google-728
