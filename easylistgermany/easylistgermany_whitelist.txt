@@ -349,6 +349,7 @@
 @@||adform.net/serving/videoad/?$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
 @@||adscale.de/getads.js$domain=plusboard.de
+@@||adserver.adtech.de/?advideo/*;vidAS=PRE_ROLL;$object-subrequest,domain=zattoo.com
 @@||adspaces.ero-advertising.com/adspace/214418.js$domain=berlin-nutten.com
 @@||airportzentrale.de^$elemhide
 @@||airportzentrale.de^*#/$image
