@@ -700,6 +700,7 @@ arabische-küche.de###sidebar > #text-9
 omfg.to###sidebar > .ad
 stopadblock.org###sidebar > div[id][style="text-align:center"]
 stopadblock.org###sidebar > div[style] + div[id][style]
+wetteronline.de###sidebar img[width^="2"][height^="2"][src^="data:image"]
 mikrocontroller.net###sidebar-right > div[style]:last-child > div[id]:last-child > div[style]
 mikrocontroller.net###sidebar-right > div[style]:last-child > script + div[style]:last-child
 grenzwissenschaft-aktuell.blogspot.de###sidebar-right-1 > #HTML1 > .widget-content:first-child
