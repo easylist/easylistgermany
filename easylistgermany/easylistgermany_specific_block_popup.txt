@@ -8,6 +8,7 @@
 ||4dl.bz/load.php$image,~image,popup
 ||5vor12.de/cgi-perl/adP?nr=$image,~image,popup
 ||ad.netzquadrat.de^$image,~image,popup,domain=sms.de
+||adcloud.net^$popup,domain=lustich.de
 ||adsfac.eu/link.asp?$image,~image,popup,domain=iamgamer.de
 ||alturl.com^$image,~image,popup,domain=byte.to
 ||amazon.de/?tag=bluray18-21$image,~image,popup,domain=bluray-disc.de
