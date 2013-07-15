@@ -702,7 +702,6 @@ arabische-küche.de###sidebar > #text-9
 omfg.to###sidebar > .ad
 stopadblock.org###sidebar > div[id][style="text-align:center"]
 stopadblock.org###sidebar > div[style] + div[id][style]
-wetteronline.de###sidebar img[src^="data:image"]
 mikrocontroller.net###sidebar-right > div[style]:last-child > div[id]:last-child > div[style]
 mikrocontroller.net###sidebar-right > div[style]:last-child > script + div[style]:last-child
 grenzwissenschaft-aktuell.blogspot.de###sidebar-right-1 > #HTML1 > .widget-content:first-child
@@ -1341,10 +1340,6 @@ lkz.de##.left > .content[style="min-height:100px"]
 au-ja.de##.leftADB
 au-ja.de##.leftADV
 taketv.net##.leftbanner
-wetteronline.de##.leftflow > div > img[src^="data:image"]
-wetteronline.de##.leftflow > div[style^="cursor: pointer;"]:last-child
-wetteronline.de##.leftflow > span > img[src^="data:image"]
-wetteronline.de##.leftflow img[width="300"][height^="2"]
 bunte.de##.li_imageteaser_row_typ3
 kicker.de##.linksebay
 l-iz.de##.liz_Ad_468_60
@@ -2012,7 +2007,6 @@ aktuell.ru##a[href^="http://www.aktuell.ru/inc/banners.php?"]
 gamefront.de##a[href^="http://www.amazon.de/"][href*="&tag=gamefrontde-21"]
 gamestar.de##a[href^="http://www.amazon.de/"][href*="tag=gamestarq-21"]
 gamestar.de##a[href^="http://www.amazon.de/"][href*="tag=gscon-21"]
-wetteronline.de##a[href^="http://www.amazon.de/gp/"][href$="&tag=wwwwetteronli-21"][target="_blank"] > img
 gamepro.de##a[href^="http://www.amazon.de/gp/"][href*="&tag="]
 rtl.de##a[href^="http://www.amazon.de/gp/"][href*="&tag=rtlratgeber-21&"]
 das-sternzeichen.de##a[href^="http://www.amazon.de/gp/product/"][href*="&tag=suncash-21&"]
@@ -2506,6 +2500,7 @@ t-online.de##img[height="365"][width="178"][style="margin-left:-10px;margin-bott
 blogtotal.de##img[height="600"][width="120"]
 ak-kurier.de,ww-kurier.de##img[name="banner"]
 seatforum.de##img[src="http://www.seatforum.de/forum/images/anzeige.gif"] + a[target="_blank"] > img
+wetteronline.de##img[src^="data:image"]
 excitingcommerce.de##img[style="margin: 5px 5px 0px 0px; border-width:0px; align="]
 bluewin.ch##img[title="Anzeige"]
 looki.de##img[usemap="#branding"]
@@ -2522,7 +2517,6 @@ callofdutyplayers.de,der-postillon.com,gamefront.de,myfunlink.to##img[width="160
 t-online.de##img[width="209"][usemap^="#immap"]
 hitradio.com.na##img[width="220"][height="48"]
 der-postillon.com,iphoneblog.de,teltarif.de##img[width="300"][height="250"]
-wetteronline.de##img[width="300"][height="260"][src^="data:image"]
 ingame.de##img[width="325px"][src$="clear.gif"]
 xxx-boardz.com##img[width="360"][height="46"]
 1load.net##img[width="362"][height="48"]
