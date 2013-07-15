@@ -331,6 +331,7 @@
 @@||zanox-affiliate.de/ppv/?$image,domain=14-tage-wettervorhersage.de
 ! Anti-Adblock
 @@.org/*.js$third-party,domain=lustich.de
+@@/_ads/*$script,domain=lustich.de
 @@/adserver/*$domain=lustich.de
 @@/esel.js$domain=lustich.de
 @@/gigaflat.js$domain=lustich.de
