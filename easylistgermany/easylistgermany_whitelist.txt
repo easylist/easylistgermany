@@ -184,7 +184,7 @@
 @@||i.computer-bild.de/imgs/$image,domain=computerbild.de
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
 @@||idowa.de^*/advertisement/$xmlhttprequest
-@@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de
+@@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de|sunsteps.org
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||inskinmedia.com^*/generic.js$domain=clipfish.de
 @@||interhome.at/javascript/ad-gallery.js
@@ -221,6 +221,7 @@
 @@||n-tv.de/stat/videoplayer/admeta.xml$object-subrequest
 @@||n-tv.de/stat/videoplayer/ntv_player.swf?*/admeta.$object
 @@||nadann.de/small_ads/$~third-party
+@@||nonstoppartner.net^$image,domain=sunsteps.org
 @@||nordclick.de/js/colors/adsense_colors.js
 @@||nuggad.net/bk?nuggn=$object-subrequest,domain=clipfish.de|edge.download.newmedia.nacamar.net
 @@||nuggad.net/bk?nuggn=$script,domain=podcast.de
@@ -303,6 +304,7 @@
 @@||thomann.de^*/adv/adv_$image,~third-party
 @@||tkqlhce.com/click-$subdocument,domain=eule.de
 @@||toggo.de/js/advertise.js
+@@||tradedoubler.com/file/$image,domain=sunsteps.org
 @@||tv.derstandard.at/adserver.php?*&pos=video$subdocument
 @@||ui-portal.de^*/video-adserver-config.xml$object-subrequest
 @@||uicdn.com^*/video-adserver-config.xml$object-subrequest
@@ -327,8 +329,10 @@
 @@||wodas.wetteronline.de/static/womfkts.js
 @@||xara.hse24.de^*/hse_videoplayer.swf
 @@||yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
+@@||zanox-affiliate.de/images/$domain=sunsteps.org
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|notenbuch24.de|preismafia.com
 @@||zanox-affiliate.de/ppv/?$image,domain=14-tage-wettervorhersage.de
+@@||zanox.com/images/programs/$domain=sunsteps.org
 ! Anti-Adblock
 @@.org/*.js$third-party,domain=lustich.de
 @@/_ads/*$script,domain=lustich.de
