@@ -260,6 +260,7 @@ netzwelt.de###content > .two-thirds > div[style="margin: 10px; margin-left: 0px;
 netzwelt.de###content > .two-thirds > div[style="margin: 10px;"]
 hoerbuch.in###content > center > .box2:first-child:last-child
 movie-blog.org###content > div[class] > div[class] > div > div > a[href^="http://movie-blog.org/"]
+lustich.de###content > div[style]:first-child
 hoerbuch.in,lesen.to###content > font[color="red"] > h2
 onlinereports.ch###content-banner1
 onlinereports.ch###content-banner3
@@ -269,6 +270,7 @@ frimon.de###content:last-child > #sky_right:first-child + .padding_down + .paddi
 sprachnudel.de###content:last-child > ul[class]:first-child
 1001spiele.de###contentBanner
 creativeproxy.uimserv.net###contentContainer
+lustich.de###contentTopBg:first-child > div[style]:first-child
 wetter.net###content_anzeige
 mydealz.de###content_banner
 softonic.de###content_list_leaderboard
@@ -860,6 +862,7 @@ ruhrbarone.de###wpTopBox
 stb-web.de###wpbg
 wikio.de###wpub
 manager-magazin.de###wrapBoard > #wrapMain:first-child > .pbox
+lustich.de###wrapper + div[style]
 schwaebische.de###wrapper > #titelkopf
 micky-maus.de###wrapper-1 > #extra1[style="padding-left: 108px;"]
 n-tv.de###wrapper_content > div[style="height: 120px;"]:first-child
