@@ -1460,6 +1460,7 @@ scm-gladiators.de##.presenter
 wetter.de##.presenter-image
 digitalfernsehen.de##.pricerunner_search
 lyrics.de##.pro_teaser
+wetteronline.de##.prodInfoHref + div[id]:last-child
 giga.de##.product-teaser
 chip.de##.produktwelt_teaser
 chip.de##.produktwelt_teaser-headline
