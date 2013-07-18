@@ -260,7 +260,6 @@ netzwelt.de###content > .two-thirds > div[style="margin: 10px; margin-left: 0px;
 netzwelt.de###content > .two-thirds > div[style="margin: 10px;"]
 hoerbuch.in###content > center > .box2:first-child:last-child
 movie-blog.org###content > div[class] > div[class] > div > div > a[href^="http://movie-blog.org/"]
-lustich.de###content > div[style]:first-child
 hoerbuch.in,lesen.to###content > font[color="red"] > h2
 onlinereports.ch###content-banner1
 onlinereports.ch###content-banner3
@@ -270,7 +269,6 @@ frimon.de###content:last-child > #sky_right:first-child + .padding_down + .paddi
 sprachnudel.de###content:last-child > ul[class]:first-child
 1001spiele.de###contentBanner
 creativeproxy.uimserv.net###contentContainer
-lustich.de###contentTopBg:first-child > div[style]:first-child
 wetter.net###content_anzeige
 mydealz.de###content_banner
 softonic.de###content_list_leaderboard
@@ -863,7 +861,6 @@ ruhrbarone.de###wpTopBox
 stb-web.de###wpbg
 wikio.de###wpub
 manager-magazin.de###wrapBoard > #wrapMain:first-child > .pbox
-lustich.de###wrapper + div[style]
 schwaebische.de###wrapper > #titelkopf
 micky-maus.de###wrapper-1 > #extra1[style="padding-left: 108px;"]
 n-tv.de###wrapper_content > div[style="height: 120px;"]:first-child
@@ -1682,6 +1679,7 @@ derboersianer.com##.xmlnewsSingleCheap
 chilloutzone.net##.yeah
 bild.de##.yield
 magistrix.de##.zeezee
+lustich.de##A[href^="http://"][target="_BLANK"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
@@ -2304,8 +2302,6 @@ gamingxp.com##div[style*="background-image: url(http://www.gamingxp.com/pictures
 wetteronline.de##div[style*="data:image"]
 onlinewelten.com##div[style*="height:600px;width:160px;"]
 onlinewelten.com##div[style*="height:90px;width:728px;"]
-lustich.de##div[style*="width: 160px; height: 600px;"]
-lustich.de##div[style*="width: 300px; height: 251px;"]
 ingame.de##div[style*="width: 325px; height:300px;  position: absolute;"]
 metalflirt.de##div[style="  margin-left:auto; margin-right:auto; width:1211px; height:300px; margin-top:7px; position:relative"]
 wide-wallpaper.de##div[style=" text-align:center;float:left;margin:4px; padding:0px; width:290px;height:270px;border: 1px solid #666666;"]
@@ -2406,8 +2402,6 @@ wunderweib.de##div[style="text-align:center; width:988px;height:90px;line-height
 echte-abzocke.de##div[style="text-align:center;width:490px;height:71px;padding-top:10px;background-color: #ffffff;border:1px solid #DFE6ED"]
 acer-userforum.de##div[style="text-align:center;width:750px;height:105px;padding-top:8px;background-color: #ffffff;border:1px solid #005856"]
 acer-userforum.de##div[style="text-align:center;width:760px;height:120px;padding-top:15px;background-color: #ffffff;border:1px solid #005856"]
-lustich.de##div[style="vertical-align: top; width: 160px; height: 600px; position: absolute; left: 50%; top: 69px; margin-left: 355px;"]
-lustich.de##div[style="vertical-align: top; width: 300px; height: 250px; margin-left: auto; margin-right: auto;"]
 xvideo-deutsch.com##div[style="width: 1000px; margin: 0 auto; height: 80px; overflow: hidden;"]
 winload.de##div[style="width: 164px; height: 94px; padding: 6px 0px 0px 12px; margin: 1px 0px 2px 0px; background-color: white; background-image: url(/pix/layout/advertising/adsense/navigation-adsense-background.gif); background-repeat: repeat-x;"]
 winload.de##div[style="width: 180px; height: 90px; padding: 6px 0px 12px 3px;"]
@@ -2420,7 +2414,6 @@ lpgforum.de##div[style="width: 300px; min-height: 250px; margin-bottom: 15px;"]
 rollertuningpage.de##div[style="width: 310px; float:right;"]
 strafbuch.de##div[style="width: 468px;height: 60px;overflow: hidden;float: right"]
 abendzeitung-muenchen.de##div[style="width: 510 Px; margin-bottom: 50 Px; "] > p:first-child
-lustich.de##div[style="width: 720px; height: 83px; margin-left: auto; margin-right: auto; margin-bottom: 10px;"]
 forenworld.at##div[style="width: 728px; height: 90px;"]
 meintomtom.de##div[style="width: 728px; height:108px;padding: 0 11px 0 11px;border:solid #b4c39a;border-width: 0 0 1px 0;margin: 0;background:url(/grafx/meintomtom/back_adblock.gif) no-repeat center;"]
 pixelio.de##div[style="width: 750px; height: 95px; float: left; margin-bottom: 10px;"]
@@ -2467,7 +2460,6 @@ gamestar.de##div[style^="background-image:url(/img/gamestar/products/banner_mcga
 t-online.de##div[style^="background-image:url(http://bilder.t-online.de/b/62/17/80/56/id_62178056/tid_da/index.jpg"]
 elixic.de##div[style^="background-image:url(http://www.elixic.de/typo3conf/ext/start/res/img/ad-rahmen-"]
 mafia.to##div[style^="background: url(\"images/topbar_bg.png\")"]
-lustich.de##div[style^="width: 720px; height: 83px;"]
 ka-news.de##div[style^="width:145px;height:150px;"]
 android-hilfe.de##div[style^="width:748px;height:100px;padding-top:10px;"]
 lix.in##form[action="ads.php"]
@@ -2576,7 +2568,6 @@ stealth.to##input[value="Mirror"]
 warez-load.com##input[value="Schneller Downloaden!"]
 ddl-porn.us##input[value="Zu den Highspeed Downloads"]
 tagesanzeiger.ch##li[id^="msgId_"] > .rightCol > p > a[target="_blank"] > img
-lustich.de##li[style] A[href^="http://"][target="_BLANK"]
 teltarif.de##p + .tetable + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
 englische-briefe.de##p > table[width="769"][cellpadding="4"]
 byte.to##p[style="color: #FFFFFF;"] > a > big

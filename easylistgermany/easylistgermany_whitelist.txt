@@ -340,6 +340,7 @@
 @@/adserver/*$domain=lustich.de
 @@/esel.js$domain=lustich.de
 @@/gigaflat.js$domain=lustich.de
+@@|http:/*.de/*/$script,domain=lustich.de
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
 @@|http://*.cu.cc/*.js|$domain=lustich.de
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
