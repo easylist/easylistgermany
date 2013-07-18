@@ -13,6 +13,7 @@
 ||alturl.com^$image,~image,popup,domain=byte.to
 ||amazon.de/?tag=bluray18-21$image,~image,popup,domain=bluray-disc.de
 ||amazon.de^*&tag=bluray18-21&$image,~image,popup,domain=bluray-disc.de
+||amazon.de^*^tag=$popup,domain=wetteronline.de
 ||atomload.at/out.php$image,~image,popup
 ||bestofsingles.net^$image,~image,popup,domain=ascii-bilder.net
 ||bit.ly^$image,~image,popup,domain=byte.to|movie-blog.org
