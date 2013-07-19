@@ -10,9 +10,11 @@
 @@||ad-emea.doubleclick.net/ad/qtom.generic.smartclip/$object-subrequest,domain=qtom.tv
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
+@@||ad.71i.de/global_js/globalV6.js
 @@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|brokencomedy.de|gamepro.de|gamestar.de|myvideo.de|n24.de|prosieben.de
 @@||ad.71i.de/global_js/sites/n24de.js$domain=n24.de
 @@||ad.71i.de/global_js/sites/pro7de.js$domain=brokencomedy.de
+@@||ad.71i.de/global_js/Sites/sport1fm.js$domain=sport1.fm
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.de.doubleclick.net/crossdomain.xml$object-subrequest,domain=n24.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
@@ -286,6 +288,8 @@
 @@||sparfoto.de/article_designer/ad.php?$object
 @@||spielkarussell.de^*/ads_loader_new.js
 @@||sport.de/autoimg/*/300x250/$image,~third-party
+@@||sport1.fm/ad/my_ad_iframe.html?ad_id=performance*&start=$subdocument
+@@||sport1.fm/ad/my_ad_integration.js
 @@||spotrails.com/video/$object-subrequest,domain=mobile.de
 @@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=deals.ebay.de|dealseu.ebay.de|pages.ebay.de
 @@||stadtlist.de/images/ads/$image
