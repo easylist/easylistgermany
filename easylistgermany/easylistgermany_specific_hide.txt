@@ -269,6 +269,7 @@ frimon.de###content:last-child > #sky_right:first-child + .padding_down + .paddi
 sprachnudel.de###content:last-child > ul[class]:first-child
 1001spiele.de###contentBanner
 creativeproxy.uimserv.net###contentContainer
+lustich.de###contentTopBg > div[class][style]
 wetter.net###content_anzeige
 mydealz.de###content_banner
 softonic.de###content_list_leaderboard
@@ -862,6 +863,7 @@ ruhrbarone.de###wpTopBox
 stb-web.de###wpbg
 wikio.de###wpub
 manager-magazin.de###wrapBoard > #wrapMain:first-child > .pbox
+lustich.de###wrapper + * + div[class][style]
 schwaebische.de###wrapper > #titelkopf
 micky-maus.de###wrapper-1 > #extra1[style="padding-left: 108px;"]
 n-tv.de###wrapper_content > div[style="height: 120px;"]:first-child
@@ -2227,6 +2229,7 @@ g-stream.in##button[onclick^="window.open('http://g-stream.in/mirror/"]
 g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
 repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
 englische-briefe.de##center > table[width="574"][cellspacing="0"][cellpadding="0"][border="0"]
+lustich.de##div > div[class][style]
 rundumkoeln.de##div[align="center"] > #top[name="top"]:first-child + table[border="0"]:last-child
 torrent.byte.to##div[align="center"] > .BUTTON[type="SUBMIT"][onclick][value]
 handy-faq.de##div[align="center"] > span[style="text-decoration:none; color:red;font-size:18px;"]:first-child
