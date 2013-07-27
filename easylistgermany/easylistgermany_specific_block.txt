@@ -1,6 +1,5 @@
 |http://$subdocument,third-party,domain=bonimail.de
 |http://*.cu.cc^$domain=lustich.de
-|http://*.de^$image,third-party,domain=lustich.de
 |http://*.org^$domain=lustich.de
 |http://*.tk^$domain=lustich.de
 ||0815sms.com/doku/$script
