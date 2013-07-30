@@ -414,8 +414,10 @@
 @@||feed-reader.net^$elemhide,image,script
 @@||flashtalking.com/imp/*;BMWTVTeaser220x180/?click=$script,domain=teleboerse.de
 @@||forum-fuer-senioren.de^*/ad.js
+@@||fr-himedia.videoplaza.tv/proxy/distributor/v2?$object-subrequest,domain=filmstarts.de
 @@||free-klingeltoene-handy.de/adframe.js
 @@||g.doubleclick.net/gampad/ads?$script,domain=lustich.de
+@@||g.doubleclick.net/gampad/ads?*&vpos=preroll^$object-subrequest,domain=filmstarts.de
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
 @@||gassitv-oxas.joshleepictures.com^*/adframe.js$domain=gassi-tv.de
@@ -451,7 +453,8 @@
 @@||news.feed-reader.net/adimages/$subdocument
 @@||newscomm.de/js/ads.js
 @@||nuggad.net/bk?*&nuggtg=de_putpattv_music&$object-subrequest,domain=putpat.tv
-@@||nuggad.net/crossdomain.xml$object-subrequest,domain=putpat.tv
+@@||nuggad.net/bk?nuggn=$object-subrequest,domain=filmstarts.de
+@@||nuggad.net/crossdomain.xml$object-subrequest,domain=filmstarts.de|putpat.tv
 @@||onlinetvrecorder.com/adcodes/?$subdocument
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
@@ -474,6 +477,8 @@
 @@||slimspots.com/view/$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||slimtrade.com/in.php?s=*&t=*&b=*&c=*&tm=*&r=$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||slimtrade.com/s*.js$domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
+@@||smart.allocine.fr/call/pubx/$object-subrequest,domain=filmstarts.de
+@@||smart.allocine.fr/diff/$object-subrequest,domain=filmstarts.de
 @@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.tv
 @@||smartclip.net/delivery/tag?sid=$object-subrequest,domain=clipfish.de
 @@||sudoku-space.de^$script
