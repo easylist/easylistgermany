@@ -1703,7 +1703,6 @@ derboersianer.com##.xmlnewsSingleCheap
 chilloutzone.net##.yeah
 bild.de##.yield
 magistrix.de##.zeezee
-maxwireless.de##ASIDE a[target="_blank"][onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"]
 lustich.de##A[href^="http://"][target="_BLANK"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
@@ -2225,6 +2224,7 @@ rtl.de##a[target="_self"][href^="http://www.rtl.de/street-one/"]
 saugzone.info##a[title="Usenet gratis"]
 chip.de##a[title^="Anzeige:"][href^="http://adx.chip.de/www/delivery/ck.php?"]
 herold.at##a[title^="Werbung: "][target="_blank"]
+maxwireless.de##aside a[target="_blank"][onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"]
 gamestar.de##blockquote > p > strong + a[href^="http://www.amazon.de/"]
 trackfox.com,trackfox2.com##body
 eye-games.com##body > #header:first-child + #wrapper
