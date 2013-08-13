@@ -340,6 +340,7 @@
 @@||zanox-affiliate.de/ppv/?$image,domain=14-tage-wettervorhersage.de
 @@||zanox.com/images/programs/$domain=sunsteps.org
 ! Anti-Adblock
+@@/ads/x.png$third-party,domain=lustich.de
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
@@ -388,7 +389,6 @@
 @@||deutscher-hip-hop.com/esel.js
 @@||deutschland-spion.de/www/delivery/spc.php?zones=$script,domain=mv-spion.de
 @@||deutschland-spion.de/www/delivery/spcjs.php?id=3^$script,domain=mv-spion.de
-@@||digentu.de/ads/$image,domain=lustich.de
 @@||dokumente-online.com^*/adframe.js
 @@||doubleclick.net/ad/clipfish.smartclip/$object-subrequest,domain=clipfish.de
 @@||doubleclick.net/ad/pushbackde.smartclip/clipfish.smartclip/$object-subrequest,domain=clipfish.de
