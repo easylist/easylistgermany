@@ -1,4 +1,5 @@
 |http://$subdocument,third-party,domain=bonimail.de
+|http://*.de/$script,third-party,domain=pcaction.de
 |http://lustich.de/bilder/*_*-
 |http://lustich.de/bilder/l/$image
 ||0815sms.com/doku/$script
