@@ -376,6 +376,7 @@
 @@||contaxe.com/go/show.js?atp=bnr&$subdocument,domain=dtk-deutschland.com
 @@||crabdance.com^$script,domain=my-entertainment.biz
 @@||crackajack.de^*/advertising.js
+@@||criteo.com/dis/rtt.js?$domain=lustich.de
 @@||damoh.homerj.de/crossdomain.xml$object-subrequest
 @@||damoh.homerj.de/|$object-subrequest
 @@||data-ero-advertising.com/impopup/layer.js$domain=berlin-nutten.com
@@ -390,6 +391,7 @@
 @@||dokumente-online.com^*/adframe.js
 @@||doubleclick.net/ad/clipfish.smartclip/$object-subrequest,domain=clipfish.de
 @@||doubleclick.net/ad/pushbackde.smartclip/clipfish.smartclip/$object-subrequest,domain=clipfish.de
+@@||doubleclick.net/adj/lustich_.de/$script,domain=lustich.de
 @@||doubleclick.net^*/RP_Sat1/other;dcmt=*;showroom=abp;$domain=prosieben.at|prosieben.ch|prosieben.de|sat1.at|sat1.ch|sat1.de|the-voice-of-germany.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=120x600^$script,domain=n-tv.de|teleboerse.de
 @@||doubleclick.net^*/www.nntv.de/*^sz=468x61^$script,domain=n-tv.de|teleboerse.de
