@@ -346,7 +346,6 @@
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
 @@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
-@@||ad.sevenads.net/layer.php?p=4384292&u=338&r=5$script,domain=uploaded-premium.ru
 @@||ad4.liverail.com/?LR_PUBLISHER_ID=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ad4.liverail.com/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -463,6 +462,7 @@
 @@||quoka.de^*/adframe.js
 @@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||servedby.flashtalking.com/imp/$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||sevenads.net/layer.php?p=$script,domain=uploaded-premium.ru
 @@||slimspots.com/adspace/*.js$domain=arschfick-pornos.net|badjojo-porno.com|bruder-schwester-fick.com|deviantclip-porno.com|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|pornorio.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com
 @@||slimspots.com/view/$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||slimtrade.com/in.php?s=*&t=*&b=*&c=*&tm=*&r=$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
@@ -482,6 +482,7 @@
 @@||ttads.de/www/delivery/click.js
 @@||uabp.tk/adserver/ads.js
 @@||uploaded-premium.ru/advertisement.js
+@@||uploaded-premium.ru^$script
 @@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||view.binlayer.com/ad-*.js$script,domain=super-otr.de
 @@||websc.org/script.php?s=234|$script,domain=uploaded-premium.ru
