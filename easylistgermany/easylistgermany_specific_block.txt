@@ -2,6 +2,7 @@
 |http://*.de/$script,third-party,domain=pcaction.de
 |http://lustich.de/bilder/*_*-
 |http://lustich.de/bilder/l/$image
+|http://lustich.de/img/*_*-$image
 ||0815sms.com/doku/$script
 ||0nk.de/banner/
 ||14-tage-wettervorhersage.de/popup-$script
