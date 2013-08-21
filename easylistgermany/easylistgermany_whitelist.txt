@@ -365,6 +365,8 @@
 @@||boardking.de^*/adframe.js
 @@||bs.serving-sys.com/burstingpipe/adserver.bs?$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||bullhost.de^$elemhide
+@@||bullhost.de^*#-$image
 @@||byte.to/js/ads.js
 @@||byte.to/js/gigaflat.js
 @@||cas.criteo.com/delivery/afr.php?zoneid=$subdocument,domain=netzkino.de
@@ -451,8 +453,8 @@
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|wintotal-forum.de
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=bullhost.de|faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|wintotal-forum.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||picload.org/ads-1.js
