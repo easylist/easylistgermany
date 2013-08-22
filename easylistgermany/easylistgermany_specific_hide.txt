@@ -230,6 +230,7 @@ tageblatt.de###container_banner_medium
 augsburger-allgemeine.de,goslarsche.de,schwaebische.de,szon.de,tagblatt.de,teckbote.de###container_banner_wallpaper
 schwaebische.de###container_banner_wallpaper_placeholder
 neckar-chronik.de###container_bottom
+pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]:first-child
 pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 az-web.de###container_standard_oms
 biothemen.de###content + #right
@@ -2265,6 +2266,7 @@ dslteam.de##div[align="center"][style="width: 850px; margin: 0px auto 15px auto;
 onlinekosten.de##div[align="left"][style="padding:0px 25px 0px 25px"] > div[align="center"][style="margin: 10px 0px 20px 0px;"]
 dslr-forum.de##div[align="left"][style="padding:0px 25px 0px 25px"] > div[style="padding:0px 0px 6px 0px"] > .tborder[cellspacing="1"][cellpadding="6"][border="0"][align="center"][width="100%"]
 forum.jswelt.de##div[class="postbit"]
+pcaction.de##div[class] > div:first-child:last-child > img[src^="/screenshots/teaserw160/"]
 pcaction.de##div[class]:first-child > div:first-child:last-child > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 boerse.bz##div[class][style^="display:"][style*="position:"][style*="top:"][style*="left:"][style*="width:"][style*="height:"][style*="z-index:"][style*="word-wrap:"][style*="box-shadow:"][style*="border-radius:"][style*="background-color:"]
 movie-blog.org##div[class^="entry"] a[href^="http://movie-blog.org/"]
