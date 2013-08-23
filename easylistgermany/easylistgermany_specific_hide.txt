@@ -230,6 +230,7 @@ tageblatt.de###container_banner_medium
 augsburger-allgemeine.de,goslarsche.de,schwaebische.de,szon.de,tagblatt.de,teckbote.de###container_banner_wallpaper
 schwaebische.de###container_banner_wallpaper_placeholder
 neckar-chronik.de###container_bottom
+pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]
 pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]:first-child
 pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 az-web.de###container_standard_oms
@@ -1376,6 +1377,7 @@ linkbase.in##.mainContentBoxLast[style="-moz-border-radius:5px 5px 0px 0px;"]
 linkbase.in##.mainContentBox[style="-moz-border-radius:5px 5px 0px 0px;"]
 forexpros.de##.mainLightBoxFilter
 bloodchamber.de##.main_banner
+pcaction.de##.mainframe > div[class] > div > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 eeepc.de##.mainpage > .tableinborder[cellspacing="1"][cellpadding="1"][border="0"][style="width: 96%"]
 welt.de##.marginalTeaser
 gamepro.de,gamestar.de##.marketbox_brace
