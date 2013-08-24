@@ -1707,7 +1707,7 @@ derboersianer.com##.xmlnewsSingleCheap
 chilloutzone.net##.yeah
 bild.de##.yield
 magistrix.de##.zeezee
-gamers.at##DIV[id^="clickTagDIVElement_"] > a[target="_blank"] > img[src="/clear.gif"]
+consol.at,gamers.at##DIV[id^="clickTagDIVElement_"] > a[target="_blank"] > img[src="/clear.gif"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
