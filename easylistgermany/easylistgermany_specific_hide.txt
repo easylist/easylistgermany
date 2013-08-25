@@ -517,6 +517,8 @@ boerse.bz###navbar_notice_1106
 boerse.bz###navbar_notice_1108
 boerse.bz###navbar_notice_1124
 boerse.bz###navbar_notice_1126
+boerse.bz###navbar_notice_1127
+boerse.bz###navbar_notice_1129
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
 web.de###navigation > #navSpecial[style="height: 235px;"]
@@ -1413,6 +1415,7 @@ motor-talk.de##.mtbwrapper
 express.de##.nah_box_horizonal
 express.de##.nah_box_vertical
 boerse.bz##.navbar_notice a[href="/boerse/software-angebote/free-vpn/"]
+boerse.bz##.navbar_notice a[href^="/boerse/software-angebote/rand"]
 boerse.bz##.navbar_notice a[target="_blank"][rel="nofollow"]
 alle-autos-in.de##.naviP
 wetter.at##.nearestLocations ~ div
