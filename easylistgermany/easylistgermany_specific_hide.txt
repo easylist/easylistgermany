@@ -1716,6 +1716,7 @@ magistrix.de##.zeezee
 consol.at,gamers.at##DIV[id^="clickTagDIVElement_"] > a[target="_blank"] > img[src="/clear.gif"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
+3dl.tv##[href^="/spack.php?q="]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
 forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 100px; left: 550px; empty-cells: hide;"]
 ebook-hell.to##[width="620"][bordercolor="#808080"] td[height="60"][align="CENTER"] > a > img
@@ -2246,6 +2247,7 @@ rtl.de##a[target="_self"][href^="http://traumgewinne.rtl.de/?id="]
 rtl.de##a[target="_self"][href^="http://www.brille24.de/shop/"]
 rtl.de##a[target="_self"][href^="http://www.onlinefotoservice.de/"][href*="?cref="]
 rtl.de##a[target="_self"][href^="http://www.rtl.de/street-one/"]
+3dl.tv##a[title*="lugin"]
 saugzone.info##a[title="Usenet gratis"]
 chip.de##a[title^="Anzeige:"][href^="http://adx.chip.de/www/delivery/ck.php?"]
 3dl.tv##a[title^="Für den Download muss das nachfolgende"]
@@ -2279,6 +2281,7 @@ pcaction.de##div > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 pcaction.de##div:first-child + img[src^="/screenshots/teaserw160/"]
 rundumkoeln.de##div[align="center"] > #top[name="top"]:first-child + table[border="0"]:last-child
 torrent.byte.to##div[align="center"] > .BUTTON[type="SUBMIT"][onclick][value]
+3dl.tv##div[align="center"] > iframe[id] + * + * + table[style]
 handy-faq.de##div[align="center"] > span[style="text-decoration:none; color:red;font-size:18px;"]:first-child
 handy-faq.de##div[align="center"] > span[style="text-decoration:none; color:red;font-size:18px;"]:first-child + a
 flirttown.net##div[align="center"][style="height:90px; z-index:99;"]
