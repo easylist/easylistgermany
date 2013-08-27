@@ -523,6 +523,8 @@ boerse.bz###navbar_notice_1133
 boerse.bz###navbar_notice_1135
 boerse.bz###navbar_notice_1136
 boerse.bz###navbar_notice_1138
+boerse.bz###navbar_notice_1142
+boerse.bz###navbar_notice_1144
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
 web.de###navigation > #navSpecial[style="height: 235px;"]
@@ -1423,6 +1425,7 @@ express.de##.nah_box_horizonal
 express.de##.nah_box_vertical
 boerse.bz##.navbar_notice > p > a[href^="/"]
 boerse.bz##.navbar_notice a[href="/boerse/software-angebote/free-vpn/"]
+boerse.bz##.navbar_notice a[href="http://www.boerse.bz/register.php?do=requestemail"]
 boerse.bz##.navbar_notice a[href^="/boerse/software-"]
 boerse.bz##.navbar_notice a[href^="/boerse/software-angebote/rand"]
 boerse.bz##.navbar_notice a[target="_blank"][rel="nofollow"]
