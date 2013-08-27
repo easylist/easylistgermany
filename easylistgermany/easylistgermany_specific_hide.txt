@@ -304,7 +304,6 @@ mikrocontroller.net###first-alayer
 mikrocontroller.net###first-palayer
 prosieben.de###flashintrolayer
 witz-des-tages.de###floatLayer
-iload.bz###flowertabsv > ul > li > a[target="_blank"]
 maclife.de###fm_marketplace_wrap
 cinebee.org###footer > script:first-child + div[id][style]
 smsform.de###footer a[target="_blank"][href^="http://clkde.tradedoubler.com/click?p="]
@@ -1699,7 +1698,6 @@ dastelefonbuch.de##.werbg
 russland.ru##.werbung_01[valign="top"][align="left"]
 russland.tv##.werbung_01[valign="top"][align="right"]
 forum.winload.de##.wgo_block
-gwarez.cc##.whitelink
 netzkino.de##.wideSkyscraper
 ihk-berlin.de##.widesky
 orschlurch.net##.widget_57179
@@ -1838,8 +1836,6 @@ pctipp.ch##a[href^="/index.php?eID=idgprintad&data="]
 3dl.tv##a[href^="/minror.php?q="]
 3dl.tv##a[href^="/mirnoor.php?q="]
 3dl.tv##a[href^="/mirror.php?q="]
-gwarez.cc##a[href^="/mirror/1/"]
-gwarez.cc##a[href^="/mirror/5/"]
 smsgott.de##a[href^="/o2freikarte.php"]
 golyr.de##a[href^="/out/klingelton/"]
 pcaction.de##a[href^="/screenshots/teaserw160/"] > img[src^="/screenshots/teaserw160/"]
@@ -1900,9 +1896,7 @@ beichthaus.com,gamefront.de##a[href^="http://amzn.to/"] > img
 hornoxe.com##a[href^="http://amzn.to/"] > img[width="480"][height="400"]
 trendhure.com##a[href^="http://amzn.trendhure.com"]
 best-movies.to##a[href^="http://anonym.to/?"]
-byte.to,ishare.to,pdfs.us##a[href^="http://anonym.to/?http://ul.to/ref/"]
-iload.bz,ishare.to##a[href^="http://anonym.to/?https://www.share-online.biz/affiliate/"]
-ishare.to##a[href^="http://anonym.to?http://www.firstload.com/affiliate/"]
+byte.to,pdfs.us##a[href^="http://anonym.to/?http://ul.to/ref/"]
 atomload.at##a[href^="http://anonymizeit.com/?http://ul.to/ref/"]
 smsform.de##a[href^="http://api.tapstream.com/lovoo/"]
 atomload.at##a[href^="http://atomload.at/google/"]
@@ -1965,7 +1959,7 @@ movie-blog.org##a[href^="http://gg.gg/"]
 krawall.de##a[href^="http://globalgroup.missioncontrol.global-media.de/user/"]
 movie-blog.org##a[href^="http://goo.by/"]
 drop-games.org##a[href^="http://goo.gl"]
-1load.net,atomload.at,best-movies.to,cinebee.org,ebook-hell.to,gameloads.org,movie-blog.org,porn2you.org,saugzone.info,torrent.to,trendhure.com,zensiert.to##a[href^="http://goo.gl/"]
+1load.net,atomload.at,best-movies.to,cinebee.org,ebook-hell.to,movie-blog.org,porn2you.org,saugzone.info,torrent.to,trendhure.com,zensiert.to##a[href^="http://goo.gl/"]
 ingame.de##a[href^="http://green.ingame.de/www/delivery/inck.php?"]
 duckcrypt.info##a[href^="http://highspeed.duckcrypt.info"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
@@ -2006,7 +2000,7 @@ musicelster.net##a[href^="http://musicelster.net/premium"]
 movie-blog.org##a[href^="http://myln.de/"]
 gamingxp.com##a[href^="http://nemexia.de/?"]
 hd-world.org##a[href^="http://netload.in/"][href*="&refer_id="]
-3d-area.in,best-movies.to,gwarez.cc,paradise-load.us,sdx.cc##a[href^="http://netload.in/index.php?refer_id="]
+3d-area.in,best-movies.to,paradise-load.us,sdx.cc##a[href^="http://netload.in/index.php?refer_id="]
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 mov-world.net##a[href^="http://nvpn.net/"]
 best-movies.to,ebook-hell.to,movie-blog.org##a[href^="http://ow.ly/"]
@@ -2333,7 +2327,6 @@ downloadstube.net##div[id^="ddl_"] + div[id] + a[onclick] + br + a[onclick]
 pnp.de##div[id^="diganz"]
 boerse.bz##div[id^="edit"] > table[id^="post"] + br + .tborder[width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"]
 jswelt.de##div[id^="edit"]:first-child:last-child > .spacer:last-child
-ishare.to##div[id^="flowertabs"] > ul > li:last-child > a[target="_blank"]
 gamestar.de##div[id^="idAd"]
 freitag.de##div[id^="mf"]
 boerse.bz##div[id^="navbar_notice_"] > div[style="text-align:center;width:770px;margin:auto;"]
