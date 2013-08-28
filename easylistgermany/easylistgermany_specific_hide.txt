@@ -1726,6 +1726,7 @@ derboersianer.com##.xmlnewsSingleCheap
 chilloutzone.net##.yeah
 bild.de##.yield
 magistrix.de##.zeezee
+3dl.tv##A[href*="MonztA"]
 consol.at,gamers.at##DIV[id^="clickTagDIVElement_"] > a[target="_blank"] > img[src="/clear.gif"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
@@ -2257,6 +2258,7 @@ rtl.de##a[target="_self"][href^="http://traumgewinne.rtl.de/?id="]
 rtl.de##a[target="_self"][href^="http://www.brille24.de/shop/"]
 rtl.de##a[target="_self"][href^="http://www.onlinefotoservice.de/"][href*="?cref="]
 rtl.de##a[target="_self"][href^="http://www.rtl.de/street-one/"]
+3dl.tv##a[title*="installiert"]
 3dl.tv##a[title*="lugin"]
 3dl.tv##a[title*="nachfolgend"]
 saugzone.info##a[title="Usenet gratis"]
