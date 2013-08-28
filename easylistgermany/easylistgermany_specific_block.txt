@@ -1800,8 +1800,5 @@
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Anti-Adblock
-||fjove.com^$domain=gamestar.de
-||garew.com^$domain=gamestar.de
-||greres.com^$domain=gamestar.de
+/\:\/\/www\.pcaction\.de\/screenshots\/286x161\/\d{5,}.+.jpg/$domain=pcaction.de
 ||mv-spion.de/ajax/lc?content=adblock
-||oxyll.com^$domain=gamestar.de
