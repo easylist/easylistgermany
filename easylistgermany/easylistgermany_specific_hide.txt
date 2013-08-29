@@ -2290,6 +2290,7 @@ g-stream.in##button[onclick^="window.open('http://g-stream.in/mirror/"]
 g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
 repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
 englische-briefe.de##center > table[width="574"][cellspacing="0"][cellpadding="0"][border="0"]
+pcaction.de##div + a[href^="/"] > img[src^="/screenshots/286x161/"]
 pcaction.de##div + img[src^="/screenshots/teaserw160/"]
 pcaction.de##div > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 pcaction.de##div:first-child + img[src^="/screenshots/teaserw160/"]
