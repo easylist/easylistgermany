@@ -841,8 +841,8 @@
 ||hoerbuch.in/zn.html
 ||hoerbuchfm.de^*/banner/
 ||hollywood-streams.com/partner.js
-||homad1.spiegel.tv^$object-subrequest
-||homad2.spiegel.tv^$object-subrequest
+||homad1.spiegel.tv^$object-subrequest,domain=spiegel.tv
+||homad2.spiegel.tv^$object-subrequest,domain=spiegel.tv
 ||homepage-anleitung.de/wp-content/uploads/*/sky2.png
 ||homerj.de/images/*_1580x250.
 ||homerj.de/images/*_300x550_
