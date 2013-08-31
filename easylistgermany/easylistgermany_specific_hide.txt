@@ -527,6 +527,8 @@ boerse.bz###navbar_notice_1142
 boerse.bz###navbar_notice_1144
 boerse.bz###navbar_notice_1145
 boerse.bz###navbar_notice_1147
+boerse.bz###navbar_notice_1151
+boerse.bz###navbar_notice_1153
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
 web.de###navigation > #navSpecial[style="height: 235px;"]
@@ -1427,6 +1429,7 @@ motor-talk.de##.mtbwrapper
 express.de##.nah_box_horizonal
 express.de##.nah_box_vertical
 boerse.bz##.navbar_notice > p > a[href^="/"]
+boerse.bz##.navbar_notice > p[style] > a[href="http://www.boerse.bz/register.php?do=requestemail"]
 boerse.bz##.navbar_notice a[href="/boerse/software-angebote/free-vpn/"]
 boerse.bz##.navbar_notice a[href^="/boerse/software-"]
 boerse.bz##.navbar_notice a[href^="/boerse/software-angebote/rand"]
@@ -1832,6 +1835,7 @@ bild.de##a[href="https://bild.bewerbung.de"] + .mark
 i-have-a-dreambox.com##a[href="https://www.satplace.de"]
 yourporn.ws##a[href="out.php"]
 speedlounge.in##a[href="usenet"]
+boerse.bz##a[href="www.boerse.bz/boerse/software-angebote/free-vpn-signup/"]
 landwirtschaftssimulator-mods.de##a[href^="./adclick.php?"]
 gameserveradmin.de##a[href^="./adclick.php?id="]
 lustich.de##a[href^="/"] > img[src^="/img/"]
