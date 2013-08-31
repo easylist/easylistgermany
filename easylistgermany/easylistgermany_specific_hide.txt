@@ -1172,6 +1172,7 @@ bleckede.de##.content > #rightcontainer:last-child
 sprachnudel.de##.content > #toplinks
 sprachnudel.de##.content > #toplinks2
 fscklog.com##.content > .posted:first-child img
+3dl.tv##.content > [align="center"] > a[target="_blank"][href^="/"]:first-child
 speedlounge.in##.content > center > hr[width="100%"] + a
 hammstars.de##.content > div[style="margin-top:-18px; float:right; width:237px; text-align:right;"]
 hamm.biz,hammonline.de##.content > div[style="position:relative; top:-13px; float:right; margin-left:15px; font-size:10px; text-align:right;"]
@@ -1551,6 +1552,7 @@ taketv.net##.rightbanner
 speedlounge.in##.rightbox
 speedlounge.in##.rightcontent
 oberpfalznetz.de##.rotating-banner
+3dl.tv##.row_content_warning[align="center"] > a[href^="/derefer.php?url="]
 boerse-online.de##.rsmodulanzeige
 herold.at##.rssBox
 ebay.de##.rtmad
