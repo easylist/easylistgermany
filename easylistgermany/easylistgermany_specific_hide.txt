@@ -2825,6 +2825,7 @@ svm-fan.net##tr:first-child:last-child > td[valign="top"]:last-child > small:las
 okbb.de##tr[bgcolor="#FFFF00"]
 vibe.cd##tr[height="180px"]:first-child + tr:last-child > td[style="background-color:transparent; margin:0px; padding:0px;"]:first-child
 gmd-music.com##tr[onclick^="window.open(\"http://gmd-music.com/mirror/"]
+pcaction.de##ul[id] > li > div[class]:first-child:last-child
 pcaction.de##ul[id] > li[id]:first-child + div[class]
 ! Anti-Adblock
 allvatar.com###bannerRight
