@@ -231,6 +231,8 @@ tageblatt.de###container_banner_medium
 augsburger-allgemeine.de,goslarsche.de,schwaebische.de,szon.de,tagblatt.de,teckbote.de###container_banner_wallpaper
 schwaebische.de###container_banner_wallpaper_placeholder
 neckar-chronik.de###container_bottom
+pcaction.de###container_fw > .mainframe:first-child + div[class]
+pcaction.de###container_fw > .mainframe:first-child > div[class]:first-child
 pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]
 pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]:first-child
 pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]:first-child:last-child
@@ -2818,6 +2820,7 @@ svm-fan.net##tr:first-child:last-child > td[valign="top"]:last-child > small:las
 okbb.de##tr[bgcolor="#FFFF00"]
 vibe.cd##tr[height="180px"]:first-child + tr:last-child > td[style="background-color:transparent; margin:0px; padding:0px;"]:first-child
 gmd-music.com##tr[onclick^="window.open(\"http://gmd-music.com/mirror/"]
+pcaction.de##ul[id] > li[id]:first-child + div[class]
 ! Anti-Adblock
 allvatar.com###bannerRight
 allvatar.com###bannerTop
