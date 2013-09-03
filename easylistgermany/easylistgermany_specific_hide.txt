@@ -733,7 +733,6 @@ arabische-küche.de###sidebar > #text-12
 namibia-hunter.at###sidebar > #text-8.widget-3
 arabische-küche.de###sidebar > #text-9
 omfg.to###sidebar > .ad
-wetteronline.de###sidebar > div[class] > div[class]:last-child
 stopadblock.org###sidebar > div[id][style="text-align:center"]
 stopadblock.org###sidebar > div[style] + div[id][style]
 mikrocontroller.net###sidebar-right > div[style]:last-child > div[id]:last-child > div[style]
@@ -1523,7 +1522,6 @@ scm-gladiators.de##.presenter
 wetter.de##.presenter-image
 digitalfernsehen.de##.pricerunner_search
 lyrics.de##.pro_teaser
-wetteronline.de##.prodInfoHref + div[id]:last-child
 giga.de##.product-teaser
 chip.de##.produktwelt_teaser
 chip.de##.produktwelt_teaser-headline
@@ -2403,7 +2401,6 @@ mikrocontroller.net##div[style$="160px; text-align:center; font-size:12px; borde
 mikrocontroller.net##div[style$="text-align:center;font-size:12px;border:2px solid #ffa500;padding:3px;background:-moz-linear-gradient(top, #EEE, #ffa500);background:-webkit-gradient(linear, left top, left bottom, from(#EEE), to(#ffa500));overflow: hidden;"]
 mein-kummerkasten.de##div[style$="width:300px;height:250px;"]
 gamingxp.com##div[style*="background-image: url(http://www.gamingxp.com/pictures/wallpaper/"]
-wetteronline.de##div[style*="data:image"]
 onlinewelten.com##div[style*="height:600px;width:160px;"]
 onlinewelten.com##div[style*="height:90px;width:728px;"]
 ingame.de##div[style*="width: 325px; height:300px;  position: absolute;"]
@@ -2608,7 +2605,6 @@ t-online.de##img[height="365"][width="178"][style="margin-left:-10px;margin-bott
 blogtotal.de##img[height="600"][width="120"]
 ak-kurier.de,ww-kurier.de##img[name="banner"]
 seatforum.de##img[src="http://www.seatforum.de/forum/images/anzeige.gif"] + a[target="_blank"] > img
-wetteronline.de##img[src^="data:image"]
 excitingcommerce.de##img[style="margin: 5px 5px 0px 0px; border-width:0px; align="]
 bluewin.ch##img[title="Anzeige"]
 looki.de##img[usemap="#branding"]
