@@ -231,10 +231,12 @@ tageblatt.de###container_banner_medium
 augsburger-allgemeine.de,goslarsche.de,schwaebische.de,szon.de,tagblatt.de,teckbote.de###container_banner_wallpaper
 schwaebische.de###container_banner_wallpaper_placeholder
 neckar-chronik.de###container_bottom
+pcaction.de###container_fw > .mainframe > div[class] > div > a > img[src^="/screenshots/teaserw160/"]
 pcaction.de###container_fw > .mainframe:first-child + div + div[class]
 pcaction.de###container_fw > .mainframe:first-child + div[class]
 pcaction.de###container_fw > .mainframe:first-child > div:first-child + div[class]
 pcaction.de###container_fw > .mainframe:first-child > div[class]:first-child
+pcaction.de###container_fw > div[class] > div > a > img[src^="/screenshots/teaserw160/"]
 pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]
 pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]:first-child
 pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]:first-child:last-child
