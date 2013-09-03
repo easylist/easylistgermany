@@ -7,6 +7,7 @@
 ||1load.net/mehrinfos.php$image,~image,popup
 ||1load.net/out.php$image,~image,popup
 ||3dl.tv/popup.php$image,~image,popup
+||3dl.tv^*.phtml?*=$popup
 ||4dl.bz/load.php$image,~image,popup
 ||5vor12.de/cgi-perl/adP?nr=$image,~image,popup
 ||ad.netzquadrat.de^$image,~image,popup,domain=sms.de
