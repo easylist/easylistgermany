@@ -2286,6 +2286,7 @@ rtl.de##a[target="_self"][href^="http://traumgewinne.rtl.de/?id="]
 rtl.de##a[target="_self"][href^="http://www.brille24.de/shop/"]
 rtl.de##a[target="_self"][href^="http://www.onlinefotoservice.de/"][href*="?cref="]
 rtl.de##a[target="_self"][href^="http://www.rtl.de/street-one/"]
+3dl.tv##a[target="blank_"][style="display:none"]:first-child + a
 3dl.tv##a[title*="installiert"]
 3dl.tv##a[title*="lugin"]
 3dl.tv##a[title*="nachfolgend"]
