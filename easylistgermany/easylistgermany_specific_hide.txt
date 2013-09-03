@@ -1744,6 +1744,7 @@ derboersianer.com##.xmlnewsSingleCheap
 chilloutzone.net##.yeah
 bild.de##.yield
 magistrix.de##.zeezee
+pcaction.de##:not(.hdlink) > img[src^="/screenshots/286x161/"]
 3dl.tv##A[href*="MonztA"]
 consol.at,gamers.at##DIV[id^="clickTagDIVElement_"] > a[target="_blank"] > img[src="/clear.gif"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
