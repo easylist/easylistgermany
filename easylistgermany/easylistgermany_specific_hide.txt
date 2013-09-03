@@ -1417,6 +1417,8 @@ linkbase.in##.mainContentBoxLast[style="-moz-border-radius:5px 5px 0px 0px;"]
 linkbase.in##.mainContentBox[style="-moz-border-radius:5px 5px 0px 0px;"]
 forexpros.de##.mainLightBoxFilter
 bloodchamber.de##.main_banner
+pcaction.de##.mainframe + div + div + div[class]
+pcaction.de##.mainframe > div:first-child + div + div[class]
 pcaction.de##.mainframe > div[class] > div > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 eeepc.de##.mainpage > .tableinborder[cellspacing="1"][cellpadding="1"][border="0"][style="width: 96%"]
 welt.de##.marginalTeaser
