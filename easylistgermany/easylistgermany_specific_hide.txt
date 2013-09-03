@@ -1186,6 +1186,7 @@ sprachnudel.de##.content > #toplinks
 sprachnudel.de##.content > #toplinks2
 fscklog.com##.content > .posted:first-child img
 3dl.tv##.content > [align="center"] > a[target="_blank"][href^="/"]:first-child
+3dl.tv##.content > [class][target="_blank"][style][href]:first-child
 speedlounge.in##.content > center > hr[width="100%"] + a
 3dl.tv##.content > div[align="center"]:first-child > a:first-child
 hammstars.de##.content > div[style="margin-top:-18px; float:right; width:237px; text-align:right;"]
