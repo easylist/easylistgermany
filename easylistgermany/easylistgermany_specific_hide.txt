@@ -2344,6 +2344,7 @@ pcaction.de##div[class] > div:first-child + img[src^="/screenshots/teaserw160/"]
 pcaction.de##div[class] > div:first-child:last-child > img[src^="/screenshots/teaserw160/"]
 pcaction.de##div[class] > div:last-child > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 pcaction.de##div[class] a[href] > img[src^="/screenshots/teaserw160/2013/09/"]
+pcaction.de##div[class] div:first-child:last-child > a > img[src^="/screenshots/teaserw160/"]
 pcaction.de##div[class]:first-child > div:first-child:last-child > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 boerse.bz##div[class][style^="display:"][style*="position:"][style*="top:"][style*="left:"][style*="width:"][style*="height:"][style*="z-index:"][style*="word-wrap:"][style*="box-shadow:"][style*="border-radius:"][style*="background-color:"]
 oxygen-scene.com##div[class^="adoxygen"]
