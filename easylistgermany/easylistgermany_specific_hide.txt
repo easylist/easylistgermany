@@ -379,6 +379,7 @@ immonet.de###immonetadspacetop
 immoauktionen.de###immowebAdCont
 gmx.net,web.de###info-virus
 sb.sbsb.cc###infobar
+pcaction.de###inhalt2 > div[class]
 zensiert.to###innercontent2 > .contentcontainer + .contentfooter + br + center
 immonet.de###interhypSonder
 rtl-now.rtl.de###ipslidebanner
@@ -1419,8 +1420,9 @@ linkbase.in##.mainContentBoxLast[style="-moz-border-radius:5px 5px 0px 0px;"]
 linkbase.in##.mainContentBox[style="-moz-border-radius:5px 5px 0px 0px;"]
 forexpros.de##.mainLightBoxFilter
 bloodchamber.de##.main_banner
+pcaction.de##.mainframe + div + div + div + div[class]
 pcaction.de##.mainframe + div + div + div[class]
-pcaction.de##.mainframe > div:first-child + div + div[class]
+pcaction.de##.mainframe > div:first-child + div + div + div[class]
 pcaction.de##.mainframe > div[class] > div > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 eeepc.de##.mainpage > .tableinborder[cellspacing="1"][cellpadding="1"][border="0"][style="width: 96%"]
 welt.de##.marginalTeaser
@@ -2328,7 +2330,6 @@ g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
 repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
 englische-briefe.de##center > table[width="574"][cellspacing="0"][cellpadding="0"][border="0"]
 pcaction.de##div + a[href^="/"] > img[src^="/screenshots/286x161/"]
-pcaction.de##div + img[src^="/screenshots/teaserw160/"]
 pcaction.de##div > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 pcaction.de##div:first-child + img[src^="/screenshots/teaserw160/"]
 rundumkoeln.de##div[align="center"] > #top[name="top"]:first-child + table[border="0"]:last-child
@@ -2345,7 +2346,6 @@ forum.jswelt.de##div[class="postbit"]
 pcaction.de##div[class] > div:first-child + img[src^="/screenshots/teaserw160/"]
 pcaction.de##div[class] > div:first-child:last-child > img[src^="/screenshots/teaserw160/"]
 pcaction.de##div[class] > div:last-child > img[src^="/screenshots/teaserw160/"]:first-child:last-child
-pcaction.de##div[class] a[href] > img[src^="/screenshots/teaserw160/2013/09/"]
 pcaction.de##div[class] div:first-child:last-child > a > img[src^="/screenshots/teaserw160/"]
 pcaction.de##div[class]:first-child > div:first-child:last-child > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 boerse.bz##div[class][style^="display:"][style*="position:"][style*="top:"][style*="left:"][style*="width:"][style*="height:"][style*="z-index:"][style*="word-wrap:"][style*="box-shadow:"][style*="border-radius:"][style*="background-color:"]
