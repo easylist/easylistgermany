@@ -2797,6 +2797,7 @@ sk-austriakaernten.at##td[valign="top"][height="38"][bgcolor="#231f20"][align="c
 plz-postleitzahl.de##td[valign="top"][style="padding-left: 15px;"] > table[width="250"][cellspacing="0"][cellpadding="0"]:first-child
 ultras.ws##td[valign="top"][style="width: 85%"]:last-child > br:first-child + center > h2:first-child
 ak-kurier.de##td[width="100%"][align="center"] > a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/pic/"]
+ak-kurier.de##td[width="100%"][align="center"] > a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/upload/"]
 kidsweb.de##td[width="115"][valign="top"][bgcolor="#FFFFCC"]:last-child > div[align="left"] > div[align="center"]
 kidsweb.de##td[width="116"][valign="top"][bgcolor="#FFFFCC"][rowspan="2"]:first-child > table[width="116"][border="0"][bgcolor="#FFFFCC"]:first-child + table[width="114"][border="0"]:last-child
 webvoten.de##td[width="120"][valign="top"] > div[style="font-size:12px; font-family:Verdana, Arial, Sans Serif;"]
@@ -2811,6 +2812,7 @@ echte-abzocke.de##td[width="180px"][valign="top"]
 areadvd.de##td[width="200"][valign="top"][height="1"][rowspan="3"]
 tvmatrix.at,tvmatrix.de,tvmatrix.eu,tvmatrix.net##td[width="300"][height="250"]
 teltarif.de##td[width="300"][valign="top"] > .tetable + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
+ak-kurier.de##td[width="55%"][align="center"] > a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/pic/"]
 leo.de##td[width="55%"][valign="middle"][style="background-color:#ffffee;text-align:center;"]
 tvmatrix.at,tvmatrix.de,tvmatrix.eu,tvmatrix.net##td[width="728"][height="90"]
 pbportal.de##td[width="730"][height="92"]
