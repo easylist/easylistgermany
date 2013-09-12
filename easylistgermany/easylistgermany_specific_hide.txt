@@ -2631,7 +2631,7 @@ raidrush.ws##img[height="250"][width="300"]
 t-online.de##img[height="365"][width="178"][style="margin-left:-10px;margin-bottom:10px"]
 1load.net,hoerbuch.in,lesen.to,liplop.de,teen-blog.us##img[height="60"][width="468"]
 blogtotal.de##img[height="600"][width="120"]
-ak-kurier.de,ww-kurier.de##img[name="banner"]
+ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
 seatforum.de##img[src="http://www.seatforum.de/forum/images/anzeige.gif"] + a[target="_blank"] > img
 excitingcommerce.de##img[style="margin: 5px 5px 0px 0px; border-width:0px; align="]
 bluewin.ch##img[title="Anzeige"]
@@ -2752,7 +2752,7 @@ board.world-of-hentai.to##table[width="100%"][cellspacing="0"][cellpadding="0"] 
 wettforum.info##table[width="100%"][cellspacing="0"][cellpadding="0"] > tbody:first-child:last-child > tr:first-child + tr > td[width="140"][valign="top"]:first-child
 wettforum.info##table[width="100%"][cellspacing="0"][cellpadding="0"] > tbody:first-child:last-child > tr:first-child > td[align="center"][colspan="2"]:first-child:last-child
 spotlight-wissen.de,spotlight.de##table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > #TopFh + #CntFh
-ak-kurier.de##table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > .copy[width="100%"]
+ak-kurier.de,nr-kurier.de##table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > .copy[width="100%"]
 teltarif.de##table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][style="margin: 0 0 8px 0;"]
 nisch-center.de##table[width="125"][height="125"]
 chessbase.de##table[width="131"][height="80"][bordercolor="#9CA4A7"][bgcolor="#EDEEDC"]
@@ -2797,11 +2797,12 @@ sein.de##td[style="width: 970px;"] + td[style="width: 20%; vertical-align: top; 
 ww3.cad.de##td[valign="bottom"][align="center"][colspan="2"] > table[width="755"][height="95"][align="center"]
 g-stream.in##td[valign="top"] > div[style^="max-width:"] > [class] + [id]
 g-stream.in##td[valign="top"] > div[style^="max-width:"] > div[id]
+nr-kurier.de##td[valign="top"]:first-child + td[width="1"][background="images/abstand1.gif"] + td[width="180"][valign="top"]:last-child
 sk-austriakaernten.at##td[valign="top"][height="38"][bgcolor="#231f20"][align="center"]:first-child:last-child > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"]:first-child:last-child
 plz-postleitzahl.de##td[valign="top"][style="padding-left: 15px;"] > table[width="250"][cellspacing="0"][cellpadding="0"]:first-child
 ultras.ws##td[valign="top"][style="width: 85%"]:last-child > br:first-child + center > h2:first-child
 ak-kurier.de##td[width="100%"][align="center"] > a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/pic/"]
-ak-kurier.de##td[width="100%"][align="center"] > a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/upload/"]
+ak-kurier.de,nr-kurier.de##td[width="100%"][align="center"] > a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/upload/"]
 kidsweb.de##td[width="115"][valign="top"][bgcolor="#FFFFCC"]:last-child > div[align="left"] > div[align="center"]
 kidsweb.de##td[width="116"][valign="top"][bgcolor="#FFFFCC"][rowspan="2"]:first-child > table[width="116"][border="0"][bgcolor="#FFFFCC"]:first-child + table[width="114"][border="0"]:last-child
 webvoten.de##td[width="120"][valign="top"] > div[style="font-size:12px; font-family:Verdana, Arial, Sans Serif;"]
