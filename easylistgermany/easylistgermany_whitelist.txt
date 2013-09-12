@@ -376,6 +376,7 @@
 @@||byte.to/js/gigaflat.js
 @@||cas.criteo.com/delivery/afr.php?zoneid=$subdocument,domain=netzkino.de
 @@||cdn.flashtalking.com/xre/*/js/j-*.js$domain=teleboerse.de
+@@||cdn.flashtalking.com^*.mp4$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||chat.lycos.de/adimages/$subdocument
 @@||chickenkiller.com^$script,domain=my-entertainment.biz
 @@||combatarms-game.de/adframe.js
