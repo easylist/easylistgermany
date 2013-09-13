@@ -9,6 +9,7 @@
 ||3dl.tv/popup.php$image,~image,popup
 ||3dl.tv^*.phtml?*=$popup
 ||3dl.tv^*?*=*%20$popup
+||3dl.tv^*?*=*_$popup
 ||4dl.bz/load.php$image,~image,popup
 ||5vor12.de/cgi-perl/adP?nr=$image,~image,popup
 ||ad.netzquadrat.de^$image,~image,popup,domain=sms.de
@@ -69,6 +70,7 @@
 ||saugzone.info/vote/out.php$image,~image,popup
 ||sexfilmchen.com^$image,~image,popup,domain=ddl-porn.us
 ||share-online.biz/affiliate/$image,~image,popup,domain=linxcrypt.com
+||simple-files.com^$popup,domain=3dl.tv
 ||slimtrade.com/out.php?$image,~image,popup,domain=byte.to|ddl-porn.us|hd-load.org
 ||smsgott.de/click.php?url=$image,~image,popup
 ||stream-box.net/out.php$image,~image,popup
