@@ -213,6 +213,7 @@
 @@||media.laendleimmo.at/topad/$image,~third-party
 @@||menshealth.de/videoads/$object-subrequest
 @@||merkur-werbebanner.de^$~third-party
+@@||milesandmore-aktionen.de^*://promo.$subdocument,domain=promo.milesandmore.com
 @@||mirapodo.de/a?rt=$script,domain=mytoys.de
 @@||mirapodo.de/ads?$script
 @@||mmcomputer.de^*&BannerID=$subdocument
