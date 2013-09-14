@@ -2599,6 +2599,7 @@ gamestar.de##div[style^="background-image:url(/img/gamestar/products/banner_mcga
 t-online.de##div[style^="background-image:url(http://bilder.t-online.de/b/62/17/80/56/id_62178056/tid_da/index.jpg"]
 elixic.de##div[style^="background-image:url(http://www.elixic.de/typo3conf/ext/start/res/img/ad-rahmen-"]
 mafia.to##div[style^="background: url(\"images/topbar_bg.png\")"]
+gamestar.de##div[style^="position: fixed; width: 120px; margin-left: 984px; height: 600px; top: 50%;"]
 ka-news.de##div[style^="width:145px;height:150px;"]
 android-hilfe.de##div[style^="width:748px;height:100px;padding-top:10px;"]
 lix.in##form[action="ads.php"]
