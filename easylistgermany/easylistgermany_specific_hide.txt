@@ -2858,26 +2858,13 @@ r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 allvatar.com###bannerRight
 allvatar.com###bannerTop
 rp-online.de###banneroben
-absurde-zeiten.de###c6f4
-doclaurence-sector.de###cb49f5
-doclaurence-sector.de###cb49f5 + div
-winfuture.de###container > div[style] > img[onclick$="();"]:first-child:last-child
 winfuture.de###container > div[style] img[border="0"]
-winfuture.de###container > div[style] img[style][onclick$="();"]
 dug-portal.com###dp_layer
-1jux.net###fourlayer_fill
-1jux.net###fourlayer_layer
 hardwareluxx.de###leaderboard
 twixzo.de###s7e1
 hardwareluxx.de###sky
-smsmich.de###softbg
-smsmich.de###softbg + #innerpop
 mv-spion.de###spionLayer
-foren4all.de###t47b
-pcwelt.de##.ab-notification
 ingame.de##.layer
-g-stream.in##[id^="i180"]
-streammafia.com##body > :nth-child(14) + style + div[id]:last-child
 rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
 battleround.ath.cx,leverkusen-online.info,mobilfunk-geschichte.de,nachrichtenamort.de,pfalzfussball.de,rentatobi.de,spacebattle.ath.cx,tips-for-teens.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 leverkusen-online.info##body > div > div > noscript > style + div[id]:last-child
@@ -2889,10 +2876,7 @@ super-otr.de##body > style[id] + div[id]:nth-child(n+13)
 wwwok.at##body div > font > noscript > div[id]:last-child
 pfalzfussball.de##body noscript > style + div[id]:last-child
 uploaded-premium.ru##div[id$="_layer"]
-ingame.de##div[id][style="display: block;"] > div[id$="-background"]
-ingame.de##div[id][style="display: block;"] > div[id$="-background"] + div[id$="-note"]
 super-otr.de##div[style*="background-color: rgb(0, 0, 0);"]
 super-otr.de##div[style*="background-color: rgb(145, 145, 145);"]
 super-otr.de##div[style*="z-index: 100000; display: block"]
-winfuture.de##div[style]:first-child:last-child img[src^="http://i.wfcdn.de/4/"]
 pcaction.de##zyx > a > img[src^="/screenshots/teaserw160/"]
