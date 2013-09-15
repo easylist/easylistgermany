@@ -124,6 +124,7 @@
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
 @@||doubleclick.net/pfadx/de_n24.*;sz=50x1;$object-subrequest,domain=n24.de
 @@||doubleclick.net/pfadx/de_n24/*;sz=50x1;$object-subrequest,domain=n24.de
+@@||doubleclick.net^*.pcaction.de_de/*;sz=728x90^$script,domain=pcaction.de
 @@||doubleclick.net^*/bob.tech.de.smartclip/*;ord=$script,domain=radiobob.de
 @@||doubleclick.net^*/nacamar.ads.de.smartclip/*;ord=$object-subrequest,domain=edge.download.newmedia.nacamar.net
 @@||doubleclick.net^*/nacamar.de.smartclip/*;ord=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
@@ -240,6 +241,7 @@
 @@||osthessen-tv.de/werbebanner/$object-subrequest
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=14-tage-wettervorhersage.de|jetztspielen.de|spielen.com
+@@||pagead2.googlesyndication.com/pagead/imgad?id=$object,domain=pcaction.de
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=cnet.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=14-tage-wettervorhersage.de|jetztspielen.de|spielen.com
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=cnet.de
@@ -345,7 +347,7 @@
 @@||zanox-affiliate.de/ppv/?$image,domain=14-tage-wettervorhersage.de
 @@||zanox.com/images/programs/$domain=sunsteps.org
 ! Anti-Adblock
-@@.png|$image,third-party,domain=lustich.de|pcaction.de
+@@.png|$image,third-party,domain=lustich.de
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de

@@ -103,8 +103,20 @@ ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
 zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
 schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 ! Anti-Adblock
+gamestar.de#@##AdSky23
+gamestar.de#@##BF_BUZZBOX
+gamestar.de#@##WerbungObenRechts10_GesamtDIV
+gamestar.de#@##ad-fullbanner2
+gamestar.de#@##ad-popup1
+gamestar.de#@##ad_comments
 tape.tv#@##adframe:not(frameset)
+gamestar.de#@##adskinright
+gamestar.de#@##topwerbung
 netzkino.de#@#.advertising-top
 netzkino.de#@#.advertising-top-box
+gamestar.de#@#.annons_themeBlock
 netzkino.de#@#.contentAdBox
+gamestar.de#@#.headeradhome
+gamestar.de#@#.mxl_ad_inText_250
+gamestar.de#@#.topAdvBox
 nas-hilfe.de#@#div[id^="div-gpt-ad-"]

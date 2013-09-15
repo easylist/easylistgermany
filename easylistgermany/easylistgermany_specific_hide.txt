@@ -233,15 +233,6 @@ tageblatt.de###container_banner_medium
 augsburger-allgemeine.de,goslarsche.de,schwaebische.de,szon.de,tagblatt.de,teckbote.de###container_banner_wallpaper
 schwaebische.de###container_banner_wallpaper_placeholder
 neckar-chronik.de###container_bottom
-pcaction.de###container_fw > .mainframe > div[class] > div > a > img[src^="/screenshots/teaserw160/"]
-pcaction.de###container_fw > .mainframe:first-child + div + div[class]
-pcaction.de###container_fw > .mainframe:first-child + div[class]
-pcaction.de###container_fw > .mainframe:first-child > div:first-child + div[class]
-pcaction.de###container_fw > .mainframe:first-child > div[class]:first-child
-pcaction.de###container_fw > div[class] > div > a > img[src^="/screenshots/teaserw160/"]
-pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]
-pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]:first-child
-pcaction.de###container_fw > div[class] > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 az-web.de###container_standard_oms
 biothemen.de###content + #right
 fernsehkritik.tv###content > #rclm[style="width:224px;"]:last-child
@@ -383,7 +374,6 @@ immonet.de###immonetadspacetop
 immoauktionen.de###immowebAdCont
 gmx.net,web.de###info-virus
 sb.sbsb.cc###infobar
-pcaction.de###inhalt2 > div[class]
 zensiert.to###innercontent2 > .contentcontainer + .contentfooter + br + center
 immonet.de###interhypSonder
 rtl-now.rtl.de###ipslidebanner
@@ -1429,10 +1419,6 @@ linkbase.in##.mainContentBoxLast[style="-moz-border-radius:5px 5px 0px 0px;"]
 linkbase.in##.mainContentBox[style="-moz-border-radius:5px 5px 0px 0px;"]
 forexpros.de##.mainLightBoxFilter
 bloodchamber.de##.main_banner
-pcaction.de##.mainframe + div + div + div + div[class]
-pcaction.de##.mainframe + div + div + div[class]
-pcaction.de##.mainframe > div:first-child + div + div + div[class]
-pcaction.de##.mainframe > div[class] > div > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 eeepc.de##.mainpage > .tableinborder[cellspacing="1"][cellpadding="1"][border="0"][style="width: 96%"]
 welt.de##.marginalTeaser
 gamepro.de,gamestar.de##.marketbox_brace
@@ -1767,7 +1753,6 @@ derboersianer.com##.xmlnewsSingleCheap
 chilloutzone.net##.yeah
 bild.de##.yield
 magistrix.de##.zeezee
-pcaction.de##:not(.hdlink) > img[src^="/screenshots/286x161/"]
 3dl.tv##:not(td) > a[target="_blank"][href*=".3dl.tv/"][href*=".php?"][href*="="]:first-child
 3dl.tv##A[href*="MonztA"]
 consol.at,gamers.at##DIV[id^="clickTagDIVElement_"] > a[target="_blank"] > img[src="/clear.gif"]
@@ -1795,7 +1780,6 @@ xp-antispy.org##a[href*="com_partner&link="]
 hd-vidz.net##a[href*="filesonthe.net"]
 movie-blog.org##a[href*="http://ul.to/ref/"]
 lustich.de##a[href="#"] > img[src^="/img/"]
-pcaction.de##a[href="#"] > img[src^="/screenshots/teaserw160/"]
 1load.net##a[href="../../infos.php"]
 1load.net##a[href="../../out-so.php"]
 absenden.net##a[href="../weiter/3-4"]
@@ -1892,7 +1876,6 @@ pctipp.ch##a[href^="/index.php?eID=idgprintad&data="]
 3dl.tv##a[href^="/mirror.php?q="]
 smsgott.de##a[href^="/o2freikarte.php"]
 golyr.de##a[href^="/out/klingelton/"]
-pcaction.de##a[href^="/screenshots/teaserw160/"] > img[src^="/screenshots/teaserw160/"]
 3dl.tv##a[href^="/spack.php?q="]
 3dl.tv##a[href^="/spak.php?q="]
 speedlounge.in##a[href^="/to/"]
@@ -2345,9 +2328,6 @@ g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
 hornoxe.com##center > a[target="_blank"][href^="http://amzn.to/"] > img
 repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
 englische-briefe.de##center > table[width="574"][cellspacing="0"][cellpadding="0"][border="0"]
-pcaction.de##div + a[href^="/"] > img[src^="/screenshots/286x161/"]
-pcaction.de##div > img[src^="/screenshots/teaserw160/"]:first-child:last-child
-pcaction.de##div:first-child + img[src^="/screenshots/teaserw160/"]
 rundumkoeln.de##div[align="center"] > #top[name="top"]:first-child + table[border="0"]:last-child
 torrent.byte.to##div[align="center"] > .BUTTON[type="SUBMIT"][onclick][value]
 3dl.tv##div[align="center"] > iframe[id] + * + * + table[style]
@@ -2359,12 +2339,6 @@ dslteam.de##div[align="center"][style="width: 850px; margin: 0px auto 15px auto;
 onlinekosten.de##div[align="left"][style="padding:0px 25px 0px 25px"] > div[align="center"][style="margin: 10px 0px 20px 0px;"]
 dslr-forum.de##div[align="left"][style="padding:0px 25px 0px 25px"] > div[style="padding:0px 0px 6px 0px"] > .tborder[cellspacing="1"][cellpadding="6"][border="0"][align="center"][width="100%"]
 forum.jswelt.de##div[class="postbit"]
-pcaction.de##div[class] > div > div > div > a > img[src^="/screenshots/teaserw160/"]
-pcaction.de##div[class] > div:first-child + img[src^="/screenshots/teaserw160/"]
-pcaction.de##div[class] > div:first-child:last-child > img[src^="/screenshots/teaserw160/"]
-pcaction.de##div[class] > div:last-child > img[src^="/screenshots/teaserw160/"]:first-child:last-child
-pcaction.de##div[class] div:first-child:last-child > a > img[src^="/screenshots/teaserw160/"]
-pcaction.de##div[class]:first-child > div:first-child:last-child > img[src^="/screenshots/teaserw160/"]:first-child:last-child
 boerse.bz##div[class][style^="display:"][style*="position:"][style*="top:"][style*="left:"][style*="width:"][style*="height:"][style*="z-index:"][style*="word-wrap:"][style*="box-shadow:"][style*="border-radius:"][style*="background-color:"]
 oxygen-scene.com##div[class^="adoxygen"]
 movie-blog.org##div[class^="entry"] a[href^="http://movie-blog.org/"]
