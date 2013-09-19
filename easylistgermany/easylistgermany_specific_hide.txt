@@ -1450,8 +1450,18 @@ motor-talk.de##.mtbwrapper
 express.de##.nah_box_horizonal
 express.de##.nah_box_vertical
 boerse.bz##.navbar_notice > p > a[href^="/"]
+boerse.bz##.navbar_notice > p[style="font-size:17px;"] + p
+boerse.bz##.navbar_notice > p[style="font-size:17px;"] + p + p
+boerse.bz##.navbar_notice > p[style="font-size:17px;"] + p + p + p
+boerse.bz##.navbar_notice > p[style="font-size:17px;"] + p + p + p + p
+boerse.bz##.navbar_notice > p[style="font-size:17px;"] + p + p + p + p + p
+boerse.bz##.navbar_notice > p[style="font-size:17px;"] + p + p + p + p + p + p
+boerse.bz##.navbar_notice > p[style="font-size:17px;"] + p + p + p + p + p + p + p
+boerse.bz##.navbar_notice > p[style="font-size:17px;"] + p + p + p + p + p + p + p + p
+boerse.bz##.navbar_notice > p[style="font-size:17px;"]:first-child
 boerse.bz##.navbar_notice > p[style] > a[href="http://www.boerse.bz/register.php?do=requestemail"]
 boerse.bz##.navbar_notice a[href="/boerse/software-angebote/free-vpn/"]
+boerse.bz##.navbar_notice a[href="http://www.boerse.bz/register.php?do=requestemail"][rel="nofollow"]:first-child
 boerse.bz##.navbar_notice a[href^="/boerse/software-"]
 boerse.bz##.navbar_notice a[href^="/boerse/software-angebote/rand"]
 boerse.bz##.navbar_notice a[href^="http://www.boerse.bz/talk/"]
