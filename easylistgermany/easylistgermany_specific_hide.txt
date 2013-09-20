@@ -1460,6 +1460,7 @@ boerse.bz##.navbar_notice > p + p + p + p + p + p + p + p + p
 boerse.bz##.navbar_notice > p > a[href^="/"]
 boerse.bz##.navbar_notice > p:first-child
 boerse.bz##.navbar_notice > p[style] > a[href="http://www.boerse.bz/register.php?do=requestemail"]
+boerse.bz##.navbar_notice > strong:first-child + p:last-child
 boerse.bz##.navbar_notice a[href="/boerse/software-angebote/free-vpn/"]
 boerse.bz##.navbar_notice a[href="http://www.boerse.bz/register.php?do=requestemail"][rel="nofollow"]:first-child
 boerse.bz##.navbar_notice a[href^="/boerse/software-"]
