@@ -1449,6 +1449,7 @@ derwesten.de,stuttgarter-zeitung.de##.mp-slider
 motor-talk.de##.mtbwrapper
 express.de##.nah_box_horizonal
 express.de##.nah_box_vertical
+boerse.bz##.navbar_notice > b:first-child + p:last-child
 boerse.bz##.navbar_notice > p + p
 boerse.bz##.navbar_notice > p + p + p
 boerse.bz##.navbar_notice > p + p + p + p
