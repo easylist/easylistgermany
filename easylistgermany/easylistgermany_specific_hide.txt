@@ -2899,6 +2899,8 @@ mysmspage.de,sms-elite.de##body > style + div[id]:nth-child(n+13)
 super-otr.de##body > style[id] + div[id]:nth-child(n+13)
 wwwok.at##body div > font > noscript > div[id]:last-child
 pfalzfussball.de##body noscript > style + div[id]:last-child
+pcaction.de##div[class] > div:first-child:last-child > :last-child > img[src^="/screenshots/teaserw160/2013/09/"]:first-child:last-child
+pcaction.de##div[class] > div:first-child:last-child > div:first-child:last-child > :first-child > img[src^="/screenshots/teaserw160/2013/09/"]:first-child:last-child
 uploaded-premium.ru##div[id$="_layer"]
 super-otr.de##div[style*="background-color: rgb(0, 0, 0);"]
 super-otr.de##div[style*="background-color: rgb(145, 145, 145);"]
