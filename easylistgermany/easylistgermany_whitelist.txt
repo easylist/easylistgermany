@@ -63,6 +63,7 @@
 @@||adv.sportube.tv/adv/www/delivery/ajs.php?$script,domain=fc-suedtirol.com
 @@||afcdn.com/world/ads.js$domain=gofeminin.de
 @@||aka-cdn-ns.adtech.de/apps/$image,domain=neckermann.de
+@@||aka-cdn-ns.adtech.de/apps/*/default_ergebnisbox.jpg$domain=sportdaten.t-online.de
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
 @@||alfred-delp-schule.bildung-rp.de/ads_$~third-party
 @@||alfred-delp-schule.de/ads_$~third-party
@@ -82,6 +83,7 @@
 @@||banner.edll-fir.de^$image
 @@||banner.electronic-arts.de/www/images/*.jpg$domain=ea.com
 @@||banner.t-online.de/?advideo/*;vidas=pre_roll;$object-subrequest,domain=iam.t-online.de|mahjonggwelt.de
+@@||banner.t-online.de/addyn/*/ADTECH;loc=100;target=_blank;misc=$script,domain=sportdaten.t-online.de
 @@||banner.t-online.de/crossdomain.xml$object-subrequest,domain=mahjonggwelt.de
 @@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de
 @@||belboon.de/adtracking/$subdocument,domain=gutscheindoktor.de|preis-vergleich.tv|preismafia.com
