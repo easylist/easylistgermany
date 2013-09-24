@@ -964,7 +964,7 @@ diaware.de##.abcde_text
 tutorials.de##.above_body > #header + #navbar + table:last-child
 rc-network.de##.above_body:first-child + table[cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 die-schnelle-kuh.de##.abp
-abendblatt.de,alle-immobilien.ch,azonline.de,bazonline.ch,bernerzeitung.ch,billig-flieger-vergleich.de,bos-fahrzeuge.info,crn.de,derbund.ch,derlacher.de,fail.to,funnypizza.de,glamour.de,gmx.net,hamburg.de,inside-handy.de,ircgalerie.net,kalenderwoche.net,kino24.to,krawall.de,macwelt.de,netzpolitik.org,phonostar.de,playporn.to,podcast.de,prisma.de,sachsen-fernsehen.de,shopbetreiber-blog.de,sueddeutsche.de,suite101.de,tagesanzeiger.ch,welt.de,wn.de,zeit.de##.ad
+abendblatt.de,alle-immobilien.ch,azonline.de,bazonline.ch,bernerzeitung.ch,billig-flieger-vergleich.de,bos-fahrzeuge.info,crn.de,derbund.ch,derlacher.de,fail.to,funnypizza.de,glamour.de,gmx.net,hamburg.de,inside-handy.de,ircgalerie.net,kalenderwoche.net,kino24.to,krawall.de,macwelt.de,netzpolitik.org,phonostar.de,playporn.to,podcast.de,prisma.de,sachsen-fernsehen.de,shopbetreiber-blog.de,sueddeutsche.de,suite101.de,tagesanzeiger.ch,wallstreet-online.de,welt.de,wn.de,zeit.de##.ad
 med1.de,stayfriends.de##.adContainer
 wz-newsline.de##.adDisclaimerLight
 games.ch,webfail.at##.adMR
@@ -2540,6 +2540,7 @@ hitradio.com.na##div[style="position: relative; z-index: 1; width: 240px; height
 kochbar.de##div[style="position: relative;margin: 0;padding: 0;border: 0;width: 300px;height: 238px;background-color:#FFF;"]
 vibe.cd##div[style="position:absolute; top:173px; left:80px; z-index:2;"]
 webradio.de##div[style="position:absolute;left:322px;top:-3px;padding:1px;background-color:#2481BC"]
+wallstreet-online.de##div[style="position:absolute;right:5px;bottom:4px;width: 110px;height: 28px;overflow: hidden;"]
 presseportal.de##div[style="position:fixed;left:980px;top:10px;color:#9B9A9D;font-size:10px"]
 suxedoo.ch##div[style="position:relative; height:70px; left:40px;top:10px;"]
 simkea.de##div[style="position:relative; width:728px; height:90px; text-align:right; margin:1px auto 1px auto; overflow:hidden;"]
