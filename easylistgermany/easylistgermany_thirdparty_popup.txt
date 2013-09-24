@@ -21,6 +21,7 @@
 ||o2-freikarte.de/affiliate/$image,~image,popup
 ||ollys.to/?td=$popup,third-party
 ||relink.us^*/landing.php$image,~image,popup
+||sau-billig.net/?log=$popup,third-party
 ||shortnews.de^*_adtext_id=$image,~image,popup
 ||sloganmaker.net/?utm_campaign=*&utm_source=$popup,third-party
 ||smstune.de/la/$image,~image,popup
