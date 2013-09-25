@@ -544,6 +544,7 @@ boerse.bz###navbar_notice_1162
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
 web.de###navigation > #navSpecial[style="height: 235px;"]
+home.1und1.de###navigation > .module[style="height: 235px;"] + #navSpecial[style="height: 235px;"]
 nordbayern.de###nb-banner-top
 meteoprog.at###nb_3[activesection="254"]
 chilly-vanilly.net###netzclubLayer
