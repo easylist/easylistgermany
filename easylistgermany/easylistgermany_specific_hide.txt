@@ -2324,6 +2324,7 @@ saugzone.info##a[title="Usenet gratis"]
 chip.de##a[title^="Anzeige:"][href^="http://adx.chip.de/www/delivery/ck.php?"]
 3dl.tv##a[title^="Für den Download muss das nachfolgende"]
 herold.at##a[title^="Werbung: "][target="_blank"]
+schulzeux.de##article > .vi_a_79
 maxwireless.de##aside a[target="_blank"][onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"]
 gamestar.de##blockquote > p > strong + a[href^="http://www.amazon.de/"]
 trackfox.com,trackfox2.com##body
