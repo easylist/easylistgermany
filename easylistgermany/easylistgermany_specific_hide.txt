@@ -101,7 +101,7 @@ eeepc.de###amazon1
 crackajack.de###amazon_list
 chip.de###anchorSuperBanner
 tagesspiegel.de###anzeige_schnippsel
-de.msn.com###anzeigen
+de.msn.com,neue-braunschweiger.de###anzeigen
 justpay.de###anzeigen_left
 wuppertaler-rundschau.de###anzeigen_oben
 apomio.de###anzeigen_wrapper
@@ -687,7 +687,7 @@ wissenschaft.de###rechts
 musiksampler.de###rechts > table[weight="150"]:first-child + br + table[weight="150"]:last-child
 clipfish.de###rect
 kicker.de,kidszone.de,os-informer.de,pcgames.de,pcgameshardware.de,smartphone-daily.de,videogameszone.de,widescreen-online.de###rect_anz
-cineman.de,macprime.ch,moonwalk.ch###rectangle
+cineman.de,macprime.ch,moonwalk.ch,neue-braunschweiger.de###rectangle
 laut.de###rectangleSpace
 autobild.de###rectanglemodul
 abacho.de###reisemarkt-sidebar
@@ -813,7 +813,7 @@ sims-3.net###subheader
 xolopo.de###subnav_partner
 nanu.de###superBanner
 t-online.de###superBannerContainer
-allesueberfilme.de,apotheke-adhoc.de,boulevard-baden.de,braunschweiger-zeitung.de,deutsche-wirtschafts-nachrichten.de,donaukurier.de,internetworld.de,itwissen.info,lecker.de,lpgforum.de,morgenpost.de,morgenweb.de,netdoktor.at,rtl.de,stimme.de###superbanner
+allesueberfilme.de,apotheke-adhoc.de,boulevard-baden.de,braunschweiger-zeitung.de,deutsche-wirtschafts-nachrichten.de,donaukurier.de,internetworld.de,itwissen.info,lecker.de,lpgforum.de,morgenpost.de,morgenweb.de,netdoktor.at,neue-braunschweiger.de,rtl.de,stimme.de###superbanner
 juve.de###superbanner_side
 juve.de###superbanner_top
 tri-mag.de###superbanner_wide
