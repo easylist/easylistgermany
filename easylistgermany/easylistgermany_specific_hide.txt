@@ -2386,6 +2386,7 @@ movie-blog.org##div[class^="post"] a[href^="http://movie-blog.org/"]
 gofeminin.de##div[class^="sas_FormatID_"]
 car.de##div[class^="wrb-"]
 amazon.de##div[id$="_adcontent"]
+uploaded-premium.ru##div[id$="_layer"]
 0o2.de##div[id$="spbox"]
 boerse.bz##div[id][class][style^="z-index:"][style*="background-color:"][style*="opacity:"][style*="height:"][style*="width:"][style*="display:"]
 www.blick.ch##div[id^="CT299"]
@@ -2907,29 +2908,9 @@ vibe.cd##tr[height="180px"]:first-child + tr:last-child > td[style="background-c
 gmd-music.com##tr[onclick^="window.open(\"http://gmd-music.com/mirror/"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
-allvatar.com###bannerRight
-allvatar.com###bannerTop
-rp-online.de###banneroben
-winfuture.de###container > div[style] img[border="0"]
 dug-portal.com###dp_layer
-hardwareluxx.de###leaderboard
 twixzo.de###s7e1
-hardwareluxx.de###sky
-ingame.de##.layer
 rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
-battleround.ath.cx,leverkusen-online.info,mobilfunk-geschichte.de,nachrichtenamort.de,pfalzfussball.de,rentatobi.de,spacebattle.ath.cx,tips-for-teens.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
-leverkusen-online.info##body > div > div > noscript > style + div[id]:last-child
-battleround.ath.cx,mobilfunk-geschichte.de,nachrichtenamort.de,rene-neuweiler.ch,rentatobi.de,spacebattle.ath.cx,tips-for-teens.de##body > noscript > style + div[id]:last-child
-photoguide.pytalhost.net##body > script + div[id][style]
-photoguide.pytalhost.net##body > script + div[id][style] + div[style]:last-child
-mysmspage.de,sms-elite.de##body > style + div[id]:nth-child(n+13)
-super-otr.de##body > style[id] + div[id]:nth-child(n+13)
+mobilfunk-geschichte.de,nachrichtenamort.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
+mobilfunk-geschichte.de,nachrichtenamort.de,rene-neuweiler.ch##body > noscript > style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
-pfalzfussball.de##body noscript > style + div[id]:last-child
-pcaction.de##div[class] > div:first-child:last-child > :last-child > img[src^="/screenshots/teaserw160/2013/09/"]:first-child:last-child
-pcaction.de##div[class] > div:first-child:last-child > div:first-child:last-child > :first-child > img[src^="/screenshots/teaserw160/2013/09/"]:first-child:last-child
-uploaded-premium.ru##div[id$="_layer"]
-super-otr.de##div[style*="background-color: rgb(0, 0, 0);"]
-super-otr.de##div[style*="background-color: rgb(145, 145, 145);"]
-super-otr.de##div[style*="z-index: 100000; display: block"]
-pcaction.de##zyx > a > img[src^="/screenshots/teaserw160/"]
