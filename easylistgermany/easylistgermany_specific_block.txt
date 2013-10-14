@@ -1875,7 +1875,4 @@
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Anti-Adblock
-/\:\/\/www\.pcaction\.de\/screenshots\/286x161\/2013\/08\/\w+\d*.jpg/$domain=pcaction.de
-/\:\/\/www\.pcaction\.de\/screenshots\/286x161\/\d{4,}\w{2,}.jpg/$domain=pcaction.de
-/\:\/\/www\.pcaction\.de\/screenshots\/286x161\/\w+\d*.jpg/$domain=pcaction.de
-||mv-spion.de/ajax/lc?content=adblock
+||mv-spion.de/ajax/lc?content=qwert
