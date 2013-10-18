@@ -283,6 +283,7 @@ dmax.de###dni-sponsor-link
 schelian.de###dnn_dnnBANNER_lstBanners
 seamonkey.at###donor
 winload.de###downloading > #websearch[style="margin-top: 8px; background-color: white;"]
+dug-portal.com###dp_layer
 golyr.de###drk
 112-magazin.de,forendienst.de,navi-forum.net,wohnmobilforum.de###dropin
 abnehmen-forum.com###dropinboxv2cover
@@ -2909,7 +2910,6 @@ vibe.cd##tr[height="180px"]:first-child + tr:last-child > td[style="background-c
 gmd-music.com##tr[onclick^="window.open(\"http://gmd-music.com/mirror/"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
-dug-portal.com###dp_layer
 twixzo.de###s7e1
 rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
 mobilfunk-geschichte.de,nachrichtenamort.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
