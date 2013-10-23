@@ -353,6 +353,7 @@
 @@||zanox-affiliate.de/ppv/?$image,domain=14-tage-wettervorhersage.de
 @@||zanox.com/images/programs/$domain=sunsteps.org
 ! Anti-Adblock
+@@.png#-$image,domain=blog.free-clan.org
 @@.png|$image,third-party,domain=lustich.de
 @@/ads/ad.js$domain=uploaded-premium.ru
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
@@ -377,6 +378,7 @@
 @@||apmebf.com/ad/js/*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
 @@||betreut-wohnen.de/adserver/ad.js
 @@||blick.ch^*/advertisement.js
+@@||blog.free-clan.org^$elemhide
 @@||boardking.de^*/adframe.js
 @@||bs.serving-sys.com/burstingpipe/adserver.bs?$object-subrequest,domain=clipfish.de|filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=clipfish.de|filmstarts.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -431,6 +433,7 @@
 @@||flashtalking.com/imp/*;BMWTVTeaser220x180/?click=$script,domain=teleboerse.de
 @@||forum-fuer-senioren.de^*/ad.js
 @@||fr-himedia.videoplaza.tv/proxy/distributor/v2?$object-subrequest,domain=filmstarts.de
+@@||free-clan.org/tools/AntiAdBlocker/adcode.js
 @@||free-klingeltoene-handy.de/adframe.js
 @@||g.doubleclick.net/gampad/ads?$script,domain=lustich.de
 @@||g.doubleclick.net/gampad/ads?*&vpos=preroll^$object-subrequest,domain=filmstarts.de
@@ -478,7 +481,8 @@
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=bullhost.de|faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=blog.free-clan.org|bullhost.de|faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.free-clan.org
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|wintotal-forum.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
