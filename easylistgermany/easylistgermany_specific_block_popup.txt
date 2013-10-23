@@ -32,6 +32,7 @@
 ||ddl-porn.us/popup.php$image,~image,popup
 ||ddl.me^$image,~image,popup,domain=c1neon.com
 ||doubleclick.net^$image,~image,popup,domain=gamestar.de
+||ebook-hell.to/ad/$popup
 ||ebook-hell.to/out.php$image,~image,popup
 ||ebook-hell.to^*/out.php$image,~image,popup
 ||finya.de/Index/logoutAd/$image,~image,popup
