@@ -748,6 +748,7 @@ arabische-küche.de###sidebar > #text-9
 omfg.to###sidebar > .ad
 stopadblock.org###sidebar > div[id][style="text-align:center"]
 stopadblock.org###sidebar > div[style] + div[id][style]
+radforum.de###sidebar > li > .ffwidget_sidebar
 mikrocontroller.net###sidebar-right > div[style]:last-child > div[id]:last-child > div[style]
 mikrocontroller.net###sidebar-right > div[style]:last-child > script + div[style]:last-child
 grenzwissenschaft-aktuell.blogspot.de###sidebar-right-1 > #HTML1 > .widget-content:first-child
@@ -2914,6 +2915,7 @@ svm-fan.net##tr:first-child:last-child > td[valign="top"]:last-child > small:las
 okbb.de##tr[bgcolor="#FFFF00"]
 vibe.cd##tr[height="180px"]:first-child + tr:last-child > td[style="background-color:transparent; margin:0px; padding:0px;"]:first-child
 gmd-music.com##tr[onclick^="window.open(\"http://gmd-music.com/mirror/"]
+radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
 twixzo.de###s7e1
