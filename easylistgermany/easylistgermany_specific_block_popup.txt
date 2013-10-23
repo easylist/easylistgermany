@@ -35,6 +35,7 @@
 ||ebook-hell.to/ad/$popup
 ||ebook-hell.to/out.php$image,~image,popup
 ||ebook-hell.to^*/out.php$image,~image,popup
+||filmpalast.to/ad/$popup
 ||finya.de/Index/logoutAd/$image,~image,popup
 ||firstload.us^$image,~image,popup,domain=movie-blog.org
 ||g-stream.in/lla2/$popup
