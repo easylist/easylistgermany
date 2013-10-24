@@ -481,9 +481,9 @@
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=blog.free-clan.org|bullhost.de|faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=blog.free-clan.org|bullhost.de|faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.free-clan.org
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|faq4mobiles.de|lablue.at|lablue.ch|lablue.de|risiko-gesundheit.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||partner.googleadservices.com/gpt/pubads_impl_25.js$domain=lustich.de
@@ -522,5 +522,3 @@
 @@||view.binlayer.com/ad-*.js$script,domain=super-otr.de
 @@||websc.org/script.php?s=234|$script,domain=uploaded-premium.ru
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
-@@||wintotal-forum.de^$elemhide
-@@||wintotal-forum.de^*#-$image
