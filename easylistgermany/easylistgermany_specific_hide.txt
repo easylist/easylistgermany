@@ -498,8 +498,6 @@ hornoxe.com###mside > .navigation + div[align="center"] + .box-new
 de.msn.com,msn.de###msnpromo
 meinestadt.de###mt-banner
 funnybilder.net,lachfails.net,vipbilder.net###mt_right
-wer-kennt-wen.de###multimediaTeaser
-wer-kennt-wen.de###multimediaTeaserMini
 mov-world.net###mw_layer
 lexas.biz###mypop2_b
 send4free.de###n8f880e
@@ -686,7 +684,6 @@ quotenmeter.de###qm-content-box > div[style="margin-top:0;"]:last-child > div[st
 aiobase.com###quickLoginBox + center + style + div:last-child
 aiobase.com###quickLoginBox + style + div:last-child
 aol.de###rA
-wer-kennt-wen.de###rahmen > .center > #grid_122
 wetter.com###rc_travelad
 wissenschaft.de###rechts
 musiksampler.de###rechts > table[weight="150"]:first-child + br + table[weight="150"]:last-child
@@ -799,7 +796,6 @@ pressetext.com###sponsoredLinkPortletId
 hsc-bad-neustadt.de###sponsoren
 studententage.tu-freiberg.de###sponsoren2
 wetter.com###spox_box
-wer-kennt-wen.de###spreadshirt
 trendhure.com###sprite-content-title-buchtipp
 trendhure.com###sprite-content-title-sexy
 ifun.de###squarebutton_125x125_left
@@ -820,7 +816,7 @@ sims-3.net###subheader
 xolopo.de###subnav_partner
 nanu.de###superBanner
 t-online.de###superBannerContainer
-allesueberfilme.de,apotheke-adhoc.de,boulevard-baden.de,braunschweiger-zeitung.de,deutsche-wirtschafts-nachrichten.de,donaukurier.de,internetworld.de,itwissen.info,lecker.de,lpgforum.de,morgenpost.de,morgenweb.de,netdoktor.at,neue-braunschweiger.de,rtl.de,stimme.de###superbanner
+allesueberfilme.de,apotheke-adhoc.de,boulevard-baden.de,braunschweiger-zeitung.de,deutsche-wirtschafts-nachrichten.de,donaukurier.de,internetworld.de,itwissen.info,lecker.de,lpgforum.de,morgenpost.de,morgenweb.de,netdoktor.at,neue-braunschweiger.de,rtl.de,stimme.de,wer-kennt-wen.de###superbanner
 juve.de###superbanner_side
 juve.de###superbanner_top
 tri-mag.de###superbanner_wide
@@ -1151,7 +1147,6 @@ netzwelt.de##.box_content_footer > div[style="width: 310px; padding: 0px 0px 9px
 schwaebische.de##.box_width2 > div[style="border:1px solid #999999;padding:6px;"]
 sms.de##.boxbody[width="190"][valign="top"][align="left"][rowspan="7"]:last-child
 gronkh.de##.branding
-wer-kennt-wen.de##.brands4friends
 sbb.ch##.btn_promo
 hilferuf.de##.buchtipp_content
 hilferuf.de##.buchtipp_footer
