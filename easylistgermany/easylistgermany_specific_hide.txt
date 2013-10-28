@@ -2040,7 +2040,7 @@ movie-blog.org##a[href^="http://gg.gg/"]
 krawall.de##a[href^="http://globalgroup.missioncontrol.global-media.de/user/"]
 movie-blog.org##a[href^="http://goo.by/"]
 drop-games.org##a[href^="http://goo.gl"]
-1load.net,atomload.at,best-movies.to,cinebee.org,ebook-hell.to,movie-blog.org,porn2you.org,saugzone.info,torrent.to,trendhure.com,zensiert.to##a[href^="http://goo.gl/"]
+1load.net,atomload.at,best-movies.to,boerse.bz,cinebee.org,ebook-hell.to,movie-blog.org,porn2you.org,saugzone.info,torrent.to,trendhure.com,zensiert.to##a[href^="http://goo.gl/"]
 ingame.de##a[href^="http://green.ingame.de/www/delivery/inck.php?"]
 duckcrypt.info##a[href^="http://highspeed.duckcrypt.info"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
@@ -2351,6 +2351,8 @@ maxwireless.de##aside a[target="_blank"][onclick^="javascript:_gaq.push(['_track
 gamestar.de##blockquote > p > strong + a[href^="http://www.amazon.de/"]
 trackfox.com,trackfox2.com##body
 eye-games.com##body > #header:first-child + #wrapper
+boerse.bz##body > #wrapper:first-child:last-child > header:first-child + aside
+boerse.bz##body > #wrapper:first-child:last-child > header:first-child + aside + #content
 spieletipps.de##body > .jqmOverlay
 weihnachtsbaeckerei.com##body > .noprint[style="position: absolute; left: 50%; margin-left: 355px; top: 123px;"]
 langes-forum.de##body > :nth-child(75) + .tablec[align="center"][style="width:98%"] > tbody > tr > td[width="100%"] > .tableb[cellspacing="1"][cellpadding="4"][border="0"][style="width:100%"]
