@@ -1601,6 +1601,7 @@ stefan-niggemeier.de##.right-content > .external-content + .region-info + a > im
 notebookinfo.de##.rightColumn > .block-teaser-carousel
 tarifcheck24.com##.right_anzeige
 insidegames.ch,politik.ch##.right_banner
+spiele-check.de##.right_box:first-child > h2:first-child + .p5:last-child
 ka-news.de##.right_teaser_Anz
 insidegames.ch##.right_top_banner
 taketv.net##.rightbanner
