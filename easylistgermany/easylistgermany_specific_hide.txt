@@ -867,7 +867,7 @@ gmx.net,home.1und1.de,web.de###topper
 spritmonitor.de###towe
 kinofilme.ucoz.com###trade
 chip.de###trippleTipp
-n-tv.de###trivago_dealform
+n-tv.de,wetter.de###trivago_dealform
 t-online.de###tsc_skyscraper
 t-online.de###tsrwh
 torrent.to###ttoadbar
@@ -1787,8 +1787,10 @@ azonline.de,mv-online.de,wn.de##.wn_spo_banner
 goyax.de##.wpad
 linkbase.in##.wrap > div[style="padding: 10px; margin: 10px; -moz-border-radius: 5px 5px 5px 5px; -moz-box-shadow: 0px 0px 10px rgb(0, 0, 0); text-align: center; font-size: 18px; background-color: rgb(102, 160, 0); opacity: 0.45; border: 1px solid rgb(68, 187, 68);"]
 mobile.de##.wrapper-d-06-rect_de
+wetter.de##.wrapper-rectangle
 muenchen.de##.wrapper_dienste_anzeigen
 evo-cars.de##.xaded
+wetter.de##.xdot
 wetter.de##.xdotRelated
 derboersianer.com##.xmlnewsSingleCheap
 chilloutzone.net##.yeah
