@@ -1,6 +1,5 @@
 /?placement=$domain=movie-blog.org
 |http://$subdocument,third-party,domain=bonimail.de
-|http://*.de/$script,third-party,domain=pcaction.de
 |http://lustich.de/bilder/*_*-
 |http://lustich.de/bilder/l/$image
 |http://lustich.de/img/*_*-$image

@@ -1409,7 +1409,7 @@ pi-news.net##.l_pics > a:not([href*=".pi-news.net/"])
 games.ch##.layer
 1a-order.de,hoh.de##.lb_skyscraper
 ichspiele.cc##.leader
-airgamer.de,billig-flieger-vergleich.de,buffed.de,de.de,gamesaktuell.de,gamezone.de,pcaction.de,pcgames.de,pcgameshardware.de,spielefilmetechnik.de,trailerzone.info,videogameszone.de##.leaderboard
+airgamer.de,billig-flieger-vergleich.de,spielefilmetechnik.de,trailerzone.info##.leaderboard
 istream.ws##.leaderboard2
 lkz.de##.left > .content[style="min-height:100px"]
 au-ja.de##.leftADB
@@ -2929,6 +2929,7 @@ radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
 twixzo.de###s7e1
+buffed.de,gamesaktuell.de,gamezone.de,pcaction.de,pcgames.de,pcgameshardware.de,videogameszone.de##.fixed_layer
 rene-neuweiler.ch##body > :nth-child(n) + style + div[id]
 mobilfunk-geschichte.de,nachrichtenamort.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 mobilfunk-geschichte.de,nachrichtenamort.de,rene-neuweiler.ch##body > noscript > style + div[id]:last-child
