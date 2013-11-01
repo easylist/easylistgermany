@@ -1012,7 +1012,7 @@ webstandard.kulando.de##.advBlockTop
 arcor.de##.advTop
 pc-magazin.de##.adv_inside_galerie
 detektor.fm##.advarea
-3d-area.in,erdbeerlounge.de,eurogamer.de,finanzen.net,hcelb.de,mrn-news.de,n-tv.de,tvtv.at,tvtv.ch,tvtv.de,weser-kurier.de##.advert
+3d-area.in,erdbeerlounge.de,eurogamer.de,finanzen.net,hcelb.de,mrn-news.de,n-tv.de,teleboerse.de,tvtv.at,tvtv.ch,tvtv.de,weser-kurier.de##.advert
 filsh.net##.advert + .notification
 morgenpost.de,thueringer-allgemeine.de,welt.de##.advertising
 au-ja.de##.advframe
@@ -1446,6 +1446,7 @@ mobilfunk-talk.de##.md1
 t-online.de##.med_anz
 myvideo.de##.med_reg_box
 techno4ever.fm##.medium_rect
+teleboerse.de##.medrect
 fhm-magazin.de##.medrectcol2
 netdoktor.at##.menu-sponsor
 sinn-frei.com##.menu_feat
@@ -2215,7 +2216,7 @@ startseite.to##a[href^="http://www.putlocker.com/?affid="]
 ddlporn.org##a[href^="http://www.raenox.com/vote/"]
 verfickte-scheisse.net##a[href^="http://www.roulette-mit-system.net"]
 ddl-music.org##a[href^="http://www.roulette-trick.eu"]
-n-tv.de##a[href^="http://www.rtl.de/tools/count/xdot/countntv.php?id="]
+n-tv.de,teleboerse.de##a[href^="http://www.rtl.de/tools/count/xdot/countntv.php?id="]
 1load.net,best-movies.to,oxygen-scene.com##a[href^="http://www.share-online.biz/affiliate/"]
 best-movies.to,ddl-music.org,eselfilme.com,moviez.to,oxygen-scene.com##a[href^="http://www.share-online.biz/service.php?p="]
 verboten.to##a[href^="http://www.sofort-geld-verdienen.com"]
