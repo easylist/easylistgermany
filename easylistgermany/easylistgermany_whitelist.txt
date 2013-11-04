@@ -42,6 +42,7 @@
 @@||ads.heias.com/x/heias.smartclip/?$script,domain=podcast.de
 @@||ads.heias.com^*/heias.stream/$object,object-subrequest,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
+@@||ads.mybet.com/redirect.aspx?pid=$popup,domain=gewinnspiele.freenet.de
 @@||ads.radioffn.c.nmdn.net/ps-radioffn/livestream.mp3$object-subrequest,domain=radio.de
 @@||ads.radiohamburg.c.nmdn.net^*/livestream128.mp3$object-subrequest
 @@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
@@ -316,6 +317,7 @@
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tape.tv/tape2fs/images/campaign/teaser-redaktion.swf?
 @@||teaser.neckermann.de/addyn/3.0/*/adtech;loc=100;target=_blank;grp=*;misc=$script,domain=neckermann.de
+@@||teufel-media.de/www/delivery/avw.php?zoneid=$image,domain=gewinnspiele.freenet.de
 @@||tfag.de/img/$domain=focus.de
 @@||tfag.de/js_ng/js_ng_msg_0300.js$domain=mein-schoener-garten.de
 @@||thangkas.com/thangkas/thangkas/$image,~third-party
