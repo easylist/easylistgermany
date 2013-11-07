@@ -20,7 +20,6 @@
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|gutscheindoktor.de|literatur-fast-pur.de|preismafia.com
 @@||ad4.liverail.com/interstitial/?lr_publisher_id=$script,domain=jam.fm|paradiso.de
-@@||adadapter.netzathleten-media.de^*/namediaad.js$domain=lustich.de
 @@||adap.tv/redir/client/swfloader.swf?id=swfloader$object,domain=lycos.de
 @@||adap.tv/redir/javascript/vpaid.js$domain=lycos.de
 @@||adcell.de/click.php?bid=$subdocument,domain=gutscheindoktor.de|mein-rabatt.com
@@ -236,6 +235,8 @@
 @@||n-tv.de/stat/videoplayer/admeta.xml$object-subrequest
 @@||n-tv.de/stat/videoplayer/ntv_player.swf?*/admeta.$object
 @@||nadann.de/small_ads/$~third-party
+@@||netzathleten-media.de^*/naMediaAd.js$domain=kino-vorschau.com
+@@||netzathleten-media.de^*/namediaad.js$domain=lustich.de
 @@||nonstoppartner.net^$image,domain=sunsteps.org
 @@||nordclick.de/js/colors/adsense_colors.js
 @@||nuggad.net/bk?nuggn=$object-subrequest,domain=clipfish.de|edge.download.newmedia.nacamar.net
