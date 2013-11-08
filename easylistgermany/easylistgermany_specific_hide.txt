@@ -1692,6 +1692,7 @@ biallo.de##.stdanzeige
 tixuma.de##.stdfont[bgcolor="#ecf5fa"]
 biallo.de##.stdspezialteaseranzeige
 spieletipps.de##.stiYsmLink
+serienjunkies.org##.streams + #content > .post:first-child > .post-title:first-child + p[align="center"]
 fernsehserien.de##.stroeer-container
 fuw.ch##.suche_sponsor
 sdx.cc##.suggestionList > a[href^="http://www.sdx.cc/file="]
