@@ -1,11 +1,11 @@
 ||ad.de.doubleclick.net^$popup,third-party
-||adperform.de^$image,~image,popup,third-party
-||adshot.de^$image,~image,popup,third-party
-||binany-code.com^$image,~image,popup,third-party
-||der-wallstreet-trick.eu^$image,~image,popup,third-party
+||adperform.de^$popup,third-party
+||adshot.de^$popup,third-party
+||binany-code.com^$popup,third-party
+||der-wallstreet-trick.eu^$popup,third-party
 ||gamigoads.com^$popup,third-party
 ||insta-cash.net^$popup,third-party
-||jinkads.com^$image,~image,popup,third-party
+||jinkads.com^$popup,third-party
 ||slimspots.com^$popup,third-party
 ||slimtrade.com^$popup
-||xx00.info^$image,~image,popup,third-party
+||xx00.info^$popup,third-party
