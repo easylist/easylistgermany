@@ -569,6 +569,7 @@ dwdl.de###pagecontainer > .regular_LB
 ogame.de###pagefoldtarget
 amateurchess.com###pagenav_menu + .tborder[width="100%"][cellspacing="1"][cellpadding="7"][border="0"][align="center"] + br + table[border="1"]
 amateurchess.com###pagenav_menu + .tborder[width="100%"][cellspacing="1"][cellpadding="7"][border="0"][align="center"] + br + table[border="1"] + br + table[border="1"]
+rheinforum.com###pagenav_menu + table[width="100%"][border="0"]
 climbing.de###pane-werbung
 byte.to,de.msn.com,nh24.de###partner
 de.msn.com###partner2
@@ -2775,6 +2776,7 @@ forum-sachsen.com##table[height="500"][width="300"]
 tweakpc.de##table[height="60"][width="482"][align="center"]
 die-glocke.de##table[height="90"][width="728"]
 business-best-practice.de,din-5008-richtlinien.de##table[id^="anzeige_"]
+rheinforum.com##table[id^="v"][width="426"][height="600"]
 putenbrust.net##table[onclick^="window.open('http://in.mydirtyhobby.com/track/"]
 putenbrust.net##table[onclick^="window.open('http://www.FriendlyDuck.com/AF_"]
 repage8.de##table[style*=";table-layout:visible;width:468px;height:60px;"]
