@@ -21,7 +21,6 @@
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|gutscheindoktor.de|literatur-fast-pur.de|preismafia.com
 @@||ad4.liverail.com/interstitial/?lr_publisher_id=$script,domain=jam.fm|paradiso.de
 @@||adap.tv/redir/client/swfloader.swf?id=swfloader$object,domain=lycos.de
-@@||adap.tv/redir/javascript/vpaid.js$domain=lycos.de
 @@||adcell.de/click.php?bid=$subdocument,domain=gutscheindoktor.de|mein-rabatt.com
 @@||adcounter.darmstaedter-echo.de^$~third-party
 @@||adfarm1.adition.com/banner?sid=$script,domain=jam.fm
@@ -82,7 +81,6 @@
 @@||atwola.com/crossdomain.xml$object-subrequest,domain=player.nowonscreen.com
 @@||auditude.com/player/js/lib/pdk/50/1.0/AuditudePDKPlugin.js$domain=fandango.com
 @@||auditude.com/player/js/lib/plugin/1.3/aud.html5player.js$domain=fandango.com
-@@||auditude.com^*/auditudeadunit.swf$object-subrequest,domain=bravo.de
 @@||aus.laola1.tv/realmedia/ads/adstream_sx.ads/www.laola1.at/$object-subrequest
 @@||banner.edll-fir.de^$image
 @@||banner.electronic-arts.de/www/images/*.jpg$domain=ea.com
@@ -103,7 +101,6 @@
 @@||canoo.net/services/wordformationdictionary/gifs/
 @@||cash.ch/min/f=*/adtech-$script
 @@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
-@@||cdn.auditude.com/crossdomain.xml$object-subrequest,domain=bravo.de
 @@||chiemsee-reggae.de/gallery/anzeige.php?$subdocument
 @@||cinebee.org/wp-content/plugins/wp-*.js|
 @@||classic-motorrad.de/anzeigen/layout_images/new/top_ads_icon.gif
@@ -290,10 +287,8 @@
 @@||showfusion.eu/xml/ads/ad_1.xml$object-subrequest,domain=urbia.de
 @@||smart.allocine.fr/a/diff/*/show*.asp?$object-subrequest,domain=ufa-dresden.de
 @@||smart.allocine.fr/call/pubx/*&video=$object-subrequest
-@@||smart.allocine.fr/crossdomain.xml$object-subrequest
 @@||smartadserver.com/a/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
-@@||smartadserver.com/crossdomain.xml$object-subrequest,domain=syfy.de
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/smartad.js$domain=sky.de
 @@||smartadserver.com/diff/js/smartadserver.js$domain=freestream.nmdn.net
@@ -370,7 +365,6 @@
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
 @@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
 @@||ad4.liverail.com/?LR_PUBLISHER_ID=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||ad4.liverail.com/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/banner?sid=*&adjsver=*&clickurl=http%3A//ad.de.doubleclick.net/click%$script,domain=n-tv.de
 @@||adfarm1.adition.com/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -451,7 +445,6 @@
 @@||green-24.de^$elemhide
 @@||honda-innova-forum.de/styles/$image
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
-@@||innovid.com/crossdomain.xml$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||innovid.com^*;cb=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||istream.ws^$script
 @@||java-forum.org^$elemhide
@@ -518,7 +511,6 @@
 @@||tape.tv/js/adblockdetection.js
 @@||telemetryverification.net/?*;cb=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||telemetryverification.net/?cb=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||telemetryverification.net/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||tower-defense-spiele.de/wp-content/themes/Denver/js/ads.js
 @@||ttads.de/www/delivery/banner/ads/click.js
 @@||ttads.de/www/delivery/banner/click.js

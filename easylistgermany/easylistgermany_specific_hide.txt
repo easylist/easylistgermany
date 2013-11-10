@@ -369,7 +369,7 @@ radio-teddy.de###header_banner
 falk.de###header_banner_wrapper
 falk.de###header_bservice_wrapper
 klamm.de###header_main
-java-forum.org,paules-pc-forum.de,wardriving-forum.de###header_right_cell
+paules-pc-forum.de,wardriving-forum.de###header_right_cell
 20min.ch###homegate-teaser-small
 gratissoft.de###homepage_rectangle
 hornoxe.com###horn
@@ -561,7 +561,6 @@ versicherungsjournal.de###oben-skyscraper-box
 yasni.de###offer
 mixeryrawdeluxe.tv###outerBanner
 4forums.de###p
-prad.de###p-empfehlungen-box
 unternehmerkarte.de###pageBannerRgt
 unternehmerkarte.de###pageBannerTop
 wetter.de###pageRelated > #pageHalfpage
@@ -1471,20 +1470,11 @@ express.de##.nah_box_horizonal
 express.de##.nah_box_vertical
 boerse.bz##.navbar_notice > b:first-child + p:last-child
 boerse.bz##.navbar_notice > p + p
-boerse.bz##.navbar_notice > p + p + p
-boerse.bz##.navbar_notice > p + p + p + p
-boerse.bz##.navbar_notice > p + p + p + p + p
-boerse.bz##.navbar_notice > p + p + p + p + p + p
-boerse.bz##.navbar_notice > p + p + p + p + p + p + p
-boerse.bz##.navbar_notice > p + p + p + p + p + p + p + p
-boerse.bz##.navbar_notice > p + p + p + p + p + p + p + p + p
 boerse.bz##.navbar_notice > p > a[href^="/"]
 boerse.bz##.navbar_notice > p:first-child
 boerse.bz##.navbar_notice > p[style] > a[href="http://www.boerse.bz/register.php?do=requestemail"]
-boerse.bz##.navbar_notice a[href="/boerse/software-angebote/free-vpn/"]
 boerse.bz##.navbar_notice a[href="http://www.boerse.bz/register.php?do=requestemail"][rel="nofollow"]:first-child
 boerse.bz##.navbar_notice a[href^="/boerse/software-"]
-boerse.bz##.navbar_notice a[href^="/boerse/software-angebote/rand"]
 boerse.bz##.navbar_notice a[href^="http://www.boerse.bz/talk/"]
 boerse.bz##.navbar_notice a[target="_blank"][rel="nofollow"]
 alle-autos-in.de##.naviP
@@ -1798,8 +1788,6 @@ chilloutzone.net##.yeah
 bild.de##.yield
 magistrix.de##.zeezee
 3dl.tv##:not(td) > a[target="_blank"][href*=".3dl.tv/"][href*=".php?"][href*="="]:first-child
-3dl.tv##A[href*="MonztA"]
-consol.at,gamers.at##DIV[id^="clickTagDIVElement_"] > a[target="_blank"] > img[src="/clear.gif"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
@@ -1820,10 +1808,10 @@ bild.de##a[href*="/partner/"]
 bild.de##a[href*="/partner/"] + .mark
 emfis.de##a[href*="/uebersicht.html?tx_ricrotation_"]
 bild.de##a[href*="?AffiliateID="]
+3dl.tv##a[href*="MonztA"]
 xp-antispy.org##a[href*="com_partner&link="]
 hd-vidz.net##a[href*="filesonthe.net"]
 movie-blog.org##a[href*="http://ul.to/ref/"]
-lustich.de##a[href="#"] > img[src^="/img/"]
 1load.net##a[href="../../infos.php"]
 1load.net##a[href="../../out-so.php"]
 absenden.net##a[href="../weiter/3-4"]
@@ -1908,22 +1896,14 @@ speedlounge.in##a[href="usenet"]
 boerse.bz##a[href="www.boerse.bz/boerse/software-angebote/free-vpn-signup/"]
 landwirtschaftssimulator-mods.de##a[href^="./adclick.php?"]
 gameserveradmin.de##a[href^="./adclick.php?id="]
-lustich.de##a[href^="/"] > img[src^="/img/"]
 playit.ch##a[href^="/ad/admanager.php?"]
 boerse.bz##a[href^="/boerse/software-angebote/free-vpn-"]
 downloadstube.net##a[href^="/download-file.php?type="]
 bild.de##a[href^="/gewinnspiele/movieman/"]
-3dl.tv##a[href^="/go.php?q="]
 speedlounge.in##a[href^="/go/"]
-lustich.de##a[href^="/img/"] > img[src^="/img/"]
 pctipp.ch##a[href^="/index.php?eID=idgprintad&data="]
-3dl.tv##a[href^="/minror.php?q="]
-3dl.tv##a[href^="/mirnoor.php?q="]
-3dl.tv##a[href^="/mirror.php?q="]
 smsgott.de##a[href^="/o2freikarte.php"]
 golyr.de##a[href^="/out/klingelton/"]
-3dl.tv##a[href^="/spack.php?q="]
-3dl.tv##a[href^="/spak.php?q="]
 speedlounge.in##a[href^="/to/"]
 rtl.de##a[href^="/tools/count/teaser_ext.php?url="][href*="altfarm.mediaplex.com"]
 clipfish.de##a[href^="/tools/count/xdot/count.php?"]
@@ -1999,7 +1979,6 @@ magazin-ddl.info,sceneload.to,warez-load.com##a[href^="http://bitshare.com/?refe
 movie-blog.org##a[href^="http://blue.gg/"]
 movie-blog.org##a[href^="http://brk.to/"]
 byte.to##a[href^="http://byte.to/gogo/"]
-serialzz.us##a[href^="http://c.actiondesk.com/"]
 zensiert.to##a[href^="http://caracum.net?ref="]
 xxx-blog.to##a[href^="http://cctv.ws/"]
 movie-blog.org##a[href^="http://chilp.it/"]
@@ -2065,7 +2044,6 @@ movie-blog.org##a[href^="http://lil.io/"]
 linuxundich.de##a[href^="http://linuxundich.de/wp-content/plugins/adrotate/"]
 lix.in##a[href^="http://lix.in/ad.php?"]
 movie-blog.org##a[href^="http://lnk.co/"]
-lustich.de##a[href^="http://lustich.de/bilder/"] > img[src^="/img/"]
 mafia-linkz.to##a[href^="http://mafia-linkz.to/dirty/"]
 web.de##a[href^="http://magazine.web.de/de/themen/digitale-welt/usenext/"]
 gegenmuedigkeit.de##a[href^="http://marketingnow.de/go/"]
@@ -2293,7 +2271,6 @@ rtl.de##a[onclick^="xdot_go(document.getElementById('powerform_"]
 rtl.de##a[onclick^="xdot_go_trpix(document.getElementById('parshipform_"]
 computerbase.de##a[style="color:#000;display:block;padding:10px 7px 8px;position:relative"]
 imagebanana.com##a[style="color:orange; font-weight:bold; font-size:12px;"][target="_blank"]
-3dl.tv##a[style="display:none"] + a[href*=" "]
 fragster.de##a[style^="background: url(http://media.fragster.de/avw.php?zoneid="]
 3dl.tv##a[style^="display:"] + a[href*=" "]
 3dl.tv##a[style^="display:"] + a[href*="_"]
@@ -2342,14 +2319,12 @@ rtl.de##a[target="_self"][href^="http://www.brille24.de/shop/"]
 rtl.de##a[target="_self"][href^="http://www.onlinefotoservice.de/"][href*="?cref="]
 rtl.de##a[target="_self"][href^="http://www.rtl.de/street-one/"]
 3dl.tv##a[target="blank_"][style="display:none"] + a
-3dl.tv##a[target="blank_"][style="display:none"]:first-child + a
 3dl.tv##a[title*="installiert"]
 3dl.tv##a[title*="lugin"]
 3dl.tv##a[title*="nachfolgend"]
 saugzone.info##a[title="Usenet gratis"]
 3dl.tv##a[title][target="_blank"][rel="nofollow"][href^="/"]
 chip.de##a[title^="Anzeige:"][href^="http://adx.chip.de/www/delivery/ck.php?"]
-3dl.tv##a[title^="Für den Download muss das nachfolgende"]
 herold.at##a[title^="Werbung: "][target="_blank"]
 schulzeux.de##article > .vi_a_79
 maxwireless.de##aside a[target="_blank"][onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"]
@@ -2415,6 +2390,7 @@ gamestar.de##div[id^="bgclick_sky_"]
 gamers.de##div[id^="click"]
 insidegames.ch##div[id^="click"][onclick^="_gaq.push(['_trackEvent',"]
 gamers.at##div[id^="clickTagDIVElement_"] > a
+consol.at##div[id^="clickTagDIVElement_"] > a[target="_blank"] > img[src="/clear.gif"]
 bild.de##div[id^="content_stoerer_"]
 3dl.tv,mafia.to##div[id^="cpa_rotator_"]
 3dl.bz##div[id^="cpa_rotator_block_"]
@@ -2522,14 +2498,11 @@ ifun.de,iphone-ticker.de##div[style="float: right; display: block; width: 300px;
 ifun.de,iphone-ticker.de##div[style="float: right; display: block; width: 300px; height: 250px; border: 1px solid rgb(220,220,220);"]
 ifun.de,iphone-ticker.de##div[style="float: right; display: block; width: 300px; height: 600px; border: 1px solid rgb(220,220,220);"]
 14-tage-wettervorhersage.de##div[style="float:left; margin-bottom:15px; margin-right:22px;"]
-picdumps.com##div[style="float:left; padding:8px;margin-top:10px;border:1px solid #999999;background:#fff;width: 646px;"]
 androidpit.de##div[style="float:left; width:1200px; height:100px; position:relative; left:-120px; top:0px"]
 xpbulletin.de##div[style="float:left; width:300px; height:250px; margin-right:10px; padding: 0;"]
 evocars-magazin.de##div[style="float:left; width:300px; height:250px; margin:8px 15px 5px 3px;"]
 handy-faq.de##div[style="float:left; width:301px; height:251px; border:0px solid #336699;margin-left:2px;margin-right:15px;"]
-picdumps.com##div[style="float:left;margin-top:10px;background:#fff;width:646px;padding:8px;border:1px solid #999999;stress:98;"]
 ht4u.net##div[style="float:left;margin:10px 3px 10px 0px;width:300px;height:250px;"]
-picdumps.com##div[style="float:left;padding:8px;margin-top:10px;border:1px solid #999999;background:#fff;width: 646px;"]
 android-hilfe.de##div[style="float:left;width: 186px;position:absolute;left:25px;top:15px;"]
 android-hilfe.de##div[style="float:left;width: 186px;position:fixed;left:25px;top:15px;text-align:center;border:1px solid #636C74;height:610px;padding-top:13px;padding-bottom:5px;background-color: #ffffff;z-index:1;"]
 news.ch##div[style="float:left;width:1040px;padding:12px;text-align:center;margin-bottom:10px;background-color:#fff;"]
