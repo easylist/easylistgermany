@@ -458,6 +458,7 @@
 ||sunpepper.de/shop/banner/$third-party
 ||sunshine-space.it/banner/
 ||superwin.de/img/tvs/anzeige.jpg
+||superwin.de^$subdocument,third-party
 ||superwin.de^*/iframe_overlay.php$third-party
 ||t-shirt-drucker.de/banner/$third-party
 ||talkplus.de/banner/$third-party
