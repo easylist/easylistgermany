@@ -359,11 +359,11 @@
 @@.jpg#$image,domain=green-24.de
 @@.png#-$image,domain=blog.free-clan.org
 @@.png|$image,third-party,domain=lustich.de
-@@/ads/ad.js$domain=uploaded-premium.ru
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
 @@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
+@@||5.135.58.25^$script,domain=uploaded-premium.ru
 @@||ad4.liverail.com/?LR_PUBLISHER_ID=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||adfarm1.adition.com/banner?sid=*&adjsver=*&clickurl=http%3A//ad.de.doubleclick.net/click%$script,domain=n-tv.de
