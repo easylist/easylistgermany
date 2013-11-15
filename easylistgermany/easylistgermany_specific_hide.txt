@@ -1758,6 +1758,7 @@ movie-blog.org##.ulnet
 heise.de##.us_ad
 tagblatt.ch##.vermarktungsflaeche
 wetter.com##.vertical-margin-top-small + a[target="_blank"][onclick^="_gaq.push(['_trackEvent', '"]
+wetter.com##.vertical-margin-top-small > a > .lazy
 ebay.de##.vi-as
 ebay.de##.vi-d-pad
 ebay.de##.vi-is1-vtp
