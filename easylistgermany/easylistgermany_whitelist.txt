@@ -494,7 +494,7 @@
 @@||picload.org/ads-1.js
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||plusboard.de^$image
-@@||pubads.g.doubleclick.net/pagead/adview?ai=*&sigh=*&template_id=*&adurl=^$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||pubads.g.doubleclick.net/pagead/adview?ai=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||pure-anime.biz^*/advertisement.js
 @@||quoka.de^*/adframe.js
 @@||schulzeux.de/js/show_ads.js
