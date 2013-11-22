@@ -15,6 +15,7 @@
 @@||ad.71i.de/global_js/sites/n24de.js$domain=n24.de
 @@||ad.71i.de/global_js/sites/pro7de.js$domain=brokencomedy.de
 @@||ad.71i.de/global_js/Sites/sport1fm.js$domain=sport1.fm
+@@||ad.71i.de/images/$object-subrequest,domain=n24.de
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.de.doubleclick.net/crossdomain.xml$object-subrequest,domain=n24.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
@@ -234,6 +235,7 @@
 @@||n-tv.de/ads/images/kompakt_$image
 @@||n-tv.de/stat/videoplayer/admeta.xml$object-subrequest
 @@||n-tv.de/stat/videoplayer/ntv_player.swf?*/admeta.$object
+@@||n24.de^*/my_ad_integration.js
 @@||nadann.de/small_ads/$~third-party
 @@||netzathleten-media.de^*/naMediaAd.js$domain=kino-vorschau.com
 @@||netzathleten-media.de^*/namediaad.js$domain=lustich.de
