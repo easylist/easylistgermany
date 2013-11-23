@@ -821,7 +821,7 @@ sims-3.net###subheader
 xolopo.de###subnav_partner
 nanu.de###superBanner
 t-online.de###superBannerContainer
-allesueberfilme.de,apotheke-adhoc.de,boulevard-baden.de,braunschweiger-zeitung.de,deutsche-wirtschafts-nachrichten.de,donaukurier.de,internetworld.de,itwissen.info,lecker.de,lpgforum.de,morgenpost.de,morgenweb.de,netdoktor.at,neue-braunschweiger.de,rtl.de,stimme.de,wer-kennt-wen.de###superbanner
+allesueberfilme.de,apotheke-adhoc.de,boulevard-baden.de,braunschweiger-zeitung.de,deutsche-wirtschafts-nachrichten.de,donaukurier.de,internetworld.de,itwissen.info,lecker.de,lpgforum.de,morgenpost.de,morgenweb.de,netdoktor.at,neue-braunschweiger.de,pkw-forum.de,rtl.de,stimme.de,wer-kennt-wen.de###superbanner
 juve.de###superbanner_side
 juve.de###superbanner_top
 tri-mag.de###superbanner_wide
@@ -1503,6 +1503,7 @@ versicherungsjournal.at,versicherungsjournal.de##.norm-lsp-wbox
 versicherungsjournal.at,versicherungsjournal.de##.norm-rsp-wbox1
 team.gamed.de##.normal_text[width="100%"][valign="top"][height="100"][align="left"][border="0"]
 pcwelt.de##.nortonheader
+pkw-forum.de##.notices + br + #vbseo_vhtml_1
 gmx.net##.notification-alert[data-notification-browser]
 hamburg.de##.nscout[target="_blank"][href^="http://de.sitestat.com/"]
 gmx.net,web.de##.offers
@@ -2591,7 +2592,7 @@ dwdl.de##div[style="width: 300px; height: 100px; margin-bottom: 20px;"]
 dwdl.de##div[style="width: 300px; height: 250px; margin-bottom: 20px; text-align: right;"]
 welt.de##div[style="width: 300px; height: 250px;"]
 104.6rtl.com##div[style="width: 300px; height: 255px; background-color: white;"]
-lpgforum.de##div[style="width: 300px; min-height: 250px; margin-bottom: 15px;"]
+lpgforum.de,pkw-forum.de##div[style="width: 300px; min-height: 250px; margin-bottom: 15px;"]
 rollertuningpage.de##div[style="width: 310px; float:right;"]
 strafbuch.de##div[style="width: 468px;height: 60px;overflow: hidden;float: right"]
 abendzeitung-muenchen.de##div[style="width: 510 Px; margin-bottom: 50 Px; "] > p:first-child
