@@ -161,7 +161,7 @@
 @@||fotostudio-katikrueger.de/werbung/$~third-party
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g-stream.in/lla2/smoothscroll.js
-@@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de
+@@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|rakuten.de
 @@||gamepro.de/js/gamepro/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
 @@||gamers.at/images/branding/*/header.
@@ -256,7 +256,9 @@
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=14-tage-wettervorhersage.de|jetztspielen.de|spielen.com
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=cnet.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=14-tage-wettervorhersage.de|jetztspielen.de|spielen.com
+@@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.de
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=cnet.de
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=rakuten.de
 @@||partners.webmasterplan.com/click.asp?ref=$subdocument,domain=eule.de|gutscheindoktor.de
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
