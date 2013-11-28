@@ -48,6 +48,8 @@
 @@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
 @@||adserv.quality-channel.de/realmedia/ads/*?videoad$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
 @@||adserver.71i.de/global_js/globalv6.js$domain=hausgemacht.tv
+@@||adserver.adtech.de/?advideo/*;vidAS=PRE_ROLL;$object-subrequest,domain=zattoo.com
+@@||adserver.adtech.de/crossdomain.xml$object-subrequest
 @@||adserver.bigwigmedia.com/adfetch2.php?$object-subrequest,domain=spielefuerdich.de
 @@||adserver.bigwigmedia.com/ingamead2_$object-subrequest,domain=spielaffe.de
 @@||adserver.devaki.ch/www/images/$image,domain=player.streaming.devaki.ch
@@ -102,6 +104,7 @@
 @@||canoo.net/services/wordformationdictionary/gifs/
 @@||cash.ch/min/f=*/adtech-$script
 @@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
+@@||cdn.flashtalking.com^*.flv$object-subrequest,domain=zattoo.com
 @@||chiemsee-reggae.de/gallery/anzeige.php?$subdocument
 @@||cinebee.org/wp-content/plugins/wp-*.js|
 @@||classic-motorrad.de/anzeigen/layout_images/new/top_ads_icon.gif
@@ -285,6 +288,8 @@
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
 @@||save.tv/stv/img/global/trailer20sec.swf?
 @@||schluetersche.de/adwords/$~third-party
+@@||servedby.flashtalking.com/crossdomain.xml$object-subrequest
+@@||servedby.flashtalking.com/imp/$object-subrequest,domain=zattoo.com
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
 @@||serving-sys.com/BurstingCachedScripts/*/ebStdBanner.js$domain=cnet.de
 @@||serving-sys.com/BurstingCachedScripts/ebBanner_$script,domain=cnet.de
