@@ -366,7 +366,7 @@
 ! Anti-Adblock
 @@.gif#$image,domain=java-forum.org
 @@.jpg#$image,domain=green-24.de
-@@.png#-$image,domain=blog.free-clan.org
+@@.png#$domain=blog.free-clan.org|pressemeldungen.at
 @@.png|$image,third-party,domain=lustich.de
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
@@ -492,8 +492,8 @@
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=blog.free-clan.org|bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|lustich.de|mufa.de|risiko-gesundheit.de
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.free-clan.org|java-forum.org
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=blog.free-clan.org|bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|lustich.de|mufa.de|pressemeldungen.at|risiko-gesundheit.de
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.free-clan.org|java-forum.org|pressemeldungen.at
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|lustich.de|mufa.de|risiko-gesundheit.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
@@ -501,6 +501,7 @@
 @@||picload.org/ads-1.js
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||plusboard.de^$image
+@@||pressemeldungen.at^$elemhide
 @@||pubads.g.doubleclick.net/pagead/adview?ai=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||pure-anime.biz^*/advertisement.js
 @@||quoka.de^*/adframe.js
