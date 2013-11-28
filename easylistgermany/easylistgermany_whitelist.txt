@@ -45,6 +45,7 @@
 @@||ads.mybet.com/redirect.aspx?pid=$popup,domain=gewinnspiele.freenet.de
 @@||ads.radioffn.c.nmdn.net/ps-radioffn/livestream.mp3$object-subrequest,domain=radio.de
 @@||ads.radiohamburg.c.nmdn.net^*/livestream128.mp3$object-subrequest
+@@||ads.zattoo.com^*.flv$object-subrequest
 @@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
 @@||adserv.quality-channel.de/realmedia/ads/*?videoad$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vanityfair.de|vogue.de
 @@||adserver.71i.de/global_js/globalv6.js$domain=hausgemacht.tv
