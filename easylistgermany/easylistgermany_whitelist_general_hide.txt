@@ -103,7 +103,7 @@ christophhubrich.blogspot.co.uk,christophhubrich.blogspot.de,delamar.de,ews-mark
 ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
 zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
 schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
-rakuten.de#@#div[id^="div-gpt-ad-"]
+rakuten.at,rakuten.de#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
 gamestar.de#@##AdSky23
 gamestar.de#@##AdSpacing
