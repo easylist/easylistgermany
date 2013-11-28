@@ -253,6 +253,7 @@ hoerbuch.in,lesen.to###content > font[color="red"] > h2
 onlinereports.ch###content-banner1
 onlinereports.ch###content-banner3
 trendhure.com###content-left > a[target] > img
+sprachnudel.de###content-wrapper > #content > span[id^="viewcontent"]:first-child
 sprachnudel.de###content-wrapper > #content:last-child > #viewcontent:first-child > ul:first-child:last-child
 frimon.de###content:last-child > #sky_right:first-child + .padding_down + .padding_down
 sprachnudel.de###content:last-child > ul[class]:first-child
