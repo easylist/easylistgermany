@@ -374,6 +374,7 @@
 @@.gif#$image,domain=java-forum.org
 @@.jpg#$image,domain=green-24.de
 @@.png#$domain=blog.free-clan.org|pressemeldungen.at
+@@.png#$image,domain=wintotal-forum.de
 @@.png|$image,third-party,domain=lustich.de
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
@@ -501,9 +502,9 @@
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=blog.free-clan.org|bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|lustich.de|mufa.de|pressemeldungen.at|risiko-gesundheit.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=blog.free-clan.org|bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|lustich.de|mufa.de|pressemeldungen.at|risiko-gesundheit.de|wintotal-forum.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.free-clan.org|java-forum.org|pressemeldungen.at
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|lustich.de|mufa.de|risiko-gesundheit.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|lustich.de|mufa.de|risiko-gesundheit.de|wintotal-forum.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=lustich.de
@@ -545,3 +546,4 @@
 @@||websc.org/script.php?s=234|$script,domain=uploaded-premium.ru
 @@||websc.org/script.php?s=324|$script
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
+@@||wintotal-forum.de^$elemhide
