@@ -373,8 +373,7 @@
 ! Anti-Adblock
 @@.gif#$image,domain=java-forum.org
 @@.jpg#$image,domain=green-24.de
-@@.png#$domain=blog.free-clan.org|pressemeldungen.at
-@@.png#$image,domain=wintotal-forum.de
+@@.png#$image,domain=blog.free-clan.org|pressemeldungen.at|wintotal-forum.de
 @@.png|$image,third-party,domain=lustich.de
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
