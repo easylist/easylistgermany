@@ -87,6 +87,7 @@
 @@||auditude.com/player/js/lib/pdk/50/1.0/AuditudePDKPlugin.js$domain=fandango.com
 @@||auditude.com/player/js/lib/plugin/1.3/aud.html5player.js$domain=fandango.com
 @@||aus.laola1.tv/realmedia/ads/adstream_sx.ads/www.laola1.at/$object-subrequest
+@@||baby-walz.de^*/Affilinet/$subdocument
 @@||banner.edll-fir.de^$image
 @@||banner.electronic-arts.de/www/images/*.jpg$domain=ea.com
 @@||banner.t-online.de/?advideo/*;vidas=pre_roll;$object-subrequest,domain=iam.t-online.de|mahjonggwelt.de
@@ -265,7 +266,7 @@
 @@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.at|rakuten.de
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=cnet.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=rakuten.at|rakuten.de
-@@||partners.webmasterplan.com/click.asp?ref=$subdocument,domain=eule.de|gutscheindoktor.de
+@@||partners.webmasterplan.com/click*.aspx?$subdocument,domain=eule.de|gutscheindoktor.de
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
 @@||photo.knuddels.de/kde/ad2/$image
