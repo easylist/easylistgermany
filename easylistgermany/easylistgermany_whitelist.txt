@@ -266,7 +266,7 @@
 @@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.at|rakuten.de
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=cnet.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=rakuten.at|rakuten.de
-@@||partners.webmasterplan.com/click*.aspx?$subdocument,domain=eule.de|gutscheindoktor.de
+@@||partners.webmasterplan.com/click*.asp$subdocument,domain=eule.de|gutscheindoktor.de
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
 @@||photo.knuddels.de/kde/ad2/$image
