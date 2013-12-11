@@ -260,9 +260,9 @@
 @@||os1.tv/js/omsvc_externalad.js
 @@||osthessen-tv.de/werbebanner/$object-subrequest
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=14-tage-wettervorhersage.de|jetztspielen.de|spielen.com
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=jetztspielen.de|spielen.com
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=cnet.de
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=14-tage-wettervorhersage.de|jetztspielen.de|spielen.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=jetztspielen.de|spielen.com
 @@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.at|rakuten.de
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=cnet.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=rakuten.at|rakuten.de
@@ -372,7 +372,6 @@
 @@||yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||zanox-affiliate.de/images/$domain=sunsteps.org
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|gutscheindoktor.de|notenbuch24.de|preismafia.com
-@@||zanox-affiliate.de/ppv/?$image,domain=14-tage-wettervorhersage.de
 @@||zanox.com/images/programs/$domain=sunsteps.org
 ! Anti-Adblock
 @@.gif#$image,domain=java-forum.org
