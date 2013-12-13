@@ -379,6 +379,7 @@
 @@.png#$image,domain=blog.free-clan.org|pressemeldungen.at|wintotal-forum.de
 @@.png|$image,third-party,domain=lustich.de
 @@|http://*.cu.cc/$script,domain=my-entertainment.biz
+@@|http://*uk.to^$script,domain=ul-load.com|uploaded-premium.ru
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
 @@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
@@ -455,7 +456,6 @@
 @@||fr-himedia.videoplaza.tv/proxy/distributor/v2?$object-subrequest,domain=filmstarts.de
 @@||free-clan.org/tools/AntiAdBlocker/adcode.js
 @@||free-klingeltoene-handy.de/adframe.js
-@@||fuckadblockplus.uk.to^$script,domain=ul-load.com|uploaded-premium.ru
 @@||g.doubleclick.net/gampad/ads?$script,domain=lustich.de
 @@||g.doubleclick.net/gampad/ads?*&vpos=preroll^$object-subrequest,domain=filmstarts.de
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
