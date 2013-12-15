@@ -374,6 +374,7 @@
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|gutscheindoktor.de|notenbuch24.de|preismafia.com
 @@||zanox.com/images/programs/$domain=sunsteps.org
 ! Anti-Adblock
+@@.com^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.gif#$image,domain=java-forum.org
 @@.jpg#$image,domain=green-24.de
 @@.png#$image,domain=blog.free-clan.org|pressemeldungen.at|wintotal-forum.de
