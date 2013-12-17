@@ -1098,7 +1098,7 @@ sdf.bz.it##.banner-image
 radiodresden.de,radioleipzig.de##.banner-rechts
 macmagazin.de##.banner-sidebar-1
 macmagazin.de##.banner-sidebar-2
-moviepilot.de##.banner-skyscraper
+magistrix.de,moviepilot.de##.banner-skyscraper
 xaver.de##.banner-top
 phpforum.de##.banner468x60
 radio7.de##.bannerBottom
@@ -2346,6 +2346,7 @@ dxtv.de,dxtv.eu,satbook.de##a[target="_blank"][href="http://www.satshop24.de/"]
 dxtv.de,dxtv.eu,satbook.de##a[target="_blank"][href="http://www.so-mm.de/"]
 herold.at##a[target="_blank"][href="http://www.urlauburlaub.at"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[target="_blank"][href^="../"]
+magistrix.de##a[target="_blank"][href^="/deblock/"]
 speedlounge.in##a[target="_blank"][href^="/download/"]
 welleniederrhein.de##a[target="_blank"][href^="/func/clickcount/linkcount.php?target=http://www."]
 rtl.de##a[target="_blank"][href^="/tools/count/xdot/count.php?id="]
@@ -2380,6 +2381,7 @@ rtl.de##a[target="_self"][href^="http://traumgewinne.rtl.de/?id="]
 rtl.de##a[target="_self"][href^="http://www.brille24.de/shop/"]
 rtl.de##a[target="_self"][href^="http://www.onlinefotoservice.de/"][href*="?cref="]
 rtl.de##a[target="_self"][href^="http://www.rtl.de/street-one/"]
+magistrix.de##a[target="blank"][href^="/deblock/"]
 3dl.tv##a[target="blank_"][style="display:none"] + a
 3dl.tv##a[title*="installiert"]
 3dl.tv##a[title*="lugin"]
@@ -2556,6 +2558,7 @@ titanic-magazin.de##div[style="clear:left; font-family: Verdana,Tahoma,Geneva,Ve
 ibash.de##div[style="clear:left; font-family: Verdana,Tahoma,Geneva,Verdana,sans-serif; font-size:11px;width:380px;"]
 satempfang-magazin.de##div[style="display: block; position: absolute; overflow: hidden; z-index: 1001; outline: 0px none; height: auto; width: 800px; top: 216px; left: 551.5px;"]
 suedtirolnews.it##div[style="display: table; position: static;background: none repeat scroll 0px 0px rgb(252, 252, 251); border: 1px solid rgb(239, 238, 236); padding:5px; float: right; width: 418px; text-align: center; margin: 0px 10px 10px 0px; height:356px;"]
+magistrix.de##div[style="display:inline-block; width:728px; height:90px"]
 via-ferrata.de##div[style="float: left; width: auto; margin-left: 315px; display:inline;"] > br + b + .forabg + .bg4
 chat4free.de,erotikchat4free.de,freechat.de##div[style="float: left;padding:0 10 0 10;margin:0 10 10 0;"]
 pocketpc.ch##div[style="float: left;width:740px;text-align:left;padding-bottom:5px;"]
