@@ -711,8 +711,8 @@ porno-streams.com,pornorio.com,youporn-deutsch.com###rel-vids
 herold.at###resultList > #downloadBox
 downloadstube.net###results > div[class]:first-child
 downloadstube.net###results > div[class]:first-child + script + div[class]
-indeed.ch###resultsCol > .lastRow + div[class]
-indeed.ch###resultsCol > .messageContainer + style + div + script + style + div[class]
+de.indeed.com,indeed.ch###resultsCol > .lastRow + div[class]
+de.indeed.com,indeed.ch###resultsCol > .messageContainer + style + div + script + style + div[class]
 books.google.at,books.google.ch,books.google.de###rhswrapper
 20min.ch###ricardolino-wrapper
 das-inserat.de###right > .erfcms_advimgtext
