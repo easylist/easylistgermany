@@ -1,4 +1,5 @@
 /?placement=$domain=movie-blog.org
+/dblock.js$domain=magistrix.de
 /deblock.js$domain=magistrix.de
 |http://$subdocument,third-party,domain=bonimail.de
 |http://lustich.de/bilder/*_*-
@@ -1073,6 +1074,7 @@
 ||mafia-linkz.to/tmp/fl_$image
 ||mafia.to/base.php?
 ||mafia.to/dl_header.cfm
+||magistrix.de/dblock/
 ||magistrix.de/deblock/
 ||mailgen.biz/img/banner_
 ||mailgen.biz/lla2/
