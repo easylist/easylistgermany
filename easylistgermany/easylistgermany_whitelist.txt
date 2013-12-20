@@ -16,9 +16,7 @@
 @@||ad.71i.de/global_js/sites/n24de.js$domain=n24.de
 @@||ad.71i.de/global_js/sites/pro7de.js$domain=brokencomedy.de
 @@||ad.71i.de/global_js/Sites/sport1fm.js$domain=sport1.fm
-@@||ad.71i.de/images/$object-subrequest,domain=n24.de
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
-@@||ad.de.doubleclick.net/crossdomain.xml$object-subrequest,domain=n24.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|gutscheindoktor.de|literatur-fast-pur.de|preismafia.com
 @@||ad4.liverail.com/interstitial/?lr_publisher_id=$script,domain=jam.fm|paradiso.de
@@ -128,8 +126,6 @@
 @@||doubleclick.net/adj/pn.*.fm/webradio;$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||doubleclick.net/adj/rmsi.sunshinelive.de/webradio;$script,domain=player.sunshine-live.de
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
-@@||doubleclick.net/pfadx/de_n24.*;sz=50x1;$object-subrequest,domain=n24.de
-@@||doubleclick.net/pfadx/de_n24/*;sz=50x1;$object-subrequest,domain=n24.de
 @@||doubleclick.net^*/bob.tech.de.smartclip/*;ord=$script,domain=radiobob.de
 @@||doubleclick.net^*/nacamar.ads.de.smartclip/*;ord=$object-subrequest,domain=edge.download.newmedia.nacamar.net
 @@||doubleclick.net^*/nacamar.de.smartclip/*;ord=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
