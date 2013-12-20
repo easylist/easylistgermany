@@ -1,4 +1,5 @@
 /?placement=$domain=movie-blog.org
+/deblock.js$domain=magistrix.de
 |http://$subdocument,third-party,domain=bonimail.de
 |http://lustich.de/bilder/*_*-
 |http://lustich.de/bilder/l/$image
