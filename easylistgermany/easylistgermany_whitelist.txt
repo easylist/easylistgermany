@@ -371,7 +371,6 @@
 @@.net^$script,domain=ul-load.com|uploaded-premium.ru
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
 @@.png#$image,domain=blog.free-clan.org|pressemeldungen.at|wintotal-forum.de
-@@.png|$image,third-party,domain=lustich.de
 @@|http://*uk.to^$script,domain=ul-load.com|uploaded-premium.ru
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
@@ -415,7 +414,6 @@
 @@||dokumente-online.com^*/adframe.js
 @@||doubleclick.net/ad/clipfish.smartclip/$object-subrequest,domain=clipfish.de
 @@||doubleclick.net/ad/pushbackde.smartclip/clipfish.smartclip/$object-subrequest,domain=clipfish.de
-@@||doubleclick.net/adj/lustich_.de/$script,domain=lustich.de
 @@||doubleclick.net^*/nntv.de/*^sz=120x600^$script,domain=n-tv.de
 @@||doubleclick.net^*/nntv.de/*^sz=468x61^$script,domain=n-tv.de
 @@||doubleclick.net^*/nntv.de/*^sz=600x500^$script,domain=n-tv.de
@@ -438,7 +436,6 @@
 @@||fr-himedia.videoplaza.tv/proxy/distributor/v2?$object-subrequest,domain=filmstarts.de
 @@||free-clan.org/tools/AntiAdBlocker/adcode.js
 @@||free-klingeltoene-handy.de/adframe.js
-@@||g.doubleclick.net/gampad/ads?$script,domain=lustich.de
 @@||g.doubleclick.net/gampad/ads?*&vpos=preroll^$object-subrequest,domain=filmstarts.de
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
@@ -458,7 +455,6 @@
 @@||lablue.de^$elemhide,script
 @@||laut.de^*/advert.js
 @@||luckytalk.de/styles/$image
-@@||lustich.de^$elemhide
 @@||lyrisor.tk/adserver/ads.js
 @@||magistrix.de/ads/iframe.html?*#content$subdocument
 @@||magistrix.de^*/advertisement-$script
@@ -481,18 +477,16 @@
 @@||nuggad.net/bk?*&nuggtg=de_putpattv_music&$object-subrequest,domain=putpat.tv
 @@||nuggad.net/bk?nuggn=$object-subrequest,domain=filmstarts.de
 @@||nuggad.net/crossdomain.xml$object-subrequest,domain=filmstarts.de|putpat.tv
-@@||nuggad.net/rc?nuggn=$script,domain=lustich.de
 @@||onlinetvrecorder.com/adcodes/?$subdocument
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=blog.free-clan.org|bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|lustich.de|mufa.de|pressemeldungen.at|risiko-gesundheit.de|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=blog.free-clan.org|bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|pressemeldungen.at|risiko-gesundheit.de|wintotal-forum.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.free-clan.org|java-forum.org|pressemeldungen.at
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|lustich.de|mufa.de|risiko-gesundheit.de|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|risiko-gesundheit.de|wintotal-forum.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=lustich.de
 @@||picload.org/ads-1.js
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||plusboard.de^$image
@@ -523,6 +517,7 @@
 @@||ttads.de/www/delivery/banner/ads/click.js
 @@||ttads.de/www/delivery/banner/click.js
 @@||ttads.de/www/delivery/click.js
+@@||ttads.de/www/delivery/spcjs.php?id=1&target=_blank$script
 @@||uabp.tk/adserver/ads.js
 @@||ul-load.com/ads.js
 @@||uploaded-premium.ru^$script
