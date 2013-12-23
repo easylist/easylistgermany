@@ -589,6 +589,7 @@ climbing.de###pane-werbung
 byte.to,de.msn.com,nh24.de###partner
 de.msn.com###partner2
 de.msn.com###partner3
+borussia.de###partnerBottom
 wirtschaftslexikon.gabler.de###partnerContainer
 360magazin.de,cheats.de,spielechat.de,spieleportal.de###partner_box
 de.msn.com###partnerangebote3
@@ -2299,6 +2300,7 @@ angesagter.de##a[href^="out.php?bid="]
 sinn-frei.com##a[href^="out2_"]
 maxrev.de##a[href^="redirect,banner_id,"]
 linxcrypt.com##a[id^="eckBild"]
+borussia.de##a[id^="logo_sponsor"]
 ixquick.de##a[id^="sptitle"]
 ixquick.de##a[id^="spurl"]
 gaming-insight.de##a[id^="takeoverlink"]
