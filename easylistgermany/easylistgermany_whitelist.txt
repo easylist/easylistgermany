@@ -372,9 +372,9 @@
 @@.com^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.gif#$image,domain=java-forum.org
 @@.jpg#$image,domain=green-24.de
-@@.net^$script,domain=ul-load.com|uploaded-premium.ru
+@@.net^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
-@@.png#$image,domain=blog.free-clan.org|pressemeldungen.at|ul-load.com|wintotal-forum.de
+@@.png#$image,domain=blog.free-clan.org|pressemeldungen.at|ul-load.com|uploaded-premium.ru|wintotal-forum.de
 @@|http://*uk.to^$script,domain=ul-load.com|uploaded-premium.ru
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
@@ -487,6 +487,8 @@
 @@||serving-sys.com/BurstingRes/Site-*.flv$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||serving-sys.com/BurstingRes/Site-*.mp4$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||sevenads.net/layer.php?p=$script,domain=uploaded-premium.ru
+@@||sevenads.net^*/close.png$domain=uploaded-premium.ru
+@@||sevenads.net^*/closeh.png$domain=uploaded-premium.ru
 @@||slimspots.com/adspace/*.js$domain=arschfick-pornos.net|badjojo-porno.com|bruder-schwester-fick.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|pornorio.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com
 @@||slimspots.com/view/$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||slimtrade.com/in.php?s=*&t=*&b=*&c=*&tm=*&r=$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
@@ -505,6 +507,7 @@
 @@||uabp.tk/adserver/ads.js
 @@||ul-load.com/ads.js
 @@||ul-load.com^$elemhide
+@@||uploaded-premium.ru^$elemhide
 @@||uploaded-premium.ru^$script
 @@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||websc.org/script.php?s=234|$script,domain=uploaded-premium.ru
