@@ -374,7 +374,7 @@
 @@.jpg#$image,domain=green-24.de
 @@.net^$script,domain=ul-load.com|uploaded-premium.ru
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
-@@.png#$image,domain=blog.free-clan.org|pressemeldungen.at|wintotal-forum.de
+@@.png#$image,domain=blog.free-clan.org|pressemeldungen.at|ul-load.com|wintotal-forum.de
 @@|http://*uk.to^$script,domain=ul-load.com|uploaded-premium.ru
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
@@ -504,6 +504,7 @@
 @@||ttads.de/www/delivery/spcjs.php?id=1&target=_blank$script
 @@||uabp.tk/adserver/ads.js
 @@||ul-load.com/ads.js
+@@||ul-load.com^$elemhide
 @@||uploaded-premium.ru^$script
 @@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||websc.org/script.php?s=234|$script,domain=uploaded-premium.ru
