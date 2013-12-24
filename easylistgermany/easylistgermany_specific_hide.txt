@@ -519,6 +519,7 @@ morgenpost.de###mrect01
 morgenpost.de###mrect02
 hornoxe.com###mside > .navigation + div[align="center"] + .box-new
 hornoxe.com###mside > .navigation + div[align="center"] + h2 + center
+hornoxe.com###mside > a[href^="http://www.amazon.de/"][href*="?tag=hornoxecom-21"] > img
 de.msn.com,msn.de###msnpromo
 meinestadt.de###mt-banner
 funnybilder.net,lachfails.net,vipbilder.net###mt_right
