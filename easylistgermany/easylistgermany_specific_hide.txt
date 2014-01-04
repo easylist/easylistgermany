@@ -2420,6 +2420,7 @@ rtl.de##a[target="_self"][href^="http://www.brille24.de/shop/"]
 rtl.de##a[target="_self"][href^="http://www.onlinefotoservice.de/"][href*="?cref="]
 rtl.de##a[target="_self"][href^="http://www.rtl.de/street-one/"]
 magistrix.de##a[target="blank"][href*="/assets/"]
+magistrix.de##a[target="blank"][href^="/"] > img[src^="/"]
 magistrix.de##a[target="blank"][href^="/deblock/"]
 3dl.tv##a[target="blank_"][style="display:none"] + a
 3dl.tv##a[title*="installiert"]
