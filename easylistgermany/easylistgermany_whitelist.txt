@@ -71,9 +71,9 @@
 @@||alfred-delp-schule.bildung-rp.de/ads_$~third-party
 @@||alfred-delp-schule.de/ads_$~third-party
 @@||altfarm.mediaplex.com/ad/ck/$image,domain=paypal-deutschland.de
-@@||am-display.com/display-ad/tag-set/$subdocument,domain=hardbase.fm|housetime.fm|techno4ever.fm
+@@||am-display.com/display-ad/tag-set/$subdocument,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||am-display.com/display-ad/tag/$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
-@@||amgdgt.com/ads?$script,domain=deltaradio.de|hardbase.fm|housetime.fm|techno4ever.fm
+@@||amgdgt.com/ads?$script,domain=deltaradio.de|hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||ankerbrot.at/_ads/$~third-party
 @@||anonza.de^*/adonline.css
 @@||anonza.de^*/adonline.js
@@ -127,7 +127,7 @@
 @@||doubleclick.net/adj/*;sz=1x2;$script,domain=moviemaze.de
 @@||doubleclick.net/adj/ftd-rubriken/$script,domain=ftd.de
 @@||doubleclick.net/adj/oms.szon.de/homepage;oms=homepage;*;sz=10x10;$script,domain=schwaebische.de
-@@||doubleclick.net/adj/pn.*.fm/webradio;$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
+@@||doubleclick.net/adj/pn.*/webradio;$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||doubleclick.net/adj/rmsi.sunshinelive.de/webradio;$script,domain=player.sunshine-live.de
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
 @@||doubleclick.net^*/bob.tech.de.smartclip/*;ord=$script,domain=radiobob.de
@@ -310,6 +310,7 @@
 @@||smartclip.net/inpage/inpage.js
 @@||smartclip.net/inpage/inpage.swf$object
 @@||smartclip.net/inpage2/inpage-*.swf$object
+@@||smartclip.net/multiplayer/player-*.swf$object,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||smartclip.net/multiplayer/player-2.3.swf$object
 @@||smartredirect.de/redir/clickGate.php?u=$subdocument,domain=gutscheindoktor.de
 @@||softwareload.kpcustomer.de/voting/public/flash/300x250_widget_$object
