@@ -2752,6 +2752,7 @@ stayfriends.de##form[action^="http://www.stayfriends.de/tracking/linkcounter.php
 rtl.de##form[id^="parshipform_"]
 rtl.de##form[id^="powerform_"]
 n-tv.de##form[onsubmit^="return c24_track_"]
+t-online.de##form[target="_blank"][action="http://im.banner.t-online.de/"]
 byte.to,ebook-hell.to##form[target="id__"]
 movie-blog.org##h1[id$="-637540"]
 movie-blog.org##h1[id$="-637540"] + * + *
