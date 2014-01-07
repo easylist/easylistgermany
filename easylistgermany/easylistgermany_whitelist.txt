@@ -377,7 +377,7 @@
 @@.jpg#$image,domain=fakedaten.tk|green-24.de
 @@.net^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
-@@.png#$image,domain=blog.free-clan.org|energielupe.de|ul-load.com|uploaded-premium.ru|wintotal-forum.de
+@@.png#$image,domain=blog.free-clan.org|energielupe.de|rechtslupe.de|ul-load.com|uploaded-premium.ru|wintotal-forum.de
 @@|http://*uk.to^$script,domain=ul-load.com|uploaded-premium.ru
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
@@ -486,6 +486,7 @@
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||pubads.g.doubleclick.net/pagead/adview?ai=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||quoka.de^*/adframe.js
+@@||rechtslupe.de^$elemhide
 @@||schulzeux.de/js/show_ads.js
 @@||servedby.flashtalking.com/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||servedby.flashtalking.com/imp/$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
