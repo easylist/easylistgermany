@@ -74,7 +74,7 @@
 @@||altfarm.mediaplex.com/ad/ck/$image,domain=paypal-deutschland.de
 @@||am-display.com/display-ad/tag-set/$subdocument,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||am-display.com/display-ad/tag/$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
-@@||amgdgt.com/ads?$script,domain=deltaradio.de|hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
+@@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net|hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||ankerbrot.at/_ads/$~third-party
 @@||anonza.de^*/adonline.css
 @@||anonza.de^*/adonline.js
@@ -131,6 +131,7 @@
 @@||doubleclick.net/adj/pn.*/webradio;$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||doubleclick.net/adj/rmsi.sunshinelive.de/webradio;$script,domain=player.sunshine-live.de
 @@||doubleclick.net/adj/wilmaa.ch/$object-subrequest,domain=wilmaa.com
+@@||doubleclick.net^*/ad/nacamar.ads.de.smartclip/$xmlhttprequest,domain=freestream.nmdn.net
 @@||doubleclick.net^*/bob.tech.de.smartclip/*;ord=$script,domain=radiobob.de
 @@||doubleclick.net^*/nacamar.ads.de.smartclip/*;ord=$object-subrequest,domain=edge.download.newmedia.nacamar.net
 @@||doubleclick.net^*/nacamar.de.smartclip/*;ord=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
