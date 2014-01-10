@@ -1469,6 +1469,8 @@ wortfilter.de##.kuriosbox
 1jux.net##.l-mod[style="height:250px"]
 123people.de##.l_banner
 pi-news.net##.l_pics > a:not([href*=".pi-news.net/"])
+indeed.ch##.lastRow + div + div[class] > div[class]:first-child + .row
+indeed.ch##.lastRow + div + div[class] > div[class]:first-child + .row + .row
 chemnitzerfc.de##.lay_banner_teaser2
 games.ch##.layer
 1a-order.de,hoh.de##.lb_skyscraper
@@ -1703,6 +1705,7 @@ n-tv.de##.sidebar_block_dark[style="padding-left: 40px; height: 200px;"]
 downloadstube.net##.sidebox_details > div[class]:first-child
 fck.de##.site_ovlerlay
 dokus4.me##.siyl
+indeed.ch##.sjlast
 stadtbranchenbuch.at,stadtbranchenbuch.com##.sky
 lokalisten.de##.skyScraper
 t-online.de##.skybannerWrapper
@@ -2652,6 +2655,7 @@ flirttown.net##div[style="margin:auto; width:300px; height:250px; margin-bottom:
 tvinfo.de##div[style="overflow:hidden;margin:0;padding:0;height:125px;width:395px"]
 tonight.rp-online.de##div[style="padding-left:10px;width:980px;height:90px;"]
 livingathome.de##div[style="padding-top:10px;margin-left:10px;font-size:11px;"]
+indeed.ch##div[style="padding-top:9px;"] + script + style + div + div[class] > .row:first-child
 gamestar.de##div[style="padding: 10px 19px; position: relative; padding-top:15px; padding-bottom:15px; border-bottom: 1px solid #c9c9c9; "]
 typo3forum.net##div[style="padding: 6px 0px 0px 0px"] > .tborder
 unf-unf.de##div[style="padding:13px 0 0 5px;margin:auto;width:480px; height:450px;"]
