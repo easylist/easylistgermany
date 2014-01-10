@@ -1,5 +1,6 @@
 /?placement=$domain=movie-blog.org
 |http://$subdocument,third-party,domain=bonimail.de
+|http://*.pw^$script,domain=byte.to
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
 |http://lustich.de/bilder/l/$image
@@ -223,6 +224,7 @@
 ||blankrefer.com^$subdocument,domain=anime-loads.org
 ||blickpunkt-brandenburg.de/typo3conf/ext/sbbanner/
 ||blockbusters.cc/partner/
+||blockbusters.to^$script,domain=byte.to
 ||blog-xx.net/pop-code.js
 ||blogprojekt.de/Bilder/bp/backlinkseller.gif
 ||blogprojekt.de/Bilder/Profi/bloggerjobs.gif

@@ -3,6 +3,7 @@
 ?redirectUrl=*&var=$popup,domain=lustich.de|pcaction.de
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ^utm_source=superclixx^$popup,domain=ascii-bilder.net
+|http://ow.ly^$popup,domain=byte.to
 ||1load.net/highspeedmirror.php$popup
 ||1load.net/mehrinfos.php$popup
 ||1load.net/out.php$popup
@@ -26,12 +27,14 @@
 ||bit.ly^$popup,domain=byte.to|movie-blog.org
 ||bitly.com^$popup,domain=ddl-music.org|ddl-warez.in|pornlounge.org
 ||byte.to/out.php$popup
+||byte.to^*/out.php$popup
 ||campartner.com^$popup,domain=g-stream.in
 ||cinebee.org/r0tation/$popup
 ||ddl-porn.us/popt/$popup
 ||ddl-porn.us/popup.php$popup
 ||ddl.me^$popup,domain=c1neon.com
 ||doubleclick.net^$popup,domain=gamestar.de
+||ebook-hell.to/?$popup,domain=byte.to
 ||ebook-hell.to/ad/$popup
 ||ebook-hell.to/out.php$popup
 ||ebook-hell.to^*/out.php$popup
