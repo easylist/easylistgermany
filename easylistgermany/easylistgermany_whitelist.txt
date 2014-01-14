@@ -120,6 +120,7 @@
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||dawanda.com/ads?$xmlhttprequest
 @@||de.ebayobjects.com/1ai/mobile.homepage/superteaser;$subdocument,domain=mobile.de
+@@||derstandard.at/adserver/t.gif$domain=videoservice.apa.at
 @@||devaki.ch/www/delivery/ajs.php?$script,domain=tagesanzeiger.ch
 @@||devaki.ch/www/delivery/lg.php?$image,domain=tagesanzeiger.ch
 @@||docs.google.com/viewer?url=http://goerge-markt.de/fileadmin/werbung/$subdocument,domain=goerge-markt.de
@@ -347,6 +348,7 @@
 @@||ui-portal.de^*/video-adserver-config.xml$object-subrequest
 @@||uicdn.com^*/video-adserver-config.xml$object-subrequest
 @@||vdn-mobile.oas-limited.com/ad/$object-subrequest,domain=mobile.de
+@@||videoservice.apa.at/Vast/GetProxy/?*?videotype=preroll1&$xmlhttprequest
 @@||videostream4u.com^*/ac_oetags_clone.js
 @@||vw-service-werbung.de/secure/werbemittel/$~third-party
 @@||werbung.gruppedrei.com^$~third-party
