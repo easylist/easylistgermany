@@ -1887,6 +1887,8 @@ npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[t
 forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 100px; left: 550px; empty-cells: hide;"]
 ebook-hell.to##[width="620"][bordercolor="#808080"] td[height="60"][align="CENTER"] > a > img
 hsc-bad-neustadt.de##a[class*="sponsor"]
+bild.de##a[href$="&werbemittel=menu"]
+bild.de##a[href$="&werbemittel=menu"] + .mark
 cine24.tv##a[href$=".gu.ma"]
 pi-news.net##a[href$="/werbung.pdf"]
 94.199.241.194##a[href$="_zalando"]
@@ -1921,6 +1923,8 @@ shareware.de##a[href="/gratis-scan.html"]
 bild.de##a[href="/lifestyle/horoskop/horoskop/home-21648048.bild.html"]
 bild.de##a[href="/lifestyle/horoskop/horoskop/home-21648048.bild.html"] + .mark
 loads7.com##a[href="/pub.php"]
+bild.de##a[href="/spiele/gamesload/computerspiele/pc-spiele-shop-33596804.bild.html"]
+bild.de##a[href="/spiele/gamesload/computerspiele/pc-spiele-shop-33596804.bild.html"] + .mark
 sb.sbsb.cc##a[href="download.php"]
 dsl-speedtest.org##a[href="ex/thome1.php"]
 fm-arena.de##a[href="fm-10-bestellen.html"]
