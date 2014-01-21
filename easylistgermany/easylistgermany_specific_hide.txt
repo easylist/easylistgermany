@@ -1314,8 +1314,8 @@ downloadstube.net##.download > a[onclick]:last-child
 downloadstube.net##.download_hoster
 vip.de##.eTeaser
 camidos.de##.ebay_hits
-amerika-forum.de,campen.de,deejayforum.de,reitforum.de,sat-ulc.eu##.ebayitems
-amerika-forum.de##.ebayitems3
+amerika-forum.de,campen.de,deejayforum.de,rechnungswesenforum.de,reitforum.de,sat-ulc.eu##.ebayitems
+amerika-forum.de,rechnungswesenforum.de##.ebayitems3
 sinn-frei.com##.ebp
 pcwelt.de##.ecommerce + .ecommerce
 abacho.de##.econa_editorial_tips
@@ -1363,6 +1363,7 @@ allfacebook.de##.fanwerden + .popular-posts
 computerhilfen.de##.fcontent2 > a > img[width="612"][height="221"]
 poker-lernen.info##.featured
 emok.tv##.fenster_gadgets
+rechnungswesenforum.de##.ffwidget_sidebar
 bloggospace.de##.first_pub
 preisvergleich.de##.flexTop
 wochenblitz.com##.flexbannergroup
