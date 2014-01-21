@@ -1661,6 +1661,7 @@ mz-web.de##.rectangle_anzeige
 rhein-zeitung.de##.rectangle_head
 perun.net##.rekl-links
 frag-mutti.de##.relcookiepopup
+finanznachrichten.de##.relct > tbody > tr:first-child + .graue-zeile.hoverable
 quoka.de##.result a[href^="http://connect.quoka.de/qpa/click.php?url="]
 quoka.de##.result-sml a[href^="http://connect.quoka.de/qpa/click.php?url="]
 gronkh.de##.revbig
