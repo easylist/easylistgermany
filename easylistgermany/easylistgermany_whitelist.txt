@@ -377,7 +377,7 @@
 ! Anti-Adblock
 @@.com^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.gif#$image,domain=java-forum.org|schweizer-abgeltungssteuer.ch|startup-connection.de
-@@.jpg#$image,domain=fakedaten.tk|green-24.de|juristische-suche.de|proverbia-iuris.de|umweltlupe.de
+@@.jpg#$image,domain=fakedaten.tk|green-24.de|juristische-suche.de|proverbia-iuris.de|streamit.ws|umweltlupe.de
 @@.net^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
 @@.png#$image,domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|blog.free-clan.org|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rechtslupe.de|rechtslupe.net|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|tobinsteuer.de|ul-load.com|uploaded-premium.ru|vereinslupe.de|vorsorgebote.de|wintotal-forum.de|wirtschaft-recht-aktuell.de
@@ -529,6 +529,7 @@
 @@||sozialrechtsnews.de^$elemhide
 @@||startup-connection.de^$elemhide
 @@||steuerschmiede-aktuell.de^$elemhide
+@@||streamit.ws^$elemhide
 @@||sudoku-space.de^$script
 @@||tape.tv/js/adblockdetection.js
 @@||telemetryverification.net/?*;cb=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
