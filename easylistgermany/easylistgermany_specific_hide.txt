@@ -959,7 +959,7 @@ pocketpc.ch###xxParentDivForWerbPostbit
 euronics.de###xxl_master_top_banner_container
 pocketpc.ch###xxyyParentDivForWerbPostbit
 zelluloid.de###zTopBanner
-kimeta.de##.Ad
+kimeta.de,vol.at##.Ad
 fr-online.de##.Anzeige
 bluray-disc.de##.AnzeigenBlock2
 schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##.AnzeigenHead
@@ -2516,6 +2516,7 @@ amazon.de##div[id$="_adcontent"]
 uploaded-premium.ru##div[id$="_layer"]
 0o2.de##div[id$="spbox"]
 boerse.bz##div[id][class][style^="z-index:"][style*="background-color:"][style*="opacity:"][style*="height:"][style*="width:"][style*="display:"]
+vol.at##div[id^="AdContainer_"]
 www.blick.ch##div[id^="CT299"]
 oberprima.com##div[id^="ad-inst-"]
 2kino.net,flash-moviez.tv,ucoz.de##div[id^="adBar"]
