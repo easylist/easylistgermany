@@ -489,7 +489,7 @@
 @@||news-reader.info^$image,script,domain=news.feed-reader.net
 @@||news.feed-reader.net/adimages/$subdocument
 @@||nuggad.net/bk?*&nuggtg=de_putpattv_music&$object-subrequest,domain=putpat.tv
-@@||nuggad.net/crossdomain.xml$object-subrequest,domain=putpat.tv
+@@||nuggad.net/crossdomain.xml$object-subrequest,domain=putpat.tv|tape.tv
 @@||onlinetvrecorder.com/adcodes/?$subdocument
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
