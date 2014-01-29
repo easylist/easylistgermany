@@ -2251,6 +2251,7 @@ zeit.de##a[href^="http://www.avocadostore.de"]
 zeit.de##a[href^="http://www.avocadostore.de"] + * + p
 bankkaufmann.com##a[href^="http://www.bankkaufmann.com/banners.php?"]
 gamepro.de,gamestar.de##a[href^="http://www.betvictor-emtippspiel.de/index.cfm?"]
+bild.de##a[href^="http://www.bild.de/spiele/gamesload/"] > img
 bildschirmarbeiter.com##a[href^="http://www.bildschirmarbeiter.com/alink_"]
 blick.ch##a[href^="http://www.blick.ch/marktplatz/"]
 blur.ws##a[href^="http://www.blur.ws/out.php"] > img
