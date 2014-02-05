@@ -215,11 +215,13 @@
 ##.werbung_text
 ##.werbungamazon
 ##.werbungrechtstitel
+##a[href^="http://click.plista.com/pets"]
 ##a[href^="http://farm.plista.com/pets"]
 ##a[href^="http://shortnews.de/gotoklick.cfm?fr_campaign_adtext_id="]
 ##a[href^="http://www.eis.de/index.phtml?refid="]
 ##a[href^="http://www.firstload.de/index.php?set_lang=de&log="]
 ##a[href^="http://www.sendung-now.de/tick/click.php?id="]
 ##a[href^="http://www.top-of-software.de/"]
+##a[href^="https://click.plista.com/pets"]
 ##a[href^="https://farm.plista.com/pets"]
 ##input[onclick^="window.open('http://www.firstload.de/affiliate/"]
