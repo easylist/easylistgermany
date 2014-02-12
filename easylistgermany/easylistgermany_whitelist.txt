@@ -457,6 +457,7 @@
 @@||free-klingeltoene-handy.de/adframe.js
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
+@@||gamona.de/wp-content/uploads/*.|$image
 @@||gassi-tv.de^*/adframe.js
 @@||gerichtsboulevard.de^$elemhide
 @@||gmads.net/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -467,6 +468,7 @@
 @@||hartzbote.de^$elemhide
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
 @@||innovid.com^*;cb=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||ivwbox.de^*#$image,domain=gamona.de
 @@||jagdlupe.de^$elemhide
 @@||java-forum.org^$elemhide
 @@||juristische-suche.de^$elemhide
