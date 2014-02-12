@@ -1465,6 +1465,7 @@ sueddeutsche.de##.iqad
 sueddeutsche.de##.iqadcontainer
 golem.de##.iqadmarker
 immobilienscout24.de##.is24-banner
+immobilienscout24.de##.is24-map-addressContainer a[href^="//servedby.flashtalking.com/click/"]
 kochbar.de,rtl.de##.isAdVisible + .halfpage
 kochbar.de##.isAdVisible + .halfpage + * + * + * + * + * + * + * + * + * + .T_1er_hoch
 kochbar.de##.isAdVisible + .halfpage + * + * + * + * + * + * + .toprelated
