@@ -338,7 +338,6 @@ dforum.net###forumbanner
 mufa.de###freikarten
 spox.com###frnBanner
 dmax.de###fs-skyscraper-outer
-herold.at###fsb > a > img[width="468"]
 morgenpost.de###fsrect01
 chip.de###full-banner + #v3brandbox
 bild.de,sixx.de###fullBanner
@@ -423,7 +422,6 @@ express.de,fr-online.de,general-anzeiger-bonn.de,ksta.de,mz-web.de,rhein-zeitung
 aachener-nachrichten.de,aachener-zeitung.de,az-web.de###kalaydoklein
 1fcm.de,fc-magdeburg.de###kopf_banner
 internetcologne.de###kopfbanner
-herold.at###kronehit
 immonet.de###kuechenlink
 bigbrother11hd.in,bigbrother11live.info###l93b850
 nibelungenkurier.de###large_banner_top
@@ -468,7 +466,6 @@ lesben.org###logo
 5-jahres-wertung.de###logo-right > div[style="float:left;margin-top:25px;"]
 uimserv.net###logoutlounge
 netzwelt.de###looking_glass
-herold.at###loveat
 eurogamer.de###low-leaderboard
 hornoxe.com###lside > center > a[target="_blank"] > img
 chili-warez.net,mov-world.net,xxx-4-free.net###lyr
@@ -714,7 +711,6 @@ fussballtransfers.com###pub-300x250
 fussballtransfers.com###pub-468x60
 fussballtransfers.com###pub-728x90
 fussballtransfers.com###pub-mini
-herold.at###puls4
 quotenmeter.de###qm-content-box > div[style="margin-top:0;"]:last-child > div[style="margin:0 0 15px 8px; float:left; position:relative; width:334px;"]:first-child
 aiobase.com###quickLoginBox + center + style + div:last-child
 aiobase.com###quickLoginBox + style + div:last-child
@@ -730,7 +726,6 @@ autobild.de###rectanglemodul
 abacho.de###reisemarkt-sidebar
 der-postillon.com###reklame-artikel
 porno-streams.com,pornorio.com,youporn-deutsch.com###rel-vids
-herold.at###resultList > #downloadBox
 downloadstube.net###results > div[class]:first-child
 downloadstube.net###results > div[class]:first-child + script + div[class]
 indeed.ch###resultsCol > .lastRow + div[class]
@@ -747,7 +742,6 @@ grosseleute.de###rightboxcontent > :nth-child(n) a[href] div img[src^="image/"]
 grosseleute.de###rightboxcontent > :nth-child(n) div:first-child:last-child > a[href] > img[src^="image/"]
 netzwelt.de###rightnav > style + .informative + .social_block + .informative
 netzwelt.de###rightnav > style[type="text/css"] + .informative
-herold.at###rightsponsor
 golyr.de###ring
 dnewsvideo.de###roadblockHeader
 superfly.fm###rognerbadblumauhp_hype_container
@@ -1439,7 +1433,6 @@ gamestar.de##.homeContReg > .homeContRegCol1 > .elemCont > a > img
 gamestar.de##.homeContReg > .homeContRegCol1 > div[style] > a > img
 gamestar.de##.homeContRegCol3 > .elemCont + .elemCont + .elemCont + .elemCont[style="position:relative;"] + .elemCont + .elemCont > .titleHead + .article
 gamestar.de##.homeContRegCol3 > .elemCont + .elemCont + .elemCont + .elemCont[style="position:relative;"] + .elemCont[style="position: relative;"] > .titleHead + .article
-herold.at##.homesponsor
 netzkino.de##.horizontalBanner
 movie-blog.org##.hreview-aggregate > a[target="blank"]
 movie-blog.org##.hreview-aggregate > div[class] > div > a[href^="http://movie-blog.org/"]
@@ -1477,7 +1470,6 @@ bild.de##.jetzt_aufnehmen
 kulturmanagement.net##.joboffer_banner_wrapper
 heise.de##.jobtv24
 collabxt.de##.karowerb
-herold.at##.kronehit
 wortfilter.de##.kuriosbox
 1jux.net##.l-jux-post + .black
 1jux.net##.l-mod[style="height:250px"]
@@ -1694,7 +1686,6 @@ oberpfalznetz.de##.rotating-banner
 magistrix.de##.row > div[style="text-align: right; padding: 0;"]
 3dl.tv##.row_content_warning[align="center"] > a[href^="/derefer.php?url="]
 boerse-online.de##.rsmodulanzeige
-herold.at##.rssBox
 ebay.de##.rtmad
 com-magazin.de##.s2teaserboxes-typ-4
 com-magazin.de##.s2teaserboxes-typ-6
@@ -1769,9 +1760,6 @@ yigg.de,zeit.de##.sponsoring
 eblogx.com##.sponsorleft
 fc-suedtirol.com##.sponsorliste
 svm-fan.net##.sponsorlogo
-herold.at##.sponsors
-herold.at##.sponsors + .hdgTeaser
-herold.at##.sponsors + .hdgTeaser + #karriere
 fcbayern.de##.sponsors-wrapper
 euractiv.de##.sponzor
 collabxt.de,schnellangeld.de##.squarebanner
@@ -2419,12 +2407,9 @@ g-stream.in##a[target="_blank"] > img[width="468"][height="60"]
 g-stream.in##a[target="_blank"] > img[width="720"][height="90"]
 quoka.de##a[target="_blank"][href*="/solute/cd/banner?"]
 pappenforum.de##a[target="_blank"][href="http://www.HolidaysGermany.de"]
-herold.at##a[target="_blank"][href="http://www.adaffix.com"]
 braunschweiger-zeitung.de##a[target="_blank"][href="http://www.flirt38.de/"]
-herold.at##a[target="_blank"][href="http://www.reise-hero.com/"]
 dxtv.de,dxtv.eu,satbook.de##a[target="_blank"][href="http://www.satshop24.de/"]
 dxtv.de,dxtv.eu,satbook.de##a[target="_blank"][href="http://www.so-mm.de/"]
-herold.at##a[target="_blank"][href="http://www.urlauburlaub.at"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[target="_blank"][href^="../"]
 magistrix.de##a[target="_blank"][href^="/deblock/"]
 speedlounge.in##a[target="_blank"][href^="/download/"]
@@ -2473,7 +2458,6 @@ fc-hansa.de##a[title="DKB-Familienblock"]
 saugzone.info##a[title="Usenet gratis"]
 3dl.tv##a[title][target="_blank"][rel="nofollow"][href^="/"]
 chip.de##a[title^="Anzeige:"]
-herold.at##a[title^="Werbung: "][target="_blank"]
 schulzeux.de##article > .vi_a_79
 maxwireless.de##aside a[target="_blank"][onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"]
 gamestar.de##blockquote > p > strong + a[href^="http://www.amazon.de/"]
