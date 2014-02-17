@@ -382,7 +382,7 @@
 @@.jpg#$image,domain=fakedaten.tk|green-24.de|juristische-suche.de|peugeot-metropolis.de|proverbia-iuris.de|rene-neuweiler.ch|streamit.ws|umweltlupe.de
 @@.net^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
-@@.png#$image,domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|blog.free-clan.org|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rechtslupe.de|rechtslupe.net|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|tobinsteuer.de|twixzo.de|ul-load.com|uploaded-premium.ru|vereinslupe.de|vorsorgebote.de|wintotal-forum.de|wirtschaft-recht-aktuell.de
+@@.png#$image,domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rechtslupe.de|rechtslupe.net|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|tobinsteuer.de|twixzo.de|ul-load.com|uploaded-premium.ru|vereinslupe.de|vorsorgebote.de|wintotal-forum.de|wirtschaft-recht-aktuell.de
 @@|http://*uk.to^$script,domain=ul-load.com|uploaded-premium.ru
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
@@ -407,7 +407,6 @@
 @@||aussenwirtschaftslupe.de^$elemhide
 @@||betreut-wohnen.de/adserver/ad.js
 @@||blick.ch^*/advertisement.js
-@@||blog.free-clan.org^$elemhide
 @@||boardking.de^*/adframe.js
 @@||bs.serving-sys.com/burstingpipe/adserver.bs?$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -453,7 +452,6 @@
 @@||finanzmarkttransaktionssteuer.de^$elemhide
 @@||flashtalking.com/imp/*;BMWTVTeaser220x180/?click=$script,domain=teleboerse.de
 @@||forum-fuer-senioren.de^*/ad.js
-@@||free-clan.org/tools/AntiAdBlocker/adcode.js
 @@||free-klingeltoene-handy.de/adframe.js
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
@@ -500,8 +498,8 @@
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=blog.free-clan.org|bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|peugeot-metropolis.de|rene-neuweiler.ch|risiko-gesundheit.de|vol.at|wintotal-forum.de
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.free-clan.org|java-forum.org|peugeot-metropolis.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|peugeot-metropolis.de|rene-neuweiler.ch|risiko-gesundheit.de|vol.at|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=java-forum.org|peugeot-metropolis.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|rene-neuweiler.ch|risiko-gesundheit.de|vol.at|wintotal-forum.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
