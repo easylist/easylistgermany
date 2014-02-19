@@ -66,6 +66,7 @@
 @@||adtech.de/apps/$object-subrequest,domain=cineman.de
 @@||adv.sportube.tv/adv/www/delivery/ajs.php?$script,domain=fc-suedtirol.com
 @@||afcdn.com/world/ads.js$domain=gofeminin.de
+@@||affilinet-inside.de^*/affilinet/$stylesheet
 @@||aka-cdn-ns.adtech.de/apps/$image,domain=neckermann.de
 @@||aka-cdn-ns.adtech.de/apps/*/default_ergebnisbox.jpg$domain=sportdaten.t-online.de
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
