@@ -1945,6 +1945,7 @@
 ||xxx-4-free.net/gfx/layer/
 ||xxx-blog.to/img/wbm/
 ||xxx-blog.to^*.php|$script
+||xxx-blog.to^*/pstreams.js
 ||xxx-blog.to^*/rotator.php
 ||yabeat.com/generate_layer.php
 ||yabeat.com^*.php|$script
