@@ -3080,6 +3080,6 @@ androidnext.de##ul[style="list-style-image: url(http://dl.androidnext.de/flame.p
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
 goldesel.to##.adsh
-mobilfunk-geschichte.de,nachrichtenamort.de##body > :nth-child(n) + style + div[id]:last-child
-mobilfunk-geschichte.de,nachrichtenamort.de##body > noscript > style + div[id]:last-child
+mobilfunk-geschichte.de##body > :nth-child(n) + style + div[id]:last-child
+mobilfunk-geschichte.de##body > noscript > style + div[id]:last-child
 ul-load.com##div[style*="background-color: rgb("]
