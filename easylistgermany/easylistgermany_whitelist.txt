@@ -454,6 +454,7 @@
 @@||flashtalking.com/imp/*;BMWTVTeaser220x180/?click=$script,domain=teleboerse.de
 @@||forum-fuer-senioren.de^*/ad.js
 @@||free-klingeltoene-handy.de/adframe.js
+@@||g.doubleclick.net/gampad/ads?gdfp_req=*&callback=googletag.impl.pubads.setAdContentsBySlotForSync&$script,domain=gamona.de
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
 @@||gamona.de^$elemhide
@@ -507,6 +508,7 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|rene-neuweiler.ch|risiko-gesundheit.de|vol.at|wintotal-forum.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=gamona.de
 @@||peugeot-metropolis.de^$elemhide
 @@||picload.org/ads-1.js
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
