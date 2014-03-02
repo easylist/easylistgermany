@@ -1959,6 +1959,7 @@
 ||xxx-blog.to^*/pstreams.js
 ||xxx-blog.to^*/rotator.php
 ||yabeat.com/generate_layer.php
+||yabeat.com/i*.js|
 ||yabeat.com^*.php|$script
 ||yasni.de^*/partner/
 ||yigg.de^*/sponsorings/
