@@ -84,6 +84,7 @@
 ||teen-blog.us/out_to_trade.php$popup
 ||teltarif.de/click/*:*.a=$popup
 ||thepornlist.net^$popup,domain=sexuria.com
+||tipico.com^$popup,domain=yabeat.com
 ||tradedoubler.com/click?$popup,domain=smsform.de
 ||tubefuck.tv^$popup,domain=movie-blog.org
 ||uploaded-premium.ru/out.php$popup
@@ -101,5 +102,6 @@
 ||xxx-blog.to/out.php$popup
 ||xxx-blog.to/pornstreams.php$popup
 ||xxx-blog.to/pstreams.php$popup
+||yabeat.com^*.php?id=$popup
 ||yasni.de/ad_pop.php$popup
 ||zumlink.de^$popup,domain=byte.to

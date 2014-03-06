@@ -735,7 +735,6 @@
 ||gamona-images.de/471277/cf9b98701d9a4221b994fe5e7bd32c87.jpg
 ||gamona-images.de/471284/3f71999f1544d168cbce0128572e0b5a.jpg
 ||gamona.de/$static/7be3f1698e5bb84d4420003455e6f179-1awir-rbcw/$script
-||gamona.de/ad/
 ||gamona.de/assets/*-expandable.swf$object
 ||gamona.de/assets/*/fallback_
 ||gamona.de/assets/*_interstitial_
@@ -1971,6 +1970,7 @@
 ||yabeat.com/generate_layer.php
 ||yabeat.com/i*.js|
 ||yabeat.com^*.php|$script
+||yabeat.com^*3.js|
 ||yasni.de^*/partner/
 ||yigg.de^*/sponsorings/
 ||yimg.com/a/i/eu/cbe/xm/christmas_index_2010_de.jpg$domain=yahoo.com
