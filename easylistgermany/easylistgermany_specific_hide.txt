@@ -1206,7 +1206,6 @@ fcbayern.de##.box-sponsors
 geizhals.at##.box10h + .gh_cat
 gesund.tv##.boxContent-brands
 androidpit.de##.boxLightLeft[style="width:620px; text-align:center; font-size:95%"]
-gamona.de##.box[style="padding:10px 0;min-height:250px;border-bottom:none;"]
 franchise-net.de##.box_174
 netzwelt.de##.box_content_body > div[style="margin-top: 10px;"]
 netzwelt.de##.box_content_footer > div[style="width: 310px; padding: 0px 0px 9px 130px;"]
@@ -1867,7 +1866,6 @@ technorocker.info##.vim
 viviano.de##.vtext9
 bruder-schwester-fick.com##.w_b300x250
 xvideo-deutsch.com##.w_under_video
-rechtslupe.de##.wbginartikel
 abendzeitung-muenchen.de##.webtipps
 diefussballecke.de##.werbe_eigen_rahmen
 eastcomp.de##.werbehinweis + table
@@ -2532,7 +2530,6 @@ movie-blog.org##div[class^="post"] a[href^="http://movie-blog.org/"]
 gofeminin.de##div[class^="sas_FormatID_"]
 car.de##div[class^="wrb-"]
 amazon.de##div[id$="_adcontent"]
-uploaded-premium.ru##div[id$="_layer"]
 0o2.de##div[id$="spbox"]
 boerse.bz##div[id][class][style^="z-index:"][style*="background-color:"][style*="opacity:"][style*="height:"][style*="width:"][style*="display:"]
 vol.at##div[id^="AdContainer_"]
@@ -3098,4 +3095,3 @@ r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 goldesel.to##.adsh
 mobilfunk-geschichte.de##body > :nth-child(n) + style + div[id]:last-child
 mobilfunk-geschichte.de##body > noscript > style + div[id]:last-child
-ul-load.com##div[style*="background-color: rgb("]
