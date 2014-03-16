@@ -406,6 +406,7 @@
 @@||aktuelles-handelsrecht.info^$elemhide
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
 @@||altfarm.mediaplex.com/ad/js/*?mpt=*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
+@@||amgdgt.com/ads?$object-subrequest,domain=clipfish.de
 @@||apmebf.com/ad/js/*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
 @@||aussenwirtschaftslupe.de^$elemhide
 @@||betreut-wohnen.de/adserver/ad.js
@@ -417,7 +418,7 @@
 @@||bullhost.de^*#-$image
 @@||cas.criteo.com/delivery/afr.php?zoneid=$subdocument,domain=netzkino.de
 @@||cdn.flashtalking.com/xre/*/js/j-*.js$domain=teleboerse.de
-@@||cdn.flashtalking.com^*.mp4$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||cdn.flashtalking.com^*.mp4$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||chat.lycos.de/adimages/$subdocument
 @@||combatarms-game.de/adframe.js
 @@||crackajack.de^*/advertising.js
@@ -529,7 +530,7 @@
 @@||schuetzenrecht.de^$elemhide
 @@||schulzeux.de/js/show_ads.js
 @@||schweizer-abgeltungssteuer.ch^$elemhide
-@@||servedby.flashtalking.com/imp/$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||servedby.flashtalking.com/imp/$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||serving-sys.com/BurstingRes/Site-*.flv$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||serving-sys.com/BurstingRes/Site-*.mp4$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||serving-sys.com/BurstingRes/Site-*/Type-$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -543,6 +544,7 @@
 @@||slimtrade.com/s*.js$domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.tv
 @@||smartclip.net/delivery/tag?sid=$object-subrequest,domain=clipfish.de
+@@||smartclip.nuggad.net/crossdomain.xml$object-subrequest,domain=clipfish.de
 @@||sozialrechtsnews.de^$elemhide
 @@||startup-connection.de^$elemhide
 @@||steuerschmiede-aktuell.de^$elemhide
