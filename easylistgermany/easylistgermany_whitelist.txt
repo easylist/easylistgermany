@@ -470,6 +470,7 @@
 @@||flashtalking.com/imp/*;BMWTVTeaser220x180/?click=$script,domain=teleboerse.de
 @@||forum-fuer-senioren.de^*/ad.js
 @@||free-klingeltoene-handy.de/adframe.js
+@@||g.doubleclick.net/activity;*/DE-AudiencePixel/Gamestar;dc_seg=$image,domain=gamestar.de
 @@||g.doubleclick.net/gampad/ads?gdfp_req=*&callback=window.parent.googletag.impl.pubads.setAdContentsBySlotForAsync&$script,domain=pcwelt.de
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
@@ -502,7 +503,6 @@
 @@||mirror-archiv.com/banner/ads/adserver/click/ad.js
 @@||mufa.de/js/advertisement.js
 @@||mutterschutz-rechner.de^$elemhide
-@@||myentertainment.$script,third-party
 @@||mypolonia.de^*/adframe.js
 @@||myvideo.*/ad.js
 @@||n-roms.de/adframe.js
