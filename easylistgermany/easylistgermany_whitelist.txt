@@ -479,8 +479,8 @@
 @@||gamona.de/ads/uploads/2014/03/$image
 @@||gassi-tv.de^*/adframe.js
 @@||gerichtsboulevard.de^$elemhide
-@@||gmads.net/crossdomain.xml$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||gmads.net/r?$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||gmads.net/crossdomain.xml$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||gmads.net/r?$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||goolive.de^*.js|
 @@||green-24.de^$elemhide
 @@||grundrechteschutz.de^$elemhide
