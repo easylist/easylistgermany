@@ -102,6 +102,7 @@ excitingcommerce.de###alpha-inner > .module-typelist:first-child + .module-typel
 excitingcommerce.de###alpha-inner > .module-typelist:first-child + .module-typelist + .module-typelist
 downloadstube.net###alternative_download + a[onclick]
 eeepc.de###amazon1
+androidnext.de###amazon_headline
 crackajack.de###amazon_list
 chip.de###anchorSuperBanner
 tagesspiegel.de###anzeige_schnippsel
@@ -524,6 +525,7 @@ orf.at###monsterdiv
 berlin-nutten.com,deutsche-erotikfilme.com###more-sex
 radio-teddy.de###mpl
 gamigo.de###mrbox
+androidnext.de###mrec_sidebar
 visions.de###mrect
 morgenpost.de###mrect01
 morgenpost.de###mrect02
@@ -1931,6 +1933,7 @@ yelp.de##.yla
 magistrix.de##.zeezee
 german-bash.org##.zitat > div[style="width:300px;"]
 3dl.tv##:not(td) > a[target="_blank"][href*=".3dl.tv/"][href*=".php?"][href*="="]:first-child
+androidnext.de##A[onclick^="_gaq.push(['_trackEvent', 'Sidebar', 'Amazon App Store',"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
@@ -2628,6 +2631,7 @@ ragecomic.com##div[id^="vecoll"]
 ragecomic.com##div[id^="vertcol"]
 welt.de##div[id^="w_articlecoop_"]
 schnelle-online.info##div[onclick*="'familienurlaub'"]
+androidnext.de##div[onclick^="_gaq.push(['_trackEvent', 'Sidebar', 'Amazon App Store',"]
 gamestar.de##div[onclick^="location.href='http://www.gamestar.de/_misc/linkforward/linkforward.cfm?linkid="]
 suchen.de##div[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 rtl-now.rtl.de,voxnow.de##div[onclick^="window.open('/tools/count/xdot/count.php?id="]
