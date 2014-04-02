@@ -252,6 +252,7 @@ neckar-chronik.de###container_bottom
 az-web.de###container_standard_oms
 biothemen.de###content + #right
 fernsehkritik.tv###content > #rclm[style="width:224px;"]:last-child
+wgvdl.com###content > #seitenblock > #seitenblockinhalt > #seitenblockzeilen
 oxygen-scene.com###content > .board_message
 netzwelt.de###content > .two-thirds > div[style="margin: 10px; margin-left: 0px;"]
 netzwelt.de###content > .two-thirds > div[style="margin: 10px;"]
