@@ -348,6 +348,7 @@
 @@||ticketonline.de/tickets.html?affiliate=$subdocument
 @@||tkqlhce.com/click-$subdocument,domain=eule.de
 @@||toggo.de/js/advertise.js
+@@||toggo.de/xml/admeta.xml?$object-subrequest
 @@||tradedoubler.com/click?$subdocument,domain=eule.de|gutscheindoktor.de|preismafia.com
 @@||tradedoubler.com/file/$image,domain=sunsteps.org
 @@||tradedoubler.com/redirect/*^affID^$subdocument,domain=gutscheindoktor.de
