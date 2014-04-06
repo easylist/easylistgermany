@@ -66,6 +66,7 @@ unterwasserwelt.de###Tabelle673
 t-online.de###Tadspacefootlb
 t-online.de###Tamrecbox
 t-online.de###Tcmd1 > .Tmect
+t-online.de###Tcontboxi > .Tagbox > .Tart > #Ttub2
 cio.de###TopBanner
 onvista-bank.de,onvista.de###WALLPAPER
 ww3.cad.de###WzTtDiV + table[width="100%"][border="0"]
@@ -1027,15 +1028,20 @@ aol.de##.SLL
 fcbayern.telekom.de##.SectionPresenting
 derstandard.at##.SponsorCFrame
 buerschgens.de##.SponsorFuss
+t-online.de##.TFlashPlayer[style="height:200px; width:300px;"]
 rtl.de##.T_partner
 rtl.de##.T_shopKoop
 t-online.de##.Tadc
 t-online.de##.Tamrecbox
 eltern-zentrum.de##.Text1[valign="top"]:last-child > .tabberlive:last-child
 adhs-zentrum.de##.Text[width="100%"][valign="top"] + td[valign="top"]:last-child
+t-online.de##.Thpx600
 kleinreport.ch##.TopBannerContainer
 kellysearch.de##.TopBanners
+t-online.de##.Toyota
+t-online.de##.Tshlogobox
 t-online.de##.Tsshopst
+t-online.de##.Tsshopst1
 t-online.de##.Ttsc.Ttsh65.Tmc4a
 aol.de##.WOL
 gullipics.com##.a-zone
@@ -2487,6 +2493,7 @@ gamestar.de##a[target="_blank"][href^="http://goo.gl/"] > img
 t-online.de##a[target="_blank"][href^="http://im.banner.t-online.de/?adlink"] > img
 apfeleimer.de##a[target="_blank"][href^="http://j.mp/"]
 hoerbuch.in,lesen.to##a[target="_blank"][href^="http://megacache.net/free"]
+t-online.de##a[target="_blank"][href^="http://nachricht.sptopf.de/tshp/RE?ID="]
 gamereactor.de##a[target="_blank"][href^="http://openx.gamereactor.dk/adclick.php?"]
 oyox.de##a[target="_blank"][href^="http://partners.webmasterplan.com/click.asp?ref="] > img
 rtl-now.rtl.de##a[target="_blank"][href^="http://rtl-now.rtl.de/tools/count/xdot/count.php?id="]
@@ -2646,6 +2653,7 @@ boerse.bz##div[onclick^="window.open('http://www.boerse.bz/go/?register=new&m=gu
 suchen.de##div[onclick^="window.open('http://www.suchen.de/ad?"]
 wetter.info##div[onfocus*=";mp=gelbeseiten;"]
 t-online.de##div[onfocus="A('mp=TopPartner')"]
+t-online.de##div[onfocus="A('mp=TopPartner-1')"]
 mikrocontroller.net##div[style$="120px; text-align:center; font-size:12px; border:2px solid #ffa500; padding:3px; background:#EEE; overflow:hidden;"]
 mikrocontroller.net##div[style$="120px; text-align:center; font-size:12px; border:2px solid #ffa500; padding:3px; background:-moz-linear-gradient(top, #EEE, #ffa500); background:-webkit-gradient(linear, left top, left bottom, from(#EEE), to(#ffa500)); overflow: hidden;"]
 mikrocontroller.net##div[style$="160px; text-align:center; font-size:12px; border:2px solid #ffa500; padding:3px; background:#EEE; overflow:hidden;"]
@@ -2917,6 +2925,7 @@ g-stream.in##img[width="468"][height="59"]
 3druck.com,amilo-forum.de,awekas.at,fake-it.biz,gntm-blog.de,mafia-linkz.to,novalja-zrce.de,technorocker.info,vampirediaries.in,velderboard.li,xboxdome.de##img[width="468"][height="60"]
 e-bol.net##img[width="469"][height="61"]
 emuenzen.de##img[width="486"][height="60"]
+t-online.de##img[width="609"][usemap^="#immap"]
 t-online.de##img[width="610"][usemap^="#immap"]
 t-online.de##img[width="641"][usemap^="#immap"]
 cinebee.org##img[width="660"]
