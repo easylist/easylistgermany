@@ -385,7 +385,7 @@
 ! Anti-Adblock
 @@.com^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.gif#$image,domain=java-forum.org|schweizer-abgeltungssteuer.ch|startup-connection.de
-@@.jpg#$image,domain=fakedaten.tk|green-24.de|juristische-suche.de|peugeot-metropolis.de|proverbia-iuris.de|rene-neuweiler.ch|streamit.ws|umweltlupe.de
+@@.jpg#$image,domain=green-24.de|juristische-suche.de|peugeot-metropolis.de|proverbia-iuris.de|rene-neuweiler.ch|streamit.ws|umweltlupe.de
 @@.net^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
 @@.png#$image,domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rappers.in|rechtslupe.de|rechtslupe.net|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|teamspeak-ts.com|tobinsteuer.de|twixzo.de|ul-load.com|uploaded-premium.ru|vereinslupe.de|vorsorgebote.de|wintotal-forum.de|wirtschaft-recht-aktuell.de
@@ -466,7 +466,6 @@
 @@||energielupe.de^$elemhide
 @@||europalupe.eu^$elemhide
 @@||exoclick.com/ads-iframe-display.php?*&type=300x250&$subdocument,domain=board.world-of-hentai.to
-@@||fakedaten.tk^$elemhide
 @@||fastshare.org/advertisement.js
 @@||feed-reader.net^$elemhide,image,script
 @@||finanzmarkttransaktionssteuer.de^$elemhide
