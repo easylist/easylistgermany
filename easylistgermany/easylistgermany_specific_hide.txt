@@ -1042,6 +1042,7 @@ kleinreport.ch##.TopBannerContainer
 kellysearch.de##.TopBanners
 t-online.de##.Toyota
 t-online.de##.Tshlogobox
+t-online.de##.Tssshopst
 t-online.de##.Ttsc.Ttsh65.Tmc4a
 aol.de##.WOL
 gullipics.com##.a-zone
@@ -2593,6 +2594,8 @@ amazon.de##div[id$="_adcontent"]
 boerse.bz##div[id][class][style^="z-index:"][style*="background-color:"][style*="opacity:"][style*="height:"][style*="width:"][style*="display:"]
 vol.at##div[id^="AdContainer_"]
 www.blick.ch##div[id^="CT299"]
+t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
+t-online.de##div[id^="T-"][oncontextmenu="return false"]
 t-online.de##div[id^="T-"][style="cursor: pointer;"]
 oberprima.com##div[id^="ad-inst-"]
 2kino.net,flash-moviez.tv,ucoz.de##div[id^="adBar"]
@@ -2917,6 +2920,7 @@ quadclub-harz.de##img[width="1"][height="120"] + table[width="100%"][cellspacing
 suedtirolnews.it##img[width="120"][height="125"]
 topmodels.de,xxx-blog.to##img[width="120"][height="600"]
 e-bol.net##img[width="121"][height="601"]
+t-online.de##img[width="145"][height="225"]
 iphoneblog.de##img[width="150"][height="125"]
 gamefront.de##img[width="150"][height="350"]
 gamefront.de##img[width="150"][height="563"]
@@ -2928,6 +2932,7 @@ gamefront.de##img[width="180"][height="350"]
 t-online.de##img[width="209"][usemap^="#immap"]
 hitradio.com.na##img[width="220"][height="48"]
 02elf.net,dashitradio.de,der-postillon.com,fitforfun.de,iphoneblog.de,teltarif.de,wetter.net##img[width="300"][height="250"]
+t-online.de##img[width="300"][height="450"]
 ingame.de##img[width="325px"][src$="clear.gif"]
 xxx-boardz.com##img[width="360"][height="46"]
 1load.net##img[width="362"][height="48"]
