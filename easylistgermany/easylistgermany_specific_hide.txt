@@ -801,7 +801,7 @@ arabische-küche.de###sidebar > #text-9
 omfg.to###sidebar > .ad
 stopadblock.org###sidebar > div[id][style="text-align:center"]
 stopadblock.org###sidebar > div[style] + div[id][style]
-pferd.de,radforum.de###sidebar > li > .ffwidget_sidebar
+aquariumforum.de,pferd.de,radforum.de###sidebar > li > .ffwidget_sidebar
 tgs-pforzheim.de###sidebar > ul > #aioslideshow-widget-2
 mikrocontroller.net###sidebar-right > div[style]:last-child > div[id]:last-child > div[style]
 mikrocontroller.net###sidebar-right > div[style]:last-child > script + div[style]:last-child
@@ -1374,8 +1374,8 @@ downloadstube.net##.download_hoster
 vip.de##.eTeaser
 mtg-forum.de##.ebay_banner
 camidos.de##.ebay_hits
-amerika-forum.de,campen.de,deejayforum.de,pferd.de,rechnungswesenforum.de,reitforum.de,sat-ulc.eu##.ebayitems
-amerika-forum.de,pferd.de,rechnungswesenforum.de##.ebayitems3
+amerika-forum.de,aquariumforum.de,campen.de,deejayforum.de,pferd.de,rechnungswesenforum.de,reitforum.de,sat-ulc.eu##.ebayitems
+amerika-forum.de,aquariumforum.de,pferd.de,rechnungswesenforum.de##.ebayitems3
 sinn-frei.com##.ebp
 pcwelt.de##.ecommerce + .ecommerce
 abacho.de##.econa_editorial_tips
