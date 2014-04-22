@@ -398,12 +398,7 @@
 @@||37.59.248.204^$script,domain=ul-load.com|uploaded-premium.ru
 @@||5.135.58.25^$script,domain=uploaded-premium.ru
 @@||ad.71i.de/global_js/*/adplayer.min.js$domain=gamestar.de
-@@||ad.71i.de/global_js/globalV6.js$domain=lokalisten.de
 @@||ad.71i.de/global_js/Sites/gamestarde.js$domain=gamestar.de
-@@||ad.71i.de/global_js/Sites/lokalistende.js$domain=lokalisten.de
-@@||ad.lokalisten.de/www/delivery/fl.js$domain=lokalisten.de
-@@||ad.lokalisten.de/www/delivery/spc.php?zones=$script
-@@||ad.lokalisten.de/www/delivery/spcjs.php?id=$script,domain=lokalisten.de
 @@||ad4.liverail.com/?LR_PUBLISHER_ID=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ad4mat.de/ads/js/adtrust-min.php?*&w=468&h=60&$script,domain=mufa.de
 @@||adfarm1.adition.com/banner?sid=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
@@ -502,7 +497,6 @@
 @@||lablue.at^$elemhide,script
 @@||lablue.ch^$elemhide,script
 @@||lablue.de^$elemhide,script
-@@||lokalisten.de^$elemhide
 @@||magistrix.de/ads/iframe.html?*#content$subdocument
 @@||magistrix.de^*/advertisement-$script
 @@||mannfuermann.com/mfm/static/adcode.js
