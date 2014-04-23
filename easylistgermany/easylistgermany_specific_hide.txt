@@ -2633,6 +2633,7 @@ pnp.de##div[id^="diganz"]
 abnehmen-forum.com##div[id^="edit"] > .vbseo_like_postbit + table[width="100%"][bgcolor="#FFFFFF"]
 boerse.bz##div[id^="edit"] > table[id^="post"] + br + .tborder[width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"]
 jswelt.de##div[id^="edit"]:first-child:last-child > .spacer:last-child
+mobilegeeks.de##div[id^="google_ads_"]
 gamestar.de##div[id^="idAd"]
 freitag.de##div[id^="mf"]
 boerse.bz##div[id^="navbar_notice_"] > div[style="text-align:center;width:770px;margin:auto;"]
