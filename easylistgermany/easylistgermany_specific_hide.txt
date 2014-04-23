@@ -1422,7 +1422,6 @@ wetter.com##.ext_url[onclick^="_gaq.push(['_trackEvent', 'Toolbar_Pets"]
 fussballoesterreich.at##.fadeVerein1
 fussballoesterreich.at##.fadeVerein2
 fussballoesterreich.at##.fadeVerein3
-allfacebook.de##.fanwerden + .popular-posts
 computerhilfen.de##.fcontent2 > a > img[width="612"][height="221"]
 poker-lernen.info##.featured
 emok.tv##.fenster_gadgets
@@ -1680,7 +1679,6 @@ picdumps.com##.plug_q2
 picdumps.com##.plug_w
 playcentral.de,playmassive.de,playnation.de##.pnad
 myvideo.de##.poker_livechat
-allfacebook.de##.popular-posts > h4 + ul
 webmiles.de##.popup
 grosseleute.de##.portalColumnInner > :nth-child(n) a[href] div img[src^="image/"]
 grosseleute.de##.portalColumnInner > :nth-child(n) div:first-child:last-child > div:first-child > a[href] > img[src^="image/"]
