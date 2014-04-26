@@ -1021,7 +1021,7 @@ perspektive-mittelstand.de##.Laddbox300
 onvista-bank.de,onvista.de##.MEGASIZE_BANNER
 sc-markersdorf.at##.ModBannersC
 alle-autos-in.de##.NaviTopP
-gofeminin.de##.OffresSpe_cadre
+bildderfrau.de,gofeminin.de##.OffresSpe_cadre
 news.preisgenau.de##.Post5
 aol.de##.RHRSLL
 fremdwort.de##.RahmenRundrum[width="560"] > tbody > tr > td[colspan="2"]:first-child:last-child > table[border="0"]:first-child:last-child
@@ -1216,6 +1216,7 @@ rockantenne.de##.bannertop
 pcgames.de,pcgameshardware.de##.bargain
 brokencomedy.de##.bc-medium-rectangle
 heise.de##.bcadv
+bildderfrau.de##.bdf_megabannerBack
 saarbruecker-zeitung.de##.beilagen
 movie-blog.org##.beitrag > div > div > a[href^="http://movie-blog.org/"]
 pcwelt.de##.best-products
@@ -2584,7 +2585,7 @@ erbrecht-ratgeber.de##div[class^="b_336x280_"]
 movie-blog.org##div[class^="entry"] a[href^="http://movie-blog.org/"]
 movie-blog.org##div[class^="post"] a[href^="http://movie-blog.org/"]
 1fcm.de,fc-magdeburg.de##div[class^="reklame_"]
-gofeminin.de##div[class^="sas_FormatID_"]
+bildderfrau.de,gofeminin.de##div[class^="sas_FormatID_"]
 car.de##div[class^="wrb-"]
 amazon.de##div[id$="_adcontent"]
 0o2.de##div[id$="spbox"]
@@ -3033,6 +3034,7 @@ ksta.de##table[cellspacing="0"][cellpadding="0"][border="0"][style="background-c
 cine24.tv##table[cellspacing="0"][cellpadding="0"][border="0"][width] > tbody > tr > td[style^="text-align:center"]
 loadsieben.org##table[cellspacing="0"][cellpadding="5"][border="0"] > tbody > tr:first-child:last-child > td:first-child + td + td[align="right"]:last-child
 adhs-zentrum.de##table[cellspacing="2"][cellpadding="4"][border="0"][width="200"]:first-child:last-child
+bildderfrau.de##table[class^="sas_FormatID_"]
 biokurs.de##table[height="100"][width="850"][cellspacing="0"][cellpadding="0"][border="0"]:first-child
 krankenkassentarife.de##table[height="150"][width="180"][style="border: 1px solid #0F1350;"]
 rga-online.de##table[height="160"][bgcolor="#333399"][width="130"]
