@@ -455,6 +455,7 @@
 @@||doubleclick.net/ad/*;sz=1x1;ord=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||doubleclick.net/ad/clipfish.smartclip/$object-subrequest,domain=clipfish.de
 @@||doubleclick.net/ad/pushbackde.smartclip/clipfish.smartclip/$object-subrequest,domain=clipfish.de
+@@||doubleclick.net/ddm/trackimp/*.IPDEUTSCHLAND/*;dc_trk_aid=*;dc_trk_cid=*;ord=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||doubleclick.net^*/nntv.de/*^sz=120x600^$script,domain=n-tv.de
 @@||doubleclick.net^*/nntv.de/*^sz=468x61^$script,domain=n-tv.de
 @@||doubleclick.net^*/nntv.de/*^sz=600x500^$script,domain=n-tv.de
