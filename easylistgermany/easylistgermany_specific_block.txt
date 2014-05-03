@@ -1,6 +1,5 @@
 /?placement=$domain=movie-blog.org
 /oase_banner.jpg$domain=mysummit.wordpress.com
-/ws923.min.js$domain=yourtv.to
 |http://$subdocument,third-party,domain=bonimail.de
 |http://*.pw^$script,domain=byte.to
 |http://byte.to^$script
@@ -2044,7 +2043,6 @@
 ||youfreetv.net/js/jquery.ad.js
 ||youpic.in/css/images/box.png$domain=6dl.to
 ||yourdealz.de/120.gif
-||yourtv.to/js/order.js
 ||youzap.de/img/fraag.de.jpg
 ||zapper-hulda-clark.de^*-webbanner_*.swf
 ||zebradem.com^*/banner/
