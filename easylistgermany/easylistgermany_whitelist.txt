@@ -457,10 +457,12 @@
 @@||doubleclick.net/ad/*;sz=1x1;ord=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||doubleclick.net/ad/clipfish.smartclip/$object-subrequest,domain=clipfish.de
 @@||doubleclick.net/ad/pushbackde.smartclip/clipfish.smartclip/$object-subrequest,domain=clipfish.de
+@@||doubleclick.net/crossdomain.xml$domain=kabeleins.de|prosieben.de|sat1.de|sixx.de
 @@||doubleclick.net/ddm/trackimp/*.IPDEUTSCHLAND/*;dc_trk_aid=*;dc_trk_cid=*;ord=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||doubleclick.net^*/nntv.de/*^sz=120x600^$script,domain=n-tv.de
 @@||doubleclick.net^*/nntv.de/*^sz=468x61^$script,domain=n-tv.de
 @@||doubleclick.net^*/nntv.de/*^sz=600x500^$script,domain=n-tv.de
+@@||doubleclick.net^*/pfadx/*;zz=10x1;$object-subrequest,domain=kabeleins.de|prosieben.de|sat1.de|sixx.de
 @@||doubleclick.net^*/RP_Sat1/other;dcmt=*;showroom=abp;$domain=prosieben.at|prosieben.ch|prosieben.de|sat1.at|sat1.ch|sat1.de|the-voice-of-germany.de
 @@||doubleclick.net^*/teleboerse.de/*^sz=120x600^$script,domain=teleboerse.de
 @@||doubleclick.net^*/teleboerse.de/*^sz=468x61^$script,domain=teleboerse.de
