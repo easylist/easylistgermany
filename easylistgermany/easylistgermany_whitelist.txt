@@ -422,6 +422,7 @@
 @@||adserv3.deutschland-spion.de/www/delivery/spc.php?$script,domain=mv-spion.de
 @@||adserv3.deutschland-spion.de/www/delivery/spcjs.php?$script,domain=mv-spion.de
 @@||adserver.71i.de/cgi-bin/functions/rogator-kkl2ads.pl?$script,domain=gamestar.de
+@@||adserver.idg.de/gptjs/techmedia/tm_dogpt_async.js$domain=pcwelt.de
 @@||adspaces.ero-advertising.com/adspace/214418.js$domain=berlin-nutten.com
 @@||aktuelles-handelsrecht.info^$elemhide
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
@@ -488,6 +489,7 @@
 @@||fribre.de^$image,script,domain=gamona.de
 @@||g.doubleclick.net/activity;*/DE-AudiencePixel/Gamestar;dc_seg=$image,domain=gamestar.de
 @@||g.doubleclick.net/gampad/ads?*&callback=googletag.impl.pubads.setAdContentsBySlotForSync&$script,domain=gamona.de
+@@||g.doubleclick.net/gampad/ads?*&callback=window.parent.googletag.impl.pubads.setAdContentsBySlotForAsync&impl=fifs&*&iu_parts=7503%2CDE-pcwelt%2Cgiveaway&enc_prev_ius=$script,domain=pcwelt.de
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
 @@||gamona.de^$elemhide,script
@@ -535,11 +537,12 @@
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|peugeot-metropolis.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|teamspeak-ts.com|vol.at|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/imgad?id=CICAgMCupPK9IhABGAEyCF_sqcjclwtP$object,domain=pcwelt.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=java-forum.org|mufa.de|peugeot-metropolis.de|teamspeak-ts.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|vol.at|wintotal-forum.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=gamona.de
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=gamona.de|pcwelt.de
 @@||peugeot-metropolis.de^$elemhide
 @@||picload.org/ads-1.js
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
