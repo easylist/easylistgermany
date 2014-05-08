@@ -362,6 +362,7 @@
 @@||tv.derstandard.at/adserver.php?*&pos=video$subdocument
 @@||ui-portal.de^*/video-adserver-config.xml$object-subrequest
 @@||uicdn.com^*/video-adserver-config.xml$object-subrequest
+@@||v.fwmrm.net/ad/p/1?$object-subrequest,domain=southpark.de
 @@||vdn-mobile.oas-limited.com/ad/$object-subrequest,domain=mobile.de
 @@||videoservice.apa.at/Vast/GetProxy/?*?videotype=preroll1&$xmlhttprequest
 @@||videostream4u.com^*/ac_oetags_clone.js
