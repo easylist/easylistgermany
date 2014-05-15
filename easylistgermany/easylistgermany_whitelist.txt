@@ -406,6 +406,8 @@
 @@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
 @@||37.59.248.204^$script,domain=ul-load.com|uploaded-premium.ru
 @@||5.135.58.25^$script,domain=uploaded-premium.ru
+@@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=spiegel.tv
+@@||ad-emea.doubleclick.net/pfadx/spiegel.tv.smartclip/;sz=*;dcmt=*;ord=$object-subrequest,domain=spiegel.tv
 @@||ad.71i.de/global_js/*/adplayer.min.js$domain=gamestar.de
 @@||ad.71i.de/global_js/globalV6.js$domain=kabeleins.de|sat1.de|sixx.de
 @@||ad.71i.de/global_js/Sites/$domain=kabeleins.de|prosieben.de|sat1.de|sixx.de
@@ -421,6 +423,8 @@
 @@||ads.exoclick.com/ads.js$domain=board.world-of-hentai.to
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
 @@||ads.yahoo.com/st?ad_type=iframe&ad_size=800x440^$subdocument,domain=uploaded-premium.ru
+@@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=spiegel.tv
+@@||adserv.quality-channel.de/RealMedia/ads/adstream_sx.ads/www.spiegel.tv/*@VMiddle$object-subrequest,domain=spiegel.tv
 @@||adserv3.deutschland-spion.de/www/delivery/spc.php?$script,domain=mv-spion.de
 @@||adserv3.deutschland-spion.de/www/delivery/spcjs.php?$script,domain=mv-spion.de
 @@||adserver.71i.de/cgi-bin/functions/rogator-kkl2ads.pl?$script,domain=gamestar.de
