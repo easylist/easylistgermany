@@ -406,7 +406,7 @@
 @@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
 @@||37.59.248.204^$script,domain=ul-load.com|uploaded-premium.ru
 @@||5.135.58.25^$script,domain=uploaded-premium.ru
-@@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=homerj.de|spiegel.tv
+@@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=homerj.de|spiegel.tv|sueddeutsche.de
 @@||ad-emea.doubleclick.net/pfadx/spiegel.tv.smartclip/;sz=*;dcmt=*;ord=$object-subrequest,domain=spiegel.tv
 @@||ad.71i.de/global_js/*/adplayer.min.js$domain=gamestar.de
 @@||ad.71i.de/global_js/globalV6.js$domain=kabeleins.de|sat1.de|sixx.de
@@ -513,7 +513,7 @@
 @@||green-24.de^$elemhide
 @@||grundrechteschutz.de^$elemhide
 @@||hartzbote.de^$elemhide
-@@||homad-global-configs.schneevonmorgen.com.s3.amazonaws.com/timp.gif?$object-subrequest,domain=sueddeutsche.de
+@@||homad-global-configs.schneevonmorgen.com.s3.amazonaws.com^*.gif?$object-subrequest,domain=sueddeutsche.de
 @@||hubbahotel.cc^*/advertisement.js
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
 @@||innovid.com^*;cb=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
