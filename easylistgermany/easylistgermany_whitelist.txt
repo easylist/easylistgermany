@@ -465,6 +465,7 @@
 @@||doubleclick.net/ad/pushbackde.smartclip/clipfish.smartclip/$object-subrequest,domain=clipfish.de
 @@||doubleclick.net/crossdomain.xml$domain=kabeleins.de|prosieben.de|sat1.de|sixx.de
 @@||doubleclick.net/ddm/trackimp/*.IPDEUTSCHLAND/*;dc_trk_aid=*;dc_trk_cid=*;ord=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||doubleclick.net/pfadx/*.IPDEUTSCHLAND/*;sz=0x0;$object-subrequest,domain=sueddeutsche.de
 @@||doubleclick.net/pfadx/iqd_sueddeutsche;sz=$object-subrequest
 @@||doubleclick.net/pfadx/iqdsde/video;sz=$object-subrequest
 @@||doubleclick.net^*/ad/homerj.de.smartclip/*;sz=*;dcmt=*;ord=$object-subrequest,domain=homerj.de
