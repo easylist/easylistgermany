@@ -515,6 +515,7 @@
 @@||grundrechteschutz.de^$elemhide
 @@||hartzbote.de^$elemhide
 @@||homad-global-configs.schneevonmorgen.com.s3.amazonaws.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de
+@@||homad-global-configs.schneevonmorgen.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de
 @@||hubbahotel.cc^*/advertisement.js
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
 @@||innovid.com^*;cb=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
