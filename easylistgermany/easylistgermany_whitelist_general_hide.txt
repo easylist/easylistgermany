@@ -112,7 +112,14 @@ berlin.de#@#a[href^="http://adfarm.mediaplex.com/"]
 schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 hbf-info.de,rakuten.at,rakuten.de#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
+gamestar.de#@##AdTop
+gamestar.de#@##BF_BUZZBOX
+gamestar.de#@##WerbungObenRechts10_GesamtDIV
+gamestar.de#@##Werbung_Sky
+gamestar.de#@##ad-fullbanner2
 vol.at#@##ad-medrec
+gamestar.de#@##ad-popup1
+gamestar.de#@##ad-rectangle1
 vol.at#@##adPopover
 vol.at#@##adSpace5
 tape.tv#@##ad_box
@@ -124,9 +131,15 @@ vol.at#@##ad_two
 tape.tv#@##adframe:not(frameset)
 vol.at#@##adsense
 vol.at#@##adsense_top
+gamestar.de#@##adskyleftdiv
 vol.at#@##bigadspot
+gamestar.de#@##topadcontainer
+gamestar.de#@##werbetrenner
 magistrix.de#@#.ads-content
 mufa.de#@#.adsbygoogle
 netzkino.de#@#.advertising-top
 netzkino.de#@#.contentAdBox
+gamestar.de#@#.headeradhome
+gamestar.de#@#.mxl_ad_inText_250
 tape.tv#@#.text_ads
+gamestar.de#@#.topAdvBox
