@@ -514,7 +514,6 @@
 @@||green-24.de^$elemhide
 @@||grundrechteschutz.de^$elemhide
 @@||hartzbote.de^$elemhide
-@@||homad-global-configs.schneevonmorgen.com.s3.amazonaws.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de
 @@||homad-global-configs.schneevonmorgen.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de
 @@||hubbahotel.cc^*/advertisement.js
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
@@ -574,6 +573,7 @@
 @@||rene-neuweiler.ch^$elemhide
 @@||rentenbote.de^$elemhide
 @@||revsci.net/pql?placementIdList=*&cb=$script,domain=gamestar.de
+@@||schneevonmorgen.com.s3.amazonaws.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de
 @@||schuetzenrecht.de^$elemhide
 @@||schulzeux.de/js/show_ads.js
 @@||schweizer-abgeltungssteuer.ch^$elemhide
