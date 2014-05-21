@@ -434,6 +434,7 @@
 @@||aktuelles-handelsrecht.info^$elemhide
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
 @@||altfarm.mediaplex.com/ad/js/*?mpt=*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
+@@||amazonaws.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@||amgdgt.com/ads?$object-subrequest,domain=clipfish.de
 @@||apmebf.com/ad/js/*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
 @@||aussenwirtschaftslupe.de^$elemhide
@@ -572,7 +573,6 @@
 @@||rene-neuweiler.ch^$elemhide
 @@||rentenbote.de^$elemhide
 @@||revsci.net/pql?placementIdList=*&cb=$script,domain=gamestar.de
-@@||schneevonmorgen.com.s3.amazonaws.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@||schuetzenrecht.de^$elemhide
 @@||schulzeux.de/js/show_ads.js
 @@||schweizer-abgeltungssteuer.ch^$elemhide
