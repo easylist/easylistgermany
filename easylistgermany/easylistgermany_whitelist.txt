@@ -457,6 +457,7 @@
 @@||combatarms-game.de/adframe.js
 @@||connected-home.de^$image
 @@||crackajack.de^*/advertising.js
+@@||cuiron.de^$image,domain=gamona.de
 @@||data-ero-advertising.com/impopup/layer.js$domain=berlin-nutten.com
 @@||david-forum.de/advertisement.css
 @@||ddl-search.biz/js/advertisement.js
@@ -509,7 +510,7 @@
 @@||g.doubleclick.net/pagead/adview?ai=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
-@@||gamona.de^$elemhide,image,script
+@@||gamona.de^$elemhide,script
 @@||gamona.de^*/up/*.png
 @@||gassi-tv.de^*/adframe.js
 @@||gerichtsboulevard.de^$elemhide
@@ -599,6 +600,7 @@
 @@||smartclip.nuggad.net/crossdomain.xml$object-subrequest,domain=clipfish.de
 @@||sozialrechtsnews.de^$elemhide
 @@||startup-connection.de^$elemhide
+@@||starwars.gamona.de^$image,domain=gamona.de
 @@||starwars.gamona.de^*_*/*.png
 @@||steuerschmiede-aktuell.de^$elemhide
 @@||streamit.ws^$elemhide
