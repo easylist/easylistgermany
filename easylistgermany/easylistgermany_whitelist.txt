@@ -438,6 +438,7 @@
 @@||amazonaws.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@||amgdgt.com/ads?$object-subrequest,domain=clipfish.de
 @@||apmebf.com/ad/js/*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
+@@||audio.de^$elemhide
 @@||audio.de^$image
 @@||aussenwirtschaftslupe.de^$elemhide
 @@||betreut-wohnen.de/adserver/ad.js
@@ -454,8 +455,12 @@
 @@||cdn.flashtalking.com^*.mp4$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||chat.lycos.de/adimages/$subdocument
 @@||cloudfront.net^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
+@@||colorfoto.de^$elemhide
 @@||colorfoto.de^$image
 @@||combatarms-game.de/adframe.js
+@@||connect.de^$elemhide
+@@||connect.de^$image
+@@||connected-home.de^$elemhide
 @@||connected-home.de^$image
 @@||crackajack.de^*/advertising.js
 @@||cuiron.de^$image,domain=gamona.de|lustich.de
@@ -538,6 +543,7 @@
 @@||lustich.de^$image
 @@||magistrix.de/ads/iframe.html?*#content$subdocument
 @@||magistrix.de^*/advertisement-$script
+@@||magnus.de/public/scripts/afc/$script,domain=audio.de|colorfoto.de|connect.de|connected-home.de|pc-magazin.de|video-magazin.de
 @@||mannfuermann.com/mfm/static/adcode.js
 @@||mediationslupe.de^$elemhide
 @@||medienrechtsnews.de^$elemhide
@@ -567,6 +573,7 @@
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=gamona.de|pcwelt.de
+@@||pc-magazin.de^$elemhide
 @@||pc-magazin.de^$image
 @@||peugeot-metropolis.de^$elemhide
 @@||picload.org/ads-1.js
@@ -629,6 +636,7 @@
 @@||uploaded-premium.ru^$elemhide
 @@||uploaded-premium.ru^$script
 @@||vereinslupe.de^$elemhide
+@@||video-magazin.de^$elemhide
 @@||video-magazin.de^$image
 @@||videoplaza.tv/proxy/distributor/v2?tt=p&rt=vast_2.0&s=validation&t=standard$object-subrequest,domain=gmx.net|web.de
 @@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
