@@ -498,6 +498,7 @@
 @@||fastshare.org/advertisement.js
 @@||feed-reader.net^$elemhide,image,script
 @@||fernsehen.to^$elemhide
+@@||feropt.de^$image,domain=gamona.de
 @@||files.adform.net/Banners/Stream/*.flv$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||finanzmarkttransaktionssteuer.de^$elemhide
 @@||flashtalking.com/imp/*;BMWTVTeaser220x180/?click=$script,domain=teleboerse.de
