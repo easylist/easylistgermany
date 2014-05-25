@@ -400,6 +400,7 @@
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
 @@.png#$domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rappers.in|rechtslupe.de|rechtslupe.net|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|teamspeak-ts.com|tobinsteuer.de|twixzo.de|ul-load.com|uploaded-premium.ru|vereinslupe.de|vorsorgebote.de|wintotal-forum.de|wirtschaft-recht-aktuell.de
 @@.png?$domain=mobilfunk-geschichte.de
+@@|http://*.de^*.jpg$third-party,domain=gamona.de
 @@|http://*uk.to^$script,domain=ul-load.com|uploaded-premium.ru
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
@@ -498,6 +499,7 @@
 @@||eclipso.*/plugins/js/adframe.js
 @@||einrichtungsbeispiele.de^*/click.js
 @@||energielupe.de^$elemhide
+@@||ethnarc.de^$image,domain=gamona.de
 @@||europalupe.eu^$elemhide
 @@||exoclick.com/ads-iframe-display.php?*&type=300x250&$subdocument,domain=board.world-of-hentai.to
 @@||fastshare.org/advertisement.js
