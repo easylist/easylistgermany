@@ -400,7 +400,6 @@
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
 @@.png#$domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rappers.in|rechtslupe.de|rechtslupe.net|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|teamspeak-ts.com|tobinsteuer.de|twixzo.de|ul-load.com|uploaded-premium.ru|vereinslupe.de|vorsorgebote.de|wintotal-forum.de|wirtschaft-recht-aktuell.de
 @@.png?$domain=mobilfunk-geschichte.de
-@@|http://*.de^$image,third-party
 @@|http://*.de^$image,third-party,domain=lustich.de
 @@|http://*/*.gif?*=*&*=$object-subrequest,third-party,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@|http://*uk.to^$script,domain=ul-load.com|uploaded-premium.ru
@@ -441,8 +440,6 @@
 @@||amazonaws.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@||amgdgt.com/ads?$object-subrequest,domain=clipfish.de
 @@||apmebf.com/ad/js/*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
-@@||audio.de^$elemhide
-@@||audio.de^$image
 @@||aussenwirtschaftslupe.de^$elemhide
 @@||betreut-wohnen.de/adserver/ad.js
 @@||blick.ch^*/advertisement.js
@@ -461,10 +458,6 @@
 @@||colorfoto.de^$elemhide
 @@||colorfoto.de^$image
 @@||combatarms-game.de/adframe.js
-@@||connect.de^$elemhide
-@@||connect.de^$image
-@@||connected-home.de^$elemhide
-@@||connected-home.de^$image
 @@||crackajack.de^*/advertising.js
 @@||cuiron.de^$image,domain=gamona.de|lustich.de
 @@||data-ero-advertising.com/impopup/layer.js$domain=berlin-nutten.com
@@ -579,8 +572,6 @@
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=gamona.de|pcwelt.de
-@@||pc-magazin.de^$elemhide
-@@||pc-magazin.de^$image
 @@||peugeot-metropolis.de^$elemhide
 @@||picload.org/ads-1.js
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
@@ -642,8 +633,6 @@
 @@||uploaded-premium.ru^$elemhide
 @@||uploaded-premium.ru^$script
 @@||vereinslupe.de^$elemhide
-@@||video-magazin.de^$elemhide
-@@||video-magazin.de^$image
 @@||videoplaza.tv/proxy/distributor/v2?tt=p&rt=vast_2.0&s=validation&t=standard$object-subrequest,domain=gmx.net|web.de
 @@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||vorsorgebote.de^$elemhide
