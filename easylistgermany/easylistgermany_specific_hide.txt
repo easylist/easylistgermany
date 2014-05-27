@@ -207,6 +207,7 @@ gwd-minden.de###box_banner
 suedkurier.de###box_meinsueden
 bloggospace.de###boxgoogle
 playmassive.de###brand
+gameswelt.at,gameswelt.ch,gameswelt.de###brandabstand
 20min.ch###branding-click
 bluray-disc.de###branding_header
 maniac.de###branding_spanner
@@ -726,6 +727,7 @@ okitalk.com###promo_left
 okitalk.com###promo_page
 okitalk.com###promo_right
 stuttgarter-zeitung.de###promoblock_1
+gameswelt.at,gameswelt.ch,gameswelt.de###pslink
 fussballtransfers.com###pub-200x197
 fussballtransfers.com###pub-300x250
 fussballtransfers.com###pub-468x60
@@ -925,7 +927,6 @@ chip.de###top-banner
 fnweb.de###top-bannerrow
 awardfabrik.de###top2
 1001spiele.de,junge-freiheit.de,jungefreiheit.de,php-resource.de###topBanner
-gameswelt.de###topOffer
 suchen.de###topPPC
 kreisanzeiger-online.de###top_ad_topb
 wavetv.de###top_advertisement
@@ -963,6 +964,7 @@ de.msn.com###v12_partner
 dwdl.de###viad_canvas
 androidpit.de###videoTakeOver
 androidpit.de###videoTakeOverBackground
+gameswelt.at,gameswelt.ch,gameswelt.de###videolink
 gehaltsvergleich.com###vn-super
 ddlporn.org###vote_9load
 linkvz.net,mac-guru.org,oxygen-scene.com###vote_popup
@@ -1529,7 +1531,6 @@ kochbar.de##.isAdVisible + .halfpage + * + * + * + * + * + * + * + * + * + .T_1e
 kochbar.de##.isAdVisible + .halfpage + * + * + * + * + * + * + .toprelated
 kochbar.de##.isAdVisible + .halfpage + * + .T_1er_hoch
 lachschon.de##.item3ds
-gameswelt.de##.itemShop
 schulterglatze.de##.item_adverts_dienst
 bild.de##.jetzt_aufnehmen
 kulturmanagement.net##.joboffer_banner_wrapper
@@ -2648,7 +2649,7 @@ suchen.de##div[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"
 rtl-now.rtl.de,voxnow.de##div[onclick^="window.open('/tools/count/xdot/count.php?id="]
 scifi-forum.de##div[onclick^="window.open('http://ads.jinkads.com/click.php"]
 myfreefarm.de##div[onclick^="window.open('http://media.gan-online.com/www/delivery/ck.php?"]
-gameswelt.de##div[onclick^="window.open('http://www.amazon.de/"]
+gameswelt.at,gameswelt.ch,gameswelt.de##div[onclick^="window.open('http://www.amazon.de/"]
 boerse.bz##div[onclick^="window.open('http://www.boerse.bz/go/?register=new&m=guest'"]
 5-sms.com##div[onclick^="window.open('http://www.maxxfone.de/"]
 suchen.de##div[onclick^="window.open('http://www.suchen.de/ad?"]
