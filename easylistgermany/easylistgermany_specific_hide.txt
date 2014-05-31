@@ -493,6 +493,7 @@ hornoxe.com###lside > center > a[target="_blank"] > img
 chili-warez.net,mov-world.net,xxx-4-free.net###lyr
 filmz.de###m > div[style="left:16px;width:468px;overflow:hidden"] + .p[style="left:4px;width:492px;height:262px"]:last-child
 crackajack.de###madcowdesease_premium
+mov-world.net###main > #lblock + div[style="float: right; margin: 10px; overflow: hidden; padding: 0px; width: 180px; display: inline;"]
 emergency-forum.de###main > .border > .container-1[style="text-align: center"]:first-child:last-child
 abendblatt.de###main > .column-1 > .widget > #lt_Wrap
 esbgforum.de###main > .pageOptions + .info + div[align="center"]
@@ -1555,6 +1556,7 @@ au-ja.de##.leftADV
 taketv.net##.leftbanner
 wetteronline.de##.leftflow + style + div[class] + div[class]
 bunte.de##.li_imageteaser_row_typ3
+mov-world.net##.link .archive.online[target="_blank"]
 handballecke.de##.linkEmpfehlungen
 kissfm.de##.links
 kicker.de##.linksebay
@@ -2499,6 +2501,7 @@ sachsen-fernsehen.de##a[target="_blank"][href^="http://www.sachsen-fernsehen.de/
 schwaebische.de##a[target="_blank"][href^="http://www.schwaebische.de/click.php?id="]
 lintorfer.eu##a[target="_blank"][href^="https://bankingportal.sparkasse-hrv.de"] > img
 boerse.bz##a[target="_blank"][href^="https://hide.io/?"][href*="&utm_medium=banner&"]
+mov-world.net##a[target="_blank"][href^="https://www.oboom.com/#"]
 schachbund.de##a[target="_blank"][href^="system/modules/banner/public/conban_clicks.php?bid="] > img
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 rtl.de##a[target="_self"][href="http://partnersuche.rtl.de/"]
