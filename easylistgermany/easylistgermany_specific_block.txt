@@ -2046,13 +2046,17 @@
 ! Anti-Adblock
 ||audio.de/test/img/
 ||audio.de/test1/img/
+||audio.de/test2/img/
 ||colorfoto.de/test/img/
 ||colorfoto.de/test1/img/
+||colorfoto.de/test2/img/
 ||connect.de/test/img/
 ||connect.de/test1/img/
 ||connect.de/test2/img/
+||connect.de/test3/img/
 ||connected-home.de/test/img/
 ||connected-home.de/test1/img/
+||connected-home.de/test2/img/
 ||gamona.de/assets/*.swf
 ||gamona.de/assets/*_1000x140.
 ||gamona.de/assets/*_160x800_
@@ -2068,6 +2072,8 @@
 ||mv-spion.de/ajax/lc|
 ||pc-magazin.de/test/img/
 ||pc-magazin.de/test1/img/
+||pc-magazin.de/test2/img/
 ||video-magazin.de/test/img/
 ||video-magazin.de/test1/img/
+||video-magazin.de/test2/img/
 ||video.spiegel.de/flash/*.mp4$object-subrequest,domain=spiegel.tv
