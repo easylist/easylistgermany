@@ -403,6 +403,7 @@
 @@|http://*.de^$image,third-party,domain=gamona.de|lustich.de
 @@|http://*.net^$image,third-party,domain=gamona.de
 @@|http://*/*.gif?*=*&*=$object-subrequest,third-party,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
+@@|http://*?*=*&*=*&*=$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@|http://*uk.to^$script,domain=ul-load.com|uploaded-premium.ru
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
