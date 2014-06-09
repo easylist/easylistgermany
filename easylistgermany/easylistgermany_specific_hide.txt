@@ -2207,7 +2207,7 @@ g-stream.in##a[href^="http://g-stream.in/mirror/"]
 movie-blog.org##a[href^="http://gg.gg/"]
 movie-blog.org##a[href^="http://goo.by/"]
 drop-games.org##a[href^="http://goo.gl"]
-1load.net,atomload.at,boerse.bz,cinebee.org,ebook-hell.to,goldesel.to,movie-blog.org,porn2you.org,saugzone.info,torrent.to,trendhure.com,warezking.in,zensiert.to##a[href^="http://goo.gl/"]
+1load.net,atomload.at,boerse.bz,cinebee.org,ebook-hell.to,goldesel.to,leave.to,movie-blog.org,porn2you.org,saugzone.info,torrent.to,trendhure.com,warezking.in,zensiert.to##a[href^="http://goo.gl/"]
 ingame.de##a[href^="http://green.ingame.de/www/delivery/inck.php?"]
 duckcrypt.info##a[href^="http://highspeed.duckcrypt.info"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
@@ -2533,6 +2533,8 @@ maxwireless.de##aside a[target="_blank"][onclick^="javascript:_gaq.push(['_track
 gamestar.de##blockquote > p > strong + a[href^="http://www.amazon.de/"]
 trackfox.com,trackfox2.com##body
 eye-games.com##body > #header:first-child + #wrapper
+leave.to##body > #wrapper > header + aside
+leave.to##body > #wrapper > header + aside + #content:last-child
 boerse.bz##body > #wrapper:first-child:last-child > header:first-child + aside
 boerse.bz##body > #wrapper:first-child:last-child > header:first-child + aside + #content
 spieletipps.de##body > .jqmOverlay
