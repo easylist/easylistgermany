@@ -437,6 +437,9 @@
 @@||ads.exoclick.com/ads.js$domain=board.world-of-hentai.to
 @@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
 @@||ads.yahoo.com/st?ad_type=iframe&ad_size=800x440^$subdocument,domain=uploaded-premium.ru
+@@||adscale.de/adscale-ih/impr?$script,domain=4players.de
+@@||adscale.de/adscale-ih/t.js$domain=4players.de
+@@||adscale.de/getads.js$domain=4players.de
 @@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=spiegel.tv
 @@||adserv.quality-channel.de/RealMedia/ads/adstream_sx.ads/www.spiegel.tv/*@VMiddle$object-subrequest,domain=spiegel.tv
 @@||adserv3.deutschland-spion.de/www/delivery/spc.php?$script,domain=mv-spion.de
