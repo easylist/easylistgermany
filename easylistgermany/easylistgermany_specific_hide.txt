@@ -992,6 +992,8 @@ stb-web.de###wpbg
 wikio.de###wpub
 manager-magazin.de###wrapBoard > #wrapMain:first-child > .pbox
 schwaebische.de###wrapper > #titelkopf
+leave.to###wrapper > header + .wrapping
+leave.to###wrapper > header + .wrapping + .wrapping:last-child
 micky-maus.de###wrapper-1 > #extra1[style="padding-left: 108px;"]
 scdhfk-handball.de###wrapper_SWL
 n-tv.de###wrapper_content > div[style="height: 120px;"]:first-child
@@ -2042,6 +2044,7 @@ bild.de##a[href="http://tickets.bild.de"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
 sexuria.com##a[href="http://wixtube.com/frame.htm"]
 12free-sms.de##a[href="http://www.12free-sms.de/free-sms.php"]
+leave.to##a[href="http://www.boerse.bz/boerse/software-angebote/free-vpn-signup/"]
 byte.to##a[href="http://www.byte.to/first/"]
 cinebee.org##a[href="http://www.cinebee.org/tipp/"]
 eliteanimes.com##a[href="http://www.eliteanimes.com/els/"]
