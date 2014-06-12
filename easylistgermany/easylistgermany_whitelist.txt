@@ -97,6 +97,7 @@
 @@||banner.t-online.de/addyn/*/ADTECH;loc=100;target=_blank;misc=$script,domain=sportdaten.t-online.de
 @@||banner.t-online.de/crossdomain.xml$object-subrequest,domain=mahjonggwelt.de
 @@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de
+@@||bauer-plus.de^*?advertiser=$subdocument,domain=abosgratis.de
 @@||belboon.de/adtracking/$subdocument,domain=gutscheindoktor.de|preis-vergleich.tv|preismafia.com
 @@||belboon.de/clickout.php?$subdocument,domain=preis-vergleich.tv
 @@||berliner-zeitung-online.de/specials/ads/scripts/standard_ads.css
@@ -357,6 +358,7 @@
 @@||tkqlhce.com/click-$subdocument,domain=eule.de
 @@||toggo.de/js/advertise.js
 @@||toggo.de/xml/admeta.xml?$object-subrequest
+@@||track.adform.net/C/?$subdocument,domain=abosgratis.de
 @@||tradedoubler.com/click?$subdocument,domain=eule.de|gutscheindoktor.de|preismafia.com
 @@||tradedoubler.com/file/$image,domain=sunsteps.org
 @@||tradedoubler.com/redirect/*^affID^$subdocument,domain=gutscheindoktor.de
