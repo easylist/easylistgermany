@@ -424,7 +424,11 @@
 @@||5.135.58.25^$script,domain=uploaded-premium.ru
 @@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=clipfish.de|homerj.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|spiegel.tv|sueddeutsche.de|superrtlnow.de|voxnow.de
 @@||ad-emea.doubleclick.net/pfadx/spiegel.tv.smartclip/;sz=*;dcmt=*;ord=$object-subrequest,domain=spiegel.tv
+@@||ad.360yield.com^*?p=*&w=160&h=600&tz=$script,domain=gamestar.de
+@@||ad.360yield.com^*?p=*&w=300&h=250&tz=$script,domain=gamestar.de
+@@||ad.360yield.com^*?p=*&w=728&h=90&tz=$script,domain=gamestar.de
 @@||ad.71i.de/global_js/*/adplayer.min.js$domain=gamestar.de
+@@||ad.71i.de/global_js/AdScripts/standard.js$domain=gamestar.de
 @@||ad.71i.de/global_js/globalV6.js$domain=kabeleins.de|sat1.de|sixx.de
 @@||ad.71i.de/global_js/Sites/$domain=kabeleins.de|prosieben.de|sat1.de|sixx.de
 @@||ad.71i.de/global_js/Sites/gamestarde.js$domain=gamestar.de
@@ -504,6 +508,8 @@
 @@||doubleclick.net/pfadx/iqd_sueddeutsche;sz=$object-subrequest
 @@||doubleclick.net/pfadx/iqdsde/video;sz=$object-subrequest
 @@||doubleclick.net^*/ad/homerj.de.smartclip/*;sz=*;dcmt=*;ord=$object-subrequest,domain=homerj.de
+@@||doubleclick.net^*/adj/*;sz=160x600;pos=1;$script,domain=gamestar.de
+@@||doubleclick.net^*/adj/*;sz=1x1;pos=1;$script,domain=gamestar.de
 @@||doubleclick.net^*/nntv.de/*^sz=120x600^$script,domain=n-tv.de
 @@||doubleclick.net^*/nntv.de/*^sz=468x61^$script,domain=n-tv.de
 @@||doubleclick.net^*/nntv.de/*^sz=600x500^$script,domain=n-tv.de
@@ -575,6 +581,7 @@
 @@||magistrix.de^*/advertisement-$script
 @@||magnus.de/public/scripts/afc/$script,domain=audio.de|colorfoto.de|connect.de|connected-home.de|pc-magazin.de|video-magazin.de
 @@||mannfuermann.com/mfm/static/adcode.js
+@@||manughl.de^$script,domain=lustich.de
 @@||mediationslupe.de^$elemhide
 @@||medienrechtsnews.de^$elemhide
 @@||mename.de^$script,domain=gamona.de|lustich.de
@@ -597,10 +604,10 @@
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|peugeot-metropolis.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|teamspeak-ts.com|vol.at|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=bullhost.de|gamestar.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|peugeot-metropolis.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|teamspeak-ts.com|vol.at|wintotal-forum.de
 @@||pagead2.googlesyndication.com/pagead/imgad?id=CICAgMCupPK9IhABGAEyCF_sqcjclwtP$object,domain=pcwelt.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=java-forum.org|mufa.de|peugeot-metropolis.de|teamspeak-ts.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|vol.at|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=bullhost.de|gamestar.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|vol.at|wintotal-forum.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=gamona.de|pcwelt.de
