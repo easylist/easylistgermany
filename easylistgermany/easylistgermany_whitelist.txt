@@ -549,7 +549,7 @@
 @@||g.doubleclick.net/activity;*/DE-AudiencePixel/Gamestar;dc_seg=$image,domain=gamestar.de
 @@||g.doubleclick.net/gampad/ads?*&callback=googletag.impl.pubads.setAdContentsBySlotForSync&$script,domain=gamona.de
 @@||g.doubleclick.net/gampad/ads?*&callback=window.parent.googletag.impl.pubads.setAdContentsBySlotForAsync&impl=fifs&*&iu_parts=7503%2CDE-pcwelt%2Cgiveaway&enc_prev_ius=$script,domain=pcwelt.de
-@@||g.doubleclick.net/pagead/adview?ai=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+@@||g.doubleclick.net/pagead/adview?ai=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de|www.rtl.de
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
 @@||gamesaktuell.de^$image
