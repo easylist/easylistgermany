@@ -406,7 +406,6 @@
 @@.png?$domain=mobilfunk-geschichte.de
 @@?ref=$object-subrequest,third-party,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@|http://*&ref=$object-subrequest,third-party,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
-@@|http://*.*.*.*/*-*?*&$object-subrequest,third-party,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@|http://*.com^$image,third-party,domain=gamona.de
 @@|http://*.com^*_$image,third-party,domain=gamona.de
 @@|http://*.de^$image,third-party,domain=gamona.de|lustich.de
