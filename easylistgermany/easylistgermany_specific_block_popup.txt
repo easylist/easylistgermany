@@ -16,8 +16,9 @@
 ||4dl.bz/load.php$popup
 ||5vor12.de/cgi-perl/adP?nr=$popup
 ||ad.netzquadrat.de^$popup,domain=sms.de
+||adclick.g.doubleclick.net^$popup,domain=4players.de
 ||adcloud.net^$popup,domain=lustich.de
-||adscale.de^$popup,domain=lustich.de
+||adscale.de^$popup,domain=4players.de|lustich.de
 ||adsfac.eu/link.asp?$popup,domain=iamgamer.de
 ||alturl.com^$popup,domain=byte.to
 ||amazon.de/?tag=bluray18-21$popup,domain=bluray-disc.de
@@ -87,7 +88,7 @@
 ||sptopf.de/tshp/RE?ID=$popup,domain=t-online.de
 ||stream-box.net/out.php$popup
 ||stream-seiten.org/out.php$popup
-||superclix.de^$popup,domain=0815sms.com
+||superclix.de^$popup,domain=0815sms.com|4players.de
 ||teen-blog.us/out_to_trade.php$popup
 ||teltarif.de/click/*:*.a=$popup
 ||thepornlist.net^$popup,domain=sexuria.com
