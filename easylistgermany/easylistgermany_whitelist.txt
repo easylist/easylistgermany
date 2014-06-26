@@ -512,6 +512,7 @@
 @@||doubleclick.net^*/adj/*;sz=160x600;pos=1;$script,domain=gamestar.de
 @@||doubleclick.net^*/adj/*;sz=1x1;pos=1;$script,domain=gamestar.de
 @@||doubleclick.net^*/adj/*;sz=300x250;pos=1;$script,domain=gamestar.de
+@@||doubleclick.net^*/adj/focus_*;sz=160x600;$script,domain=focus.de
 @@||doubleclick.net^*/adj/focus_*;sz=300x251;$script,domain=focus.de
 @@||doubleclick.net^*/nntv.de/*^sz=120x600^$script,domain=n-tv.de
 @@||doubleclick.net^*/nntv.de/*^sz=468x61^$script,domain=n-tv.de
