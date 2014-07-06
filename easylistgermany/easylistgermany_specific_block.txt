@@ -4,8 +4,6 @@
 |http://*.pw^$script,domain=byte.to
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
-|http://lustich.de/bilder/l/$image
-|http://lustich.de/img/*_*-$image
 ||0815sms.com/doku/$script
 ||0nk.de/banner/
 ||1000hp.net/banner/
@@ -225,7 +223,6 @@
 ||blogprojekt.de/Bilder/Profi/bloggerjobs.gif
 ||blogtotal.de^*/foxload_125x125.jpg
 ||bltrainer.de/banner/
-||bluray-disc.de/files/_werbung/
 ||boerse-express.com/images/kapsch_claim.png
 ||boerse.bz/clientscript/msgbox/jquery.msgbox.js
 ||boerse.bz/images/bitly.png
@@ -739,11 +736,8 @@
 ||gamingxp.com^*/wallpaper/
 ||gamona-images.de/471277/cf9b98701d9a4221b994fe5e7bd32c87.jpg
 ||gamona-images.de/471284/3f71999f1544d168cbce0128572e0b5a.jpg
-||gamona.de/$static/7be3f1698e5bb84d4420003455e6f179-1awir-rbcw/$script
-||gamona.de/assets/*-expandable.swf$object
 ||gamona.de/assets/*/fallback_
 ||gamona.de/assets/*_expandable.jpg
-||gamona.de/assets/*_expandable.swf$object
 ||gamona.de/assets/*_interstitial_
 ||gamona.de/assets/*_sitebranding-
 ||gamona.de/assets/*_sitebranding_
