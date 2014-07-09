@@ -590,7 +590,9 @@
 @@||magnus.de/public/scripts/afc/$script,domain=audio.de|colorfoto.de|connect.de|connected-home.de|pc-magazin.de|video-magazin.de
 @@||mannfuermann.com/mfm/static/adcode.js
 @@||manughl.de^$script,domain=gamona.de|lustich.de
+@@||media.epochtimes.de/ad_$image
 @@||media.epochtimes.de/ad_data/img/$image
+@@||media.epochtimes.de^*/ad_$image
 @@||media.epochtimes.de^*/ad_data/$image
 @@||mediationslupe.de^$elemhide
 @@||medienrechtsnews.de^$elemhide
@@ -603,6 +605,9 @@
 @@||myvideo.*/ad.js
 @@||n-roms.de/adframe.js
 @@||n-tv.de/ads/bmw/bmw_tv.js$domain=teleboerse.de
+@@||nativeads.de/loading.php?$script,domain=epochtimes.de
+@@||nativeads.de/publishing.php?aid=$script,domain=epochtimes.de
+@@||nativeads.de/selecting.php?$script,domain=epochtimes.de
 @@||news-reader.info^$image,script,domain=news.feed-reader.net
 @@||news.feed-reader.net/adimages/$subdocument
 @@||nuggad.net/bk?*&nuggtg=de_putpattv_music&$object-subrequest,domain=putpat.tv
