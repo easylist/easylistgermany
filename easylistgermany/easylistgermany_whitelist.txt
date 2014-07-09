@@ -592,9 +592,8 @@
 @@||mannfuermann.com/mfm/static/adcode.js
 @@||manughl.de^$script,domain=gamona.de|lustich.de
 @@||media.epochtimes.de/ad_$image
-@@||media.epochtimes.de/ad_data/img/$image
 @@||media.epochtimes.de^*/ad_$image
-@@||media.epochtimes.de^*/ad_data/$image
+@@||media.epochtimes.de^*/adbox/$image
 @@||mediationslupe.de^$elemhide
 @@||medienrechtsnews.de^$elemhide
 @@||mename.de^$script,domain=gamona.de|lustich.de
