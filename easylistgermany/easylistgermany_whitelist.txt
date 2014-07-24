@@ -549,7 +549,7 @@
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
 @@||gamesaktuell.de^$image
-@@||gamona.de^$elemhide,script
+@@||gamona.de^$script
 @@||gamona.de^*/up/*.png
 @@||gassi-tv.de^*/adframe.js
 @@||gearwom.de^$script,domain=gamona.de|lustich.de
@@ -562,6 +562,7 @@
 @@||grundrechteschutz.de^$elemhide
 @@||hartzbote.de^$elemhide
 @@||hubbahotel.cc^*/advertisement.js
+@@||idlity.de^$script,domain=gamona.de
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
 @@||innovid.com^*;cb=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ivwbox.de^*#$image,domain=lustich.de
