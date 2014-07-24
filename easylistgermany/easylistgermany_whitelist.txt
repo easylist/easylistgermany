@@ -562,7 +562,7 @@
 @@||grundrechteschutz.de^$elemhide
 @@||hartzbote.de^$elemhide
 @@||hubbahotel.cc^*/advertisement.js
-@@||idlity.de^$script,domain=gamona.de
+@@||idlity.de^$script,domain=gamona.de|lustich.de
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
 @@||innovid.com^*;cb=$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ivwbox.de^*#$image,domain=lustich.de
@@ -578,6 +578,7 @@
 @@||letiva.de^$script,domain=gamona.de|lustich.de
 @@||liferd.de^$script,domain=gamona.de|lustich.de
 @@||loads7.com^$elemhide
+@@||lustich.de^$elemhide
 @@||lustich.de^$image
 @@||magistrix.de/ads/iframe.html?*#content$subdocument
 @@||magistrix.de^*/advertisement-$script
