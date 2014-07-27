@@ -83,7 +83,7 @@
 ###werbekasten
 ###werbeleiste
 ###werbetrenner
-###werbung
+! ###werbung
 ###werbung-banner
 ###werbung-left
 ###werbung-map-top
@@ -188,7 +188,7 @@
 ##.werbepause
 ##.werblinks
 ##.werbrechts
-##.werbung
+! ##.werbung
 ##.werbung-1
 ##.werbung-2
 ##.werbung-250x250
