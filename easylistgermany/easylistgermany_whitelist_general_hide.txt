@@ -109,9 +109,6 @@ netbooknews.de#@#.post-ad
 tsv-thedinghausen.de#@#.postad
 blesius.de#@#.text_werbung
 christophhubrich.blogspot.co.uk,christophhubrich.blogspot.de,delamar.de,ews-markt.de,mediamarkt.de,paolo-film.de#@#.werbung
-epochtimes.de#@#.wnIframeAd
-epochtimes.de#@#.wnad
-epochtimes.de#@#.wp125ad
 ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
 zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
 berlin.de,watchever.de#@#a[href^="http://adfarm.mediaplex.com/"]
@@ -119,7 +116,6 @@ schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 hbf-info.de,rakuten.at,rakuten.de#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
 gamestar.de#@##AdTop
-epochtimes.de#@##Ads_BA_SKY
 gamestar.de#@##BF_BUZZBOX
 gamestar.de#@##WerbungObenRechts10_GesamtDIV
 gamestar.de#@##Werbung_Sky
@@ -155,6 +151,4 @@ gamestar.de#@#.headeradhome
 gamestar.de#@#.mxl_ad_inText_250
 tape.tv#@#.text_ads
 gamestar.de#@#.topAdvBox
-epochtimes.de#@#.wingadblock
-epochtimes.de#@#.wnMultiAd
 mov-world.net#@#a[href^="http://www.FriendlyDuck.com/AF_"]
