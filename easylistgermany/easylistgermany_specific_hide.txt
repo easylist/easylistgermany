@@ -400,6 +400,7 @@ maerkischeallgemeine.de###head
 ruhrbarone.de###headContainer
 scdhfk-handball.de###headRightCommercials
 wunschliste.de###head_banner
+fxempire.de###head_banners
 gamestar.de###header + style + div + div[id]
 gamestar.de###header + style + div[id]
 gamersplus.de###header > a:first-child:last-child
@@ -1963,8 +1964,13 @@ rp-online.de##.wideheader
 ihk-berlin.de##.widesky
 orschlurch.net##.widget_57179
 orschlurch.net##.widget_amazon
+fxempire.de##.widget_banner
+fxempire.de##.widget_brokers
 orschlurch.net##.widget_facebook + div
+fxempire.de##.widget_latest_promotions_right
+fxempire.de##.widget_recommended_brokers
 mobiflip.de##.widget_sponsor
+fxempire.de##.widget_top_brokers
 ftd.de##.wimeContentAd
 zitate-online.de##.witz > .bewertung + .detaillink + p:last-child
 zitate-online.de##.witz > .bewertung + p:last-child
