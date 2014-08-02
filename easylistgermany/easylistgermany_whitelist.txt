@@ -705,7 +705,7 @@
 @@||videoplaza.tv/proxy/distributor/v2?tt=p&rt=vast_2.0&s=validation&t=standard$object-subrequest,domain=gmx.net|web.de
 @@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||vorsorgebote.de^$elemhide
-@@||web.de^*.hmtl$elemhide
+@@||web.de^*.html$elemhide
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
 @@||wintotal-forum.de^$elemhide
 @@||wirtschaft-recht-aktuell.de^$elemhide
