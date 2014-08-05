@@ -402,11 +402,9 @@
 @@.com^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.gif#$domain=java-forum.org|loads7.com|schweizer-abgeltungssteuer.ch|startup-connection.de
 @@.jpg#$domain=brasilienfreunde.net|green-24.de|juristische-suche.de|peugeot-metropolis.de|proverbia-iuris.de|rene-neuweiler.ch|streamit.ws|umweltlupe.de
-@@.jpg$domain=epochtimes.de
 @@.net^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
 @@.png#$domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|live-stream.tv|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rappers.in|rechtslupe.de|rechtslupe.net|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|teamspeak-ts.com|tobinsteuer.de|twixzo.de|ul-load.com|uploaded-premium.ru|vereinslupe.de|vorsorgebote.de|wintotal-forum.de|wirtschaft-recht-aktuell.de
-@@.png$domain=epochtimes.de
 @@.png?$domain=mobilfunk-geschichte.de
 @@/^https?\:\/\/(?!(ad\.de\.doubleclick\.net)\/)/$object-subrequest,third-party,domain=golem.de
 @@/^https?\:\/\/(?!(ad\.doubleclick\.net|www\.google-analytics\.com)\/)/$object-subrequest,third-party,domain=pcgames.de
@@ -493,7 +491,7 @@
 @@||cloudfront.net^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@||combatarms-game.de/adframe.js
 @@||crackajack.de^*/advertising.js
-@@||cuiron.de^$image,domain=gamona.de|lustich.de
+@@||cuiron.de^$image,domain=epochtimes.de|gamona.de|lustich.de
 @@||cuiron.de^$script,domain=gamona.de|lustich.de
 @@||data-ero-advertising.com/impopup/layer.js$domain=berlin-nutten.com
 @@||david-forum.de/advertisement.css
