@@ -2071,7 +2071,6 @@
 /o*/img/*$image,domain=audio.de|colorfoto.de|connect.de|connected-home.de|pc-magazin.de|video-magazin.de
 /t*/img/*$image,domain=audio.de|colorfoto.de|connect.de|connected-home.de|pc-magazin.de|video-magazin.de
 ||2mdn.net/videoplayback/$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-||epochtimes.de/js/addefend.js
 ||epochtimes.de/js/chkba.js
 ||gamona.de/assets/*.swf
 ||gamona.de/assets/*_1000x140.
