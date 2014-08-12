@@ -407,6 +407,12 @@
 @@.png#$domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|live-stream.tv|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rappers.in|rechtslupe.de|rechtslupe.net|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|teamspeak-ts.com|tobinsteuer.de|twixzo.de|ul-load.com|uploaded-premium.ru|vereinslupe.de|vorsorgebote.de|wintotal-forum.de|wirtschaft-recht-aktuell.de
 @@.png?$domain=mobilfunk-geschichte.de
 @@/^https?\:\/\/(?!(ad\.de\.doubleclick\.net)\/)/$object-subrequest,third-party,domain=golem.de
+@@/^https?\:\/\/(?!(ad\.de\.doubleclick\.net|ad\.yieldlab\.net|c\.t4ft\.de|cdn\.krxd\.net|audio\.de\.intellitxt\.com|audio\.digidip\.net|gwp\.nuggad\.net|juggler\.services\.disqus\.com|pagead2\.googlesyndication\.com|partner\.googleadservices\.com|de\.ioam\.de|pix04\.revsci\.net|platform\.twitter\.com|qs\.ioam\.de|referrer\.disqus\.com|static\.chartbeat\.com|wms\.assoc-amazon\.com|www\.google-analytics\.com|www\.xing-share\.com|audiode\.ivwbox\.de|weka\.met\.vgwort\.de|cdn\.syndication\.twimg\.com)\/)/$image,script,third-party,domain=audio.de
+@@/^https?\:\/\/(?!(ad\.de\.doubleclick\.net|ad\.yieldlab\.net|c\.t4ft\.de|cdn\.krxd\.net|colorfoto\.de\.intellitxt\.com|colorfoto\.digidip\.net|gwp\.nuggad\.net|juggler\.services\.disqus\.com|pagead2\.googlesyndication\.com|partner\.googleadservices\.com|de\.ioam\.de|pix04\.revsci\.net|platform\.twitter\.com|qs\.ioam\.de|referrer\.disqus\.com|static\.chartbeat\.com|wms\.assoc-amazon\.com|www\.google-analytics\.com|www\.xing-share\.com|colorfot\.ivwbox\.de|weka\.met\.vgwort\.de|cdn\.syndication\.twimg\.com)\/)/$image,script,third-party,domain=colorfoto.de
+@@/^https?\:\/\/(?!(ad\.de\.doubleclick\.net|ad\.yieldlab\.net|c\.t4ft\.de|cdn\.krxd\.net|connect\.de\.intellitxt\.com|connect\.digidip\.net|gwp\.nuggad\.net|juggler\.services\.disqus\.com|pagead2\.googlesyndication\.com|partner\.googleadservices\.com|de\.ioam\.de|pix04\.revsci\.net|platform\.twitter\.com|qs\.ioam\.de|referrer\.disqus\.com|static\.chartbeat\.com|wms\.assoc-amazon\.com|www\.google-analytics\.com|www\.xing-share\.com|connect\.ivwbox\.de|weka\.met\.vgwort\.de|cdn\.syndication\.twimg\.com)\/)/$image,script,third-party,domain=connect.de
+@@/^https?\:\/\/(?!(ad\.de\.doubleclick\.net|ad\.yieldlab\.net|c\.t4ft\.de|cdn\.krxd\.net|connected-home\.de\.intellitxt\.com|connectedhome\.digidip\.net|gwp\.nuggad\.net|juggler\.services\.disqus\.com|pagead2\.googlesyndication\.com|partner\.googleadservices\.com|de\.ioam\.de|pix04\.revsci\.net|platform\.twitter\.com|qs\.ioam\.de|referrer\.disqus\.com|static\.chartbeat\.com|wms\.assoc-amazon\.com|www\.google-analytics\.com|www\.xing-share\.com|connecth\.ivwbox\.de||weka\.met\.vgwort\.de|cdn\.syndication\.twimg\.com)\/)/$image,script,third-party,domain=connected-home.de
+@@/^https?\:\/\/(?!(ad\.de\.doubleclick\.net|ad\.yieldlab\.net|c\.t4ft\.de|cdn\.krxd\.net|pc-magazin\.de\.intellitxt\.com|pcmagazin\.digidip\.net|gwp\.nuggad\.net|juggler\.services\.disqus\.com|pagead2\.googlesyndication\.com|partner\.googleadservices\.com|de\.ioam\.de|pix04\.revsci\.net|platform\.twitter\.com|qs\.ioam\.de|referrer\.disqus\.com|static\.chartbeat\.com|wms\.assoc-amazon\.com|www\.google-analytics\.com|www\.xing-share\.com|pcmagzin\.ivwbox\.de|weka\.met\.vgwort\.de|cdn\.syndication\.twimg\.com)\/)/$image,script,third-party,domain=pc-magazin.de
+@@/^https?\:\/\/(?!(ad\.de\.doubleclick\.net|ad\.yieldlab\.net|c\.t4ft\.de|cdn\.krxd\.net|video-magazin\.de\.intellitxt\.com|video\.digidip\.net|gwp\.nuggad\.net|juggler\.services\.disqus\.com|pagead2\.googlesyndication\.com|partner\.googleadservices\.com|de\.ioam\.de|pix04\.revsci\.net|platform\.twitter\.com|qs\.ioam\.de|referrer\.disqus\.com|static\.chartbeat\.com|wms\.assoc-amazon\.com|www\.google-analytics\.com|www\.xing-share\.com|videomag\.ivwbox\.de|weka\.met\.vgwort\.de|cdn\.syndication\.twimg\.com)\/)/$image,script,third-party,domain=video-magazin.de
 @@/^https?\:\/\/(?!(ad\.doubleclick\.net|www\.google-analytics\.com)\/)/$object-subrequest,third-party,domain=pcgames.de
 @@/^https?\:\/\/(?!(cdn\.krxd\.net|ad\.yieldlab\.net|ad\.de\.doubleclick\.net|de\.ioam\.de|dis\.eu\.criteo\.com|ip\.nuggad\.net|pagead2\.googlesyndication\.com|pq-direct\.revsci\.net|qs\.ioam\.de|static\.plista\.com|tracking\.netzathleten-media\.de|www\.google-analytics\.com|www\.googleadservices\.com|apis\.google\.com|connect\.facebook\.net|script\.ioam\.de)\/)/$image,script,third-party,domain=lustich.de
 @@/^https?\:\/\/(?!(de-uim\.videoplaza\.tv|adclient\.uimserv\.net)\/)/$object-subrequest,third-party,domain=gmx.net|web.de
@@ -473,6 +479,7 @@
 @@||amgdgt.com/ads?$object-subrequest,domain=clipfish.de
 @@||apmebf.com/ad/js/*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
 @@||atonato.de^$script,domain=lustich.de
+@@||audio.de^$elemhide
 @@||aussenwirtschaftslupe.de^$elemhide
 @@||betreut-wohnen.de/adserver/ad.js
 @@||blick.ch^*/advertisement.js
@@ -490,7 +497,10 @@
 @@||cdn.flashtalking.com^*.mp4$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||chat.lycos.de/adimages/$subdocument
 @@||cloudfront.net^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
+@@||colorfoto.de^$elemhide
 @@||combatarms-game.de/adframe.js
+@@||connect.de^$elemhide
+@@||connected-home.de^$elemhide
 @@||crackajack.de^*/advertising.js
 @@||cuiron.de^$image,domain=epochtimes.de|gamona.de|lustich.de
 @@||cuiron.de^$script,domain=gamona.de|lustich.de
@@ -634,6 +644,7 @@
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=gamona.de|pcwelt.de
+@@||pc-magazin.de^$elemhide
 @@||pcaction.de^$image
 @@||pcgames.de^$elemhide
 @@||pcgameshardware.de^$image
@@ -702,6 +713,7 @@
 @@||uploaded-premium.ru^$elemhide
 @@||uploaded-premium.ru^$script
 @@||vereinslupe.de^$elemhide
+@@||video-magazin.de^$elemhide
 @@||video.spiegel.de/flash/*_iphone.mp4$domain=spiegel.tv
 @@||videogameszone.de^$image
 @@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=clipfish.de|gmx.net|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de|web.de
