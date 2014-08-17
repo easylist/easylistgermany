@@ -1074,7 +1074,6 @@ tutorials.de##.above_body > #header + #navbar + table:last-child
 rc-network.de##.above_body:first-child + table[cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 die-schnelle-kuh.de##.abp
 abendblatt.de,alle-immobilien.ch,azonline.de,bazonline.ch,bernerzeitung.ch,billig-flieger-vergleich.de,bos-fahrzeuge.info,crn.de,derbund.ch,derlacher.de,fail.to,fettspielen.de,funnypizza.de,glamour.de,gmx.net,hamburg.de,hardwareclips.com,inside-handy.de,ircgalerie.net,kalenderwoche.net,kino24.to,kronehit.at,macwelt.de,netzpolitik.org,newscomm.de,phonostar.de,playporn.to,podcast.de,prisma.de,radiokoeln.de,raidrush.org,rhein-neckar-loewen.de,sachsen-fernsehen.de,shopbetreiber-blog.de,sueddeutsche.de,suite101.de,tagesanzeiger.ch,wallstreet-online.de,web.de,welt.de,wn.de,zeit.de##.ad
-pcwelt.de##.ad + * + .teaser.information:last-child
 med1.de,stayfriends.de##.adContainer
 wz-newsline.de##.adDisclaimerLight
 games.ch,webfail.at##.adMR
@@ -1241,7 +1240,6 @@ heise.de##.bcadv
 bildderfrau.de##.bdf_megabannerBack
 saarbruecker-zeitung.de##.beilagen
 movie-blog.org##.beitrag > div > div > a[href^="http://movie-blog.org/"]
-pcwelt.de##.best-products
 ariva.de##.bgAnzeige
 oilimperium.de##.bg_img
 yelp.de##.biz-details-yla
@@ -1310,8 +1308,6 @@ pooltrax.com##.cmc2
 cosmiq.de##.cmsbox_iq_qa_show_content_below_question
 finanzen.net##.coW[style="background-color: #009DE0;"]
 finanzen.ch##.coba_homepage_topflop
-pcwelt.de##.col-right > .teaser.ecommerce
-pcwelt.de##.col-right > .teaser.imageteaser.ajax
 stayfriends.de##.col1 > div[style="width: 616px; height:185px; border:2px solid #03408c; position:relative"]
 3druck.com##.col2 > #text-4
 3druck.com##.col2 > #text-5
@@ -1397,7 +1393,6 @@ camidos.de##.ebay_hits
 amerika-forum.de,aquariumforum.de,campen.de,deejayforum.de,linux-forum.de,pferd.de,rechnungswesenforum.de,reitforum.de,sat-ulc.eu##.ebayitems
 amerika-forum.de,aquariumforum.de,pferd.de,rechnungswesenforum.de##.ebayitems3
 sinn-frei.com##.ebp
-pcwelt.de##.ecommerce + .ecommerce
 abacho.de##.econa_editorial_tips
 abacho.de##.econa_editorial_tips_header
 movie-blog.org##.eintrag2 a[target="_blank"] > b
@@ -1519,9 +1514,6 @@ movie-blog.org##.hreview-aggregate > a[target="blank"]
 movie-blog.org##.hreview-aggregate > div[class] > div > a[href^="http://movie-blog.org/"]
 heinertown.de##.htown_anzeige
 wa.de##.idMediaParagraph > .idMediaRight > .idTextBox
-pcwelt.de##.idgAmazonTeaserV2
-pcwelt.de##.idg_amazon_teaser
-pcwelt.de##.idg_amazon_text
 delamar.de##.iframe300
 immobilienscout24.de##.ikea-link
 finanzen.ch##.image_logo_ubs4
@@ -1662,7 +1654,6 @@ mikrocontroller.net##.noprint > div[style] > div[id]:last-child > div[style]
 versicherungsjournal.at,versicherungsjournal.de##.norm-lsp-wbox
 versicherungsjournal.at,versicherungsjournal.de##.norm-rsp-wbox1
 team.gamed.de##.normal_text[width="100%"][valign="top"][height="100"][align="left"][border="0"]
-pcwelt.de##.nortonheader
 lpgforum.de,pkw-forum.de##.notices + br + #vbseo_vhtml_1
 gmx.net##.notification-alert[data-notification-browser]
 hamburg.de##.nscout[target="_blank"][href^="http://de.sitestat.com/"]
@@ -1852,7 +1843,7 @@ ehv-aue.org##.spons_div
 svwehen-wiesbaden.de##.sponsorLeiste
 bz-berlin.de##.sponsorTop
 ehrensenf.com##.sponsorcenter
-cnet.de,macwelt.de,pcwelt.de,renego.de##.sponsored
+cnet.de,macwelt.de,renego.de##.sponsored
 euractiv.de,seo-united.de##.sponsoren
 vfl.de##.sponsoren_right
 yigg.de,zeit.de##.sponsoring
@@ -1872,7 +1863,6 @@ serienjunkies.org##.streams + #content > .post:first-child > .post-title:first-c
 fernsehserien.de##.stroeer-container
 fuw.ch##.suche_sponsor
 sdx.cc##.suggestionList > a[href^="http://www.sdx.cc/file="]
-pcwelt.de##.super-products
 frankenpost.de,freies-wort.de,gentleman-blog.de,itopnews.de,neon.de,np-coburg.de,radiopsr.de,schlagerhoelle.de,stz-online.de,volksfreund.de##.superbanner
 gamestar.de##.sushibar
 kochbar.de##.tTraffic
@@ -1896,7 +1886,6 @@ gamiano.de##.teaser_box.masonry-brick[style="height: 300px; position: absolute; 
 heise.de##.teaser_ebook
 heise.de##.teaser_geizhals
 derwesten.de##.teaser_head_img
-pcwelt.de##.teaser_pcw_specials_element_white
 heise.de##.teaser_preisvergleich
 kochbar.de##.teaser_rezepte
 teltarif.de##.tetable:first-child + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
@@ -1912,7 +1901,6 @@ sunshine-live.de##.top
 kleiderkreisel.de##.top-banner
 ichspiele.cc##.top-box
 az.com.na##.top-menu
-pcwelt.de##.top-sales
 netzkino.de##.topA
 deraktionaer.de##.topBanner
 ebay.de##.topBnrSc
@@ -2997,7 +2985,6 @@ cinebee.org##img[width="660"]
 forum.biosflash.com,gedankenausbruch.de,online-gebuehrenrechner.de,picdumps.com,suedtirolnews.it,tvspielfilm.de,tvtoday.de##img[width="728"][height="90"]
 rp-online.de##img[width="786"][height="100"]
 t-online.de##img[width="797"][usemap^="#immap"]
-pcwelt.de##img[width="811"][height="120"]
 t-online.de##img[width="920"][usemap^="#imgmap"]
 t-online.de##img[width="920"][usemap^="#immap"]
 atomload.at##input[onclick^="http://www.FriendlyDuck.com/AF_"]
@@ -3224,4 +3211,3 @@ r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 gamestar.de##a[style="display:block;width:160px;height:600px;padding:0;margin:0;text-decoration:none;"]
 shoplenaro.com##body > #hoch > form[method="post"][action="http://shoplenaro.com/go"]
 shoplenaro.com##body > #quer > form[target="_blank"][method="post"][action="http://shoplenaro.com/go"]
-pcwelt.de##div[id^="google_ads_"]
