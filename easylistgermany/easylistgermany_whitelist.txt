@@ -260,8 +260,7 @@
 @@||n-tv.de/stat/videoplayer/ntv_player.swf?*/admeta.$object
 @@||n24.de^*/my_ad_integration.js
 @@||nadann.de/small_ads/$~third-party
-@@||netzathleten-media.de^*/naMediaAd.js$domain=kino-vorschau.com
-@@||netzathleten-media.de^*/namediaad.js$domain=lustich.de
+@@||netzathleten-media.de^*/naMediaAd.js$domain=kino-vorschau.com|lustich.de
 @@||nonstoppartner.net/a/?$subdocument,domain=gutscheindoktor.de
 @@||nonstoppartner.net^$image,domain=sunsteps.org
 @@||nordclick.de/js/colors/adsense_colors.js
@@ -480,6 +479,7 @@
 @@||amazonaws.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@||amgdgt.com/ads?$object-subrequest,domain=clipfish.de
 @@||apmebf.com/ad/js/*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
+@@||atonato.de^$document,subdocument,domain=lustich.de
 @@||atonato.de^$script,domain=lustich.de
 @@||audio.de^$elemhide
 @@||aussenwirtschaftslupe.de^$elemhide
@@ -550,6 +550,7 @@
 @@||einrichtungsbeispiele.de^*/click.js
 @@||energielupe.de^$elemhide
 @@||epochtimes.de^$elemhide
+@@||ethnarc.de^$document,subdocument,domain=lustich.de
 @@||ethnarc.de^$image,domain=gamona.de
 @@||ethnarc.de^$script,domain=gamona.de|lustich.de
 @@||europalupe.eu^$elemhide
@@ -557,15 +558,18 @@
 @@||fastshare.org/advertisement.js
 @@||feed-reader.net^$elemhide,image,script
 @@||fernsehen.to/advertisement.js
+@@||feropt.de^$document,subdocument,domain=lustich.de
 @@||feropt.de^$image,script,domain=gamona.de|lustich.de
 @@||files.adform.net/Banners/Stream/*.flv$object-subrequest,domain=clipfish.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||finanzmarkttransaktionssteuer.de^$elemhide
 @@||flashtalking.com/imp/*;BMWTVTeaser220x180/?click=$script,domain=teleboerse.de
 @@||forum-fuer-senioren.de^*/ad.js
 @@||free-klingeltoene-handy.de/adframe.js
+@@||fribre.de^$document,subdocument,domain=lustich.de
 @@||fribre.de^$image,domain=audio.de|colorfoto.de|connected-home.de|lustich.de|pc-magazin.de|video-magazin.de
 @@||fribre.de^$image,script,domain=gamona.de
 @@||fribre.de^$script,domain=lustich.de
+@@||fruited.de^$document,subdocument,domain=lustich.de
 @@||fruited.de^$script,domain=gamona.de|lustich.de
 @@||g.doubleclick.net/activity;*/DE-AudiencePixel/Gamestar;dc_seg=$image,domain=gamestar.de
 @@||g.doubleclick.net/gampad/ads?*&callback=googletag.impl.pubads.setAdContentsBySlotForSync&$script,domain=gamona.de
@@ -578,6 +582,7 @@
 @@||gamona.de^$script
 @@||gamona.de^*/up/*.png
 @@||gassi-tv.de^*/adframe.js
+@@||gearwom.de^$document,subdocument,domain=lustich.de
 @@||gearwom.de^$script,domain=gamona.de|lustich.de
 @@||gerichtsboulevard.de^$elemhide
 @@||gesehen.es^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
@@ -589,8 +594,10 @@
 @@||grundrechteschutz.de^$elemhide
 @@||hartzbote.de^$elemhide
 @@||hubbahotel.cc^*/advertisement.js
+@@||idlity.de^$document,subdocument,domain=lustich.de
 @@||idlity.de^$script,domain=gamona.de|lustich.de
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
+@@||inciteb.de^$document,subdocument,domain=lustich.de
 @@||inciteb.de^$script,domain=gamona.de|lustich.de
 @@||indalam.de^$document,subdocument,domain=epochtimes.de|lustich.de
 @@||indalam.de^$script,domain=gamona.de|lustich.de
@@ -598,6 +605,7 @@
 @@||ivwbox.de^*#$image,domain=lustich.de
 @@||jagdlupe.de^$elemhide
 @@||java-forum.org^$elemhide
+@@||jubbie.de^$document,subdocument,domain=lustich.de
 @@||jubbie.de^$script,domain=gamona.de|lustich.de
 @@||juristische-suche.de^$elemhide
 @@||kaufn.com/banner/ads/adserver/click/ad.js
@@ -605,7 +613,9 @@
 @@||lablue.at^$elemhide,script
 @@||lablue.ch^$elemhide,script
 @@||lablue.de^$elemhide,script
+@@||letiva.de^$document,subdocument,domain=lustich.de
 @@||letiva.de^$script,domain=gamona.de|lustich.de
+@@||liferd.de^$document,subdocument,domain=lustich.de
 @@||liferd.de^$script,domain=gamona.de|lustich.de
 @@||live-stream.tv^$elemhide
 @@||loads7.com^$elemhide
@@ -615,9 +625,11 @@
 @@||magistrix.de^*/advertisement-$script
 @@||magnus.de/public/scripts/afc/$script,domain=audio.de|colorfoto.de|connect.de|connected-home.de|pc-magazin.de|video-magazin.de
 @@||mannfuermann.com/mfm/static/adcode.js
+@@||manughl.de^$document,subdocument,domain=lustich.de
 @@||manughl.de^$script,domain=gamona.de|lustich.de
 @@||mediationslupe.de^$elemhide
 @@||medienrechtsnews.de^$elemhide
+@@||mename.de^$document,subdocument,domain=lustich.de
 @@||mename.de^$script,domain=gamona.de|lustich.de
 @@||mirror-archiv.com/banner/ads/adserver/click/ad.js
 @@||mobilfunk-geschichte.de^$elemhide
