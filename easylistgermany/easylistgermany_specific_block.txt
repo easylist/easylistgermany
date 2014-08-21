@@ -2050,6 +2050,12 @@
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Anti-Adblock
+/\bwww\.audio\.de\/+\b(?!img\/|abo\/)/$image,domain=audio.de
+/\bwww\.colorfoto\.de\/+\b(?!img\/|abo\/)/$image,domain=colorfoto.de
+/\bwww\.connect\.de\/+\b(?!img\/|abo\/)/$image,domain=connect.de
+/\bwww\.connected-home\.de\/+\b(?!img\/|abo\/)/$image,domain=connected-home.de
+/\bwww\.pc-magazin\.de\/+\b(?!img\/|abo\/)/$image,domain=pc-magazin.de
+/\bwww\.video-magazin\.de\/+\b(?!img\/|abo\/)/$image,domain=video-magazin.de
 ||2mdn.net/videoplayback/$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 ||epochtimes.de/js/chkba.js
 ||gamona.de/assets/*.swf
