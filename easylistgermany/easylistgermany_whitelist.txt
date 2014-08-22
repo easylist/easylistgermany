@@ -702,6 +702,7 @@
 @@||sudoku-space.de^$script
 @@||t-online.de/tv$elemhide
 @@||tape.tv/js/adblockdetection.js
+@@||tape.tv^$elemhide
 @@||teamspeak-ts.com^$elemhide
 @@||telemetryverification.net/?*;cb=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||telemetryverification.net/?cb=$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
