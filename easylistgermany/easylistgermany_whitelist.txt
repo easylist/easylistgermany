@@ -345,6 +345,7 @@
 @@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=deals.ebay.de|dealseu.ebay.de|pages.ebay.de
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
+@@||static-fra.de/ip/js/adcontrol/adcontrol.min.js$domain=n-tv.de
 @@||static-fra.de^*/admeta.xml?$object-subrequest
 @@||static.freenet.de/adserver/introductio.js$domain=vid.buffed.de|videos.gamesaktuell.de|videos.pcgames.de|videos.videogameszone.de
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
