@@ -85,11 +85,11 @@
 ###werbekasten
 ###werbeleiste
 ###werbetrenner
-! ###werbung
+###werbung
 ###werbung-banner
 ###werbung-left
 ###werbung-map-top
-! ###werbung-skyscraper
+###werbung-skyscraper
 ###werbung125_links
 ###werbung125_rechts
 ###werbung2
@@ -125,12 +125,12 @@
 ##.WerbungDetailRectangle
 ##.WerbungLinksRechts
 ##.WerbungMitte
-! ##.ad_mitte
-! ##.adrechts
+##.ad_mitte
+##.adrechts
 ##.ads-artikel-contentAd-medium
 ##.ads-artikel-contentAd-top
 ##.ads_bueroklammer
-! ##.ads_rechts
+##.ads_rechts
 ##.adsense-ArtikelOben
 ##.adzeiger
 ##.anzeigenwerbung
@@ -188,25 +188,25 @@
 ##.werbehinweis
 ##.werbekennzeichnerrectangle
 ##.werbepause
-! ##.werblinks
-! ##.werbrechts
-! ##.werbung
-! ##.werbung-1
-! ##.werbung-2
+##.werblinks
+##.werbrechts
+##.werbung
+##.werbung-1
+##.werbung-2
 ##.werbung-250x250
-! ##.werbung-3
+##.werbung-3
 ##.werbung-bigbox
 ##.werbung-bigsize
 ##.werbung-box
 ##.werbung-content
 ##.werbung-contentad
-! ##.werbung-fullbanner
-! ##.werbung-halfbanner
-! ##.werbung-inline
-! ##.werbung-label
-! ##.werbung-leiste
-! ##.werbung-rectangle
-! ##.werbung-skyscraper
+##.werbung-fullbanner
+##.werbung-halfbanner
+##.werbung-inline
+##.werbung-label
+##.werbung-leiste
+##.werbung-rectangle
+##.werbung-skyscraper
 ##.werbung-skyscraper2
 ##.werbung-unten
 ##.werbung1
