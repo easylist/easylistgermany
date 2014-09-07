@@ -589,7 +589,6 @@
 @@||gesehen.es^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@||gmads.net/crossdomain.xml$object-subrequest,domain=clipfish.de|kabeleins.de|n-tvnow.de|prosieben.at|prosieben.ch|prosieben.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|sat1.de|sixx.de|superrtlnow.de|voxnow.de
 @@||gmads.net/r?$object-subrequest,domain=clipfish.de|kabeleins.de|n-tvnow.de|prosieben.at|prosieben.ch|prosieben.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|sat1.de|sixx.de|superrtlnow.de|voxnow.de
-@@||golem.de^*.html$elemhide
 @@||goolive.de^*.js|
 @@||green-24.de^$elemhide
 @@||grundrechteschutz.de^$elemhide
@@ -732,8 +731,6 @@
 @@||videogameszone.de^$image
 @@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=clipfish.de|gmx.net|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de|web.de|www.rtl.de|www.vox.de
 @@||vorsorgebote.de^$elemhide
-@@||web.de^*.html$elemhide
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
 @@||wintotal-forum.de^$elemhide
 @@||wirtschaft-recht-aktuell.de^$elemhide
-@@||www.gmx.net^$elemhide
