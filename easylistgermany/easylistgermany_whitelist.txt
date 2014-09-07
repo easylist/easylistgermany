@@ -503,6 +503,7 @@
 @@||combatarms-game.de/adframe.js
 @@||connect.de^$elemhide
 @@||connected-home.de^$elemhide
+@@||coordur.de^$document,subdocument
 @@||crackajack.de^*/advertising.js
 @@||cuiron.de^$document,subdocument,domain=audio.de|colorfoto.de|connect.de|connected-home.de|epochtimes.de|gamona.de|lustich.de|pc-magazin.de|video-magazin.de
 @@||cuiron.de^$image,domain=epochtimes.de|gamona.de|lustich.de
