@@ -425,6 +425,7 @@
 ||ruhrgebiet.ws/test/$third-party
 ||s1.ja-pics.net^$subdocument,third-party
 ||saarland-deals.de/*-widget/$subdocument,third-party
+||safeterms.de/images/public/banner/$third-party
 ||sandra-messer.info/wp-content/uploads/*/video-newsletter.gif$third-party
 ||sat1.de/ran/clsponsor_opener_short_$object-subrequest
 ||satchef.de/banner/$third-party
