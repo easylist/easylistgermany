@@ -370,6 +370,7 @@ wer-weiss-was.de###fullbanner_02
 radiogong.de###fullsize
 pinfy.de###fullsize-background-container
 yasni.de###fullsizeBannerContainer
+yasni.de###fullsizeWrapper
 kino-zeit.de###fullsize_banner
 stb-web.de###fullsizebanner
 buergerstimme.com###g-1
@@ -508,6 +509,7 @@ mov-world.net###main > #lblock + [style*="width: 180px"]
 emergency-forum.de###main > .border > .container-1[style="text-align: center"]:first-child:last-child
 abendblatt.de###main > .column-1 > .widget > #lt_Wrap
 esbgforum.de###main > .pageOptions + .info + div[align="center"]
+yasni.de###main-content-ac1
 lesen.to###main:first-child > br:first-child + br + .box2
 grosseleute.de###mainContainer > :nth-child(n) + div:last-child div:first-child:last-child > div:first-child:last-child > a[href] > img[src^="image/"]
 grosseleute.de###mainContainer > :nth-child(n) div:first-child:last-child > div:first-child:last-child > a[href] > img[src^="image/"]
