@@ -1,6 +1,5 @@
 /?placement=$domain=movie-blog.org
 /oase_banner.jpg$domain=mysummit.wordpress.com
-/werbe-banner/*
 |http://$subdocument,third-party,domain=bonimail.de
 |http://*.pw^$script,domain=byte.to
 |http://byte.to^$script
@@ -407,6 +406,7 @@
 ||ddl-warez.in/images/hoster/
 ||ddl-warez.in/images/hoster_logos/
 ||ddl-warez.in/images/hosterlogos/
+||ddl-warez.in/images/och/
 ||ddl-warez.in/images/och_logos/
 ||ddl-warez.in^*.php|$script
 ||ddl-warez.in^*_js.js
