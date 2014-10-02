@@ -561,6 +561,7 @@
 @@||fruited.de^$document,subdocument,domain=audio.de|colorfoto.de|connect.de|connected-home.de|epochtimes.de|gamona.de|lustich.de|pc-magazin.de|video-magazin.de
 @@||fruited.de^$script,domain=gamona.de|lustich.de
 @@||g.doubleclick.net/activity;*/DE-AudiencePixel/Gamestar;dc_seg=$image,domain=gamestar.de
+@@||g.doubleclick.net/gampad/ads?$script,domain=wetteronline.de
 @@||g.doubleclick.net/gampad/ads?*&callback=googletag.impl.pubads.setAdContentsBySlotForSync&$script,domain=gamona.de
 @@||g.doubleclick.net/gampad/ads?sz=320x240&iu=/4444/pcgames_video.de_fx_sdm/Rest&ciu_szs&$object-subrequest,domain=pcgames.de
 @@||g.doubleclick.net/pagead/adview?ai=$object-subrequest,domain=clipfish.de
@@ -642,7 +643,7 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=brasilienfreunde.net|bullhost.de|gamestar.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|vol.at|wintotal-forum.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=gamona.de
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=gamona.de|wetteronline.de
 @@||pc-magazin.de^$elemhide
 @@||pcaction.de^$image
 @@||pcgameshardware.de^$image
