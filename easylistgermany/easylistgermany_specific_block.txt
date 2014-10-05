@@ -2093,8 +2093,8 @@
 ||gamona.de/wp-content/66
 ||gamona.de/wp-content/67
 ||gamona.de/wp-content/up/
-||img.lokalisten.de/img/*LB_
-||img.lokalisten.de/img/*SKY
+||img.lokalisten.de^*LB$image
+||img.lokalisten.de^*SKY$image
 ||ip-ads.de^$domain=rtl-now.rtl.de|rtl2now.rtl2.de
 ||kabeleins.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||media.epochtimes.de/img/
