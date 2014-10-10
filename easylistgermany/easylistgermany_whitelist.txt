@@ -244,6 +244,7 @@
 @@||media.gan-online.com/www/delivery/*.php?$script,subdocument,domain=myfreefarm.de
 @@||media.laendleauto.at/topad/$image,~third-party
 @@||media.laendleimmo.at/topad/$image,~third-party
+@@||meinestadt.de^*/googleads.js
 @@||menshealth.de/videoads/$object-subrequest
 @@||merkur-werbebanner.de^$~third-party
 @@||metzgerei-giering.de^*/advertising/$~third-party
