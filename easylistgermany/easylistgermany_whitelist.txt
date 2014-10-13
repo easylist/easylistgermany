@@ -443,8 +443,10 @@
 @@||ad-emea.doubleclick.net/pfadx/spiegel.tv.smartclip/;sz=*;dcmt=*;ord=$object-subrequest,domain=spiegel.tv
 @@||ad.71i.de/global_js/*/adplayer.min.js$domain=gamestar.de
 @@||ad.71i.de/global_js/AdScripts/standard.js$domain=gamestar.de
-@@||ad.71i.de/global_js/globalV6.js$domain=kabeleins.de|sat1.de|sixx.de
+@@||ad.71i.de/global_js/globalV6.js$domain=kabeleins.de|sat1.de|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
 @@||ad.71i.de/global_js/Sites/$domain=kabeleins.de|prosieben.de|sat1.de|sixx.de
+@@||ad.71i.de/global_js/Sites/pro7.js$domain=the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
+@@||ad.71i.de/images/*Opener$object-subrequest,domain=the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
 @@||ad.adnet.de/adj.php?$script,domain=schoener-fernsehen.com
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=homerj.de
 @@||ad4mat.de/ads/js/adtrust-min.php?*&w=468&h=60&$script,domain=mufa.de
