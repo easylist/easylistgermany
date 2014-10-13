@@ -682,6 +682,16 @@
 @@||smartclip.nuggad.net/crossdomain.xml$object-subrequest,domain=clipfish.de
 @@||sozialrechtsnews.de^$elemhide
 @@||spiegel.tv^$elemhide
+@@||st.wetteronline.de/css/datepicker.css?
+@@||st.wetteronline.de/css/ipad.css?
+@@||st.wetteronline.de/css/nonpaid.css?
+@@||st.wetteronline.de/css/p_*.css?
+@@||st.wetteronline.de/css/pc_*.css?
+@@||st.wetteronline.de/css/print.css?
+@@||st.wetteronline.de/css/reset.css?
+@@||st.wetteronline.de/css/wetteronline.css?
+@@||st.wetteronline.de/css/wetterradar.css?
+@@||st.wetteronline.de/css/www.css?
 @@||startup-connection.de^$elemhide
 @@||starwars.gamona.de^$image,domain=gamona.de
 @@||starwars.gamona.de^*_*/*.png
