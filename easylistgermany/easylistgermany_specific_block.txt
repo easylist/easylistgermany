@@ -157,9 +157,6 @@
 ||austriansoccerboard.at/public/banner/
 ||austriansoccerboard.at/public/sponsoren/
 ||auto-bild.de/js/rd/google.js
-||auto-motor-und-sport.de/img/*LB_
-||auto-motor-und-sport.de/img/*MR_
-||auto-motor-und-sport.de/img/*SKY
 ||autobild.de/js/rd/google.js
 ||autofreies-lautertal.de/images/banner/
 ||autoline-eu.at/atlads/
@@ -2084,6 +2081,9 @@
 /\bwww\.pc-magazin\.de\/+\b(?!img\/|abo\/)/$image,domain=pc-magazin.de
 /\bwww\.video-magazin\.de\/+\b(?!img\/|abo\/)/$image,domain=video-magazin.de
 ||2mdn.net/videoplayback/$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
+||auto-motor-und-sport.de/img/*LB_
+||auto-motor-und-sport.de/img/*MR_
+||auto-motor-und-sport.de/img/*SKY
 ||csgo.99damage.de/wp-content/$image
 ||doubleclick.net^$domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de|www.rtl.de|www.vox.de
 ||epochtimes.de/js/chkba.js
@@ -2104,6 +2104,7 @@
 ||img.lokalisten.de^*431A4$image
 ||img.lokalisten.de^*LB$image
 ||img.lokalisten.de^*SKY$image
+||img1.auto-motor-und-sport.de^*10$image
 ||ip-ads.de^$domain=rtl-now.rtl.de|rtl2now.rtl2.de
 ||kabeleins.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||media.epochtimes.de/img/
