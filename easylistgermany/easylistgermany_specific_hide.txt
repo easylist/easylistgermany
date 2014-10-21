@@ -3200,6 +3200,7 @@ rtf1.de##td[width="83"] + td[align="right"][width="120"]
 spotlight-wissen.de,spotlight.de##tr > .BoxWPresse[valign="top"][align="center"] > br:first-child + table:last-child
 kgsw.eu##tr > td > .fieldset[style="margin:0px 0px 0px 0px"]:first-child:last-child
 ww3.cad.de##tr > td[align="CENTER"] > table[bgcolor="#e7deee"]
+ww3.cad.de##tr > td[align="center"][colspan="2"][style="vertical-align: bottom;"] > table[align="center"][width="755"][height="95"]
 zebradem.com##tr > td[align="right"][style="border-left-width:1px;border-right-width:1px;border-top-width:1px;border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#555555"]
 chilloutzone.net##tr > td[colspan="2"] > div[style="margin: 10px 0 10px 0;"]
 web.de##tr > td[colspan="2"] > table[cellspacing="0"][cellpadding="0"][border="0"][width="100%"][style="margin-bottom: 5px;"]:first-child:last-child
@@ -3207,6 +3208,7 @@ computerhilfen.de##tr > td[style="background-color:#FFFFFF;border-left:1px solid
 notebookcheck.com##tr > td[style="text-align:center;"][colspan="2"] > div[style="margin:0px; padding:0px; margin-bottom:10px; background-color:#efefef; height:100px;"]
 homerj.de##tr > td[style="width:952px; height:200px;"]
 ebook-hell.to##tr > td[valign="TOP"][align="CENTER"] > .TABLE[width="640"][cellspacing="1"][cellpadding="0"][border="0"]:first-child
+ww3.cad.de##tr > td[valign="top"]:first-child + td[align="right"][width="160"][style="vertical-align: top;"]:last-child
 ibash.de##tr > td[valign="top"]:first-child + td[width="15"] + td[width="186"][valign="top"]:last-child
 cine24.tv##tr > td[valign="top"][style] > table[style] > tbody > tr > td[style]:first-child
 winboard.org##tr > td[width="100%"][valign="top"][align="center"]:first-child + td[width="180"][style="vertical-align: top;"]:last-child
