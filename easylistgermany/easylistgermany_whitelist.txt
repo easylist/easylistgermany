@@ -593,7 +593,7 @@
 @@||img.lokalisten.de/lokiimg/$image
 @@||inciteb.de^$document,subdocument,domain=audio.de|colorfoto.de|connect.de|connected-home.de|gamona.de|lustich.de|pc-magazin.de|video-magazin.de
 @@||inciteb.de^$script,domain=gamona.de|lustich.de
-@@||incown.de^$document,subdocument,domain=gamona.de
+@@||incown.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||indalam.de^$document,subdocument,domain=audio.de|colorfoto.de|connect.de|connected-home.de|gamona.de|lustich.de|pc-magazin.de|video-magazin.de
 @@||indalam.de^$script,domain=gamona.de|lustich.de
 @@||ivwbox.de^*#$image,domain=lustich.de
