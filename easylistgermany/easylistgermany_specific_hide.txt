@@ -2342,8 +2342,7 @@ aktuell.ru##a[href^="http://www.aktuell.ru/inc/banners.php?"]
 livestreamfussball.org##a[href^="http://www.amazon.de/"]
 beichthaus.com##a[href^="http://www.amazon.de/"][href*="&tag="] > img
 gamefront.de##a[href^="http://www.amazon.de/"][href*="&tag=gamefrontde-21"]
-gamestar.de##a[href^="http://www.amazon.de/"][href*="tag=gamestarq-21"]
-gamestar.de##a[href^="http://www.amazon.de/"][href*="tag=gscon-21"]
+gamestar.de##a[href^="http://www.amazon.de/"][href*="tag="]
 unmoralische.de##a[href^="http://www.amazon.de/exec/obidos/redirect-home?tag=dieunmoralisc-21&"] > img
 deutscher-hip-hop.com##a[href^="http://www.amazon.de/gp/"][href$="&tag=deuhiphop0e-21"] > img
 gamepro.de##a[href^="http://www.amazon.de/gp/"][href*="&tag="]
