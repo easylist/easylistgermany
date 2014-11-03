@@ -2112,6 +2112,7 @@
 ||img1.auto-motor-und-sport.de/img/*.jpg
 ||img1.auto-motor-und-sport.de/j/$image
 ||img1.auto-motor-und-sport.de/k/$image
+||img1.auto-motor-und-sport.de^*/*.jpg
 ||ip-ads.de^$domain=rtl-now.rtl.de|rtl2now.rtl2.de
 ||kabeleins.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||media.epochtimes.de/img/
