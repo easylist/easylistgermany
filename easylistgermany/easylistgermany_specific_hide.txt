@@ -2016,6 +2016,7 @@ metager.de##a[href*=".overture.com/"][href$="?plmg=1"]
 3dl.tv##a[href*=".php?q="]
 bild.de##a[href*=".smartadserver.com/"]
 htwk-leipzig.de##a[href*="/adclick.php?"]
+satindex.de##a[href*="/extern.php?"]
 3dl.tv##a[href*="/folder/"] + a[href*=" "]
 serienjunkies.org##a[href*="/mirror."]
 bild.de##a[href*="/partner/"]
@@ -3073,6 +3074,7 @@ lesen.to##table[cellpadding="0"][bgcolor="#FFFFFF"][style="width: 750px;"] > tbo
 ksta.de##table[cellspacing="0"][cellpadding="0"][border="0"][style="background-color: #76003d; width: 300px; height: 100px;"]
 cine24.tv##table[cellspacing="0"][cellpadding="0"][border="0"][width] > tbody > tr > td[style^="text-align:center"]
 loadsieben.org##table[cellspacing="0"][cellpadding="5"][border="0"] > tbody > tr:first-child:last-child > td:first-child + td + td[align="right"]:last-child
+satindex.de##table[cellspacing="1"][cellpadding="4"][border="0"][bgcolor="000000"]
 adhs-zentrum.de##table[cellspacing="2"][cellpadding="4"][border="0"][width="200"]:first-child:last-child
 bildderfrau.de##table[class^="sas_FormatID_"]
 biokurs.de##table[height="100"][width="850"][cellspacing="0"][cellpadding="0"][border="0"]:first-child
