@@ -352,6 +352,7 @@
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
 @@||static-fra.de/ip/js/adcontrol/adcontrol.min.js$domain=n-tv.de
 @@||static-fra.de^*/admeta.xml?$object-subrequest
+@@||static.criteo.net/js/ld/ld.js$domain=kleinanzeigen.ebay.de
 @@||static.freenet.de/adserver/introductio.js$domain=vid.buffed.de|videos.gamesaktuell.de|videos.pcgames.de|videos.videogameszone.de
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
