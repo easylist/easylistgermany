@@ -89,6 +89,8 @@
 ###werbung-banner
 ###werbung-left
 ###werbung-map-top
+###werbung-rectangle1
+###werbung-rectangle2
 ###werbung-skyscraper
 ###werbung125_links
 ###werbung125_rechts
@@ -207,6 +209,7 @@
 ##.werbung-inline
 ##.werbung-label
 ##.werbung-leiste
+##.werbung-rec-below-list
 ##.werbung-rectangle
 ##.werbung-skyscraper
 ##.werbung-skyscraper2
