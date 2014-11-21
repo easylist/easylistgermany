@@ -2350,6 +2350,7 @@ mobilfunk-talk.de##a[href^="http://www.active-tracking.de/"]
 smsform.de##a[href^="http://www.adscads.de/sites/"]
 aktuell.ru##a[href^="http://www.aktuell.ru/inc/banners.php?"]
 livestreamfussball.org,sat-erotik.de##a[href^="http://www.amazon.de/"]
+gamestar.de##a[href^="http://www.amazon.de/"][href*="%26tag%"]
 beichthaus.com##a[href^="http://www.amazon.de/"][href*="&tag="] > img
 gamefront.de##a[href^="http://www.amazon.de/"][href*="&tag=gamefrontde-21"]
 gamestar.de##a[href^="http://www.amazon.de/"][href*="tag="]
