@@ -187,7 +187,7 @@ benm.at,berliner-rundfunk.de,buchmarkt.de###bigbanner
 tikonline.de###bigsize
 magistrix.de###bigsize-top
 pcpraxis.de,rund-magazin.de###bigsizebanner
-volksfreund.de###billboard
+prad.de,volksfreund.de###billboard
 prad.de###billboardbig
 4players.de###billiger-charts
 geizkragen.de###bl_top
@@ -2060,6 +2060,7 @@ bild.de##a[href="http://finanzservice.bild.de/banken/kredite-vergleich/"]
 bild.de##a[href="http://finanzservice.bild.de/banken/tagesgeld-vergleich/"]
 bild.de##a[href="http://finanzservice.bild.de/versicherungen"]
 bild.de##a[href="http://gutscheine.bild.de"]
+prad.de##a[href="http://links.prad.de/lgcurved"]
 livestreamfussball.org##a[href="http://livetv.ru/de/allupcomingsports/1/"]
 bild.de##a[href="http://magine.bild.de"]
 movie-blog.org##a[href="http://movie-blog.org/2007"]
@@ -3057,6 +3058,7 @@ goldesel.to##li[url^="http://bit.ly/"]
 goldesel.to##li[url^="http://goo.gl/"]
 playnation.de##noscript + script + script + #al
 teltarif.de##p + .tetable + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
+prad.de##p > a > img[width="614"][height="249"]
 englische-briefe.de##p > table[width="769"][cellpadding="4"]
 byte.to##p[style="color: #FFFFFF;"] > a > big
 titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; margin: 0; padding: 0;"]
