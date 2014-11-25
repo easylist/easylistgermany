@@ -2137,6 +2137,9 @@
 ||p5.focus.de/img/fotos/crop4240801/1624877250-cv21_9-w324-h244-oc-q75-p5/
 ||p5.focus.de/img/fotos/crop78990801/1624877250-cv21_9-w324-h244-oc-q75-p5/
 ||prosieben.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
+||prosieben.de/static/*LB_$image
+||prosieben.de/static/*MR_$image
+||prosieben.de/static/*SKY$image
 ||sat1.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||sixx.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||st.wetteronline.de^$stylesheet
