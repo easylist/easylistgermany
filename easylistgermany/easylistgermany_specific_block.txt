@@ -2141,6 +2141,9 @@
 ||prosieben.de/static/*MR_$image
 ||prosieben.de/static/*SKY$image
 ||sat1.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
+||sat1.de/static/*LB_$image
+||sat1.de/static/*MR_$image
+||sat1.de/static/*SKY$image
 ||sixx.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||st.wetteronline.de^$stylesheet
 ||video.spiegel.de/flash/*.mp4$object-subrequest,domain=spiegel.tv
