@@ -2749,6 +2749,7 @@ gamestar.de##div[style="border-bottom: 1px solid #c9c9c9; padding: 10px 19px; po
 123recht.net##div[style="border: 1px solid #E6E6E6; width:340px; height:290px; padding: 5px; margin:0px 15px 15px 0px; float:left;"]
 programmieren-optimieren.de##div[style="border: 1px solid #ccc; padding: 15px; margin: 15px 0; background: url(http://www.programmieren-optimieren.de/wp-content/plugins/amazonsimpleadmin/img/amazon_DE_small.gif) right bottom no-repeat #ffffff;"]
 2kino.net##div[style="border: 1px solid rgb(223, 223, 223);"]
+goolive.de##div[style="border: dotted #808080; float: right; position: relative; overflow: hidden;"]
 petitionen24.com##div[style="border: solid #95bce2 1px;  padding: 1em 0; margin: 0; margin-right: 6px; width: 200px; height: 600px; background-color: #fff; text-align: center; margin-bottom: 1em;"]
 chriszim.com##div[style="border:1px #8c8c8c solid; font-size:80%; margin:5px auto; text-align:center; width:640px;"]
 html-world.de##div[style="border:1px solid #8EC1CF; padding:3px; margin:0px; background-color:white;"]
@@ -2798,6 +2799,7 @@ meintomtom.de##div[style="height:600px;padding:6px 0 6px 0;border: 1px solid #b4
 spektrumdirekt.de##div[style="height:90px;"]:first-child:last-child
 computerbase.de##div[style="height:92px;margin:15px 0;text-align:center"]
 gamepro.de##div[style="margin-bottom: 5px; margin-top: 20px; "] + .teaserRight[style="padding-bottom:0px"]
+goolive.de##div[style="margin-bottom: 5px; position: absolute; top: 8px; border: dotted #808080; overflow: visible"]
 wg.tvb1898.de##div[style="margin-bottom:10px; position:relative; top:0px; left:0px; height:105px; width:810px;"]
 schnelle-online.info##div[style="margin-bottom:10px;cursor:pointer;background:white url(/pictures/banner/lastminute-flughafen-3.png);width:760px;height:65px;"]
 supportnet.de##div[style="margin-left:0px; width:860px; background-color:#FFFFFF; height:100px;"]
