@@ -437,6 +437,7 @@ sb.sbsb.cc###infobar
 h-bw.de###inhalt-banner
 zensiert.to###innercontent2 > .contentcontainer + .contentfooter + br + center
 immonet.de###interhypSonder
+123recht.net###ip_content_wrapper > div[style="height: 90px;"]
 rtl-now.rtl.de###ipslidebanner
 golem.de###iqadtile4gol
 netzwelt.de###iqadtile6
@@ -2759,6 +2760,7 @@ stayfriends.de##div[style="background:url('http://images.stayfriends.de/cms1/030
 ngz-online.de##div[style="background:url(http://stat01.ngz-online.de/layout/img/icon/leiste.gif) no-repeat;width:786px;"]
 rp-online.de##div[style="background:url(http://stat01.rp-online.de/layout/img/icon/leiste.gif) no-repeat;width:786px;"]
 gamestar.de##div[style="border-bottom: 1px solid #c9c9c9; padding: 10px 19px; position: relative; padding-top:15px; padding-bottom:15px;"]
+123recht.net##div[style="border: 1px solid #E6E6E6; width:310px; height:260px; padding: 5px; margin:0px 15px 15px 0px; float:left;"]
 123recht.net##div[style="border: 1px solid #E6E6E6; width:340px; height:290px; padding: 5px; margin:0px 15px 15px 0px; float:left;"]
 programmieren-optimieren.de##div[style="border: 1px solid #ccc; padding: 15px; margin: 15px 0; background: url(http://www.programmieren-optimieren.de/wp-content/plugins/amazonsimpleadmin/img/amazon_DE_small.gif) right bottom no-repeat #ffffff;"]
 2kino.net##div[style="border: 1px solid rgb(223, 223, 223);"]
