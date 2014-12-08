@@ -2098,6 +2098,10 @@
 /\bwww\.video-magazin\.de\/+\b(?!img\/|abo\/)/$image,domain=video-magazin.de
 ||2mdn.net/videoplayback/$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 ||csgo.99damage.de/wp-content/$image
+||d1.stern.de^*00.gif|
+||d1.stern.de^*20.gif|
+||d1.stern.de^*A0.gif|
+||d1.stern.de^*A40.gif|
 ||doubleclick.net^$domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de|www.rtl.de|www.vox.de
 ||epochtimes.de/js/chkba.js
 ||gamona.de/assets/*.swf
