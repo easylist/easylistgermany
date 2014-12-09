@@ -3261,7 +3261,9 @@ androidnext.de##ul[style="list-style-image: url(http://dl.androidnext.de/flame.p
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
 kabeleins.de,prosieben.de,prosiebenmaxx.de,sat1.de,sixx.de,the-voice-of-germany.de###ad-fullbanner-outer + div:not([id])
+wetter.com###ad-skyscraper1 + * + [class]
 focus.de###article div[align="center"] + [class]
+wetter.com###content div[align="center"] + [class]
 stern.de###page > div[align="center"] + [class]
 focus.de###page-container > div[class] > div[align="center"] + [class]
 focus.de###sidebar > div[align="center"] + [class]
