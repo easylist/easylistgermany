@@ -193,7 +193,6 @@
 @@||gamersplus.de/images/branding/*_header_
 @@||games.myvideo.de/ressource/js/sevengames/sevengames/adtags.*.js?
 @@||games.tfag.de^$domain=fitforfun.de
-@@||gamestar.de^*/my_ad_integration.js
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
 @@||geo.de^*/gujAd.js
 @@||gfsrv.net/ad/$domain=ogame.de
@@ -569,7 +568,6 @@
 @@||fribre.de^$script,domain=lustich.de
 @@||fruited.de^$document,subdocument,domain=audio.de|colorfoto.de|connect.de|connected-home.de|gamona.de|lustich.de|pc-magazin.de|video-magazin.de
 @@||fruited.de^$script,domain=gamona.de|lustich.de
-@@||g.doubleclick.net/activity;*/DE-AudiencePixel/Gamestar;dc_seg=$image,domain=gamestar.de
 @@||g.doubleclick.net/gampad/ads?*&callback=googletag.impl.pubads.setAdContentsBySlotForSync&$script,domain=gamona.de
 @@||g.doubleclick.net/gampad/ads?sz=320x240&iu=/4444/pcgames_video.de_fx_sdm/Rest&ciu_szs&$object-subrequest,domain=pcgames.de
 @@||g.doubleclick.net/pagead/adview?ai=$object-subrequest,domain=clipfish.de
@@ -650,9 +648,9 @@
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=brasilienfreunde.net|bullhost.de|gamestar.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|peugeot-metropolis.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|teamspeak-ts.com|vol.at|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=brasilienfreunde.net|bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|peugeot-metropolis.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|teamspeak-ts.com|vol.at|wintotal-forum.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=java-forum.org|mufa.de|peugeot-metropolis.de|teamspeak-ts.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=brasilienfreunde.net|bullhost.de|gamestar.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|vol.at|wintotal-forum.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=brasilienfreunde.net|bullhost.de|green-24.de|java-forum.org|lablue.at|lablue.ch|lablue.de|mufa.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|vol.at|wintotal-forum.de
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=gamona.de|wetteronline.de
@@ -671,7 +669,6 @@
 @@||rechtsschutzversicherunginfo.de^$elemhide
 @@||rene-neuweiler.ch^$elemhide
 @@||rentenbote.de^$elemhide
-@@||revsci.net/pql?placementIdList=*&cb=$script,domain=gamestar.de
 @@||schneevonmorgen.com^$object-subrequest,domain=gmx.net|golem.de|homerj.de|pcgames.de|rtlnitronow.de|spiegel.tv|sueddeutsche.de|t-online.de|web.de
 @@||schuetzenrecht.de^$elemhide
 @@||schulzeux.de/js/show_ads.js
