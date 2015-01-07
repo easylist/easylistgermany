@@ -183,7 +183,6 @@
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g-stream.in/lla2/smoothscroll.js
 @@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de
-@@||g.doubleclick.net/gampad/ads?*&callback=GA_googleSetAdContentsBySlotForSync&*&slotname=Mobilegeeks_Billboard&$domain=mobilegeeks.de
 @@||gamepro.de/js/gamepro/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
 @@||gamers.at/images/branding/*/header.
@@ -206,7 +205,6 @@
 @@||google.com/uds/api/ads/*/search.in.js$domain=marktplatz.nordclick.de
 @@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
-@@||googleusercontent.com/x/www.mobilegeeks.de/pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobilegeeks.de
 @@||googlewatchblog.de^*/adsense.png
 @@||gotv.at/adimg/$image,~third-party
 @@||greuther-fuerth.de/fileadmin/templates/js/plugins/pagepeel/$object,object-subrequest,script
@@ -281,13 +279,11 @@
 @@||os1.tv/js/omsvc_externalad.js
 @@||osthessen-tv.de/werbebanner/$object-subrequest
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=jetztspielen.de|mobilegeeks.de|speedweek.com|spielen.com
-@@||pagead2.googlesyndication.com/pagead/osd.js$domain=cnet.de|mobilegeeks.de
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=jetztspielen.de|mobilegeeks.de|spielen.com
+@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=jetztspielen.de|speedweek.com|spielen.com
+@@||pagead2.googlesyndication.com/pagead/osd.js$domain=cnet.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=jetztspielen.de|spielen.com
 @@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.at|rakuten.de
-@@||partner.googleadservices.com/gampad/google_ads.js$domain=mobilegeeks.de
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=cnet.de
-@@||partner.googleadservices.com/gampad/google_service.js$domain=mobilegeeks.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de
 @@||partners.webmasterplan.com/click*.asp$subdocument,domain=eule.de|gutscheindoktor.de
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
@@ -321,9 +317,9 @@
 @@||servedby.flashtalking.com/crossdomain.xml$object-subrequest
 @@||servedby.flashtalking.com/imp/$object-subrequest,domain=t-online.de
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
-@@||serving-sys.com/BurstingCachedScripts/*/ebStdBanner.js$domain=cnet.de|mobilegeeks.de
+@@||serving-sys.com/BurstingCachedScripts/*/ebStdBanner.js$domain=cnet.de
 @@||serving-sys.com/BurstingCachedScripts/ebBanner_$script,domain=cnet.de
-@@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=cnet.de|mobilegeeks.de
+@@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=cnet.de
 @@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||serving-sys.com/BurstingRes//Site-*/Type-*/$script,domain=cnet.de
 @@||sevengames.at/ressource/js/sevengames/sevengames/adtags.*.js

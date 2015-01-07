@@ -5,9 +5,6 @@
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ^utm_source=superclixx^$popup,domain=ascii-bilder.net
 |http://ow.ly^$popup,domain=byte.to
-||1load.net/highspeedmirror.php$popup
-||1load.net/mehrinfos.php$popup
-||1load.net/out.php$popup
 ||3dl.tv/popup.php$popup
 ||3dl.tv^*.phtml?*=$popup
 ||3dl.tv^*?*=*%20$popup
@@ -109,7 +106,6 @@
 ||usenext.de^$popup,domain=5vor12.de
 ||vampirediaries.in/popin.php$popup
 ||vibeo.tv^$popup,domain=movie-blog.org
-||videoplaza.tv^$popup,domain=clipfish.de|rtlnitronow.de
 ||williamhill.com^$popup,domain=trailerzone.info
 ||williamhillcasino.com^$popup,domain=trailerzone.info
 ||xerdus.com^$popup,domain=gamestar.de
