@@ -51,6 +51,7 @@
 ||g-stream.in/mirror/$popup
 ||g-stream.in/out.php|$popup
 ||goo.gl^$popup,domain=atomload.at|byte.to|fail.to|omfg.to|warezking.in
+||googleadservices.com^$popup,domain=wetteronline.de
 ||green.ingame.de/www/delivery/inck.php?oaparams=*__bannerid=*__zoneid=*__oadest=$popup
 ||greres.com^$popup,domain=gamestar.de
 ||hamster.cc^$popup,domain=movie-blog.org
