@@ -454,6 +454,7 @@ express.de,fr-online.de,general-anzeiger-bonn.de,ksta.de,mz-web.de,rhein-zeitung
 aachener-zeitung.de###kalaydo-container-related-lokales-aachen
 aachener-nachrichten.de,aachener-zeitung.de,az-web.de###kalaydoklein
 1fcm.de,fc-magdeburg.de###kopf_banner
+astronews.com###kopf_screen > table[style="width: 900px;"]
 internetcologne.de###kopfbanner
 immonet.de###kuechenlink
 bigbrother11hd.in,bigbrother11live.info###l93b850
@@ -2608,9 +2609,11 @@ areadvd.de##body > center
 elternforen.com##body > div[align="center"] > table[align="left"][cellspacing="0"][cellpadding="0"][style="width: 99%"]
 www.google.de##body > div[align="left"]:first-child + style + table[cellpadding="0"][width="100%"][style^="border: 1px solid "]
 salzi.at##body > div[id^="fb_"]
+astronews.com##body > div[style="position:absolute; top:10px; width:900px;"]
 dasweinforum.de##body > table > tbody > tr > td[width="160"][valign="top"]:first-child
 gleitschirmdrachenforum.de##body > table[style="margin-bottom: 10px;"]:first-child
 wortfilter.de##body > table[style="margin-bottom:6px;"]:first-child
+astronews.com##body > table[style="width: 750px"]
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
 acer-userforum.de##body > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"]:first-child > tbody:first-child:last-child > tr:first-child:last-child > td[width="195px"][valign="top"]:first-child
 schoener-fernsehen.com##body[allowfullscreen="true"][style="-moz-box-sizing: border-box; width: 100%; height: 100%; overflow: hidden;"] > iframe[id][class][scrolling="auto"][frameborder="0"][allowtransparency="true"][src^="http://schoener-fernsehen.com/"] + [id][class]
@@ -2847,6 +2850,7 @@ wettforum.info##div[style="position: absolute; width: 300px; height: 250px; righ
 wettforum.info##div[style="position: fixed; width: 748px; height: 93px; left: 200px; top: 0px; text-align: left; z-index: 2; background-image: url(http://www.wettforum.info/styles/frame.png); background-position: center; background-repeat: no-repeat;"]
 hitradio.com.na##div[style="position: relative; z-index: 1; width: 240px; height: 220px;"]
 kochbar.de##div[style="position: relative;margin: 0;padding: 0;border: 0;width: 300px;height: 238px;background-color:#FFF;"]
+astronews.com##div[style="position:absolute; top:115px; left:925px; width:300px"]
 vibe.cd##div[style="position:absolute; top:173px; left:80px; z-index:2;"]
 webradio.de##div[style="position:absolute;left:322px;top:-3px;padding:1px;background-color:#2481BC"]
 wallstreet-online.de##div[style="position:absolute;right:5px;bottom:4px;width: 110px;height: 28px;overflow: hidden;"]
@@ -3144,6 +3148,9 @@ homerj.de##table[width="1580"][cellspacing="0"][cellpadding="0"][border="0"][ali
 nisch-center.de##table[width="160"][height="600"]
 geizhals.at##table[width="300"][bgcolor="#999999"]
 viviano.de##table[width="300"][height="250"]
+astronews.com##table[width="300px"][cellspacing="0"][cellpadding="0"][border="0"]
+astronews.com##table[width="320"][cellspacing="0"][cellpadding="0"][border="0"][align="left"]
+astronews.com##table[width="320"][cellspacing="0"][cellpadding="0"][border="0"][align="right"]
 rheinforum.com##table[width="400"][height="600"]
 bordellcommunity.com,rheinforum.com##table[width="425"][height="600"]
 bordellcommunity.com,forum-sachsen.com##table[width="426"][height="600"]
