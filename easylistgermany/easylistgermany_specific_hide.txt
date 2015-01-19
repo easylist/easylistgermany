@@ -2005,6 +2005,7 @@ azonline.de,mv-online.de,wn.de##.wn_spo_banner
 goyax.de##.wpad
 linkbase.in##.wrap > div[style="padding: 10px; margin: 10px; -moz-border-radius: 5px 5px 5px 5px; -moz-box-shadow: 0px 0px 10px rgb(0, 0, 0); text-align: center; font-size: 18px; background-color: rgb(102, 160, 0); opacity: 0.45; border: 1px solid rgb(68, 187, 68);"]
 mobile.de##.wrapper-d-06-rect_de
+wetter.de##.wrapper-halfpage
 wetter.de##.wrapper-rectangle
 muenchen.de##.wrapper_dienste_anzeigen
 evo-cars.de##.xaded
@@ -2503,7 +2504,7 @@ gaming-insight.de##a[id^="takeoverlink"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=")"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=");"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick][href$="#"] > img[src^="/"]
-kochbar.de,rtl.de,sport.de,vip.de,vox.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
+kochbar.de,rtl.de,sport.de,vip.de,vox.de,wetter.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
 rtl.de##a[onclick^="$('<img></img>').attr(\7b src: '/xdot/count?id="]
 downloadstube.net##a[onclick^="DownloadFile('details'"]
 downloadstube.net##a[onclick^="DownloadFile('result_details'"]
