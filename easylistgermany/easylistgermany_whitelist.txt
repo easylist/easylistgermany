@@ -15,13 +15,8 @@
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
-@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|brokencomedy.de|bundesliga.de|gamepro.de|gamestar.de|myvideo.de|n24.de|prosieben.de|sport1.fm
-@@||ad.71i.de/global_js/globalV6.js$domain=netzwelt.de
-@@||ad.71i.de/global_js/Sites/gameprode.js$domain=gamepro.de
-@@||ad.71i.de/global_js/sites/n24de.js$domain=n24.de
-@@||ad.71i.de/global_js/Sites/netzwelt.js$domain=netzwelt.de
-@@||ad.71i.de/global_js/sites/pro7de.js$domain=brokencomedy.de
-@@||ad.71i.de/global_js/Sites/sport1fm.js$domain=sport1.fm
+@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|brokencomedy.de|bundesliga.de|gamepro.de|gamestar.de|myvideo.de|n24.de|netzwelt.de|prosieben.de|sport1.fm
+@@||ad.71i.de/global_js/Sites/$script,domain=|brokencomedy.de|gamepro.de|n24.de|netzwelt.de|sport1.fm
 @@||ad.71i.de/images/fallback/video/1_sek.mp4$domain=netzwelt.de
 @@||ad.adworx.at/crossdomain.xml$object-subrequest
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
@@ -448,8 +443,7 @@
 @@||ad.71i.de/global_js/*/adplayer.min.js$domain=gamestar.de
 @@||ad.71i.de/global_js/AdScripts/standard.js$domain=gamestar.de
 @@||ad.71i.de/global_js/globalV6.js$domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
-@@||ad.71i.de/global_js/Sites/$domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
-@@||ad.71i.de/global_js/Sites/pro7.js$domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
+@@||ad.71i.de/global_js/Sites/$script,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
 @@||ad.71i.de/images/*Opener$object-subrequest,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
 @@||ad.adnet.de/adj.php?$script,domain=schoener-fernsehen.com
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=homerj.de
