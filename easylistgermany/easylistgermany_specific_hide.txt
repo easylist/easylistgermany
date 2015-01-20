@@ -322,6 +322,7 @@ drehscheibe-foren.de,drehscheibe-online.de###dsBanner
 800gs.de###duonix
 onlinewebservice4.de###dwindow
 billiger.de###ebay_footer_widget_ajax
+netzwelt.de###eccontainer
 focus.de###ecs-snippet
 boerse.bz###edit10093682 + div[id^="edit"][style="padding:0px 0px 6px 0px"]
 report-k.de###empf
@@ -2856,6 +2857,7 @@ rclineforum.de##div[style="position: absolute; right:0px; top:0px; background-im
 jobboerse.de##div[style="position: absolute; top: 130; left: 800; border: 1px solid black; background-color: white; padding: 0; width: 120; height: 600;"]
 wettforum.info##div[style="position: absolute; width: 300px; height: 250px; right: 5px; top: 1px; text-align: left;"]
 wettforum.info##div[style="position: fixed; width: 748px; height: 93px; left: 200px; top: 0px; text-align: left; z-index: 2; background-image: url(http://www.wettforum.info/styles/frame.png); background-position: center; background-repeat: no-repeat;"]
+netzwelt.de##div[style="position: relative; top: 60px; right: -173px; font-size: 11px; text-align: right; color: #444;"]
 hitradio.com.na##div[style="position: relative; z-index: 1; width: 240px; height: 220px;"]
 kochbar.de##div[style="position: relative;margin: 0;padding: 0;border: 0;width: 300px;height: 238px;background-color:#FFF;"]
 astronews.com##div[style="position:absolute; top:115px; left:925px; width:300px"]
