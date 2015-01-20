@@ -12,6 +12,7 @@
 ||ad-serving.de^$third-party
 ||ad-sun.de^$third-party
 ||ad-traffic.de^$third-party
+||ad.de.doubleclick.net^$~object-subrequest,third-party
 ||ad.netzquadrat.de^$third-party
 ||ad2net.de^$third-party
 ||ad2web.net^$third-party
