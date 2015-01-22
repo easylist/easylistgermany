@@ -2630,6 +2630,7 @@ acer-userforum.de##body > table[width="100%"][cellspacing="0"][cellpadding="0"][
 schoener-fernsehen.com##body[allowfullscreen="true"][style="-moz-box-sizing: border-box; width: 100%; height: 100%; overflow: hidden;"] > iframe[id][class][scrolling="auto"][frameborder="0"][allowtransparency="true"][src^="http://schoener-fernsehen.com/"] + [id][class]
 schoener-fernsehen.com##body[msallowfullscreen="true"][webkitallowfullscreen="true"][mozallowfullscreen="true"][allowfullscreen="true"][data-twttr-rendered="true"][style="box-sizing: border-box; width: 100%; height: 100%; overflow: hidden;"]:last-child > div[id][class] + iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class] + iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class]
 schoener-fernsehen.com##body[msallowfullscreen="true"][webkitallowfullscreen="true"][mozallowfullscreen="true"][allowfullscreen="true"][data-twttr-rendered="true"][style] > iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class]
+filecrypt.cc##button[onclick="window.open('http://def.filecrypt.cc')"]
 rtl.de##button[onclick^="verivox_go("]
 rsd-store.com##button[onclick^="visitPartner("]
 filecrypt.cc##button[onclick^="window.open('http://abc.filecrypt.cc"]

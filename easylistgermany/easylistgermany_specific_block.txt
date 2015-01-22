@@ -636,6 +636,7 @@
 ||fhz-forum.de/banner_$image
 ||file-upload.net^*/popup.js
 ||filecrypt.cc/a/
+||filecrypt.cc^$subdocument,domain=filecrypt.cc
 ||filecrypt.cc^*.php?$script
 ||files.putpat.tv/misc/*.xml|$object-subrequest
 ||files.putpat.tv/putpat_player/*/top_banner/
