@@ -3311,5 +3311,5 @@ www.stern.de##div > div[align="center"] + div + div[class][id]
 www.wetter.com##div#ad-skyscraper1-outer > :nth-child(1):not(div)[class][id]
 www.stern.de##div[class][id] > div + img
 focus.de##div[id^="adsdf_"] + div[class] > div[align="center"] + [class]
-spielen.de##div[style^="width: 300px; height: 250px;"]
-spielen.de##div[style^="width: 728px; height: 90px;"]
+spielen.de##div[style*="width: 300px; height: 250px;"]
+spielen.de##div[style*="width: 728px; height: 90px;"]
