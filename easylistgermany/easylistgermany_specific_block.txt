@@ -2148,3 +2148,4 @@
 ||video.spiegel.de/flash/*.mp4$object-subrequest,domain=spiegel.tv
 ||videoplaza.tv/creatives/assets/$object-subrequest,domain=clipfish.de|gmx.net|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de|web.de|www.rtl.de
 ||wettercomassets.com/img/cms/chameleon/mediapool/thumbs/d/98/article_landingpage_keyvisual_$image
+||www.spielen.de^$script,domain=spielen.de
