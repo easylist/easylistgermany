@@ -2640,6 +2640,7 @@ filecrypt.cc##button[onclick="window.open('http://def.filecrypt.cc')"]
 rtl.de##button[onclick^="verivox_go("]
 rsd-store.com##button[onclick^="visitPartner("]
 filecrypt.cc##button[onclick^="window.open('http://abc.filecrypt.cc"]
+filecrypt.cc##button[onclick^="window.open('http://bit.ly/"]
 g-stream.in##button[onclick^="window.open('http://g-stream.in/mirror/"]
 g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
 hornoxe.com##center > a[target="_blank"][href^="http://amzn.to/"] > img
