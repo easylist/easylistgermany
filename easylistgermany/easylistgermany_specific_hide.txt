@@ -1009,6 +1009,7 @@ stb-web.de###wpbg
 wikio.de###wpub
 manager-magazin.de###wrapBoard > #wrapMain:first-child > .pbox
 schwaebische.de###wrapper > #titelkopf
+xxx-blog.to###wrapper > div#header:first-child + center
 leave.to###wrapper > header + .wrapping
 leave.to###wrapper > header + .wrapping + .wrapping:last-child
 micky-maus.de###wrapper-1 > #extra1[style="padding-left: 108px;"]
@@ -2296,6 +2297,7 @@ linuxundich.de##a[href^="http://linuxundich.de/wp-content/plugins/adrotate/"]
 lix.in##a[href^="http://lix.in/ad.php?"]
 movie-blog.org##a[href^="http://lnk.co/"]
 t-online.de##a[href^="http://logc206.xiti.com/go.click?"]
+xxx-blog.to##a[href^="http://lp.amateurcommunity.com/"]
 pornkino.to##a[href^="http://lp.amateurcommunity.de/"]
 mafia-linkz.to##a[href^="http://mafia-linkz.to/dirty/"]
 web.de##a[href^="http://magazine.web.de/de/themen/digitale-welt/usenext/"]
@@ -2491,6 +2493,7 @@ jenatv.de##a[href^="http://www1.belboon.de/adtracking/"]
 goldesel.to,mega-stream.to,moviebox.to,woom.ws##a[href^="http://www2.filedroid.net/AF_"]
 readmore.de##a[href^="http://www4.smartadserver.com/"]
 byte.to,movie-blog.org##a[href^="http://x.co/"]
+xxx-blog.to##a[href^="http://xxx-blog.to/poppen/"]
 movie-blog.org##a[href^="http://y.ahoo.it/"]
 movie-blog.org##a[href^="http://yi.tl/"]
 hd-world.org,movie-blog.org##a[href^="http://zip5.de/"]
