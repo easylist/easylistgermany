@@ -4,6 +4,7 @@
 ?redirectUrl=*&var=$popup,domain=lustich.de|pcaction.de
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ^utm_source=superclixx^$popup,domain=ascii-bilder.net
+|http://*.filecrypt.cc/|$popup
 |http://ow.ly^$popup,domain=byte.to
 ||3dl.tv/popup.php$popup
 ||3dl.tv^*.phtml?*=$popup
@@ -100,6 +101,7 @@
 ||teen-blog.us/out_to_trade.php$popup
 ||teltarif.de/click/*:*.a=$popup
 ||thepornlist.net^$popup,domain=sexuria.com
+||tiny.cc^$popup,domain=filecrypt.cc
 ||tinyurl.com^$popup,domain=gamersglobal.de
 ||tipico.com^$popup,domain=yabeat.com
 ||tradedoubler.com/click?$popup,domain=smsform.de

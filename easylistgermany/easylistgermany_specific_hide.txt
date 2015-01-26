@@ -2983,6 +2983,7 @@ rtl.de##form[id^="neude_"]
 rtl.de##form[id^="parshipform_"]
 rtl.de##form[id^="powerform_"]
 n-tv.de##form[onsubmit^="return c24_track_"]
+filecrypt.cc##form[onsubmit^="try"] + button[onclick]:last-child
 t-online.de##form[target="_blank"][action="http://im.banner.t-online.de/"]
 byte.to,ebook-hell.to##form[target="id__"]
 movie-blog.org##h1[id$="-637540"]
