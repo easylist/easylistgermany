@@ -2987,6 +2987,7 @@ stayfriends.de##form[action^="http://www.stayfriends.de/tracking/linkcounter.php
 rtl.de##form[id^="neude_"]
 rtl.de##form[id^="parshipform_"]
 rtl.de##form[id^="powerform_"]
+filecrypt.cc##form[method="post"][onsubmit^="try"] + button
 n-tv.de##form[onsubmit^="return c24_track_"]
 filecrypt.cc##form[onsubmit^="try"] + button[onclick]:last-child
 filecrypt.cc##form[onsubmit^="try"]:first-child + button:last-child
