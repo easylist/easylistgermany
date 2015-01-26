@@ -511,6 +511,8 @@
 @@||ddl-search.biz/js/advertisement.js
 @@||ddl-search.biz/js/advertisements.js
 @@||derlacher.de/static/lib/advertisement.js
+@@||derstandard.at/AdServer/AdServerM.aspx?Position=*&type=12&Random|$subdocument
+@@||derstandard.at/AdServer/AdServerM.aspx?Position=*&type=3&Width=303&Height=260&Random=$subdocument
 @@||derstandard.at/AdServer/AdServerM.aspx|$subdocument
 @@||derstandard.at/MetaAdServer/MAS.aspx?cp=$subdocument
 @@||derstandard.at^$elemhide
