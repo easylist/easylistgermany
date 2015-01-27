@@ -2708,6 +2708,7 @@ gamers.de##div[id^="click"]
 insidegames.ch##div[id^="click"][onclick^="_gaq.push(['_trackEvent',"]
 gamers.at##div[id^="clickTagDIVElement_"] > a
 consol.at##div[id^="clickTagDIVElement_"] > a[target="_blank"] > img[src="/clear.gif"]
+prad.de##div[id^="content-"] > a[target="_blank"] > img
 bild.de##div[id^="content_stoerer_"]
 3dl.tv,mafia.to##div[id^="cpa_rotator_"]
 3dl.bz##div[id^="cpa_rotator_block_"]
