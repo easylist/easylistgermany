@@ -1,4 +1,3 @@
-.php^$subdocument,third-party,domain=filecrypt.cc
 /?placement=$domain=movie-blog.org
 /oase_banner.jpg$domain=mysummit.wordpress.com
 ^what=zone^$domain=ww3.cad.de
