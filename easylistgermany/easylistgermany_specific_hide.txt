@@ -2648,17 +2648,10 @@ acer-userforum.de##body > table[width="100%"][cellspacing="0"][cellpadding="0"][
 schoener-fernsehen.com##body[allowfullscreen="true"][style="-moz-box-sizing: border-box; width: 100%; height: 100%; overflow: hidden;"] > iframe[id][class][scrolling="auto"][frameborder="0"][allowtransparency="true"][src^="http://schoener-fernsehen.com/"] + [id][class]
 schoener-fernsehen.com##body[msallowfullscreen="true"][webkitallowfullscreen="true"][mozallowfullscreen="true"][allowfullscreen="true"][data-twttr-rendered="true"][style="box-sizing: border-box; width: 100%; height: 100%; overflow: hidden;"]:last-child > div[id][class] + iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class] + iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class]
 schoener-fernsehen.com##body[msallowfullscreen="true"][webkitallowfullscreen="true"][mozallowfullscreen="true"][allowfullscreen="true"][data-twttr-rendered="true"][style] > iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class]
-filecrypt.cc##button[onclick*=".filecrypt.cc'"]
-filecrypt.cc##button[onclick="window.open('http://def.filecrypt.cc')"]
 rtl.de##button[onclick^="verivox_go("]
 rsd-store.com##button[onclick^="visitPartner("]
-filecrypt.cc##button[onclick^="window.open('http://abc.filecrypt.cc"]
-filecrypt.cc##button[onclick^="window.open('http://bit.ly/"]
 g-stream.in##button[onclick^="window.open('http://g-stream.in/mirror/"]
-filecrypt.cc##button[onclick^="window.open('http://tinyurl.com/"]
 g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
-filecrypt.cc##button[onmousedown$="filecrypt.cc')"]
-filecrypt.cc##button[onmousedown^="window.open('http://tiny.cc/"]
 hornoxe.com##center > a[target="_blank"][href^="http://amzn.to/"] > img
 repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
 englische-briefe.de##center > table[width="574"][cellspacing="0"][cellpadding="0"][border="0"]
@@ -2991,10 +2984,8 @@ stayfriends.de##form[action^="http://www.stayfriends.de/tracking/linkcounter.php
 rtl.de##form[id^="neude_"]
 rtl.de##form[id^="parshipform_"]
 rtl.de##form[id^="powerform_"]
-filecrypt.cc##form[method="post"][onsubmit^="try"] + button
-n-tv.de##form[onsubmit^="return c24_track_"]
-filecrypt.cc##form[onsubmit^="try"] + button[onclick]:last-child
-filecrypt.cc##form[onsubmit^="try"]:first-child + button:last-child
+n-tv.de##form[onsubmit^="return c24_track_"]ld
+filecrypt.cc##form[onsubmit^="try"] ~ *
 t-online.de##form[target="_blank"][action="http://im.banner.t-online.de/"]
 byte.to,ebook-hell.to##form[target="id__"]
 movie-blog.org##h1[id$="-637540"]
