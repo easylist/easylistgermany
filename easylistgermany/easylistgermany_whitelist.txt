@@ -327,6 +327,7 @@
 @@||smart.allocine.fr/a/diff/*/show*.asp?$object-subrequest,domain=ufa-dresden.de
 @@||smart.allocine.fr/call/pubx/*&video=$object-subrequest
 @@||smartadserver.com/a/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
+@@||smartadserver.com/call/pubi/*/(bild/*/?format=.mp4$media,domain=bild.de
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/smartad.js$domain=sky.de
