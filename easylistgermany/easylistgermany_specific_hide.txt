@@ -3030,6 +3030,9 @@ t-online.de##img[height="365"][width="178"][style="margin-left:-10px;margin-bott
 hoerbuch.in,lesen.to,liplop.de,teen-blog.us##img[height="60"][width="468"]
 blogtotal.de##img[height="600"][width="120"]
 arthouse.ch##img[height="72"][alt="banner"]
+schoener-fernsehen.com##img[id$="closer"] + h2
+schoener-fernsehen.com##img[id$="icon"]
+schoener-fernsehen.com##img[id$="icon"] + p
 ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
 seatforum.de##img[src="http://www.seatforum.de/forum/images/anzeige.gif"] + a[target="_blank"] > img
 tsv1860ro-fussball.de##img[style="left: 0px; top: 1100px; width: 400px; height: 200px;"]
@@ -3126,6 +3129,7 @@ playnation.de##noscript + script + script + #al
 teltarif.de##p + .tetable + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
 prad.de##p > a > img[width="614"][height="249"]
 englische-briefe.de##p > table[width="769"][cellpadding="4"]
+schoener-fernsehen.com##p[id$="link"]
 byte.to##p[style="color: #FFFFFF;"] > a > big
 titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; margin: 0; padding: 0;"]
 titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; margin: 0; padding: 0;"] + .teaser_row[style="height: 181px;"]
