@@ -3317,30 +3317,3 @@ radforum.de##ul[class^="ebayitems"]
 androidnext.de##ul[style="list-style-image: url(http://dl.androidnext.de/flame.png);"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
-kabeleins.de,prosieben.de,prosiebenmaxx.de,sat1.de,sixx.de,the-voice-of-germany.de###ad-fullbanner-outer + div:not([id])
-www.prosieben.de,www.sat1.de,www.sixx.de,www.the-voice-of-germany.de###ad-fullbanner-outer + div[class][id] > div + img
-wetter.com###ad-skyscraper1 + * + [class]
-focus.de###article div[align="center"] + [class]
-wetter.com###content div[align="center"] + [class]
-www.prosieben.de,www.sat1.de,www.sixx.de,www.the-voice-of-germany.de###main > div:nth-child(1)
-stern.de###page > div[align="center"] + [class]
-focus.de###page-container > div[class] > div[align="center"] + [class]
-focus.de###sidebar > div[align="center"] + [class]
-stern.de##.ad_div_banner + *
-gala.de##.container div[align="center"] + [class]
-stern.de##.gridColRight > div[align="center"] + [class]
-stern.de##.gridTeaserRow1 > div[align="center"] + [class]
-kabeleins.de,prosieben.de,prosiebenmaxx.de,sat1.de,sixx.de,the-voice-of-germany.de##.grid_300 ~ div:not([id])
-gala.de##.header + div[align="center"] + [class]
-auto-motor-und-sport.de##.header_topbar + [class] > [class] > [class]
-kabeleins.de,sat1.de##.simad + [class] + [class]
-prosieben.de,prosiebenmaxx.de,sat1.de,sixx.de,the-voice-of-germany.de##.simad + div:not([id])
-www.auto-motor-und-sport.de##.wrapper > div[class] > div[class] > :not(div)[class][id]
-gamestar.de##a[style="display:block;width:160px;height:600px;padding:0;margin:0;text-decoration:none;"]
-shoplenaro.com##body > #hoch > form[method="post"][action="http://shoplenaro.com/go"]
-shoplenaro.com##body > #quer > form[target="_blank"][method="post"][action="http://shoplenaro.com/go"]
-www.focus.de,www.gala.de,www.wetter.com##div > div[align="center"] + div + :not(div)[class][id]
-www.stern.de##div > div[align="center"] + div + div[class][id]
-www.wetter.com##div#ad-skyscraper1-outer > :nth-child(1):not(div)[class][id]
-www.stern.de##div[class][id] > div + img
-focus.de##div[id^="adsdf_"] + div[class] > div[align="center"] + [class]
