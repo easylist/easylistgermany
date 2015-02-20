@@ -651,6 +651,7 @@
 @@||nuggad.net/bk?nuggn=$object-subrequest,domain=homerj.de
 @@||nuggad.net/crossdomain.xml$object-subrequest,domain=putpat.tv|tape.tv
 @@||nuggad.net/rc?nuggn=$script,domain=4players.de
+@@||odillees.de^$document,subdocument,domain=gamona.de
 @@||onlinetvrecorder.com/adcodes/?$subdocument
 @@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
 @@||onlinetvrecorder.com/buyclicks/weasel.php$document
