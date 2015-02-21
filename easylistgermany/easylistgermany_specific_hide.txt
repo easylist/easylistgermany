@@ -1748,6 +1748,7 @@ blogprojekt.de##.post > div[style="margin-left: 10px;"] > div[style="clear:both;
 movie-blog.org##.post a[href^="http://movie-blog.org/"]
 movie-blog.org##.post a[target="_blank"][href$=".movie-blog.org"]
 movie-blog.org##.post p > a[target="_blank"][href*=".movie-blog.org/"]
+ak-kurier.de##.post td[valign="top"] > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > td > a[target="_blank"] > img
 radio1.ch##.post-box-middle-anzeige
 wallstreet-online.de##.posting + div[style="width:860px;"]
 dokus.to##.prc
@@ -1855,7 +1856,7 @@ lokalisten.de##.skyScraper
 t-online.de##.skybannerWrapper
 internet-sms.com##.skybg
 spiele-kostenlos-online.de##.skycraper
-auto-motor-und-sport.de,buffed.de,bvb.de,chat4free.de,dmax.de,dynamo-dresden.de,erotikchat4free.de,freechat.de,gamesaktuell.de,genderblog.de,gentleman-blog.de,kanu.de,magistrix.de,nonstopnews.de,pcaction.de,pcgames.de,spielefilmetechnik.de,spielen.de,swoodoo.com,techno4ever.fm,tsv1860.de,videogameszone.de##.skyscraper
+ak-kurier.de,auto-motor-und-sport.de,buffed.de,bvb.de,chat4free.de,dmax.de,dynamo-dresden.de,erotikchat4free.de,freechat.de,gamesaktuell.de,genderblog.de,gentleman-blog.de,kanu.de,magistrix.de,nonstopnews.de,pcaction.de,pcgames.de,spielefilmetechnik.de,spielen.de,swoodoo.com,techno4ever.fm,tsv1860.de,videogameszone.de##.skyscraper
 fettspielen.de##.skyscraper-container
 b2run.de##.skyscraperContainer
 kidszone.de##.skyscraper_background
@@ -2605,6 +2606,7 @@ lintorfer.eu##a[target="_blank"][href^="https://bankingportal.sparkasse-hrv.de"]
 boerse.bz##a[target="_blank"][href^="https://hide.io/?"][href*="&utm_medium=banner&"]
 mov-world.net##a[target="_blank"][href^="https://www.oboom.com/#"]
 schachbund.de##a[target="_blank"][href^="system/modules/banner/public/conban_clicks.php?bid="] > img
+ak-kurier.de##a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/pic/"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 rtl.de##a[target="_self"][href="http://partnersuche.rtl.de/"]
 rtl.de##a[target="_self"][href="http://rechtsberatung.rtl.de"]
