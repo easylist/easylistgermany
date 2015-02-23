@@ -1692,6 +1692,7 @@ urlauburlaub.at##.newsitem
 pc-magazin.de##.newsletterTeaser
 dslteam.de##.newstxt > table[cellspacing="0"][cellpadding="0"][border="0"][align="right"][width="308"]
 onlinekosten.de##.newstxt > table[width="308"][cellspacing="0"][cellpadding="0"][border="0"][align="right"]
+beichthaus.com##.no > a[href^="http://bit.ly/"]
 mikrocontroller.net##.noprint > div[style] + div[style] > script:first-child + div[style]:last-child
 mikrocontroller.net##.noprint > div[style] > div[id]:last-child > div[style]
 versicherungsjournal.at,versicherungsjournal.de##.norm-lsp-wbox
