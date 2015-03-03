@@ -2124,6 +2124,7 @@
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Anti-Adblock
 .de/test/*.html$subdocument,domain=gamona.de
+|http://*.de^*.$subdocument,third-party,domain=gamona.de
 ||2mdn.net/videoplayback/$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 ||astronews.com^*_6.js
 ||csgo.99damage.de/wp-content/$image
