@@ -1542,6 +1542,7 @@ livingathome.de##.heftBox[style="padding-left:0px;margin-left:0px;padding-bottom
 transfermarkt.de##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
 deutsche-startups.de##.highlighted.squares
 moviebb.to##.highspeed_button
+technic3d.com##.home > footer[style="bottom: -105px;"]:last-child > div:first-child
 tarnkappe.info##.home-bottom > #text-36
 tarnkappe.info##.home-middle > #text-10
 tarnkappe.info##.home-middle > #text-18
@@ -1567,6 +1568,7 @@ autoline-eu.at,autoline-eu.ch,autoline.de##.index-main-banners
 hornoxe.com##.infobox + .navigation + [align="center"] + .box-grey
 netzwelt.de##.informative[style="padding-left:5px; padding-right:5px; height: 438px;"]
 netzwelt.de##.informative[style="padding-left:5px; padding-right:5px;"]
+technic3d.com##.infscroll > .rcolumn2[style="text-align: center; height: 250px;"]
 quoka.de##.inner > #RelatedAdsList + .yui3-g
 blur.ws##.inner > .pefb
 ultras.ws##.inner:first-child:last-child > .corners-top:first-child + .topiclist + div[style="padding: 5px 5px 2px 5px; font-size: 1.1em; background-color: #ECF1F3; margin: 0px auto; text-align: center;"]
@@ -1597,7 +1599,7 @@ chemnitzerfc.de##.lay_banner_teaser2
 games.ch##.layer
 1a-order.de,hoh.de##.lb_skyscraper
 ichspiele.cc##.leader
-airgamer.de,auto-motor-und-sport.de,billig-flieger-vergleich.de,buffed.de,de.de,gamesaktuell.de,gamezone.de,meteovista.de,pcaction.de,pcgames.de,pcgameshardware.de,spielefilmetechnik.de,spielen.de,trailerzone.info,videogameszone.de##.leaderboard
+airgamer.de,auto-motor-und-sport.de,billig-flieger-vergleich.de,buffed.de,de.de,gamesaktuell.de,gamezone.de,meteovista.de,pcaction.de,pcgames.de,pcgameshardware.de,spielefilmetechnik.de,spielen.de,technic3d.com,trailerzone.info,videogameszone.de##.leaderboard
 istream.ws##.leaderboard2
 lkz.de##.left > .content[style="min-height:100px"]
 au-ja.de##.leftADB
@@ -2028,6 +2030,7 @@ wn.de##.wn_sp_banner
 azonline.de,mv-online.de,wn.de##.wn_spo_banner
 goyax.de##.wpad
 linkbase.in##.wrap > div[style="padding: 10px; margin: 10px; -moz-border-radius: 5px 5px 5px 5px; -moz-box-shadow: 0px 0px 10px rgb(0, 0, 0); text-align: center; font-size: 18px; background-color: rgb(102, 160, 0); opacity: 0.45; border: 1px solid rgb(68, 187, 68);"]
+technic3d.com##.wrap > footer[style="bottom: -260px;"]:last-child > div:first-child
 mobile.de##.wrapper-d-06-rect_de
 wetter.de##.wrapper-halfpage
 wetter.de##.wrapper-rectangle
