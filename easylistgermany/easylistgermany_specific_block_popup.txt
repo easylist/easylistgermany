@@ -25,6 +25,7 @@
 ||amazon.de/s/?*&tag=$popup,domain=chillmo.com
 ||amazon.de^*&tag=$popup,domain=gamona.de
 ||amazon.de^*&tag=bluray18-21&$popup,domain=bluray-disc.de
+||amazon.de^*/ref=*&tag=$popup,domain=bluray-disc.de
 ||amazon.de^*^tag=$popup,domain=wetteronline.de
 ||atomload.at/out.php$popup
 ||atomload.to/load.php$popup
