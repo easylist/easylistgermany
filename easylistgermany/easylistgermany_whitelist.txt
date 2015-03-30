@@ -428,7 +428,7 @@
 @@|http://*.com^$image,third-party,domain=gamona.de
 @@|http://*.de/$script,third-party,domain=prad.de
 @@|http://*.de^$image,third-party,domain=gamona.de
-@@|http://*.net^$image,third-party,domain=gamona.de
+@@|http://*.net^$image,third-party,domain=gamona.de|pcwelt.de
 @@|http://*.php*?*&$object-subrequest,third-party,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@|http://*.php?*&$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@|http://*@$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
