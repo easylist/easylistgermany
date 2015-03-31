@@ -411,8 +411,8 @@
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|gutscheindoktor.de|notenbuch24.de|preismafia.com
 @@||zanox.com/images/programs/$domain=sunsteps.org
 !
-4wheelfun.de,auto-motor-und-sport.de,autostrassenverkehr.de,boerse-online.de,fem.com,finanzen.net,focus.de,gamestar.de,itectale.de,kabeleins.de,lustich.de,motor-klassik.de,pcwelt.de,prosieben.de,prosiebenmaxx.de,sat1.de,sat1gold.de,sixx.de,sportauto.de,stern.de,the-voice-of-germany.de,tvspielfilm.de,wetter.com,wetteronline.de#@#.wingadblock
-@@/ad_data/*$image,match-case,domain=4wheelfun.de|auto-motor-und-sport.de|autostrassenverkehr.de|boerse-online.de|fem.com|finanzen.net|focus.de|gamestar.de|itectale.de|kabeleins.de|lustich.de|motor-klassik.de|pcwelt.de|prosieben.de|prosiebenmaxx.de|sat1.de|sat1gold.de|sixx.de|sportauto.de|stern.de|the-voice-of-germany.de|tvspielfilm.de|wetter.com|wetteronline.de
+4wheelfun.de,auto-motor-und-sport.de,autostrassenverkehr.de,boerse-online.de,fem.com,finanzen.net,focus.de,gala.de,gamestar.de,itectale.de,kabeleins.de,lustich.de,motor-klassik.de,pcwelt.de,prosieben.de,prosiebenmaxx.de,sat1.de,sat1gold.de,sixx.de,sportauto.de,stern.de,the-voice-of-germany.de,tvspielfilm.de,wetter.com,wetteronline.de#@#.wingadblock
+@@/ad_data/*$image,match-case,domain=4wheelfun.de|auto-motor-und-sport.de|autostrassenverkehr.de|boerse-online.de|fem.com|finanzen.net|focus.de|gala.de|gamestar.de|itectale.de|kabeleins.de|lustich.de|motor-klassik.de|pcwelt.de|prosieben.de|prosiebenmaxx.de|sat1.de|sat1gold.de|sixx.de|sportauto.de|stern.de|the-voice-of-germany.de|tvspielfilm.de|wetter.com|wetteronline.de
 ! Anti-Adblock
 @@.com^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.gif#$domain=java-forum.org|loads7.com|schweizer-abgeltungssteuer.ch|startup-connection.de
