@@ -1285,6 +1285,8 @@ readmore.de##.block[href^="http://www.amazon.de/"][href*="tag=readmore-21"]
 moviez.to##.bonus
 echo-online.de##.bottom-buttons
 aerzteblatt.de##.bottomBanner
+pcwelt.de##.box .holder[target="_blank"][href^="http://rover.ebay.com/rover/"]
+pcwelt.de##.box .holder[target="_blank"][href^="http://www.amzn.to/"]
 porn2you.org##.box-content + .box-info
 sportnews.bz##.box-fullbanner
 porn2you.org##.box-note + .box-content + .box-line
