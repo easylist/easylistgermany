@@ -16,7 +16,7 @@
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
 @@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|brokencomedy.de|bundesliga.de|gamepro.de|gamestar.de|myvideo.de|n24.de|netzwelt.de|prosieben.de|sport1.fm
-@@||ad.71i.de/global_js/Sites/$script,domain=|brokencomedy.de|gamepro.de|n24.de|netzwelt.de|sport1.fm
+@@||ad.71i.de/global_js/Sites/$script,domain=brokencomedy.de|gamepro.de|n24.de|netzwelt.de|sport1.fm
 @@||ad.71i.de/images/fallback/video/1_sek.mp4$domain=netzwelt.de
 @@||ad.adworx.at/crossdomain.xml$object-subrequest
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
@@ -589,7 +589,6 @@
 @@||eltelmis.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||energielupe.de^$elemhide
 @@||ethnarc.de^$document,subdocument,domain=gamona.de|lustich.de
-@@||ethnarc.de^$image,domain=gamona.de
 @@||ethnarc.de^$script,domain=gamona.de|lustich.de
 @@||europalupe.eu^$elemhide
 @@||exoclick.com/ads-iframe-display.php?*&type=300x250&$subdocument,domain=board.world-of-hentai.to
@@ -732,7 +731,6 @@
 @@||sozialrechtsnews.de^$elemhide
 @@||spiegel.tv^$elemhide
 @@||startup-connection.de^$elemhide
-@@||starwars.gamona.de^$image,domain=gamona.de
 @@||starwars.gamona.de^*_*/*.png
 @@||steuerschmiede-aktuell.de^$elemhide
 @@||streamit.ws^$elemhide

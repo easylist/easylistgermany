@@ -852,7 +852,6 @@ pinksugar-kessy.de###sidebar_right > #HTML9
 navisys.de###sidebox108
 horseweb.de###sidelist > ul:last-child
 motorline.cc###sideteaser
-derstandard.at###silverlightControlHost
 playporn.to###simplemodal-login-form + * + * + div[id][style]
 browsergames.de###site-banner-middle
 fck.de###site_overlay_wrapper
@@ -1022,8 +1021,6 @@ micky-maus.de###wrapper-1 > #extra1[style="padding-left: 108px;"]
 scdhfk-handball.de###wrapper_SWL
 n-tv.de###wrapper_content > div[style="height: 120px;"]:first-child
 goolive.de###wrapper_margins > .wallpaper
-derstandard.at###wsj-feed
-derstandard.at###wsj-teaser
 firstload.us###x36d
 pocketpc.ch###xxParentDivForWerbPostbit
 euronics.de###xxl_master_top_banner_container
@@ -1071,7 +1068,6 @@ onvista.de##.SKYSCRAPER
 aol.de##.SLL
 fcbayern.telekom.de##.SectionPresenting
 charivari.de##.Skyscraper_Slot
-derstandard.at##.SponsorCFrame
 buerschgens.de##.SponsorFuss
 t-online.de##.TFlashPlayer[style="height:200px; width:300px;"]
 rtl.de##.T_partner
@@ -1612,7 +1608,6 @@ lkz.de##.left > .content[style="min-height:100px"]
 au-ja.de##.leftADB
 au-ja.de##.leftADV
 taketv.net##.leftbanner
-wetteronline.de##.leftflow + style + div[class] + div[class]
 bunte.de##.li_imageteaser_row_typ3
 mov-world.net##.link .archive.online[target="_blank"]
 handballecke.de##.linkEmpfehlungen
@@ -2668,7 +2663,6 @@ astronews.com##body > table[style="width: 750px"]
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
 acer-userforum.de##body > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"]:first-child > tbody:first-child:last-child > tr:first-child:last-child > td[width="195px"][valign="top"]:first-child
 schoener-fernsehen.com##body[allowfullscreen="true"][style="-moz-box-sizing: border-box; width: 100%; height: 100%; overflow: hidden;"] > iframe[id][class][scrolling="auto"][frameborder="0"][allowtransparency="true"][src^="http://schoener-fernsehen.com/"] + [id][class]
-schoener-fernsehen.com##body[msallowfullscreen="true"][webkitallowfullscreen="true"][mozallowfullscreen="true"][allowfullscreen="true"][data-twttr-rendered="true"][style="box-sizing: border-box; width: 100%; height: 100%; overflow: hidden;"]:last-child > div[id][class] + iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class] + iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class]
 schoener-fernsehen.com##body[msallowfullscreen="true"][webkitallowfullscreen="true"][mozallowfullscreen="true"][allowfullscreen="true"][data-twttr-rendered="true"][style] > iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class]
 rtl.de##button[onclick^="verivox_go("]
 rsd-store.com##button[onclick^="visitPartner("]
@@ -3266,7 +3260,6 @@ nr-kurier.de##td[valign="top"]:first-child + td[width="1"][background="images/ab
 sk-austriakaernten.at##td[valign="top"][height="38"][bgcolor="#231f20"][align="center"]:first-child:last-child > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"]:first-child:last-child
 plz-postleitzahl.de##td[valign="top"][style="padding-left: 15px;"] > table[width="250"][cellspacing="0"][cellpadding="0"]:first-child
 ultras.ws##td[valign="top"][style="width: 85%"]:last-child > br:first-child + center > h2:first-child
-ak-kurier.de##td[width="100%"][align="center"] > a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/pic/"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##td[width="100%"][align="center"] > a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/upload/"]
 astrotreff.de##td[width="100%"][align="center"] > hr[size="1"][color="#8482A5"] + table[cellspacing="0"][cellpadding="10"][border="0"][bgcolor="#000040"]
 kidsweb.de##td[width="115"][valign="top"][bgcolor="#FFFFCC"]:last-child > div[align="left"] > div[align="center"]
@@ -3285,7 +3278,6 @@ feiertage.net##td[width="25%"][valign="top"] > table[width="271"][cellspacing="0
 tvmatrix.at,tvmatrix.de,tvmatrix.eu,tvmatrix.net##td[width="300"][height="250"]
 teltarif.de##td[width="300"][valign="top"] > .tetable + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
 astrotreff.de##td[width="33%"][valign="middle"][align="center"] > a[target="_blank"][href^="/links/wechlink.asp?ID="] > img
-ak-kurier.de##td[width="55%"][align="center"] > a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/pic/"]
 leo.de##td[width="55%"][valign="middle"][style="background-color:#ffffee;text-align:center;"]
 tvmatrix.at,tvmatrix.de,tvmatrix.eu,tvmatrix.net##td[width="728"][height="90"]
 land-der-traeume.de##td[width="730"] + td[align="center"]
