@@ -1048,7 +1048,7 @@ aero.de##.add_balken
 tes-5-skyrim.de##.addleft
 oxygen-scene.com##.adoxygen
 baronbuff.de##.adp_pls
-20min.ch,250kb.de,app-kostenlos.de,arbeitszeugnisgenerator.de,bild.de,channelpartner.de,eintracht.de,erdbeerlounge.de,fischkopf.de,focus.de,giga.de,helpster.de,israelnetz.com,mtv.de,playmassive.de,tageblatt.lu,tecchannel.de,tus-n-luebbecke.de,worldofminecraft.eu,zdnet.de##.ads
+20min.ch,250kb.de,app-kostenlos.de,arbeitszeugnisgenerator.de,bild.de,channelpartner.de,dhb.de,eintracht.de,erdbeerlounge.de,fischkopf.de,focus.de,giga.de,helpster.de,israelnetz.com,mtv.de,playmassive.de,tageblatt.lu,tecchannel.de,tus-n-luebbecke.de,worldofminecraft.eu,zdnet.de##.ads
 psychic.de##.ads5
 wetter.com##.adsTitle
 sdf.bz.it##.ads_content
@@ -1856,6 +1856,7 @@ saz-aktuell.com##.textadul
 et-tutorials.de##.textwidget > div[style="background-color: #FFFFFF; color:#000000; "]
 teltarif.de##.tgtLink[style="color:#CCCCCC;margin:10px 0 2px 0"]
 teltarif.de##.tgtLink[style="width:100%;text-align:left;border-spacing:0;margin-bottom:5px"]
+dhb.de##.three.columns > #c22 + .pslider
 t-online.de##.tl_anz-pos1
 sunshine-live.de##.top
 kleiderkreisel.de##.top-banner
