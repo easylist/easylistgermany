@@ -423,7 +423,7 @@
 @@||boerse-online.de^$elemhide
 @@||brigitte.de^$elemhide
 @@||brigitte.de^$image,domain=brigitte.de
-@@||builfico.de^$image,domain=itectale.de|uobsoe.com
+@@||builfico.de^$image,domain=dywolfer.de|itectale.de|uobsoe.com
 @@||cuiron.de^$image,domain=4wheelfun.de|auto-motor-und-sport.de|autostrassenverkehr.de|boerse-online.de|brigitte.de|fem.com|finanzen.net|focus.de|gala.de|gamepro.de|gamestar.de|gamona.de|itectale.de|kabeleins.de|lustich.de|motor-klassik.de|pcwelt.de|prosieben.de|prosiebenmaxx.de|sat1.de|sat1gold.de|sixx.de|sportal.de|sportauto.de|stern.de|the-voice-of-germany.de|tvspielfilm.de|wetter.com|wetteronline.de
 @@||cussixia.de^$image,domain=4wheelfun.de|auto-motor-und-sport.de|autostrassenverkehr.de|boerse-online.de|brigitte.de|fem.com|finanzen.net|focus.de|gala.de|gamepro.de|gamestar.de|gamona.de|itectale.de|kabeleins.de|lustich.de|motor-klassik.de|pcwelt.de|prosieben.de|prosiebenmaxx.de|sat1.de|sat1gold.de|sixx.de|sportal.de|sportauto.de|stern.de|the-voice-of-germany.de|tvspielfilm.de|wetter.com|wetteronline.de
 @@||digentu.de^$image,domain=4wheelfun.de|auto-motor-und-sport.de|autostrassenverkehr.de|boerse-online.de|brigitte.de|fem.com|finanzen.net|focus.de|gala.de|gamepro.de|gamestar.de|gamona.de|itectale.de|kabeleins.de|lustich.de|motor-klassik.de|pcwelt.de|prosieben.de|prosiebenmaxx.de|sat1.de|sat1gold.de|sixx.de|sportal.de|sportauto.de|stern.de|the-voice-of-germany.de|tvspielfilm.de|wetter.com|wetteronline.de
@@ -492,7 +492,6 @@
 @@||wetteronline.de^$elemhide
 @@||wetteronline.de^$image,domain=wetteronline.de
 @@||www.sportal.de^$image,domain=sportal.de
-|http://*.de/$subdocument,third-party,domain=4wheelfun.de|auto-motor-und-sport.de|autostrassenverkehr.de|boerse-online.de|brigitte.de|fem.com|finanzen.net|focus.de|gala.de|gamepro.de|gamestar.de|gamona.de|itectale.de|kabeleins.de|lustich.de|motor-klassik.de|pcwelt.de|prosieben.de|prosiebenmaxx.de|sat1.de|sat1gold.de|sixx.de|sportal.de|sportauto.de|stern.de|the-voice-of-germany.de|tvspielfilm.de|wetter.com|wetteronline.de
 ! Anti-Adblock
 @@.com^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.gif#$domain=java-forum.org|loads7.com|schweizer-abgeltungssteuer.ch|startup-connection.de
