@@ -411,7 +411,7 @@
 @@||zanox.com/images/programs/$domain=sunsteps.org
 !
 @@|http://*.com/$image,third-party,domain=4wheelfun.de|auto-motor-und-sport.de|autostrassenverkehr.de|boerse-online.de|brigitte.de|fem.com|finanzen.net|focus.de|gala.de|gamepro.de|gamestar.de|gamona.de|itectale.de|kabeleins.de|lustich.de|motor-klassik.de|pcwelt.de|prosieben.de|prosiebenmaxx.de|sat1.de|sat1gold.de|sixx.de|sportal.de|sportauto.de|stern.de|the-voice-of-germany.de|tvspielfilm.de|wetter.com|wetteronline.de
-@@|http://*.de/$image,domain=dywolfer.de
+@@|http://*.de/$image,domain=dywolfer.de|idoliga.de
 @@|http://*.de/$image,third-party,domain=4wheelfun.de|auto-motor-und-sport.de|autostrassenverkehr.de|boerse-online.de|brigitte.de|fem.com|finanzen.net|focus.de|gala.de|gamepro.de|gamestar.de|gamona.de|itectale.de|kabeleins.de|lustich.de|motor-klassik.de|pcwelt.de|prosieben.de|prosiebenmaxx.de|sat1.de|sat1gold.de|sixx.de|sportal.de|sportauto.de|stern.de|the-voice-of-germany.de|tvspielfilm.de|wetter.com|wetteronline.de
 @@|http://*.de/*/*.js|$third-party,domain=4wheelfun.de|auto-motor-und-sport.de|autostrassenverkehr.de|boerse-online.de|brigitte.de|fem.com|finanzen.net|focus.de|gala.de|gamepro.de|gamestar.de|gamona.de|itectale.de|kabeleins.de|lustich.de|motor-klassik.de|pcwelt.de|prosieben.de|prosiebenmaxx.de|sat1.de|sat1gold.de|sixx.de|sportal.de|sportauto.de|stern.de|the-voice-of-germany.de|tvspielfilm.de|wetter.com|wetteronline.de
 @@||4wheelfun.de^$elemhide
