@@ -1540,6 +1540,7 @@ mov-world.net##.link .archive.online[target="_blank"]
 handballecke.de##.linkEmpfehlungen
 kissfm.de##.links
 kicker.de##.linksebay
+giga.de##.listing + div > div[style]
 myvideo.de##.liveHeaderSponsor
 l-iz.de##.liz_Ad_468_60
 l-iz.de##.liz_Ad_sky
@@ -1757,6 +1758,7 @@ tarnkappe.info##.sidebar > #text-28
 tarnkappe.info##.sidebar > #text-6
 ploetzblog.de##.sidebar > .imglinks
 hc-empor.de##.sidebar > ul > #text-6 + #text-13 + #text-9
+giga.de##.sidebar-box > div[style="height: 316px; margin: 15px 0 20px;"]
 berriesandpassion.com,kreativfieber.de##.sidebar-right > #text-11
 kreativfieber.de##.sidebar-right > #text-6
 berriesandpassion.com##.sidebar-right > #text-9
@@ -1863,6 +1865,7 @@ saz-aktuell.com##.textadul
 et-tutorials.de##.textwidget > div[style="background-color: #FFFFFF; color:#000000; "]
 teltarif.de##.tgtLink[style="color:#CCCCCC;margin:10px 0 2px 0"]
 teltarif.de##.tgtLink[style="width:100%;text-align:left;border-spacing:0;margin-bottom:5px"]
+giga.de##.three-boxes + div > div[style]
 dhb.de##.three.columns > #c22 + .pslider
 t-online.de##.tl_anz-pos1
 sunshine-live.de##.top
@@ -2045,6 +2048,7 @@ flp.to##a[href="http://www.flp.to/download.php"]
 fm-arena.de##a[href="http://www.fm-arena.de/go_to.php?ID=103"]
 gamefront.de##a[href="http://www.gamedealer.de"]
 board.gulli.com##a[href="http://www.getdigital.de/index/gulli"]
+giga.de##a[href="http://www.giga.de/go/jinw"]
 gulli.com##a[href="http://www.gulli.com/internet/chrome"]
 gulli.com##a[href="http://www.gulli.com/internet/chrome"] + h2 + p
 gulli.com##a[href="http://www.gulli.com/internet/chrome"] + p
@@ -2578,6 +2582,7 @@ bildderfrau.de,gofeminin.de##div[class^="sas_FormatID_"]
 car.de##div[class^="wrb-"]
 chip.de##div[data-adzone="contentad-afc-main"]
 chip.de##div[data-adzone="contentad-storyad-afc"]
+giga.de##div[data-click-url="http://www.giga.de/go/jimr"]
 amazon.de##div[id$="_adcontent"]
 0o2.de##div[id$="spbox"]
 vol.at##div[id^="AdContainer_"]
