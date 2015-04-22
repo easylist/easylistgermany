@@ -264,7 +264,7 @@ oxygen-scene.com###content > .board_message
 netzwelt.de###content > .two-thirds > div[style="margin: 10px; margin-left: 0px;"]
 netzwelt.de###content > .two-thirds > div[style="margin: 10px;"]
 movie-blog.org###content > div[class] > div[class] > div > div > a[href^="http://movie-blog.org/"]
-lesen.to###content > font[color="red"] > h2
+hoerbuch.us,lesen.to###content > font[color="red"] > h2
 onlinereports.ch###content-banner1
 onlinereports.ch###content-banner3
 trendhure.com###content-left > a[target] > img
@@ -2230,6 +2230,7 @@ web.de##a[href^="http://magazine.web.de/de/themen/digitale-welt/usenext/"]
 gegenmuedigkeit.de##a[href^="http://marketingnow.de/go/"]
 g-stream.in,playporn.to,pornkino.to,xxx-blog.to##a[href^="http://media.campartner.com/"]
 freenet.de##a[href^="http://media.mybet.com/redirect.aspx?pid="]
+hoerbuch.us##a[href^="http://megacache.net/free"]
 eierkraulen.net,serienjunkies.org##a[href^="http://mein-deal.com/"]
 dokujunkies.org##a[href^="http://mirror."]
 moviebox.to##a[href^="http://mirror.moviebox.to"]
@@ -2861,6 +2862,7 @@ serienjunkies.org##form[action="http://mirror.serienjunkies.org"]
 t-online.de##form[action="http://stromvergleich.t-online.de/strom.php"]
 xxx-blog.to##form[action="http://xxx-blog.to/mirror.php?download=highspeed"]
 rtl.de##form[action^="http://altfarm.mediaplex.com/"]
+hoerbuch.us##form[action^="http://www.FriendlyDuck.com/AF_"] > #mirror
 ddl-search.biz##form[action^="http://www.affaire.com/"]
 serienjunkies.org,wiiu-reloaded.com##form[action^="http://www.firstload.com/affiliate/"]
 lesen.to,private-blog.org##form[action^="http://www.firstload.de/affiliate/"]
