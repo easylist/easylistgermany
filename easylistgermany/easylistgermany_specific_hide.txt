@@ -1327,7 +1327,6 @@ klassikradio.de##.cssmedia[height="125"][width="288"]
 rimparerhandballer.de##.custom > .adv_slideshowTable
 lounge.fm##.custom-sponsor
 mobile.de##.d-05-opromo_de
-filecrypt.cc##.da
 filecrypt.cc##.da button[\"]
 winload.de##.darklayer
 3dl.tv##.ddl-mirnor-box.button[target="_blank"][href*=".3dl.tv/"][href*="="]
@@ -2441,6 +2440,7 @@ borussia.de##a[id^="logo_sponsor"]
 ixquick.de##a[id^="sptitle"]
 ixquick.de##a[id^="spurl"]
 gaming-insight.de##a[id^="takeoverlink"]
+filecrypt.cc##a[onclick$="', this);"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=")"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=");"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick][href$="#"] > img[src^="/"]
@@ -2559,7 +2559,6 @@ rtl.de##button[onclick^="verivox_go("]
 rsd-store.com##button[onclick^="visitPartner("]
 g-stream.in##button[onclick^="window.open('http://g-stream.in/mirror/"]
 g-stream.in##button[onclick^="window.open('http://www.g-stream.in/mirror"]
-filecrypt.cc##button[onmousedown$="', this);"]
 hornoxe.com##center > a[target="_blank"][href^="http://amzn.to/"] > img
 repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
 englische-briefe.de##center > table[width="574"][cellspacing="0"][cellpadding="0"][border="0"]
@@ -3019,6 +3018,7 @@ doku.me##script + table[width="700"][height="600"]
 tv-stream.to##script[src^="/"] + div > div[id][style]
 g-stream.in##script[type="text/javascript"] + div[class] + script[type="text/javascript"] + *
 g-stream.in##script[type="text/javascript"] + div[class] + script[type="text/javascript"] + * + *
+filecrypt.cc##span > button[onclick$="', this);"]
 schwartau-handball.de##span[style="font-size: 14px; color: #000000; background-color: #ccffcc;"]
 finanznachrichten.de##span[title="BOTSWANA METALS Aktie jetzt ab 2,99 Euro handeln! (LYNX)"]
 schwartau-handball.de##table[align="left"][style="border: 0px solid #87ceeb; height: 300px; width: 300px;"]
