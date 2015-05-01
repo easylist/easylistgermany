@@ -3021,6 +3021,7 @@ tv-stream.to##script[src^="/"] + div > div[id][style]
 g-stream.in##script[type="text/javascript"] + div[class] + script[type="text/javascript"] + *
 g-stream.in##script[type="text/javascript"] + div[class] + script[type="text/javascript"] + * + *
 filecrypt.cc##span > button[onclick$="', this);"]
+filecrypt.cc##span[onclick$="', this);"][href="javascript:;"]
 schwartau-handball.de##span[style="font-size: 14px; color: #000000; background-color: #ccffcc;"]
 finanznachrichten.de##span[title="BOTSWANA METALS Aktie jetzt ab 2,99 Euro handeln! (LYNX)"]
 schwartau-handball.de##table[align="left"][style="border: 0px solid #87ceeb; height: 300px; width: 300px;"]
