@@ -573,9 +573,11 @@
 @@||feropt.de^$image,script,domain=gamona.de|lustich.de
 @@||finanzmarkttransaktionssteuer.de^$elemhide
 @@||flashtalking.com/imp/*;BMWTVTeaser220x180/?click=$script,domain=teleboerse.de
+@@||formel1.de^$elemhide
 @@||forum-fuer-senioren.de^*/ad.js
 @@||frantro.de^$document,subdocument,domain=lustich.de
 @@||free-klingeltoene-handy.de/adframe.js
+@@||fremdwort.de^$elemhide
 @@||fribre.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||fribre.de^$image,script,domain=gamona.de
 @@||fribre.de^$script,domain=lustich.de
@@ -614,6 +616,7 @@
 @@||incown.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||indalam.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||indalam.de^$script,domain=gamona.de|lustich.de
+@@||inside-handy.de^$elemhide
 @@||intectwo.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||itectale.de^$document,subdocument,domain=gamona.de
 @@||ivwbox.de^*#$image,domain=lustich.de
@@ -646,6 +649,7 @@
 @@||mename.de^$script,domain=gamona.de|lustich.de
 @@||mirror-archiv.com/banner/ads/adserver/click/ad.js
 @@||mobilfunk-geschichte.de^$elemhide
+@@||motorsport-total.com^$elemhide
 @@||mufa.de/js/advertisement.js
 @@||mutterschutz-rechner.de^$elemhide
 @@||mypolonia.de^*/adframe.js
