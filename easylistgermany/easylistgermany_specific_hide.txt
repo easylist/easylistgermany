@@ -1968,7 +1968,7 @@ german-bash.org##.zitat > div[style="width:300px;"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
-filecrypt.cc##[onclick$="', this);"]
+filecrypt.cc##[onclick$="', this);"][href="javascript:;"]
 forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 100px; left: 550px; empty-cells: hide;"]
 ebook-hell.to##[width="620"][bordercolor="#808080"] td[height="60"][align="CENTER"] > a > img
 sat-erotik.de##[width="800"][cellspacing="0"][cellpadding="4"][border="0"]
@@ -3103,6 +3103,7 @@ heise.de##td[align="left"][valign="top"][rowspan="5"]
 ak-kurier.de,ww-kurier.de##td[background="images/abstand1.gif"][width="1"] + td[width="180"][valign="top"]:last-child
 ixquick.de##td[bgcolor="#f7f9ff"]
 englische-briefe.de##td[colspan="3"] > table[width="769"][cellpadding="4"]
+filecrypt.cc##td[colspan="4"] > [onclick$="', this);"]
 dxtv.de,dxtv.eu,satbook.de##td[height="100%"][width="60%"][bgcolor="#FFFFFF"][align="right"]
 marcus-klein.de##td[height="148"] > table[width="800"][border="0"][align="center"][cellspacing="0"][cellpadding="0"]
 weltuntergang-2012.de##td[height="160"][width="297"][valign="top"]:first-child + td[width="263"]:last-child
