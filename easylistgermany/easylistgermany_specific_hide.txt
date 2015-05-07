@@ -3200,9 +3200,12 @@ prosieben.de##div#container > div:not(#main):not(#site_footer)
 gamestar.de##div#header ~ div:not(#lbSpacer):not(.centeredDiv):not(#foot):not(#footBtm)
 prosieben.de##div#left-zone > div:not([id^="container_left_"])
 prosieben.de##div#main > div:not(#top-zone):not(#left-zone):not(#aside-zone):not(#bottom-zone)
+stern.de##div#page > div:not(#MenuEvent):not(#main):not(#footer)
 focus.de##div#page-container > div:not(#main):not(#mediaBar):not(#ressortTeaser):not(#footerTicker)
 focus.de##div#page-container ~ div:not(#footerv2-head):not(#footerv2-frame)
 focus.de##div#sidebar > div:not(.block)
 gamestar.de##div.columnTeaser > div:not(.teaserRight)
 pcwelt.de##div.comments-block ~ *
+stern.de##div.moduleM ~ div:not(.moduleM)
+stern.de##div[id^="snippet_politik_col1_"] ~ div
 pcwelt.de##header#header ~ :not(#main):not(#footer)
