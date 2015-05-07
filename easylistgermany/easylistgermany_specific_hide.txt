@@ -3194,4 +3194,7 @@ radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
 gamestar.de##div#header ~ div:not(#lbSpacer):not(.centeredDiv):not(#foot):not(#footBtm)
+focus.de##div#page-container > div:not(#main):not(#mediaBar):not(#ressortTeaser):not(#footerTicker)
+focus.de##div#page-container ~ div:not(#footerv2-head):not(#footerv2-frame)
+focus.de##div#sidebar > div:not(.block)
 gamestar.de##div.columnTeaser > div:not(.teaserRight)
