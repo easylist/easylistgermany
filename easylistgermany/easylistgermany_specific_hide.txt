@@ -1568,6 +1568,7 @@ svs-seligenporten.de##.main_sponsor
 eeepc.de##.mainpage > .tableinborder[cellspacing="1"][cellpadding="1"][border="0"][style="width: 96%"]
 welt.de##.marginalTeaser
 gamepro.de,gamestar.de##.marketbox_brace
+pcwelt.de##.marketplace
 mobilfunk-talk.de##.md1
 t-online.de##.med_anz
 myvideo.de##.med_reg_box
@@ -3193,8 +3194,11 @@ ddl-warez.in##tr[style="background:#D0F5A9"]
 radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
+pcwelt.de##aside#sidebar > :not(.box)
 gamestar.de##div#header ~ div:not(#lbSpacer):not(.centeredDiv):not(#foot):not(#footBtm)
 focus.de##div#page-container > div:not(#main):not(#mediaBar):not(#ressortTeaser):not(#footerTicker)
 focus.de##div#page-container ~ div:not(#footerv2-head):not(#footerv2-frame)
 focus.de##div#sidebar > div:not(.block)
 gamestar.de##div.columnTeaser > div:not(.teaserRight)
+pcwelt.de##div.comments-block ~ *
+pcwelt.de##header#header ~ :not(#main):not(#footer)
