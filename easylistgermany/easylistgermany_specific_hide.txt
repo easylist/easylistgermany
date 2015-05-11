@@ -326,6 +326,7 @@ deutsche-mittelstands-nachrichten.de###euroconf-banner
 immobilo.de###expose-promo-links-wrapper
 spielen.com###fakebody
 newsroom.de###far_right > div[style="height:600px"]
+3dl.tv###fb-root + script + center + br + .content_box[cellspacing="1"][cellpadding="0"] > tbody:first-child:last-child
 fck.de###fck_bannerTop
 3min.de###featured_site_bg
 3min.de###featured_superbanner
@@ -1331,6 +1332,7 @@ mobile.de##.d-05-opromo_de
 winload.de##.darklayer
 3dl.tv##.ddl-mirnor-box.button[href*="="]
 3dl.tv##.ddl-mirnor-box.button[target="_blank"][href*=".3dl.tv/"][href*="="]
+3dl.tv##.ddl-mirror-box[target="blank_"]
 fail.to##.dealheader
 gesichtskirmes.net##.deals
 filmpalast.to##.detail > li > span > a
