@@ -3206,7 +3206,7 @@ prosieben.de##div#left-zone > div:not(#mobile_rectangle):not(.grid_620):not([id^
 pcwelt.de##div#main > :not(#outer)
 stern.de##div#main > div:not(#mainResidue):not(#mainTopteaser):not(#primary):not(#secondary):not(#videoCenter):not(#wrapper):not(.boxArchiveHeadline):not(.boxArchiveRow1):not(.contentXL):not(.gridColLeft):not(.gridColRight):not(.gridContentArticle):not(.gridContentRubric)
 prosieben.de##div#main > div:not(#top-zone):not(#left-zone):not(#aside-zone):not(#bottom-zone)
-stern.de##div#page > div:not(#MenuEvent):not(#main):not(#footer)
+stern.de##div#page > div:not(#MenuEvent):not(#main):not(#main-wrapper):not(#footer)
 focus.de##div#page-container > div:not(#main):not(#mediaBar):not(#ressortTeaser):not(#footerTicker)
 focus.de##div#page-container ~ div:not(#footerv2-head):not(#footerv2-frame)
 focus.de##div#sidebar > div:not(.block)
