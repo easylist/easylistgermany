@@ -3199,27 +3199,37 @@ r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
 pcwelt.de##aside#sidebar > :not(.box)
 pcwelt.de##aside#sidebar > :not(div)
+prosieben.de##body > div#container[class]
+gamestar.de##body > div.centeredDiv > div[class]:not(.content):not(.fll_100p):not(.homeContHl):not(.homeContReg):not(.homeContRegLast):not(.movieCont):not(.productHead):not(.upshighlight)
 prosieben.de##body > div:not(#container):not(#fb-root)
+stern.de##div#MenuEvent > div#top_navigation > div[id]:not(#login_logout_links)
 stern.de##div#MenuEvent > div:not(#main_navigation):not(#top_navigation):not(#top_navigation2)
 prosieben.de##div#aside-zone > div:not([id^="container_aside_"])
 prosieben.de##div#container > div:not(#main):not(#site_footer)
 focus.de##div#footerv2-head > div:not(.frame)
 gamestar.de##div#header ~ div:not(#lbSpacer):not(.centeredDiv):not(#foot):not(#footBtm)
+prosieben.de##div#left-zone > div#mobile_rectangle[class]
 prosieben.de##div#left-zone > div:not(#mobile_rectangle):not(.grid_620):not([id^="container_left_"])
 pcwelt.de##div#main > :not(#outer)
-stern.de##div#main > div:not(#mainResidue):not(#mainTopteaser):not(#primary):not(#secondary):not(#videoCenter):not(#wrapper):not(.boxArchiveHeadline):not(.boxArchiveRow1):not(.contentXL):not(.gridColLeft):not(.gridColRight):not(.gridContentArticle):not(.gridContentRubric)
+stern.de##div#main > div#mainTopteaser > div:not(#gridContentXLTop)
+pcwelt.de##div#main > div#outer > [id]:not(div):not(span)
+pcwelt.de##div#main > div#outer > div[id]:not(#twocolumns)
+stern.de##div#main > div:not(#mainResidue):not(#mainTopteaser):not(#primary):not(#secondary):not(#videoCenter):not(#wrapper):not(.boxArchiveHeadline):not(.boxArchiveRow1):not(.boxFormularHead):not(.contentXL):not(.gridColLeft):not(.gridColRight):not(.gridContentArticle):not(.gridContentRubric)
 prosieben.de##div#main > div:not(#top-zone):not(#left-zone):not(#aside-zone):not(#bottom-zone):not(#top-fixed-zone)
 stern.de##div#page > div:not(#MenuEvent):not(#main):not(#main-wrapper):not(#footer)
+focus.de##div#page-container > div#main > div:not(#catchline):not(#content):not(#sidebar):not(#teaser_slider_container):not(.teaserList-1)
 focus.de##div#page-container > div:not(#main):not(#mediaBar):not(#ressortTeaser):not(#footerTicker)
-focus.de##div#page-container ~ div:not(#footerv2-head):not(#footerv2-frame)
+focus.de##div#page-container ~ div:not(#footerv2-frame)
 focus.de##div#sidebar > div:not(.block)
 pcwelt.de##div#wrapper > div:not(.w1)
 focus.de##div.articleContent > div:not(.center):not(.clearfix):not(.leadIn):not(.mediaBlock):not(.navigation):not(.textBlock)
 gamestar.de##div.columnTeaser > div:not(.teaserRight)
 pcwelt.de##div.comments-block ~ *
-stern.de##div.moduleM ~ div:not(.moduleM)
+stern.de##div.moduleM > :not(div)
+stern.de##div.moduleM ~ div:not(.moduleM):not(.moduleMIframeTeaser)
 gamestar.de##div.navi > div:not(.home):not(.main):not([style="clear:both;"])
 focus.de##div.tft_ads
 stern.de##div[id^="snippet_politik_col1_"] ~ div
 pcwelt.de##header#header ~ :not(#footer):not(#main):not(.vbcontent)
 prosieben.de##header#site_header > :not(#main_nav)
+prosieben.de##section#main_nav > div
