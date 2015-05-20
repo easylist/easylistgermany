@@ -436,7 +436,6 @@ h-bw.de###inhalt-banner
 zensiert.to###innercontent2 > .contentcontainer + .contentfooter + br + center
 immonet.de###interhypSonder
 123recht.net###ip_content_wrapper > div[style="height: 90px;"]
-rtl-now.rtl.de###ipslidebanner
 golem.de###iqadtile4gol
 netzwelt.de###iqadtile6
 golem.de###iqadtile8gol + section
@@ -1793,7 +1792,6 @@ insidegames.ch##.skyscraper_div
 kidszone.de##.skyscraper_forum
 gameone.de##.skyscraper_wrapper
 nnz-online.de##.slide
-n-tvnow.de,rtl-now.rtl.de,rtlnitronow.de,superrtlnow.de,vox-now.de,voxnow.de##.slidebox > .height200
 load.to##.small_red
 derboersianer.com##.smalladd
 langes-forum.de##.smallfont > a[href^="http://www.ueberlaengen-shop.de/"][target="_blank"]
@@ -2508,7 +2506,6 @@ prad.de##a[target="_blank"][href^="http://links.prad.de/"]
 lesen.to##a[target="_blank"][href^="http://megacache.net/free"]
 gamereactor.de##a[target="_blank"][href^="http://openx.gamereactor.dk/adclick.php?"]
 oyox.de##a[target="_blank"][href^="http://partners.webmasterplan.com/click.asp?ref="] > img
-rtl-now.rtl.de##a[target="_blank"][href^="http://rtl-now.rtl.de/tools/count/xdot/count.php?id="]
 sms-elite.de##a[target="_blank"][href^="http://versand.sms-elite.de/www/../weiter/"]
 gamepro.de##a[target="_blank"][href^="http://www.gamepro.de/_misc/linkforward/linkforward.cfm?linkid="]
 spotlight-wissen.de##a[target="_blank"][href^="http://www.gratissoftware.de"]
@@ -2646,7 +2643,6 @@ welt.de##div[id^="w_articlecoop_"]
 schnelle-online.info##div[onclick*="'familienurlaub'"]
 gamestar.de##div[onclick^="location.href='http://www.gamestar.de/_misc/linkforward/linkforward.cfm?linkid="]
 suchen.de##div[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
-rtl-now.rtl.de,voxnow.de##div[onclick^="window.open('/tools/count/xdot/count.php?id="]
 scifi-forum.de##div[onclick^="window.open('http://ads.jinkads.com/click.php"]
 myfreefarm.de##div[onclick^="window.open('http://media.gan-online.com/www/delivery/ck.php?"]
 gameswelt.at,gameswelt.ch,gameswelt.de##div[onclick^="window.open('http://www.amazon.de/"]

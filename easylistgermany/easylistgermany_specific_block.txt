@@ -2080,16 +2080,9 @@
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Anti-Adblock
-||2mdn.net/videoplayback/$object-subrequest,domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 ||astronews.com^*_6.js
 ||csgo.99damage.de/wp-content/$image
-||d1.stern.de^*00.gif|
-||d1.stern.de^*20.gif|
-||d1.stern.de^*A0.gif|
-||d1.stern.de^*A40.gif|
 ||donnerwetter.de^*.html|$subdocument,domain=donnerwetter.de
-||doubleclick.net^$domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de|www.rtl.de|www.vox.de
-||epochtimes.de/js/chkba.js
 ||focus.de/fol.state.js
 ||focus.de/fol/fol.min024.js?
 ||focus.de/fol/pool.forjx.js
@@ -2105,14 +2098,11 @@
 ||gamona.de/wp-content/66
 ||gamona.de/wp-content/67
 ||gamona.de/wp-content/up/
-||img.lokalisten.de^$image
-||ip-ads.de^$domain=rtl-now.rtl.de|rtl2now.rtl2.de
 ||kabeleins.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
-||media.epochtimes.de/img/
 ||prosieben.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||sat1.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||sixx.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||spielen.de^$script,domain=spielen.de
 ||video.spiegel.de/flash/*.mp4$object-subrequest,domain=spiegel.tv
-||videoplaza.tv/creatives/assets/$object-subrequest,domain=clipfish.de|gmx.net|n-tv.de|n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de|web.de|www.rtl.de
+||videoplaza.tv/creatives/assets/$object-subrequest,domain=clipfish.de|gmx.net|n-tv.de|web.de|www.rtl.de
 ||wettercomassets.com/img/cms/chameleon/mediapool/thumbs/d/98/article_landingpage_keyvisual_$image
