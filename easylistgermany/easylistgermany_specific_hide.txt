@@ -1111,6 +1111,7 @@ sdx.cc##.announce_text
 biallo.de,computerbild.de,deutsche-startups.de,fremdwort.de,genderblog.de,gesetzlichekrankenkassen.de,heinertown.de,heise.de,lehrerfreund.de,medizin-netz.de,motorsport-total.com,moviejones.de,nwzonline.de,rtl.de,saarbruecker-zeitung.de,sportal.de,tweakpc.de,welt.de,wer-kennt-wen.de,zdnet.de,zeit.de##.anzeige
 motorsport-total.com##.anzeige + *
 designtagebuch.de##.anzeige-links
+designtagebuch.de##.anzeige-mittig
 tbv-lemgo.de##.anzeige2
 tbv-lemgo.de##.anzeige3
 tbv-lemgo.de##.anzeige4
@@ -1206,6 +1207,7 @@ movie-blog.org##.beitrag > div > div > a[href^="http://movie-blog.org/"]
 auto-motor-und-sport.de##.beitragsrechner_sideteaser2
 ariva.de##.bgAnzeige
 oilimperium.de##.bg_img
+designtagebuch.de##.billbo
 yelp.de##.biz-details-yla
 pc-max.de##.block-banner
 notebookinfo.de##.block-custom-teaser
