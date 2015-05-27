@@ -356,7 +356,7 @@
 @@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=deals.ebay.de|dealseu.ebay.de|pages.ebay.de
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
-@@||static-fra.de/ip/js/adcontrol/adcontrol.min.js$domain=n-tv.de|nowtv.de
+@@||static-fra.de/ip/js/adcontrol/adcontrol.min.js$domain=dooloop.tv|n-tv.de|nowtv.de
 @@||static-fra.de^*/admeta.xml?$object-subrequest
 @@||static.criteo.net/js/ld/ld.js$domain=kleinanzeigen.ebay.de
 @@||static.freenet.de/adserver/introductio.js$domain=vid.buffed.de|videos.gamesaktuell.de|videos.pcgames.de|videos.videogameszone.de
