@@ -430,6 +430,7 @@
 @@/^https?\:\/\/(?!(qs\.ivwbox\.de|qs\.ioam.de|platform\.twitter\.com|connect\.facebook\.net|de\.ioam\.de|pubads\.g\.doubleclick\.net|stats\.wordpress\.com|www\.google-analytics\.com|www\.googletagservices\.com|apis\.google\.com|script\.ioam\.de)\/)/$script,third-party,domain=gamona.de
 @@/adcode.js$domain=prad.de
 @@/qos.phtml?$object-subrequest,domain=gmx.net|golem.de|homerj.de|spiegel.tv|sueddeutsche.de|t-online.de|web.de
+@@|http://*.com/*/images/*_*.png|$third-party,domain=gamestar.de
 @@|http://*.de/$script,third-party,domain=prad.de
 @@|http://*.net^$image,third-party,domain=gamona.de|pcwelt.de
 @@|http://*.php*?*&$object-subrequest,third-party,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
@@ -610,6 +611,7 @@
 @@||hubbahotel.cc^*/advertisement.js
 @@||idlity.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||idlity.de^$script,domain=gamona.de|lustich.de
+@@||images.idgentertainment.de/images/*.jpg/$image,domain=gamestar.de
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
 @@||img.lokalisten.de/img/giftshop/$image
 @@||img.lokalisten.de/lokiimg/lokalisten/picturefeed/$image
@@ -618,6 +620,7 @@
 @@||incown.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||indalam.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||indalam.de^$script,domain=gamona.de|lustich.de
+@@||inforts.de^$document,subdocument,domain=gamestar.de
 @@||inside-handy.de^$elemhide
 @@||intectwo.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||itectale.de^$document,subdocument,domain=gamona.de
