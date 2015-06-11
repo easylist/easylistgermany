@@ -1181,6 +1181,7 @@
 ||movie-blog.org/smoozed/
 ||movie-blog.org/smozed/
 ||movie-blog.org^*.php|$script
+||movie-blog.org^*/banner/
 ||movie-blog.org^*/stargames.js
 ||movie-blog.org^*/starlay.js
 ||movie-stream.to/do.php
