@@ -478,7 +478,7 @@
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
 @@||altfarm.mediaplex.com/ad/js/*?mpt=*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
 @@||alysson.de^$document,subdocument,domain=gamona.de
-@@||amazonaws.com^$image,domain=formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com
+@@||amazonaws.com^$domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|seniorbook.de
 @@||amazonaws.com^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@||amgdgt.com/ads?$object-subrequest,domain=clipfish.de
 @@||apmebf.com/ad/js/*&mpvc=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
@@ -727,7 +727,7 @@
 @@||teleskipp.de/jump/www/delivery/ajs.php?zoneid=$script,domain=mv-spion.de
 @@||tiervermittlung.de/adblock.js
 @@||tiervermittlung.de/advertisement.js
-@@||tisoomitech.com/images/ad-image.png$domain=formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com
+@@||tisoomitech.com/images/ad-image.png$domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|seniorbook.de
 @@||tisoomitech.com^$image,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|seniorbook.de
 @@||tobinsteuer.de^$elemhide
 @@||tower-defense-spiele.de/wp-content/themes/Denver/js/ads.js
