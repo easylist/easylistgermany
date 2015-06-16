@@ -652,6 +652,7 @@
 @@||mediationslupe.de^$elemhide
 @@||medienrechtsnews.de^$elemhide
 @@||mename.de^$document,subdocument,domain=gamona.de|lustich.de
+@@||mename.de^$image,domain=gamona.de
 @@||mename.de^$script,domain=gamona.de|lustich.de
 @@||mirror-archiv.com/banner/ads/adserver/click/ad.js
 @@||mobilfunk-geschichte.de^$elemhide
@@ -699,6 +700,7 @@
 @@||schuetzenrecht.de^$elemhide
 @@||schulzeux.de/js/show_ads.js
 @@||schweizer-abgeltungssteuer.ch^$elemhide
+@@||servote.de^$document,subdocument,domain=gamona.de
 @@||sevenads.net/images/v4/white_logo.png$domain=uploaded-premium.ru
 @@||sevenads.net/layer.php?p=$script,domain=uploaded-premium.ru
 @@||sevenads.net^*/close.png$domain=uploaded-premium.ru
@@ -739,6 +741,7 @@
 @@||ul-load.com/ads.js
 @@||ul-load.com^$elemhide
 @@||umweltlupe.de^$elemhide
+@@||uobsoe.com^$image,domain=gamona.de
 @@||uploaded-premium.ru^$elemhide
 @@||uploaded-premium.ru^$script
 @@||vereinslupe.de^$elemhide
