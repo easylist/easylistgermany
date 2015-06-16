@@ -500,6 +500,7 @@
 @@||cas.criteo.com/delivery/afr.php?zoneid=$subdocument,domain=netzkino.de
 @@||cas.criteo.com/delivery/ajs.php?zoneid=$script,domain=mufa.de
 @@||cdn.flashtalking.com/xre/*/js/j-*.js$domain=teleboerse.de
+@@||cgames.de^$image,domain=gamestar.de
 @@||chat.lycos.de/adimages/$subdocument
 @@||cloudfront.net^$image,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|seniorbook.de
 @@||cloudfront.net^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
@@ -721,6 +722,7 @@
 @@||steuerschmiede-aktuell.de^$elemhide
 @@||streamit.ws^$elemhide
 @@||sudoku-space.de^$script
+@@||syncedia.de^$document,subdocument,domain=gamestar.de
 @@||tape.tv/js/adblockdetection.js
 @@||tape.tv^$elemhide
 @@||teamspeak-ts.com^$elemhide
