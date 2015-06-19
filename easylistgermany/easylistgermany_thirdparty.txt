@@ -94,6 +94,7 @@
 ||customer-support24.com/affiliates/$third-party
 ||cyonix.to/in.php$third-party
 ||cyonix.to/in/$subdocument,third-party
+||cyonix.to^*.html$subdocument,third-party
 ||d1kn3e15znl51s.cloudfront.net/js/tlib.min.js
 ||daidalos.twyn.com^$third-party
 ||databaseapplications.org/banner_manager/
