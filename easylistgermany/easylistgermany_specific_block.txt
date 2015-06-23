@@ -1179,10 +1179,8 @@
 ||motorsport-xl.de^*/werbung/
 ||mototreff.ch/Banner/
 ||mov-world.net^*/fidel.js
-||movie-blog.org/smoozed/
-||movie-blog.org/smozed/
+||movie-blog.org^$subdocument,domain=movie-blog.org
 ||movie-blog.org^*.php|$script
-||movie-blog.org^*/banner/
 ||movie-blog.org^*/stargames.js
 ||movie-blog.org^*/starlay.js
 ||movie-stream.to/do.php
