@@ -1680,6 +1680,7 @@ myvideo.de##.poker_livechat
 webmiles.de##.popup
 grosseleute.de##.portalColumnInner > :nth-child(n) a[href] div img[src^="image/"]
 grosseleute.de##.portalColumnInner > :nth-child(n) div:first-child:last-child > div:first-child > a[href] > img[src^="image/"]
+archiv.raid-rush.ws##.post + #g
 ultras.ws##.post + .divider + .post.bg3
 movie-blog.org##.post + a
 movie-blog.org##.post + center:last-child > a[target="_blank"]
