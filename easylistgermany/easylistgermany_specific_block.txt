@@ -1187,6 +1187,7 @@
 ||movie-stream.to^*/pop*.js
 ||movie-stream.to^*/system.js
 ||moviebb.to/img/banner/
+||movieblog.to^$subdocument,domain=movie-blog.org
 ||moviebox.to/do.php
 ||moviebox.to^*/*pop*.js
 ||moviebox.to^*/system.js
