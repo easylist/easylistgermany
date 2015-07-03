@@ -440,6 +440,7 @@
 @@|http://*@$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
 @@|http://*uk.to^$script,domain=ul-load.com|uploaded-premium.ru
 @@|http://www-$object-subrequest,third-party,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
+@@|https://*^ts^$image,third-party,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|seniorbook.de
 @@||2mdn.net/879366/flashwrite_1_2.js$domain=n-tv.de|teleboerse.de
 @@||2mdn.net/viewad/*-grey.gif|$domain=n-tv.de|teleboerse.de
 @@||2mdn.net^*.swf?clicktag=$object,domain=n-tv.de|teleboerse.de
