@@ -710,6 +710,7 @@
 ||gamersplus.de/images/branding/
 ||gamersplus.de/uploads/tx_consolmedia/bg_*.jpg
 ||games.ch^*/banner/
+||gamestar.de/_misc/cntdwn/
 ||gamestar.de/_misc/countdown/
 ||gamestar.de/img/gamestar/_misc/gcEventBtnPrmBg.png
 ||gamestar.de/img/gamestar/_misc/prm_logoheader_gs_
@@ -2095,8 +2096,7 @@
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Anti-Adblock
-.de/test/$subdocument,third-party,domain=gamestar.de
-|http://*.de/$subdocument,third-party,domain=gamestar.de|gamona.de
+|http://*.de/$subdocument,third-party,domain=gamona.de
 ||astronews.com^*_6.js
 ||csgo.99damage.de/wp-content/$image
 ||donnerwetter.de^*.html|$subdocument,domain=donnerwetter.de

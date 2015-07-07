@@ -419,11 +419,11 @@
 @@.com^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.gif#$domain=java-forum.org|loads7.com|schweizer-abgeltungssteuer.ch|startup-connection.de
 @@.gif?$image,third-party,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
-@@.jpg#$domain=brasilienfreunde.net|dastandard.at|derstandard.at|diestandard.at|gamestar.de|green-24.de|juristische-suche.de|peugeot-metropolis.de|proverbia-iuris.de|rene-neuweiler.ch|streamit.ws|umweltlupe.de
+@@.jpg#$domain=brasilienfreunde.net|dastandard.at|derstandard.at|diestandard.at|green-24.de|juristische-suche.de|peugeot-metropolis.de|proverbia-iuris.de|rene-neuweiler.ch|streamit.ws|umweltlupe.de
 @@.jpg/$~third-party,domain=pcwelt.de
 @@.net^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.org^$script,domain=ul-load.com|uploaded-premium.ru
-@@.png#$domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|dastandard.at|derstandard.at|diestandard.at|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gamestar.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|live-stream.tv|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rappers.in|rechtslupe.de|rechtslupe.net|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|teamspeak-ts.com|tobinsteuer.de|twixzo.de|ul-load.com|uploaded-premium.ru|vereinslupe.de|vorsorgebote.de|wintotal-forum.de|wirtschaft-recht-aktuell.de
+@@.png#$domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|dastandard.at|derstandard.at|diestandard.at|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|live-stream.tv|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rappers.in|rechtslupe.de|rechtslupe.net|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|teamspeak-ts.com|tobinsteuer.de|twixzo.de|ul-load.com|uploaded-premium.ru|vereinslupe.de|vorsorgebote.de|wintotal-forum.de|wirtschaft-recht-aktuell.de
 @@.png/$image,~third-party,domain=pcwelt.de
 @@.png?$domain=mobilfunk-geschichte.de
 @@.png^$image,third-party,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
@@ -432,7 +432,6 @@
 @@/^https?\:\/\/(?!(qs\.ivwbox\.de|qs\.ioam.de|platform\.twitter\.com|connect\.facebook\.net|de\.ioam\.de|pubads\.g\.doubleclick\.net|stats\.wordpress\.com|www\.google-analytics\.com|www\.googletagservices\.com|apis\.google\.com|script\.ioam\.de)\/)/$script,third-party,domain=gamona.de
 @@/adcode.js$domain=prad.de
 @@/qos.phtml?$object-subrequest,domain=gmx.net|golem.de|homerj.de|spiegel.tv|sueddeutsche.de|t-online.de|web.de
-@@|http://*.com/*/images/*_*.png|$third-party,domain=gamestar.de
 @@|http://*.de/$script,third-party,domain=prad.de
 @@|http://*.net^$image,third-party,domain=gamona.de|pcwelt.de
 @@|http://*.php*?*&$object-subrequest,third-party,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
@@ -506,7 +505,6 @@
 @@||cas.criteo.com/delivery/afr.php?zoneid=$subdocument,domain=netzkino.de
 @@||cas.criteo.com/delivery/ajs.php?zoneid=$script,domain=mufa.de
 @@||cdn.flashtalking.com/xre/*/js/j-*.js$domain=teleboerse.de
-@@||cgames.de^$image,domain=gamestar.de
 @@||chat.lycos.de/adimages/$subdocument
 @@||cloudfront.net^$document,subdocument,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|seniorbook.de
 @@||cloudfront.net^$image,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|seniorbook.de
@@ -620,7 +618,6 @@
 @@||hubbahotel.cc^*/advertisement.js
 @@||idlity.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||idlity.de^$script,domain=gamona.de|lustich.de
-@@||images.idgentertainment.de/images/*.jpg/$image,domain=gamestar.de
 @@||imagesrv.adition.com/js/adition.js$domain=n-tv.de
 @@||img.lokalisten.de/img/giftshop/$image
 @@||img.lokalisten.de/lokiimg/lokalisten/picturefeed/$image
@@ -629,7 +626,6 @@
 @@||incown.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||indalam.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||indalam.de^$script,domain=gamona.de|lustich.de
-@@||inforts.de^$document,subdocument,domain=gamestar.de
 @@||inside-handy.de^$elemhide
 @@||intectwo.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||itectale.de^$document,subdocument,domain=gamona.de
@@ -671,7 +667,7 @@
 @@||myvideo.*/ad.js
 @@||n-roms.de/adframe.js
 @@||n-tv.de/ads/bmw/bmw_tv.js$domain=teleboerse.de
-@@||netwayer.de^$document,subdocument,domain=gamestar.de|gamona.de
+@@||netwayer.de^$document,subdocument,domain=gamona.de
 @@||news-reader.info^$image,script,domain=news.feed-reader.net
 @@||news.feed-reader.net/adimages/$subdocument
 @@||nuggad.net/bk?*&nuggtg=de_putpattv_music&$object-subrequest,domain=putpat.tv
@@ -731,7 +727,6 @@
 @@||steuerschmiede-aktuell.de^$elemhide
 @@||streamit.ws^$elemhide
 @@||sudoku-space.de^$script
-@@||syncedia.de^$document,subdocument,domain=gamestar.de
 @@||tape.tv/js/adblockdetection.js
 @@||tape.tv^$elemhide
 @@||teamspeak-ts.com^$elemhide
@@ -763,4 +758,4 @@
 @@||wetteronline.de^$elemhide
 @@||wintotal-forum.de^$elemhide
 @@||wirtschaft-recht-aktuell.de^$elemhide
-@@||ysucej.com^$document,subdocument,domain=gamestar.de|gamona.de
+@@||ysucej.com^$document,subdocument,domain=gamona.de
