@@ -957,7 +957,6 @@
 ||infokriegernews.de^*/krivor180x225.gif
 ||informatikboard.ch/banner/
 ||inside-channels.ch^*&ad.id=
-||inside-handy.de/image/$subdocument
 ||inside-it.ch/*&ad.id=
 ||inside.bz.it/images/banners/
 ||insidegames.ch/werbung/
@@ -2125,3 +2124,4 @@
 ||video.spiegel.de/flash/*.mp4$object-subrequest,domain=spiegel.tv
 ||videoplaza.tv/creatives/assets/$object-subrequest,domain=clipfish.de|gmx.net|n-tv.de|web.de|www.rtl.de
 ||wettercomassets.com/img/cms/chameleon/mediapool/thumbs/d/98/article_landingpage_keyvisual_$image
+||www.inside-handy.de^$subdocument,domain=inside-handy.de
