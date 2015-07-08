@@ -1656,6 +1656,7 @@ rp-online.de##.orange
 woerterbuch.info##.ov
 kredit.com##.ovt_box
 ps3-talk.de##.p3twphead + div[style="height:146px;"]
+goldesel.to##.page > .content_right > div[class^="d_"]:last-child
 myvideo.at,myvideo.ch,myvideo.de##.pageFW > .mya:first-child
 wetter.de##.pageTeaserbarHorizontal
 linux-forum.de##.page[width="100%"][cellspacing="0"][cellpadding="0"][align="center"] > tbody > tr[valign="top"] > td[valign="top"]:last-child > div[align="center"][style="margin-bottom:10px"]:first-child
@@ -2120,6 +2121,9 @@ clipfish.de##a[href^="/tools/count/xdot/count.php?"]
 vip.de,voxnow.de##a[href^="/tools/count/xdot/count.php?id="]
 gebrauchte-veranstaltungstechnik.de##a[href^="?modul=ad&site=out&lnkid="]
 finanztreff.de##a[href^="adclick.htn?b="]
+goldesel.to##a[href^="apps/windows/11533587-"]
+goldesel.to##a[href^="apps/windows/11627356-"]
+goldesel.to##a[href^="apps/windows/11721125-"]
 gamehammer.de##a[href^="banner_click.php?advert_id="]
 bastel-elfe.de##a[href^="banners.php?"]
 tobitech.de##a[href^="banners.php?op="]
