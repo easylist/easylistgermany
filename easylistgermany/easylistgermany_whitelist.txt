@@ -419,6 +419,7 @@
 @@.com^*.js$script,domain=ul-load.com|uploaded-premium.ru
 @@.gif#$domain=java-forum.org|loads7.com|schweizer-abgeltungssteuer.ch|startup-connection.de
 @@.gif?$image,third-party,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
+@@.jpeg|$third-party,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
 @@.jpg#$domain=brasilienfreunde.net|dastandard.at|derstandard.at|diestandard.at|green-24.de|juristische-suche.de|peugeot-metropolis.de|proverbia-iuris.de|rene-neuweiler.ch|streamit.ws|umweltlupe.de
 @@.jpg/$~third-party,domain=pcwelt.de
 @@.net^*.js$script,domain=ul-load.com|uploaded-premium.ru
