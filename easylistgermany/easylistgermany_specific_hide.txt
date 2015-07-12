@@ -1340,6 +1340,7 @@ ladies.de##.content_left > .topteaser_td
 3min.de##.content_mrec
 atv.at##.content_rectangle
 goldesel.to##.content_right > div[class]:first-child + div[class]
+goldesel.to##.content_right > div[class^="d_"] > div + div[style="padding:8px;"]
 sportal.ch##.content_right_side_wetten
 augsburger-allgemeine.de,heise.de##.contentbanner
 bild.de##.contentbar
@@ -1657,6 +1658,7 @@ hsc-bad-neustadt.de##.onlinepartner
 rp-online.de##.orange
 woerterbuch.info##.ov
 kredit.com##.ovt_box
+goldesel.to##.p2p > a > li[style="width:283px;"]
 ps3-talk.de##.p3twphead + div[style="height:146px;"]
 goldesel.to##.page > .content_right > div[class^="d_"]:last-child
 myvideo.at,myvideo.ch,myvideo.de##.pageFW > .mya:first-child
@@ -1949,6 +1951,7 @@ teen-blog.us##.voteLayer
 viviano.de##.vtext9
 bruder-schwester-fick.com##.w_b300x250
 xvideo-deutsch.com##.w_under_video
+goldesel.to##.wbh > li > a > img
 abendzeitung-muenchen.de##.webtipps
 diefussballecke.de##.werbe_eigen_rahmen
 eastcomp.de##.werbehinweis + table
@@ -3050,6 +3053,7 @@ ddlporn.org##input[value="Highspeed Mirror"]
 stealth.to##input[value="Mirror"]
 warez-load.com##input[value="Schneller Downloaden!"]
 tagesanzeiger.ch##li[id^="msgId_"] > .rightCol > p > a[target="_blank"] > img
+goldesel.to##li[title="Downloaden mit Fullspeed"]
 goldesel.to##li[url^="bit.ly/"]
 goldesel.to##li[url^="http://bit.ly/"]
 goldesel.to##li[url^="http://dereferer.org/?http%3A%2F%2Fbit.ly"]
