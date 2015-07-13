@@ -2574,6 +2574,7 @@ fc-hansa.de##a[title="DKB-Familienblock"]
 chip.de##a[title^="Anzeige:"]
 schulzeux.de##article > .vi_a_79
 mopo24.de##article[class$="news_box"]
+mopo24.de##article[class$="news_box01"]
 maxwireless.de##aside a[target="_blank"][onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"]
 gamestar.de##blockquote > p > strong + a[href^="http://www.amazon.de/"]
 trackfox.com,trackfox2.com##body
