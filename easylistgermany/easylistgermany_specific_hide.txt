@@ -1340,6 +1340,7 @@ sound-load.com##.content_box_content_dl > div + .fc + div
 ladies.de##.content_left > .topteaser_td
 3min.de##.content_mrec
 atv.at##.content_rectangle
+goldesel.to##.content_right > div > div[class^="d_"] > a > img
 goldesel.to##.content_right > div[class]:first-child + div[class]
 goldesel.to##.content_right > div[class^="d_"] > div + div[style="padding:8px;"]
 sportal.ch##.content_right_side_wetten
@@ -1486,6 +1487,7 @@ au-ja.de##.headADB
 au-ja.de##.headADV
 fernsehlounge.de,staedte-info.net##.headbanner
 eierkraulen.net##.header + .framenavi
+goldesel.to##.header + ul + ul > li > a > img
 derwesten.de##.header > .g_1of1 > .box > .mod_pic > .hyph > .img
 downloadstube.net##.header > div:last-child > a[onclick]:first-child
 videothek.cc##.header-banner
