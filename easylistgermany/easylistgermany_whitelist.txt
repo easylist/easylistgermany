@@ -648,6 +648,7 @@
 @@||liferd.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||liferd.de^$script,domain=gamona.de|lustich.de
 @@||live-stream.tv^$elemhide
+@@||liverail.com^*^LR_PUBLISHER_ID=*&LR_SCHEMA=vast2-vpaid&$object-subrequest,domain=schoener-fernsehen.com
 @@||loads7.com^$elemhide
 @@||lustich.de^$elemhide
 @@||lustich.de^$image
