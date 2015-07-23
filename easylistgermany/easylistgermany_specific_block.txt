@@ -2119,8 +2119,6 @@
 ||gamona.de/wp-content/66
 ||gamona.de/wp-content/67
 ||gamona.de/wp-content/up/
-||inside-handy.de/imagefolder/
-||inside-handy.de/imagesfolder/
 ||kabeleins.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||prosieben.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
 ||sat1.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
@@ -2130,4 +2128,3 @@
 ||video.spiegel.de/flash/*.mp4$object-subrequest,domain=spiegel.tv
 ||videoplaza.tv/creatives/assets/$object-subrequest,domain=clipfish.de|gmx.net|n-tv.de|web.de|www.rtl.de
 ||wettercomassets.com/img/cms/chameleon/mediapool/thumbs/d/98/article_landingpage_keyvisual_$image
-||www.inside-handy.de^$subdocument,domain=inside-handy.de
