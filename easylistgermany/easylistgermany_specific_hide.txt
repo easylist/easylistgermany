@@ -1790,6 +1790,7 @@ downloadstube.net##.side_frame
 fernsehlounge.de##.sidebanner
 tarnkappe.info##.sidebar > #text-28
 tarnkappe.info##.sidebar > #text-6
+gsx-r1000.de##.sidebar > .funbox > .funboxWrapper > .widget-group-random > #widget-15
 ploetzblog.de##.sidebar > .imglinks
 hc-empor.de##.sidebar > ul > #text-6 + #text-13 + #text-9
 giga.de##.sidebar-box > div[style="height: 316px; margin: 15px 0 20px;"]
@@ -3056,6 +3057,7 @@ sceneload.to##input[value="Fullspeed Mirror"]
 ddlporn.org##input[value="Highspeed Mirror"]
 stealth.to##input[value="Mirror"]
 warez-load.com##input[value="Schneller Downloaden!"]
+gsx-r1000.de##li[data-author=">>>>>Werbung<<<<<"]
 tagesanzeiger.ch##li[id^="msgId_"] > .rightCol > p > a[target="_blank"] > img
 goldesel.to##li[title="Downloaden mit Fullspeed"]
 goldesel.to##li[url^="bit.ly/"]
