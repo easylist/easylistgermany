@@ -1355,6 +1355,7 @@ klassikradio.de##.cssmedia[height="125"][width="288"]
 rimparerhandballer.de##.custom > .adv_slideshowTable
 lounge.fm##.custom-sponsor
 mobile.de##.d-05-opromo_de
+goldesel.to##.d_head + div[class^="d_"] > a > img
 winload.de##.darklayer
 3dl.tv##.ddl-mirnor-box.button[href*="="]
 3dl.tv##.ddl-mirnor-box.button[target="_blank"][href*=".3dl.tv/"][href*="="]
@@ -1613,6 +1614,7 @@ heise.de##.meldung_preisvergleich
 netdoktor.at##.menu-sponsor
 sinn-frei.com##.menu_feat
 eliteanimes.com##.menu_rechts_sonstiges > a[target="_blank"]
+goldesel.to##.menue + ul > li > a > img
 franken-tv.de,kanal8.de,radio-trausnitz.de##.metrieanzeigen
 radio7.de##.microbanner
 fettspielen.de##.middle-leaderboard
@@ -2449,6 +2451,7 @@ verboten.to##a[href^="http://www.sofort-geld-verdienen.com"]
 shortnews.de##a[href^="http://www.sparwelt.de/"]
 speedshare.org##a[href^="http://www.speedshare.org/ads"]
 der-postillon.com##a[href^="http://www.spreadshirt.de/track.php?affiliate="]
+goldesel.to##a[href^="http://www.spyoff.com/"]
 linkfarm.in,pornkino.to,xxx-blog.to##a[href^="http://www.stargames.com/bridge.asp?"]
 linkfarm.in,underground-links.org##a[href^="http://www.stargames.net/bridge.asp?"]
 lavendel.net##a[href^="http://www.sunday.de?utm_"]
