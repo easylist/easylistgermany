@@ -219,6 +219,8 @@
 @@||i.computer-bild.de/imgs/$image,domain=computerbild.de
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
 @@||idowa.de^*/advertisement/$xmlhttprequest
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=radio.de
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=radio.de
 @@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de|sunsteps.org
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||insel-usedom-wollin.de/ads/$script,stylesheet
