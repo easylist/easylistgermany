@@ -320,6 +320,7 @@
 @@||rubiconproject.com/partner/scripts/rubicon/dorothy.js?$domain=kleinanzeigen.ebay.de
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
+@@||sascdn.com/diff/*/pages/$script,domain=hoerzu.de
 @@||sascdn.com/diff/video/$script,domain=kleinezeitung.at
 @@||sascdn.com/video/$script,domain=kleinezeitung.at
 @@||saugking.net/css/ads.css
@@ -341,7 +342,7 @@
 @@||smartadserver.com/call/pubi/*/(bild/*/?format=.mp4$media,domain=bild.de
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
-@@||smartadserver.com/diff/*/smartad.js$domain=sky.de
+@@||smartadserver.com/diff/*/smartad.js$domain=hoerzu.de|sky.de
 @@||smartadserver.com/diff/js/smartadserver.js$domain=freestream.nmdn.net
 @@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|podcast.de|radiobob.de
 @@||smartclip.net/inpage/inpage.js
