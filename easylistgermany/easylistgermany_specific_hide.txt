@@ -1864,7 +1864,7 @@ svwehen-wiesbaden.de##.sponsorLeiste
 bz-berlin.de##.sponsorTop
 nowtv.de##.sponsorbanner
 ehrensenf.com##.sponsorcenter
-cnet.de,macwelt.de,mopo24.de,renego.de##.sponsored
+cnet.de,macwelt.de,renego.de##.sponsored
 euractiv.de,seo-united.de##.sponsoren
 vfl.de##.sponsoren_right
 yigg.de,zeit.de##.sponsoring
@@ -2026,9 +2026,6 @@ forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 1
 ebook-hell.to##[width="620"][bordercolor="#808080"] td[height="60"][align="CENTER"] > a > img
 sat-erotik.de##[width="800"][cellspacing="0"][cellpadding="4"][border="0"]
 hsc-bad-neustadt.de##a[class*="sponsor"]
-mopo24.de##a[data-clicks$="0"]
-mopo24.de##a[data-more^="<a href=\"anzeigen/"]
-mopo24.de##a[data-teaserimg^="files/presse/images/redaktion/archiv/"]
 xxx-blog.to##a[height="600"][width="120"]
 goldesel.to##a[href$="-anonym"]
 goldesel.to##a[href$="-download"]
@@ -2158,7 +2155,6 @@ goldesel.to##a[href^="apps/windows/11721125-"]
 gamehammer.de##a[href^="banner_click.php?advert_id="]
 bastel-elfe.de##a[href^="banners.php?"]
 tobitech.de##a[href^="banners.php?op="]
-mopo24.de##a[href^="content/"]
 byte.to##a[href^="data/download.php?id="] + a > img
 g-stream.in##a[href^="download/?"]
 g-stream.in##a[href^="download/client.html?"]
@@ -2599,7 +2595,6 @@ magistrix.de##a[target="blank"][href^="/deblock/"]
 fc-hansa.de##a[title="DKB-Familienblock"]
 chip.de##a[title^="Anzeige:"]
 schulzeux.de##article > .vi_a_79
-mopo24.de##article[class$="block"][data-id]
 maxwireless.de##aside a[target="_blank"][onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"]
 gamestar.de##blockquote > p > strong + a[href^="http://www.amazon.de/"]
 trackfox.com,trackfox2.com##body
@@ -3278,3 +3273,10 @@ radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Anti-Adblock
 gamestar.de###lbSpacer
+! Temporarily removed...
+!cnet.de,macwelt.de,mopo24.de,renego.de##.sponsored
+!mopo24.de##a[data-clicks$="0"]
+!mopo24.de##a[data-more^="<a href=\"anzeigen/"]
+!mopo24.de##a[data-teaserimg^="files/presse/images/redaktion/archiv/"]
+!mopo24.de##a[href^="content/"]
+!mopo24.de##article[class$="block"][data-id]
