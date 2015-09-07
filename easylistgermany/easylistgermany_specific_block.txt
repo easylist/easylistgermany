@@ -916,6 +916,7 @@
 ||hornoxe.com/plp_
 ||hornoxe.com/pup_plaer.js
 ||hornoxe.com^*.php$subdocument
+||hornoxe.com^*.php|$script,domain=hornoxe.com
 ||hornoxe.com^*/BannerDuckyPoker_
 ||horseweb.de^*/blink/
 ||hosteurope.de/goloci/$domain=goloci.de
