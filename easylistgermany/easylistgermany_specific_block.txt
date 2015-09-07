@@ -2138,6 +2138,3 @@
 ||video.spiegel.de/flash/*.mp4$object-subrequest,domain=spiegel.tv
 ||videoplaza.tv/creatives/assets/$object-subrequest,domain=clipfish.de|gmx.net|n-tv.de|web.de|www.rtl.de
 ||wettercomassets.com/img/cms/chameleon/mediapool/thumbs/d/98/article_landingpage_keyvisual_$image
-! streamcloud.eu
-@@||ajax.googleapis.com^$script,domain=streamcloud.eu
-|http://$script,third-party,domain=streamcloud.eu
