@@ -1,4 +1,5 @@
 /?placement=$domain=movie-blog.org
+/asynch/null/*$script,third-party,domain=streamcloud.eu
 /oase_banner.jpg$domain=mysummit.wordpress.com
 ^what=zone^$domain=ww3.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
