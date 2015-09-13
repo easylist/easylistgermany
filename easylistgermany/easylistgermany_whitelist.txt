@@ -111,7 +111,6 @@
 @@||berliner-zeitung-online.de/specials/ads/scripts/standard_ads.css
 @@||berufsstart.de^*/anzeigeshowframeset.php?$subdocument
 @@||berufsstart.de^*/show-advert-info.html?$subdocument
-@@||bildstatic.de^*/assets/img/$image,domain=bild.de
 @@||bluelithium.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||bluelithium.com/st?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||bundesliga.de/js/my_ad_integration.js
@@ -307,7 +306,6 @@
 @@||promo.douglas.de^$subdocument,domain=facebook.com
 @@||prosieben.de^*/ad-managment/$script
 @@||quadelite-forum.de/images/misc/web-banner2_980x100.jpg
-@@||quokastatic.de/assets/img/$image,domain=quoka.de
 @@||r.refinedads.com/l.js$script,domain=paypal-deutschland.de
 @@||radio.de/inc/ads/pix.swf?mp3=$object
 @@||raumobil.de/js/advertise.js
