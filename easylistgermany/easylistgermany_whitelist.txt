@@ -470,6 +470,7 @@
 @@||adclient.uimserv.net/js.ng/|$object-subrequest,domain=gmx.net|web.de
 @@||adclient.uimserv.net/|$object-subrequest,domain=gmx.net|web.de
 @@||adfarm1.adition.com/banner?sid=*&adjsver=*&clickurl=http%3A//ad.de.doubleclick.net/click%$script,domain=n-tv.de
+@@||adfarm1.adition.com/banner?sid=3129288$image,domain=mainfranken24.de
 @@||adfarm1.adition.com/js?wp_id=*&kid=*&ts=*&clickurl=http://ad.de.doubleclick.net/click%$script,domain=n-tv.de
 @@||adnet.de/ad2.js$domain=schoener-fernsehen.com
 @@||ads.exoclick.com/ads.js$domain=board.world-of-hentai.to
@@ -501,6 +502,7 @@
 @@||atonato.de^$script,domain=lustich.de
 @@||aussenwirtschaftslupe.de^$elemhide
 @@||autozeitung.de^$elemhide
+@@||banners.webmasterplan.com/view.asp?ref=7564&js=1&site=2941&b=3&target=&title=1%261+DSL$script,domain=mainfranken24.de
 @@||benelph.de^$document,subdocument,domain=gamona.de
 @@||betreut-wohnen.de/adserver/ad.js
 @@||blick.ch^*/advertisement.js
@@ -603,6 +605,7 @@
 @@||fribre.de^$script,domain=lustich.de
 @@||fruited.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||fruited.de^$script,domain=gamona.de|lustich.de
+@@||funkhaus.com/fileadmin/zulieferer/VideoAds/$domain=mainfranken24.de
 @@||g.doubleclick.net/gampad/ads?$script,domain=wetteronline.de
 @@||g.doubleclick.net/gampad/ads?*&callback=googletag.impl.pubads.setAdContentsBySlotForSync&$script,domain=gamona.de
 @@||g.doubleclick.net/gampad/ads?sz=320x240&iu=/4444/pcgames_video.de_fx_sdm/Rest&ciu_szs&$object-subrequest,domain=pcgames.de
