@@ -2025,6 +2025,7 @@ yelp.at,yelp.ch,yelp.de##.yloca-search-result
 yelp.at,yelp.ch,yelp.de##.yloca-search-result-exp
 magistrix.de##.zeezee
 german-bash.org##.zitat > div[style="width:300px;"]
+listsandnews-de.net##A[href^="http://www.dekarrierejournal.com/index.php?A="]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
@@ -2556,6 +2557,7 @@ t-online.de##a[target="_blank"][href*=".sptopf.de/tshp/RE?ID="]
 quoka.de##a[target="_blank"][href*="/solute/cd/banner?"]
 pappenforum.de##a[target="_blank"][href="http://www.HolidaysGermany.de"]
 braunschweiger-zeitung.de##a[target="_blank"][href="http://www.flirt38.de/"]
+listsandnews-de.net##a[target="_blank"][href="http://www.medianata.com"]
 dxtv.de,dxtv.eu,satbook.de##a[target="_blank"][href="http://www.satshop24.de/"]
 dxtv.de,dxtv.eu,satbook.de##a[target="_blank"][href="http://www.so-mm.de/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[target="_blank"][href^="../"]
