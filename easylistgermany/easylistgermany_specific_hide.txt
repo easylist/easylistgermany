@@ -418,6 +418,7 @@ gamestar.de###header + style + div[id]
 gamersplus.de###header > a:first-child:last-child
 gamers.at###header > a[target="_blank"]
 triff-chemnitz.de###header > a[target="_blank"][href^="/redirect.php?cid="]
+mobilegeeks.de###header-container > #header
 winload.de###header-link-loadblog
 macnews.de###header-teaser
 agriaffaires.de###header_ban
