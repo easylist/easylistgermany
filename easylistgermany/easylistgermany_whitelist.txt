@@ -525,13 +525,13 @@
 @@||cloudfront.net^$document,subdocument,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|seniorbook.de
 @@||cloudfront.net^$image,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|seniorbook.de
 @@||cloudfront.net^$object-subrequest,domain=gmx.net|homerj.de|spiegel.tv|sueddeutsche.de|web.de
+@@||cloudfront.net^$script,domain=jappy.de
 @@||combatarms-game.de/adframe.js
 @@||coordur.de^$document,subdocument
 @@||crackajack.de^*/advertising.js
 @@||cuiron.de^$document,subdocument,domain=gamona.de|lustich.de
 @@||cuiron.de^$script,domain=gamona.de|lustich.de
 @@||cussixia.de^$document,subdocument,domain=gamona.de
-@@||d25u9bywvorkx.cloudfront.net^$script,domain=jappy.de
 @@||dastandard.at/AdServer/AdServerM.aspx|$subdocument
 @@||dastandard.at/MetaAdServer/MAS.aspx?cp=$subdocument
 @@||dastandard.at^$elemhide
