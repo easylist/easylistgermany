@@ -1924,6 +1924,9 @@ heise.de##.teaser_geizhals
 derwesten.de##.teaser_head_img
 heise.de##.teaser_preisvergleich
 kochbar.de##.teaser_rezepte
+computerbild.de##.teaserblock a[href="http://www.egarden.de"]
+computerbild.de##.teaserblock a[href="http://www.ekitchen.de"]
+computerbild.de##.teaserblock a[href="http://www.evivam.de"]
 teltarif.de##.tetable:first-child + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
 sinn-frei.com##.text > div[style="margin: 3px 0 1px 0;"]
 adhs-zentrum.de##.text[align="center"][colspan="6"]:first-child:last-child > p[align="center"]:first-child:last-child
@@ -2390,7 +2393,7 @@ smsform.de##a[href^="http://www.adscads.de/sites/"]
 aktuell.ru##a[href^="http://www.aktuell.ru/inc/banners.php?"]
 livestreamfussball.org,sat-erotik.de##a[href^="http://www.amazon.de/"]
 gamestar.de##a[href^="http://www.amazon.de/"][href*="%26tag%"]
-beichthaus.com##a[href^="http://www.amazon.de/"][href*="&tag="] > img
+beichthaus.com,computerbild.de##a[href^="http://www.amazon.de/"][href*="&tag="] > img
 gamefront.de##a[href^="http://www.amazon.de/"][href*="&tag=gamefrontde-21"]
 gamestar.de##a[href^="http://www.amazon.de/"][href*="tag="]
 unmoralische.de##a[href^="http://www.amazon.de/exec/obidos/redirect-home?tag=dieunmoralisc-21&"] > img

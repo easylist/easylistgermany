@@ -221,7 +221,6 @@
 @@||gynny.de/shopframe/$document,subdocument
 @@||homad2.spiegel.tv/crossdomain.xml$object-subrequest
 @@||homad2.spiegel.tv/|$object-subrequest
-@@||i.computer-bild.de/imgs/$image,domain=computerbild.de
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
 @@||idowa.de^*/advertisement/$xmlhttprequest
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=heise.de|radio.de
