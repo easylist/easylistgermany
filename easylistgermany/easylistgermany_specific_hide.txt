@@ -1,3 +1,4 @@
+computerbild.de###mailderrteaser
 finanzen.net###Ads_BA_CAD_box + .content_box
 fussbodenbau-forum.com###Advertisment
 onmeda.de###BANNER_AUSSEN
@@ -1927,6 +1928,7 @@ kochbar.de##.teaser_rezepte
 computerbild.de##.teaserblock a[href="http://www.egarden.de"]
 computerbild.de##.teaserblock a[href="http://www.ekitchen.de"]
 computerbild.de##.teaserblock a[href="http://www.evivam.de"]
+computerbild.de##.teaserblock a[href^="http://k.ilius.net/?"]
 teltarif.de##.tetable:first-child + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
 sinn-frei.com##.text > div[style="margin: 3px 0 1px 0;"]
 adhs-zentrum.de##.text[align="center"][colspan="6"]:first-child:last-child > p[align="center"]:first-child:last-child
