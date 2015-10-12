@@ -82,6 +82,7 @@ verkehrsmittelvergleich.de###adhs
 erf.de,fiverdeal.de,gepostet.com,haustierstall.de,musotalk.de,radiof.de,seniorkom.at,suedostschweiz.ch,unite.ws,web.de,welt.de,wer-kennt-wen.de###ads
 tvspielfilm.de###adsd_cad
 ringrocker.com###adsense + #newcomment
+abload.de###adunten + div[style="font-size:8pt; color:#999999; margin-left:39px; width: 728px;"]
 1und1.de,gmx.net,web.de###adv
 gmx.net,web.de###advSpecialMain
 web.de###advTop
@@ -446,6 +447,7 @@ h-bw.de###inhalt-banner
 zensiert.to###innercontent2 > .contentcontainer + .contentfooter + br + center
 immonet.de###interhypSonder
 123recht.net###ip_content_wrapper > div[style="height: 90px;"]
+abload.de###iphpbannerleft
 golem.de###iqadtile4gol
 netzwelt.de###iqadtile6
 golem.de###iqadtile8gol + section
@@ -473,6 +475,7 @@ ingame.de###layer-overlay
 tv-stream.to###layer_1
 simpsons.to###layerbg
 abload.de###layerleft
+abload.de###layerright
 wetter.de###lbs-offers-container
 pooltrax.com###lcontainer2
 appleunity.de###leader
@@ -2660,6 +2663,7 @@ filecrypt.cc##button[onmouseup$="', a);"]
 filecrypt.cc##button[onmouseup$="', this);"]
 hornoxe.com##center > a[target="_blank"][href^="http://amzn.to/"] > img
 repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
+abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
 englische-briefe.de##center > table[width="574"][cellspacing="0"][cellpadding="0"][border="0"]
 wuerzburger-kickers.de##div > h3 + #ais_129_wrapper
 rundumkoeln.de##div[align="center"] > #top[name="top"]:first-child + table[border="0"]:last-child
