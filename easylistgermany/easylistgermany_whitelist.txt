@@ -16,7 +16,7 @@
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
-@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|bundesliga.de|gamepro.de|gamestar.de|myvideo.de|n24.de|netzwelt.de|prosieben.de|sport1.fm
+@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|bundesliga.de|gamepro.de|myvideo.de|n24.de|netzwelt.de|prosieben.de|sport1.fm
 @@||ad.71i.de/global_js/Sites/$script,domain=gamepro.de|n24.de|netzwelt.de|sport1.fm
 @@||ad.71i.de/images/fallback/video/1_sek.mp4$domain=netzwelt.de
 @@||ad.adworx.at/crossdomain.xml$object-subrequest
@@ -461,8 +461,6 @@
 @@||5.135.58.25^$script,domain=uploaded-premium.ru
 @@||ad-emea.doubleclick.net/crossdomain.xml$object-subrequest,domain=homerj.de|spiegel.tv|sueddeutsche.de
 @@||ad-emea.doubleclick.net/pfadx/spiegel.tv.smartclip/;sz=*;dcmt=*;ord=$object-subrequest,domain=spiegel.tv
-@@||ad.71i.de/global_js/*/adplayer.min.js$domain=gamestar.de
-@@||ad.71i.de/global_js/AdScripts/standard.js$domain=gamestar.de
 @@||ad.71i.de/global_js/globalV6.js$domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
 @@||ad.71i.de/global_js/Sites/$script,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
 @@||ad.71i.de/images/*Opener$object-subrequest,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
@@ -621,8 +619,6 @@
 @@||g.doubleclick.net/pagead/adview?ai=$object-subrequest,domain=clipfish.de
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
-@@||gamestar.de/js/gamestar/my_ad_integration.min.js
-@@||gamestar.de/videos/$elemhide
 @@||gamona.de^$script
 @@||gamona.de^*/up/*.png
 @@||gassi-tv.de^*/adframe.js
