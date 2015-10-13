@@ -717,6 +717,7 @@
 @@||rechtsschutzversicherunginfo.de^$elemhide
 @@||rene-neuweiler.ch^$elemhide
 @@||rentenbote.de^$elemhide
+@@||sascdn.com/diff/251/pages/bild.js$domain=bild.de
 @@||schneevonmorgen.com^$object-subrequest,domain=gmx.net|golem.de|homerj.de|pcgames.de|rtlnitronow.de|spiegel.tv|sueddeutsche.de|t-online.de|web.de
 @@||schuetzenrecht.de^$elemhide
 @@||schulzeux.de/js/show_ads.js
@@ -733,6 +734,7 @@
 @@||slimtrade.com/in.php?s=*&t=*&b=*&c=*&tm=*&r=$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||slimtrade.com/s*.js$domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deutsche-erotikfilme.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vagosex-pornos.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.de|transfermarkt.tv
+@@||smartadserver.com/diff/251/smartad.js$domain=bild.de
 @@||smartclip.net/delivery/tag?sid=$object-subrequest,domain=clipfish.de
 @@||smartclip.nuggad.net/crossdomain.xml$object-subrequest,domain=clipfish.de
 @@||sozialrechtsnews.de^$elemhide
@@ -774,5 +776,6 @@
 @@||wetteronline.de^$elemhide
 @@||wintotal-forum.de^$elemhide
 @@||wirtschaft-recht-aktuell.de^$elemhide
+@@||www.bild.de^$elemhide
 @@||ysucej.com^$document,subdocument,domain=gamona.de
 @@||zdnet.de^*/advertising.js$domain=zdnet.de
