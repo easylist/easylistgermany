@@ -29,13 +29,13 @@
 @@||adback.de^$~third-party
 @@||adcell.de/click.php?bid=$subdocument,domain=gutscheindoktor.de|mein-rabatt.com
 @@||adclient.uimserv.net/banner?$script,domain=millionenklick.web.de
-@@||adfarm1.adition.com/banner?sid=$script,domain=jam.fm
-@@||adfarm1.adition.com/js?wp_id=$script,domain=jam.fm
 @@||adimg.uimserv.net^$image,domain=millionenklick.web.de
 @@||adindex.de^*^gutschein_$subdocument,domain=gutscheindoktor.de
-@@||adition.com/banners/$image,domain=dsl.freenet.de
+@@||adition.com/banner?sid=$script,domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de
+@@||adition.com/banners/$image,domain=ambellis.de|dsl.freenet.de|mirapodo.de|mytoys.de
 @@||adition.com/banners/$image,object,domain=payback.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
+@@||adition.com/js?wp_id=$script,domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
 @@||admedia.adgemini.de^$~third-party
