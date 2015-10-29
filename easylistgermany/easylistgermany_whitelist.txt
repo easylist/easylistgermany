@@ -421,6 +421,11 @@
 @@||zanox-affiliate.de/images/$domain=sunsteps.org
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|gutscheindoktor.de|notenbuch24.de|preismafia.com
 @@||zanox.com/images/programs/$domain=sunsteps.org
+! "Matched Content" by Google (https://support.google.com/adsense/answer/6111336)
+@@||g.doubleclick.net/pagead/ads?*^slotname=3722556080^$document,subdocument,domain=kalender-365.de
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=kalender-365.de
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kalender-365.de
+kalender-365.de#@#.adsbygoogle
 ! Anti-Adblock
 @@.bmp|$image,third-party,domain=news.de
 @@.com^*.js$script,domain=ul-load.com|uploaded-premium.ru
