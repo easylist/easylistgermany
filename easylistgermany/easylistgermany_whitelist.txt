@@ -365,6 +365,8 @@
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
 @@||static-fra.de/ip/js/adcontrol/adcontrol.min.js$domain=dooloop.tv|n-tv.de|nowtv.de
 @@||static-fra.de^*/admeta.xml?$object-subrequest
+@@||static.classistatic.de/res/images/ads/$image
+@@||static.classistatic.de/res/js/shared/advertising/*advertisingHeadPacked.js
 @@||static.criteo.net/js/ld/ld.js$domain=kleinanzeigen.ebay.de
 @@||static.freenet.de/adserver/introductio.js$domain=vid.buffed.de|videos.gamesaktuell.de|videos.pcgames.de|videos.videogameszone.de
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
