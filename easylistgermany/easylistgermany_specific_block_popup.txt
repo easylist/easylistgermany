@@ -5,6 +5,7 @@
 |http://$popup,third-party,domain=streamcloud.eu
 |http://*.filecrypt.cc/|$popup
 |http://ow.ly^$popup,domain=byte.to
+||3dl.tv/redipo.php$popup
 ||5vor12.de/cgi-perl/adP?nr=$popup
 ||ad.netzquadrat.de^$popup,domain=sms.de
 ||adclick.g.doubleclick.net^$popup,domain=4players.de
