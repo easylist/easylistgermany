@@ -2162,3 +2162,12 @@ _ad_integration.$domain=gamestar.de
 ||360yield.com^$domain=gamestar.de
 ||amazon-adsystem.com^$domain=gamestar.de
 ||ligatus.com^$domain=gamestar.de
+! Focus.de
+||amazon-adsystem.com^$domain=focus.de
+||focus.de/js_ng/js_ng_fol_gpt.js$domain=focus.de
+||googleadservices.com^$domain=focus.de
+||kka.agitos.de^$domain=focus.de
+||lotto24.de/?partner=$subdocument,third-party,domain=focus.de
+||pagead2.googlesyndication.com^$domain=focus.de
+||revsci.net^$domain=focus.de
+||yieldlab.net^$domain=focus.de
