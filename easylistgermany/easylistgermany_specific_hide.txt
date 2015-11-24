@@ -3324,3 +3324,6 @@ news.de##.plista_widget_underArticle_item + div[style="position: relative;"] > s
 !mopo24.de##a[data-teaserimg^="files/presse/images/redaktion/archiv/"]
 !mopo24.de##a[href^="content/"]
 !mopo24.de##article[class$="block"][data-id]
+! Specific hiding filters necessary for sites whitelisted with $generichide filter option
+! Spiegel.de
+plista.com##a[href^="http://click.plista.com/pets"]
