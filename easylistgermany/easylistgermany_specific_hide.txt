@@ -3331,3 +3331,5 @@ plista.com##a[href^="http://click.plista.com/pets"]
 focus.de##.ob_ads_header
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 focus.de##.ob_dual_right > .ob_ads_header ~ .odb_div
+! tvspielfilm.de
+tvspielfilm.de##.plistaList > .itemLinkPET

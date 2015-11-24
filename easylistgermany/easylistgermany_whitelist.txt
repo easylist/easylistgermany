@@ -393,6 +393,7 @@
 @@||tradedoubler.com/file/$image,domain=sunsteps.org
 @@||tradedoubler.com/redirect/*^affID^$subdocument,domain=gutscheindoktor.de
 @@||tv.derstandard.at/adserver.php?*&pos=video$subdocument
+@@||tvspielfilm.de^$genericblock,generichide
 @@||ui-portal.de^*/video-adserver-config.xml$object-subrequest
 @@||uicdn.com^*/video-adserver-config.xml$object-subrequest
 @@||v.fwmrm.net/ad/p/1?$object-subrequest,domain=southpark.de
