@@ -2155,3 +2155,10 @@
 ! Spiegel.de
 ||adition.com^$domain=spiegel.de
 ||ligatus.com^$domain=veeseo.com
+! Gamestar.de
+.net/ad-$domain=gamestar.de
+_ad2.$domain=gamestar.de
+_ad_integration.$domain=gamestar.de
+||360yield.com^$domain=gamestar.de
+||amazon-adsystem.com^$domain=gamestar.de
+||ligatus.com^$domain=gamestar.de
