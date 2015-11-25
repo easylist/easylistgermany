@@ -2178,3 +2178,11 @@ _ad_integration.$domain=gamestar.de
 ||sascdn.com^$domain=tvspielfilm.de
 ||static.plista.com^*/resized/$domain=tvspielfilm.de
 ||tfag.de^$domain=tvspielfilm.de
+! Prosieben
+/adserver.$domain=prosieben.at|prosieben.ch|prosieben.de
+://ads.$domain=prosieben.at|prosieben.ch|prosieben.de
+||ad.71i.de^$domain=prosieben.at|prosieben.ch|prosieben.de
+||doubleclick.net^$~object-subrequest,domain=prosieben.at|prosieben.ch|prosieben.de
+||partner.googleadservices.com^$domain=prosieben.at|prosieben.ch|prosieben.de
+||revsci.net^$domain=prosieben.at|prosieben.ch|prosieben.de
+||yieldlab.net^$domain=prosieben.at|prosieben.ch|prosieben.de

@@ -304,6 +304,9 @@
 @@||player.newsnetz.tv/player/iframe.php?vid=*&adurl=$subdocument
 @@||pleasure.gamersplus.de/www/delivery/ajs.php?campaignid=$script,domain=gamers.at|gamersplus.de
 @@||promo.douglas.de^$subdocument,domain=facebook.com
+@@||prosieben.at^$genericblock,generichide
+@@||prosieben.ch^$genericblock,generichide
+@@||prosieben.de^$genericblock,generichide
 @@||prosieben.de^*/ad-managment/$script
 @@||quadelite-forum.de/images/misc/web-banner2_980x100.jpg
 @@||r.refinedads.com/l.js$script,domain=paypal-deutschland.de
