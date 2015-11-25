@@ -2186,3 +2186,8 @@ _ad_integration.$domain=gamestar.de
 ||partner.googleadservices.com^$domain=prosieben.at|prosieben.ch|prosieben.de
 ||revsci.net^$domain=prosieben.at|prosieben.ch|prosieben.de
 ||yieldlab.net^$domain=prosieben.at|prosieben.ch|prosieben.de
+! Wetter.com
+||ad.71i.de^$domain=wetter.com
+||ad.doubleclick.net^$~object-subrequest,domain=wetter.com
+||pagead2.googlesyndication.com^$domain=wetter.com
+||yieldlab.net^$domain=wetter.com
