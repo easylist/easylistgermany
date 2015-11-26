@@ -2200,3 +2200,8 @@ _ad_integration.$domain=gamestar.de
 ||pagead2.googlesyndication.com^$domain=woxikon.de
 ! Fanfiktion.de
 ||partner.googleadservices.com^$domain=fanfiktion.de
+! Finanzen.net
+||ligatus.com^$domain=finanzen.net
+||pagead2.googlesyndication.com^$domain=finanzen.net
+||sascdn.com^$domain=finanzen.net
+||twiago.com^$domain=finanzen.net
