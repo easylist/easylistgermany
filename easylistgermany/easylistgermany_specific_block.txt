@@ -2195,5 +2195,6 @@ _ad_integration.$domain=gamestar.de
 ||pagead2.googlesyndication.com^$domain=wetter.com
 ||yieldlab.net^$domain=wetter.com
 ! Woxikon.de
+@@||adserver.adtech.de/addyn|*|ADTECH$script,domain=woxikon.de
 ||adtech.de^$domain=woxikon.de
 ||pagead2.googlesyndication.com^$domain=woxikon.de
