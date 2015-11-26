@@ -2198,3 +2198,5 @@ _ad_integration.$domain=gamestar.de
 @@||adserver.adtech.de/addyn|*|ADTECH$script,domain=woxikon.de
 ||adtech.de^$domain=woxikon.de
 ||pagead2.googlesyndication.com^$domain=woxikon.de
+! Fanfiktion.de
+||partner.googleadservices.com^$domain=fanfiktion.de
