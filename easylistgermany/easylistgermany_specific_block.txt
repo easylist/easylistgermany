@@ -2193,6 +2193,7 @@ _ad_integration.$domain=gamestar.de
 ||ad.71i.de^$domain=prosieben.at|prosieben.ch|prosieben.de
 ||ads.stickyadstv.com^$domain=prosieben.at|prosieben.ch|prosieben.de
 ||doubleclick.net^$~object-subrequest,domain=prosieben.at|prosieben.ch|prosieben.de
+||imasdk.googleapis.com^$domain=prosieben.at|prosieben.ch|prosieben.de
 ||partner.googleadservices.com^$domain=prosieben.at|prosieben.ch|prosieben.de
 ||revsci.net^$domain=prosieben.at|prosieben.ch|prosieben.de
 ||yieldlab.net^$domain=prosieben.at|prosieben.ch|prosieben.de
