@@ -1133,7 +1133,7 @@ pagewizz.com##.amazon_module + span
 winfuture.de##.amazon_top_deal_box
 pcgameshardware.de##.amazonorder
 pcwelt.de##.amazonteaser
-gamepro.de,gamestar.de##.amz
+gamepro.de##.amz
 andreziegler.de##.amz_main
 winfuture.de##.amzwgt
 sdx.cc##.announce_text
@@ -1622,7 +1622,7 @@ bloodchamber.de##.main_banner
 svs-seligenporten.de##.main_sponsor
 eeepc.de##.mainpage > .tableinborder[cellspacing="1"][cellpadding="1"][border="0"][style="width: 96%"]
 welt.de##.marginalTeaser
-gamepro.de,gamestar.de##.marketbox_brace
+gamepro.de##.marketbox_brace
 pcwelt.de##.marketplace
 mobilfunk-talk.de##.md1
 t-online.de##.med_anz
@@ -3030,7 +3030,6 @@ excitingcommerce.de##img[style="margin: 5px 5px 0px 0px; border-width:0px; align
 filestore.to##img[style="width:728px;"]
 bluewin.ch##img[title="Anzeige"]
 looki.de##img[usemap="#branding"]
-gamestar.de##img[usemap^="#Image-"]
 quadclub-harz.de##img[width="1"][height="120"] + table[width="100%"][cellspacing="0"][cellpadding="0"]
 suedtirolnews.it##img[width="120"][height="125"]
 topmodels.de,xxx-blog.to##img[width="120"][height="600"]
