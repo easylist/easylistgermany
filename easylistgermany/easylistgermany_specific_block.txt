@@ -2156,9 +2156,16 @@
 ||wettercomassets.com/img/cms/chameleon/mediapool/thumbs/d/98/article_landingpage_keyvisual_$image
 ! Specific blocking filters necessary for sites whitelisted with $genericblock filter option
 ! Spiegel.de
+@@||adition.com/s?t=$script,domain=spiegel.de
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 ||adition.com^$domain=spiegel.de
+||g.doubleclick.net^$domain=spiegel.de
 ||ligatus.com^$domain=veeseo.com
+||pagead2.googlesyndication.com^$domain=spiegel.de
+||partner.googleadservices.com^$domain=spiegel.de
+||serving-sys.com^$domain=spiegel.de
+||stickyadstv.com^$domain=spiegel.de
+||yieldlab.net^$domain=spiegel.de
 ! Gamestar.de
 .net/ad-$domain=gamestar.de
 _ad2.$domain=gamestar.de
