@@ -2224,3 +2224,17 @@ _ad_integration.$domain=gamestar.de
 ||partner.googleadservices.com^$domain=comunio.de
 ||revsci.net^$domain=comunio.de
 ||yieldlab.net^$domain=comunio.de
+! planetsnow.de
+||ad.de.doubleclick.net^$~object-subrequest,domain=planetsnow.de
+||ad.doubleclick.net^$~object-subrequest,domain=planetsnow.de
+||adsafeprotected.com^$domain=imasdk.googleapis.com|planetsnow.de
+||adserver.gb4.motorpresse.de^$domain=planetsnow.de
+||doubleclick.net/pfadx/*.planetsnow_video.de_de/$domain=imasdk.googleapis.com|planetsnow.de
+||flashtalking.com^$domain=planetsnow.de
+||g.doubleclick.net^$domain=imasdk.googleapis.com
+||g.doubleclick.net^$object-subrequest,domain=planetsnow.de
+||imasdk.googleapis.com^$domain=planetsnow.de
+||intellitxt.com^$domain=planetsnow.de
+||pagead2.googlesyndication.com^$domain=planetsnow.de
+||partner.googleadservices.com^$domain=planetsnow.de
+||static.plista.com^*/resized/$domain=planetsnow.de
