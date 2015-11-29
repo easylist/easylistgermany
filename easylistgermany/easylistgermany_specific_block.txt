@@ -2217,6 +2217,9 @@ _ad_integration.$domain=gamestar.de
 ||sascdn.com^$domain=finanzen.net
 ||twiago.com^$domain=finanzen.net
 ! boote-forum.de
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=boote-forum.de
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=boote-forum.de
+||g.doubleclick.net^$domain=boote-forum.de
 ||pagead2.googlesyndication.com^$domain=boote-forum.de
 ! comunio.de
 ||g.doubleclick.net^$domain=comunio.de
