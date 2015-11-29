@@ -2218,3 +2218,9 @@ _ad_integration.$domain=gamestar.de
 ||twiago.com^$domain=finanzen.net
 ! boote-forum.de
 ||pagead2.googlesyndication.com^$domain=boote-forum.de
+! comunio.de
+||g.doubleclick.net^$domain=comunio.de
+||pagead2.googlesyndication.com^$domain=comunio.de
+||partner.googleadservices.com^$domain=comunio.de
+||revsci.net^$domain=comunio.de
+||yieldlab.net^$domain=comunio.de
