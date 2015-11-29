@@ -2176,7 +2176,6 @@ _ad_integration.$domain=gamestar.de
 ||ligatus.com^$domain=gamestar.de
 ! Focus.de
 ||amazon-adsystem.com^$domain=focus.de
-||focus.de/js_ng/js_ng_fol_gpt.js$domain=focus.de
 ||googleadservices.com^$domain=focus.de
 ||kka.agitos.de^$domain=focus.de
 ||lotto24.de/?partner=$subdocument,third-party,domain=focus.de
