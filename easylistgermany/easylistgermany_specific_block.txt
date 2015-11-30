@@ -2210,6 +2210,8 @@ _ad_integration.$domain=gamestar.de
 ! Woxikon.de
 @@||adserver.adtech.de/addyn|*|ADTECH$script,domain=woxikon.de
 @@||adtech.de/dt/common/DAC.js$domain=woxikon.de
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=woxikon.de
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=woxikon.de
 ||adtech.de^$domain=woxikon.de
 ||pagead2.googlesyndication.com^$domain=woxikon.de
 ! Fanfiktion.de
