@@ -2162,7 +2162,7 @@
 ||flashtalking.com^$domain=spiegel.de
 ||g.doubleclick.net^$domain=woxikon.de
 !@@||adition.com/s?t=$script,domain=spiegel.de
-!@@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
+@@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 ||adition.com^$domain=spiegel.de
 ||g.doubleclick.net^$domain=spiegel.de
 ||ligatus.com^$domain=veeseo.com
