@@ -2203,9 +2203,18 @@ _ad_integration.$domain=gamestar.de
 ||yieldlab.net^$domain=prosieben.at|prosieben.ch|prosieben.de
 ! Wetter.com
 @@||ad.71i.de/global_js/globalV6.js$domain=wetter.com
+@@||ad.71i.de/global_js/Sites/wettercom.js$domain=wetter.com
 ||ad.71i.de^$domain=wetter.com
+||ad.de.doubleclick.net^$~object-subrequest,domain=wetter.com
 ||ad.doubleclick.net^$~object-subrequest,domain=wetter.com
+||adform.net^$domain=wetter.com
+||adition.com^$domain=wetter.com
+||amazon-adsystem.com^$domain=wetter.com
+||betrad.com^$domain=wetter.com
+||mpnrs.com^$domain=wetter.com
 ||pagead2.googlesyndication.com^$domain=wetter.com
+||revsci.net^$domain=wetter.com
+||stickyadstv.com^$domain=wetter.com
 ||yieldlab.net^$domain=wetter.com
 ! Woxikon.de
 @@||adserver.adtech.de/addyn|*|ADTECH$script,domain=woxikon.de
