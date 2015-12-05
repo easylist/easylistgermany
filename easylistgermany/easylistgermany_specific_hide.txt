@@ -3317,6 +3317,7 @@ focus.de##.ob_dual_right > .ob_ads_header ~ .odb_div
 tvspielfilm.de##.plistaList > .itemLinkPET
 ! Finanzen.net
 finanzen.net##.plistaList > .itemLinkPET
+finanzen.net##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
 ! planetsnow.de
 planetsnow.de##.plistaList > .itemLinkPET
 planetsnow.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]

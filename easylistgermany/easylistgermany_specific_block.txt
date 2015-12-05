@@ -2228,9 +2228,11 @@ _ad_integration.$domain=gamestar.de
 ||pagead2.googlesyndication.com^$domain=fanfiktion.de
 ||partner.googleadservices.com^$domain=fanfiktion.de
 ! Finanzen.net
+@@||sascdn.com/diff/251/pages/$script,domain=finanzen.net
 ||ligatus.com^$domain=finanzen.net
 ||pagead2.googlesyndication.com^$domain=finanzen.net
 ||sascdn.com^$domain=finanzen.net
+||smartadserver.com^$domain=finanzen.net
 ||twiago.com^$domain=finanzen.net
 ! boote-forum.de
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=boote-forum.de
