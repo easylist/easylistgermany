@@ -3307,10 +3307,9 @@ news.de##.plista_widget_underArticle_item + div[style="position: relative;"] > s
 !mopo24.de##article[class$="block"][data-id]
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
 ! Spiegel.de
-spiegel.de##.innerwrapad iframe
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
+spiegel.de##a[href^="http://ad8.adfarm1.adition.com/"]
 plista.com##a[href^="http://click.plista.com/pets"]
-spiegel.de##iframe[width="860"][height="250"]
 ! Focus.de
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 focus.de##.ob_dual_right > .ob_ads_header ~ .odb_div
