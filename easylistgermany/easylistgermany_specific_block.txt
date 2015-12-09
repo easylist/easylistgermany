@@ -2158,21 +2158,26 @@
 ! Specific blocking filters necessary for sites whitelisted with $genericblock filter option
 ! Spiegel.de
 @@||adition.com/s?t=$script,domain=spiegel.de
+@@||imagesrv.adition.com/banners/1337/files/00/05/f1/17/000000389399.jpg$domain=spiegel.de
+@@||imagesrv.adition.com/banners/1337/files/00/05/f1/18/000000389400.jpg$domain=spiegel.de
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 ||2mdn.net^$~object-subrequest,domain=spiegel.de
 ||ad-srv.net^$domain=spiegel.de
 ||ad.doubleclick.net^$~object-subrequest,domain=spiegel.de
 ||adform.net^$domain=spiegel.de
 ||adition.com^$domain=spiegel.de
+||adsafeprotected.com^$domain=spiegel.de
 ||cas.*.criteo.com^$domain=spiegel.de
 ||cas.criteo.com^$domain=spiegel.de
 ||caw.*.criteo.com^$domain=spiegel.de
 ||caw.criteo.com^$domain=spiegel.de
 ||flashtalking.com^$domain=spiegel.de
 ||g.doubleclick.net^$domain=spiegel.de|woxikon.de
+||gmads.net^$domain=spiegel.de
 ||images.*.criteo.net^$domain=spiegel.de
 ||images.criteo.net^$domain=spiegel.de
 ||ligatus.com^$domain=veeseo.com
+||mookie1.com^$domain=spiegel.de
 ||pagead2.googlesyndication.com^$domain=spiegel.de
 ||partner.googleadservices.com^$domain=spiegel.de
 ||qservz.com^$domain=spiegel.de
@@ -2191,6 +2196,7 @@
 ||static.criteo.net/js/duplo^$domain=spiegel.de
 ||stickyadstv.com^$domain=spiegel.de
 ||yieldlab.net^$domain=spiegel.de
+||zanox.com/ppv/$domain=spiegel.de
 ! Gamestar.de
 .net/ad-$domain=gamestar.de
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=gamestar.de
