@@ -3307,7 +3307,6 @@ news.de##.plista_widget_underArticle_item + div[style="position: relative;"] > s
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
 ! Spiegel.de
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
-spiegel.de##a[href^="http://ad8.adfarm1.adition.com/"]
 plista.com##a[href^="http://click.plista.com/pets"]
 ! Focus.de
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
