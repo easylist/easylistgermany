@@ -362,6 +362,7 @@
 @@||sparfoto.de/article_designer/ad.php?$object
 @@||spiegel.de^$genericblock,generichide
 @@||spielen.de/bundles/mediatrustfrontend/js/javascript.js?
+@@||spielesite.com^$script,domain=spielesite.com
 @@||spielkarussell.de^*/ads_loader_new.js
 @@||sport.de/autoimg/*/300x250/$image,~third-party
 @@||sport1.fm/ad/my_ad_iframe.html?ad_id=performance*&start=$subdocument
