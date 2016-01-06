@@ -3322,6 +3322,7 @@ spiegel.de##iframe[width="910"][height="90"]
 !
 tvspielfilm.de,tvtoday.de##[-abp-properties='background-color: *; clear: both; cursor: pointer; margin-bottom: 12px;']
 tvspielfilm.de,tvtoday.de##[-abp-properties='clear: both; cursor: pointer; margin-left: 47px;']
+spiegel.de##[-abp-properties='clear: right; float: right;'] > div > img
 wetter.com##[-abp-properties='cursor: pointer; height: 600px; *width: 160px; z-index: 13;']
 prosieben.de,sixx.de##[-abp-properties='cursor: pointer; left: 950px; position: absolute; top: 100px;']
 tvspielfilm.de##[-abp-properties='cursor: pointer; left: 974px; position: absolute; top: 100px;']
