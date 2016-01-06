@@ -3319,3 +3319,21 @@ ariva.de,boote-forum.de,comunio.de,fanfiktion.de,finanzen.net,focus.de,gamestar.
 plista.com##a[href^="http://click.plista.com/pets"]
 spiegel.de##iframe[width="120"][height="600"]
 spiegel.de##iframe[width="910"][height="90"]
+!
+tvspielfilm.de,tvtoday.de##[-abp-properties='background-color: *; clear: both; cursor: pointer; margin-bottom: 12px;']
+tvspielfilm.de,tvtoday.de##[-abp-properties='clear: both; cursor: pointer; margin-left: 47px;']
+wetter.com##[-abp-properties='cursor: pointer; height: 600px; *width: 160px; z-index: 13;']
+prosieben.de,sixx.de##[-abp-properties='cursor: pointer; left: 950px; position: absolute; top: 100px;']
+tvspielfilm.de##[-abp-properties='cursor: pointer; left: 974px; position: absolute; top: 100px;']
+gamestar.de##[-abp-properties='cursor: pointer; left: 990px; position: absolute; top: 100px;']
+tvtoday.de##[-abp-properties='cursor: pointer; left: 994px; position: absolute; top: 100px;']
+tvspielfilm.de##[-abp-properties='cursor: pointer; margin-bottom: 10px; margin-left: 236px;']
+prosieben.de##[-abp-properties='cursor: pointer; margin-bottom: 15px; margin-left: 35px;']
+sixx.de##[-abp-properties='cursor: pointer; margin-bottom: 15px;']
+prosieben.de,sixx.de##[-abp-properties='cursor: pointer; margin-bottom: 30px;']
+gala.de##[-abp-properties='cursor: pointer; margin-bottom: 45px; margin-left: 10px;']
+gala.de##[-abp-properties='cursor: pointer; margin-left: 116px;']
+gamestar.de##[-abp-properties='cursor: pointer; margin-left: 252px; margin-top: 10px;']
+gamestar.de##[-abp-properties='cursor: pointer; text-align: center;'] > img
+wetter.com##[-abp-properties='cursor: pointer;'] > img
+wetter.com##[-abp-properties='width: 728px;']
