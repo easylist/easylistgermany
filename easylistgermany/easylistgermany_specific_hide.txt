@@ -3321,6 +3321,7 @@ plista.com##a[href^="http://click.plista.com/pets"]
 spiegel.de##iframe[width="120"][height="600"]
 spiegel.de##iframe[width="910"][height="90"]
 !
+boerse-online.de,fem.com,flugzeugforum.de,gamepro.de,gamestar.de,general-anzeiger-bonn.de,kabeleins.de,pcwelt.de,prosieben.de,prosiebenmaxx.de,sat1.de,sat1gold.de,serienjunkies.de,sixx.de,sportal.de,the-voice-of-germany.de,tvspielfilm.de,tvtoday.de,wn.de,womenshealth.de##[-abp-properties='*left: *px*; position: absolute; top: *px;'] > img
 tvspielfilm.de,tvtoday.de##[-abp-properties='background-color: *; clear: both; cursor: pointer; margin-bottom: 12px;']
 tvspielfilm.de,tvtoday.de##[-abp-properties='clear: both; cursor: pointer; margin-left: 47px;']
 spiegel.de##[-abp-properties='clear: right; float: right;'] > div > img
@@ -3337,5 +3338,12 @@ gala.de##[-abp-properties='cursor: pointer; margin-bottom: 45px; margin-left: 10
 gala.de##[-abp-properties='cursor: pointer; margin-left: 116px;']
 gamestar.de##[-abp-properties='cursor: pointer; margin-left: 252px; margin-top: 10px;']
 gamestar.de##[-abp-properties='cursor: pointer; text-align: center;'] > img
-wetter.com##[-abp-properties='cursor: pointer;'] > img
+boerse-online.de,fem.com,pcwelt.de,wetter.com,womenshealth.de##[-abp-properties='cursor: pointer;'] > img
+boerse-online.de,flugzeugforum.de,gamepro.de,gamestar.de,general-anzeiger-bonn.de,kabeleins.de,pcwelt.de,prosieben.de,prosiebenmaxx.de,sat1.de,sat1gold.de,serienjunkies.de,sixx.de,sportal.de,the-voice-of-germany.de,tvspielfilm.de,tvtoday.de,wn.de##[-abp-properties='height: 90px; margin*; width: *px;']
+gala.de,kabeleins.de,prosieben.de,prosiebenmaxx.de,sat1.de,sat1gold.de,serienjunkies.de,sixx.de,the-voice-of-germany.de,tvspielfilm.de,tvtoday.de,wn.de##[-abp-properties='margin*: *px;']
+fem.com,general-anzeiger-bonn.de,womenshealth.de##[-abp-properties='margin-bottom: 10px; margin-left: 1*px;']
+fem.com##[-abp-properties='margin-bottom: 10px; margin-left: 2*2px;']
+boerse-online.de##[-abp-properties='margin-bottom: 20px; margin-left: 10px; margin-right: 10px;']
+gamepro.de,gamestar.de,sportal.de##[-abp-properties='margin-left: 2*px; margin-top: 10px;'] > img
+gamepro.de,gamestar.de##[-abp-properties='text-align: center;'] > img
 prosieben.de,sixx.de,wetter.com##[-abp-properties='width: 728px;']
