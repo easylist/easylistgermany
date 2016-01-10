@@ -66,6 +66,7 @@
 @@||adshot.de/click/view.php$image,domain=dateibrowser.de|filebroker.de|thisload.de
 @@||adstyle.com^$~third-party
 @@||adtech.de/?adrawdata/$object-subrequest,domain=cineman.de|login.audimark.de|player.nowonscreen.com
+@@||adtech.de/?advideo/*;vidAS=pre_roll;$object-subrequest,domain=t-online.de
 @@||adtech.de/addyn/*/ADTECH;$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||adtech.de/adperf/$script,domain=jetztspielen.de|spielen.com
 @@||adtech.de/adrawdata$object-subrequest,domain=player.nowonscreen.com
@@ -226,6 +227,8 @@
 @@||homad2.spiegel.tv/|$object-subrequest
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
 @@||idowa.de^*/advertisement/$xmlhttprequest
+@@||im.banner.t-online.de/?advideo/*;vidRT=VAST;$domain=t-online.de
+@@||im.banner.t-online.de/crossdomain.xml$domain=t-online.de
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=heise.de|radio.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=radio.de
 @@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de|sunsteps.org
@@ -381,6 +384,7 @@
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
+@@||t-online.de/tv/$genericblock,generichide
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tape.tv/tape2fs/images/campaign/teaser-redaktion.swf?
 @@||teaser.neckermann.de/addyn/3.0/*/adtech;loc=100;target=_blank;grp=*;misc=$script,domain=neckermann.de
