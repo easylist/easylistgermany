@@ -312,6 +312,7 @@ g4u.me###dl-middle
 dmax.de###dni-sponsor-link
 schelian.de###dnn_dnnBANNER_lstBanners
 seamonkey.at###donor
+ddl-warez.to###download > div:first-child + br + a
 winload.de###downloading > #websearch[style="margin-top: 8px; background-color: white;"]
 dug-portal.com###dp_layer
 golyr.de###drk
@@ -2038,7 +2039,6 @@ yelp.at,yelp.ch,yelp.de##.yloca-search-result-exp
 magistrix.de##.zeezee
 german-bash.org##.zitat > div[style="width:300px;"]
 listsandnews-de.net##A[href^="http://www.dekarrierejournal.com/index.php?A="]
-ddl-warez.to##A[onclick^="window.location.href='http://www.FriendlyDuck.com/AF_"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
@@ -2536,6 +2536,8 @@ ixquick.de##a[id^="spurl"]
 gaming-insight.de##a[id^="takeoverlink"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=")"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=");"] > img[src^="/"]
+ddl-warez.to##a[onclick*="share-online.biz//affiliate/"]
+ddl-warez.to##a[onclick*="uploaded.net/ref/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick][href$="#"] > img[src^="/"]
 kochbar.de,rtl.de,sport.de,vip.de,vox.de,wetter.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
 rtl.de##a[onclick^="$('<img></img>').attr(\7b src: '/xdot/count?id="]
@@ -2554,8 +2556,6 @@ suchen.de##a[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 prad.de##a[onclick^="trackOutboundLink(this, 'HP'"]
 rtl.de##a[onclick^="verivox_go("]
 rtl.de##a[onclick^="verivox_go_"]
-ddl-warez.to##a[onclick^="window.location.href=' http://uploaded.net/ref/"]
-ddl-warez.to##a[onclick^="window.location.href='https://share-online.biz//affiliate/"]
 downloadstube.net##a[onclick^="window.open('/download-file.php?type=premium&"]
 sexkino.to##a[onclick^="window.open('http://www.FriendlyDuck.com/AF_"]
 sexkino.to##a[onclick^="window.open('http://www.privatamateure.com/?wmid="]
