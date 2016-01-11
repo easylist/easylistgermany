@@ -1481,6 +1481,7 @@ quoka.de##.gad
 sinn-frei.com##.gadline
 markt.de,preisgenau.de##.gads
 rawsucker.com,sinn-frei.com##.galine
+quoka.de##.gallery + .partner
 lakeparty.de##.gallery-banner-wrapper
 tagesspiegel.de##.gam_wrapper
 spielkarussell.de##.game-side-banner-wrap
@@ -1704,7 +1705,8 @@ golem.de##.paged-cluster-header + div[style="margin:15px 0; min-height:266px;"]
 freiburger-nachrichten.ch##.pane-frn-content-inserate-slider
 oekoportal.de##.panel-display > .panel-col-side > #block-views-website-block-1
 spiegelfechter.com##.parship
-computerbild.de,dvd-forum.at,dwdl.de,euractiv.de,falstaff.at,falstaff.de,giga.de,ibash.de,leinehertz.net,multipic.de,plattentests.de,quoka.de##.partner
+computerbild.de,dvd-forum.at,dwdl.de,euractiv.de,falstaff.at,falstaff.de,giga.de,ibash.de,leinehertz.net,multipic.de,plattentests.de##.partner
+quoka.de##.partner > .hp-highlight
 tvemsdetten.com##.partner-slider
 sat1.de##.partner_box
 eatsmarter.de##.partnerbox
@@ -3112,6 +3114,7 @@ sceneload.to##input[value="Fullspeed Mirror"]
 ddlporn.org##input[value="Highspeed Mirror"]
 stealth.to##input[value="Mirror"]
 warez-load.com##input[value="Schneller Downloaden!"]
+quoka.de##li.partner
 gsx-r1000.de##li[data-author=">>>>>Werbung<<<<<"]
 tagesanzeiger.ch##li[id^="msgId_"] > .rightCol > p > a[target="_blank"] > img
 goldesel.to##li[title="Downloaden mit Fullspeed"]
