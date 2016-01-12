@@ -16,7 +16,7 @@
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
 @@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|bundesliga.de|gamepro.de|myvideo.de|n24.de|netzwelt.de|prosieben.de|sport1.fm
-@@||ad.71i.de/global_js/Sites/$script,domain=gamepro.de|n24.de|netzwelt.de|sport1.fm
+@@||ad.71i.de/global_js/Sites/$script,domain=gamepro.de|gamestar.de|n24.de|netzwelt.de|sport1.fm
 @@||ad.71i.de/images/fallback/video/1_sek.mp4$domain=netzwelt.de
 @@||ad.adworx.at/crossdomain.xml$object-subrequest
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
@@ -204,6 +204,7 @@
 @@||gamersplus.de/images/branding/*_header_
 @@||games.myvideo.de/ressource/js/sevengames/sevengames/adtags.*.js?
 @@||games.tfag.de^$domain=fitforfun.de
+@@||gamestar.de/js/gamestar/my_ad_integration.min.js$domain=gamestar.de
 @@||gamestar.de^*.html$genericblock,generichide
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
 @@||gfsrv.net/ad/$domain=ogame.de
