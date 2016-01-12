@@ -3328,7 +3328,6 @@ plista.com##a[href^="http://click.plista.com/pets"]
 spiegel.de##iframe[width="120"][height="600"]
 spiegel.de##iframe[width="910"][height="90"]
 !
-webfail.com###aside > [-abp-properties='cursor: pointer;']
 lustich.de###contentTopBg > [-abp-properties='height: 9*px; margin-bottom: *px; margin-left: *px; margin-right: *;']
 spox.com###frnMain > [-abp-properties='cursor: pointer; height: *px; margin-bottom: 5px; margin-top: *px; width: *px;']
 lustich.de###ip_content_wrapper > [-abp-properties='height: *px; left: *; margin-left: *px; position: absolute; top: *px; vertical-align: *; width: *px;']
@@ -3360,7 +3359,7 @@ prosieben.de##[-abp-properties='cursor: pointer; margin-bottom: 15px; margin-lef
 sixx.de##[-abp-properties='cursor: pointer; margin-bottom: 15px;']
 prosieben.de,sixx.de##[-abp-properties='cursor: pointer; margin-bottom: 30px;']
 gala.de##[-abp-properties='cursor: pointer; margin-bottom: 45px; margin-left: 10px;']
-auto-motor-und-sport.de,pcwelt.de,webfail.com##[-abp-properties='cursor: pointer; margin-left: *px;']
+auto-motor-und-sport.de,pcwelt.de##[-abp-properties='cursor: pointer; margin-left: *px;']
 arcor.de##[-abp-properties='cursor: pointer; margin-left: 10px; margin-right: 10px;']
 gala.de##[-abp-properties='cursor: pointer; margin-left: 116px;']
 gamestar.de##[-abp-properties='cursor: pointer; margin-left: 252px; margin-top: 10px;']
@@ -3376,6 +3375,5 @@ boerse-online.de##[-abp-properties='margin-bottom: 20px; margin-left: 10px; marg
 gamepro.de,gamestar.de,sportal.de##[-abp-properties='margin-left: 2*px; margin-top: *px;'] > img
 wetter.com##[-abp-properties='margin-left: 242px; z-index: 14;']
 ariva.de,wetter.com##[-abp-properties='position: absolute; right: *px; width: *px;']
-webfail.com##[-abp-properties='position: relative; width: 728px']
 gamepro.de,gamestar.de##[-abp-properties='text-align: center;'] > img
 prosieben.de,sixx.de,wetter.com##[-abp-properties='width: 728px;']
