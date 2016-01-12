@@ -2171,11 +2171,13 @@
 @@||adtech.de/dt/common/DAC.js$domain=woxikon.de
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=gamestar.de
 @@||g.doubleclick.net/gampad/ads?$script,domain=fanfiktion.de
+@@||g.doubleclick.net/gampad/ads?*^sz=160x600^$script,domain=focus.de
 @@||g.doubleclick.net/gampad/ads?*^sz=1x1^$script,domain=comunio.de
 @@||g.doubleclick.net/gampad/ads?*^sz=300x250^$script,domain=spiegel.de
 @@||g.doubleclick.net/gampad/ads?*^sz=300x251^$script,domain=focus.de
 @@||g.doubleclick.net/gampad/ads?*^sz=520x300^$script,domain=spiegel.de
 @@||g.doubleclick.net/gampad/ads?*^sz=728x90%7C970x250%7C970x90%7C800x250^$script,domain=focus.de
+@@||g.doubleclick.net/gampad/ads?sz=400x300^$xmlhttprequest,domain=focus.de
 @@||imagesrv.adition.com/banners/1337/files/00/05/f1/17/000000389399.jpg$domain=spiegel.de
 @@||imagesrv.adition.com/banners/1337/files/00/05/f1/18/000000389400.jpg$domain=spiegel.de
 @@||imagesrv.adition.com/banners/1337/files/00/09/5b/b7/000000613303.gif$domain=spiegel.de
