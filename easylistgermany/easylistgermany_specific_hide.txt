@@ -3335,6 +3335,7 @@ lustich.de###ip_content_wrapper > [-abp-properties='height: *px; left: *; margin
 wetter.com###narrowcolumn > [-abp-properties='cursor: pointer;']
 usp-forum.de###rectangle > [-abp-properties='cursor: pointer;']
 runnersworld.de###stage-right > [-abp-properties='cursor: pointer;']
+spiegel.de##.article-section > [-abp-properties='float: right;'] > div
 gamepro.de,gamestar.de##.columnTeaser > [-abp-properties='cursor: pointer;']
 gamepro.de##.content > [-abp-properties='cursor: pointer;']
 gamestar.de##.content > [-abp-properties='padding-top: 20px;']
