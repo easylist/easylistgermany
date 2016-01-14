@@ -3342,6 +3342,7 @@ wetteronline.de###rightcontainer > [-abp-properties='cursor: pointer; margin-top
 brigitte.de###sidebar > [-abp-properties='cursor: pointer; margin-bottom: 2*px;']
 wetteronline.de###sidebar > [-abp-properties='cursor: pointer; padding-top: 1*px;']
 runnersworld.de###stage-right > [-abp-properties='cursor: pointer;']
+eatsmarter.de##.ad > [-abp-properties='cursor: pointer;']
 spiegel.de##.article-section > [-abp-properties='float: right;'] > div
 gamepro.de,gamestar.de##.columnTeaser > [-abp-properties='cursor: pointer;']
 gamepro.de##.content > [-abp-properties='cursor: pointer;']
