@@ -3309,9 +3309,9 @@ news.de##.plista_widget_underArticle_item + div[style="position: relative;"] > s
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
 focus.de,netzwelt.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 focus.de,netzwelt.de##.ob_dual_right > .ob_ads_header ~ .odb_div
-ariva.de,boote-forum.de,comunio.de,fanfiktion.de,finanzen.net,focus.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de,wetter.com,woxikon.de##.plistaList > .itemLinkPET
+ariva.de,boote-forum.de,comunio.de,fanfiktion.de,focus.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de,wetter.com,woxikon.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
-ariva.de,boote-forum.de,comunio.de,fanfiktion.de,finanzen.net,focus.de,gamestar.de,netzwelt.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de,wetter.com,woxikon.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
+ariva.de,boote-forum.de,comunio.de,fanfiktion.de,focus.de,gamestar.de,netzwelt.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de,wetter.com,woxikon.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
 plista.com##a[href^="http://click.plista.com/pets"]
 netzwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! CSS property filters for Adblock Plus
@@ -3351,11 +3351,13 @@ spiegel.de##[-abp-properties='clear: right; float: right;'] > div > img
 wetteronline.de##[-abp-properties='cursor: pointer; float: left; height: 9*px; left: 0px; margin-left: 2*px; position: absolute; width: 7*px; z-index: *;']
 wetter.com##[-abp-properties='cursor: pointer; height: 600px; *width: 160px; z-index: 13;']
 usp-forum.de##[-abp-properties='cursor: pointer; height: 9*px; width: 72*px;']
+finanzen.net##[-abp-properties='cursor: pointer; height: 90px; margin-left: 72px; width: 769px;']
 pcwelt.de##[-abp-properties='cursor: pointer; left: 242px; position: absolute;']
 prosieben.de,sixx.de##[-abp-properties='cursor: pointer; left: 950px; position: absolute; top: 100px;']
 tvspielfilm.de##[-abp-properties='cursor: pointer; left: 974px; position: absolute; top: 100px;']
 gamestar.de##[-abp-properties='cursor: pointer; left: 990px; position: absolute; top: 100px;']
 tvtoday.de##[-abp-properties='cursor: pointer; left: 994px; position: absolute; top: 100px;']
+finanzen.net##[-abp-properties='cursor: pointer; margin-bottom: 10px; margin-left: 144px; width: 769px;']
 tvspielfilm.de##[-abp-properties='cursor: pointer; margin-bottom: 10px; margin-left: 236px;']
 prosieben.de##[-abp-properties='cursor: pointer; margin-bottom: 15px; margin-left: 35px;']
 sixx.de##[-abp-properties='cursor: pointer; margin-bottom: 15px;']
@@ -3364,6 +3366,7 @@ gala.de##[-abp-properties='cursor: pointer; margin-bottom: 45px; margin-left: 10
 auto-motor-und-sport.de,pcwelt.de##[-abp-properties='cursor: pointer; margin-left: *px;']
 arcor.de##[-abp-properties='cursor: pointer; margin-left: 10px; margin-right: 10px;']
 gala.de##[-abp-properties='cursor: pointer; margin-left: 116px;']
+finanzen.net##[-abp-properties='cursor: pointer; margin-left: 13px;']
 focus.de,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com##[-abp-properties='cursor: pointer; margin-left: 15px;']
 ran.de##[-abp-properties='cursor: pointer; margin-left: 2*px;']
 gamestar.de##[-abp-properties='cursor: pointer; margin-left: 252px; margin-top: 10px;']
