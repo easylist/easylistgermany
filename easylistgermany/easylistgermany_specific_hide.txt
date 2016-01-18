@@ -264,8 +264,6 @@ biothemen.de###content + #right
 fernsehkritik.tv###content > #rclm[style="width:224px;"]:last-child
 wgvdl.com###content > #seitenblock > #seitenblockinhalt > #seitenblockzeilen
 oxygen-scene.com###content > .board_message
-netzwelt.de###content > .two-thirds > div[style="margin: 10px; margin-left: 0px;"]
-netzwelt.de###content > .two-thirds > div[style="margin: 10px;"]
 movie-blog.org###content > div[class] > div[class] > div > div > a[href^="http://movie-blog.org/"]
 hoerbuch.us,lesen.to###content > font[color="red"] > h2
 onlinereports.ch###content-banner1
@@ -322,7 +320,6 @@ drehscheibe-foren.de,drehscheibe-online.de###dsBanner
 800gs.de###duonix
 onlinewebservice4.de###dwindow
 billiger.de###ebay_footer_widget_ajax
-netzwelt.de###eccontainer
 report-k.de###empf
 kueche1.com###empfbox
 hot-warez.org###error
@@ -442,7 +439,6 @@ immonet.de###interhypSonder
 123recht.net###ip_content_wrapper > div[style="height: 90px;"]
 abload.de###iphpbannerleft
 golem.de###iqadtile4gol
-netzwelt.de###iqadtile6
 golem.de###iqadtile8gol + section
 netzpolitik.org###iqdTop
 sueddeutsche.de###iqd_flashAd
@@ -507,7 +503,6 @@ lesben.org###logo
 5-jahres-wertung.de###logo-right > div[style="float:left;margin-top:25px;"]
 wetteralarm.at###logo-sponsor
 uimserv.net###logoutlounge
-netzwelt.de###looking_glass
 eurogamer.de###low-leaderboard
 hornoxe.com###lside > center > a[target="_blank"] > img
 chili-warez.net,mov-world.net,xxx-4-free.net###lyr
@@ -537,7 +532,6 @@ bazonline.ch###marketBox
 markt.de###markt_superbanner
 ef-magazin.de,macmagazin.de,macnews.de###marktplatz
 euronics.de###master_footer_box_placeholder
-netzwelt.de###mc > .killm
 startxxl.com###mcebox
 chilloutzone.net###mdealzcontainer
 linkbase.in###mdh
@@ -561,7 +555,6 @@ totalbash.org###mitte > .menueoben + .beitrag_oben2
 totalbash.org###mitte > .menueoben + .beitrag_oben2 + .beitrag
 totalbash.org###mitte > .menueoben + .beitrag_oben2 + .beitrag + .beitrag_unten
 heise.de###mitte > .right[style="font-size: 0.7em; margin-right: 20px;"]
-netzwelt.de###ml
 ogame.de###mmoPFstaticWrap
 jobrapido.de###modalBackground[style="width: 1903px; height: 1059px; opacity: 0.2; display: block;"]
 jobrapido.de###modalDialog[style="display: block; top: 355.5px; left: 686.5px;"]
@@ -569,7 +562,6 @@ orf.at###monsterdiv
 berlin-nutten.com###more-sex
 stadtradio-goettingen.de###mp3ads
 radio-teddy.de###mpl
-netzwelt.de###mr
 gamigo.de###mrbox
 visions.de###mrect
 morgenpost.de###mrect01
@@ -743,8 +735,6 @@ sosuanachrichten.com###right_banner
 psoriasis-netz.de###rightbanner
 grosseleute.de###rightboxcontent > :nth-child(n) a[href] div img[src^="image/"]
 grosseleute.de###rightboxcontent > :nth-child(n) div:first-child:last-child > a[href] > img[src^="image/"]
-netzwelt.de###rightnav > style + .informative + .social_block + .informative
-netzwelt.de###rightnav > style[type="text/css"] + .informative
 golyr.de###ring
 dnewsvideo.de###roadblockHeader
 superfly.fm###rognerbadblumauhp_hype_container
@@ -882,8 +872,6 @@ juve.de###superbanner_top
 tri-mag.de###superbanner_wide
 chilloutzone.net###superreplacement
 iphoneblog.de,viply.de,web.de###supersize
-netzwelt.de###takeover_helper
-netzwelt.de###takeover_helper + style[type="text/css"] + .informative + .social_block + .informative
 myspass.de###target_banner_wrapper
 myspass.de###target_banner_wrapper_helper
 endungen.de###tblAdd2
@@ -1065,7 +1053,6 @@ wz-newsline.de##.adDisclaimerLight
 games.ch,webfail.at##.adMR
 skandinavien.eu##.ad_big
 augsburger-allgemeine.de##.ad_load
-netzwelt.de##.ad_software
 t3n.de##.adbContentAd1
 knuddels.de##.adbg
 magistrix.de,wuv.de##.adblock
@@ -1266,8 +1253,6 @@ geizhals.at##.box10h + .gh_cat
 gesund.tv##.boxContent-brands
 androidpit.de##.boxLightLeft[style="width:620px; text-align:center; font-size:95%"]
 franchise-net.de##.box_174
-netzwelt.de##.box_content_body > div[style="margin-top: 10px;"]
-netzwelt.de##.box_content_footer > div[style="width: 310px; padding: 0px 0px 9px 130px;"]
 werder.de##.box_sponsor
 schwaebische.de##.box_width2 > div[style="border:1px solid #999999;padding:6px;"]
 sms.de##.boxbody[width="190"][valign="top"][align="left"][rowspan="7"]:last-child
@@ -1550,8 +1535,6 @@ welt.de##.inTextTeaser1
 autoline-eu.at,autoline-eu.ch,autoline.de##.index-center-banners-1
 autoline-eu.at,autoline-eu.ch,autoline.de##.index-main-banners
 hornoxe.com##.infobox + .navigation + [align="center"] + .box-grey
-netzwelt.de##.informative[style="padding-left:5px; padding-right:5px; height: 438px;"]
-netzwelt.de##.informative[style="padding-left:5px; padding-right:5px;"]
 technic3d.com##.infscroll > .rcolumn2[style="text-align: center; height: 250px;"]
 quoka.de##.inner > #RelatedAdsList + .yui3-g
 blur.ws##.inner > .pefb
@@ -2872,7 +2855,6 @@ ifun.de,iphone-ticker.de##div[style="margin: -36px 0 0px -18px; width: 1024px; h
 ifun.de,iphone-ticker.de##div[style="margin: -36px 0 24px -18px; width: 1024px; height: 148px; display: block; clear: both; background: rgba(248,248,248,1.0); overflow: hidden;"]
 iphone-ticker.de##div[style="margin: -36px 0 24px -18px; width: 1024px; height: 298px; display: block; clear: both; background: rgba(248,248,248,1.0); overflow: hidden;"]
 n-tv.de##div[style="margin: 0 5px; width:290px; height:100px; background-image:url(http://www.n-tv.de/ads/images/rechner/c24-bg.png);"]
-netzwelt.de##div[style="margin: 10px 0px 10px 10px;"]
 flirttown.net##div[style="margin:auto; width:300px; height:250px; margin-bottom:10px; border: 1px solid #cdbe8f"]
 tvinfo.de##div[style="overflow:hidden;margin:0;padding:0;height:125px;width:395px"]
 tonight.rp-online.de##div[style="padding-left:10px;width:980px;height:90px;"]
@@ -2887,7 +2869,6 @@ rclineforum.de##div[style="position: absolute; right:0px; top:0px; background-im
 jobboerse.de##div[style="position: absolute; top: 130; left: 800; border: 1px solid black; background-color: white; padding: 0; width: 120; height: 600;"]
 wettforum.info##div[style="position: absolute; width: 300px; height: 250px; right: 5px; top: 1px; text-align: left;"]
 wettforum.info##div[style="position: fixed; width: 748px; height: 93px; left: 200px; top: 0px; text-align: left; z-index: 2; background-image: url(http://www.wettforum.info/styles/frame.png); background-position: center; background-repeat: no-repeat;"]
-netzwelt.de##div[style="position: relative; top: 60px; right: -173px; font-size: 11px; text-align: right; color: #444;"]
 hitradio.com.na##div[style="position: relative; z-index: 1; width: 240px; height: 220px;"]
 kochbar.de##div[style="position: relative;margin: 0;padding: 0;border: 0;width: 300px;height: 238px;background-color:#FFF;"]
 astronews.com##div[style="position:absolute; top:115px; left:925px; width:300px"]
