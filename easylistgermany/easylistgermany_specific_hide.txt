@@ -2025,7 +2025,6 @@ magistrix.de##.zeezee
 german-bash.org##.zitat > div[style="width:300px;"]
 listsandnews-de.net##A[href^="http://www.dekarrierejournal.com/index.php?A="]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
-npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href^="/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
 filecrypt.cc##[onmouseup$="', this);"][href^="javascript:"]
 forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 100px; left: 550px; empty-cells: hide;"]
