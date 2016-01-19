@@ -309,6 +309,7 @@
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
 @@||photo.knuddels.de/kde/ad2/$image
 @@||pixel.adsafeprotected.com/jspix?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
+@@||pixelio.de^$genericblock,generichide
 @@||planetsnow.de^$genericblock,generichide
 @@||playboy.de/files/html/Advertorials/$~third-party
 @@||player.newsnetz.tv/player/iframe.php?vid=*&adurl=$subdocument
