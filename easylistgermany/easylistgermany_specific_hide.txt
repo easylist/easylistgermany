@@ -70,6 +70,7 @@ namibia-forum.ch###abakus
 1jux.net###abp
 handballworld.com###absolute > .bannergroup
 20min.ch,anime-loads.org,doku.to,german-foreign-policy.com,hardwarelabs.de,otrkey.com,otrking.com,radiolisten.de,webos-blog.de,xboxaktuell.de###ad
+wetter.com###ad-fullbanner2-outer + *
 radiolisten.de###ad3
 carpassion.com,high-minded.us,messerforum.net,mmorpg-core.com,schachburg.de,thinkpad-forum.de,unixboard.de,world-of-hentai.to###ad_global_below_navbar
 musicelster.net###ad_global_below_navbar > center > div[style="float:right; width:50%;"]
@@ -576,7 +577,7 @@ funnybilder.net,lachfails.net,vipbilder.net###mt_right
 mov-world.net###mw_layer
 lexas.biz###mypop2_b
 send4free.de###n8f880e
-wetter.com###narrowcolumn > a[id][class][href] > img[src]
+wetter.com###narrowcolumn > a[class][href] > img[src]
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
 web.de###navigation > #navSpecial[style="height: 235px;"]
@@ -3414,6 +3415,7 @@ arcor.de##[-abp-properties='margin-left: 10px; margin-right: 10px;']
 cavallo.de,pnn.de##[-abp-properties='margin-left: 15px;']
 gamepro.de,gamestar.de,sportal.de##[-abp-properties='margin-left: 2*px; margin-top: *px;'] > img
 motorradonline.de##[-abp-properties='margin-left: 20px; position: relative; width: 910px;']
+wetter.com##[-abp-properties='margin-left: 240px;'] > img
 wetter.com##[-abp-properties='margin-left: 242px; z-index: 14;']
 wetter.com##[-abp-properties='margin-left: 242px;']
 boerse.de##[-abp-properties='margin-left: 34px;']
