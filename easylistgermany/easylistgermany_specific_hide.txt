@@ -447,6 +447,7 @@ sueddeutsche.de###iqd_medrecAd
 mein-schoener-garten.de###ivw_img + noscript + script + script + div[style="height:132px;"]
 boerse-online.de###ivwimg
 sein.de###ja-col1 a[target="_blank"] > img[alt=""]
+spiegel.de###js-article-column div[id][class] > a[class][href] > img
 redhocks.de###jsn-promo
 general-anzeiger-bonn.de###kala
 express.de,fr-online.de,general-anzeiger-bonn.de,ksta.de,mz-web.de,rhein-zeitung.de,wz-newsline.de###kalaydo
@@ -3322,6 +3323,7 @@ womenshealth.de###col-left > [-abp-properties='cursor: pointer;']
 lustich.de###contentTopBg > [-abp-properties='height: 9*px; margin-bottom: *px; margin-left: *px; margin-right: *;']
 spox.com###frnMain > [-abp-properties='cursor: pointer; height: *px; margin-bottom: 5px; margin-top: *px; width: *px;']
 lustich.de###ip_content_wrapper > [-abp-properties='height: *px; left: *; margin-left: *px; position: absolute; top: *px; vertical-align: *; width: *px;']
+spiegel.de###js-article-column > [-abp-properties='margin-bottom: 1*px; padding-bottom: 1*px;']
 spiegel.de###js-article-column > [-abp-properties='margin-bottom: 15px; padding-bottom: 15px;']
 spiegel.de###js-article-column [-abp-properties='cursor: pointer;']
 spiegel.de###js-article-column [-abp-properties='margin-bottom: 15px; padding-bottom: 16px;']
