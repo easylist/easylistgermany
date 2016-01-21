@@ -3326,6 +3326,7 @@ lustich.de###ip_content_wrapper > [-abp-properties='height: *px; left: *; margin
 spiegel.de###js-article-column > [-abp-properties='margin-bottom: 1*px; padding-bottom: 1*px;']
 spiegel.de###js-article-column > [-abp-properties='margin-bottom: 15px; padding-bottom: 15px;']
 spiegel.de###js-article-column [-abp-properties='cursor: pointer;']
+spiegel.de###js-article-column [-abp-properties='margin-bottom: 1*px; margin-left: 1*px;']
 spiegel.de###js-article-column [-abp-properties='margin-bottom: 15px; padding-bottom: 16px;']
 spiegel.de###js-article-column [-abp-properties='margin-bottom: 16px; margin-left: 15px;']
 lustich.de###laContentMiddleBg > [-abp-properties='text-align: *; vertical-align: *;']
