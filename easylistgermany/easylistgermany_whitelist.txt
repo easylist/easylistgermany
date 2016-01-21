@@ -116,7 +116,6 @@
 @@||bluelithium.com/st?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||boote-forum.de^$genericblock,generichide
 @@||bundesliga.de/js/my_ad_integration.js
-@@||cache.kalaydo.de/mmo/logo/advert/$image
 @@||camerartist.de/wp-content/plugins/adrotate/$~third-party
 @@||campaign.adindex.de^*?idPartner=$subdocument,domain=gutscheindoktor.de
 @@||canoo.net/services/wordformationdictionary/gifs/
@@ -243,6 +242,7 @@
 @@||joepenas.com/index.swf?clicktag=$object,~third-party
 @@||juleps-esslingen.de/index.swf?clicktag=$object,~third-party
 @@||kabeleins.de/php-bin/functions/adtags/$subdocument
+@@||kalaydo.de/mmo/logo/advert/$domain=kalaydo.de
 @@||klick.affiliwelt.net/klick.php?bannerid=$subdocument,domain=gutscheindoktor.de
 @@||kmelektronik.de/shop/images/advertising/$image
 @@||kurier.at^*/ac_oetags_clone.js
