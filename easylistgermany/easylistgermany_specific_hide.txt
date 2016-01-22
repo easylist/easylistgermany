@@ -391,6 +391,7 @@ pooltrax.com###gas
 lyrics.de,testreich.com,trendmile.de,wallpaper.to###genlayer
 greuther-fuerth.de###gf_main_sponsor
 geizhals.at###gh_suckyad
+formel1.de###globalwrapper > div[style="height:90px;"]
 xxx-4-free.net###gne
 spiele-zone.de,team-andro.com###google
 tageszeitung-24.de###google-rechts
@@ -2661,6 +2662,7 @@ repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;b
 abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
 englische-briefe.de##center > table[width="574"][cellspacing="0"][cellpadding="0"][border="0"]
 wuerzburger-kickers.de##div > h3 + #ais_129_wrapper
+formel1.de##div > style[type="text/css"] + div[id][style] > img
 rundumkoeln.de##div[align="center"] > #top[name="top"]:first-child + table[border="0"]:last-child
 torrent.byte.to##div[align="center"] > .BUTTON[type="SUBMIT"][onclick][value]
 handy-faq.de##div[align="center"] > span[style="text-decoration:none; color:red;font-size:18px;"]:first-child
