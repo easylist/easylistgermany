@@ -580,6 +580,7 @@ lexas.biz###mypop2_b
 send4free.de###n8f880e
 wetter.com###narrowcolumn > a[class][href] > img[src]
 wetter.com###narrowcolumn > a[id][href] > img[src]
+wetter.com###narrowcolumn > div[id][class] > a[id][href] > img[src]
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
 web.de###navigation > #navSpecial[style="height: 235px;"]
@@ -3396,6 +3397,7 @@ focus.de,transfermarkt.de##[-abp-properties='cursor: pointer; margin-left: 3*px;
 shz.de##[-abp-properties='cursor: pointer; margin-left: 46px;']
 wetteronline.de##[-abp-properties='cursor: pointer; margin-left: 7px; margin-top: 5px; padding-top: 12px;']
 gamestar.de##[-abp-properties='cursor: pointer; text-align: center;'] > img
+wetter.com##[-abp-properties='cursor: pointer;']
 boerse-online.de,fem.com,wetter.com##[-abp-properties='cursor: pointer;'] > img
 brigitte.de##[-abp-properties='float: left; height: 1*px; margin-bottom: 1*px; position: relative; width: 9*px;']
 spiegel.de##[-abp-properties='float: right; margin-bottom: 15px; margin-left: 15px;']
@@ -3434,6 +3436,7 @@ wetter.com##[-abp-properties='margin-left: 242px; z-index: 14;']
 wetter.com##[-abp-properties='margin-left: 242px;']
 boerse.de##[-abp-properties='margin-left: 34px;']
 transfermarkt.de##[-abp-properties='margin-top: 10px; padding*: 10px;']
+wetter.com##[-abp-properties='margin-top: 95px; position: absolute; right: -172px; z-index: 14;']
 gamepro.de,gamestar.de##[-abp-properties='margin-top: 9px; padding-left: 252px;']
 autozeitung.de,de.filsh.net,dialo.de,donnerwetter.de,e-hausaufgaben.de,fanfiktion.de,finya.de,formel1.de,fremdwort.de,helles-koepfchen.de,infranken.de,inside-digital.de,inside-handy.de,motorsport-total.com,news.de,nickles.de,pixelio.de,seniorbook.de,tabtech.de,weristdeinfreund.de##[-abp-properties='max-height: *px; max-width: *px; position: *;']
 ariva.de,wetter.com##[-abp-properties='position: absolute; right: *px; width: *px;']
