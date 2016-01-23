@@ -581,6 +581,7 @@ lexas.biz###mypop2_b
 send4free.de###n8f880e
 wetter.com###narrowcolumn > a[class][href] > img[src]
 wetter.com###narrowcolumn > a[id][href] > img[src]
+wetter.com###narrowcolumn > div[id] > a[class][href] > img[src]
 wetter.com###narrowcolumn > div[id][class] > a[id][href] > img[src]
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
