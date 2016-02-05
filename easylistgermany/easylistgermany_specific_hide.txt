@@ -3346,6 +3346,7 @@ gamepro.de##.homeContReg > [-abp-properties='cursor: pointer;']
 gamestar.de##.homeContReg > [-abp-properties='padding-top: 20px;']
 tvtoday.de##.marginContent > [-abp-properties='clear: both; margin-bottom: 12px;']
 arcor.de##.pWrap > [-abp-properties='position: *; text-align: *; width: *px;']
+spiegel.de##.page-bottom-content > [-abp-properties='margin-bottom: 16px;']
 shz.de##.span1 > [-abp-properties='cursor: pointer;']
 gamona.de##.wallpaper > [-abp-properties='cursor: pointer; left: *; position: *; right: *; top: *;']
 general-anzeiger-bonn.de##.widget > [-abp-properties='cursor: pointer;'] > img
