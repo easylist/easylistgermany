@@ -822,6 +822,7 @@ bigfm.de###smartclip-overlay
 ddl-warez.in###smoozed
 ddl-music.org,ddl-warez.in,pornlounge.org###so_ad
 magistrix.de###songtext > .visible-desktop
+spiegel.de###spVeeseo + div > a[href] > img[src^="http://cdn1.spiegel.de/images/image-"]
 wuppertaler-rundschau.de###spalte_anzeigen_links
 wuppertaler-rundschau.de###spalte_anzeigen_rechts
 museumsdienst-hamburg.de###spb
@@ -1142,6 +1143,7 @@ digitale-schule-bayern.de##.app > #t_container
 zdnet.de##.apraxazz_sidebar
 teltarif.de##.arial2[style="clear: both; color: #CCCCCC; margin: 9px 13px; border-bottom: #CCCCCC 1px solid;"]
 tvspielfilm.de##.article-body > div[style="margin:0 0 20px;text-align:center"]
+spiegel.de##.article-section a[href] > img[src^="http://cdn1.spiegel.de/images/image-"]
 computerbase.de##.article-view__rectangle
 sosuanachrichten.com##.article[style="width: 440px; background-color: #000066; margin: 6px; margin-top: 6px;"]
 gamona.de##.articlebody > .list_base.small-icon
@@ -1670,6 +1672,7 @@ kredit.com##.ovt_box
 goldesel.to##.p2p > a > li[style="width:283px;"]
 ps3-talk.de##.p3twphead + div[style="height:146px;"]
 goldesel.to##.page > .content_right > div[class^="d_"]:last-child
+spiegel.de##.page-bottom-content a[href] > img[src^="http://cdn1.spiegel.de/images/image-"]
 myvideo.at,myvideo.ch,myvideo.de##.pageFW > .mya:first-child
 wetter.de##.pageTeaserbarHorizontal
 linux-forum.de##.page[width="100%"][cellspacing="0"][cellpadding="0"][align="center"] > tbody > tr[valign="top"] > td[valign="top"]:last-child > div[align="center"][style="margin-bottom:10px"]:first-child
