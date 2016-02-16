@@ -3337,7 +3337,6 @@ pcwelt.de###content > [-abp-properties='margin-left: 3*px;']
 lustich.de###contentTopBg > [-abp-properties='height: 9*px; margin-bottom: *px; margin-left: *px; margin-right: *;']
 spox.com###frnMain > [-abp-properties='cursor: pointer; height: *px; margin-bottom: 5px; margin-top: *px; width: *px;']
 lustich.de###ip_content_wrapper > [-abp-properties='height: *px; left: *; margin-left: *px; position: absolute; top: *px; vertical-align: *; width: *px;']
-spiegel.de###js-article-column [-abp-properties='background-color: *; margin-bottom: *px;'] > a
 spiegel.de###js-article-column [-abp-properties='border-*; float: right;']
 spiegel.de###js-article-column [-abp-properties='float: right;'] > a
 spiegel.de###js-article-column [-abp-properties='float: right;'] > div > a
