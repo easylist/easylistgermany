@@ -39,7 +39,7 @@ onmeda.de###PARTNERANGEBOTE
 pocketpc.ch###PPCAdLeaderBoard_Filler
 sgcoburg.de###PromoHead
 sgcoburg.de###PromoRight
-volksfreund.de###Rectangle
+unixboard.de,volksfreund.de###Rectangle
 volksfreund.de###RectangleOMS
 rclineforum.de###RotBanner
 express.de###RotatingPartner
@@ -441,7 +441,6 @@ sueddeutsche.de###iqd_medrecAd
 mein-schoener-garten.de###ivw_img + noscript + script + script + div[style="height:132px;"]
 boerse-online.de###ivwimg
 sein.de###ja-col1 a[target="_blank"] > img[alt=""]
-spiegel.de###js-article-column > div[class] > a[class][href] > img[src]
 redhocks.de###jsn-promo
 general-anzeiger-bonn.de###kala
 express.de,fr-online.de,general-anzeiger-bonn.de,ksta.de,mz-web.de,rhein-zeitung.de,wz-newsline.de###kalaydo
@@ -3356,6 +3355,7 @@ focus.de###sidebar > [-abp-properties='margin-left: 16px;']
 focus.de###sidebar > [-abp-properties='margin-left: 17px;']
 runnersworld.de###stage-right > [-abp-properties='cursor: pointer;']
 eatsmarter.de##.ad > [-abp-properties='cursor: pointer;']
+spiegel.de##.article-section > [-abp-properties='float: right;']
 fem.com##.block-type-content-grid > [-abp-properties='cursor: pointer;']
 gamepro.de##.content > [-abp-properties='cursor: pointer;']
 gamestar.de##.content > [-abp-properties='padding-top: 20px;']
@@ -3468,11 +3468,14 @@ transfermarkt.de##[-abp-properties='margin-top: 10px; padding*: 10px;']
 gamepro.de,gamestar.de##[-abp-properties='margin-top: 9px; padding-left: 252px;']
 transfermarkt.de##[-abp-properties='margin-top: 9px;']
 autozeitung.de,de.filsh.net,dialo.de,donnerwetter.de,e-hausaufgaben.de,fanfiktion.de,finya.de,formel1.de,fremdwort.de,helles-koepfchen.de,infranken.de,inside-digital.de,inside-handy.de,motorsport-total.com,news.de,nickles.de,pixelio.de,seniorbook.de,tabtech.de,weristdeinfreund.de##[-abp-properties='max-height: *px; max-width: *px; position: *;']
+unixboard.de##[-abp-properties='max-width: 12*px; position: relative; text-align: center; width: 12*px;']
 focus.de##[-abp-properties='padding-left: 36px;']
+focus.de##[-abp-properties='padding-left: 37px;']
 ariva.de##[-abp-properties='position: absolute; right: *px; width: *px;']
 gamona.de##[-abp-properties='position: absolute; right: 1000px; top: 0px;']
 woxikon.de##[-abp-properties='position: absolute; top: *px; width: *px;']
 auto-motor-und-sport.de##[-abp-properties='position: absolute; top: 160px; width: 1020px;']
+autoexperience.de##[-abp-properties='position: relative; text-align: *; width: 10*px;']
 giga.de##[-abp-properties='position: relative; top: *px; width: 10*px;']
 arcor.de,focus.de,main-spitze.de##[-abp-properties='position: relative; width: 10*px;']
 arcor.de##[-abp-properties='position: relative; width: 1005px;']
