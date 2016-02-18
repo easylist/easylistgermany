@@ -772,6 +772,7 @@ stopadblock.org###sidebar > div[style] + div[id][style]
 abnehmen.com,aquariumforum.de,pferd.de,radforum.de###sidebar > li > .ffwidget_sidebar
 tgs-pforzheim.de###sidebar > ul > #aioslideshow-widget-2
 mamamiez.de###sidebar > ul > #text-7
+autozeitung.de###sidebar div[id] > img[src^="/imags/"]
 infosperber.ch###sidebar-inner-content > .bildbox
 infosperber.ch###sidebar-inner-content > .expertenjobs
 mikrocontroller.net###sidebar-right > div[style]:last-child > div[id]:last-child > div[style]
@@ -807,6 +808,7 @@ frimon.de###sky_right
 xboxdynasty.de###skyright
 ebay.at,ebay.ch,ebay.de###skyscrape
 alternate.de,apotheke-adhoc.de,autozeitung.de,boomerangtv.de,busliniensuche.de,centertv.de,charivari986.de,china.ahk.de,curt.de,das-inserat.de,eurogamer.de,gamingxp.com,halle.de,msxfaq.de,nickles.de,schweizamsonntag.ch,sf.tv,surffact.de,vanion.eu###skyscraper
+autozeitung.de###skyscraper + div
 apotheke-adhoc.de###skyscraper-left
 apotheke-adhoc.de###skyscraper-right
 dashitradio.de###skyscraper-wide
@@ -865,6 +867,7 @@ xolopo.de###subnav_partner
 nanu.de###superBanner
 t-online.de###superBannerContainer
 apotheke-adhoc.de,autozeitung.de,boulevard-baden.de,braunschweiger-zeitung.de,deutsche-wirtschafts-nachrichten.de,donaukurier.de,golem.de,internetworld.de,itwissen.info,lecker.de,lpgforum.de,morgenpost.de,morgenweb.de,netdoktor.at,neue-braunschweiger.de,pkw-forum.de,rtl.de,stimme.de,tvh1.de,vogue.de,wer-kennt-wen.de,winboard.org###superbanner
+autozeitung.de###superbanner + div
 juve.de###superbanner_side
 juve.de###superbanner_top
 tri-mag.de###superbanner_wide
