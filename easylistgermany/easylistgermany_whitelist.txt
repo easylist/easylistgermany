@@ -43,6 +43,7 @@
 @@||admeld.com/ad/js/*/game-page?$script,domain=jetztspielen.de|spielen.com
 @@||admeld.com/meld128.js$domain=jetztspielen.de|spielen.com
 @@||admin.brightcove.com/viewer/*/advertisingmodule.swf$domain=bunch.tv|dmax.de|morgenpost.de
+@@||adnxs.com/prebid/static/*/prebid.js$domain=netzwelt.de
 @@||adonline.anonza.de^$~document,~third-party
 @@||adpartner.de^$~third-party
 @@||ads.autoscout24.com/adserver/*&elementid=ctl00_ctl00_decoratedarea_contentarea_fsbox0&$script,domain=autoscout24.de
