@@ -1369,6 +1369,7 @@ winload.de##.darklayer
 3dl.tv##.ddl-mirror-box[target="blank_"]
 fail.to##.dealheader
 gamona.de,gesichtskirmes.net##.deals
+wetter.com##.desk-one-third a[id][href] > img[src]
 filmpalast.to##.detail > li > span > a
 menshealth.de##.dfp_rand1
 menshealth.de##.dfp_ss1
@@ -3465,6 +3466,7 @@ focus.de##[-abp-properties='margin-left: 18px;']
 focus.de##[-abp-properties='margin-left: 19px;']
 gamepro.de,gamestar.de,sportal.de##[-abp-properties='margin-left: 2*px; margin-top: *px;'] > img
 motorradonline.de##[-abp-properties='margin-left: 20px; position: relative; width: 910px;']
+wetter.com##[-abp-properties='margin-left: 238px; margin-top: 25px;']
 wetter.com##[-abp-properties='margin-left: 239px; margin-top: 25px;']
 transfermarkt.de##[-abp-properties='margin-left: 30*px;']
 transfermarkt.de##[-abp-properties='margin-left: 306px;']
