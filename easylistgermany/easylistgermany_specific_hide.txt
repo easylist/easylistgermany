@@ -824,6 +824,7 @@ bigfm.de###smartclip-overlay
 ddl-warez.in###smoozed
 ddl-music.org,ddl-warez.in,pornlounge.org###so_ad
 magistrix.de###songtext > .visible-desktop
+spiegel.de###spVeeseo + div[class] > a[href] > img[src]
 wuppertaler-rundschau.de###spalte_anzeigen_links
 wuppertaler-rundschau.de###spalte_anzeigen_rechts
 museumsdienst-hamburg.de###spb
@@ -3338,6 +3339,7 @@ lustich.de###contentTopBg > [-abp-properties='height: 9*px; margin-bottom: *px; 
 spox.com###frnMain > [-abp-properties='cursor: pointer; height: *px; margin-bottom: 5px; margin-top: *px; width: *px;']
 lustich.de###ip_content_wrapper > [-abp-properties='height: *px; left: *; margin-left: *px; position: absolute; top: *px; vertical-align: *; width: *px;']
 spiegel.de###js-article-column [-abp-properties='border-*; float: right;']
+spiegel.de###js-article-column [-abp-properties='float: left; margin-right: 10px;']
 spiegel.de###js-article-column [-abp-properties='float: right;'] > a
 spiegel.de###js-article-column [-abp-properties='float: right;'] > div > a
 lustich.de###laContentMiddleBg > [-abp-properties='text-align: *; vertical-align: *;']
