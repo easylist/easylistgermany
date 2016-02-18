@@ -480,6 +480,7 @@ grosseleute.de###leftboxcontent > :nth-child(n) a[href] div img[src^="image/"]
 kuechentipps.de###leftside > .promo
 satempfang-magazin.de###leserumfrage-close
 duden.de###lexem_ad
+tabtech.de###linkabletitlehtmlandphpwidget-6
 anderes-wort.de###linkline
 notebookcheck.com###linklist1:first-child:last-child > div[style="text-align: center;"]
 totalbash.org###links > .links1_hg
@@ -1064,6 +1065,7 @@ paradisi.de##.adcontent
 paradisi.de##.adcontenttext
 derhandel.de##.add
 pressebox.de##.add-left
+tabtech.de##.add-panel
 pressebox.de##.add-right
 yelp.de##.add-search-result
 sport1.de##.addPicture
@@ -1835,7 +1837,7 @@ lokalisten.de##.skyScraper
 t-online.de##.skybannerWrapper
 internet-sms.com##.skybg
 spiele-kostenlos-online.de##.skycraper
-ak-kurier.de,auto-motor-und-sport.de,buffed.de,bvb.de,chat4free.de,dmax.de,dynamo-dresden.de,erotikchat4free.de,freechat.de,gamesaktuell.de,genderblog.de,gentleman-blog.de,kanu.de,magistrix.de,nonstopnews.de,nr-kurier.de,pcgames.de,spielefilmetechnik.de,spielen.de,swoodoo.com,techno4ever.fm,tsv1860.de,videogameszone.de,ww-kurier.de##.skyscraper
+ak-kurier.de,auto-motor-und-sport.de,buffed.de,bvb.de,chat4free.de,dmax.de,dynamo-dresden.de,erotikchat4free.de,freechat.de,gamesaktuell.de,genderblog.de,gentleman-blog.de,kanu.de,magistrix.de,nonstopnews.de,nr-kurier.de,pcgames.de,spielefilmetechnik.de,spielen.de,swoodoo.com,tabtech.de,techno4ever.fm,tsv1860.de,videogameszone.de,ww-kurier.de##.skyscraper
 fettspielen.de##.skyscraper-container
 b2run.de##.skyscraperContainer
 kidszone.de##.skyscraper_background
