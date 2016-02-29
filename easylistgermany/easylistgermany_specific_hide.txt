@@ -3349,6 +3349,7 @@ spiegel.de###js-article-column [-abp-properties='border-*; float: right;']
 spiegel.de###js-article-column [-abp-properties='cursor: pointer;']
 spiegel.de###js-article-column [-abp-properties='float: left; margin-right: 1*px;']
 spiegel.de###js-article-column [-abp-properties='float: left; margin-right: 10px;']
+spiegel.de###js-article-column [-abp-properties='float: left; margin-right: 9px;']
 spiegel.de###js-article-column [-abp-properties='float: right;'] > a
 spiegel.de###js-article-column [-abp-properties='float: right;'] > div > a
 lustich.de###laContentMiddleBg > [-abp-properties='text-align: *; vertical-align: *;']
