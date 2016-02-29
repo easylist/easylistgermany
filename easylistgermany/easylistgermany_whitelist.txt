@@ -36,6 +36,7 @@
 @@||adition.com/banners/$image,domain=ambellis.de|dsl.freenet.de|mirapodo.de|mytoys.de
 @@||adition.com/banners/$image,object,domain=payback.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
+@@||adition.com/js/adition.js$domain=ambellis.de|mirapodo.de|mytoys.de
 @@||adition.com/js?wp_id=$script,domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
