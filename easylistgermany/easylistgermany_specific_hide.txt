@@ -16,6 +16,8 @@ amazon.de###DAi
 amazon.de###DAr2
 hausgemacht.tv###FB2
 news.de###FlexSky
+news.de###FlexSky + div > div
+news.de###FlexTop + div > div
 volksfreund.de###Fullsize
 goettgen.de###GAS_MRS
 goettgen.de###GAS_SKSC
@@ -1439,6 +1441,7 @@ sueddeutsche.de##.entry-content > .overlay
 etcg.de##.eral_wrapper
 picdumps.com##.evil_1
 sueddeutsche.de##.expediasearch
+news.de##.extraContentContainer
 bild.de##.eyecatcher
 fussballoesterreich.at##.fadeVerein1
 fussballoesterreich.at##.fadeVerein2
@@ -1494,6 +1497,7 @@ euractiv.de##.google
 ichspiele.cc##.google-box
 magistrix.de##.google-dfp
 pkv-private-krankenversicherung.net##.google2
+news.de##.google_afc_articleintext + div
 tecchannel.de##.google_block
 musicloud.fm##.green
 porn2you.org##.grid-h[style="width: 735px;"]
