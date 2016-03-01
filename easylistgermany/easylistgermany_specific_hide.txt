@@ -186,6 +186,7 @@ fremdwort.de,tikonline.de###bigsize
 magistrix.de###bigsize-top
 pcpraxis.de,rund-magazin.de###bigsizebanner
 autozeitung.de,computerbild.de,prad.de,volksfreund.de###billboard
+autozeitung.de###billboard + div
 prad.de###billboardbig
 4players.de###billiger-charts
 geizkragen.de###bl_top
@@ -870,6 +871,7 @@ xolopo.de###subnav_partner
 nanu.de###superBanner
 t-online.de###superBannerContainer
 apotheke-adhoc.de,autozeitung.de,boulevard-baden.de,braunschweiger-zeitung.de,deutsche-wirtschafts-nachrichten.de,donaukurier.de,golem.de,internetworld.de,itwissen.info,lecker.de,lpgforum.de,morgenpost.de,morgenweb.de,netdoktor.at,neue-braunschweiger.de,pkw-forum.de,rtl.de,stimme.de,tvh1.de,vogue.de,wer-kennt-wen.de,winboard.org###superbanner
+autozeitung.de###superbanner + div + div > div > img[src]
 juve.de###superbanner_side
 juve.de###superbanner_top
 tri-mag.de###superbanner_wide
@@ -930,6 +932,7 @@ home.1und1.de,web.de###uimTopPosition
 immonet.de###umzugsauktionslink
 fireball.de###url[style="width: 100%;margin-left:5px;margin-top:5px;"]
 mov-world.net###usenet_flip
+autozeitung.de###veeseoRA2AW_RUN + script + div
 ifun.de,iphone-ticker.de###verbraucherhinweis-300x600
 ifun.de,iphone-ticker.de###verbraucherhinweis-970
 ifun.de,iphone-ticker.de###verbraucherhinweis-970x250
@@ -3048,6 +3051,7 @@ tsv1860ro-fussball.de##img[style="left: 0px; top: 1100px; width: 400px; height: 
 tsv1860ro-fussball.de##img[style="left: 0px; top: 749px; width: 200px; height: 134px;"]
 tsv1860ro-fussball.de##img[style="left: 33px; top: 577px; width: 134px; height: 167px;"]
 excitingcommerce.de##img[style="margin: 5px 5px 0px 0px; border-width:0px; align="]
+autozeitung.de##img[style="width: 160px; height: 600px; max-width: 160px; max-height: 600px;"]
 filestore.to##img[style="width:728px;"]
 bluewin.ch##img[title="Anzeige"]
 looki.de##img[usemap="#branding"]
