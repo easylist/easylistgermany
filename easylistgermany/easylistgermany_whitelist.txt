@@ -230,6 +230,7 @@
 @@||gynny.de/shopframe/$document,subdocument
 @@||homad2.spiegel.tv/crossdomain.xml$object-subrequest
 @@||homad2.spiegel.tv/|$object-subrequest
+@@||horizont.net/news/media/$image,domain=horizont.net
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
 @@||idowa.de^*/advertisement/$xmlhttprequest
 @@||im.banner.t-online.de/?advideo/*;vidRT=VAST;$domain=t-online.de
