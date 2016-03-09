@@ -2153,33 +2153,6 @@
 ||zumlink.de/public/images/banner/
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
-! Anti-Adblock
-|http://*.de/$subdocument,third-party,domain=gamona.de
-||csgo.99damage.de/wp-content/$image
-||donnerwetter.de^*.html|$subdocument,domain=donnerwetter.de
-||focus.de/fol.state.js
-||focus.de/fol/fol.min024.js?
-||focus.de/fol/pool.forjx.js
-||gamona.de/assets/*.swf
-||gamona.de/assets/*_1000x140.
-||gamona.de/assets/*_160x800_
-||gamona.de/assets/lostsaga/
-||gamona.de/wp-content/1851/
-||gamona.de/wp-content/2014/
-||gamona.de/wp-content/45
-||gamona.de/wp-content/46
-||gamona.de/wp-content/66
-||gamona.de/wp-content/67
-||gamona.de/wp-content/up/
-||kabeleins.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
-||prosieben.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
-||sat1.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
-||sixx.de/secure-static/videoplayer/config/adXML.xml?$object-subrequest
-||spielen.de^$script,domain=spielen.de
-||syncedia.de^$domain=gamona.de
-||video.spiegel.de/flash/*.mp4$object-subrequest,domain=spiegel.tv
-||videoplaza.tv/creatives/assets/$object-subrequest,domain=clipfish.de|gmx.net|n-tv.de|web.de|www.rtl.de
-||wettercomassets.com/img/cms/chameleon/mediapool/thumbs/d/98/article_landingpage_keyvisual_$image
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 .net/ad-$domain=gamestar.de
 @@||adserver.adtech.de/addyn|*|ADTECH$script,domain=woxikon.de
