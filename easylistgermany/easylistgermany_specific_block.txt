@@ -128,6 +128,7 @@
 ||areamobile.de/service/gads/
 ||argovia.ch/promotion/
 ||artikelpedia.com/js/*-*.js|
+||astronews.com^*_3.js
 ||asv-hamm-westfalen.de/images/stories/marketing/*-Anzeigesimpli.jpg
 ||asv-hamm-westfalen.de/images/stories/marketing/*-hauptsponsoren.jpg
 ||ate.spritmonitor.de^
@@ -2154,7 +2155,6 @@
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Anti-Adblock
 |http://*.de/$subdocument,third-party,domain=gamona.de
-||astronews.com^*_6.js
 ||csgo.99damage.de/wp-content/$image
 ||donnerwetter.de^*.html|$subdocument,domain=donnerwetter.de
 ||focus.de/fol.state.js
