@@ -565,6 +565,7 @@ kalender-365.de#@#.adsbygoogle
 @@||mediationslupe.de^$elemhide
 @@||medienrechtsnews.de^$elemhide
 @@||mobilfunk-geschichte.de^$elemhide
+@@||motorsport-total.com^$generichide
 @@||mufa.de/js/advertisement.js
 @@||mutterschutz-rechner.de^$elemhide
 @@||mypolonia.de^*/adframe.js
@@ -581,9 +582,9 @@ kalender-365.de#@#.adsbygoogle
 @@||onlinetvrecorder.com/v2/banner.php$document
 @@||otrworld.at^$script
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=brasilienfreunde.net|bullhost.de|green-24.de|iphone-tricks.de|java-forum.org|jetztspielen.de|lablue.at|lablue.ch|lablue.de|mufa.de|peugeot-metropolis.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|smsgott.de|teamspeak-ts.com|vol.at
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=slideplayer.org
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=motorsport-total.com|slideplayer.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=iphone-tricks.de|java-forum.org|mufa.de|peugeot-metropolis.de|slideplayer.org|teamspeak-ts.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=brasilienfreunde.net|bullhost.de|green-24.de|java-forum.org|jetztspielen.de|lablue.at|lablue.ch|lablue.de|mufa.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|smsgott.de|vol.at
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=brasilienfreunde.net|bullhost.de|green-24.de|java-forum.org|jetztspielen.de|lablue.at|lablue.ch|lablue.de|motorsport-total.com|mufa.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|smsgott.de|vol.at
 @@||partner.googleadservices.com/gampad/google_ads.js$domain=abfrager.de
 @@||partner.googleadservices.com/gampad/google_service.js$domain=abfrager.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=wetteronline.de
@@ -619,6 +620,8 @@ kalender-365.de#@#.adsbygoogle
 @@||teleskipp.de/jump/www/delivery/ajs.php?zoneid=$script,domain=mv-spion.de
 @@||tiervermittlung.de/adblock.js
 @@||tiervermittlung.de/advertisement.js
+@@||tisoomi-services.com/js/services.js?id=$domain=motorsport-total.com
+@@||tisoomi-services.com^$image,domain=motorsport-total.com
 @@||tobinsteuer.de^$elemhide
 @@||tower-defense-spiele.de/wp-content/themes/Denver/js/ads.js
 @@||ttads.de/www/delivery/banner/ads/click.js
