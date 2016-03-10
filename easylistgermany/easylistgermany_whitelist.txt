@@ -466,9 +466,6 @@ kalender-365.de#@#.adsbygoogle
 @@||ad.adnet.de/adj.php?$script,domain=schoener-fernsehen.com
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=homerj.de
 @@||ad4mat.de/ads/js/adtrust-min.php?*&w=468&h=60&$script,domain=mufa.de
-@@||adclient.uimserv.net/crossdomain.xml$object-subrequest,domain=gmx.net|web.de
-@@||adclient.uimserv.net/js.ng/|$object-subrequest,domain=gmx.net|web.de
-@@||adclient.uimserv.net/|$object-subrequest,domain=gmx.net|web.de
 @@||adfarm1.adition.com/banner?sid=3129288$image,domain=mainfranken24.de
 @@||adnet.de/ad2.js$domain=schoener-fernsehen.com
 @@||ads.exoclick.com/ads.js$domain=board.world-of-hentai.to
@@ -485,7 +482,6 @@ kalender-365.de#@#.adsbygoogle
 @@||alle-news.com^$image,script,domain=news.feed-reader.net
 @@||amazonaws.com^$image,domain=podcast.de
 @@||amazonaws.com^$script,domain=jappy.de
-@@||amgdgt.com/ads?$object-subrequest,domain=clipfish.de
 @@||aussenwirtschaftslupe.de^$elemhide
 @@||banners.webmasterplan.com/view.asp?ref=7564&js=1&site=2941&b=3&target=&title=1%261+DSL$script,domain=mainfranken24.de
 @@||betreut-wohnen.de/adserver/ad.js
@@ -493,7 +489,6 @@ kalender-365.de#@#.adsbygoogle
 @@||blick.ch^*/advertisement.js
 @@||bluray-disc.de/sites/all/js/fuckadblock.js?
 @@||boardking.de^*/adframe.js
-@@||bobodise.com^$object-subrequest,domain=rtlnitronow.de
 @@||brasilienfreunde.net^$elemhide
 @@||bullhost.de^$elemhide
 @@||bullhost.de^*#-$image
@@ -511,8 +506,6 @@ kalender-365.de#@#.adsbygoogle
 @@||ddl-search.biz/js/advertisements.js
 @@||derlacher.de/static/lib/advertisement.js
 @@||dokumente-online.com^*/adframe.js
-@@||doubleclick.net/ad/clipfish.smartclip/$object-subrequest,domain=clipfish.de
-@@||doubleclick.net/ad/pushbackde.smartclip/clipfish.smartclip/$object-subrequest,domain=clipfish.de
 @@||doubleclick.net/adj/*.4players.de_de/*;sz=120x600,160x600,200x600,300x600;$script,domain=4players.de
 @@||doubleclick.net/adj/*.4players.de_de/*;sz=2x2;$script,domain=4players.de
 @@||doubleclick.net/adj/*.4players.de_de/*;sz=300x250;$script,domain=4players.de
@@ -541,7 +534,6 @@ kalender-365.de#@#.adsbygoogle
 @@||free-klingeltoene-handy.de/adframe.js
 @@||funkhaus.com/fileadmin/zulieferer/VideoAds/$domain=mainfranken24.de
 @@||g.doubleclick.net/gampad/ads?$script,domain=wetteronline.de
-@@||g.doubleclick.net/pagead/adview?ai=$object-subrequest,domain=clipfish.de
 @@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
 @@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
 @@||gassi-tv.de^*/adframe.js
@@ -618,8 +610,6 @@ kalender-365.de#@#.adsbygoogle
 @@||slimtrade.com/in.php?s=*&t=*&b=*&c=*&tm=*&r=$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||slimtrade.com/s*.js$domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
 @@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.de|transfermarkt.tv
-@@||smartclip.net/delivery/tag?sid=$object-subrequest,domain=clipfish.de
-@@||smartclip.nuggad.net/crossdomain.xml$object-subrequest,domain=clipfish.de
 @@||sozialrechtsnews.de^$elemhide
 @@||startup-connection.de^$elemhide
 @@||steuerschmiede-aktuell.de^$elemhide
@@ -640,7 +630,6 @@ kalender-365.de#@#.adsbygoogle
 @@||ul-load.com^$elemhide
 @@||umweltlupe.de^$elemhide
 @@||vereinslupe.de^$elemhide
-@@||videoplaza.tv/proxy/distributor^$object-subrequest,domain=clipfish.de|gmx.net|n-tv.de|web.de|www.rtl.de|www.vox.de
 @@||vorsorgebote.de^$elemhide
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
 @@||wirtschaft-recht-aktuell.de^$elemhide
