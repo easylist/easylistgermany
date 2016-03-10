@@ -2,7 +2,6 @@
 .png|$popup,domain=audio.de|colorfoto.de|connect.de|connected-home.de|epochtimes.de|pc-magazin.de|video-magazin.de
 ^utm_campaign^$popup,domain=jappy.de
 ^utm_medium=popunder^$popup,domain=hilfreich.de
-|http://$popup,third-party,domain=streamcloud.eu
 |http://*.filecrypt.cc/|$popup
 |http://ow.ly^$popup,domain=byte.to
 ||3dl.tv/redipo.php$popup
