@@ -17,7 +17,7 @@
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
-@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|bundesliga.de|gamepro.de|myvideo.de|n24.de|netzwelt.de|prosieben.de|sport1.fm
+@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|bundesliga.de|gamepro.de|myvideo.de|n24.de|netzwelt.de|sport1.fm
 @@||ad.71i.de/global_js/Sites/$script,domain=gamepro.de|gamestar.de|n24.de|netzwelt.de|sport1.fm
 @@||ad.71i.de/images/fallback/video/1_sek.mp4$domain=netzwelt.de
 @@||ad.adworx.at/crossdomain.xml$object-subrequest
@@ -387,7 +387,6 @@
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
 @@||static-fra.de/ip/js/adcontrol/adcontrol.min.js
-@@||static-fra.de/ip/js/adcontrol/adcontrol.min.js$domain=dooloop.tv|n-tv.de
 @@||static-fra.de^*/admeta.xml?$object-subrequest
 @@||static.classistatic.de/res/images/ads/$image
 @@||static.classistatic.de/res/js/shared/advertising/*advertisingHeadPacked.js
