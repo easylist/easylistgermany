@@ -1,7 +1,6 @@
 ||1und1.de/?__reuse=$popup,third-party
 ||amateurseite.com^$popup,third-party
 ||bigpoint.com^*?aid=*&aig=*&aip=$popup,third-party
-||boerse.bz/toplist/vote/$popup,domain=~linkvz.net
 ||china-gadgets.de^*&utm_medium=popdown&$popup,third-party
 ||ddl-network.org/ad/$popup
 ||dealdoktor.de^*&utm_medium=popdown&$popup,third-party
@@ -21,7 +20,6 @@
 ||o2-freikarte.de/affiliate/$popup
 ||oboom.com/ref/$popup
 ||ollys.to/?td=$popup,third-party
-||relink.us^*/landing.php$popup
 ||sau-billig.net/?log=$popup,third-party
 ||shortnews.de^*_adtext_id=$popup
 ||sloganmaker.net/?utm_campaign=*&utm_source=$popup,third-party
