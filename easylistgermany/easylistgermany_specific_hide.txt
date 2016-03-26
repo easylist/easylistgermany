@@ -675,7 +675,9 @@ wintotal.de###post-5519
 xxx-blog.to###post-6155
 lesen.to###post-62885
 hoerbuch.us###post-68852
+hoerbuch.us###post-71051
 lesen.to###post-73957
+hoerbuch.us###post-74321
 xxx-blog.to###post-75123
 xxx-blog.to###post-75283
 bodybuilding-forum.at###post99999999999
@@ -2302,6 +2304,7 @@ computerbild.de##a[href^="http://goo.gl/"] > img
 ingame.de##a[href^="http://green.ingame.de/www/delivery/inck.php?"]
 duckcrypt.info##a[href^="http://highspeed.duckcrypt.info"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
+hoerbuch.us##a[href^="http://hoerbuch.us/load/?f="]
 hd-world.org,movie-blog.org##a[href^="http://href.hu/"]
 movie-blog.org##a[href^="http://ilnk.me/"]
 fussball.de,knuddels.de,t-online.de,trax.de##a[href^="http://im.banner.t-online.de/?adlink|"]
@@ -3210,6 +3213,7 @@ internet-sms.com##table[style="margin-top:4px; margin-left:198px"]
 hardware-infos.com##table[style="position: absolute; top: 140px; left: 50%; margin-left: 505px; width: 120px; height: 600px; border-collapse: collapse; border: 1px solid #808080"]
 mafia.to##table[style="width: 100%; background-image: url('http://pic.ms/v2/images/712_promo_bg.jpg'); text-align: center;"]
 mafia.to##table[style="width: 468px; height: 60px; background-color: #C0C0C0"]
+hoerbuch.us##table[style="width: 699px;"] center > a > img
 web4health.info##table[summary="Top banner ads"]
 david-forum.de##table[width="100%"] > tbody > tr > td[width="160"][valign="top"]:last-child
 diaet.abnehmen-forum.com##table[width="100%"][bgcolor="#FFFFFF"]:last-child
