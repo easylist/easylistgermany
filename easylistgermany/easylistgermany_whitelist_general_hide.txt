@@ -119,6 +119,6 @@ schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 cnet.de#@#a[href^="http://pubads.g.doubleclick.net/"]
 onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net#@#a[href^="https://ad.doubleclick.net/"]
-guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de#@#div[id^="div-gpt-ad-"]
-guterhut.de#@#iframe[id^="google_ads_iframe"]
+guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
+guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ! Anti-Adblock
