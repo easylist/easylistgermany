@@ -1644,6 +1644,7 @@ pcwelt.de##.marketplace
 mobilfunk-talk.de##.md1
 t-online.de##.med_anz
 myvideo.de##.med_reg_box
+wetter.com##.media__body[style="position: relative;"] > a
 kino.de##.medium-rectangle
 techno4ever.fm##.medium_rect
 rtl-west.de,rtlnord.de##.medrec
@@ -2847,12 +2848,14 @@ ibash.de##div[style="clear:left; font-family: Verdana,Tahoma,Geneva,Verdana,sans
 formel1.de##div[style="cursor: pointer; height: 90px; width: 940px; text-align: center; margin-left: 10px;"]
 formel1.de##div[style="cursor: pointer; width: 160px; height: 600px; position: absolute; left: 960px; margin-top: 10px;"]
 formel1.de##div[style="cursor: pointer; width: 300px; height: 250px; text-align: center;"]
+wetter.com##div[style="cursor:pointer; float:left; height:100px; width:20px;"] + div + *
 satempfang-magazin.de##div[style="display: block; position: absolute; overflow: hidden; z-index: 1001; outline: 0px none; height: auto; width: 800px; top: 216px; left: 551.5px;"]
 codecheck.info##div[style="display: inline-block; float: right; height: 30px; margin: 10px 10px 0 0; font-size: 14px; color: #7b8d94;"] > span[style="z-index: 8; position: relative;"]
 netzwelt.de##div[style="display: table-row;"] > #ml
 suedtirolnews.it##div[style="display: table; position: static;background: none repeat scroll 0px 0px rgb(252, 252, 251); border: 1px solid rgb(239, 238, 236); padding:5px; float: right; width: 418px; text-align: center; margin: 0px 10px 10px 0px; height:356px;"]
 magistrix.de##div[style="display:inline-block; width:728px; height:90px"]
 epochtimes.de##div[style="float: left; margin: 0 1rem 1rem -5rem; border:1px solid #CCC;height:615px; width:162px;"]
+wetter.com##div[style="float: left; width: 200px; height: 120px;"] + *
 gala.de##div[style="float: left; width: 80px; height: 80px;"] + a > img
 via-ferrata.de##div[style="float: left; width: auto; margin-left: 315px; display:inline;"] > br + b + .forabg + .bg4
 chat4free.de,erotikchat4free.de,freechat.de##div[style="float: left;padding:0 10 0 10;margin:0 10 10 0;"]
@@ -2867,6 +2870,7 @@ xpbulletin.de##div[style="float:left; width:300px; height:250px; margin-right:10
 evocars-magazin.de##div[style="float:left; width:300px; height:250px; margin:8px 15px 5px 3px;"]
 handy-faq.de##div[style="float:left; width:301px; height:251px; border:0px solid #336699;margin-left:2px;margin-right:15px;"]
 digitalvideoschnitt.de##div[style="float:left; width:336px; min-height:280px; margin-right:30px; margin-bottom:30px;"]
+wetter.com##div[style="float:left; width:417px; height:90px; margin-top:6px"] + a
 wirtschaftslexikon24.com##div[style="float:left;clear:left;height:620px;width:180px;padding-top:15px;"]
 ht4u.net##div[style="float:left;margin:10px 3px 10px 0px;width:300px;height:250px;"]
 android-hilfe.de##div[style="float:left;width: 186px;position:absolute;left:25px;top:15px;"]
