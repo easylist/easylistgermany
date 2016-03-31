@@ -1508,6 +1508,7 @@ tecchannel.de##.google_block
 musicloud.fm##.green
 porn2you.org##.grid-h[style="width: 735px;"]
 my-homo.net##.gstsk
+gala.de##.gujAd + a > img
 pcgames.de##.gul300
 myvideo.de##.hAdHead
 news.de##.halfpage
@@ -2842,6 +2843,7 @@ netzwelt.de##div[style="display: table-row;"] > #ml
 suedtirolnews.it##div[style="display: table; position: static;background: none repeat scroll 0px 0px rgb(252, 252, 251); border: 1px solid rgb(239, 238, 236); padding:5px; float: right; width: 418px; text-align: center; margin: 0px 10px 10px 0px; height:356px;"]
 magistrix.de##div[style="display:inline-block; width:728px; height:90px"]
 epochtimes.de##div[style="float: left; margin: 0 1rem 1rem -5rem; border:1px solid #CCC;height:615px; width:162px;"]
+gala.de##div[style="float: left; width: 80px; height: 80px;"] + a > img
 via-ferrata.de##div[style="float: left; width: auto; margin-left: 315px; display:inline;"] > br + b + .forabg + .bg4
 chat4free.de,erotikchat4free.de,freechat.de##div[style="float: left;padding:0 10 0 10;margin:0 10 10 0;"]
 pocketpc.ch##div[style="float: left;width:740px;text-align:left;padding-bottom:5px;"]
@@ -2872,6 +2874,7 @@ e-recht24.de##div[style="float:right;width:300px;height:250px;margin:1em 0 1em 1
 pcgames.de##div[style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding-top:20%; text-align:center;"]:first-child > a[target="_blank"][href^="/aid,"]:first-child:last-child
 warezking.in##div[style="font-family:Trebuchet MS;margin:0px;font-size:12px;height:17px;margin-bottom:-3px;background:#000;text-align:center;overflow:hidden;-webkit-box-shadow:0 0 5px black;-moz-box-shadow:0 0 5px black;box-shadow:0 0 5px black;margin-top:-15px;"]
 titanic-magazin.de##div[style="height: 181px; width: 305px; border-radius: 5px; border: 1px solid #C0C0C0;"]
+gala.de##div[style="height: 269px;"] + a > img
 winload.de##div[style="height: 74px; height: 74px;margin: 0px 0 6px; padding: 0px 0; background-color: white;"]
 computerhilfen.de##div[style="height:105px;margin-top:17px;position:relative;"]
 computerhilfen.de##div[style="height:105px;margin:10px 0 15px 0;position:relative;"]
@@ -2883,6 +2886,7 @@ meintomtom.de##div[style="height:600px;padding:6px 0 6px 0;border: 1px solid #b4
 meintomtom.de##div[style="height:600px;padding:6px 0 6px 0;border: 1px solid #b4c39a;background:#f9fcf1 none;margin:0;"]
 spektrumdirekt.de##div[style="height:90px;"]:first-child:last-child
 computerbase.de##div[style="height:92px;margin:15px 0;text-align:center"]
+gala.de##div[style="left: 60px; margin-left: 295px;"] + a > img
 epochtimes.de##div[style="left:100%; position:absolute; top: 1rem; margin-left: -0.875rem;"]
 gamepro.de##div[style="margin-bottom: 5px; margin-top: 20px; "] + .teaserRight[style="padding-bottom:0px"]
 goolive.de##div[style="margin-bottom: 5px; position: absolute; top: 8px; border: dotted #808080; overflow: visible"]
@@ -3379,9 +3383,9 @@ prosiebenmaxx.de###aside-zone > [-abp-properties='cursor: pointer; margin-bottom
 ran.de###aside-zone > [-abp-properties='cursor: pointer; margin-bottom: 2*px;']
 womenshealth.de###col-left > [-abp-properties='cursor: pointer;']
 serienjunkies.de###content > [-abp-properties='cursor: pointer']
-,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de###content > [-abp-properties='cursor: pointer; margin-left: 16px;']
+e-mountainbike.com,elektrobike-online.com,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de###content > [-abp-properties='cursor: pointer; margin-left: 16px;']
 serienjunkies.de###content > [-abp-properties='display: block;']
-,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de###content > [-abp-properties='margin-left: 17px;']
+e-mountainbike.com,elektrobike-online.com,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de###content > [-abp-properties='margin-left: 17px;']
 pcwelt.de###content > [-abp-properties='margin-left: 3*px;']
 lustich.de###contentTopBg > [-abp-properties='height: 9*px; margin-bottom: *px; margin-left: *px; margin-right: *;']
 runnersworld.de###flashbuehne > div > [-abp-properties='cursor: pointer;']
@@ -3453,7 +3457,6 @@ transfermarkt.de##.four.columns > * > [-abp-properties='display: block; padding-
 transfermarkt.de##.four.columns > * > [-abp-properties='margin-top: 7px;']
 transfermarkt.de##.four.columns > [-abp-properties='cursor: pointer;']
 transfermarkt.de##.four.columns > [-abp-properties='margin-top: 8px;']
-gala.de##.gujAd + a > img
 gamepro.de##.homeContReg > [-abp-properties='cursor: pointer;']
 gamestar.de##.homeContReg > [-abp-properties='padding-top: 20px;']
 arcor.de##.image > [-abp-properties='margin-left: 1*px; margin-right: 1*px;']
@@ -3675,8 +3678,8 @@ stern.de##[-abp-properties='margin-bottom: 5px; margin-left: 232px;']
 comunio.de##[-abp-properties='margin-bottom: 9px; margin-left: 103px; margin-top: 10px;']
 finanzen.net##[-abp-properties='margin-bottom: 9px; margin-left: 14*px;']
 pcgameshardware.de##[-abp-properties='margin-left: -3px; position: absolute; top: 0;']
-,cavallo.de,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='margin-left: 1030px; position: absolute; top: 8.1em;']
-,cavallo.de,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='margin-left: 1030px; position: absolute; top: 8em;']
+cavallo.de,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='margin-left: 1030px; position: absolute; top: 8.1em;']
+cavallo.de,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='margin-left: 1030px; position: absolute; top: 8em;']
 arcor.de##[-abp-properties='margin-left: 106px; position: relative; width: 899px;']
 arcor.de##[-abp-properties='margin-left: 10px; margin-right: 10px;']
 arcor.de##[-abp-properties='margin-left: 11*px; position: relative; width: 99*px;']
@@ -3752,6 +3755,3 @@ hoerzu.de##[-abp-properties='text-align: center;'] > img
 caravaning.de,promobil.de,prosieben.de,sixx.de##[-abp-properties='width: 728px;']
 finanzen.net##a > [-abp-properties='border*']
 prosiebenmaxx.de##div[align="center"][style="color: #000000;"] + div + [-abp-properties='text-align: center;']
-gala.de##div[style="float: left; width: 80px; height: 80px;"] + a > img
-gala.de##div[style="height: 269px;"] + a > img
-gala.de##div[style="left: 60px; margin-left: 295px;"] + a > img
