@@ -65,6 +65,7 @@ onvista-bank.de,onvista.de###WALLPAPER
 ww3.cad.de###WzTtDiV + table[width="100%"][border="0"]
 adhs-zentrum.de,enuresis-zentrum.de,zeitarbeit-zentrum.de###a4d1af
 adhs-zentrum.de,enuresis-zentrum.de,zeitarbeit-zentrum.de###a4d1af + div
+woxikon.de###aContentBottom2
 abacho.de###abacho_leader
 abacho.de###abacho_sky
 namibia-forum.ch###abakus
@@ -3380,9 +3381,9 @@ news.de##.plista_widget_underArticle_item + div[style="position: relative;"] > s
 googlesyndication.com###adunit
 netzwelt.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 netzwelt.de##.ob_dual_right > .ob_ads_header ~ .odb_div
-boote-forum.de,comunio.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de,woxikon.de##.plistaList > .itemLinkPET
+boote-forum.de,comunio.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
-ariva.de,boote-forum.de,comunio.de,fanfiktion.de,netzwelt.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de,woxikon.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
+ariva.de,boote-forum.de,comunio.de,fanfiktion.de,netzwelt.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
 plista.com##a[href^="http://click.plista.com/pets"]
 netzwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! CSS property filters for Adblock Plus
@@ -3502,8 +3503,10 @@ tvtoday.de##[-abp-properties='clear: both; margin-bottom: 15px;']
 tvtoday.de##[-abp-properties='clear: both; margin-left: 48px;']
 tvtoday.de##[-abp-properties='clear: both; margin-left: 49px;']
 wetteronline.de##[-abp-properties='cursor: pointer; float: left; height: 9*px; left: 0px; margin-left: 2*px; position: absolute; width: 7*px; z-index: *;']
+woxikon.de##[-abp-properties='cursor: pointer; height: 600px;']
 usp-forum.de##[-abp-properties='cursor: pointer; height: 9*px; width: 72*px;']
 finanzen.net##[-abp-properties='cursor: pointer; height: 90px; margin-left: 72px; width: 769px;']
+woxikon.de##[-abp-properties='cursor: pointer; height: 90px;']
 giga.de##[-abp-properties='cursor: pointer; left: *; position: *; right: *; top: *; z-index: 1;']
 pcwelt.de##[-abp-properties='cursor: pointer; left: 242px; position: absolute;']
 transfermarkt.de##[-abp-properties='cursor: pointer; left: 944px; margin-left: 100px; position: absolute; top: 102px; width: 160px; z-index: 100;']
