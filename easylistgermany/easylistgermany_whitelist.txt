@@ -89,7 +89,6 @@
 @@||aphog.de/werbung/$~third-party
 @@||apmebf.com^$subdocument,domain=gutscheindoktor.de
 @@||apsrv.de/javascripts/my_ad_integration.js?$domain=autoplenum.de
-@@||ariva.de^$genericblock,generichide
 @@||askstudents.de/optimizer.php?*/adcontrol.js
 @@||atwola.com/?adrawdata/$object-subrequest,domain=player.nowonscreen.com
 @@||atwola.com/crossdomain.xml$object-subrequest,domain=player.nowonscreen.com
@@ -109,7 +108,6 @@
 @@||berufsstart.de^*/show-advert-info.html?$subdocument
 @@||bluelithium.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||bluelithium.com/st?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
-@@||boote-forum.de^$genericblock,generichide
 @@||bundesliga.de/js/my_ad_integration.js
 @@||camerartist.de/wp-content/plugins/adrotate/$~third-party
 @@||campaign.adindex.de^*?idPartner=$subdocument,domain=gutscheindoktor.de
@@ -125,7 +123,6 @@
 @@||comdirect.de^*.html?ad=$subdocument
 @@||comdirect.de^*/advertising.do?$subdocument
 @@||commundia.de^*/affilinet/$~third-party
-@@||comunio.de^$genericblock,generichide
 @@||cookex.amp.yahoo.com/v2/cexposer/SIG=*//ad.yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||d3con.de/data1/$image,~third-party
@@ -165,7 +162,6 @@
 @@||eyewonder.com^*/wrapper.js$domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||eyewonder.com^*_tag_modified.xml?ewbust=$object-subrequest,domain=putpat.tv
 @@||familienbildung-hamburg.de/cgi-bin/adframe/$subdocument,domain=fbs-harburg.de
-@@||fanfiktion.de^$genericblock,generichide
 @@||farbimpulse.de/live/fi_static/inc/banner.php?$subdocument
 @@||fcbayern.t-com.de^*/fotogalerie_*/sponsoren/$image
 @@||feuerwehr-borken-hessen.de/de/banner.php
@@ -288,14 +284,9 @@
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
 @@||photo.knuddels.de/kde/ad2/$image
 @@||pixel.adsafeprotected.com/jspix?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
-@@||pixelio.de^$genericblock,generichide
-@@||planetsnow.de^$genericblock,generichide
 @@||playboy.de/files/html/Advertorials/$~third-party
 @@||player.newsnetz.tv/player/iframe.php?vid=*&adurl=$subdocument
 @@||promo.douglas.de^$subdocument,domain=facebook.com
-@@||prosieben.at^$genericblock,generichide
-@@||prosieben.ch^$genericblock,generichide
-@@||prosieben.de^$genericblock,generichide
 @@||prosieben.de^*/ad-managment/$script
 @@||quadelite-forum.de/images/misc/web-banner2_980x100.jpg
 @@||radio.de/inc/ads/pix.swf?mp3=$object
@@ -384,7 +375,6 @@
 @@||tradedoubler.com/file/$image,domain=sunsteps.org
 @@||tradedoubler.com/redirect/*^affID^$subdocument,domain=gutscheindoktor.de
 @@||tv.derstandard.at/adserver.php?*&pos=video$subdocument
-@@||tvspielfilm.de^$genericblock,generichide
 @@||ui-portal.de^*/video-adserver-config.xml$object-subrequest
 @@||uicdn.com^*/video-adserver-config.xml$object-subrequest
 @@||v.fwmrm.net/ad/p/1?$object-subrequest,domain=southpark.de
@@ -523,7 +513,6 @@ kalender-365.de#@#.adsbygoogle
 @@||mediationslupe.de^$elemhide
 @@||medienrechtsnews.de^$elemhide
 @@||mobilfunk-geschichte.de^$elemhide
-@@||motorsport-total.com^$generichide
 @@||mufa.de/js/advertisement.js
 @@||mutterschutz-rechner.de^$elemhide
 @@||mypolonia.de^*/adframe.js
