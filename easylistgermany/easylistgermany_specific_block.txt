@@ -2158,6 +2158,7 @@
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 @@||notebookcheck.com^$genericblock,generichide
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=notebookcheck.com
+@@||tellows.de^$genericblock,generichide
 ||2mdn.net^$~object-subrequest,domain=notebookcheck.com
 ||360yield.com^$domain=notebookcheck.com
 ||ad-emea.doubleclick.net^$domain=notebookcheck.com
@@ -2171,7 +2172,7 @@
 ||ads.stickyadstv.com^$domain=notebookcheck.com
 ||adsafeprotected.com^$domain=imasdk.googleapis.com
 ||adspirit.de^$domain=notebookcheck.com
-||adtech.de^$domain=notebookcheck.com|t-online.de
+||adtech.de^$domain=notebookcheck.com|t-online.de|tellows.de
 ||adtechus.com^$domain=t-online.de
 ||amazon-adsystem.com^$domain=notebookcheck.com
 ||amazonaws.com/prod.iqdcontroller.iqdigital/*/live/iqadcontroller.js.gz$domain=notebookcheck.com
@@ -2186,7 +2187,7 @@
 ||g.doubleclick.net^$domain=notebookcheck.com
 ||gmads.net^$domain=notebookcheck.com
 ||google.com/adsense/$domain=notebookcheck.com
-||googleadservices.com^$domain=notebookcheck.com
+||googleadservices.com^$domain=notebookcheck.com|tellows.de
 ||googlesyndication.com/pagead/$domain=notebookcheck.com
 ||googlesyndication.com/safeframe/$domain=notebookcheck.com
 ||googlesyndication.com/simgad/$domain=notebookcheck.com
