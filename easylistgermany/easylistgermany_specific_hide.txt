@@ -2066,6 +2066,7 @@ yelp.at,yelp.ch,yelp.de##.yloca-search-result-exp
 magistrix.de##.zeezee
 german-bash.org##.zitat > div[style="width:300px;"]
 listsandnews-de.net##A[href^="http://www.dekarrierejournal.com/index.php?A="]
+chip.de##A[title="Amazon Instant Video"][target="_blank"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
 filecrypt.cc##[onmouseup$="', this);"][href^="javascript:"]
