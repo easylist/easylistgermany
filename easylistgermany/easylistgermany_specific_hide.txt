@@ -1393,7 +1393,6 @@ mobile.de##.d-05-opromo_de
 goldesel.to##.d_head + div[class^="d_"] > a > img
 winload.de##.darklayer
 3dl.tv##.ddl-mirnor-box.button[href*="="]
-3dl.tv##.ddl-mirnor-box.button[target="_blank"][href*=".3dl.tv/"][href*="="]
 3dl.tv##.ddl-mirror-box[target="blank_"]
 fail.to##.dealheader
 gamona.de,gesichtskirmes.net##.deals
@@ -1520,7 +1519,6 @@ musicloud.fm##.green
 porn2you.org##.grid-h[style="width: 735px;"]
 my-homo.net##.gstsk
 gala.de##.gujAd + a
-gala.de##.gujAd + a > img
 pcgames.de##.gul300
 myvideo.de##.hAdHead
 news.de##.halfpage
@@ -1792,7 +1790,6 @@ hamm2night.de##.rect
 hamm2night.de##.rectBox
 kochbar.de,rtl.de,sport.de,vip.de,vox.de##.rectangel
 bild.de,internetworld.de,lkz.de,outnow.ch,rp-online.de,sonntagszeitung.ch,stylebook.de,suedkurier.de,travelbook.de,visions.de,windows-forum.info##.rectangle
-wetter.com##.rectangle-home > div[class]:first-child > a[href]:last-child > img[src]:first-child:last-child
 myvideo.de##.rectangle1
 internetworld.de##.rectangleBox
 mz-web.de##.rectangle_anzeige
@@ -2577,7 +2574,6 @@ npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$
 ddl-warez.to##a[onclick*=".to/ref/"]
 ddl-warez.to##a[onclick*="/affiliate/"]
 ddl-warez.to##a[onclick*="FriendlyDuck.com"]
-ddl-warez.to##a[onclick*="share-online.biz//affiliate/"]
 ddl-warez.to##a[onclick*="uploaded.net/ref/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick][href$="#"] > img[src^="/"]
 kochbar.de,rtl.de,sport.de,vip.de,vox.de,wetter.de##a[onclick^="$('<img></img>').attr(\7b src: '/tools/count/xdot/count.php?id="]
@@ -3414,9 +3410,9 @@ ran.de###aside-zone > [-abp-properties='margin-bottom: 20px;']
 womenshealth.de###col-left > [-abp-properties='cursor: pointer;']
 motorradonline.de###col-right > [-abp-properties='margin-bottom: 30px; width: 300px;']
 serienjunkies.de###content > [-abp-properties='cursor: pointer']
-e-mountainbike.com,elektrobike-online.com,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de###content > [-abp-properties='cursor: pointer; margin-left: 16px;']
+e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de###content > [-abp-properties='cursor: pointer; margin-left: 16px;']
 serienjunkies.de###content > [-abp-properties='display: block;']
-e-mountainbike.com,elektrobike-online.com,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de###content > [-abp-properties='margin-left: 17px;']
+e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de###content > [-abp-properties='margin-left: 17px;']
 pcwelt.de###content > [-abp-properties='margin-left: 3*px;']
 lustich.de###contentTopBg > [-abp-properties='height: 9*px; margin-bottom: *px; margin-left: *px; margin-right: *;']
 runnersworld.de###flashbuehne > div > [-abp-properties='cursor: pointer;']
@@ -3784,7 +3780,7 @@ e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mounta
 runnersworld.de##[-abp-properties='margin-bottom: 11px; margin-left: 31px;']
 ariva.de##[-abp-properties='margin-bottom: 11px; margin-right: 303px;']
 focus.de##[-abp-properties='margin-bottom: 11px;']
-e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,planetsnow.de,roadbike.de##[-abp-properties='margin-bottom: 12px; margin-left: 300px;']
+e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,planetsnow.de,roadbike.de##[-abp-properties='margin-bottom: 12px; margin-left: 300px;']
 cavallo.de,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,planetsnow.de,roadbike.de##[-abp-properties='margin-bottom: 12px; margin-left: 301px;']
 ariva.de##[-abp-properties='margin-bottom: 12px; margin-right: 301px;']
 ariva.de##[-abp-properties='margin-bottom: 12px; margin-right: 304px;']
@@ -3822,8 +3818,8 @@ pcgameshardware.de##[-abp-properties='margin-left: -3px; position: absolute; top
 pcgameshardware.de##[-abp-properties='margin-left: -4px;']
 pcgameshardware.de##[-abp-properties='margin-left: -5px;']
 planetsnow.de##[-abp-properties='margin-left: 103*px; position: absolute; top: 8*em;']
-cavallo.de,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='margin-left: 1030px; position: absolute; top: 8.1em;']
-cavallo.de,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern-magazin.de.outdoor-magazin.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='margin-left: 1030px; position: absolute; top: 8em;']
+cavallo.de,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='margin-left: 1030px; position: absolute; top: 8.1em;']
+cavallo.de,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='margin-left: 1030px; position: absolute; top: 8em;']
 mountainbike-magazin.de,outdoor-magazin.com,planetsnow.de##[-abp-properties='margin-left: 1030px;']
 arcor.de##[-abp-properties='margin-left: 106px; position: relative; width: 899px;']
 arcor.de##[-abp-properties='margin-left: 10px; margin-right: 10px;']
