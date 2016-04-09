@@ -666,6 +666,7 @@ hd-world.org###post-213230 + :nth-child(n)
 lesen.to###post-27843
 xxx-blog.to###post-31656
 wintotal.de###post-3547
+lesen.to###post-36149
 lesen.to###post-39154
 sound-blog.org###post-3968
 lesen.to###post-39688
@@ -3048,6 +3049,7 @@ serienjunkies.org##form[action="http://mirror.serienjunkies.org"]
 t-online.de##form[action="http://stromvergleich.t-online.de/strom.php"]
 xxx-blog.to##form[action="http://xxx-blog.to/mirror.php?download=highspeed"]
 rtl.de##form[action^="http://altfarm.mediaplex.com/"]
+lesen.to##form[action^="http://www.FriendlyDuck.com/AF_"]
 hoerbuch.us##form[action^="http://www.FriendlyDuck.com/AF_"] > #mirror
 ddl-search.biz##form[action^="http://www.affaire.com/"]
 serienjunkies.org,wiiu-reloaded.com##form[action^="http://www.firstload.com/affiliate/"]
