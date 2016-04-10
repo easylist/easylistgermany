@@ -1477,6 +1477,7 @@ bloggospace.de##.first_pub
 preisvergleich.de##.flexTop
 wochenblitz.com,wohnungswirtschaft-heute.de##.flexbannergroup
 buchhalterprofi.de##.flexi-bnrs
+tvinfo.de##.floatLeft[style="padding:10px;"]
 one2stream.com##.floater
 computerwissen.de##.floater[style="display: block;"]
 hoerzu.de##.footer-banner-program
@@ -2858,6 +2859,7 @@ formel1.de##div[style="cursor: pointer; width: 160px; height: 600px; position: a
 formel1.de##div[style="cursor: pointer; width: 300px; height: 250px; text-align: center;"]
 wetter.com##div[style="cursor:pointer; float:left; height:100px; width:20px;"] + * + * + a + *
 wetter.com##div[style="cursor:pointer; float:left; height:100px; width:20px;"] + div + *
+tvinfo.de##div[style="display: block; height: 95px;"]
 satempfang-magazin.de##div[style="display: block; position: absolute; overflow: hidden; z-index: 1001; outline: 0px none; height: auto; width: 800px; top: 216px; left: 551.5px;"]
 codecheck.info##div[style="display: inline-block; float: right; height: 30px; margin: 10px 10px 0 0; font-size: 14px; color: #7b8d94;"] > span[style="z-index: 8; position: relative;"]
 netzwelt.de##div[style="display: table-row;"] > #ml
