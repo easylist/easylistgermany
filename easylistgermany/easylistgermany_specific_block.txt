@@ -7,7 +7,7 @@
 |http://*.pw^$script,domain=byte.to
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
-|https://*.bs.to^$script,domain=bs.to
+|https://*.bs.to^$script,domain=~board.bs.to|bs.to
 ||0815sms.com/doku/$script
 ||1000hp.net/banner/
 ||149.13.77.20^$domain=ww3.cad.de

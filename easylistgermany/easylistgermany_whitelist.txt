@@ -4,7 +4,6 @@
 @@|http://byte.to/js/javascript.js|
 @@|http://byte.to/js/wz_tooltip.js|
 @@|https://*.js?_=$script,domain=freenet.de
-@@|https://s.bs.to/js/*.js|$script,domain=bs.to
 @@||0815sms.com/img/pagepeel.php?$image
 @@||1000steine.de/img/ads/
 @@||123people.us/trackads/display?zones=$script,domain=123people.de
@@ -303,6 +302,9 @@
 @@||rtl.de^*/admeta.xml?$object-subrequest
 @@||rtl.de^*/player_modul_onclick_300x250.jpg
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
+@@||s.bs.to/js/heartcode-canvas-loader.js|$domain=~board.bs.to|bs.to
+@@||s.bs.to/js/jquery.js|$script,domain=~board.bs.to|bs.to
+@@||s.bs.to/js/main.min.js|$script,domain=~board.bs.to|bs.to
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
 @@||sascdn.com/diff/*/pages/$script,domain=hoerzu.de
 @@||sascdn.com/diff/*/pages/derwesten.js$domain=derwesten.de
