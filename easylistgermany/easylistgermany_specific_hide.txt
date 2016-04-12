@@ -455,7 +455,9 @@ mein-schoener-garten.de###ivw_img + noscript + script + script + div[style="heig
 boerse-online.de###ivwimg
 sein.de###ja-col1 a[target="_blank"] > img[alt=""]
 juraforum.de###jf-stroer-sky
+juraforum.de###jf-stroer-sky + div
 juraforum.de###jf-stroer-superbanner
+juraforum.de###jf-wrapper-inner > div[style="width:100%; position:relative; height:90px;"]
 redhocks.de###jsn-promo
 general-anzeiger-bonn.de###kala
 express.de,fr-online.de,general-anzeiger-bonn.de,ksta.de,mz-web.de,rhein-zeitung.de,wz-newsline.de###kalaydo
