@@ -2870,7 +2870,6 @@ wetter.com##div[style="cursor:pointer; float:left; height:100px; width:20px;"] +
 tvinfo.de##div[style="display: block; height: 95px;"]
 satempfang-magazin.de##div[style="display: block; position: absolute; overflow: hidden; z-index: 1001; outline: 0px none; height: auto; width: 800px; top: 216px; left: 551.5px;"]
 codecheck.info##div[style="display: inline-block; float: right; height: 30px; margin: 10px 10px 0 0; font-size: 14px; color: #7b8d94;"] > span[style="z-index: 8; position: relative;"]
-netzwelt.de##div[style="display: table-row;"] > #ml
 suedtirolnews.it##div[style="display: table; position: static;background: none repeat scroll 0px 0px rgb(252, 252, 251); border: 1px solid rgb(239, 238, 236); padding:5px; float: right; width: 418px; text-align: center; margin: 0px 10px 10px 0px; height:356px;"]
 magistrix.de##div[style="display:inline-block; width:728px; height:90px"]
 epochtimes.de##div[style="float: left; margin: 0 1rem 1rem -5rem; border:1px solid #CCC;height:615px; width:162px;"]
@@ -3412,14 +3411,10 @@ news.de##.plista_widget_underArticle_item + div[style="position: relative;"] > s
 !mopo24.de##a[href^="content/"]
 !mopo24.de##article[class$="block"][data-id]
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
-googlesyndication.com###adunit
-netzwelt.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
-netzwelt.de##.ob_dual_right > .ob_ads_header ~ .odb_div
 boote-forum.de,comunio.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
-ariva.de,boote-forum.de,comunio.de,fanfiktion.de,netzwelt.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
+ariva.de,boote-forum.de,comunio.de,fanfiktion.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
 plista.com##a[href^="http://click.plista.com/pets"]
-netzwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 notebookcheck.com##div[id^="google_ads_iframe_"]
 ! CSS property filters for Adblock Plus
 1erforum.de,dasheimwerkerforum.de,modernboard.de,skodacommunity.de,vermieter-forum.com###Rectangle > [-abp-properties='cursor: pointer;']

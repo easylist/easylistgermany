@@ -178,7 +178,7 @@
 @@||freenet.de^$elemhide
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g-stream.in/lla2/smoothscroll.js
-@@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|guterhut.de|hardwareluxx.de|hbf-info.de|netzwelt.de|rakuten.at|rakuten.de|zalando.de
+@@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|zalando.de
 @@||galileo.tv/js/my_ad_integration.js
 @@||gamepro.de/js/gamepro/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
@@ -196,7 +196,6 @@
 @@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
 @@||googlesyndication.com/pagead/imgad?id=$image,domain=zalando.de
-@@||googlesyndication.com/safeframe/$subdocument,domain=netzwelt.de
 @@||googlesyndication.com/simgad/14155692645477451130$image,domain=guterhut.de
 @@||googlewatchblog.de^*/adsense.png
 @@||goolive.de/templatesv2/smileys/ad.gif
@@ -259,8 +258,6 @@
 @@||n24.de^*/my_ad_integration.js
 @@||nadann.de/small_ads/$~third-party
 @@||netzathleten-media.de^*/naMediaAd.js$domain=kino-vorschau.com
-@@||netzwelt.de^$generichide
-@@||netzwelt.de^$xmlhttprequest,domain=netzwelt.de
 @@||nonstoppartner.net/a/?$subdocument,domain=gutscheindoktor.de
 @@||nonstoppartner.net^$image,domain=sunsteps.org
 @@||nordclick.de/js/colors/adsense_colors.js
@@ -278,7 +275,7 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spielen.com
 @@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.at|rakuten.de
 @@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=cnet.de
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=guterhut.de|hardwareluxx.de|hbf-info.de|netzwelt.de|rakuten.at|rakuten.de|zalando.de
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|zalando.de
 @@||partners.webmasterplan.com/click*.asp$subdocument,domain=eule.de|gutscheindoktor.de
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
