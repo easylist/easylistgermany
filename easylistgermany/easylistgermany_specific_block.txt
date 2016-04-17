@@ -2162,6 +2162,7 @@
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
+@@||g.doubleclick.net/gampad/ads?$script,domain=notebookcheck.com
 @@||notebookcheck.com^$genericblock,generichide
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=notebookcheck.com
 @@||tellows.de^$genericblock,generichide
@@ -2188,6 +2189,7 @@
 ||cas.criteo.com^$domain=notebookcheck.com
 ||caw.*.criteo.com^$domain=notebookcheck.com
 ||caw.criteo.com^$domain=notebookcheck.com
+||conative.de^$domain=notebookcheck.com
 ||doubleclick.net^$~object-subrequest,domain=notebookcheck.com
 ||flashtalking.com^$domain=notebookcheck.com
 ||g.doubleclick.net^$domain=notebookcheck.com

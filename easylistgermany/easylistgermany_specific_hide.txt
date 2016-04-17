@@ -3420,6 +3420,7 @@ plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 ariva.de,boote-forum.de,comunio.de,fanfiktion.de,netzwelt.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
 plista.com##a[href^="http://click.plista.com/pets"]
 netzwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
+notebookcheck.com##div[id^="google_ads_iframe_"]
 ! CSS property filters for Adblock Plus
 1erforum.de,dasheimwerkerforum.de,modernboard.de,skodacommunity.de,vermieter-forum.com###Rectangle > [-abp-properties='cursor: pointer;']
 prosiebenmaxx.de###aside-zone > [-abp-properties='cursor: pointer; margin-bottom: 1.2em;']
