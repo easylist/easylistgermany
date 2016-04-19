@@ -633,9 +633,6 @@
 ||filecrypt.cc/images/uli.png
 ||filecrypt.cc^$subdocument,domain=filecrypt.cc
 ||filecrypt.cc^*.php?$script
-||files.putpat.tv/misc/*.xml|$object-subrequest
-||files.putpat.tv/putpat_player/*/top_banner/
-||files.putpat.tv^*/umusic_*.xml|$object-subrequest
 ||filestore.to/banner/
 ||filme2k.net^*/system.js
 ||filmpalast.to/cyaska^
@@ -1519,7 +1516,6 @@
 ||psychic.de/bilder/muskelentspannung.png
 ||pszone.eu/templates/playzone/img/bg_all.jpg
 ||pszone.eu/uploads/banners/
-||putpat.tv^*/sponsoring/
 ||pz-news.de^*/module_wb/
 ||querverweis.net/show/index.php?sac_cat=
 ||quoka.de/fif.html
