@@ -529,6 +529,7 @@ mov-world.net###main > #lblock + [style*="width: 180px"]
 emergency-forum.de###main > .border > .container-1[style="text-align: center"]:first-child:last-child
 abendblatt.de###main > .column-1 > .widget > #lt_Wrap
 esbgforum.de###main > .pageOptions + .info + div[align="center"]
+iphone-tricks.de###main-area > script + div > div > img
 yasni.at,yasni.ch,yasni.de###main-content-ac1
 lesen.to###main:first-child > br:first-child + br + .box2
 grosseleute.de###mainContainer > :nth-child(n) + div:last-child div:first-child:last-child > div:first-child:last-child > a[href] > img[src^="image/"]
@@ -1773,6 +1774,7 @@ movie-blog.org##.post > center:last-child > a[target="_blank"]
 blogprojekt.de##.post > div[style="margin-left: 10px;"] > div[style="clear:both; font-size:8pt; text-align:right; width: 468px;"]
 movie-blog.org##.post a[href^="http://movie-blog.org/"]
 movie-blog.org##.post a[target="_blank"][href$=".movie-blog.org"]
+iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:center;"]
 movie-blog.org##.post p > a[target="_blank"][href*=".movie-blog.org/"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##.post td[valign="top"] > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > td > a[target="_blank"] > img
 radio1.ch##.post-box-middle-anzeige
@@ -3215,6 +3217,7 @@ teltarif.de##p + .tetable + .tetable[width="100%"][cellspacing="0"][cellpadding=
 prad.de##p > a > img[width="614"][height="249"]
 englische-briefe.de##p > table[width="769"][cellpadding="4"]
 schoener-fernsehen.com##p[id$="link"]
+iphone-tricks.de##p[style="clear:both;width:100%;border-bottom: 1px solid #e5e5e5;padding: 5px 0px;"]
 byte.to##p[style="color: #FFFFFF;"] > a > big
 titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; margin: 0; padding: 0;"]
 titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; margin: 0; padding: 0;"] + .teaser_row[style="height: 181px;"]
