@@ -1309,6 +1309,7 @@ web.de##.buster
 tt.com##.button145
 foerderland.de##.button300x250
 xink.it##.buttonMirror
+filecrypt.cc##.buttons button[onmouseup^="var c = this;openLink('"]
 lounge.fm##.buy
 giga.de##.buy[target="_blank"]
 giga.de##.buy[target="blank"]
@@ -2083,6 +2084,7 @@ chip.de##A[title="Amazon Instant Video"][target="_blank"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
 filecrypt.cc##[onmouseup$="', this);"][href^="javascript:"]
+filecrypt.cc##[onmouseup^="var c = this;openLink('"][style="cursor:pointer;"]
 gamepro.de##[style$="left: 663.5px;"]
 gamepro.de##[style$="left: 988px;"]
 gamepro.de##[style="margin-bottom: 5px; margin-top: 20px; "] + .teaserRight + * + * + * > *
@@ -2613,6 +2615,7 @@ zoozle.net##a[onclick^="downloadFile('download_related', null,"]
 php.de##a[onclick^="pageTracker._trackPageview('/outbound/ads/"]
 suchen.de##a[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 prad.de##a[onclick^="trackOutboundLink(this, 'HP'"]
+filecrypt.cc##a[onclick^="var c=this;openLink('"][href="#"] > img
 rtl.de##a[onclick^="verivox_go("]
 rtl.de##a[onclick^="verivox_go_"]
 downloadstube.net##a[onclick^="window.open('/download-file.php?type=premium&"]
