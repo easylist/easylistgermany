@@ -2213,6 +2213,7 @@ bild.de##a[href^="/spiele/bigpoint/"] > img
 bild.de##a[href^="/spiele/goodgame/"] > img
 bild.de##a[href^="/spiele/innogames/"] > img
 bild.de##a[href^="/spiele/travian-games/"] > img
+1kino.in##a[href^="/te3/out.php?id="] > img
 speedlounge.in##a[href^="/to/"]
 rtl.de##a[href^="/tools/count/teaser_ext.php?url="][href*="altfarm.mediaplex.com"]
 clipfish.de##a[href^="/tools/count/xdot/count.php?"]
