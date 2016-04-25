@@ -238,6 +238,8 @@
 @@||markt.de^*/advert_search_results.gif
 @@||marktplatzservice.de/ads/$image,domain=local24.de
 @@||master.captchaad.com/www/delivery/$script,domain=winload.de
+@@||maxbanner.de/media/products/$image,domain=maxbanner.de
+@@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
 @@||media.gan-online.com/www/delivery/*.php?$script,subdocument,domain=myfreefarm.de
 @@||media.laendleauto.at/topad/$image,~third-party
 @@||meinestadt.de^*/googleads.js
