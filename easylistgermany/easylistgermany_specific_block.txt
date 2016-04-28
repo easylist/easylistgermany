@@ -1,5 +1,6 @@
 &campaignid=*&zoneid=$domain=technic3d.com
 /?placement=$domain=movie-blog.org
+/http://cdn[0-9].spiegel.de/images/image-([0-9]{6})-(thumb|hpcolumnressort|panoV9free|breitwandaufmacher|hppano)-[a-z0-9]{4}-(?!\1)[0-9]{6}.jpg/$image,domain=spiegel.de
 /oase_banner.jpg$domain=mysummit.wordpress.com
 /www/images/*$domain=technic3d.com
 ^what=zone^$domain=ww3.cad.de
