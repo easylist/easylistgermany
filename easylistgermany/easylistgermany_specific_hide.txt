@@ -3437,6 +3437,7 @@ boote-forum.de,comunio.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,t
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 ariva.de,boote-forum.de,comunio.de,fanfiktion.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
 plista.com##a[href^="http://click.plista.com/pets"]
+stol.it##div[id^="div-gpt-ad"]
 notebookcheck.com##div[id^="google_ads_iframe_"]
 ! CSS property filters for Adblock Plus
 1erforum.de,dasheimwerkerforum.de,modernboard.de,skodacommunity.de,vermieter-forum.com###Rectangle > [-abp-properties='cursor: pointer;']
