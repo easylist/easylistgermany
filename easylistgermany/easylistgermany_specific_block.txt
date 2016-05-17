@@ -2,6 +2,7 @@
 /?placement=$domain=movie-blog.org
 /http://cdn[0-9]\.spiegel\.de/images/image-([^-]+)-[^-]+-[^-]+-(?!\1)[^-]+\.jpg/$image,domain=spiegel.de
 /oase_banner.jpg$domain=mysummit.wordpress.com
+/worker.php$domain=filmpalast.to
 /www/images/*$domain=technic3d.com
 ^what=zone^$domain=ww3.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
