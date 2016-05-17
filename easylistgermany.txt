@@ -1,10 +1,11 @@
 [Adblock Plus 1.1]
-! Version: 201605171756
+! Version: 201605171859
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 May 2016 17:56 UTC
+! Last modified: 17 May 2016 18:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
+! Licence: https://easylist.github.io/pages/licence.html
 ! 
 ! Bitte melde ungeblockte Werbung und fälschlicherweise geblockte Dinge:
 ! Forum: https://forums.lanik.us/viewforum.php?f=90
@@ -8739,4 +8740,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: 2haIJEXjagTufjnLHpRmgA
+! Checksum: lHzvmIUXKl2+HqCvqJKP6w
