@@ -589,6 +589,8 @@ meinestadt.de###mt-banner
 funnybilder.net,lachfails.net,vipbilder.net###mt_right
 mov-world.net###mw_layer
 lexas.biz###mypop2_b
+meetingpoint-brandenburg.de###myspacerinner
+meetingpoint-brandenburg.de###myspacerright
 send4free.de###n8f880e
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
@@ -991,6 +993,7 @@ hifitest.de###wb-top
 webfail.com###webfail_de_300_250_rt
 linguee.de###wide_banner_right
 eliteanimes.com###wleft
+meetingpoint-brandenburg.de###wobra-suche
 ruhrbarone.de###wpTopBox
 stb-web.de###wpbg
 wikio.de###wpub
@@ -1909,8 +1912,11 @@ netzwertig.com##.sp0ns0r3n_columns
 jappy.at,jappy.de##.spAdMR
 1und1.de,smartsearch.de##.spLinksBottom
 1und1.de,smartsearch.de##.spLinksTop
+meetingpoint-brandenburg.de##.span > .white_bg[style="width: 100%; padding-right: 5px;"]
 moviez.to##.span-10 > .hoster
+meetingpoint-brandenburg.de##.span.white_bg[style="padding: 7px 2px; margin-left: 5px;"]
 fem.com##.span4 .block-type-content-grid > a
+meetingpoint-brandenburg.de##.span[style="width: 160px; margin-left: 5px;"]
 oberberg-aktuell.de##.special_combination_add
 efever.de##.specialdiv
 benzinpreis.de##.sped
