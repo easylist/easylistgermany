@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201605190507
+! Version: 201605201859
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 19 May 2016 05:07 UTC
+! Last modified: 20 May 2016 18:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -1047,6 +1047,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||boerse.bz^*/banners/$third-party
 ||boxen1.com^*/jessica1.jpg
 ||boxen1.com^*/luxus-villa-zu-verkaufen.gif
+||brandenburger-salzgrotte.de/webbanner/
 ||buecherbillig.de/images/banners/$third-party
 ||bumskontakte.ch/banner/
 ||business-best-practice.de/anzeigen/
@@ -1272,6 +1273,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||monsterdealz.de/script.js
 ||monstersgame.net^*&vid=$third-party
 ||montessori-shop.de/banner/$third-party
+||mothor.de/webbanner/
 ||motorrad-link.de/shop/catalog_extern.php
 ||movie-blog.org^*/layer2.js
 ||mp3kingz.org/img/banner_
@@ -2842,6 +2844,8 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||mediaforum.ch/banner_
 ||mediang.gameswelt.de/public/upload/$object,stylesheet
 ||medienzensur.de/bilder/links/unicef.gif
+||meetingpoint-brandenburg.de/bilder/*/kunden/
+||meetingpoint-brandenburg.de/bilder/*/werbung/
 ||mega-stream.to/do.php
 ||mega-stream.to/js/ppop*.js
 ||mega-stream.to^*/system.js
@@ -4596,6 +4600,8 @@ meinestadt.de###mt-banner
 funnybilder.net,lachfails.net,vipbilder.net###mt_right
 mov-world.net###mw_layer
 lexas.biz###mypop2_b
+meetingpoint-brandenburg.de###myspacerinner
+meetingpoint-brandenburg.de###myspacerright
 send4free.de###n8f880e
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
@@ -4998,6 +5004,7 @@ hifitest.de###wb-top
 webfail.com###webfail_de_300_250_rt
 linguee.de###wide_banner_right
 eliteanimes.com###wleft
+meetingpoint-brandenburg.de###wobra-suche
 ruhrbarone.de###wpTopBox
 stb-web.de###wpbg
 wikio.de###wpub
@@ -5916,8 +5923,11 @@ netzwertig.com##.sp0ns0r3n_columns
 jappy.at,jappy.de##.spAdMR
 1und1.de,smartsearch.de##.spLinksBottom
 1und1.de,smartsearch.de##.spLinksTop
+meetingpoint-brandenburg.de##.span > .white_bg[style="width: 100%; padding-right: 5px;"]
 moviez.to##.span-10 > .hoster
+meetingpoint-brandenburg.de##.span.white_bg[style="padding: 7px 2px; margin-left: 5px;"]
 fem.com##.span4 .block-type-content-grid > a
+meetingpoint-brandenburg.de##.span[style="width: 160px; margin-left: 5px;"]
 oberberg-aktuell.de##.special_combination_add
 efever.de##.specialdiv
 benzinpreis.de##.sped
@@ -8747,4 +8757,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: UUWIfFjEsrN1OkYffvVYLw
+! Checksum: C2YLjTSD6dn8untCgDaCEA
