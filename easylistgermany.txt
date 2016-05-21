@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201605211049
+! Version: 201605211217
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 May 2016 10:49 UTC
+! Last modified: 21 May 2016 12:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -5178,7 +5178,7 @@ pagewizz.com##.amazon_module + span
 winfuture.de##.amazon_top_deal_box
 pcgameshardware.de##.amazonorder
 pcwelt.de##.amazonteaser
-gamepro.de##.amz
+gamepro.de,gamestar.de##.amz
 andreziegler.de##.amz_main
 winfuture.de##.amzwgt
 sdx.cc##.announce_text
@@ -8757,4 +8757,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: i1rHw/rM3WB4S3hHQaj7ow
+! Checksum: MFhPmm1eytzKgok8/atQ/Q
