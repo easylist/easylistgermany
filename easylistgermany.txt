@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201605211217
+! Version: 201605221442
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 May 2016 12:17 UTC
+! Last modified: 22 May 2016 14:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -5664,6 +5664,7 @@ hsg-gensungen-felsberg.de##.main > .inner > #ja-hl
 orschlurch.net##.main > div > div:first-child + .widget
 orschlurch.net##.main > div > div:first-child + div[id]
 wunschkennzeichen.de##.main-banner
+auto-online.ch##.main-leaderboard
 xc.dhv.de##.mainBodyTable2 > tbody > tr > td[style="vertical-align: top; padding-top: 30px; padding-right: 20px; text-align: right;"]:first-child
 90elf.de##.mainBottomSpace
 linkbase.in##.mainContentBoxLast[style="-moz-border-radius:5px 5px 0px 0px;"]
@@ -8757,4 +8758,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: MFhPmm1eytzKgok8/atQ/Q
+! Checksum: X4xZ/khJ3LB2kaqzQXBxWw
