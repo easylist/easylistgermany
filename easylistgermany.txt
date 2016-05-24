@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201605221442
+! Version: 201605240631
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 22 May 2016 14:42 UTC
+! Last modified: 24 May 2016 06:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -7779,13 +7779,17 @@ unixboard.de##[-abp-properties='left: 1210px;']
 finanzen.net##[-abp-properties='left: 124x; position: relative;']
 finanzen.net##[-abp-properties='left: 125px; position: relative;']
 finanzen.net##[-abp-properties='left: 126px']
+finanzen.net##[-abp-properties='left: 127px;']
 finanzen.net##[-abp-properties='left: 147px;']
 focus.de##[-abp-properties='left: 150px; margin-bottom: 13px;']
 focus.de##[-abp-properties='left: 150px;']
 sixx.de##[-abp-properties='left: 212px; position: relative;']
+finanzen.net##[-abp-properties='left: 22px;'] > img
 finanzen.net##[-abp-properties='left: 24px;'] > img
 finanzen.net##[-abp-properties='left: 25px; position: relative;'] > img
 finanzen.net##[-abp-properties='left: 25px;'] > img
+focus.de##[-abp-properties='left: 261px;']
+finanzen.net##[-abp-properties='left: 300px; position: relative;']
 finanzen.net##[-abp-properties='left: 301px;']
 finanzen.net##[-abp-properties='left: 302px; position: relative;']
 finanzen.net##[-abp-properties='left: 303px;']
@@ -7802,6 +7806,7 @@ lustich.de##[-abp-properties='left: 50%; margin-left: 355px; position: absolute;
 finanzen.net##[-abp-properties='left: 50px;']
 finanzen.net,pcwelt.de##[-abp-properties='left: 61px;']
 finanzen.net##[-abp-properties='left: 62px;']
+finanzen.net##[-abp-properties='left: 63px;']
 wetter.com##[-abp-properties='left: 7*em; margin-top: 5*em; position: absolute; top: 0px; z-index: 1;']
 computerbild.de##[-abp-properties='left: 7*em; top: 100px;']
 computerbild.de##[-abp-properties='left: 73em; position: absolute; top: 100px;']
@@ -8121,6 +8126,7 @@ pcwelt.de##[-abp-properties='top: 101px;']
 pcwelt.de##[-abp-properties='top: 102px;']
 pcwelt.de##[-abp-properties='top: 103px;']
 pcwelt.de##[-abp-properties='top: 104px;']
+pcwelt.de##[-abp-properties='top: 105px;']
 giga.de##[-abp-properties='top: 120px;']
 auto-motor-und-sport.de##[-abp-properties='top: 159px; width: 1020px; z-index: 3;']
 gala.de##[-abp-properties='top: 28*px;']
@@ -8758,4 +8764,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: X4xZ/khJ3LB2kaqzQXBxWw
+! Checksum: 4wLXYbiogiR/JHAfsXO5oA
