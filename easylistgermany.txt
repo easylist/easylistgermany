@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606011714
+! Version: 201606012019
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 01 Jun 2016 17:14 UTC
+! Last modified: 01 Jun 2016 20:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -1986,6 +1986,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||cobuich.de/avislogo.jpg
 ||computer-bild.de/imgs/*_1000x250-
 ||computer-bild.de^*/amazon-billboard-
+||computer-bild.de^*/billboard_
 ||computer-bild.de^*/billboard_amazon-
 ||computer-bild.de^*/idealo/banner_
 ||computerbase.de/js/jwplayer/ova-$object-subrequest
@@ -4212,6 +4213,7 @@ modhoster.de###bigsize_inner
 pcpraxis.de,rund-magazin.de###bigsizebanner
 autozeitung.de,computerbild.de,prad.de,volksfreund.de###billboard
 autozeitung.de###billboard + div
+computerbild.de###billboard + div[style="margin-bottom: 20px;"]
 prad.de###billboardbig
 4players.de###billiger-charts
 geizkragen.de###bl_top
@@ -5364,6 +5366,7 @@ pooltrax.com##.cmc2
 cosmiq.de##.cmsbox_iq_qa_show_content_below_question
 finanzen.net##.coW[style="background-color: #009DE0;"]
 finanzen.ch##.coba_homepage_topflop
+computerbild.de##.codeteaser
 stayfriends.de##.col1 > div[style="width: 616px; height:185px; border:2px solid #03408c; position:relative"]
 3druck.com##.col2 > #text-4
 3druck.com##.col2 > #text-5
@@ -5627,6 +5630,7 @@ kulturmanagement.net##.joboffer_banner_wrapper
 heise.de##.jobtv24
 de.yahoo.com##.js-applet-view-container-main > style + .NavLinks + .Bd-t + .NavLinks
 collabxt.de##.karowerb
+computerbild.de##.kaufenteaser
 kochbar.de##.kb-has-rectangle
 kochbar.de##.kb-recipe-comment-container > .kb-recipe-comment-right-fix
 wortfilter.de##.kuriosbox
@@ -5810,6 +5814,7 @@ dokus.to##.prc
 digitalfernsehen.de##.preisvergleich_search
 scm-gladiators.de##.presenter
 wetter.de##.presenter-image
+computerbild.de##.priceblock
 digitalfernsehen.de##.pricerunner_search
 lyrics.de##.pro_teaser
 giga.de##.product-teaser
@@ -8863,4 +8868,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: 13vkFpEWnbtCl86zILeHvw
+! Checksum: uPk4DFu0ACKRXheXPZG/0A
