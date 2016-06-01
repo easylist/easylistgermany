@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606010700
+! Version: 201606011714
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 01 Jun 2016 07:00 UTC
+! Last modified: 01 Jun 2016 17:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -457,7 +457,7 @@ kijiji.at,kijiji.ch#@##searchAd
 schuepora.de#@##topad
 bildspielt.de#@##videoAd
 jagsttaltipp.de#@##werbeleiste
-anime-loads.org,nicht-lustig.de,vegaklub.net,youthweb.net#@##werbung
+anime-loads.org,filmmakers.de,nicht-lustig.de,vegaklub.net,youthweb.net#@##werbung
 anzeigen-kostenlos.com#@#.AdBox
 egofm.de#@#.WerbungLinksRechts
 zeitleser.de#@#.ad-bottom
@@ -8863,4 +8863,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: EiYXg4ezOz3xpT9OIrTsyQ
+! Checksum: 13vkFpEWnbtCl86zILeHvw
