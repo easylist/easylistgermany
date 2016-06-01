@@ -201,6 +201,7 @@ modhoster.de###bigsize_inner
 pcpraxis.de,rund-magazin.de###bigsizebanner
 autozeitung.de,computerbild.de,prad.de,volksfreund.de###billboard
 autozeitung.de###billboard + div
+computerbild.de###billboard + div[style="margin-bottom: 20px;"]
 prad.de###billboardbig
 4players.de###billiger-charts
 geizkragen.de###bl_top
@@ -1353,6 +1354,7 @@ pooltrax.com##.cmc2
 cosmiq.de##.cmsbox_iq_qa_show_content_below_question
 finanzen.net##.coW[style="background-color: #009DE0;"]
 finanzen.ch##.coba_homepage_topflop
+computerbild.de##.codeteaser
 stayfriends.de##.col1 > div[style="width: 616px; height:185px; border:2px solid #03408c; position:relative"]
 3druck.com##.col2 > #text-4
 3druck.com##.col2 > #text-5
@@ -1616,6 +1618,7 @@ kulturmanagement.net##.joboffer_banner_wrapper
 heise.de##.jobtv24
 de.yahoo.com##.js-applet-view-container-main > style + .NavLinks + .Bd-t + .NavLinks
 collabxt.de##.karowerb
+computerbild.de##.kaufenteaser
 kochbar.de##.kb-has-rectangle
 kochbar.de##.kb-recipe-comment-container > .kb-recipe-comment-right-fix
 wortfilter.de##.kuriosbox
@@ -1799,6 +1802,7 @@ dokus.to##.prc
 digitalfernsehen.de##.preisvergleich_search
 scm-gladiators.de##.presenter
 wetter.de##.presenter-image
+computerbild.de##.priceblock
 digitalfernsehen.de##.pricerunner_search
 lyrics.de##.pro_teaser
 giga.de##.product-teaser
