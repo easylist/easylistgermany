@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201605310605
+! Version: 201606010700
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 31 May 2016 06:05 UTC
+! Last modified: 01 Jun 2016 07:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -4933,6 +4933,7 @@ absenden.net###testimonial
 netzpolitik.org###text-406427715
 netzpolitik.org###text-406427717
 tsvbodnegg.de###text-5
+mtb-news.de###text-6 > div > div > img
 namibia-hunter.at###text-9.footer-box
 wirtschaftslexikon.gabler.de###textBannerContainer
 fundanalyzer.de,fundresearch.de###ticker
@@ -5857,6 +5858,7 @@ speedlounge.in##.rightcontent
 playnation.de##.rl > .ca
 oberpfalznetz.de##.rotating-banner
 excitingcommerce.de##.row > .fourcol > #text-2
+bikemarkt.mtb-news.de##.row > .span5 > div > div > img
 magistrix.de##.row > div[style="text-align: right; padding: 0;"]
 boerse-online.de##.rsmodulanzeige
 rtl.de##.rtlde-medium-rectangle
@@ -7477,6 +7479,7 @@ stol.it##div[id^="div-gpt-ad"]
 notebookcheck.com##div[id^="google_ads_iframe_"]
 ! CSS property filters for Adblock Plus
 1erforum.de,dasheimwerkerforum.de,modernboard.de,skodacommunity.de,vermieter-forum.com###Rectangle > [-abp-properties='cursor: pointer;']
+focus.de###article > .clearfix > [-abp-properties='float: right;'] > img
 ran.de###aside-zone > [-abp-properties='bottom: 10px; position: relative;'] > img
 prosiebenmaxx.de###aside-zone > [-abp-properties='cursor: pointer; margin-bottom: 1.2em;']
 ran.de###aside-zone > [-abp-properties='cursor: pointer; margin-bottom: 2*px;']
@@ -7716,6 +7719,7 @@ pcwelt.de##[-abp-properties='display: table;'] > * > img
 pcwelt.de##[-abp-properties='display: table;'] > img
 brigitte.de##[-abp-properties='float: left; height: 1*px; margin-bottom: 1*px; position: relative; width: 9*px;']
 bikemarkt.mtb-news.de##[-abp-properties='float: right; margin-top: 10px;']
+mtb-news.de##[-abp-properties='float: right; position: relative; top: 10px;']
 wetteronline.de##[-abp-properties='float: right;'] > img
 boerse.de##[-abp-properties='height: 1*px; margin-right: 17*px; position: relative;']
 ariva.de##[-abp-properties='height: 10*px; margin-right: 30*px; position: relative;']
@@ -7801,7 +7805,7 @@ wetter.com##[-abp-properties='left: 1160px; margin-top: 311px; position: absolut
 wetter.com##[-abp-properties='left: 1160px; margin-top: 312px; position: absolute; z-index: 13;']
 gala.de##[-abp-properties='left: 12*px; position: relative;']
 focus.de##[-abp-properties='left: 120px; position: relative;']
-1erforum.de,dasheimwerkerforum.de,mercedes-forum.com,modernboard.de,vermieter-forum.com##[-abp-properties='left: 121*px;']
+1erforum.de,dasheimwerkerforum.de,mercedes-forum.com,modernboard.de,mtb-news.de,vermieter-forum.com##[-abp-properties='left: 121*px;']
 unixboard.de##[-abp-properties='left: 1210px;']
 tvdigital.de##[-abp-properties='left: 123px;']
 finanzen.net##[-abp-properties='left: 124x; position: relative;']
@@ -7810,12 +7814,15 @@ finanzen.net##[-abp-properties='left: 126px']
 finanzen.net##[-abp-properties='left: 127px;']
 finanzen.net##[-abp-properties='left: 128px;']
 finanzen.net##[-abp-properties='left: 129px;']
+finanzen.net##[-abp-properties='left: 130px;']
 the-voice-of-germany.de##[-abp-properties='left: 144px;']
+finanzen.net##[-abp-properties='left: 145px;']
 finanzen.net##[-abp-properties='left: 146px;']
 finanzen.net##[-abp-properties='left: 147px;']
 focus.de##[-abp-properties='left: 150px; margin-bottom: 13px;']
 focus.de##[-abp-properties='left: 150px;']
 womenshealth.de##[-abp-properties='left: 152px;']
+finanzen.net##[-abp-properties='left: 18px;'] > img
 finanzen.net##[-abp-properties='left: 19px;'] > img
 finanzen.net##[-abp-properties='left: 20px;'] > img
 sixx.de##[-abp-properties='left: 21*px; position: relative;']
@@ -7880,7 +7887,7 @@ comunio.de##[-abp-properties='left: 84*px;']
 comunio.de##[-abp-properties='left: 840px; position: absolute; top: 100px;']
 comunio.de##[-abp-properties='left: 841px; position: absolute; top: 100px; z-index: 1000;']
 tvdigital.de##[-abp-properties='left: 859px;']
-boerse-online.de##[-abp-properties='left: 85px;']
+boerse-online.de,finanzen.net##[-abp-properties='left: 85px;']
 focus.de##[-abp-properties='left: 88*px;']
 focus.de##[-abp-properties='left: 89*px;']
 gamepro.de,gamestar.de,runnersworld.de,spox.com##[-abp-properties='left: 9*px; position: absolute; top: *px;']
@@ -8024,6 +8031,7 @@ arcor.de##[-abp-properties='margin-left: 11*px;']
 arcor.de##[-abp-properties='margin-left: 116px; position: relative; width: 1100px;']
 arcor.de##[-abp-properties='margin-left: 116px; position: relative; width: 1101px;']
 fem.com##[-abp-properties='margin-left: 116px;']
+mtb-news.de##[-abp-properties='margin-left: 117*px;']
 bikemarkt.mtb-news.de##[-abp-properties='margin-left: 118*px;']
 tvdigital.de##[-abp-properties='margin-left: 127px;']
 wetter.com##[-abp-properties='margin-left: 13.*em; margin-top: 2em;']
@@ -8060,6 +8068,7 @@ wetter.com##[-abp-properties='margin-left: 238px; margin-top: 24px;']
 wetter.com##[-abp-properties='margin-left: 238px; margin-top: 25px;']
 wetter.com##[-abp-properties='margin-left: 239px; margin-top: 25px;']
 wetter.com##[-abp-properties='margin-left: 24px']
+mtb-news.de##[-abp-properties='margin-left: 250px;']
 experto.de##[-abp-properties='margin-left: 252px;']
 brigitte.de##[-abp-properties='margin-left: 25px;']
 wetteronline.de##[-abp-properties='margin-left: 26*px;']
@@ -8204,6 +8213,7 @@ pcwelt.de##[-abp-properties='top: 102px;']
 pcwelt.de##[-abp-properties='top: 103px;']
 pcwelt.de##[-abp-properties='top: 104px;']
 pcwelt.de##[-abp-properties='top: 105px;']
+focus.de##[-abp-properties='top: 118px;']
 focus.de##[-abp-properties='top: 119px;']
 giga.de##[-abp-properties='top: 120px;']
 auto-motor-und-sport.de##[-abp-properties='top: 159px; width: 1020px; z-index: 3;']
@@ -8211,6 +8221,7 @@ gala.de##[-abp-properties='top: 279px;']
 gala.de##[-abp-properties='top: 28*px;']
 gala.de##[-abp-properties='top: 29*px;']
 e-mountainbike.com,outdoorchannel.de,roadbike.de##[-abp-properties='top: 8*em;']
+pcwelt.de##[-abp-properties='top: 9*px;']
 pcwelt.de##[-abp-properties='top: 97px;']
 pcwelt.de##[-abp-properties='top: 98px;']
 pcwelt.de##[-abp-properties='top: 99px;']
@@ -8852,4 +8863,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: 1cyklakVejsRDA0RqSpQ6g
+! Checksum: EiYXg4ezOz3xpT9OIrTsyQ
