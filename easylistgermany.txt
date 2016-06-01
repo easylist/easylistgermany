@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606012030
+! Version: 201606012042
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 01 Jun 2016 20:30 UTC
+! Last modified: 01 Jun 2016 20:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -3594,6 +3594,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||tvdigital.de/files/images/browsergames/
 ||tvh1.de/images/stories/logos/fb_formaxx-
 ||tvh1.de/images/stories/sp_header/
+||tvinfo.de/js/videobanner.php
 ||tvspielfilm.de/_img/plogos/golf.jpg
 ||tvspielfilm.de^*/partner/
 ||tvtoday.de/_imgToday/plogos/golf.jpg
@@ -8171,6 +8172,9 @@ wetter.com##[-abp-properties='margin-top: 315px;']
 wetteronline.de##[-abp-properties='margin-top: 6px;']
 gamepro.de,gamestar.de##[-abp-properties='margin-top: 9px; padding-left: 252px;']
 autozeitung.de,de.filsh.net,dialo.de,donnerwetter.de,e-hausaufgaben.de,fanfiktion.de,finya.de,formel1.de,fremdwort.de,helles-koepfchen.de,infranken.de,inside-digital.de,inside-handy.de,motorsport-total.com,news.de,nickles.de,pixelio.de,seniorbook.de,tabtech.de,weristdeinfreund.de##[-abp-properties='max-height: *px; max-width: *px; position: *;']
+tvinfo.de##[-abp-properties='max-height: 250px; max-width: 300px;']
+tvinfo.de##[-abp-properties='max-height: 250px; max-width: 800px;']
+tvinfo.de##[-abp-properties='max-height: 600px; max-width: 160px;']
 unixboard.de##[-abp-properties='max-width: 12*px; position: relative; text-align: center; width: 12*px;']
 general-anzeiger-bonn.de##[-abp-properties='max-width: 620px;']
 spox.com##[-abp-properties='max-width: 728px;']
@@ -8872,4 +8876,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: 7BZ4W43WcnH0rGrCv85DIQ
+! Checksum: 84SFRCMbQdzMkct9BgQ1BA
