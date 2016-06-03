@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606031314
+! Version: 201606031335
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Jun 2016 13:14 UTC
+! Last modified: 03 Jun 2016 13:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -1572,6 +1572,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||widget.marktjagd.de^$third-party
 ||widget.s24.com^*/s24widget.min.js$third-party
 ||widgets.cam-content.com^$third-party
+||widgets.geizhals.at^$third-party
 ||widgets.goldankauf123.de^
 ||widgets.mywai.de^
 ||widgets.tracdelight.com/iframe/$third-party
@@ -3062,6 +3063,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||pc-experience.de/iframe/iframe.html
 ||pc-experience.de/iFrame/iframe_pce.html
 ||pc-max.de^*/banners/
+||pcgameshardware.de/bcommon/js/geizhals/
 ||pcgameshardware.de^*/miniteaser/
 ||pcmasters.de/forum/pcm-werbefrei.$image
 ||pcpraxis.de/images/banners/
@@ -5289,6 +5291,7 @@ preussenspiegel-online.de##.bannerright
 itopnews.de,pinfy.de##.banners
 rockantenne.de##.bannertop
 pcgames.de,pcgameshardware.de##.bargain
+pcgameshardware.de##.bargainLp
 heise.de##.bcadv
 bildderfrau.de##.bdf_megabannerBack
 saarbruecker-zeitung.de##.beilagen
@@ -5975,6 +5978,7 @@ spielaffe.de##.start_overview_adv_container
 biallo.de##.stdanzeige
 tixuma.de##.stdfont[bgcolor="#ecf5fa"]
 biallo.de##.stdspezialteaseranzeige
+pcgameshardware.de##.stellenmarktModule
 spieletipps.de##.stiYsmLink
 serienjunkies.org##.streams + #content > .post:first-child > .post-title:first-child + p[align="center"]
 fernsehserien.de##.stroeer-container
@@ -8899,4 +8903,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: mUoxOK+eq7RkW9IH9BE1Zg
+! Checksum: wYb3XLHup+4GYeuwdi4bXg
