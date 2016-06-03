@@ -1275,6 +1275,7 @@ preussenspiegel-online.de##.bannerright
 itopnews.de,pinfy.de##.banners
 rockantenne.de##.bannertop
 pcgames.de,pcgameshardware.de##.bargain
+pcgameshardware.de##.bargainLp
 heise.de##.bcadv
 bildderfrau.de##.bdf_megabannerBack
 saarbruecker-zeitung.de##.beilagen
@@ -1961,6 +1962,7 @@ spielaffe.de##.start_overview_adv_container
 biallo.de##.stdanzeige
 tixuma.de##.stdfont[bgcolor="#ecf5fa"]
 biallo.de##.stdspezialteaseranzeige
+pcgameshardware.de##.stellenmarktModule
 spieletipps.de##.stiYsmLink
 serienjunkies.org##.streams + #content > .post:first-child > .post-title:first-child + p[align="center"]
 fernsehserien.de##.stroeer-container
