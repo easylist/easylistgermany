@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606031345
+! Version: 201606031351
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Jun 2016 13:45 UTC
+! Last modified: 03 Jun 2016 13:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -1679,6 +1679,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||4pcdn.de/sourcen/portal/MIFcom/$domain=4players.de
 ||4players.de/4pl/wallpaper/
 ||4players.de/javascript/4players/billiger.de.js
+||4players.de/screenshots/
 ||4players.de/sourcen/portal/4players/utraforce/
 ||4players.de^*/vast.js
 ||4taktershop.de^$subdocument,domain=rollertuningpage.de
@@ -8904,4 +8905,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: So1v00znRM7I1tT0R3jmaA
+! Checksum: 4991OMZGmakWxh4fPkKWIA
