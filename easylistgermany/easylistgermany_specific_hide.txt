@@ -1354,6 +1354,7 @@ golem.de##.cluster-header + div[style="margin:15px 0; min-height:103px;"]
 golem.de##.cluster-header + div[style="margin:15px 0; min-height:266px;"]
 pooltrax.com##.cmc2
 cosmiq.de##.cmsbox_iq_qa_show_content_below_question
+quoka.de##.cnt > div[style="margin: 0px 0px 0px 0px; min-height:90px; padding: 5px 0;"]
 finanzen.net##.coW[style="background-color: #009DE0;"]
 finanzen.ch##.coba_homepage_topflop
 computerbild.de##.codeteaser
@@ -4182,9 +4183,9 @@ wetter.com##[-abp-properties='margin-top: 315px;']
 wetteronline.de##[-abp-properties='margin-top: 6px;']
 gamepro.de,gamestar.de##[-abp-properties='margin-top: 9px; padding-left: 252px;']
 autozeitung.de,de.filsh.net,dialo.de,donnerwetter.de,e-hausaufgaben.de,fanfiktion.de,finya.de,formel1.de,fremdwort.de,helles-koepfchen.de,infranken.de,inside-digital.de,inside-handy.de,motorsport-total.com,news.de,nickles.de,pixelio.de,seniorbook.de,tabtech.de,weristdeinfreund.de##[-abp-properties='max-height: *px; max-width: *px; position: *;']
-tvinfo.de##[-abp-properties='max-height: 250px; max-width: 300px;']
-tvinfo.de##[-abp-properties='max-height: 250px; max-width: 800px;']
-tvinfo.de##[-abp-properties='max-height: 600px; max-width: 160px;']
+quoka.de,tvinfo.de##[-abp-properties='max-height: 250px; max-width: 300px;']
+quoka.de,tvinfo.de##[-abp-properties='max-height: 250px; max-width: 800px;']
+quoka.de,tvinfo.de##[-abp-properties='max-height: 600px; max-width: 160px;']
 unixboard.de##[-abp-properties='max-width: 12*px; position: relative; text-align: center; width: 12*px;']
 general-anzeiger-bonn.de##[-abp-properties='max-width: 620px;']
 spox.com##[-abp-properties='max-width: 728px;']
