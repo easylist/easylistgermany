@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606051508
+! Version: 201606091735
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Jun 2016 15:08 UTC
+! Last modified: 09 Jun 2016 17:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -1573,7 +1573,6 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||widget.marktjagd.de^$third-party
 ||widget.s24.com^*/s24widget.min.js$third-party
 ||widgets.cam-content.com^$third-party
-||widgets.geizhals.at^$third-party
 ||widgets.goldankauf123.de^
 ||widgets.mywai.de^
 ||widgets.tracdelight.com/iframe/$third-party
@@ -3065,7 +3064,6 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||pc-experience.de/iframe/iframe.html
 ||pc-experience.de/iFrame/iframe_pce.html
 ||pc-max.de^*/banners/
-||pcgameshardware.de/bcommon/js/geizhals/
 ||pcgameshardware.de^*/miniteaser/
 ||pcmasters.de/forum/pcm-werbefrei.$image
 ||pcpraxis.de/images/banners/
@@ -8904,4 +8902,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: WrLUcpqeljU742IWE5NF1g
+! Checksum: kItmot8da0KL6sy09osZeg
