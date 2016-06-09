@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606091735
+! Version: 201606091737
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 09 Jun 2016 17:35 UTC
+! Last modified: 09 Jun 2016 17:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -6739,7 +6739,7 @@ fc-hansa.de##a[title="DKB-Familienblock"]
 chip.de##a[title="FriendScout24"][target="_blank"]
 g4u.me##a[title="Highspeed Download"]
 chip.de##a[title^="Anzeige:"]
-golem.de##article > .formatted > p + div[style="margin:15px 0; min-height:266px; clear:both;"]
+golem.de##article > .formatted > p + div[style$="px 0; min-height:266px; clear:both;"]
 golem.de##article > .formatted > p + div[style="margin:15px 0; min-height:266px;"]
 yellingnews.com##article > .teaser + .related.tm
 schulzeux.de##article > .vi_a_79
@@ -8902,4 +8902,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: kItmot8da0KL6sy09osZeg
+! Checksum: 5KGmdnZlaK8TtbPwjqDDWw
