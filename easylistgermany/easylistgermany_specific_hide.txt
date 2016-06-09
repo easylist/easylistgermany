@@ -2724,7 +2724,7 @@ fc-hansa.de##a[title="DKB-Familienblock"]
 chip.de##a[title="FriendScout24"][target="_blank"]
 g4u.me##a[title="Highspeed Download"]
 chip.de##a[title^="Anzeige:"]
-golem.de##article > .formatted > p + div[style="margin:15px 0; min-height:266px; clear:both;"]
+golem.de##article > .formatted > p + div[style$="px 0; min-height:266px; clear:both;"]
 golem.de##article > .formatted > p + div[style="margin:15px 0; min-height:266px;"]
 yellingnews.com##article > .teaser + .related.tm
 schulzeux.de##article > .vi_a_79
