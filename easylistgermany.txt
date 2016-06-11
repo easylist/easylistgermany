@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606100839
+! Version: 201606111434
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Jun 2016 08:39 UTC
+! Last modified: 11 Jun 2016 14:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -7572,6 +7572,7 @@ outdoor-magazin.com###wrapper > [-abp-properties='text-align: center;']
 eatsmarter.de##.ad > [-abp-properties='cursor: pointer;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 11px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 12px;']
+spiegel.de##.article-section > [-abp-properties='margin-right: 13px;']
 caravaning.de##.article_content > div > [-abp-properties='cursor: pointer;']
 experto.de##.artikelmain > [-abp-properties='cursor: pointer']
 tvspielfilm.de##.aside > [-abp-properties='margin-bottom: 13px;']
@@ -7830,6 +7831,7 @@ wetter.com##[-abp-properties='left: 116*px;']
 wetter.com##[-abp-properties='left: 1160px; margin-top: 311px; position: absolute; width: 100%; z-index: *;']
 wetter.com##[-abp-properties='left: 1160px; margin-top: 311px; position: absolute; z-index: 13;']
 wetter.com##[-abp-properties='left: 1160px; margin-top: 312px; position: absolute; z-index: 13;']
+focus.de##[-abp-properties='left: 12'] > img
 gala.de##[-abp-properties='left: 12*px; position: relative;']
 focus.de##[-abp-properties='left: 120px; position: relative;']
 1erforum.de,dasheimwerkerforum.de,mercedes-forum.com,modernboard.de,mtb-news.de,vermieter-forum.com##[-abp-properties='left: 121*px;']
@@ -7899,6 +7901,7 @@ serienjunkies.de##[-abp-properties='left: 44px; position: relative;']
 allgemeine-zeitung.de,buerstaedter-zeitung.de,hochheimer-zeitung.de,hofheimer-zeitung.de,lampertheimer-zeitung.de,rhein-main-presse.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='left: 45px; position: relative;']
 nnn.de,prignitzer.de,svz.de##[-abp-properties='left: 46px;']
 finanzen.net##[-abp-properties='left: 49px;']
+pcwelt.de##[-abp-properties='left: 4px; position: relative;']
 lustich.de##[-abp-properties='left: 50%; margin-left: 355px; position: absolute; top: 70px;']
 finanzen.net##[-abp-properties='left: 50px;']
 pcwelt.de##[-abp-properties='left: 5px; position: relative;']
@@ -8270,10 +8273,12 @@ focus.de##[-abp-properties='top: 118px;']
 focus.de##[-abp-properties='top: 119px;']
 giga.de##[-abp-properties='top: 120px;']
 auto-motor-und-sport.de##[-abp-properties='top: 159px; width: 1020px; z-index: 3;']
+focus.de##[-abp-properties='top: 17*px;']
 gala.de##[-abp-properties='top: 279px;']
 gala.de##[-abp-properties='top: 28*px;']
 gala.de##[-abp-properties='top: 29*px;']
 e-mountainbike.com,outdoorchannel.de,roadbike.de##[-abp-properties='top: 8*em;']
+pcwelt.de##[-abp-properties='top: 87px;']
 pcwelt.de##[-abp-properties='top: 88px;']
 pcwelt.de##[-abp-properties='top: 89px;']
 pcwelt.de##[-abp-properties='top: 9*px;']
@@ -8918,4 +8923,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: 6a3fAkqpxpQN14YXD0arCA
+! Checksum: C7tkUoeJIx7Feo80pgqDsQ
