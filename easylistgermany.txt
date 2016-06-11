@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606111434
+! Version: 201606111536
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 11 Jun 2016 14:34 UTC
+! Last modified: 11 Jun 2016 15:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -7668,6 +7668,7 @@ wetter.com##.wrapper-weather-news [-abp-properties='cursor: pointer;']
 motorradonline.de##.zerobox > [-abp-properties='cursor: pointer;'] > img
 boerse-online.de,fem.com,flugzeugforum.de,gamepro.de,general-anzeiger-bonn.de,kabeleins.de,prosieben.de,prosiebenmaxx.de,sat1.de,sat1gold.de,serienjunkies.de,sixx.de,sportal.de,the-voice-of-germany.de,wn.de,womenshealth.de##[-abp-properties='*left: *px*; position: absolute; top: *px;'] > img
 auto-motor-und-sport.de,pcwelt.de,usp-forum.de##[-abp-properties='*left: 10*px*; position: absolute; top: *px;'] > img
+gamestar.de##[-abp-properties='bottom: 10px; position: relative;'] > img
 spiegel.de##[-abp-properties='bottom: 19px; position: relative;']
 spiegel.de##[-abp-properties='bottom: 19px;']
 wetteronline.de##[-abp-properties='cursor: pointer; float: left; height: 9*px; left: 0px; margin-left: 2*px; position: absolute; width: 7*px; z-index: *;']
@@ -7791,7 +7792,7 @@ giga.de##[-abp-properties='left: 1000px; position: absolute; top: 0px; z-index: 
 gamona.de##[-abp-properties='left: 1000px; position: absolute; top: 0px;']
 wetteronline.de##[-abp-properties='left: 1000px; position: absolute;']
 4players.de,gamestar.de,wetteronline.de##[-abp-properties='left: 1000px;']
-focus.de,wetteronline.de##[-abp-properties='left: 1001px;']
+focus.de,gamestar.de,wetteronline.de##[-abp-properties='left: 1001px;']
 arcor.de,focus.de,wetteronline.de##[-abp-properties='left: 1002px;']
 focus.de##[-abp-properties='left: 1003px;']
 general-anzeiger-bonn.de##[-abp-properties='left: 100px;']
@@ -8923,4 +8924,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: C7tkUoeJIx7Feo80pgqDsQ
+! Checksum: 1c4DGrnRzf/ERk4yZuRSNg
