@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606120752
+! Version: 201606120804
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Jun 2016 07:52 UTC
+! Last modified: 12 Jun 2016 08:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -3599,6 +3599,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||tvh1.de/images/stories/sp_header/
 ||tvinfo.de/js/videobanner.php
 ||tvspielfilm.de/_img/plogos/golf.jpg
+||tvspielfilm.de/imedia/*,dim:300x250.
 ||tvspielfilm.de^*/partner/
 ||tvtoday.de/_imgToday/plogos/golf.jpg
 ||tweakpc.de^*/anzeige_v60.gif
@@ -7602,6 +7603,7 @@ finanzen.net##.content > [-abp-properties='display: block; margin-left: 8px;']
 gamestar.de##.content > [-abp-properties='padding-top: 20px;']
 boerse.de##.content_box > [-abp-properties='cursor: pointer']
 boerse.de##.content_box > [-abp-properties='margin-left: 35px;']
+tvspielfilm.de##.copyright + [-abp-properties='text-align: center;']
 transfermarkt.de##.four > div > [-abp-properties='margin-top: 9px; padding*']
 transfermarkt.de##.four.columns > * > [-abp-properties='display: block; padding-bottom: 10px;']
 transfermarkt.de##.four.columns > * > [-abp-properties='display: block;']
@@ -7672,6 +7674,7 @@ gamestar.de##[-abp-properties='bottom: 10px; position: relative;'] > img
 spiegel.de##[-abp-properties='bottom: 19px; position: relative;']
 spiegel.de##[-abp-properties='bottom: 19px;']
 woxikon.de##[-abp-properties='bottom: 2px; position: relative; text-align: center;']
+tvspielfilm.de##[-abp-properties='clear: both; margin-left: 46px;']
 wetteronline.de##[-abp-properties='cursor: pointer; float: left; height: 9*px; left: 0px; margin-left: 2*px; position: absolute; width: 7*px; z-index: *;']
 usp-forum.de##[-abp-properties='cursor: pointer; height: 9*px; width: 72*px;']
 finanzen.net##[-abp-properties='cursor: pointer; height: 90px; margin-left: 72px; width: 769px;']
@@ -7930,7 +7933,8 @@ sat1gold.de##[-abp-properties='left: 76px; position: relative; z-index: 70;']
 sat1gold.de##[-abp-properties='left: 76px;']
 finanzen.net##[-abp-properties='left: 7px;']
 finanzen.net##[-abp-properties='left: 8*x; position: absolute;']
-klettern-magazin.de,klettern.de,outdoor-magazin.com##[-abp-properties='left: 80px; position: relative;']
+klettern-magazin.de,klettern.de,outdoor-magazin.com,tvspielfilm.de##[-abp-properties='left: 80px; position: relative;']
+tvspielfilm.de##[-abp-properties='left: 80px; position: relative;'] + div
 wetter.com##[-abp-properties='left: 82*px;']
 wetter.com##[-abp-properties='left: 83*px;']
 comunio.de##[-abp-properties='left: 84*px; position: absolute; top: 100px; z-index: 98*']
@@ -8928,4 +8932,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: Vw2PczflDoMtb6KVVfN//A
+! Checksum: NPYuuU4xY/GMXMPo90oJNA
