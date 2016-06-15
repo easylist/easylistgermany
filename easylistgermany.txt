@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606151431
+! Version: 201606152104
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 15 Jun 2016 14:31 UTC
+! Last modified: 15 Jun 2016 21:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -5737,6 +5737,7 @@ motor-talk.de##.mtbwrapper
 express.de##.nah_box_horizonal
 express.de##.nah_box_vertical
 hsgnordhorn-lingen.de##.navbar-fixed-bottom
+gamestar.de##.navi + div > div > img
 alle-autos-in.de##.naviP
 wetter.at##.nearestLocations ~ div
 gamers.at##.networkbanner + script + a
@@ -7803,7 +7804,7 @@ gamona.de##[-abp-properties='left: 1000px; position: absolute; top: 0px;']
 wetteronline.de##[-abp-properties='left: 1000px; position: absolute;']
 4players.de,gamestar.de,wetteronline.de##[-abp-properties='left: 1000px;']
 focus.de,gamestar.de,wetteronline.de##[-abp-properties='left: 1001px;']
-arcor.de,focus.de,wetteronline.de##[-abp-properties='left: 1002px;']
+arcor.de,focus.de,gamestar.de,wetteronline.de##[-abp-properties='left: 1002px;']
 focus.de##[-abp-properties='left: 1003px;']
 general-anzeiger-bonn.de##[-abp-properties='left: 100px;']
 eatsmarter.de##[-abp-properties='left: 101*px; position: absolute; top: 6*em;']
@@ -8327,6 +8328,7 @@ computerbild.de##[-abp-properties='width: 999px;']
 finanzen.net##a > [-abp-properties='border*']
 serienjunkies.de##center + [-abp-properties='height: 92px;']
 prosiebenmaxx.de##div[align="center"][style="color: #000000;"] + div + [-abp-properties='text-align: center;']
+gamestar.de##div[style="position:relative;"] > * > [-abp-properties='cursor: pointer;']
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist.txt ***
 @@/adpop.js$domain=freenet.de
@@ -8946,4 +8948,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: j8uQ4xfEtdtVt9DHw9Czhg
+! Checksum: wroSYTwQjggrg6q0HKuB5g
