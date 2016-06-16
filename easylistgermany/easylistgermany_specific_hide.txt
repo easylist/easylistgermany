@@ -1669,6 +1669,7 @@ xc.dhv.de##.mainBodyTable2 > tbody > tr > td[style="vertical-align: top; padding
 linkbase.in##.mainContentBoxLast[style="-moz-border-radius:5px 5px 0px 0px;"]
 linkbase.in##.mainContentBox[style="-moz-border-radius:5px 5px 0px 0px;"]
 forexpros.de##.mainLightBoxFilter
+finanzen.net##.mainRight > .inside
 bloodchamber.de##.main_banner
 svs-seligenporten.de##.main_sponsor
 eeepc.de##.mainpage > .tableinborder[cellspacing="1"][cellpadding="1"][border="0"][style="width: 96%"]
@@ -1762,7 +1763,9 @@ golem.de##.paged-cluster-header + div[style="margin:15px 0; min-height:266px;"]
 freiburger-nachrichten.ch##.pane-frn-content-inserate-slider
 oekoportal.de##.panel-display > .panel-col-side > #block-views-website-block-1
 spiegelfechter.com##.parship
-computerbild.de,dvd-forum.at,dwdl.de,euractiv.de,falstaff.at,falstaff.de,giga.de,ibash.de,leinehertz.net,multipic.de,plattentests.de##.partner
+finanzen.net##.partBoeStu
+finanzen.net##.part_boestu
+computerbild.de,dvd-forum.at,dwdl.de,euractiv.de,falstaff.at,falstaff.de,finanzen.net,giga.de,ibash.de,leinehertz.net,multipic.de,plattentests.de##.partner
 quoka.de##.partner > .hp-highlight
 tvemsdetten.com##.partner-slider
 sat1.de##.partner_box
@@ -2029,6 +2032,7 @@ softonic.de##.topbanner
 digital-eliteboard.com##.toplinks + div[style="position:absolute;top:50px;right:40px;"]
 deraktionaer.de##.tradeOuterShell
 finanzen100.de##.tradernews
+finanzen.net##.tradingActions
 macnews.de##.transaction_box
 www.google.de##.ts[style="margin:0 0 12px;height:92px;width:100%"]
 t-online.de##.tsc_www_p4p
