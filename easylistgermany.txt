@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606181446
+! Version: 201606181455
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 Jun 2016 14:46 UTC
+! Last modified: 18 Jun 2016 14:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -4370,6 +4370,7 @@ flashforum.de###ffPartner
 joggen-online.de###fib_banner
 mikrocontroller.net###first-alayer
 mikrocontroller.net###first-palayer
+finanzen.net###flashbuehne + span + a > img
 volleyball-bundesliga.de###floatBannerRight
 volleyball-bundesliga.de###floatContainerTop
 witz-des-tages.de###floatLayer
@@ -7860,6 +7861,7 @@ finanzen.net##[-abp-properties='left: 128px;']
 finanzen.net##[-abp-properties='left: 129px;']
 finanzen.net##[-abp-properties='left: 130px;']
 finanzen.net##[-abp-properties='left: 131px;']
+finanzen.net##[-abp-properties='left: 132px; position: relative;']
 finanzen.net##[-abp-properties='left: 136px;']
 finanzen.net##[-abp-properties='left: 138px;']
 focus.de##[-abp-properties='left: 13px; position: relative;']
@@ -8224,6 +8226,7 @@ focus.de##[-abp-properties='margin-left: 82px;']
 focus.de##[-abp-properties='margin-left: 83px; top: 110px;']
 focus.de##[-abp-properties='margin-left: 83px;']
 runnersworld.de##[-abp-properties='margin-left: 94*px;']
+finanzen.net##[-abp-properties='margin-left: 950px; position: fixed;']
 woxikon.de##[-abp-properties='margin-right: -22*px;']
 boerse.de##[-abp-properties='margin-right: 180px; position: relative;']
 ariva.de##[-abp-properties='margin-right: 302px;']
@@ -8952,4 +8955,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: idSmBlnhUJZ8hzf94JdQQA
+! Checksum: wcLlhCaf5o26ZEC0Ad90LA
