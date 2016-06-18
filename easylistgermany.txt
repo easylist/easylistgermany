@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606181035
+! Version: 201606181446
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 Jun 2016 10:35 UTC
+! Last modified: 18 Jun 2016 14:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -7768,6 +7768,7 @@ gamestar.de##[-abp-properties='height: 250px; width: 300px;']
 transfermarkt.de##[-abp-properties='height: 250px; width: 335px;']
 woxikon.de##[-abp-properties='height: 600px*margin-left: 510px; top: 150px;']
 autoexperience.de,lpgforum.de,winboard.org##[-abp-properties='height: 600px; *width: 160px;']
+gamestar.de##[-abp-properties='height: 600px; width: 160px;']
 lpgforum.de##[-abp-properties='height: 9*px; margin-bottom: 1*px; margin-top: 1*px; position: relative; text-align: *; width: 10*px;']
 finanzen.net##[-abp-properties='height: 9*px; margin-left: 7*px; width: 7*px;']
 ariva.de##[-abp-properties='height: 9*px; margin-right: 30*px; position: relative;']
@@ -8951,4 +8952,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: YYh64NbpaWEIU68Bj11PrA
+! Checksum: idSmBlnhUJZ8hzf94JdQQA
