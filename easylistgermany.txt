@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606202026
+! Version: 201606202030
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 20 Jun 2016 20:26 UTC
+! Last modified: 20 Jun 2016 20:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -4769,7 +4769,7 @@ chefkoch.de###recipe-com-user-banner
 chefkoch.de###recipe_com_user_banner
 clipfish.de###rect
 kicker.de,kidszone.de,os-informer.de,pcgames.de,pcgameshardware.de,smartphone-daily.de,videogameszone.de,widescreen-online.de###rect_anz
-autoexperience.de,cineman.de,daselternforum.de,fitness-foren.de,flugzeugforum.de,kreatives-wohnforum.de,lpgforum.de,macprime.ch,mazda-forum.info,moonwalk.ch,neue-braunschweiger.de,notebookforum.at,pkw-forum.de,prad.de,ringrocker.com,teccentral.de,usp-forum.de,win-8-forum.net,winboard.org,windows-7-forum.net,windows-8-forum.net,xboxone-forum.net###rectangle
+autoexperience.de,cineman.de,daselternforum.de,fitness-foren.de,flugzeugforum.de,kreatives-wohnforum.de,lpgforum.de,macprime.ch,mazda-forum.info,moonwalk.ch,neue-braunschweiger.de,notebookforum.at,pkw-forum.de,prad.de,ringrocker.com,teccentral.de,usp-forum.de,win-10-forum.de,win-8-forum.net,winboard.org,windows-7-forum.net,windows-8-forum.net,xboxone-forum.net###rectangle
 spieletipps.de###rectangleRgt
 laut.de###rectangleSpace
 autobild.de###rectanglemodul
@@ -5852,7 +5852,7 @@ gmx.de,web.de##.record-layer
 hamm2night.de##.rect
 hamm2night.de##.rectBox
 kochbar.de,rtl.de,sport.de,vip.de,vox.de##.rectangel
-bild.de,internetworld.de,lkz.de,modhoster.de,outnow.ch,rp-online.de,sonntagszeitung.ch,stylebook.de,suedkurier.de,travelbook.de,visions.de,windows-forum.info##.rectangle
+bild.de,internetworld.de,lkz.de,modhoster.de,outnow.ch,rp-online.de,sonntagszeitung.ch,stylebook.de,suedkurier.de,travelbook.de,visions.de,win-10-forum.de,windows-forum.info##.rectangle
 myvideo.de##.rectangle1
 internetworld.de##.rectangleBox
 mz-web.de##.rectangle_anzeige
@@ -7802,6 +7802,7 @@ arcor.de##[-abp-properties='left: -28*px;']
 gamona.de##[-abp-properties='left: 0px; top: 0px; width: 1000px;']
 autobild.de,caravaning.de,computerbild.de,e-mountainbike.com,eatsmarter.de,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,promobil.de,roadbike.de,shz.de,transfermarkt.de##[-abp-properties='left: 10*px; position: absolute; top: *px;']
 cavallo.de,pnn.de##[-abp-properties='left: 10*px; position: absolute; top: 1*px;']
+win-10-forum.de##[-abp-properties='left: 100%; margin-left: 10px; position: absolute; top: 100px;']
 eatsmarter.de,wetteronline.de##[-abp-properties='left: 100*px;']
 giga.de##[-abp-properties='left: 1000px; position: absolute; top: 0px; z-index: 100;']
 gamona.de##[-abp-properties='left: 1000px; position: absolute; top: 0px;']
@@ -8955,4 +8956,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: YL6S1R0A9m/APdytXGYhHw
+! Checksum: hZFpMv4h75gRN0j/WJchfA
