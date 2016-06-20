@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606202030
+! Version: 201606202040
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 20 Jun 2016 20:30 UTC
+! Last modified: 20 Jun 2016 20:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -1924,6 +1924,8 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||casecenter.net^*/werbung/
 ||casinowelt.com/banner/
 ||cdn.voodoovideo.com/dat/ebc/$domain=imgbox.de
+||cdn1.anime-stream24.com^
+||cdn11.anime-stream24.com^
 ||cellesche-zeitung.de^*/b4nner/
 ||cellesche-zeitung.de^*/banner/
 ||center.tv/cms/fileadmin/site/flash/anzeigen/
@@ -3811,6 +3813,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||youfreetv.net/js/jquery.ad.js
 ||youpic.in/css/images/box.png$domain=6dl.to
 ||yourdealz.de/120.gif
+||yourjavascript.com^*/cpmsite.js$domain=anime-stream24.com
 ||youzap.de/img/fraag.de.jpg
 ||zapper-hulda-clark.de^*-webbanner_*.swf
 ||zebradem.com^*/banner/
@@ -8956,4 +8959,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: hZFpMv4h75gRN0j/WJchfA
+! Checksum: OfJ8nyZjD+8U9/UQUDB/nw
