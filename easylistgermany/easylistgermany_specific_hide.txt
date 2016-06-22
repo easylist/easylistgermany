@@ -1373,6 +1373,7 @@ auto-motor-und-sport.de,azonline.de,getgoods.4teams.de,mv-online.de,wn.de##.comm
 filecrypt.cc##.container > tbody > tr > td > button[onmouseup]
 deutscherskiverband.de##.container-banner-2
 secured.in##.container-banner-image
+focus.de##.container_12.clearfix > div > img
 tarifagent.com##.container_fullbanner
 rhein-zeitung.de,schwaebische.de,szon.de##.container_rectangle
 augsburger-allgemeine.de,goslarsche.de##.container_skyscraper
@@ -3561,6 +3562,7 @@ focus.de###video > [-abp-properties='padding-left: 30px;']
 hoerzu.de###wrapper > [-abp-properties='position: relative;']
 outdoor-magazin.com###wrapper > [-abp-properties='text-align: center;']
 eatsmarter.de##.ad > [-abp-properties='cursor: pointer;']
+spiegel.de##.article-section > [-abp-properties='margin-right: 15px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 16px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 17px;']
 caravaning.de##.article_content > div > [-abp-properties='cursor: pointer;']
@@ -3665,6 +3667,7 @@ motorradonline.de##.zerobox > [-abp-properties='cursor: pointer;'] > img
 boerse-online.de,fem.com,flugzeugforum.de,gamepro.de,general-anzeiger-bonn.de,kabeleins.de,prosieben.de,prosiebenmaxx.de,sat1.de,sat1gold.de,serienjunkies.de,sixx.de,sportal.de,the-voice-of-germany.de,wn.de,womenshealth.de##[-abp-properties='*left: *px*; position: absolute; top: *px;'] > img
 auto-motor-und-sport.de,pcwelt.de,usp-forum.de##[-abp-properties='*left: 10*px*; position: absolute; top: *px;'] > img
 gamestar.de##[-abp-properties='bottom: 10px; position: relative;'] > img
+spiegel.de##[-abp-properties='bottom: 17px;']
 woxikon.de##[-abp-properties='bottom: 2px; position: relative; text-align: center;']
 tvspielfilm.de##[-abp-properties='clear: both; margin-left: 46px;']
 wetteronline.de##[-abp-properties='cursor: pointer; float: left; height: 9*px; left: 0px; margin-left: 2*px; position: absolute; width: 7*px; z-index: *;']
@@ -3906,6 +3909,7 @@ sixx.de##[-abp-properties='left: 36px; position: relative;']
 auto-motor-und-sport.de##[-abp-properties='left: 38*px;']
 finanzen.net##[-abp-properties='left: 3px;'] > img
 brigitte.de##[-abp-properties='left: 40px; position: relative;']
+finanzen.net##[-abp-properties='left: 42*px;']
 serienjunkies.de##[-abp-properties='left: 44px; position: relative;']
 allgemeine-zeitung.de,buerstaedter-zeitung.de,hochheimer-zeitung.de,hofheimer-zeitung.de,lampertheimer-zeitung.de,rhein-main-presse.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='left: 45px; position: relative;']
 prosiebenmaxx.de##[-abp-properties='left: 45px;']
@@ -4089,6 +4093,7 @@ arcor.de##[-abp-properties='margin-left: 105px;']
 arcor.de##[-abp-properties='margin-left: 106px; position: relative; width: 899px;']
 arcor.de##[-abp-properties='margin-left: 106px;']
 arcor.de##[-abp-properties='margin-left: 107px;']
+pcwelt.de##[-abp-properties='margin-left: 10px;'] > * > img
 arcor.de##[-abp-properties='margin-left: 11*px; position: relative; width: 110*px;']
 arcor.de##[-abp-properties='margin-left: 11*px; position: relative; width: 111*px;']
 arcor.de##[-abp-properties='margin-left: 11*px; position: relative; width: 99*px;']
@@ -4217,6 +4222,7 @@ focus.de,wetter.com##[-abp-properties='margin-left: 81px;']
 focus.de##[-abp-properties='margin-left: 82px;']
 focus.de##[-abp-properties='margin-left: 83px; top: 110px;']
 focus.de##[-abp-properties='margin-left: 83px;']
+finanzen.net##[-abp-properties='margin-left: 85*px;']
 runnersworld.de##[-abp-properties='margin-left: 94*px;']
 finanzen.net##[-abp-properties='margin-left: 95*px;']
 finanzen.net##[-abp-properties='margin-left: 950px; position: fixed;']
@@ -4300,6 +4306,7 @@ gala.de##[-abp-properties='top: 28*px;']
 gala.de##[-abp-properties='top: 29*px;']
 welt.de##[-abp-properties='top: 6px;'] > img
 e-mountainbike.com,outdoorchannel.de,roadbike.de##[-abp-properties='top: 8*em;']
+pcwelt.de##[-abp-properties='top: 83px;']
 pcwelt.de##[-abp-properties='top: 84px;']
 pcwelt.de##[-abp-properties='top: 85px;']
 pcwelt.de##[-abp-properties='top: 86px;']
