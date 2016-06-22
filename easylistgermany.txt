@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606221724
+! Version: 201606221727
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 22 Jun 2016 17:24 UTC
+! Last modified: 22 Jun 2016 17:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -7504,7 +7504,6 @@ ariva.de,boote-forum.de,comunio.de,fanfiktion.de,notebookchat.com,notebookcheck.
 @@||spiegel.de^$generichide
 plista.com##a[href^="http://click.plista.com/pets"]
 stol.it##div[id^="div-gpt-ad"]
-notebookcheck.com##div[id^="google_ads_iframe_"]
 ! CSS property filters for Adblock Plus
 1erforum.de,dasheimwerkerforum.de,modernboard.de,skodacommunity.de,vermieter-forum.com###Rectangle > [-abp-properties='cursor: pointer;']
 focus.de###article > .clearfix > [-abp-properties='float: right;'] > img
@@ -7852,7 +7851,6 @@ flugzeugforum.de##[-abp-properties='left: 1090px;']
 focus.de##[-abp-properties='left: 11'] > img
 wetter.com##[-abp-properties='left: 11*px; margin-top: 9*px; position: absolute; z-index: 1*;']
 lustich.de##[-abp-properties='left: 11*px;']
-notebookcheck.com##[-abp-properties='left: 110*px;']
 tvdigital.de##[-abp-properties='left: 113px; position: relative;']
 wetter.com##[-abp-properties='left: 115*px;']
 wetter.com##[-abp-properties='left: 1151px; margin-top: 95px; position: absolute; z-index: 13;']
@@ -8312,7 +8310,7 @@ transfermarkt.de##[-abp-properties='right: -30*px;']
 toyota-forum.de##[-abp-properties='text-align: center; width: 1200px;']
 finanzen.net,transfermarkt.de,wetter.com##[-abp-properties='text-align: center;'] > * > * > img
 allgemeine-zeitung.de,buerstaedter-zeitung.de,hochheimer-zeitung.de,hofheimer-zeitung.de,lampertheimer-zeitung.de,rhein-main-presse.de,shz.de,wetter.com,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='text-align: center;'] > * > img
-arcor.de,autobild.de,boerse.de,finanzen.net,gala.de,hoerzu.de,menshealth.de,motorradonline.de,notebookcheck.com,pcwelt.de,ran.de,serienjunkies.de,shz.de,sixx.de,spox.com,transfermarkt.de,tvtoday.de,wetter.com##[-abp-properties='text-align: center;'] > img
+arcor.de,autobild.de,boerse.de,finanzen.net,gala.de,hoerzu.de,menshealth.de,motorradonline.de,pcwelt.de,ran.de,serienjunkies.de,shz.de,sixx.de,spox.com,transfermarkt.de,tvtoday.de,wetter.com##[-abp-properties='text-align: center;'] > img
 finanzen.net##[-abp-properties='text-align: right;'] > * > * > img
 finanzen.net##[-abp-properties='text-align: right;'] > * > img
 pcwelt.de##[-abp-properties='top: 100px;']
@@ -8981,4 +8979,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: opZHhXrkDZMtj2u5LXDKiQ
+! Checksum: 2tHnjIPfgXKNp182o+W8OA
