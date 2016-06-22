@@ -2205,8 +2205,7 @@
 ||ads.stickyadstv.com^$domain=notebookcheck.com
 ||adsafeprotected.com^$domain=imasdk.googleapis.com
 ||adspirit.de^$domain=notebookcheck.com
-||adtech.de^$domain=notebookcheck.com|t-online.de|tellows.de
-||adtechus.com^$domain=t-online.de
+||adtech.de^$domain=notebookcheck.com|tellows.de
 ||amazon-adsystem.com^$domain=notebookcheck.com
 ||amazonaws.com/prod.iqdcontroller.iqdigital/*/live/iqadcontroller.js.gz$domain=notebookcheck.com
 ||apprupt.com^$domain=notebookcheck.com
@@ -2225,7 +2224,6 @@
 ||googlesyndication.com/pagead/$domain=notebookcheck.com
 ||googlesyndication.com/safeframe/$domain=notebookcheck.com
 ||googlesyndication.com/simgad/$domain=notebookcheck.com
-||im.banner.t-online.de^$domain=t-online.de
 ||images.*.criteo.net^$domain=notebookcheck.com
 ||images.criteo.net^$domain=notebookcheck.com
 ||imasdk.googleapis.com^$domain=notebookcheck.com
