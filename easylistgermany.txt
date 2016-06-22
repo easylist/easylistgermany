@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606221715
+! Version: 201606221724
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 22 Jun 2016 17:15 UTC
+! Last modified: 22 Jun 2016 17:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -3851,8 +3851,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||ads.stickyadstv.com^$domain=notebookcheck.com
 ||adsafeprotected.com^$domain=imasdk.googleapis.com
 ||adspirit.de^$domain=notebookcheck.com
-||adtech.de^$domain=notebookcheck.com|t-online.de|tellows.de
-||adtechus.com^$domain=t-online.de
+||adtech.de^$domain=notebookcheck.com|tellows.de
 ||amazon-adsystem.com^$domain=notebookcheck.com
 ||amazonaws.com/prod.iqdcontroller.iqdigital/*/live/iqadcontroller.js.gz$domain=notebookcheck.com
 ||apprupt.com^$domain=notebookcheck.com
@@ -3871,7 +3870,6 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||googlesyndication.com/pagead/$domain=notebookcheck.com
 ||googlesyndication.com/safeframe/$domain=notebookcheck.com
 ||googlesyndication.com/simgad/$domain=notebookcheck.com
-||im.banner.t-online.de^$domain=t-online.de
 ||images.*.criteo.net^$domain=notebookcheck.com
 ||images.criteo.net^$domain=notebookcheck.com
 ||imasdk.googleapis.com^$domain=notebookcheck.com
@@ -8728,7 +8726,6 @@ prosiebenmaxx.de##div[align="center"][style="color: #000000;"] + div + [-abp-pro
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
-@@||t-online.de/tv/$genericblock,generichide
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tape.tv/tape2fs/images/campaign/teaser-redaktion.swf?
 @@||teufel-media.de/www/delivery/avw.php?zoneid=$image,domain=gewinnspiele.freenet.de
@@ -8984,4 +8981,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: H+bOI0zi5aURxiztxh0AZg
+! Checksum: opZHhXrkDZMtj2u5LXDKiQ
