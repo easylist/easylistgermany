@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606220602
+! Version: 201606221713
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 22 Jun 2016 06:02 UTC
+! Last modified: 22 Jun 2016 17:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -1204,6 +1204,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||icq-love.de/show_icqt.php$third-party
 ||icq-styler.de/promo.html
 ||idealo.de/extern/IdealoWidget.php?
+||idealo.net/js/idealoWidget-$third-party
 ||idealo.net/widget/
 ||ideecon.com^*/iphone4-ohne-vertrag-ratenkauf.gif
 ||igijon.com/personales/cyonix/$third-party
@@ -7586,6 +7587,7 @@ focus.de###video > [-abp-properties='padding-left: 30px;']
 hoerzu.de###wrapper > [-abp-properties='position: relative;']
 outdoor-magazin.com###wrapper > [-abp-properties='text-align: center;']
 eatsmarter.de##.ad > [-abp-properties='cursor: pointer;']
+computerbild.de##.article [-abp-properties='cursor: pointer;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 15px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 16px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 17px;']
@@ -8066,6 +8068,8 @@ focus.de##[-abp-properties='margin-bottom: 11px; margin-left: 275px; width: 728p
 e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='margin-bottom: 11px; margin-left: 300px;']
 runnersworld.de##[-abp-properties='margin-bottom: 11px; margin-left: 31px;']
 ariva.de##[-abp-properties='margin-bottom: 11px; margin-right: 303px;']
+computerbild.de##[-abp-properties='margin-bottom: 11px; position: relative; width: 998px;']
+computerbild.de##[-abp-properties='margin-bottom: 11px; position: relative; width: 998px;'] + div
 focus.de##[-abp-properties='margin-bottom: 11px;']
 e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,planetsnow.de,roadbike.de##[-abp-properties='margin-bottom: 12px; margin-left: 300px;']
 cavallo.de,e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,planetsnow.de,roadbike.de##[-abp-properties='margin-bottom: 12px; margin-left: 301px;']
@@ -8979,4 +8983,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: aDZVd2WqI8/7iNx4PAE7XQ
+! Checksum: VYqu9bIcnCGuGF/rcVAL0Q
