@@ -2190,6 +2190,7 @@
 @@||g.doubleclick.net/gampad/ads?$script,domain=notebookcheck.com
 @@||notebookcheck.com^$genericblock,generichide
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=notebookcheck.com
+@@||quoka.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
 ||2mdn.net^$~object-subrequest,domain=notebookcheck.com
 ||360yield.com^$domain=notebookcheck.com
@@ -2219,11 +2220,12 @@
 ||flashtalking.com^$domain=notebookcheck.com
 ||g.doubleclick.net^$domain=notebookcheck.com
 ||gmads.net^$domain=notebookcheck.com
-||google.com/adsense/$domain=notebookcheck.com
+||google.com/adsense/$domain=notebookcheck.com|quoka.de
 ||googleadservices.com^$domain=notebookcheck.com|tellows.de
 ||googlesyndication.com/pagead/$domain=notebookcheck.com
 ||googlesyndication.com/safeframe/$domain=notebookcheck.com
 ||googlesyndication.com/simgad/$domain=notebookcheck.com
+||googlesyndication.com^$domain=quoka.de
 ||images.*.criteo.net^$domain=notebookcheck.com
 ||images.criteo.net^$domain=notebookcheck.com
 ||imasdk.googleapis.com^$domain=notebookcheck.com
@@ -2233,10 +2235,12 @@
 ||moatads.com^$domain=notebookcheck.com
 ||mookie1.com^$domain=notebookcheck.com
 ||mpnrs.com^$domain=notebookcheck.com
+||oadts.com^$domain=quoka.de
 ||pagead2.googlesyndication.com^$domain=notebookcheck.com
-||partner.googleadservices.com^$domain=notebookcheck.com
+||partner.googleadservices.com^$domain=notebookcheck.com|quoka.de
 ||plista.com/pictureads/$domain=notebookcheck.com
 ||qservz.com^$domain=notebookcheck.com
+||quoka.de/fifligatus.php$domain=quoka.de
 ||sascdn.com^$domain=notebookcheck.com
 ||serving-sys.com^$domain=notebookcheck.com
 ||smartadserver.com^$domain=notebookcheck.com
