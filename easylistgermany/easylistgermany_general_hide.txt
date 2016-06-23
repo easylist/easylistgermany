@@ -250,6 +250,7 @@
 ##.werbungamazon
 ##.werbungimthread
 ##.werbungrechtstitel
+##a[data-redirect^="http://click.plista.com/pets"]
 ##a[href^="http://click.plista.com/pets"]
 ##a[href^="http://farm.plista.com/pets"]
 ##a[href^="http://shortnews.de/gotoklick.cfm?fr_campaign_adtext_id="]
