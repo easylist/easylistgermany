@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606231843
+! Version: 201606231850
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 23 Jun 2016 18:43 UTC
+! Last modified: 23 Jun 2016 18:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -196,6 +196,7 @@ _woz_banner_vote.
 ###header_werbung
 ###headerwerbung
 ###inlinewerbung
+###kalaydo_ads
 ###kaufDA
 ###kaufDA-widget-container
 ###kopf-werbung
@@ -1223,6 +1224,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||joycash.joydate.com^$third-party
 ||joyclub.de/partner/aff/
 ||kai-homilius-verlag.de/bilder/banner/$third-party
+||kalaydo.fnp.de^
 ||kart-club-trier.de/images/banners/
 ||kaufda.de^*/widgetinitializer.js$third-party
 ||kein-dsl.de/banner/$third-party
@@ -9045,4 +9047,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: qBB1a/Gc/bzCPs38ZS+JAQ
+! Checksum: KX0zf0JEa0dEE+dAkuF0/Q
