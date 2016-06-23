@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606230605
+! Version: 201606231843
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 23 Jun 2016 06:05 UTC
+! Last modified: 23 Jun 2016 18:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -3836,6 +3836,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 @@||g.doubleclick.net/gampad/ads?$script,domain=notebookcheck.com
 @@||notebookcheck.com^$genericblock,generichide
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=notebookcheck.com
+@@||quoka.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
 ||2mdn.net^$~object-subrequest,domain=notebookcheck.com
 ||360yield.com^$domain=notebookcheck.com
@@ -3865,11 +3866,12 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||flashtalking.com^$domain=notebookcheck.com
 ||g.doubleclick.net^$domain=notebookcheck.com
 ||gmads.net^$domain=notebookcheck.com
-||google.com/adsense/$domain=notebookcheck.com
+||google.com/adsense/$domain=notebookcheck.com|quoka.de
 ||googleadservices.com^$domain=notebookcheck.com|tellows.de
 ||googlesyndication.com/pagead/$domain=notebookcheck.com
 ||googlesyndication.com/safeframe/$domain=notebookcheck.com
 ||googlesyndication.com/simgad/$domain=notebookcheck.com
+||googlesyndication.com^$domain=quoka.de
 ||images.*.criteo.net^$domain=notebookcheck.com
 ||images.criteo.net^$domain=notebookcheck.com
 ||imasdk.googleapis.com^$domain=notebookcheck.com
@@ -3879,10 +3881,12 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||moatads.com^$domain=notebookcheck.com
 ||mookie1.com^$domain=notebookcheck.com
 ||mpnrs.com^$domain=notebookcheck.com
+||oadts.com^$domain=quoka.de
 ||pagead2.googlesyndication.com^$domain=notebookcheck.com
-||partner.googleadservices.com^$domain=notebookcheck.com
+||partner.googleadservices.com^$domain=notebookcheck.com|quoka.de
 ||plista.com/pictureads/$domain=notebookcheck.com
 ||qservz.com^$domain=notebookcheck.com
+||quoka.de/fifligatus.php$domain=quoka.de
 ||sascdn.com^$domain=notebookcheck.com
 ||serving-sys.com^$domain=notebookcheck.com
 ||smartadserver.com^$domain=notebookcheck.com
@@ -7540,6 +7544,7 @@ ran.de###left-zone > [-abp-properties='cursor: pointer; margin-bottom: 2*px;']
 ran.de###left-zone > [-abp-properties='margin-left: 35px;']
 ran.de###left-zone [-abp-properties='margin-left: 37px;']
 gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,usinger-anzeiger.de###pageinner > [-abp-properties='text-align: center;'] > img
+quoka.de###qrb_search img[style="max-width: 198px;"]
 autoexperience.de,daselternforum.de,fitness-foren.de,flugzeugforum.de,handy-hilfeforum.de,kreatives-wohnforum.de,lpgforum.de,mazda-forum.info,notebookforum.at,pkw-forum.de,teccentral.de,usp-forum.de,win-8-forum.net,windows-7-forum.net,windows-8-forum.net###rectangle > [-abp-properties='cursor: pointer;']
 gelnhaeuser-tageblatt.de,giessener-anzeiger.de,hochheimer-zeitung.de,hofheimer-zeitung.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,main-spitze.de,oberhessische-zeitung.de,rhein-main-presse.de,usinger-anzeiger.de,wormser-zeitung.de###rightbar > [-abp-properties='cursor: pointer']
 allgemeine-zeitung.de,buerstaedter-zeitung.de,lampertheimer-zeitung.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de###rightbar > [-abp-properties='cursor: pointer;']
@@ -8319,8 +8324,11 @@ wetteronline.de##[-abp-properties='margin-top: 6px;']
 gamepro.de,gamestar.de##[-abp-properties='margin-top: 9px; padding-left: 252px;']
 autozeitung.de,de.filsh.net,dialo.de,donnerwetter.de,e-hausaufgaben.de,fanfiktion.de,finya.de,formel1.de,fremdwort.de,helles-koepfchen.de,infranken.de,inside-digital.de,inside-handy.de,motorsport-total.com,news.de,nickles.de,pixelio.de,seniorbook.de,tabtech.de,weristdeinfreund.de##[-abp-properties='max-height: *px; max-width: *px; position: *;']
 quoka.de,tvinfo.de##[-abp-properties='max-height: 250px; max-width: 300px;']
+quoka.de##[-abp-properties='max-height: 250px; max-width: 301px;']
 quoka.de,tvinfo.de##[-abp-properties='max-height: 250px; max-width: 800px;']
+quoka.de##[-abp-properties='max-height: 250px; max-width: 970px;']
 quoka.de,tvinfo.de##[-abp-properties='max-height: 600px; max-width: 160px;']
+quoka.de##[-abp-properties='max-height: 601px; max-width: 161px;']
 unixboard.de##[-abp-properties='max-width: 12*px; position: relative; text-align: center; width: 12*px;']
 general-anzeiger-bonn.de##[-abp-properties='max-width: 620px;']
 spox.com##[-abp-properties='max-width: 728px;']
@@ -9037,4 +9045,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: jwXt+SO55Q0nmMl/LVPTow
+! Checksum: qBB1a/Gc/bzCPs38ZS+JAQ
