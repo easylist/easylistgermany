@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606271718
+! Version: 201606271803
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Jun 2016 17:18 UTC
+! Last modified: 27 Jun 2016 18:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -7630,6 +7630,7 @@ welt.de###wt_refpoint + * + * > [-abp-properties='cursor: pointer;'] > img
 eatsmarter.de##.ad > [-abp-properties='cursor: pointer;']
 finanzen.net##.adWrapper + * + span + [-abp-properties='display: block;']
 computerbild.de##.article [-abp-properties='cursor: pointer;']
+spiegel.de##.article-section > [-abp-properties='margin-right: 11px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 12px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 13px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 14px;']
@@ -9130,4 +9131,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: hHpGhl/oQZ/rE7bjTdAeig
+! Checksum: ogCpDl6QNUqPZCF6qa+uwQ
