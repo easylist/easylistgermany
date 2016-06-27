@@ -3598,6 +3598,7 @@ welt.de###wt_refpoint + * + * > [-abp-properties='cursor: pointer;'] > img
 eatsmarter.de##.ad > [-abp-properties='cursor: pointer;']
 finanzen.net##.adWrapper + * + span + [-abp-properties='display: block;']
 computerbild.de##.article [-abp-properties='cursor: pointer;']
+spiegel.de##.article-section > [-abp-properties='margin-right: 11px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 12px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 13px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 14px;']
