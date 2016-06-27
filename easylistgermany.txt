@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606271647
+! Version: 201606271648
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Jun 2016 16:47 UTC
+! Last modified: 27 Jun 2016 16:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -4653,6 +4653,7 @@ schiffsansagedienst-cuxhaven.de###overlay
 schiffsansagedienst-cuxhaven.de###overlay + #lightBox
 4forums.de###p
 hstt.net###page-header + br + .forabg
+hc-erlangen.de###pageBanner
 unternehmerkarte.de###pageBannerRgt
 unternehmerkarte.de###pageBannerTop
 wetter.de###pageRelated > #pageHalfpage
@@ -9125,4 +9126,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: xDx513kqeb7RqN8VXfeq+w
+! Checksum: VfXyPL6ArZPVdQnTayvd7g
