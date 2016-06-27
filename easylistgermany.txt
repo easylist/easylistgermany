@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606261937
+! Version: 201606271647
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Jun 2016 19:37 UTC
+! Last modified: 27 Jun 2016 16:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -82,6 +82,7 @@
 /werb.gif
 /werb.php
 /werbe-banner/*
+/werbe_banner/*
 /werbeanzeige/*
 /werbeanzeigen/*
 /werbebanner-
@@ -4831,6 +4832,7 @@ onlinemarketingrockstars.de###secondary > #text-28
 allfacebook.de###secondary > #text-4
 allfacebook.de###secondary > #text-7
 scifi-forum.de###sff_header_top
+scdhfk-handball.de###sgsOverlay
 xboxfront.de###shopauszug
 nicestthings.com###sidebar > #HTML3
 heisserdraht.net###sidebar > #text-10
@@ -9123,4 +9125,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: p/0+65Wofh0p9YEoJ1l3CQ
+! Checksum: xDx513kqeb7RqN8VXfeq+w
