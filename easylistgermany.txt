@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606271648
+! Version: 201606271701
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Jun 2016 16:48 UTC
+! Last modified: 27 Jun 2016 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -6472,6 +6472,7 @@ anonym.to##a[href^="http://partners.affiliace.com/"]
 au-ja.de,mydict.com##a[href^="http://partners.webmasterplan.com/"]
 songtexte.bz##a[href^="http://partners.webmasterplan.com/click.asp"]
 alle-autos-in.de,appcatalog.de##a[href^="http://partners.webmasterplan.com/click.asp?"]
+pcwelt.de##a[href^="http://partners.webmasterplan.com/click.asp?ref="]
 metacrawler.de##a[href^="http://performance-netzwerk.de"]
 mobilfunk-talk.de,usp-forum.de##a[href^="http://performance-netzwerk.de/"]
 movie-blog.org##a[href^="http://ph.ly/"]
@@ -6538,6 +6539,7 @@ livestreamfussball.org,sat-erotik.de##a[href^="http://www.amazon.de/"]
 gamestar.de##a[href^="http://www.amazon.de/"][href*="%26tag%"]
 beichthaus.com,computerbild.de##a[href^="http://www.amazon.de/"][href*="&tag="] > img
 gamefront.de##a[href^="http://www.amazon.de/"][href*="&tag=gamefrontde-21"]
+pcwelt.de##a[href^="http://www.amazon.de/"][href*="&tag=pcwmarkt-21"]
 gamestar.de##a[href^="http://www.amazon.de/"][href*="tag="]
 unmoralische.de##a[href^="http://www.amazon.de/exec/obidos/redirect-home?tag=dieunmoralisc-21&"] > img
 deutscher-hip-hop.com##a[href^="http://www.amazon.de/gp/"][href$="&tag=deuhiphop0e-21"] > img
@@ -6615,6 +6617,7 @@ online-moviez.com##a[href^="http://www.online-moviez.com/cgateway/"]
 orschlurch.net##a[href^="http://www.orschlurch.net/am/"]
 private-blog.org##a[href^="http://www.parkplatzkartei.com"]
 pornkino.to,xxx-blog.to##a[href^="http://www.parkplatzkartei.com/"]
+pcwelt.de##a[href^="http://www.pcwelt.de/pv/"]
 prad.de##a[href^="http://www.prad.de/mpb"]
 adhs-zentrum.de##a[href^="http://www.profiseller.de/shop1/index.php3?ps_id="]
 startseite.to##a[href^="http://www.putlocker.com/?affid="]
@@ -9126,4 +9129,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: VfXyPL6ArZPVdQnTayvd7g
+! Checksum: 8EhmBs4GgUZGOw5Qc4dbRQ
