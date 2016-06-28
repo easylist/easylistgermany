@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201606280616
+! Version: 201606281907
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 28 Jun 2016 06:16 UTC
+! Last modified: 28 Jun 2016 19:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -5652,6 +5652,7 @@ quoka.de##.inner > #RelatedAdsList + .yui3-g
 blur.ws##.inner > .pefb
 ultras.ws##.inner:first-child:last-child > .corners-top:first-child + .topiclist + div[style="padding: 5px 5px 2px 5px; font-size: 1.1em; background-color: #ECF1F3; margin: 0px auto; text-align: center;"]
 hcelb.de##.intpartner
+verkehrsportal.de##.ipbtable .catend
 sueddeutsche.de##.iqad
 sueddeutsche.de##.iqadcontainer
 golem.de##.iqadmarker
@@ -9155,4 +9156,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: H42JNkPw4ajQdgiSDdsDmw
+! Checksum: lT52Li0bulB+AdOWcTkodA
