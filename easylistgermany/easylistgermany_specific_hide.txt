@@ -1364,7 +1364,6 @@ gamepro.de##.centeredDiv > .border > .homeContReg > .doubleBlkLeft[style="height
 gamepro.de##.centeredDiv > .border > .homeContReg > .doubleBlkRight[style="height:300px;padding:20px 0;"]:last-child
 gamestar.de##.centeredDiv > .homeContReg > .doubleBlkLeft[style="height:270px;padding-top:20px;"]:first-child
 gamestar.de##.centeredDiv > .homeContReg > .doubleBlkRight[style="height:300px;padding:20px 0;"]:last-child
-gamestar.de##.centeredDiv > div[style="width:980px;float:left;"]
 typo3blogger.de##.chemical_sitelogo_r
 putenbrust.net##.children:last-child > table[width="500"][align="center"]
 c1neon.com##.cineadd
@@ -3070,7 +3069,6 @@ wallstreet-online.de##div[style="position:absolute;right:5px;bottom:4px;width: 1
 presseportal.de##div[style="position:fixed;left:980px;top:10px;color:#9B9A9D;font-size:10px"]
 suxedoo.ch##div[style="position:relative; height:70px; left:40px;top:10px;"]
 simkea.de##div[style="position:relative; width:728px; height:90px; text-align:right; margin:1px auto 1px auto; overflow:hidden;"]
-gamestar.de##div[style="position:relative;"] > div > a > img
 14-tage-wettervorhersage.de##div[style="text-align: center; padding-top: 10px; margin-top: 0px; height: 260px; background-image: url(/wp-content/plugins/flasko/img/anzeige_300.gif); background-position: initial; background-repeat: no-repeat;"]
 14-tage-wettervorhersage.de##div[style="text-align: center; padding-top: 10px; margin-top: 5px; height: 260px; background-image: url(/wp-content/plugins/flasko/img/anzeige_300.gif); background-position: initial; background-repeat: no-repeat;"]
 awardfabrik.de##div[style="text-align: center; width: 100%; height: 60px; border: 0; overflow: hidden;"]
@@ -3647,7 +3645,6 @@ experto.de##.artikelmain > [-abp-properties='cursor: pointer']
 tvspielfilm.de##.aside > [-abp-properties='margin-bottom: 13px;']
 caravaning.de##.basicteaser + [-abp-properties='text-align: center;']
 fem.com##.block-type-content-grid > [-abp-properties='cursor: pointer;']
-gamestar.de##.centeredDiv > * > a > [-abp-properties='border*;']
 gamestar.de##.centeredDiv > [-abp-properties='left: 993px;']
 gamestar.de##.centeredDiv > span > a > [-abp-properties='border*;']
 finanzen.net##.clear-block > * > [-abp-properties='display: block; height: 250px;']
