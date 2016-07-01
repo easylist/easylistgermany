@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607010728
+! Version: 201607011735
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 01 Jul 2016 07:28 UTC
+! Last modified: 01 Jul 2016 17:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -4456,6 +4456,7 @@ ruhrbarone.de###headContainer
 scdhfk-handball.de###headRightCommercials
 wunschliste.de###head_banner
 fxempire.de###head_banners
+finanzen.net###header + * + * + * + * + * + * + * + * + a > img
 finanzen.net###header + * + * + * + * + * + a > img
 tvtoday.de###header + * + * + * + * + div > span > img
 gamestar.de###header + style + div + div[id]
@@ -7695,6 +7696,7 @@ spiegel.de##.article-section > [-abp-properties='margin-right: 14px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 15px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 16px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 17px;']
+spiegel.de##.article-section > [-abp-properties='margin-right: 8px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 9px;']
 focus.de##.articleSeparator + * > [-abp-properties='border*; display: block;']
 caravaning.de##.article_content > div > [-abp-properties='cursor: pointer;']
@@ -7703,6 +7705,7 @@ experto.de##.artikelmain > [-abp-properties='cursor: pointer']
 tvspielfilm.de##.aside > [-abp-properties='margin-bottom: 13px;']
 caravaning.de##.basicteaser + [-abp-properties='text-align: center;']
 fem.com##.block-type-content-grid > [-abp-properties='cursor: pointer;']
+focus.de##.block.grid_4 > [-abp-properties='left: 19px; position: relative;']
 focus.de##.block.grid_4 > [-abp-properties='left: 20px; position: relative;']
 gamestar.de##.centeredDiv > [-abp-properties='left: 993px;']
 gamestar.de##.centeredDiv > span > a > [-abp-properties='border*;']
@@ -7855,6 +7858,7 @@ wn.de##[-abp-properties='bottom: 4px; position: relative; text-align: center;']
 gala.de##[-abp-properties='bottom: 4px; position: relative;'] > img
 brigitte.de##[-abp-properties='bottom: 5px; clear: both; left: 50px;']
 spiegel.de##[-abp-properties='bottom: 6px; margin-bottom: 2px;']
+spiegel.de##[-abp-properties='bottom: 6px; margin-bottom: 3px;']
 spiegel.de##[-abp-properties='bottom: 7px;']
 ran.de##[-abp-properties='bottom: 9px; position: relative;']
 ran.de##[-abp-properties='clear: both; left: -16px; position: relative;']
@@ -8151,9 +8155,9 @@ finanzen.net##[-abp-properties='left: 41*px;']
 wetter.com##[-abp-properties='left: 417px; position: relative; top: 5px;']
 wetter.com##[-abp-properties='left: 417px;']
 finanzen.net,transfermarkt.de##[-abp-properties='left: 42*px;']
-serienjunkies.de##[-abp-properties='left: 42px; position: relative;']
+allgemeine-zeitung.de,buerstaedter-zeitung.de,hochheimer-zeitung.de,hofheimer-zeitung.de,lampertheimer-zeitung.de,rhein-main-presse.de,serienjunkies.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='left: 42px; position: relative;']
 serienjunkies.de##[-abp-properties='left: 42px;']
-finanzen.net##[-abp-properties='left: 43*px;'hochheimer-zeitung.de,hofheimer-zeitung.de,wormser-zeitung.de,rhein-main-presse.de,lampertheimer-zeitung.de,wiesbadener-tagblatt.de,buerstaedter-zeitung.de,wiesbadener-kurier.de,allgemeine-zeitung.de##[-abp-properties='left: 42px; position: relative;']
+finanzen.net##[-abp-properties='left: 43*px;']
 allgemeine-zeitung.de,buerstaedter-zeitung.de,hochheimer-zeitung.de,hofheimer-zeitung.de,lampertheimer-zeitung.de,rhein-main-presse.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='left: 43px; position: relative;']
 finanzen.net##[-abp-properties='left: 44*px;']
 allgemeine-zeitung.de,boerse.de,buerstaedter-zeitung.de,hochheimer-zeitung.de,hofheimer-zeitung.de,lampertheimer-zeitung.de,rhein-main-presse.de,serienjunkies.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='left: 44px; position: relative;']
@@ -8233,6 +8237,7 @@ menshealth.de##[-abp-properties='left: 89px; position: relative;']
 gamepro.de,gamestar.de,runnersworld.de,spox.com##[-abp-properties='left: 9*px; position: absolute; top: *px;']
 abendzeitung-muenchen.de,ran.de##[-abp-properties='left: 9*px; position: absolute; top: 1*px;']
 hoerzu.de##[-abp-properties='left: 9*px; position: absolute; top: 9*px; z-index: 10*;']
+finanzen.net##[-abp-properties='left: 9*px;']
 menshealth.de##[-abp-properties='left: 9*px;'] > img
 gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,motorradonline.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='left: 91*px;']
 allgemeine-zeitung.de,buerstaedter-zeitung.de,giessener-anzeiger.de,hochheimer-zeitung.de,hofheimer-zeitung.de,kreis-anzeiger.de,lampertheimer-zeitung.de,lauterbacher-anzeiger.de,motorradonline.de,oberhessische-zeitung.de,rhein-main-presse.de,usinger-anzeiger.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='left: 92*px;']
@@ -8480,6 +8485,7 @@ gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-an
 giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='margin-left: 31*px;']
 gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='margin-left: 32*px;']
 gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='margin-left: 329px']
+focus.de##[-abp-properties='margin-left: 329px;']
 allgemeine-zeitung.de,buerstaedter-zeitung.de,focus.de,gelnhaeuser-tageblatt.de,giessener-anzeiger.de,hochheimer-zeitung.de,hofheimer-zeitung.de,kreis-anzeiger.de,lampertheimer-zeitung.de,lauterbacher-anzeiger.de,lustich.de,oberhessische-zeitung.de,rhein-main-presse.de,usinger-anzeiger.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='margin-left: 33*px;']
 lustich.de##[-abp-properties='margin-left: 34*px;']
 focus.de##[-abp-properties='margin-left: 340px;'] > img
@@ -9301,4 +9307,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: 9Ls6Bv8ooIi4vbNg5QmWvQ
+! Checksum: eCvo5XwjplCZuKt9AsS4/w
