@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607031815
+! Version: 201607031816
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Jul 2016 18:15 UTC
+! Last modified: 03 Jul 2016 18:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -7567,7 +7567,6 @@ news.de##.plista_widget_underArticle_item + div[style="position: relative;"] > s
 boote-forum.de,comunio.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 ariva.de,boote-forum.de,comunio.de,fanfiktion.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
-@@||spiegel.de^$generichide
 plista.com##a[href^="http://click.plista.com/pets"]
 stol.it##div[id^="div-gpt-ad"]
 ! CSS property filters for Adblock Plus
@@ -9301,4 +9300,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: a7X2LVGU7llx9YgBZV3fhA
+! Checksum: dVYpZdAPoVY3d1D/y66QIw
