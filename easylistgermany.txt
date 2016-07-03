@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607011735
+! Version: 201607031815
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 01 Jul 2016 17:35 UTC
+! Last modified: 03 Jul 2016 18:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -7846,9 +7846,6 @@ pcgames.de##[-abp-properties='background-color*; bottom*; cursor: pointer; left*
 4players.de##[-abp-properties='bottom*; cursor: pointer; left: 0; position: fixed; right: 0; top: 0px;']
 wetter.com##[-abp-properties='bottom*; left: 108px; position: relative;']
 gamestar.de##[-abp-properties='bottom: 10px; position: relative;'] > img
-spiegel.de##[-abp-properties='bottom: 17px;']
-spiegel.de##[-abp-properties='bottom: 18px;']
-spiegel.de##[-abp-properties='bottom: 19px;']
 4players.de##[-abp-properties='bottom: 1px; margin-top: 15px; text-align: center;']
 gamesaktuell.de##[-abp-properties='bottom: 24px; margin-left: 5px;']
 wetter.com##[-abp-properties='bottom: 270px; left: 770px; position: absolute;']
@@ -7857,9 +7854,6 @@ woxikon.de##[-abp-properties='bottom: 2px; position: relative; text-align: cente
 wn.de##[-abp-properties='bottom: 4px; position: relative; text-align: center;']
 gala.de##[-abp-properties='bottom: 4px; position: relative;'] > img
 brigitte.de##[-abp-properties='bottom: 5px; clear: both; left: 50px;']
-spiegel.de##[-abp-properties='bottom: 6px; margin-bottom: 2px;']
-spiegel.de##[-abp-properties='bottom: 6px; margin-bottom: 3px;']
-spiegel.de##[-abp-properties='bottom: 7px;']
 ran.de##[-abp-properties='bottom: 9px; position: relative;']
 ran.de##[-abp-properties='clear: both; left: -16px; position: relative;']
 tvspielfilm.de##[-abp-properties='clear: both; margin-left: 46px;']
@@ -9307,4 +9301,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: eCvo5XwjplCZuKt9AsS4/w
+! Checksum: a7X2LVGU7llx9YgBZV3fhA
