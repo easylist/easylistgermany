@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607041633
+! Version: 201607041658
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 Jul 2016 16:33 UTC
+! Last modified: 04 Jul 2016 16:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -5660,6 +5660,8 @@ netzkino.de##.horizontalBanner
 movie-blog.org##.hreview-aggregate > a[target="blank"]
 movie-blog.org##.hreview-aggregate > div[class] > div > a[href^="http://movie-blog.org/"]
 heinertown.de##.htown_anzeige
+tz.de##.id-Container--promotion
+tz.de##.id-Teaser-el--promotion
 wa.de##.idMediaParagraph > .idMediaRight > .idTextBox
 delamar.de##.iframe300
 immobilienscout24.de##.ikea-link
@@ -9261,4 +9263,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: zvOwd+wH1r9wrSxcn/DQOQ
+! Checksum: wVlIi4c5HJ6L5k/+bX+rRg
