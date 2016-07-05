@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607051110
+! Version: 201607051114
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Jul 2016 11:10 UTC
+! Last modified: 05 Jul 2016 11:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -596,6 +596,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||ads4clicks.de^$third-party
 ||ads4finies.de^$third-party
 ||adscads.de^$third-party
+||adsister.com^$third-party
 ||adsmediapro.net^$third-party
 ||adsone.de^$third-party
 ||adspirit.net^$third-party
@@ -4269,6 +4270,7 @@ maniac.de###branding_spanner
 motorradonline.de###breadcrumb + div + a > img
 web2.0rechner.de###britnexbanner
 eastcomp.de###broadcastbox
+formel1.de###bs-container
 warezking.in###btop
 stupidedia.org###buch
 wg.tvb1898.de###c1336
@@ -4577,6 +4579,7 @@ esbgforum.de###main > .pageOptions + .info + div[align="center"]
 motorradonline.de###main > span + * + a > img
 iphone-tricks.de###main-area > script + div > div > img
 yasni.at,yasni.ch,yasni.de###main-content-ac1
+clever-tanken.de###main-content-partners
 lesen.to###main:first-child > br:first-child + br + .box2
 grosseleute.de###mainContainer > :nth-child(n) + div:last-child div:first-child:last-child > div:first-child:last-child > a[href] > img[src^="image/"]
 grosseleute.de###mainContainer > :nth-child(n) div:first-child:last-child > div:first-child:last-child > a[href] > img[src^="image/"]
@@ -4988,6 +4991,7 @@ peeplo.de###tips-share
 t-online.de###tl_anz-pos1
 chip.de###top-banner
 fnweb.de###top-bannerrow
+clever-tanken.de###top-bar
 awardfabrik.de###top2
 1001spiele.de,junge-freiheit.de,jungefreiheit.de,php-resource.de###topBanner
 suchen.de###topPPC
@@ -9263,4 +9267,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: Av7jL4hoyIn9CuuXflY9wA
+! Checksum: +7hAFh9/ZYnDD64FFCUi5Q
