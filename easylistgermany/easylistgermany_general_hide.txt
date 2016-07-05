@@ -45,6 +45,7 @@
 ###header_werbung
 ###headerwerbung
 ###inlinewerbung
+###kalaydo_ads
 ###kaufDA
 ###kaufDA-widget-container
 ###kopf-werbung
@@ -140,6 +141,7 @@
 ##.WerbungDetailRectangle
 ##.WerbungLinksRechts
 ##.WerbungMitte
+##._werbung
 ##.ad_mitte
 ##.ads-artikel-contentAd-medium
 ##.ads-artikel-contentAd-top
@@ -151,6 +153,7 @@
 ##.banner-werbung-rechts
 ##.banner-werbung-top
 ##.bannerAnzeige
+##.bannergroup_werbung
 ##.banneritemwerbung_head_1
 ##.banneritemwerbung_head_2
 ##.banneritemwerbung_head_3
@@ -202,6 +205,7 @@
 ##.werbeadd_ueber
 ##.werbebanner
 ##.werbeblock
+##.werbebox2
 ##.werbeflaeche
 ##.werbehinweis
 ##.werbekennzeichnerrectangle
@@ -248,6 +252,7 @@
 ##.werbungamazon
 ##.werbungimthread
 ##.werbungrechtstitel
+##a[data-redirect^="http://click.plista.com/pets"]
 ##a[href^="http://click.plista.com/pets"]
 ##a[href^="http://farm.plista.com/pets"]
 ##a[href^="http://shortnews.de/gotoklick.cfm?fr_campaign_adtext_id="]
