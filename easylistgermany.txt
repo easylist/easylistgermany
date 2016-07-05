@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607041658
+! Version: 201607051110
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 Jul 2016 16:58 UTC
+! Last modified: 05 Jul 2016 11:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -6934,7 +6934,7 @@ ebay.de##div[id^="rtm_html_"][style="width: 300px; height: 265px; overflow: hidd
 ebay.de##div[id^="rtm_html_"][style="width: 640px; height: 495px; overflow: hidden; display: block;"]
 ebay.de##div[id^="rtm_html_"][style="width: 728px; height: 105px; text-align: left; display: block;"]
 ebay.de##div[id^="rtm_html_"][style="width: 970px; height: 90px; overflow: hidden; display: block;"]
-formel1.de,motorsport-total.com##div[id^="sas_"]
+formel1.de,motorsport-total.com.metal-hammer.de##div[id^="sas_"]
 unser-star-fuer-baku.tv##div[id^="sponsor_overlay_"]
 oberpfalznetz.de##div[id^="teaser_spbanner_"]
 t-online.de##div[id^="tsc_google_adsense_1"]
@@ -9263,4 +9263,4 @@ kalender-365.de#@#.adsbygoogle
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
-! Checksum: wVlIi4c5HJ6L5k/+bX+rRg
+! Checksum: Av7jL4hoyIn9CuuXflY9wA
