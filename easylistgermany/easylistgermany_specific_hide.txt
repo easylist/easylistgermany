@@ -542,6 +542,7 @@ esbgforum.de###main > .pageOptions + .info + div[align="center"]
 motorradonline.de###main > span + * + a > img
 iphone-tricks.de###main-area > script + div > div > img
 yasni.at,yasni.ch,yasni.de###main-content-ac1
+clever-tanken.de###main-content-partners
 lesen.to###main:first-child > br:first-child + br + .box2
 grosseleute.de###mainContainer > :nth-child(n) + div:last-child div:first-child:last-child > div:first-child:last-child > a[href] > img[src^="image/"]
 grosseleute.de###mainContainer > :nth-child(n) div:first-child:last-child > div:first-child:last-child > a[href] > img[src^="image/"]
@@ -953,6 +954,7 @@ peeplo.de###tips-share
 t-online.de###tl_anz-pos1
 chip.de###top-banner
 fnweb.de###top-bannerrow
+clever-tanken.de###top-bar
 awardfabrik.de###top2
 1001spiele.de,junge-freiheit.de,jungefreiheit.de,php-resource.de###topBanner
 suchen.de###topPPC
