@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607070634
+! Version: 201607071611
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 07 Jul 2016 06:34 UTC
+! Last modified: 07 Jul 2016 16:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -5435,7 +5435,6 @@ cosmiq.de##.cmsbox_iq_qa_show_content_below_question
 quoka.de##.cnt > div[style="margin: 0px 0px 0px 0px; min-height:90px; padding: 5px 0;"]
 finanzen.net##.coW[style="background-color: #009DE0;"]
 finanzen.ch##.coba_homepage_topflop
-computerbild.de##.codeteaser
 menshealth.de##.col-sm-4.col-md-4 > div > img
 stayfriends.de##.col1 > div[style="width: 616px; height:185px; border:2px solid #03408c; position:relative"]
 3druck.com##.col2 > #text-4
@@ -9310,4 +9309,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 9W+idBv+yOPbyuL4PZ22xg
+! Checksum: Pm7n1mBL6+357NmKqBIMfA
