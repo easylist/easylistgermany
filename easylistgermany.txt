@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607111652
+! Version: 201607111653
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 11 Jul 2016 16:52 UTC
+! Last modified: 11 Jul 2016 16:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -5688,7 +5688,6 @@ finanzen.ch##.image_logo_ubs4
 derwesten.de##.img[href^="http://www.albelli.de/angebote/"]
 augsburger-allgemeine.de##.img_inline[style="width:310px; margin:0px 10px 0px 0px; padding: 0px;"]
 welt.de##.inTextTeaser1
-4players.de##.index-berichtebox > div > div > img
 autoline-eu.at,autoline-eu.ch,autoline.de##.index-center-banners-1
 autoline-eu.at,autoline-eu.ch,autoline.de##.index-main-banners
 hornoxe.com##.infobox + .navigation + [align="center"] + .box-grey
@@ -7926,7 +7925,6 @@ finanzen.net##[-abp-properties='display: block; margin-left: 140px;']
 finanzen.net##[-abp-properties='display: block; margin-left: 141px;']
 auto-motor-und-sport.de##[-abp-properties='display: block; margin-left: 17px;']
 auto-motor-und-sport.de##[-abp-properties='display: block; margin-left: 29*px;']
-4players.de##[-abp-properties='display: block; margin-left: 2px;']
 finanzen.net##[-abp-properties='display: block; margin-left: 66px;']
 finanzen.net##[-abp-properties='display: block; margin-left: 676px;']
 finanzen.net##[-abp-properties='display: block; margin-left: 67px;']
@@ -8252,7 +8250,7 @@ hoerzu.de##[-abp-properties='left: 9*px; position: absolute; top: 9*px; z-index:
 finanzen.net##[-abp-properties='left: 9*px;']
 menshealth.de##[-abp-properties='left: 9*px;'] > img
 focus.de##[-abp-properties='left: 90px;']
-4players.de,gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,motorradonline.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='left: 91*px;']
+gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,motorradonline.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='left: 91*px;']
 allgemeine-zeitung.de,buerstaedter-zeitung.de,giessener-anzeiger.de,hochheimer-zeitung.de,hofheimer-zeitung.de,kreis-anzeiger.de,lampertheimer-zeitung.de,lauterbacher-anzeiger.de,motorradonline.de,oberhessische-zeitung.de,rhein-main-presse.de,usinger-anzeiger.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='left: 92*px;']
 focus.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='left: 93*px;']
 focus.de##[-abp-properties='left: 935px; margin-left: 81px; position: absolute; top: 114px;']
@@ -8642,7 +8640,7 @@ finanzen.net##[-abp-properties='right: -100px;']
 toyota-forum.de##[-abp-properties='text-align: center; width: 1200px;']
 finanzen.net,kreis-anzeiger.de,lauterbacher-anzeiger.de,meinestadt.de,nnn.de,prignitzer.de,svz.de,wetter.com##[-abp-properties='text-align: center;'] > * > * > img
 abendzeitung-muenchen.de,allgemeine-zeitung.de,buerstaedter-zeitung.de,eatsmarter.de,experto.de,gelnhaeuser-tageblatt.de,giessener-anzeiger.de,hochheimer-zeitung.de,hofheimer-zeitung.de,kreis-anzeiger.de,lampertheimer-zeitung.de,lauterbacher-anzeiger.de,nnn.de,oberhessische-zeitung.de,prignitzer.de,ran.de,rhein-main-presse.de,shz.de,svz.de,usinger-anzeiger.de,wetter.com,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='text-align: center;'] > * > img
-4players.de,abendzeitung-muenchen.de,arcor.de,autobild.de,boerse.de,caravaning.de,eatsmarter.de,echo-online.de,experto.de,finanzen.net,gala.de,hoerzu.de,motorradonline.de,pcwelt.de,promobil.de,ran.de,serienjunkies.de,shz.de,sixx.de,spox.com,tvtoday.de,wetter.com,womenshealth.de##[-abp-properties='text-align: center;'] > img
+abendzeitung-muenchen.de,arcor.de,autobild.de,boerse.de,caravaning.de,eatsmarter.de,echo-online.de,experto.de,finanzen.net,gala.de,hoerzu.de,motorradonline.de,pcwelt.de,promobil.de,ran.de,serienjunkies.de,shz.de,sixx.de,spox.com,tvtoday.de,wetter.com,womenshealth.de##[-abp-properties='text-align: center;'] > img
 finanzen.net##[-abp-properties='text-align: right;'] > * > * > img
 finanzen.net##[-abp-properties='text-align: right;'] > * > img
 pcwelt.de##[-abp-properties='top: 101px;']
@@ -8701,7 +8699,6 @@ pcwelt.de##[-abp-properties='width: 979px;']
 wn.de##[-abp-properties='width: 99*px;']
 wetter.com##[-abp-properties='z-index: 1000*;']
 wetter.com##[-abp-properties='z-index: 10000000;']
-4players.de##[-abp-properties='z-index: 99*;']
 wetter.com##[-abp-properties='z-index: 999;']
 comunio.de##[-abp-properties='zoom: 0.965;'] > img
 finanzen.net##a > [-abp-properties='border*']
@@ -9328,4 +9325,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: fHvoR42fxRmq79tOssfONA
+! Checksum: HcR4EmwqK1n+aKZurhkDpQ
