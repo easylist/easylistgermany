@@ -307,8 +307,7 @@
 @@||s.bs.to/js/jquery.js|$script,domain=~board.bs.to|bs.to
 @@||s.bs.to/js/main.min.js|$script,domain=~board.bs.to|bs.to
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
-@@||sascdn.com/diff/*/pages/$script,domain=hoerzu.de
-@@||sascdn.com/diff/*/pages/derwesten.js$domain=derwesten.de
+@@||sascdn.com/diff/*/pages/$script,domain=derwesten.de|hoerzu.de
 @@||sascdn.com/diff/video/$script,domain=kleinezeitung.at
 @@||sascdn.com/video/$script,domain=kleinezeitung.at
 @@||saugking.net/css/ads.css
