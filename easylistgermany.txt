@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607111747
+! Version: 201607120614
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 11 Jul 2016 17:47 UTC
+! Last modified: 12 Jul 2016 06:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -7630,6 +7630,8 @@ meinestadt.de###coop-navigation + [-abp-properties='text-align: center;']
 runnersworld.de###flashbuehne > div > [-abp-properties='cursor: pointer;']
 tvspielfilm.de###footer [-abp-properties='cursor: pointer;']
 spox.com###frnMain > [-abp-properties='cursor: pointer; height: *px; margin-bottom: 5px; margin-top: *px; width: *px;']
+finanzen.net###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + a > img
+pcwelt.de###header + * + * + div > a > img
 pcwelt.de###header + * + * > [-abp-properties='margin-left: 10px;']
 pcwelt.de###header + * > [-abp-properties='margin-left: 10px;']
 lustich.de###ip_content_wrapper > [-abp-properties='height: *px; left: *; margin-left: *px; position: absolute; top: *px; vertical-align: *; width: *px;']
@@ -7722,6 +7724,7 @@ spiegel.de##.article-section > [-abp-properties='margin-right: 17px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 18px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 19px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 1em;']
+spiegel.de##.article-section > [-abp-properties='margin-right: 7px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 8px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 9px;']
 focus.de##.articleSeparator + * > [-abp-properties='border*; display: block;']
@@ -7731,6 +7734,7 @@ experto.de##.artikelmain > [-abp-properties='cursor: pointer']
 tvspielfilm.de##.aside > [-abp-properties='margin-bottom: 13px;']
 caravaning.de##.basicteaser + [-abp-properties='text-align: center;']
 fem.com##.block-type-content-grid > [-abp-properties='cursor: pointer;']
+focus.de##.block.grid_4 > [-abp-properties='left: 17px;']
 focus.de##.block.grid_4 > [-abp-properties='left: 18px;']
 focus.de##.block.grid_4 > [-abp-properties='left: 19px; position: relative;']
 focus.de##.block.grid_4 > [-abp-properties='left: 19px;']
@@ -8176,6 +8180,7 @@ welt.de##[-abp-properties='left: 45px;'] > img
 finanzen.net##[-abp-properties='left: 46*px;']
 nnn.de,prignitzer.de,svz.de##[-abp-properties='left: 46px;']
 prosiebenmaxx.de,welt.de##[-abp-properties='left: 46px;'] > img
+finanzen.net##[-abp-properties='left: 47*px;']
 planetsnow.de,prosiebenmaxx.de,welt.de##[-abp-properties='left: 47px;']
 e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='left: 48px;']
 e-mountainbike.com,elektrobike-online.com,finanzen.net,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='left: 49px;']
@@ -8245,6 +8250,7 @@ mtb-news.de##[-abp-properties='left: 875px; margin-left: 300px; position: absolu
 focus.de##[-abp-properties='left: 88*px;']
 focus.de##[-abp-properties='left: 89*px;']
 menshealth.de##[-abp-properties='left: 89px; position: relative;']
+finanzen.net##[-abp-properties='left: 89px;']
 gamepro.de,gamestar.de,runnersworld.de,spox.com##[-abp-properties='left: 9*px; position: absolute; top: *px;']
 abendzeitung-muenchen.de,ran.de##[-abp-properties='left: 9*px; position: absolute; top: 1*px;']
 hoerzu.de##[-abp-properties='left: 9*px; position: absolute; top: 9*px; z-index: 10*;']
@@ -8493,6 +8499,7 @@ focus.de##[-abp-properties='margin-left: 342px;']
 boerse.de##[-abp-properties='margin-left: 34px;']
 focus.de,lustich.de##[-abp-properties='margin-left: 35*px;']
 pcwelt.de##[-abp-properties='margin-left: 35px;']
+focus.de##[-abp-properties='margin-left: 36*px;']
 boerse.de,hoerzu.de,ran.de##[-abp-properties='margin-left: 36px;']
 hoerzu.de##[-abp-properties='margin-left: 37px;']
 wetter.com##[-abp-properties='margin-left: 400px; padding-left: 16px;']
@@ -8518,10 +8525,12 @@ lustich.de##[-abp-properties='margin-left: 49px;']
 pcgames.de##[-abp-properties='margin-left: 4px; position: relative;']
 pcwelt.de##[-abp-properties='margin-left: 4px;'] > img
 woxikon.de##[-abp-properties='margin-left: 50*px;']
+finanzen.net##[-abp-properties='margin-left: 52*px;']
 finanzen.net##[-abp-properties='margin-left: 53*px;']
 finanzen.net##[-abp-properties='margin-left: 54*px;']
 finanzen.net##[-abp-properties='margin-left: 541px;']
 finanzen.net##[-abp-properties='margin-left: 56px;']
+finanzen.net##[-abp-properties='margin-left: 58px;']
 prosiebenmaxx.de##[-abp-properties='margin-left: 6.1em;']
 finanzen.net##[-abp-properties='margin-left: 60px;']
 finanzen.net##[-abp-properties='margin-left: 61px;']
@@ -8551,7 +8560,7 @@ finanzen.net##[-abp-properties='margin-left: 84*px;']
 finanzen.net##[-abp-properties='margin-left: 85*px;']
 pcwelt.de##[-abp-properties='margin-left: 8px;'] > img
 runnersworld.de##[-abp-properties='margin-left: 94*px;']
-finanzen.net##[-abp-properties='margin-left: 95*px;']
+finanzen.net,pcwelt.de##[-abp-properties='margin-left: 95*px;']
 finanzen.net##[-abp-properties='margin-left: 950px; position: fixed;']
 meinestadt.de,pcwelt.de##[-abp-properties='margin-left: 96*px;']
 pcwelt.de##[-abp-properties='margin-left: 97*px;']
@@ -9326,4 +9335,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: P4uXP+dc/nvFeoS+YAridQ
+! Checksum: QZJxWROslvJfP6hurw6YBA
