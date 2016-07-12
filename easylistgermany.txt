@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607120614
+! Version: 201607121741
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Jul 2016 06:14 UTC
+! Last modified: 12 Jul 2016 17:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -9026,8 +9026,7 @@ prosiebenmaxx.de##div[align="center"][style="color: #000000;"] + div + [-abp-pro
 @@||s.bs.to/js/jquery.js|$script,domain=~board.bs.to|bs.to
 @@||s.bs.to/js/main.min.js|$script,domain=~board.bs.to|bs.to
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
-@@||sascdn.com/diff/*/pages/$script,domain=hoerzu.de
-@@||sascdn.com/diff/*/pages/derwesten.js$domain=derwesten.de
+@@||sascdn.com/diff/*/pages/$script,domain=derwesten.de|hoerzu.de
 @@||sascdn.com/diff/video/$script,domain=kleinezeitung.at
 @@||sascdn.com/video/$script,domain=kleinezeitung.at
 @@||saugking.net/css/ads.css
@@ -9335,4 +9334,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: QZJxWROslvJfP6hurw6YBA
+! Checksum: e2JjA40dSDILFucMJeBDgQ
