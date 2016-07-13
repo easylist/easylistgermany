@@ -427,11 +427,13 @@ ruhrbarone.de###headContainer
 scdhfk-handball.de###headRightCommercials
 wunschliste.de###head_banner
 fxempire.de###head_banners
+finanzen.net###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + a > img
 finanzen.net###header + * + * + * + * + * + * + * + * + * + * + * + * + a > img
 finanzen.net###header + * + * + * + * + * + * + * + * + * + * + * + a > img
 finanzen.net###header + * + * + * + * + * + * + * + * + a > img
 finanzen.net###header + * + * + * + * + * + a > img
 tvtoday.de###header + * + * + * + * + div > span > img
+pcwelt.de###header + * + * + * + div > a > img
 gamestar.de###header + style + div + div[id]
 gamestar.de###header + style + div[id]
 gamersplus.de###header > a:first-child:last-child
@@ -3688,6 +3690,7 @@ spiegel.de##.article-section > [-abp-properties='margin-right: 17px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 18px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 19px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 1em;']
+spiegel.de##.article-section > [-abp-properties='margin-right: 6px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 7px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 8px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 9px;']
@@ -3698,6 +3701,7 @@ experto.de##.artikelmain > [-abp-properties='cursor: pointer']
 tvspielfilm.de##.aside > [-abp-properties='margin-bottom: 13px;']
 caravaning.de##.basicteaser + [-abp-properties='text-align: center;']
 fem.com##.block-type-content-grid > [-abp-properties='cursor: pointer;']
+focus.de##.block.grid_4 > [-abp-properties='left: 15px;']
 focus.de##.block.grid_4 > [-abp-properties='left: 17px;']
 focus.de##.block.grid_4 > [-abp-properties='left: 18px;']
 focus.de##.block.grid_4 > [-abp-properties='left: 19px; position: relative;']
@@ -4146,6 +4150,7 @@ nnn.de,prignitzer.de,svz.de##[-abp-properties='left: 46px;']
 prosiebenmaxx.de,welt.de##[-abp-properties='left: 46px;'] > img
 finanzen.net##[-abp-properties='left: 47*px;']
 planetsnow.de,prosiebenmaxx.de,welt.de##[-abp-properties='left: 47px;']
+finanzen.net##[-abp-properties='left: 48*px;']
 e-mountainbike.com,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='left: 48px;']
 e-mountainbike.com,elektrobike-online.com,finanzen.net,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de##[-abp-properties='left: 49px;']
 pcwelt.de##[-abp-properties='left: 4px; position: relative;']
@@ -4465,6 +4470,7 @@ focus.de,lustich.de##[-abp-properties='margin-left: 35*px;']
 pcwelt.de##[-abp-properties='margin-left: 35px;']
 focus.de##[-abp-properties='margin-left: 36*px;']
 boerse.de,hoerzu.de,ran.de##[-abp-properties='margin-left: 36px;']
+focus.de##[-abp-properties='margin-left: 37*px;']
 hoerzu.de##[-abp-properties='margin-left: 37px;']
 wetter.com##[-abp-properties='margin-left: 400px; padding-left: 16px;']
 pcwelt.de##[-abp-properties='margin-left: 40px;']
@@ -4489,6 +4495,7 @@ lustich.de##[-abp-properties='margin-left: 49px;']
 pcgames.de##[-abp-properties='margin-left: 4px; position: relative;']
 pcwelt.de##[-abp-properties='margin-left: 4px;'] > img
 woxikon.de##[-abp-properties='margin-left: 50*px;']
+finanzen.net##[-abp-properties='margin-left: 51*px;']
 finanzen.net##[-abp-properties='margin-left: 52*px;']
 finanzen.net##[-abp-properties='margin-left: 53*px;']
 finanzen.net##[-abp-properties='margin-left: 54*px;']
@@ -4523,7 +4530,7 @@ focus.de##[-abp-properties='margin-left: 83px;']
 finanzen.net##[-abp-properties='margin-left: 84*px;']
 finanzen.net##[-abp-properties='margin-left: 85*px;']
 pcwelt.de##[-abp-properties='margin-left: 8px;'] > img
-runnersworld.de##[-abp-properties='margin-left: 94*px;']
+pcwelt.de,runnersworld.de##[-abp-properties='margin-left: 94*px;']
 finanzen.net,pcwelt.de##[-abp-properties='margin-left: 95*px;']
 finanzen.net##[-abp-properties='margin-left: 950px; position: fixed;']
 meinestadt.de,pcwelt.de##[-abp-properties='margin-left: 96*px;']
