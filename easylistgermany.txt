@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607131652
+! Version: 201607131656
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Jul 2016 16:52 UTC
+! Last modified: 13 Jul 2016 16:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -8617,7 +8617,6 @@ unixboard.de##[-abp-properties='max-width: 12*px; position: relative; text-align
 donnerwetter.de,nickles.de,pixelio.de,tabtech.de##[-abp-properties='max-width: 160px;']
 abacho.de,epochtimes.de,fanfiktion.de,formel1.de,fremdwort.de,inside-handy.de,motorsport-total.com,news.de,quoka.de##[-abp-properties='max-width: 300px;']
 autozeitung.de##[-abp-properties='max-width: 30em;']
-general-anzeiger-bonn.de##[-abp-properties='max-width: 620px;']
 fanfiktion.de,spox.com##[-abp-properties='max-width: 728px;']
 ran.de##[-abp-properties='max-width: 940px;']
 epochtimes.de##[-abp-properties='max-width: 970px;']
@@ -9342,4 +9341,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: mFoJVuenwtv7nXjdj9moxQ
+! Checksum: +XXHXHHz5DJdyklsN3B+cw
