@@ -2194,12 +2194,14 @@
 @@||tellows.de^$genericblock,generichide
 ||2mdn.net^$~object-subrequest,domain=notebookcheck.com
 ||360yield.com^$domain=notebookcheck.com
+||a.twiago.com^$domain=quoka.de
 ||ad-emea.doubleclick.net^$domain=notebookcheck.com
 ||ad-srv.net^$domain=notebookcheck.com
 ||ad.71i.de^$domain=notebookcheck.com
 ||ad.de.doubleclick.net^$~object-subrequest,domain=notebookcheck.com
 ||ad.doubleclick.net^$domain=notebookcheck.com
 ||adform.net^$domain=notebookcheck.com
+||adheart.de^$domain=quoka.de
 ||adition.com^$domain=notebookcheck.com
 ||adnet.de^$domain=tellows.de
 ||adnxs.com^$domain=notebookcheck.com
@@ -2234,7 +2236,7 @@
 ||kka.agitos.de^$domain=notebookcheck.com
 ||moatads.com^$domain=notebookcheck.com
 ||mookie1.com^$domain=notebookcheck.com
-||mpnrs.com^$domain=notebookcheck.com
+||mpnrs.com^$domain=notebookcheck.com|quoka.de
 ||oadts.com^$domain=quoka.de
 ||pagead2.googlesyndication.com^$domain=notebookcheck.com
 ||partner.googleadservices.com^$domain=notebookcheck.com|quoka.de
