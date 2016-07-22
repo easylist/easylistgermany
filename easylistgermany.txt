@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607210922
+! Version: 201607220649
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Jul 2016 09:22 UTC
+! Last modified: 22 Jul 2016 06:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -189,6 +189,7 @@ _woz_banner_vote.
 ###cnt_bgwerbung
 ###cont-werb
 ###content_werbung
+###footerwerbung
 ###forumformwerbung
 ###freikarte_layer
 ###gonamicerror
@@ -3849,12 +3850,14 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 @@||tellows.de^$genericblock,generichide
 ||2mdn.net^$~object-subrequest,domain=notebookcheck.com
 ||360yield.com^$domain=notebookcheck.com
+||a.twiago.com^$domain=quoka.de
 ||ad-emea.doubleclick.net^$domain=notebookcheck.com
 ||ad-srv.net^$domain=notebookcheck.com
 ||ad.71i.de^$domain=notebookcheck.com
 ||ad.de.doubleclick.net^$~object-subrequest,domain=notebookcheck.com
 ||ad.doubleclick.net^$domain=notebookcheck.com
 ||adform.net^$domain=notebookcheck.com
+||adheart.de^$domain=quoka.de
 ||adition.com^$domain=notebookcheck.com
 ||adnet.de^$domain=tellows.de
 ||adnxs.com^$domain=notebookcheck.com
@@ -3889,7 +3892,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||kka.agitos.de^$domain=notebookcheck.com
 ||moatads.com^$domain=notebookcheck.com
 ||mookie1.com^$domain=notebookcheck.com
-||mpnrs.com^$domain=notebookcheck.com
+||mpnrs.com^$domain=notebookcheck.com|quoka.de
 ||oadts.com^$domain=quoka.de
 ||pagead2.googlesyndication.com^$domain=notebookcheck.com
 ||partner.googleadservices.com^$domain=notebookcheck.com|quoka.de
@@ -4139,6 +4142,7 @@ spielaffe.de###adv_skyscraper_pos
 pennercity.de###advert
 gloria.tv###advertisement
 loipenpark.de,traumpalast.de###advertising
+quoka.de###advlft
 gofeminin.de###af_columnPubLabel
 apfeleimer.de###af_foot
 computerbase.de###afc-box
@@ -4177,6 +4181,7 @@ falk.de###bahn
 hd-vidz.net###ball
 kress.de###banderole
 anderes-wort.de,apotheke-adhoc.de,bos-fahrzeuge.info,chaoz.ws,cine4home.de,ehrensenf.de,eisenbahn-kurier.de,elektrischer-reporter.de,fettspielen.de,ff-online.com,forum.worldofplayers.de,frischauf-gp.de,gamekeyfinder.de,gamingjunkies.de,handballworld.com,holidaycheck.at,holidaycheck.ch,holidaycheck.de,horseweb.de,isarszene.de,it-sa.de,kath.ch,koelschwasser.eu,meproxsoft.de,neuigkeitendienst.com,rollingplanet.net,see-online.info,sodbrennen-welt.de,softguide.de,suxedoo.ch,vhs-ol.de,we-mod-it.com,xp-antispy.org###banner
+donnerwetter.de###banner-container
 macgadget.de###banner-floater
 sportnews.bz###banner-leaderboard
 fremdwort.de###banner-rectangle
@@ -4807,6 +4812,7 @@ fussballtransfers.com###pub-468x60
 fussballtransfers.com###pub-728x90
 fussballtransfers.com###pub-mini
 quotenmeter.de###qm-content-box > div[style="margin-top:0;"]:last-child > div[style="margin:0 0 15px 8px; float:left; position:relative; width:334px;"]:first-child
+fanfiktion.de###qql
 aiobase.com###quickLoginBox + center + style + div:last-child
 aiobase.com###quickLoginBox + style + div:last-child
 aol.de###rA
@@ -5217,8 +5223,10 @@ oxygen-scene.com##.adoxygen
 baronbuff.de##.adp_pls
 20min.ch,250kb.de,app-kostenlos.de,arbeitszeugnisgenerator.de,bild.de,channelpartner.de,dhb.de,eintracht.de,erdbeerlounge.de,fischkopf.de,focus.de,giga.de,helpster.de,israelnetz.com,mtv.de,playmassive.de,tageblatt.lu,tecchannel.de,tus-n-luebbecke.de,viamichelin.at,viamichelin.ch,worldofminecraft.eu,zdnet.de##.ads
 psychic.de##.ads5
+e-hausaufgaben.de##.adscontntad
 duden.de##.adsense
 skodacommunity.de##.adsenseContainer + div[align="center"]
+e-hausaufgaben.de##.adswallpapr
 preisvergleich.de##.adswsk
 tech-blog.net##.adsxtrm
 hierspielen.com##.adtitle
@@ -5327,7 +5335,7 @@ macmagazin.de##.banner-sidebar-2
 magistrix.de,moviepilot.de##.banner-skyscraper
 brixner.info##.banner-square
 ebay-kleinanzeigen.de##.banner-supersize
-xaver.de##.banner-top
+donnerwetter.de,xaver.de##.banner-top
 outdoor-magazin.com##.banner1
 digitalvideoschnitt.de,phpforum.de##.banner468x60
 digitalvideoschnitt.de##.banner728x90forumDV
@@ -5395,6 +5403,7 @@ energie-fachberater.de##.blockBanner
 readmore.de##.block[href^="http://www.amazon.de/"][href*="tag=readmore-21"]
 1a-immobilienmarkt.de##.bmi_bottom_layer
 share-tube.eu##.bn_red_message
+quoka.de##.bnr-wrp
 moviez.to##.bonus
 echo-online.de##.bottom-buttons
 aerzteblatt.de##.bottomBanner
@@ -5458,6 +5467,7 @@ golem.de##.cluster-header + div[style="margin:15px 0; min-height:266px;"]
 pooltrax.com##.cmc2
 cosmiq.de##.cmsbox_iq_qa_show_content_below_question
 quoka.de##.cnt > div[style="margin: 0px 0px 0px 0px; min-height:90px; padding: 5px 0;"]
+quoka.de##.cnt-rgt
 finanzen.net##.coW[style="background-color: #009DE0;"]
 finanzen.ch##.coba_homepage_topflop
 menshealth.de##.col-sm-4.col-md-4 > .h4 + * + * > img
@@ -6044,7 +6054,7 @@ lokalisten.de##.skyScraper
 t-online.de##.skybannerWrapper
 internet-sms.com##.skybg
 spiele-kostenlos-online.de##.skycraper
-ak-kurier.de,auto-motor-und-sport.de,buffed.de,bvb.de,chat4free.de,dmax.de,dynamo-dresden.de,erotikchat4free.de,freechat.de,gamesaktuell.de,genderblog.de,gentleman-blog.de,jetztspielen.de,kanu.de,magistrix.de,nonstopnews.de,nr-kurier.de,pcgames.de,spielefilmetechnik.de,spielen.de,swoodoo.com,tabtech.de,techno4ever.fm,tsv1860.de,videogameszone.de,ww-kurier.de##.skyscraper
+ak-kurier.de,auto-motor-und-sport.de,buffed.de,bvb.de,chat4free.de,dialo.de,dmax.de,dynamo-dresden.de,erotikchat4free.de,freechat.de,gamesaktuell.de,genderblog.de,gentleman-blog.de,jetztspielen.de,kanu.de,magistrix.de,nonstopnews.de,nr-kurier.de,pcgames.de,spielefilmetechnik.de,spielen.de,swoodoo.com,tabtech.de,techno4ever.fm,tsv1860.de,videogameszone.de,ww-kurier.de##.skyscraper
 fettspielen.de##.skyscraper-container
 b2run.de##.skyscraperContainer
 kidszone.de##.skyscraper_background
@@ -6882,6 +6892,7 @@ golem.de##article > .formatted > p + div[style="margin:15px 0; min-height:266px;
 yellingnews.com##article > .teaser + .related.tm
 schulzeux.de##article > .vi_a_79
 maxwireless.de##aside a[target="_blank"][onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"]
+weristdeinfreund.de##aside[id^="banner"]
 gamestar.de##blockquote > p > strong + a[href^="http://www.amazon.de/"]
 trackfox.com,trackfox2.com##body
 eye-games.com##body > #header:first-child + #wrapper
@@ -7183,6 +7194,7 @@ hitradio.com.na##div[style="position: relative; z-index: 1; width: 240px; height
 kochbar.de##div[style="position: relative;margin: 0;padding: 0;border: 0;width: 300px;height: 238px;background-color:#FFF;"]
 astronews.com##div[style="position:absolute; top:115px; left:925px; width:300px"]
 vibe.cd##div[style="position:absolute; top:173px; left:80px; z-index:2;"]
+weristdeinfreund.de##div[style="position:absolute; top:5px; left:0px; text-align:center; width:100%; max-width:1000px; height:90px; overflow:hidden;"]
 webradio.de##div[style="position:absolute;left:322px;top:-3px;padding:1px;background-color:#2481BC"]
 wallstreet-online.de##div[style="position:absolute;right:5px;bottom:4px;width: 110px;height: 28px;overflow: hidden;"]
 presseportal.de##div[style="position:fixed;left:980px;top:10px;color:#9B9A9D;font-size:10px"]
@@ -7211,6 +7223,7 @@ welt.de##div[style="width: 300px; height: 250px;"]
 104.6rtl.com##div[style="width: 300px; height: 255px; background-color: white;"]
 lpgforum.de,pkw-forum.de##div[style="width: 300px; min-height: 250px; margin-bottom: 15px;"]
 rollertuningpage.de##div[style="width: 310px; float:right;"]
+formel1.de##div[style="width: 33.333%;"] > div[style="margin-top: 20px;"]
 strafbuch.de##div[style="width: 468px;height: 60px;overflow: hidden;float: right"]
 abendzeitung-muenchen.de##div[style="width: 510 Px; margin-bottom: 50 Px; "] > p:first-child
 pressebox.de##div[style="width: 590px; height: 109px;"]
@@ -7344,7 +7357,9 @@ tsv1860ro-fussball.de##img[style="left: 0px; top: 1100px; width: 400px; height: 
 tsv1860ro-fussball.de##img[style="left: 0px; top: 749px; width: 200px; height: 134px;"]
 tsv1860ro-fussball.de##img[style="left: 33px; top: 577px; width: 134px; height: 167px;"]
 excitingcommerce.de##img[style="margin: 5px 5px 0px 0px; border-width:0px; align="]
-autozeitung.de##img[style="width: 160px; height: 600px; max-width: 160px; max-height: 600px;"]
+autozeitung.de##img[style="width: 160px; height: 600px; max-width: 160px; max-height: 600px; margin-left: 0px;"]
+autozeitung.de,donnerwetter.de##img[style="width: 160px; height: 600px; max-width: 160px; max-height: 600px;"]
+autozeitung.de##img[style="width: 300px; height: 600px; max-width: 300px; max-height: 600px; margin-left: 0px;"]
 filestore.to##img[style="width:728px;"]
 bluewin.ch##img[title="Anzeige"]
 looki.de##img[usemap="#branding"]
@@ -8360,6 +8375,7 @@ gamesaktuell.de##[-abp-properties='margin-left: -4px;']
 pcgames.de##[-abp-properties='margin-left: -5px; position: absolute; top*;']
 pcgames.de##[-abp-properties='margin-left: -5px;']
 pcwelt.de##[-abp-properties='margin-left: 1000px !important;']
+formel1.de##[-abp-properties='margin-left: 1010px; max-height: 46.*em; max-width: 300.1px;']
 comunio.de##[-abp-properties='margin-left: 102px;']
 elektrobike-online.com##[-abp-properties='margin-left: 103*px']
 planetsnow.de##[-abp-properties='margin-left: 103*px; position: absolute; top: 8*em;']
@@ -8579,16 +8595,36 @@ autozeitung.de,de.filsh.net,dialo.de,donnerwetter.de,e-hausaufgaben.de,fanfiktio
 weristdeinfreund.de##[-abp-properties='max-height: 20.8em; max-width: 80.8em;']
 news.de##[-abp-properties='max-height: 240px; max-width: 52em;']
 epochtimes.de##[-abp-properties='max-height: 25*px; max-width: 300px;']
+quoka.de##[-abp-properties='max-height: 250.*px; max-width: 302px;']
+donnerwetter.de##[-abp-properties='max-height: 250.1px; max-width: 21.429em;']
+formel1.de##[-abp-properties='max-height: 250.1px; max-width: 23.*em;']
+infranken.de,tabtech.de##[-abp-properties='max-height: 250.1px; max-width: 25em;']
+pixelio.de##[-abp-properties='max-height: 250.1px; max-width: 28em;']
+fremdwort.de##[-abp-properties='max-height: 250.1px; max-width: 60.625em;']
+nickles.de##[-abp-properties='max-height: 250.1px; max-width: 66.7em;']
+formel1.de##[-abp-properties='max-height: 250.1px; max-width: 74.*em;']
+motorsport-total.com##[-abp-properties='max-height: 250.1px; max-width: 80.9em;']
+pixelio.de##[-abp-properties='max-height: 250.1px; max-width: 88.2em;']
+autozeitung.de##[-abp-properties='max-height: 250.1px; max-width: 97em; position: relative; width: 1140px;']
 epochtimes.de,quoka.de,tvinfo.de##[-abp-properties='max-height: 250px; max-width: 300px;']
 quoka.de##[-abp-properties='max-height: 250px; max-width: 301px;']
 quoka.de,tvinfo.de##[-abp-properties='max-height: 250px; max-width: 800px;']
 quoka.de##[-abp-properties='max-height: 250px; max-width: 970px;']
 autozeitung.de,donnerwetter.de,formel1.de,fremdwort.de,infranken.de,motorsport-total.com,news.de,nickles.de,pixelio.de,quoka.de,tabtech.de##[-abp-properties='max-height: 250px;']
+abacho.de##[-abp-properties='max-height: 300.01px; max-width: 800px;']
+inside-handy.de##[-abp-properties='max-height: 300.1px; max-width: 76.7em;']
+infranken.de,tabtech.de##[-abp-properties='max-height: 300.1px; max-width: 80.9em;']
 epochtimes.de##[-abp-properties='max-height: 300px; max-width: 9*px;']
 epochtimes.de##[-abp-properties='max-height: 300px; max-width: 966px;']
 abacho.de,infranken.de,inside-handy.de,tabtech.de##[-abp-properties='max-height: 300px;']
+autozeitung.de##[-abp-properties='max-height: 31em; max-width: 30.1em; min-height: 31em;']
+fremdwort.de##[-abp-properties='max-height: 37.5em; max-width: 300.1px;']
 weristdeinfreund.de##[-abp-properties='max-height: 50em; max-width: 25em;']
+inside-handy.de,motorsport-total.com,nickles.de,tabtech.de##[-abp-properties='max-height: 50em; max-width: 300.1px;']
+infranken.de##[-abp-properties='max-height: 50em; max-width: 300px;']
+pixelio.de##[-abp-properties='max-height: 55em; max-width: 160.1px;']
 epochtimes.de,quoka.de,tvinfo.de##[-abp-properties='max-height: 600px; max-width: 160px;']
+abacho.de##[-abp-properties='max-height: 600px; max-width: 300.01px;']
 epochtimes.de##[-abp-properties='max-height: 600px; max-width: 300px;']
 quoka.de##[-abp-properties='max-height: 601px; max-width: 161px;']
 e-hausaufgaben.de##[-abp-properties='max-height: 90px; max-width: 45.5em;']
@@ -8698,6 +8734,7 @@ pcwelt.de##aside > li > a > img
 welt.de##div > [-abp-properties='margin-right: auto; margin-top: 10px;'] > img
 welt.de##div > [-abp-properties='margin-top: 10px;']:last-child > img
 prosiebenmaxx.de##div[align="center"][style="color: #000000;"] + div + [-abp-properties='text-align: center;']
+donnerwetter.de##div[id^="plista_widget_"] [-abp-properties='max-width: 199px;']
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist.txt ***
 @@/adpop.js$domain=freenet.de
@@ -9317,4 +9354,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: evBan+7Lj4aeB4dd1uylBQ
+! Checksum: WP0DEp5AV6SXsnsDaEEA7A
