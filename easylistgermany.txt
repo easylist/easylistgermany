@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607220649
+! Version: 201607230851
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 22 Jul 2016 06:49 UTC
+! Last modified: 23 Jul 2016 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
@@ -5187,6 +5187,7 @@ wetter.com##.\[.rectangle-home.\]
 gullipics.com##.a-zone
 winfuture.de##.a_box
 4cheaters.de##.aab-box
+islamische-zeitung.de##.aas_whole_wrapper
 blogg.de##.ab-item[tabindex="10"]
 diaware.de##.abcde_link
 diaware.de##.abcde_text
@@ -6007,6 +6008,7 @@ rtl.de##.rtlde-medium-rectangle
 ebay.de##.rtmad
 com-magazin.de##.s2teaserboxes-typ-4
 com-magazin.de##.s2teaserboxes-typ-6
+islamische-zeitung.de##.sb-widget
 gamepro.de##.sbpromotion
 schulterglatze.de##.schulterglatze_leaderboard
 hotfrog.at,hotfrog.ch,hotfrog.de##.search-middle-adblock
@@ -9354,4 +9356,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: WP0DEp5AV6SXsnsDaEEA7A
+! Checksum: b6mq8M/Nm/LwTOQkTkF3fg
