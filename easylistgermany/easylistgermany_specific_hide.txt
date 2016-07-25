@@ -172,6 +172,7 @@ duckcrypt.info###banner_bottom
 persoenlich.com###banner_center2
 nrhz.de###banner_container_rc
 geemag.de###banner_content
+juedische-allgemeine.de###banner_leaderboard
 freizeitparks.de,suxedoo.ch###banner_left
 nrhz.de###banner_left_container_lc
 tageblatt.com.ar###banner_lufthansa_apaisado
@@ -185,6 +186,7 @@ freizeitparks.de,laufen.de,pixelio.de###banner_right
 gitschtaler.at###banner_sidebar
 radiorst.de,scpaderborn07.de###banner_skyscraper
 hallescherfc.de,linguee.de,versicherungsjournal.de,wahretabelle.de,webfail.at###banner_top
+juedische-allgemeine.de###banner_wideskycraper
 rtl-west.de,rtlnord.de###banner_wrapper
 haustechnikdialog.de###bannerdiv
 radiohamburg.de###bannerleiste
@@ -1241,7 +1243,7 @@ gamepro.de,gamestar.de##.amz
 andreziegler.de##.amz_main
 winfuture.de##.amzwgt
 sdx.cc##.announce_text
-biallo.de,computerbild.de,deutsche-startups.de,epochtimes.de,fremdwort.de,genderblog.de,gesetzlichekrankenkassen.de,heinertown.de,heise.de,lehrerfreund.de,medizin-netz.de,motorsport-total.com,moviejones.de,nwzonline.de,projektmagazin.de,rtl.de,saarbruecker-zeitung.de,sportal.de,telemedicus.info,tweakpc.de,welt.de,wer-kennt-wen.de,wetter.com,zdnet.de,zeit.de##.anzeige
+biallo.de,computerbild.de,deutsche-startups.de,epochtimes.de,fremdwort.de,genderblog.de,gesetzlichekrankenkassen.de,heinertown.de,heise.de,juedische-allgemeine.de,lehrerfreund.de,medizin-netz.de,motorsport-total.com,moviejones.de,nwzonline.de,projektmagazin.de,rtl.de,saarbruecker-zeitung.de,sportal.de,telemedicus.info,tweakpc.de,welt.de,wer-kennt-wen.de,wetter.com,zdnet.de,zeit.de##.anzeige
 motorsport-total.com##.anzeige + *
 designtagebuch.de##.anzeige-links
 designtagebuch.de##.anzeige-mittig
@@ -1315,7 +1317,9 @@ radio24.ch##.banner[style="height:90px;text-align:center;background:none;"]
 sexgeschichten.com##.banner_120x240
 sexgeschichten.com##.banner_120x60
 sexgeschichten.com##.banner_120x600
+juedische-allgemeine.de##.banner_200x200
 sexgeschichten.com##.banner_300x640
+juedische-allgemeine.de##.banner_531x316_in
 softonic.de##.banner_box
 canoo.net,gq-magazin.de##.banner_container
 rtl-hessen.de##.banner_fullsize
