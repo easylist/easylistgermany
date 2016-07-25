@@ -34,6 +34,7 @@ teltarif.de###LxFloatShop
 mopo.de###MOPO-ad-uap-super-banner
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div + div[class]
+ciao.de###MainRightColumn
 torrent.to###Mainframe > div > a > img
 werkzeug-news.de###MitteRechts > .infoblock
 abacho.de###MomondoWidgetSidebar
@@ -973,6 +974,8 @@ myspass.de###target_banner_wrapper_helper
 endungen.de###tblAdd2
 projektmanagementhandbuch.de###tc_banner_header
 boote-forum.de###td_threadstatusicon_AD + td[align="center"]
+ciao.de###tealium-leaderboard
+ciao.de###tealium-mpu-bottom
 stadtradio-goettingen.de###teaser a[href^="http://www.puk-minicar.de"]
 stadtradio-goettingen.de###teaser a[href^="http://www.syndicat.com"]
 chefkoch.de###teaser-top-partner
