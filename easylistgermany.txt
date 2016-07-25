@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607251828
+! Version: 201607251853
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 25 Jul 2016 18:28 UTC
+! Last modified: 25 Jul 2016 18:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -423,7 +423,6 @@ lerunia.de#@##BodyAd
 kids.t-online.de#@##Tadspacehead
 egofm.de#@##WerbungObenRechts8_GesamtDIV
 benzinpreise.net#@##ad-container
-sat1.de#@##ad-fullbanner-outer
 refline.ch#@##adBox
 hockeyweb.de#@##adFrame
 weser-kurier.de#@##adHeader
@@ -9383,4 +9382,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: sg5uXTIUy9FISKowX6O/Ew
+! Checksum: i1ieh7U+uMELbNkSncp8ug
