@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607251900
+! Version: 201607251908
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 25 Jul 2016 19:00 UTC
+! Last modified: 25 Jul 2016 19:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4077,6 +4077,7 @@ teltarif.de###LxFloatShop
 mopo.de###MOPO-ad-uap-super-banner
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div
 torrent.to###MainMenu:first-child + div + div > div:first-child + div + div + div[class]
+ciao.de###MainRightColumn
 torrent.to###Mainframe > div > a > img
 werkzeug-news.de###MitteRechts > .infoblock
 abacho.de###MomondoWidgetSidebar
@@ -5016,6 +5017,8 @@ myspass.de###target_banner_wrapper_helper
 endungen.de###tblAdd2
 projektmanagementhandbuch.de###tc_banner_header
 boote-forum.de###td_threadstatusicon_AD + td[align="center"]
+ciao.de###tealium-leaderboard
+ciao.de###tealium-mpu-bottom
 stadtradio-goettingen.de###teaser a[href^="http://www.puk-minicar.de"]
 stadtradio-goettingen.de###teaser a[href^="http://www.syndicat.com"]
 chefkoch.de###teaser-top-partner
@@ -9385,4 +9388,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Ew2bKnSVswDgGFcMSN3iTQ
+! Checksum: JvKFiwAXdpve4LgdAtCVwQ
