@@ -351,11 +351,13 @@ drehscheibe-foren.de,drehscheibe-online.de###dsBanner
 800gs.de###duonix
 onlinewebservice4.de###dwindow
 billiger.de###ebay_footer_widget_ajax
+fremdwort.de###elgnatcer
 report-k.de###empf
 kueche1.com###empfbox
 hot-warez.org###error
 deutsche-mittelstands-nachrichten.de###euroconf-banner
 immobilo.de###expose-promo-links-wrapper
+fremdwort.de###ezisgib
 spielen.com###fakebody
 newsroom.de###far_right > div[style="height:600px"]
 3dl.tv###fb-root + script + center + br + .content_box[cellspacing="1"][cellpadding="0"] > tbody:first-child:last-child
@@ -988,6 +990,7 @@ tsvbodnegg.de###text-5
 mtb-news.de###text-6 > div > div > img
 namibia-hunter.at###text-9.footer-box
 wirtschaftslexikon.gabler.de###textBannerContainer
+fremdwort.de###thgirrennab
 fundanalyzer.de,fundresearch.de###ticker
 vfl-gummersbach.de###ticketmaster
 peeplo.de###tips-share
@@ -1670,6 +1673,7 @@ transfermarkt.at,transfermarkt.ch,transfermarkt.de##.hide-for-small[style="heigh
 deutsche-startups.de##.highlighted.squares
 moviebb.to##.highspeed_button
 heise.de##.hinweis_anzeige
+fremdwort.de##.hinweisad
 technic3d.com##.home > footer[style="bottom: -105px;"]:last-child > div:first-child
 tarnkappe.info##.home-bottom > #text-36
 spiegel.de##.home-link-box + * + * + * a > img[src^="http://cdn2.spiegel.de/images/image-"]
