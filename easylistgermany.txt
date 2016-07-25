@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607251939
+! Version: 201607252202
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 25 Jul 2016 19:39 UTC
+! Last modified: 25 Jul 2016 22:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56,7 +56,6 @@
 /getwerbung.
 /gigaflat.js
 /grafik/ads/*
-/Header-Werbung.
 /hier_werben.
 /image_werbung/*
 /images/_werb_
@@ -8955,6 +8954,7 @@ donnerwetter.de##div[id^="plista_widget_"] [-abp-properties='max-width: 199px;']
 @@||forum.froxlor.org^*/adsense.css
 @@||fotoschloebe.de/Werbung/$~third-party
 @@||fotostudio-katikrueger.de/werbung/$~third-party
+@@||freenet.de^$elemhide
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g-stream.in/lla2/smoothscroll.js
 @@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|zalando.de
@@ -9393,4 +9393,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: wJWN1Vrn3PHt26IpsQvEUA
+! Checksum: hvUcS2jOdewte+3hQOl5VQ
