@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607261731
+! Version: 201607261948
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Jul 2016 17:31 UTC
+! Last modified: 26 Jul 2016 19:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8510,7 +8510,6 @@ ran.de##[-abp-properties='margin-left: 19*px;']
 tvdigital.de##[-abp-properties='margin-left: 19px;']
 gamepro.de,gamestar.de,sportal.de##[-abp-properties='margin-left: 2*px; margin-top: *px;'] > img
 wetter.com##[-abp-properties='margin-left: 20*px;']
-runnersworld.de,wetter.com##[-abp-properties='margin-left: 200px;']
 abendzeitung-muenchen.de,runnersworld.de,wetter.com##[-abp-properties='margin-left: 201px;']
 abendzeitung-muenchen.de##[-abp-properties='margin-left: 202px;']
 motorradonline.de##[-abp-properties='margin-left: 20px; position: relative; width: 91*px;']
@@ -9439,4 +9438,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ePWRZjKbZFCekr6KzVG0Jw
+! Checksum: FX2qoyKRK/CcuF+Bu7lClg
