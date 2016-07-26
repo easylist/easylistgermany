@@ -102,7 +102,7 @@
 @@||banner.electronic-arts.de/www/images/*.jpg$domain=ea.com
 @@||banner.t-online.de/?advideo/*;vidas=pre_roll;$object-subrequest,domain=iam.t-online.de|mahjonggwelt.de
 @@||banner.t-online.de/crossdomain.xml$object-subrequest,domain=mahjonggwelt.de
-@@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de
+@@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de|sunsteps.org
 @@||banners.webmasterplan.com/view.asp?ref=91339&site=10830&type=html&hnb=9&js=1&th=D1E4EF&tro=F4F4F4&tre=EEEEEE&abg=CF0000$script,domain=onlinekosten.de
 @@||bauer-plus.de^*?advertiser=$subdocument,domain=abosgratis.de
 @@||berliner-zeitung-online.de/specials/ads/scripts/standard_ads.css
@@ -401,6 +401,7 @@
 @@||youradexchange.com/script/packcpm.php?r=$script,domain=bs.to
 @@||zanox-affiliate.de/images/$domain=sunsteps.org
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|gutscheindoktor.de|notenbuch24.de|preismafia.com
+@@||zanox.com/images//programs/$image,domain=sunsteps.org
 @@||zanox.com/images/programs/$domain=sunsteps.org
 ! "Matched Content" by Google (https://support.google.com/adsense/answer/6111336)
 @@||g.doubleclick.net/pagead/ads?*^slotname=3722556080^$document,subdocument,domain=kalender-365.de
