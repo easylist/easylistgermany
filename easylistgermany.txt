@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607271032
+! Version: 201607272054
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Jul 2016 10:32 UTC
+! Last modified: 27 Jul 2016 20:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -157,6 +157,7 @@ _woz_banner_vote.
 ###SSpotIMPopSlider
 ###SlimSpot_imPop_Container
 ###Werb_Postbit_Bottom
+###WerbungLinks
 ###WerbungObenRechts10_GesamtDIV
 ###WerbungObenRechts8_GesamtDIV
 ###WerbungObenRechts9_GesamtDIV
@@ -4116,6 +4117,7 @@ cio.de###TopBanner
 unixboard.de###TopRectangle
 freiepresse.de###TopWrapper
 onvista-bank.de,onvista.de###WALLPAPER
+neumarktaktuell.de###Werbung
 ww3.cad.de###WzTtDiV + table[width="100%"][border="0"]
 adhs-zentrum.de,enuresis-zentrum.de,zeitarbeit-zentrum.de###a4d1af
 adhs-zentrum.de,enuresis-zentrum.de,zeitarbeit-zentrum.de###a4d1af + div
@@ -9462,4 +9464,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: gN2s2Z7FR9mHIX+nG6aVmQ
+! Checksum: C87PikInTs4pB1NiIHdBzQ
