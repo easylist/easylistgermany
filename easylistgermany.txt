@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607272054
+! Version: 201607272100
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Jul 2016 20:54 UTC
+! Last modified: 27 Jul 2016 21:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5891,7 +5891,6 @@ ebay.de##.mrec
 meinestadt.de##.ms-promo-teaser
 meinestadt.de##.ms-structure-bar > div > div > img
 meinestadt.de##.ms-structure-bar div > img
-meinestadt.de##.ms-structure-col1 + * + * + * img
 meinestadt.de##.ms-structure-col1 + * + * > span > img
 motor-talk.de##.mtbwrapper
 express.de##.nah_box_horizonal
@@ -6850,6 +6849,7 @@ quoka.de##a[onclick^="_gaq.push(['_trackEvent',"]
 zoozle.net##a[onclick^="downloadFile('download_big', null,"]
 zoozle.net##a[onclick^="downloadFile('download_related', null,"]
 php.de##a[onclick^="pageTracker._trackPageview('/outbound/ads/"]
+meinestadt.de##a[onclick^="return xt_ad('"]
 suchen.de##a[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 prad.de##a[onclick^="trackOutboundLink(this, 'HP'"]
 filecrypt.cc##a[onclick^="var c=this;openLink('"][href="#"] > img
@@ -7876,7 +7876,6 @@ boerse-online.de##.main_right > [-abp-properties='margin-left: 10px;']
 caravaning.de##.mainad + [-abp-properties='text-align: center;']
 auto-motor-und-sport.de##.maincol > [-abp-properties='display: block; margin-left: 16px;']
 tvtoday.de##.marginContent > div[style="margin-bottom:10px;"] + span + div
-meinestadt.de##.ms-structure-col1 + * [-abp-properties='cursor: pointer;']
 meinestadt.de##.ms-structure-content > [-abp-properties='left: -7px;']
 mtb-news.de##.mtbnewsCommentAdContainer
 arcor.de##.pWrap > [-abp-properties='position: *; text-align: *; width: *px;']
@@ -9464,4 +9463,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: C87PikInTs4pB1NiIHdBzQ
+! Checksum: zVpj9VFi9MCNGDzv39Yskw
