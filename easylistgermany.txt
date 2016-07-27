@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607270618
+! Version: 201607271023
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Jul 2016 06:18 UTC
+! Last modified: 27 Jul 2016 10:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3213,6 +3213,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||radio32.ch^*/banner/
 ||radio7.de^*/tx_scwbannermanager/
 ||radioedelweiss.it/bilder_sponsoren/
+||radioholiday.it/images/*_Skyscraper_
 ||radiopilatus.ch/images/banner/
 ||radiopsr.de^*/affiliates/
 ||radioquintessenz.de/bilder/right_banner.gif
@@ -7414,7 +7415,7 @@ gamefront.de##img[width="150"][height="563"]
 gamefront.de##img[width="150"][height="600"]
 fscklog.com##img[width="160"][height="160"]
 gamefront.de##img[width="160"][height="300"]
-callofdutyplayers.de,dashitradio.de,der-postillon.com,gamefront.de,myfunlink.to,picdumps.com##img[width="160"][height="600"]
+callofdutyplayers.de,dashitradio.de,der-postillon.com,gamefront.de,myfunlink.to,picdumps.com,radioholiday.it##img[width="160"][height="600"]
 gamefront.de##img[width="180"][height="350"]
 t-online.de##img[width="209"][usemap^="#immap"]
 hitradio.com.na##img[width="220"][height="48"]
@@ -9458,4 +9459,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: /mUMSOtZvs8Ae/anVfnjAQ
+! Checksum: m/zY1qC+3SDeZEw3qvMClw
