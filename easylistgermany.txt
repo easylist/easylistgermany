@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201607280632
+! Version: 201607281654
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 28 Jul 2016 06:32 UTC
+! Last modified: 28 Jul 2016 16:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7876,7 +7876,6 @@ epochtimes.de##.large-12 [-abp-properties='max-height: 25*px; max-width: 30*px;'
 transfermarkt.de##.large-8 [-abp-properties='background-color*; border*; margin-top: 12px;']
 wetter.com##.layout > [-abp-properties='float: right;']
 pcgames.de##.limitBox > [-abp-properties='margin-left: 5px;'] > img
-klettern.de,mountainbike-magazin.de,outdoor-magazin.com##.main-left > [-abp-properties='left: 10px;']
 klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,planetsnow.de##.main-left > [-abp-properties='left: 20px;']
 klettern.de,mountainbike-magazin.de,outdoor-magazin.com##.main-left > [-abp-properties='margin-left: 16px;']
 cavallo.de,planetsnow.de##.main-left > [-abp-properties='margin-left: 17px;']
@@ -8807,7 +8806,7 @@ finanzen.net##[-abp-properties='right: -100px;']
 toyota-forum.de##[-abp-properties='text-align: center; width: 1200px;']
 abendzeitung-muenchen.de,allgemeine-zeitung.de,buerstaedter-zeitung.de,echo-online.de,finanzen.net,gala.de,gamestar.de,gelnhaeuser-tageblatt.de,giessener-anzeiger.de,hochheimer-zeitung.de,hofheimer-zeitung.de,kreis-anzeiger.de,lampertheimer-zeitung.de,lauterbacher-anzeiger.de,meinestadt.de,nnn.de,oberhessische-zeitung.de,prignitzer.de,rhein-main-presse.de,svz.de,usinger-anzeiger.de,wetter.com,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='text-align: center;'] > * > * > img
 abendzeitung-muenchen.de,allgemeine-zeitung.de,buerstaedter-zeitung.de,caravaning.de,eatsmarter.de,experto.de,gelnhaeuser-tageblatt.de,general-anzeiger-bonn.de,giessener-anzeiger.de,hochheimer-zeitung.de,hofheimer-zeitung.de,kreis-anzeiger.de,lampertheimer-zeitung.de,lauterbacher-anzeiger.de,nnn.de,oberhessische-zeitung.de,prignitzer.de,ran.de,rhein-main-presse.de,shz.de,svz.de,usinger-anzeiger.de,wetter.com,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='text-align: center;'] > * > img
-abendzeitung-muenchen.de,arcor.de,autobild.de,boerse.de,caravaning.de,eatsmarter.de,experto.de,finanzen.net,gala.de,hoerzu.de,motorradonline.de,pcwelt.de,promobil.de,ran.de,serienjunkies.de,shz.de,sixx.de,sportal.de,spox.com,tvtoday.de,wetter.com,wn.de,womenshealth.de##[-abp-properties='text-align: center;'] > img
+abendzeitung-muenchen.de,arcor.de,autobild.de,boerse.de,caravaning.de,eatsmarter.de,experto.de,finanzen.net,gala.de,hoerzu.de,motorradonline.de,pcwelt.de,promobil.de,ran.de,serienjunkies.de,shz.de,sixx.de,sportal.de,spox.com,tvtoday.de,wetter.com,wn.de##[-abp-properties='text-align: center;'] > img
 finanzen.net##[-abp-properties='text-align: right;'] > * > * > img
 finanzen.net##[-abp-properties='text-align: right;'] > * > img
 bauexpertenforum.de,ford-forum.de##[-abp-properties='top: 100px;']
@@ -9494,4 +9493,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: nvs0UspaDEvvNTJoriJ5QA
+! Checksum: 8ZnXt21p5gBBcZuemBbZBA
