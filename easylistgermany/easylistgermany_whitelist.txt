@@ -306,6 +306,7 @@
 @@||s.bs.to/js/main.min.js|$script,domain=~board.bs.to|bs.to
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
 @@||sascdn.com/diff/*/pages/$script,domain=derwesten.de|hoerzu.de
+@@||sascdn.com/diff/251/pages/finanzen.js$domain=finanzen.net
 @@||sascdn.com/diff/video/$script,domain=kleinezeitung.at
 @@||sascdn.com/video/$script,domain=kleinezeitung.at
 @@||saugking.net/css/ads.css
@@ -330,6 +331,7 @@
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/smartad.js$domain=derwesten.de|hoerzu.de|sky.de
+@@||smartadserver.com/diff/251/smartad.js$domain=finanzen.net
 @@||smartadserver.com/diff/js/smartadserver.js$domain=freestream.nmdn.net
 @@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|podcast.de|radiobob.de
 @@||smartclip.net/inpage/inpage.js
