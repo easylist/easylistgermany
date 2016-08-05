@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201608051611
+! Version: 201608051617
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Aug 2016 16:11 UTC
+! Last modified: 05 Aug 2016 16:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8577,7 +8577,7 @@ abendzeitung-muenchen.de##[-abp-properties='margin-left: 204px;']
 experto.de##[-abp-properties='margin-left: 209px;']
 motorradonline.de##[-abp-properties='margin-left: 20px; position: relative; width: 91*px;']
 motorradonline.de##[-abp-properties='margin-left: 20px; position: relative; width: 910px;']
-experto.de,welt.de##[-abp-properties='margin-left: 21*px;']
+experto.de##[-abp-properties='margin-left: 21*px;']
 tvdigital.de##[-abp-properties='margin-left: 215px; margin-top: 10px;']
 experto.de,general-anzeiger-bonn.de,ran.de,welt.de##[-abp-properties='margin-left: 22*px;']
 welt.de##[-abp-properties='margin-left: 23*px; position: relative; text-align: right;']
@@ -9487,6 +9487,7 @@ kalender-365.de#@#.adsbygoogle
 @@||internetworld.de/img/*_300x250_$image,~third-party
 @@||kramarz.ch/iws/images/banner/iws-$~third-party
 @@||social-media-hosting.com^*_120x60.jpg
+@@||welt.de/sites/default/files/rectangle-300x250-newsletter.jpg
 @@||wetter.com/layout/1/woys/300_250/300_250_$image
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist_popup.txt ***
 @@||888casino.com^$popup,domain=online-casino.de
@@ -9505,4 +9506,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: +gTzyxBAbEsmHe9xZ23nMQ
+! Checksum: dmWzh3H2lfWv2YbgidVNXg
