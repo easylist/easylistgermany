@@ -2952,8 +2952,6 @@ wuerzburger-kickers.de##div > h3 + #ais_129_wrapper
 gamona.de##div > img
 hoerzu.de##div > span > img
 formel1.de##div > style[type="text/css"] + div[id][style] > img
-hoerzu.de##div div + * > img
-hoerzu.de##div:first-child + * > img
 wetter.com##div[align="center"] + * > img
 rundumkoeln.de##div[align="center"] > #top[name="top"]:first-child + table[border="0"]:last-child
 torrent.byte.to##div[align="center"] > .BUTTON[type="SUBMIT"][onclick][value]
