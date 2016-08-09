@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201608091214
+! Version: 201608091301
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 09 Aug 2016 12:14 UTC
+! Last modified: 09 Aug 2016 13:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8929,6 +8929,7 @@ donnerwetter.de##div[id^="plista_widget_"] [-abp-properties='max-width: 199px;']
 @@||adition.com/banners/$image,object,domain=payback.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
 @@||adition.com/js/adition.js$domain=ambellis.de|mirapodo.de|mytoys.de
+@@||adition.com/js/srp.js$domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de
 @@||adition.com/js?wp_id=$script,domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
 @@||adk2.com/tags/banner.js$subdocument,domain=bs.to
@@ -9511,4 +9512,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: nTLwTnMLpkk8vJldx0ARsA
+! Checksum: 2u1M0oXe9rTd9X454B0bWQ
