@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201608081012
+! Version: 201608090712
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Aug 2016 10:12 UTC
+! Last modified: 09 Aug 2016 07:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7900,6 +7900,7 @@ welt.de##.grid_4 > [-abp-properties='margin-top: 38*px;']
 welt.de##.grid_4 > [-abp-properties='margin-top: 39*px;']
 welt.de##.grid_4 > [-abp-properties='margin-top: 400px;']
 welt.de##.grid_4 > [-abp-properties='padding-left: 10px; position: relative;']
+welt.de##.grid_4.column-2 > [-abp-properties='margin-top: 339px;']
 welt.de##.grid_4.column-2 > [-abp-properties='margin-top: 349px;']
 welt.de##.grid_4.column-2 > [-abp-properties='margin-top: 359px;']
 welt.de##.grid_4.column-2 > [-abp-properties='margin-top: 369px;']
@@ -8277,6 +8278,7 @@ wetter.com##[-abp-properties='left: 40*px;']
 transfermarkt.de##[-abp-properties='left: 409px;']
 allgemeine-zeitung.de,buerstaedter-zeitung.de,gala.de,hochheimer-zeitung.de,hofheimer-zeitung.de,lampertheimer-zeitung.de,rhein-main-presse.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='left: 40px;']
 transfermarkt.de,wetter.com##[-abp-properties='left: 41*px;']
+welt.de##[-abp-properties='left: 41.7*px;']
 sat1gold.de,welt.de##[-abp-properties='left: 41.8*px;']
 prosiebenmaxx.de,welt.de##[-abp-properties='left: 41.9*px;']
 wetter.com##[-abp-properties='left: 416px;']
@@ -8383,7 +8385,7 @@ abendzeitung-muenchen.de,echo-online.de,gala.de,ran.de,spox.com,tvdigital.de##[-
 tvdigital.de##[-abp-properties='left: 859px;']
 boerse-online.de,focus.de,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com##[-abp-properties='left: 85px;']
 abendzeitung-muenchen.de,gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,mtb-news.de,oberhessische-zeitung.de,tvdigital.de,usinger-anzeiger.de##[-abp-properties='left: 86*px;']
-mtb-news.de,ran.de##[-abp-properties='left: 87*px;']
+mtb-news.de,ran.de,welt.de##[-abp-properties='left: 87*px;']
 mtb-news.de##[-abp-properties='left: 875px; margin-left: 300px; position: absolute; top: 126px;']
 gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,tvspielfilm.de,usinger-anzeiger.de,welt.de##[-abp-properties='left: 88*px;']
 allgemeine-zeitung.de,buerstaedter-zeitung.de,echo-online.de,hochheimer-zeitung.de,hofheimer-zeitung.de,lampertheimer-zeitung.de,rhein-main-presse.de,tvspielfilm.de,welt.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='left: 89*px;']
@@ -8684,6 +8686,7 @@ wetter.com##[-abp-properties='margin-left: 77em; margin-top: 9*px; position: abs
 wetteronline.de##[-abp-properties='margin-left: 7px; margin-top: 5px; padding-top: 12px;']
 wetteronline.de##[-abp-properties='margin-left: 7px; margin-top: 6px;']
 menshealth.de##[-abp-properties='margin-left: 7px; position: relative;']
+pcwelt.de##[-abp-properties='margin-left: 805px;']
 pcwelt.de##[-abp-properties='margin-left: 806px;']
 pcwelt.de##[-abp-properties='margin-left: 807px;']
 cavallo.de,mountainbike-magazin.de,wetter.com##[-abp-properties='margin-left: 80px;']
@@ -8730,6 +8733,7 @@ gamepro.de,gamestar.de##[-abp-properties='margin-top: 101px;']
 gamepro.de,gamestar.de##[-abp-properties='margin-top: 102px;']
 tvdigital.de##[-abp-properties='margin-top: 10px;'] > img
 welt.de##[-abp-properties='margin-top: 11.1px;']
+welt.de##[-abp-properties='margin-top: 11.2*px;']
 welt.de##[-abp-properties='margin-top: 11.2px;']
 welt.de##[-abp-properties='margin-top: 11.3px;']
 tvdigital.de##[-abp-properties='margin-top: 11px;']
@@ -9507,4 +9511,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: sdsZ1XgjuPvIeYjKPLLuYg
+! Checksum: otTBRTxX9tVhUgARqc1u9Q
