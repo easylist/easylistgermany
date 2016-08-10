@@ -103,7 +103,7 @@
 @@||banner.electronic-arts.de/www/images/*.jpg$domain=ea.com
 @@||banner.t-online.de/?advideo/*;vidas=pre_roll;$object-subrequest,domain=iam.t-online.de|mahjonggwelt.de
 @@||banner.t-online.de/crossdomain.xml$object-subrequest,domain=mahjonggwelt.de
-@@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de|sunsteps.org
+@@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de
 @@||banners.webmasterplan.com/view.asp?ref=91339&site=10830&type=html&hnb=9&js=1&th=D1E4EF&tro=F4F4F4&tre=EEEEEE&abg=CF0000$script,domain=onlinekosten.de
 @@||bauer-plus.de^*?advertiser=$subdocument,domain=abosgratis.de
 @@||berliner-zeitung-online.de/specials/ads/scripts/standard_ads.css
@@ -213,7 +213,7 @@
 @@||im.banner.t-online.de/crossdomain.xml$domain=t-online.de
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=heise.de|radio.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=radio.de
-@@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de|sunsteps.org
+@@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||insel-usedom-wollin.de/ads/$script,stylesheet
 @@||inskinmedia.com^*/generic.js$domain=clipfish.de
@@ -263,7 +263,6 @@
 @@||nadann.de/small_ads/$~third-party
 @@||netzathleten-media.de^*/naMediaAd.js$domain=kino-vorschau.com
 @@||nonstoppartner.net/a/?$subdocument,domain=gutscheindoktor.de
-@@||nonstoppartner.net^$image,domain=sunsteps.org
 @@||nordclick.de/js/colors/adsense_colors.js
 @@||nuggad.net/bk?nuggn=$object-subrequest,domain=clipfish.de|edge.download.newmedia.nacamar.net
 @@||nuggad.net/bk?nuggn=$script,domain=podcast.de
@@ -376,7 +375,6 @@
 @@||track.adform.net/C/?$subdocument,domain=abosgratis.de
 @@||track.adform.net/serving/scripts/trackpoint/$script,domain=mazda.de
 @@||tradedoubler.com/click?$subdocument,domain=eule.de|gutscheindoktor.de|preismafia.com
-@@||tradedoubler.com/file/$image,domain=sunsteps.org
 @@||tradedoubler.com/redirect/*^affID^$subdocument,domain=gutscheindoktor.de
 @@||tv.derstandard.at/adserver.php?*&pos=video$subdocument
 @@||ui-portal.de^*/video-adserver-config.xml$object-subrequest
@@ -403,10 +401,7 @@
 @@||wn.de/var/storage/images/*_300_250.$image,~third-party
 @@||yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||youradexchange.com/script/packcpm.php?r=$script,domain=bs.to
-@@||zanox-affiliate.de/images/$domain=sunsteps.org
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|gutscheindoktor.de|notenbuch24.de|preismafia.com
-@@||zanox.com/images//programs/$image,domain=sunsteps.org
-@@||zanox.com/images/programs/$domain=sunsteps.org
 ! "Matched Content" by Google (https://support.google.com/adsense/answer/6111336)
 @@||g.doubleclick.net/pagead/ads?*^slotname=3722556080^$document,subdocument,domain=kalender-365.de
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=kalender-365.de
