@@ -459,6 +459,7 @@ ruhrbarone.de###headContainer
 scdhfk-handball.de###headRightCommercials
 wunschliste.de###head_banner
 fxempire.de###head_banners
+pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + div > a > img
 pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + div > a > img
 pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + div > a > img
 pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + div > a > img
@@ -3790,6 +3791,7 @@ spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.69px;']
 spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.7*px;']
 spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.8*px;']
 spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.9*px;']
+spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.58px;']
 spiegel.de##.article-section > * > [-abp-properties='margin-right: 3px;']
 spiegel.de##.article-section > [-abp-properties='float: left; margin-right: 2px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 11px;']
@@ -4583,6 +4585,7 @@ pcwelt.de##[-abp-properties='margin-left: 35px;']
 focus.de,lustich.de##[-abp-properties='margin-left: 360px;']
 boerse.de,hoerzu.de,ran.de##[-abp-properties='margin-left: 36px;']
 hoerzu.de##[-abp-properties='margin-left: 37px;']
+focus.de##[-abp-properties='margin-left: 392px;']
 focus.de##[-abp-properties='margin-left: 393px;']
 focus.de##[-abp-properties='margin-left: 394px;']
 focus.de##[-abp-properties='margin-left: 395px;']
