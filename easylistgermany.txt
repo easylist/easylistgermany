@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201608100607
+! Version: 201608101601
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Aug 2016 06:07 UTC
+! Last modified: 10 Aug 2016 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -539,7 +539,7 @@ ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
 zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
 berlin.de#@#a[href^="http://adfarm.mediaplex.com/"]
 schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
-cnet.de#@#a[href^="http://pubads.g.doubleclick.net/"]
+cnet.de,deals.chip.de#@#a[href^="http://pubads.g.doubleclick.net/"]
 onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net#@#a[href^="https://ad.doubleclick.net/"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
@@ -9508,6 +9508,7 @@ kalender-365.de#@#.adsbygoogle
 @@||doubleclick.net/ddm/clk/$popup,domain=gutefrage.net
 @@||eurogrand.com^$popup,domain=online-casino.de
 @@||europacasino.com^$popup,domain=online-casino.de
+@@||g.doubleclick.net^$popup,domain=deals.chip.de
 @@||partycasino.com^$popup,domain=online-casino.de
 @@||pubads.g.doubleclick.net/gampad/clk?$popup,domain=cnet.de
 @@||stargames.com^$popup,domain=online-casino.de
@@ -9515,4 +9516,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: bkdy/q9Xbz/F9EUXwH5eaw
+! Checksum: VCmYD9V33LO/FlnTAjvzTw
