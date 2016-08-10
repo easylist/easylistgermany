@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201608091301
+! Version: 201608100607
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 09 Aug 2016 13:01 UTC
+! Last modified: 10 Aug 2016 06:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4511,6 +4511,7 @@ ruhrbarone.de###headContainer
 scdhfk-handball.de###headRightCommercials
 wunschliste.de###head_banner
 fxempire.de###head_banners
+pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + div > a > img
 pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + div > a > img
 pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + div > a > img
 pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + div > a > img
@@ -7842,6 +7843,7 @@ spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.69px;']
 spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.7*px;']
 spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.8*px;']
 spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.9*px;']
+spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.58px;']
 spiegel.de##.article-section > * > [-abp-properties='margin-right: 3px;']
 spiegel.de##.article-section > [-abp-properties='float: left; margin-right: 2px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 11px;']
@@ -8635,6 +8637,7 @@ pcwelt.de##[-abp-properties='margin-left: 35px;']
 focus.de,lustich.de##[-abp-properties='margin-left: 360px;']
 boerse.de,hoerzu.de,ran.de##[-abp-properties='margin-left: 36px;']
 hoerzu.de##[-abp-properties='margin-left: 37px;']
+focus.de##[-abp-properties='margin-left: 392px;']
 focus.de##[-abp-properties='margin-left: 393px;']
 focus.de##[-abp-properties='margin-left: 394px;']
 focus.de##[-abp-properties='margin-left: 395px;']
@@ -9512,4 +9515,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 2u1M0oXe9rTd9X454B0bWQ
+! Checksum: bkdy/q9Xbz/F9EUXwH5eaw
