@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201608141944
+! Version: 201608141949
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 14 Aug 2016 19:44 UTC
+! Last modified: 14 Aug 2016 19:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8186,7 +8186,7 @@ fem.com##[-abp-properties='left: 109px;']
 arcor.de##[-abp-properties='left: 10px; position: relative; width: 1120px;']
 arcor.de,transfermarkt.de##[-abp-properties='left: 10px; position: relative;']
 wetter.com##[-abp-properties='left: 11*px; margin-top: 9*px; position: absolute; z-index: 1*;']
-lustich.de,tvdigital.de##[-abp-properties='left: 11*px;']
+lustich.de##[-abp-properties='left: 11*px;']
 gala.de##[-abp-properties='left: 11*px;'] > img
 tvdigital.de##[-abp-properties='left: 113px; position: relative;']
 tvdigital.de##[-abp-properties='left: 113px;']
@@ -9543,4 +9543,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: STCqHv/ELsHM+N1kbzWMwg
+! Checksum: 7DUGHBx2C7XXF+faGB3j6w
