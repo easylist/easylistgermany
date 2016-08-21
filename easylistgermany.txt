@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201608211158
+! Version: 201608211309
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Aug 2016 11:58 UTC
+! Last modified: 21 Aug 2016 13:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9087,6 +9087,7 @@ donnerwetter.de##div[id^="plista_widget_"] [-abp-properties='max-width: 199px;']
 @@||auditude.com/player/js/lib/pdk/50/1.0/AuditudePDKPlugin.js$domain=fandango.com
 @@||auditude.com/player/js/lib/plugin/1.3/aud.html5player.js$domain=fandango.com
 @@||aus.laola1.tv/realmedia/ads/adstream_sx.ads/www.laola1.at/$object-subrequest
+@@||azillo.de/pages/banner/$image,~third-party
 @@||baby-walz.de^*/Affilinet/$subdocument
 @@||banner.edll-fir.de^$image
 @@||banner.electronic-arts.de/www/images/*.jpg$domain=ea.com
@@ -9603,4 +9604,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: nIl9vMcWS5yTORiPr+O6fA
+! Checksum: 3LaNraMG4euQK215ajfRKg
