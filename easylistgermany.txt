@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201608211309
+! Version: 201608231854
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Aug 2016 13:09 UTC
+! Last modified: 23 Aug 2016 18:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4695,6 +4695,7 @@ immonet.de###mietkautionslink
 bunte.de###mini-panel-home_header_shopping_teaser
 autozeitung.de###mini-panel-sidebar_default div[id] > img[src^="/images/"]
 20min.ch###minrectangle
+lesen.to###mirror
 totalbash.org###mitte > .menueoben + .beitrag_oben2
 totalbash.org###mitte > .menueoben + .beitrag_oben2 + .beitrag
 totalbash.org###mitte > .menueoben + .beitrag_oben2 + .beitrag + .beitrag_unten
@@ -6386,6 +6387,7 @@ pi-news.net##a[href$="/werbung.pdf"]
 94.199.241.194##a[href$="_zalando"]
 metager.de##a[href*=".overture.com/"][href$="?plmg=1"]
 bild.de##a[href*=".smartadserver.com/"]
+lesen.to##a[href*="/?f="]
 htwk-leipzig.de##a[href*="/adclick.php?"]
 satindex.de##a[href*="/extern.php?"]
 serienjunkies.org##a[href*="/mirror."]
@@ -9599,9 +9601,10 @@ kalender-365.de#@#.adsbygoogle
 @@||g.doubleclick.net^$popup,domain=deals.chip.de
 @@||partycasino.com^$popup,domain=online-casino.de
 @@||pubads.g.doubleclick.net/gampad/clk?$popup,domain=cnet.de
+@@||slimtrade.com/out.php?*&g=http://www.lesen.to/protection/folder_$popup,domain=lesen.to
 @@||stargames.com^$popup,domain=online-casino.de
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 3LaNraMG4euQK215ajfRKg
+! Checksum: DSRiYyY5GvZ807c18tKtmg
