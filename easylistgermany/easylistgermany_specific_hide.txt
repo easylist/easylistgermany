@@ -3686,10 +3686,15 @@ ddl-warez.in##tr[style="background:#D0F5A9"]
 radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
+focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 boote-forum.de,comunio.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 ariva.de,boote-forum.de,comunio.de,fanfiktion.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
+focus.de##.plista_widget_innerArticle
+@@||focus.de^$generichide
+@@||pcwelt.de^$generichide
 plista.com##a[href^="http://click.plista.com/pets"]
+focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 stol.it##div[id^="div-gpt-ad"]
 ! CSS property filters for Adblock Plus
 1erforum.de,dasheimwerkerforum.de,modernboard.de,skodacommunity.de,vermieter-forum.com###Rectangle > [-abp-properties='cursor: pointer;']
@@ -3832,6 +3837,7 @@ spiegel.de##.article-section > [-abp-properties='margin-right: 6px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 7px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 8px;']
 spiegel.de##.article-section > [-abp-properties='margin-right: 9px;']
+spiegel.de##.article-section > div > [-abp-properties='margin-right: 3.52px;']
 spiegel.de##.article-section > div > [-abp-properties='margin-right: 3.53px;']
 spiegel.de##.article-section [-abp-properties='margin-right: 2.99px;']
 caravaning.de##.article_content > div > [-abp-properties='cursor: pointer;']
