@@ -641,6 +641,7 @@ immonet.de###mietkautionslink
 bunte.de###mini-panel-home_header_shopping_teaser
 autozeitung.de###mini-panel-sidebar_default div[id] > img[src^="/images/"]
 20min.ch###minrectangle
+lesen.to###mirror
 totalbash.org###mitte > .menueoben + .beitrag_oben2
 totalbash.org###mitte > .menueoben + .beitrag_oben2 + .beitrag
 totalbash.org###mitte > .menueoben + .beitrag_oben2 + .beitrag + .beitrag_unten
@@ -2332,6 +2333,7 @@ pi-news.net##a[href$="/werbung.pdf"]
 94.199.241.194##a[href$="_zalando"]
 metager.de##a[href*=".overture.com/"][href$="?plmg=1"]
 bild.de##a[href*=".smartadserver.com/"]
+lesen.to##a[href*="/?f="]
 htwk-leipzig.de##a[href*="/adclick.php?"]
 satindex.de##a[href*="/extern.php?"]
 serienjunkies.org##a[href*="/mirror."]
