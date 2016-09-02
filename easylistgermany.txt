@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201609020612
+! Version: 201609021642
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Sep 2016 06:12 UTC
+! Last modified: 02 Sep 2016 16:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6366,9 +6366,6 @@ autoextrem.de,teccentral.de##.yui-sidebar li > a > img
 autoextrem.de,teccentral.de,winboard.org##.yui-sidebar li > span > a > img
 magistrix.de##.zeezee
 german-bash.org##.zitat > div[style="width:300px;"]
-<<<<<<< HEAD
-=======
->>>>>>> 6afcdabf6e20a96e3da53c5759167bc8f5e24f63
 listsandnews-de.net##A[href^="http://www.dekarrierejournal.com/index.php?A="]
 320k.in##A[href^="http://www.yellow-ducks.com/AF_"]
 chip.de##A[title="Amazon Instant Video"][target="_blank"]
@@ -9735,4 +9732,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Zeb+CYXJ1/Dyg32AKZ6qkA
+! Checksum: +x5zxZQ3zLWz3ZzEhtowZw
