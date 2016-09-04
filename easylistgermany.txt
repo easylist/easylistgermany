@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201609021642
+! Version: 201609041516
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Sep 2016 16:42 UTC
+! Last modified: 04 Sep 2016 15:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8821,7 +8821,6 @@ wetter.com##[-abp-properties='margin-left: 416px; margin-top: 21px;']
 wetter.com##[-abp-properties='margin-left: 416px; padding-left: 1px;']
 wetter.com##[-abp-properties='margin-left: 416px; padding-left: 2px;']
 wetter.com##[-abp-properties='margin-left: 417px; margin-top: 22px;']
-gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='margin-left: 41px;']
 giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='margin-left: 42px;']
 gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='margin-left: 43px;']
 gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,lustich.de,oberhessische-zeitung.de,usinger-anzeiger.de##[-abp-properties='margin-left: 44px;']
@@ -9732,4 +9731,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: +x5zxZQ3zLWz3ZzEhtowZw
+! Checksum: 32aolqFKmuSyiJY5S45KIQ
