@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201609060624
+! Version: 201609061631
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 06 Sep 2016 06:24 UTC
+! Last modified: 06 Sep 2016 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5752,7 +5752,6 @@ heise.de##.hinweis_anzeige
 fremdwort.de##.hinweisad
 technic3d.com##.home > footer[style="bottom: -105px;"]:last-child > div:first-child
 tarnkappe.info##.home-bottom > #text-36
-spiegel.de##.home-link-box + * + * + * a > img[src^="http://cdn2.spiegel.de/images/image-"]
 tarnkappe.info##.home-middle > #text-10
 tarnkappe.info##.home-middle > #text-18
 tarnkappe.info##.home-top > #text-29
@@ -7860,44 +7859,6 @@ mehr-tanken.de##.MainContent__right.col-md-4 div + * + div > img
 finanztreff.de##.adEventSpacer + [-abp-properties='text-align: center;'] > img
 shz.de##.article > [-abp-properties='margin-left: 24px;']
 nnn.de,prignitzer.de,svz.de##.article > div > [-abp-properties='left: 43px;'] > img
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.58px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.59px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.6*px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.68px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.69px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.7*px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.8*px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 2.9*px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.3*px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.4*px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.51px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.54px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.55px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.56px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.57px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.58px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 3.5px;']
-spiegel.de##.article-section > * > [-abp-properties='margin-right: 3px;']
-spiegel.de##.article-section > [-abp-properties='float: left; margin-right: 2px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 11px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 12px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 13px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 14px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 15px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 16px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 17px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 18px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 19px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 1em;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 4px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 5px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 6px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 7px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 8px;']
-spiegel.de##.article-section > [-abp-properties='margin-right: 9px;']
-spiegel.de##.article-section > div > [-abp-properties='margin-right: 3.52px;']
-spiegel.de##.article-section > div > [-abp-properties='margin-right: 3.53px;']
-spiegel.de##.article-section [-abp-properties='margin-right: 2.99px;']
 caravaning.de##.article_content > div > [-abp-properties='cursor: pointer;']
 autobild.de##.articlecontent + * > [-abp-properties='cursor: pointer;']
 experto.de##.artikelmain > [-abp-properties='cursor: pointer']
@@ -7926,7 +7887,6 @@ boerse.de##.content_box > [-abp-properties='cursor: pointer']
 boerse.de##.content_box > [-abp-properties='margin-left: 35px;']
 tvspielfilm.de##.copyright + [-abp-properties='text-align: center;']
 tvtoday.de##.footer_ad + * + #gtm-livetv-footer + * > img
-spiegel.de##.function-box + div + [-abp-properties='background-color*;']
 sat1gold.de##.grid_300 > [-abp-properties='cursor: pointer;']
 prosiebenmaxx.de##.grid_300 > [-abp-properties='position: relative;']
 ran.de,sat1gold.de##.grid_300 [-abp-properties='cursor: pointer;']
@@ -7999,9 +7959,6 @@ shz.de##.span1 > span > span > a > img
 bikemarkt.mtb-news.de##.span12.header > [-abp-properties='top: 10px;']
 bikemarkt.mtb-news.de##.span12.header > [-abp-properties='top: 9px;'] > a > img
 bikemarkt.mtb-news.de##.span4 > a > img
-spiegel.de##.sticky-overlay + * > [-abp-properties='bottom: 7px;']
-spiegel.de##.sticky-overlay.clearfix + * + * + [-abp-properties='bottom: 20px;'] > * > img
-spiegel.de##.sticky-overlay.clearfix + * + [-abp-properties='bottom: 20px;'] > * > img
 hamburg.de##.teaser .sponsored + div > img
 auto-motor-und-sport.de##.teaser.b > * > [-abp-properties='margin-left: 14px;']
 gamestar.de##.teaserRight + * > a > [-abp-properties='border*;']
@@ -8032,10 +7989,6 @@ auto-motor-und-sport.de,usp-forum.de##[-abp-properties='*left: 10*px*; position:
 pcgames.de##[-abp-properties='background-color*; bottom*; cursor: pointer; left*; position: absolute; right*; top: 0px;']
 wetter.com##[-abp-properties='bottom*; left: 108px; position: relative;']
 gamestar.de##[-abp-properties='bottom: 10px; position: relative;'] > img
-spiegel.de##[-abp-properties='bottom: 16px;'] > img
-spiegel.de##[-abp-properties='bottom: 17px;'] > img
-spiegel.de##[-abp-properties='bottom: 19px;'] > * > img
-spiegel.de##[-abp-properties='bottom: 19px;'] > img
 gamesaktuell.de##[-abp-properties='bottom: 24px; margin-left: 5px;']
 wetter.com##[-abp-properties='bottom: 270px; left: 770px; position: absolute;']
 sixx.de##[-abp-properties='bottom: 2px; left: 38px; position: relative;']
@@ -8054,7 +8007,6 @@ spox.com##[-abp-properties='bottom: 6px; left: -15px;']
 ran.de##[-abp-properties='bottom: 9px; position: relative;']
 ran.de##[-abp-properties='clear: both; left: -16px; position: relative;']
 tvspielfilm.de##[-abp-properties='clear: both; margin-left: 46px;']
-spiegel.de##[-abp-properties='color: #900; text-decoration: none; transition: color .3s ease-in-out;']
 wetteronline.de##[-abp-properties='cursor: pointer; float: left; height: 9*px; left: 0px; margin-left: 2*px; position: absolute; width: 7*px; z-index: *;']
 usp-forum.de##[-abp-properties='cursor: pointer; height: 9*px; width: 72*px;']
 autobild.de##[-abp-properties='cursor: pointer; height: 90px;']
@@ -9666,4 +9618,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: /4uG5HhvXUkWWIyXAeNSoA
+! Checksum: 0eV/USlrIqfet0/zuQRMVA
