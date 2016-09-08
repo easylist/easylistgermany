@@ -5016,7 +5016,6 @@ allgemeine-zeitung.de,buerstaedter-zeitung.de,hochheimer-zeitung.de,hofheimer-ze
 wetter.com##[-abp-properties='z-index: 999;']
 comunio.de##[-abp-properties='zoom: 0.9*;']
 comunio.de##[-abp-properties='zoom: 0.965;'] > img
-abendzeitung-muenchen.de
 gamona.de##article + * + * + [-abp-properties='margin-left: 200px;'] > img
 welt.de##div > [-abp-properties='margin-right: auto; margin-top: 10px;'] > img
 welt.de##div > [-abp-properties='margin-top: 10px;']:last-child > img
