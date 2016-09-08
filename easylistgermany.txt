@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201609080630
+! Version: 201609081617
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Sep 2016 06:30 UTC
+! Last modified: 08 Sep 2016 16:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9071,7 +9071,6 @@ allgemeine-zeitung.de,buerstaedter-zeitung.de,hochheimer-zeitung.de,hofheimer-ze
 wetter.com##[-abp-properties='z-index: 999;']
 comunio.de##[-abp-properties='zoom: 0.9*;']
 comunio.de##[-abp-properties='zoom: 0.965;'] > img
-abendzeitung-muenchen.de
 gamona.de##article + * + * + [-abp-properties='margin-left: 200px;'] > img
 welt.de##div > [-abp-properties='margin-right: auto; margin-top: 10px;'] > img
 welt.de##div > [-abp-properties='margin-top: 10px;']:last-child > img
@@ -9713,4 +9712,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: eKDuSWlWQhpUBnpjbSrjsQ
+! Checksum: jxZ07wS5bvOczjn+UhDKsg
