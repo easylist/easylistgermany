@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201609131142
+! Version: 201609131143
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Sep 2016 11:42 UTC
+! Last modified: 13 Sep 2016 11:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9376,8 +9376,7 @@ fem.com##header + * + * + * + span > a > img
 @@||sascdn.com/diff/*/index.html?$subdocument,domain=finanzen.net
 @@||sascdn.com/diff/*/pages/$script,domain=derwesten.de|hoerzu.de
 @@||sascdn.com/diff/251/5489376/500x305_ms_wei_.jpg$image,domain=gofeminin.de
-@@||sascdn.com/diff/251/pages/$scrip,domain=gofeminin.de
-@@||sascdn.com/diff/251/pages/$script,domain=finanzen.net
+@@||sascdn.com/diff/251/pages/$script,domain=finanzen.net|gofeminin.de
 @@||sascdn.com/diff/video/$script,domain=kleinezeitung.at
 @@||sascdn.com/video/$script,domain=kleinezeitung.at
 @@||saugking.net/css/ads.css
@@ -9689,4 +9688,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: hWe2Qq3bulHCV0jK2NjJzQ
+! Checksum: jj0EgwBSfwFaxRzm7bvRGw
