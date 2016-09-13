@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201609131141
+! Version: 201609131142
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Sep 2016 11:41 UTC
+! Last modified: 13 Sep 2016 11:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6009,7 +6009,7 @@ wegwerfemailadresse.com##.promobox
 access.de##.promotionbox
 psvita-forum.de##.psads
 lingostudy.de##.psw_banner
-daswetter.at##.pubDesk
+daswetter.at,daswetter.com##.pubDesk
 gameone.de##.q_teaser_wrapper
 quotenmeter.de##.qm-news-list-box
 quotenmeter.de##.qm-right-box[style="position:relative"]
@@ -9689,4 +9689,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 7kV3t6Ga/yNJZhWr2TW0dg
+! Checksum: hWe2Qq3bulHCV0jK2NjJzQ
