@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201609140624
+! Version: 201609141942
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 14 Sep 2016 06:24 UTC
+! Last modified: 14 Sep 2016 19:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1378,6 +1378,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||pm.sofortficken.com^$third-party
 ||pm.swingerdatenbank.com^$third-party
 ||pm.tittendating.com^$third-party
+||pn.bestcheck.de/embed/bc$third-party
 ||pndapi.com/?proj=$subdocument,third-party
 ||pocket.at/banner/herold300x250.swf
 ||ponsline.net/assets2/Banner_
@@ -5161,6 +5162,7 @@ stadtradio-goettingen.de##.Anzeigen
 bluray-disc.de##.AnzeigenBlock2
 schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##.AnzeigenHead
 bluray-disc.de##.AnzeigenText
+focus.de##.BC-Container
 haustechnikdialog.de##.BannerContainer
 idowa.de##.BannerSeiteLinks
 ksta.de,rundschau-online.de##.BoxAnzeige
@@ -9665,4 +9667,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 2gecInJGj8gTrtdAN2SAXw
+! Checksum: P3rdSQ94h6z41r2Mz2EZGA
