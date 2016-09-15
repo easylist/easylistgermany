@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201609150620
+! Version: 201609150628
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 15 Sep 2016 06:20 UTC
+! Last modified: 15 Sep 2016 06:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6875,6 +6875,7 @@ imagebanana.com##a[style="color:orange; font-weight:bold; font-size:12px;"][targ
 stream4.org##a[style="color:yellow;font-size:15px;"]
 magistrix.de##a[style="display:block; position: fixed; left:0; top:0; outline: 0; width:100%; height:100%"]
 handy-faq.de##a[style="text-decoration:underline; color:red; font-size:18px;"]
+hoerbuch.us##a[style="text-size:10px;font-weight:0; color: green;"][href^="http://hoerbuch.us/dl/?f="]
 fragster.de##a[style^="background: url(http://media.fragster.de/avw.php?zoneid="]
 enduro-austria.at##a[target="_blank"] > img[style="margin-top: 2px; margin-right: 2px; margin-bottom: 2px; vertical-align: middle;"]
 g-stream.in##a[target="_blank"] > img[width="468"][height="60"]
@@ -9685,10 +9686,11 @@ kalender-365.de#@#.adsbygoogle
 @@||g.doubleclick.net^$popup,domain=deals.chip.de
 @@||partycasino.com^$popup,domain=online-casino.de
 @@||pubads.g.doubleclick.net/gampad/clk?$popup,domain=cnet.de
+@@||slimtrade.com/out.php?*&g=http://www.hoerbuch.us/protection/folder_$popup,domain=hoerbuch.us
 @@||slimtrade.com/out.php?*&g=http://www.lesen.to/protection/folder_$popup,domain=lesen.to
 @@||stargames.com^$popup,domain=online-casino.de
 @@||sunmaker.com^$popup,domain=online-casino.de
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 5Er/w5OEtYT6O6A2/DXYBw
+! Checksum: cNnmh5RkXLiH1ETJDmaAyg
