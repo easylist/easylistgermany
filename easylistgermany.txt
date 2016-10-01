@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201609290627
+! Version: 201610011024
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 29 Sep 2016 06:27 UTC
+! Last modified: 01 Oct 2016 10:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -453,7 +453,7 @@ pro-deutschland-online.de,pro-deutschland.de,qicknews.de#@##advert1
 qicknews.de#@##advert2
 boomerangtv.de#@##advertising-container
 markt.de#@##adverts
-monster.de,musicstar.de#@##adwrapper
+argentinien-reisebericht.de,monster.de,musicstar.de#@##adwrapper
 portia.ch#@##adzone
 viva.tv#@##bannerad
 wunsch-otr.de#@##block_advert
@@ -9782,4 +9782,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: mPtqSgsCSZv2p0VUAwpa9A
+! Checksum: P17piV9BtOnIP+XCuYdLsg
