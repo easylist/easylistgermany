@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201610051859
+! Version: 201610051907
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Oct 2016 18:59 UTC
+! Last modified: 05 Oct 2016 19:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8042,7 +8042,7 @@ shz.de##[-abp-properties='cursor: pointer; margin-left: 46px;']
 wetteronline.de##[-abp-properties='cursor: pointer; margin-left: 7px; margin-top: 5px; padding-top: 12px;']
 ran.de##[-abp-properties='cursor: pointer; max-width: 940px;']
 giga.de##[-abp-properties='cursor: pointer; width: 1000px;']
-boote-forum.de,gala.de,woxikon.de##[-abp-properties='cursor: pointer;']
+boote-forum.de,gwoxikon.de##[-abp-properties='cursor: pointer;']
 boerse-online.de,fem.com##[-abp-properties='cursor: pointer;'] > img
 spox.com##[-abp-properties='display: block; height: 60*px; left: 95*px; position: absolute; width: 16*px;']
 spox.com##[-abp-properties='display: block; margin-bottom: 5px; margin-top: 5px;']
@@ -8634,7 +8634,7 @@ nwzonline.de##[-abp-properties='left: 990px;']
 infranken.de##[-abp-properties='left: 992px;']
 wetter.com##[-abp-properties='left: 99px; position: relative;']
 wetter.com##[-abp-properties='left: 99px;'] > img
-gala.de,kabeleins.de,prosieben.de,prosiebenmaxx.de,sat1.de,sat1gold.de,sixx.de,the-voice-of-germany.de##[-abp-properties='margin*: *px;']
+kabeleins.de,prosieben.de,prosiebenmaxx.de,sat1.de,sat1gold.de,sixx.de,the-voice-of-germany.de##[-abp-properties='margin*: *px;']
 main-spitze.de##[-abp-properties='margin-bottom: -1px;']
 fem.com##[-abp-properties='margin-bottom: 10px; margin-left: 1*px;']
 comunio.de##[-abp-properties='margin-bottom: 10px; margin-left: 102px; margin-top: 10px;']
@@ -9847,4 +9847,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Oyq8iHI/p/Oiy06aM4YTdQ
+! Checksum: fqBCmCnwbvmr1KI31M/72w
