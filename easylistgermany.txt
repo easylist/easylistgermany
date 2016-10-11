@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201610100617
+! Version: 201610110700
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Oct 2016 06:17 UTC
+! Last modified: 11 Oct 2016 07:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9278,6 +9278,34 @@ wetter.com##[-abp-properties='z-index: 1000*;']
 wetter.com##[-abp-properties='z-index: 10000000;']
 tvtoday.de##[-abp-properties='z-index: 10000;']
 prosiebenmaxx.de##[-abp-properties='z-index: 138;']
+chefkoch.de##[-abp-properties='margin-left: 22.7*px;']
+chefkoch.de##[-abp-properties='margin-left: 42.2px;']
+chefkoch.de##[-abp-properties='margin-left: 951.*px;']
+eatsmarter.de##[-abp-properties='margin-left: 1016*px;']
+eatsmarter.de##[-abp-properties='margin-left: 16.7*px;']
+eatsmarter.de##span + span> a > img
+focus.de##[-abp-properties='margin-left: 66.08px;']
+focus.de##[-abp-properties='margin-left: 973px;']
+hoerzu.de##[-abp-properties='left: 58.87px;']
+hoerzu.de##[-abp-properties='margin-bottom: 4.7*px;']
+nnn.de,prignitzer.de,svz.de##[-abp-properties='left: 41.6*px;']
+nnn.de,prignitzer.de,svz.de##[-abp-properties='margin-left: 197.*px;']
+nnn.de,prignitzer.de,svz.de##[-abp-properties='margin-left: 801.*px;']
+outdoorchannel.de,roadbike.de,elektrobike-online.com,mountainbike-magazin.de,outdoor-magazin.com,klettern.de,klettern-magazin.de,cavallo.de,planetsnow.de##.main-right > :first-child > img
+outdoorchannel.de,roadbike.de,elektrobike-online.com,mountainbike-magazin.de,outdoor-magazin.com,klettern.de,klettern-magazin.de,cavallo.de,planetsnow.de##[-abp-properties='left: 77.1px; position: relative;']
+outdoorchannel.de,roadbike.de,elektrobike-online.com,mountainbike-magazin.de,outdoor-magazin.com,klettern.de,klettern-magazin.de,cavallo.de,planetsnow.de##[-abp-properties='margin-left: 982*px;']
+pcwelt.de##[-abp-properties='margin-left: 881.*px;']
+pcwelt.de###header + * + * + * + * + * + * + * + * + span > a > img
+ran.de##[-abp-properties='left: -13.2px;'] > img
+ran.de##[-abp-properties='left: 32.5*px;']
+ran.de##[-abp-properties='left: 816.*px;']
+ran.de##[-abp-properties='margin-left: 157.1px;']
+ran.de###left-zone > .grid_620 + [-abp-properties='margin-bottom: 21.2px;'] > img
+shz.de##[-abp-properties='left: 21.61px;']
+shz.de##[-abp-properties='left: 23.61px;']
+shz.de##[-abp-properties='margin-left: 2051.*px;']
+shz.de##[-abp-properties='margin-left: 236.2*px;']
+spiegel.de##.article-section > * > [-abp-properties='margin-right: 4.4px;']
 prosiebenmaxx.de##[-abp-properties='z-index: 139;']
 prosiebenmaxx.de##[-abp-properties='z-index: 140;']
 prosiebenmaxx.de##[-abp-properties='z-index: 141;']
@@ -9937,4 +9965,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 9wp5ealdfBlDhBwEckEFvg
+! Checksum: exrmZLoZXHqqLXwGb/x7BA
