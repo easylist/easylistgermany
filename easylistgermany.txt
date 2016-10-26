@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201610261430
+! Version: 201610261431
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Oct 2016 14:30 UTC
+! Last modified: 26 Oct 2016 14:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3463,6 +3463,8 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||spreeblick.com/wp-content/themes/*/thomann_banner_
 ||spreeblick.com^*/intro_banner.png
 ||spvggunterhaching.de/themes/haching/images/BSWALP-Onlinebanner.gif
+||st.wetteronline.de/image/wo/U/$image,domain=wetteronline.de
+||st.wetteronline.de/wotexte/vermarktung/snippets/sidebarAndTeaser/$image,domain=wetteronline.de
 ||stadt-bremerhaven.de/grafiken/footer.gif
 ||stadt-bremerhaven.de/grafiken/getgoods2013.jpg
 ||stadt-bremerhaven.de/grafiken/gg_banner_320x100_ani.gif
@@ -8855,6 +8857,7 @@ experto.de,tvtoday.de,wetteronline.de##[-abp-properties='left: 99*px;']
 experto.de##[-abp-properties='left: 990px; position: absolute; top: 100px;']
 experto.de##[-abp-properties='left: 990px; top: 100px;']
 nwzonline.de##[-abp-properties='left: 990px;']
+infranken.de##[-abp-properties='left: 992*px;']
 infranken.de##[-abp-properties='left: 992px;']
 wetter.com##[-abp-properties='left: 99px; position: relative;']
 wetter.com##[-abp-properties='left: 99px;'] > img
@@ -9403,14 +9406,19 @@ wetter.com##[-abp-properties='margin-top: 314px;']
 wetter.com##[-abp-properties='margin-top: 315px;']
 wetteronline.de##[-abp-properties='margin-top: 6px;']
 autozeitung.de,de.filsh.net,dialo.de,donnerwetter.de,e-hausaufgaben.de,fanfiktion.de,finya.de,formel1.de,fremdwort.de,helles-koepfchen.de,infranken.de,inside-digital.de,inside-handy.de,motorsport-total.com,news.de,nickles.de,pixelio.de,seniorbook.de,tabtech.de,weristdeinfreund.de##[-abp-properties='max-height: *px; max-width: *px; position: *;']
+news.de##[-abp-properties='max-height: 19.*em; max-width: 62.*em;']
 news.de##[-abp-properties='max-height: 19.3em; max-width: 62.1em;']
+inside-handy.de##[-abp-properties='max-height: 20.*em; max-width: 25em;']
 inside-handy.de##[-abp-properties='max-height: 20.833em; max-width: 25em;']
 motorsport-total.com##[-abp-properties='max-height: 20.834em; max-width: 25.1em;']
 weristdeinfreund.de##[-abp-properties='max-height: 20.8em; max-width: 80.81em;']
 weristdeinfreund.de##[-abp-properties='max-height: 20.8em; max-width: 80.8em;']
+news.de##[-abp-properties='max-height: 240px; max-width: 52.*em;']
 news.de##[-abp-properties='max-height: 240px; max-width: 52.1em;']
 news.de##[-abp-properties='max-height: 240px; max-width: 52em;']
 epochtimes.de##[-abp-properties='max-height: 25*px; max-width: 300px;']
+donnerwetter.de##[-abp-properties='max-height: 250.*px; max-width: 21.*em;']
+news.de##[-abp-properties='max-height: 250.*px; max-width: 23.*em;']
 quoka.de##[-abp-properties='max-height: 250.*px; max-width: 302px;']
 donnerwetter.de##[-abp-properties='max-height: 250.1px; max-width: 21.429em;']
 donnerwetter.de##[-abp-properties='max-height: 250.1px; max-width: 21.43em;']
@@ -9430,51 +9438,64 @@ fremdwort.de##[-abp-properties='max-height: 250.2px; max-width: 60.625em;']
 formel1.de##[-abp-properties='max-height: 250.2px; max-width: 74.61*em;']
 autozeitung.de##[-abp-properties='max-height: 250.2px; max-width: 97em;']
 e-hausaufgaben.de##[-abp-properties='max-height: 250px; max-width: 18.75em;']
-epochtimes.de,quoka.de,tvinfo.de##[-abp-properties='max-height: 250px; max-width: 300px;']
+abacho.de##[-abp-properties='max-height: 250px; max-width: 300.*px;']
+deine-tierwelt.de,epochtimes.de,quoka.de,tvinfo.de,weser-kurier.de,wintotal.de##[-abp-properties='max-height: 250px; max-width: 300px;']
 quoka.de##[-abp-properties='max-height: 250px; max-width: 301px;']
 wize.life##[-abp-properties='max-height: 250px; max-width: 64.667em;']
 quoka.de,tvinfo.de##[-abp-properties='max-height: 250px; max-width: 800px;']
-quoka.de##[-abp-properties='max-height: 250px; max-width: 970px;']
+quoka.de,weser-kurier.de##[-abp-properties='max-height: 250px; max-width: 970px;']
 autozeitung.de,donnerwetter.de,formel1.de,fremdwort.de,infranken.de,motorsport-total.com,news.de,nickles.de,pixelio.de,quoka.de,tabtech.de##[-abp-properties='max-height: 250px;']
 fremdwort.de##[-abp-properties='max-height: 260.2px; max-width: 18.75em;']
 wize.life##[-abp-properties='max-height: 262px; max-width: 20em;']
+inside-handy.de##[-abp-properties='max-height: 300.*px; max-width: 76.*em;']
+infranken.de##[-abp-properties='max-height: 300.*px; max-width: 80.*em;']
+abacho.de##[-abp-properties='max-height: 300.*px; max-width: 800px;']
 abacho.de##[-abp-properties='max-height: 300.01px; max-width: 800px;']
 inside-handy.de##[-abp-properties='max-height: 300.1px; max-width: 76.71em;']
 inside-handy.de##[-abp-properties='max-height: 300.1px; max-width: 76.7em;']
 infranken.de,tabtech.de##[-abp-properties='max-height: 300.1px; max-width: 80.9em;']
 epochtimes.de##[-abp-properties='max-height: 300px; max-width: 9*px;']
+deine-tierwelt.de##[-abp-properties='max-height: 300px; max-width: 900px;']
 epochtimes.de##[-abp-properties='max-height: 300px; max-width: 966px;']
 abacho.de,infranken.de,inside-handy.de,tabtech.de##[-abp-properties='max-height: 300px;']
 autozeitung.de##[-abp-properties='max-height: 31em; max-width: 30.1em; min-height: 31em;']
 fremdwort.de##[-abp-properties='max-height: 37.5em; max-width: 300.1px;']
 fremdwort.de##[-abp-properties='max-height: 37.5em; max-width: 300.2px;']
+donnerwetter.de##[-abp-properties='max-height: 42.*em; max-width: 160.*px;']
 donnerwetter.de##[-abp-properties='max-height: 42.85em; max-width: 160.1px;']
 formel1.de##[-abp-properties='max-height: 46.15*em; max-width: 300.2px;']
+inside-handy.de##[-abp-properties='max-height: 50.*em; max-width: 300.*px;']
 inside-handy.de,motorsport-total.com##[-abp-properties='max-height: 50.1em; max-width: 300.1px;']
 weristdeinfreund.de##[-abp-properties='max-height: 50em; max-width: 25.1em;']
 weristdeinfreund.de##[-abp-properties='max-height: 50em; max-width: 25em;']
 inside-handy.de,motorsport-total.com,nickles.de,tabtech.de##[-abp-properties='max-height: 50em; max-width: 300.1px;']
 infranken.de##[-abp-properties='max-height: 50em; max-width: 300px;']
 pixelio.de##[-abp-properties='max-height: 55em; max-width: 160.1px;']
-epochtimes.de,quoka.de,tvinfo.de##[-abp-properties='max-height: 600px; max-width: 160px;']
+deine-tierwelt.de,epochtimes.de,quoka.de,tvinfo.de,weser-kurier.de,wintotal.de##[-abp-properties='max-height: 600px; max-width: 160px;']
 wize.life##[-abp-properties='max-height: 600px; max-width: 20em;']
+abacho.de##[-abp-properties='max-height: 600px; max-width: 300.*px;']
 abacho.de##[-abp-properties='max-height: 600px; max-width: 300.01px;']
 epochtimes.de##[-abp-properties='max-height: 600px; max-width: 300px;']
 quoka.de##[-abp-properties='max-height: 601px; max-width: 161px;']
 autozeitung.de##[-abp-properties='max-height: 60em; max-width: 300.1px;']
+donnerwetter.de##[-abp-properties='max-height: 60px; max-width: 33.*em;']
 donnerwetter.de##[-abp-properties='max-height: 60px; max-width: 33.428em;']
 autozeitung.de##[-abp-properties='max-height: 60px; max-width: 46.8em;']
+news.de##[-abp-properties='max-height: 62em; max-width: 300.*px;']
 news.de##[-abp-properties='max-height: 62em; max-width: 300.1px;']
 e-hausaufgaben.de##[-abp-properties='max-height: 90px; max-width: 45.51em;']
 e-hausaufgaben.de##[-abp-properties='max-height: 90px; max-width: 45.5em;']
+donnerwetter.de##[-abp-properties='max-height: 90px; max-width: 52.*em;']
 donnerwetter.de##[-abp-properties='max-height: 90px; max-width: 52.1em;']
 donnerwetter.de##[-abp-properties='max-height: 90px; max-width: 52em;']
 news.de##[-abp-properties='max-height: 90px; max-width: 56em;']
 pixelio.de##[-abp-properties='max-height: 90px; max-width: 66.2em;']
+wintotal.de##[-abp-properties='max-height: 90px; max-width: 728px;']
 unixboard.de##[-abp-properties='max-width: 12*px; position: relative; text-align: center; width: 12*px;']
 donnerwetter.de,nickles.de,pixelio.de,tabtech.de##[-abp-properties='max-width: 160px;']
 abacho.de,epochtimes.de,fanfiktion.de,formel1.de,fremdwort.de,inside-handy.de,motorsport-total.com,news.de,quoka.de##[-abp-properties='max-width: 300px;']
 autozeitung.de##[-abp-properties='max-width: 30em;']
+fanfiktion.de##[-abp-properties='max-width: 728.1px;'] > img
 fanfiktion.de,spox.com##[-abp-properties='max-width: 728px;']
 ran.de##[-abp-properties='max-width: 940px;']
 epochtimes.de##[-abp-properties='max-width: 970px;']
@@ -9508,6 +9529,7 @@ serienjunkies.de##[-abp-properties='position: relative; width: 938px;']
 kabeleins.de,sixx.de##[-abp-properties='position: relative; width: 940px;']
 ran.de##[-abp-properties='position: relative; width: 960px;']
 lifeline.de##[-abp-properties='position: relative;'] > div > img
+fanfiktion.de##[-abp-properties='right: -130px;'] > img
 videogameszone.de##[-abp-properties='right: 1270px;']
 gamona.de##[-abp-properties='right: 989*px;']
 autobild.de,caravaning.de,experto.de,gala.de,motorradonline.de,promobil.de,ran.de,serienjunkies.de,shz.de,sixx.de,spox.com,tvtoday.de,wetter.com##[-abp-properties='text-align: center;'] > img
@@ -10260,4 +10282,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: IF9QMLCAqyjV/cjMXxd51Q
+! Checksum: cEErMm9vwEIZ5kP18odlsQ
