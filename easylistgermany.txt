@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611020456
+! Version: 201611020457
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Nov 2016 04:56 UTC
+! Last modified: 02 Nov 2016 04:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10035,13 +10035,10 @@ eatsmarter.de##span + span > a > img
 @@||s.bs.to/js/main.min.js|$script,domain=~board.bs.to|bs.to
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
 @@||sascdn.com/diff/*/index.html?$subdocument,domain=finanzen.net
-@@||sascdn.com/diff/*/pages/$script,domain=derwesten.de|hoerzu.de
 @@||sascdn.com/diff/251/$image,domain=transfermarkt.de
 @@||sascdn.com/diff/251/*_650x400px.$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/5489376/500x305_ms_wei_.jpg$image,domain=gofeminin.de
-@@||sascdn.com/diff/251/pages/$script,domain=finanzen.net|gofeminin.de
-@@||sascdn.com/diff/251/pages/gofeminin.js$domain=gofeminin.de
-@@||sascdn.com/diff/251/pages/transfermarkt.js$domain=transfermarkt.de
+@@||sascdn.com/diff/251/pages/$script,domain=derwesten.de|finanzen.net|gofeminin.de|hoerzu.de|transfermarkt.de
 @@||sascdn.com/diff/video/$script,domain=kleinezeitung.at
 @@||sascdn.com/video/$script,domain=kleinezeitung.at
 @@||saugking.net/css/ads.css
@@ -10359,4 +10356,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: bdGnxuqmUB+Nny4yiRg+zg
+! Checksum: nvm/bq+gIdlorDfzxwpcWQ
