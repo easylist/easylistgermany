@@ -54,7 +54,6 @@
 @@||ads.heias.com/x/heias.smartclip/?$script,domain=podcast.de
 @@||ads.heias.com^*/heias.stream/$object,object-subrequest,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
-@@||ads.mybet.com/redirect.aspx?pid=$popup,domain=gewinnspiele.freenet.de
 @@||ads.radioffn.c.nmdn.net/ps-radioffn/livestream.mp3$object-subrequest,domain=radio.de
 @@||ads.smartfeedads.com^$domain=motorrad2000.de
 @@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vogue.de
@@ -334,7 +333,6 @@
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
 @@||serving-sys.com/BurstingCachedScripts/*/ebStdBanner.js$domain=cnet.de
 @@||serving-sys.com/BurstingCachedScripts/ebBanner_$script,domain=cnet.de
-@@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=gofeminin.de
 @@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=cnet.de
 @@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||serving-sys.com/BurstingRes//Site-*/Type-*/$script,domain=cnet.de
