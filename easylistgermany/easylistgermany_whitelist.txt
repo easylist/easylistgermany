@@ -316,8 +316,10 @@
 @@||sascdn.com/diff/*/index.html?$subdocument,domain=finanzen.net
 @@||sascdn.com/diff/*/pages/$script,domain=derwesten.de|hoerzu.de
 @@||sascdn.com/diff/251/$image,domain=transfermarkt.de
+@@||sascdn.com/diff/251/*_650x400px.$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/5489376/500x305_ms_wei_.jpg$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/pages/$script,domain=finanzen.net|gofeminin.de
+@@||sascdn.com/diff/251/pages/gofeminin.js$domain=gofeminin.de
 @@||sascdn.com/diff/251/pages/transfermarkt.js$domain=transfermarkt.de
 @@||sascdn.com/diff/video/$script,domain=kleinezeitung.at
 @@||sascdn.com/video/$script,domain=kleinezeitung.at
@@ -332,6 +334,7 @@
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
 @@||serving-sys.com/BurstingCachedScripts/*/ebStdBanner.js$domain=cnet.de
 @@||serving-sys.com/BurstingCachedScripts/ebBanner_$script,domain=cnet.de
+@@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=gofeminin.de
 @@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=cnet.de
 @@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||serving-sys.com/BurstingRes//Site-*/Type-*/$script,domain=cnet.de
@@ -342,6 +345,7 @@
 @@||smartadserver.com/ac?*^tag=sas_33037^$script,domain=gofeminin.de
 @@||smartadserver.com/ac?nwid=$script,domain=finanzen.net
 @@||smartadserver.com/ac?nwid=251&siteid=59638&pgname=home&fmtid=4459&$script,domain=transfermarkt.de
+@@||smartadserver.com/ac?nwid=251&siteid=75630&pgname=home*&tag=sas_$script,domain=gofeminin.de
 @@||smartadserver.com/call/pubi/*/(bild/*/?format=.mp4$media,domain=bild.de
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
