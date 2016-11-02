@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611020454
+! Version: 201611020456
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Nov 2016 04:54 UTC
+! Last modified: 02 Nov 2016 04:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9776,7 +9776,6 @@ eatsmarter.de##span + span > a > img
 @@||ads.heias.com/x/heias.smartclip/?$script,domain=podcast.de
 @@||ads.heias.com^*/heias.stream/$object,object-subrequest,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
-@@||ads.mybet.com/redirect.aspx?pid=$popup,domain=gewinnspiele.freenet.de
 @@||ads.radioffn.c.nmdn.net/ps-radioffn/livestream.mp3$object-subrequest,domain=radio.de
 @@||ads.smartfeedads.com^$domain=motorrad2000.de
 @@||adserv.quality-channel.de/crossdomain.xml$object-subrequest,domain=glamour.de|gq-magazin.de|myself.de|vogue.de
@@ -10056,7 +10055,6 @@ eatsmarter.de##span + span > a > img
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
 @@||serving-sys.com/BurstingCachedScripts/*/ebStdBanner.js$domain=cnet.de
 @@||serving-sys.com/BurstingCachedScripts/ebBanner_$script,domain=cnet.de
-@@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=gofeminin.de
 @@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=cnet.de
 @@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||serving-sys.com/BurstingRes//Site-*/Type-*/$script,domain=cnet.de
@@ -10342,6 +10340,7 @@ kalender-365.de#@#.adsbygoogle
 @@||888casino.com^$popup,domain=online-casino.de
 @@||ad.doubleclick.net/clk;$popup,domain=gutscheindoktor.de|mydealz.de
 @@||adform.net^$popup,domain=onvista.de
+@@||ads.mybet.com/redirect.aspx?pid=$popup,domain=gewinnspiele.freenet.de
 @@||ads.qipu.de/www/delivery/ck.php?zoneid=$popup
 @@||ads.smartfeedads.com^$popup,domain=motorrad2000.de
 @@||adspirit.de^$popup,domain=dealdoktor.de
@@ -10352,6 +10351,7 @@ kalender-365.de#@#.adsbygoogle
 @@||getmyads.com^$popup,domain=wieverdienen.online
 @@||partycasino.com^$popup,domain=online-casino.de
 @@||pubads.g.doubleclick.net/gampad/clk?$popup,domain=cnet.de
+@@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=gofeminin.de
 @@||slimtrade.com/out.php?*&g=http://www.hoerbuch.us/protection/folder_$popup,domain=hoerbuch.us
 @@||slimtrade.com/out.php?*&g=http://www.lesen.to/protection/folder_$popup,domain=lesen.to
 @@||stargames.com^$popup,domain=online-casino.de
@@ -10359,4 +10359,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: kEqTeKYPqUhQ22plW436SA
+! Checksum: bdGnxuqmUB+Nny4yiRg+zg
