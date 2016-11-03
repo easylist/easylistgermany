@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611031811
+! Version: 201611031852
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Nov 2016 18:11 UTC
+! Last modified: 03 Nov 2016 18:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9548,6 +9548,7 @@ formel1.de##[-abp-properties='max-height: 250.1px; max-width: 74.*em;']
 motorsport-total.com##[-abp-properties='max-height: 250.1px; max-width: 80.91em;']
 motorsport-total.com##[-abp-properties='max-height: 250.1px; max-width: 80.9em;']
 pixelio.de##[-abp-properties='max-height: 250.1px; max-width: 88.2em;']
+quoka.de##[-abp-properties='max-height: 250.1px; max-width: 972px;']
 autozeitung.de##[-abp-properties='max-height: 250.1px; max-width: 97em; position: relative; width: 1140px;']
 formel1.de##[-abp-properties='max-height: 250.2px; max-width: 23.07*em;']
 fremdwort.de##[-abp-properties='max-height: 250.2px; max-width: 60.625em;']
@@ -9561,6 +9562,7 @@ wize.life##[-abp-properties='max-height: 250px; max-width: 64.667em;']
 quoka.de,tvinfo.de##[-abp-properties='max-height: 250px; max-width: 800px;']
 quoka.de,weser-kurier.de##[-abp-properties='max-height: 250px; max-width: 970px;']
 autozeitung.de,donnerwetter.de,formel1.de,fremdwort.de,infranken.de,motorsport-total.com,news.de,nickles.de,pixelio.de,quoka.de,tabtech.de##[-abp-properties='max-height: 250px;']
+quoka.de##[-abp-properties='max-height: 251px; max-width: 302px;']
 fremdwort.de##[-abp-properties='max-height: 260.2px; max-width: 18.75em;']
 wize.life##[-abp-properties='max-height: 262px; max-width: 20em;']
 inside-handy.de##[-abp-properties='max-height: 300.*px; max-width: 76.*em;']
@@ -9591,8 +9593,10 @@ deine-tierwelt.de,epochtimes.de,quoka.de,tvinfo.de,weser-kurier.de,wintotal.de##
 wize.life##[-abp-properties='max-height: 600px; max-width: 20em;']
 abacho.de##[-abp-properties='max-height: 600px; max-width: 300.*px;']
 abacho.de##[-abp-properties='max-height: 600px; max-width: 300.01px;']
+quoka.de##[-abp-properties='max-height: 600px; max-width: 300.1px;']
 epochtimes.de##[-abp-properties='max-height: 600px; max-width: 300px;']
 quoka.de##[-abp-properties='max-height: 601px; max-width: 161px;']
+quoka.de##[-abp-properties='max-height: 601px; max-width: 300.1px;']
 autozeitung.de##[-abp-properties='max-height: 60em; max-width: 300.1px;']
 donnerwetter.de##[-abp-properties='max-height: 60px; max-width: 33.*em;']
 donnerwetter.de##[-abp-properties='max-height: 60px; max-width: 33.428em;']
@@ -9645,6 +9649,7 @@ serienjunkies.de##[-abp-properties='position: relative; width: 934px;']
 serienjunkies.de##[-abp-properties='position: relative; width: 938px;']
 kabeleins.de,sixx.de##[-abp-properties='position: relative; width: 940px;']
 ran.de##[-abp-properties='position: relative; width: 960px;']
+quoka.de##[-abp-properties='position: relative; width: 980px;']
 lifeline.de##[-abp-properties='position: relative;'] > div > img
 fanfiktion.de##[-abp-properties='right: -130px;'] > img
 videogameszone.de##[-abp-properties='right: 1270px;']
@@ -10405,4 +10410,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: XKJZx5j1sH23VeDP9knReA
+! Checksum: uFJvHu59ev+X5BHy4iAQmg
