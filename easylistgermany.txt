@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611020457
+! Version: 201611031808
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Nov 2016 04:57 UTC
+! Last modified: 03 Nov 2016 18:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3208,10 +3208,8 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||pz-news.de^*/module_wb/
 ||querverweis.net/show/index.php?sac_cat=
 ||quoka.de/fif.html
-||quoka.de/isl87a/*?$script
 ||quoka.de/partner/$subdocument
 ||quoka.de/services/get_json.js?*=$xmlhttprequest
-||quoka.de^*-|$script
 ||r3view.de/images/banners/
 ||radio-siam.de/banner/
 ||radio.de/banners/$~object-subrequest
@@ -3860,21 +3858,11 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
-@@||quoka.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
-||a.twiago.com^$domain=quoka.de
-||adheart.de^$domain=quoka.de
 ||adnet.de^$domain=tellows.de
 ||adsafeprotected.com^$domain=imasdk.googleapis.com
 ||adtech.de^$domain=tellows.de
-||google.com/adsense/$domain=quoka.de
 ||googleadservices.com^$domain=tellows.de
-||googlesyndication.com^$domain=quoka.de
-||mpnrs.com^$domain=quoka.de
-||oadts.com^$domain=quoka.de
-||partner.googleadservices.com^$domain=quoka.de
-||quoka.de/fifligatus.php$domain=quoka.de
-||rubiconproject.com^$domain=quoka.de
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block_popup.txt ***
 .gif|$popup,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
 .png|$popup,domain=audio.de|colorfoto.de|connect.de|connected-home.de|epochtimes.de|pc-magazin.de|video-magazin.de
@@ -10276,7 +10264,6 @@ kalender-365.de#@#.adsbygoogle
 @@||picload.org/ads-1.js
 @@||ping-timeout.de/banner/ads/adserver/click/ad.js
 @@||proverbia-iuris.de^$elemhide
-@@||quoka.de^*/adframe.js
 @@||rappers.in^$elemhide
 @@||rawgit.com^$script,domain=jappy.de
 @@||rechnungswesenforum.de/abp/adblock_detector.js
@@ -10356,4 +10343,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: nvm/bq+gIdlorDfzxwpcWQ
+! Checksum: B+Kxg7BW6mkcUllZ8bC8jA
