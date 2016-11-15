@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611140742
+! Version: 201611151807
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 14 Nov 2016 07:42 UTC
+! Last modified: 15 Nov 2016 18:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10157,6 +10157,7 @@ eatsmarter.de##span + span > a > img
 @@||milesandmore-aktionen.de^*://promo.$subdocument,domain=promo.milesandmore.com
 @@||mirapodo.de/ads?$script
 @@||mmcomputer.de^*&BannerID=$subdocument
+@@||mobilbranche.de/mobilbranche/wp-content/uploads/$image,domain=mobilbranche.de
 @@||mobilegeeks.de/wp-content/uploads/*/Google-Ads.$image,domain=mobilegeeks.de
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
 @@||msi-computer.de/js/topad/topad.css
@@ -10536,4 +10537,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: MVybFjtgZ/0ryRkHCm4HDg
+! Checksum: JnR52ckqqqXKMZuIrvDvJQ
