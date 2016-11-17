@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611170737
+! Version: 201611171835
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 Nov 2016 07:37 UTC
+! Last modified: 17 Nov 2016 18:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5491,6 +5491,7 @@ primavera24.de##.contentBanner
 buffed.de,gamezone.de,pcgames.de##.contentFrameEddie
 1001spiele.de##.contentIndex > #contentRow
 energiesparen-im-haushalt.de##.contentMainWrap > div[style="background:#A6BF2D;width:468px;height:94px;"]
+koeln.de##.contentRect
 itwissen.info##.content_banner
 sound-load.com##.content_box_content_dl > div + .fc + div
 inside-digital.de,inside-handy.de##.content_ins
@@ -10615,4 +10616,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 3Maxth3nC35ZXu6sIi3zsQ
+! Checksum: wpcKVRAZNS2M5o/d2tro9A
