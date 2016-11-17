@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611172029
+! Version: 201611172038
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 Nov 2016 20:29 UTC
+! Last modified: 17 Nov 2016 20:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1379,6 +1379,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||pm.swingerdatenbank.com^$third-party
 ||pm.tittendating.com^$third-party
 ||pn.bestcheck.de/embed/bc$third-party
+||pn.bestcheck.de/widget$third-party
 ||pndapi.com/?proj=$subdocument,third-party
 ||pocket.at/banner/herold300x250.swf
 ||ponsline.net/assets2/Banner_
@@ -1962,6 +1963,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||chilloutzone.net/invokers/sfuchs/
 ||chilloutzone.net^*/weedseed-banner.jpg
 ||china.ahk.de/uploads/tx_bannermanagement/
+||chip.de/embed/bc10.js
 ||chip.de/hphdas2/
 ||chip.de/teaser/c1_teaser_frei_*.html$xmlhttprequest
 ||chip.de/unabh_dateien/*/videoskin_$image
@@ -3093,6 +3095,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||paules-pc-forum.de/images/teufel/
 ||pc-experience.de/iframe/iframe.html
 ||pc-experience.de/iFrame/iframe_pce.html
+||pc-magazin.de^*/partner.js
 ||pc-max.de^*/banners/
 ||pcgameshardware.de^*/miniteaser/
 ||pcmasters.de/forum/pcm-werbefrei.$image
@@ -10612,4 +10615,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: PEEAz8X18lB5NnJv5yMoCA
+! Checksum: ePPsffUBNXpbTAt0HKwrhw
