@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611172017
+! Version: 201611172027
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 Nov 2016 20:17 UTC
+! Last modified: 17 Nov 2016 20:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3433,6 +3433,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||spielesite.com^*/sponsoren_search.php
 ||spielesnacks.de/wp-content/uploads/*-wallpaperx.jpg
 ||spieletipps.de/js/stroeer_prod_dfp_recovery.js
+||spieletipps.de/spx/$media,other
 ||spinnes-board.de/banner/mail.gif
 ||sport1.de/img/TRB_SPORT1_810x90px_
 ||sport1.de^*/presenting_
@@ -6775,6 +6776,7 @@ verboten.to##a[href^="http://www.sofort-geld-verdienen.com"]
 shortnews.de##a[href^="http://www.sparwelt.de/"]
 speedshare.org##a[href^="http://www.speedshare.org/ads"]
 spieletipps.de##a[href^="http://www.spieletipps.de/sp/"]
+spieletipps.de##a[href^="http://www.spieletipps.de/spx/"]
 der-postillon.com##a[href^="http://www.spreadshirt.de/track.php?affiliate="]
 goldesel.to##a[href^="http://www.spyoff.com/"]
 linkfarm.in,pornkino.to,xxx-blog.to##a[href^="http://www.stargames.com/bridge.asp?"]
@@ -7004,6 +7006,7 @@ chip.de##div[data-adzone="contentad-storyad-afc"]
 giga.de##div[data-click-url="http://www.giga.de/go/jimr"]
 amazon.de##div[id$="_adcontent"]
 0o2.de##div[id$="spbox"]
+spieletipps.de##div[id*="_adblock_sd"]
 vol.at##div[id^="AdContainer_"]
 www.blick.ch##div[id^="CT299"]
 t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
@@ -7387,6 +7390,7 @@ schoener-fernsehen.com##img[id$="icon"]
 schoener-fernsehen.com##img[id$="icon"] + p
 ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
 seatforum.de##img[src="http://www.seatforum.de/forum/images/anzeige.gif"] + a[target="_blank"] > img
+spieletipps.de##img[src^="http://www.spieletipps.de/spx/"]
 epochtimes.de##img[style*="display: block ! important"]
 wintotal.de##img[style*="display: block ! important;"]
 tsv1860ro-fussball.de##img[style="left: 0px; top: 1100px; width: 400px; height: 200px;"]
@@ -10607,4 +10611,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: p2mwSXkqFYDHv/Y6/YTjyQ
+! Checksum: PlkLXr2z3XxxRuFuXmC6WQ
