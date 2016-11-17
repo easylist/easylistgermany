@@ -17,8 +17,8 @@
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
-@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|bundesliga.de|gamepro.de|myvideo.de|n24.de|netzwelt.de|sport1.fm
-@@||ad.71i.de/global_js/Sites/$script,domain=gamepro.de|gamestar.de|n24.de|netzwelt.de|sport1.fm
+@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|bundesliga.de|myvideo.de|n24.de|netzwelt.de|sport1.fm
+@@||ad.71i.de/global_js/Sites/$script,domain=n24.de|netzwelt.de|sport1.fm
 @@||ad.71i.de/images/fallback/video/1_sek.mp4$domain=netzwelt.de
 @@||ad.adworx.at/crossdomain.xml$object-subrequest
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
@@ -182,13 +182,11 @@
 @@||g-stream.in/lla2/smoothscroll.js
 @@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|zalando.de
 @@||galileo.tv/js/my_ad_integration.js
-@@||gamepro.de/js/gamepro/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
 @@||gamers.at/images/branding/*/header.
 @@||gamers.at/images/branding/*/header_
 @@||gamers.at/images/branding/*_header.
 @@||games.tfag.de^$domain=fitforfun.de
-@@||gamestar.de/js/gamestar/my_ad_integration.min.js$domain=gamestar.de
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
 @@||gmx.net^*/video-adserver-config.xml$object-subrequest
 @@||go-parc-hf.de^*.php?ad=$subdocument
