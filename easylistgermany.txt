@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611172009
+! Version: 201611172017
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 Nov 2016 20:09 UTC
+! Last modified: 17 Nov 2016 20:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1387,6 +1387,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||porndude.com^*/layer.php?
 ||pornme.com/banners/$third-party
 ||pornme.com^*/iframegenerator/$third-party
+||pornme.pm/wrb/
 ||pornsearch.to/images/banner/
 ||power-affiliate.6x.to^$third-party
 ||power-affliate.blogspot.com^$third-party
@@ -10606,4 +10607,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: wU8quIFdEyIMu4qFLCwaGg
+! Checksum: p2mwSXkqFYDHv/Y6/YTjyQ
