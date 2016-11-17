@@ -1,3 +1,4 @@
+$websocket,domain=animes-stream24.net
 &campaignid=*&zoneid=$domain=technic3d.com
 /?placement=$domain=movie-blog.org
 /http://cdn[0-9]\.spiegel\.de/images/image-([^-]+)-[^-]+-[^-]+-(?!\1)[^-]+\.jpg/$image,domain=spiegel.de
@@ -5,6 +6,7 @@
 /worker.php$domain=filmpalast.to
 /www/images/*$domain=technic3d.com
 ^what=zone^$domain=ww3.cad.de
+|blob:$script,domain=animes-stream24.net
 |http://$subdocument,third-party,domain=bonimail.de
 |http://*.pw^$script,domain=byte.to
 |http://byte.to^$script
