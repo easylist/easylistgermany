@@ -84,7 +84,6 @@
 @@||alfred-delp-schule.de/ads_$~third-party
 @@||am-display.com/display-ad/tag-set/$subdocument,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||am-display.com/display-ad/tag/$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
-@@||amazon-adsystem.com/aax2/amzn_ads.js$domain=finanzen.net
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net|hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||ankerbrot.at/_ads/$~third-party
 @@||anonza.de^*/adonline.css
@@ -173,7 +172,6 @@
 @@||fewo-direkt.de^*/advertiser.css
 @@||fh-muenster.de/leitbild/banner.php
 @@||filecrypt.cc/index.php?Action=Go&id=$subdocument,domain=filecrypt.cc
-@@||finanzen.net^$elemhide
 @@||firebaseapp.com^$script,domain=freenet.de
 @@||fn-neon.de/javascript/adserver_banner.js
 @@||forum-duewupp.de/images/ad-gallery/$~third-party
@@ -279,8 +277,6 @@
 @@||osthessen-tv.de/werbebanner/$object-subrequest
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=speedweek.com|spielen.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=finanzen.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=finanzen.net
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=cnet.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spielen.com
 @@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.at|rakuten.de
@@ -313,11 +309,10 @@
 @@||s.bs.to/js/jquery.js|$script,domain=~board.bs.to|bs.to
 @@||s.bs.to/js/main.min.js|$script,domain=~board.bs.to|bs.to
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
-@@||sascdn.com/diff/*/index.html?$subdocument,domain=finanzen.net
 @@||sascdn.com/diff/251/$image,domain=transfermarkt.de
 @@||sascdn.com/diff/251/*_650x400px.$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/5489376/500x305_ms_wei_.jpg$image,domain=gofeminin.de
-@@||sascdn.com/diff/251/pages/$script,domain=derwesten.de|finanzen.net|gofeminin.de|hoerzu.de|transfermarkt.de
+@@||sascdn.com/diff/251/pages/$script,domain=derwesten.de|gofeminin.de|hoerzu.de|transfermarkt.de
 @@||sascdn.com/diff/video/$script,domain=kleinezeitung.at
 @@||sascdn.com/video/$script,domain=kleinezeitung.at
 @@||saugking.net/css/ads.css
@@ -339,18 +334,13 @@
 @@||smart.allocine.fr/call/pubx/*&video=$object-subrequest
 @@||smartadserver.com/a/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/ac?*^tag=sas_33037^$script,domain=gofeminin.de
-@@||smartadserver.com/ac?nwid=$script,domain=finanzen.net
 @@||smartadserver.com/ac?nwid=251&siteid=59638&pgname=home&fmtid=4459&$script,domain=transfermarkt.de
 @@||smartadserver.com/ac?nwid=251&siteid=75630&pgname=home*&tag=sas_$script,domain=gofeminin.de
 @@||smartadserver.com/call/pubi/*/(bild/*/?format=.mp4$media,domain=bild.de
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/smartad.js$domain=derwesten.de|hoerzu.de|sky.de
-@@||smartadserver.com/diff/251/divscripte/$script,domain=finanzen.net
-@@||smartadserver.com/diff/251/divscripte/$subdocument,domain=finanzen.net
-@@||smartadserver.com/diff/251/divscripte/adplayer.css$domain=finanzen.net
-@@||smartadserver.com/diff/251/partners/$script,domain=finanzen.net
-@@||smartadserver.com/diff/251/smartad.js$domain=finanzen.net|gofeminin.de
+@@||smartadserver.com/diff/251/smartad.js$domain=gofeminin.de
 @@||smartadserver.com/diff/js/smartadserver.js$domain=freestream.nmdn.net
 @@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|podcast.de|radiobob.de
 @@||smartclip.net/inpage/inpage.js
