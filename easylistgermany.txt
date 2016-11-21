@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611180741
+! Version: 201611210723
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 Nov 2016 07:41 UTC
+! Last modified: 21 Nov 2016 07:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7713,6 +7713,7 @@ sportal.de###HeaderMenuBottomSub + * + * + [-abp-properties='text-align: center;
 sportal.de###HeaderMenuBottomSub + * + [-abp-properties='text-align: center;'] > a > img
 1erforum.de,dasheimwerkerforum.de,modernboard.de,skodacommunity.de,vermieter-forum.com###Rectangle > [-abp-properties='cursor: pointer;']
 kabeleins.de###ad-skyscraper + * + * + * [-abp-properties='width: 727px;'] > img
+gusto.at###ad-top + * + * + * > div > div > img
 gusto.at###ad-top + * + * > div > div > img
 finanztreff.de###adEventSpacer + * + * + * + * + * + [-abp-properties='text-align: center;'] > img
 finanztreff.de###adEventSpacer + * + * + * + [-abp-properties='text-align: center;'] > img
@@ -7746,6 +7747,7 @@ tvdigital.de###block-block-112 + [-abp-properties='margin-left: 20px;']
 tvdigital.de###block-block-112 + div + [-abp-properties='margin-top: 13px;'] > img
 ran.de###bottom-zone + * + [-abp-properties='left: -13px; position: relative;'] > img
 ran.de###bottom-zone + * > [-abp-properties='cursor: pointer;']
+motorradonline.de###breadcrumb + * + * + * + * + * + * + * + * + * + * + * + * + * + a > img
 motorradonline.de###breadcrumb + * + * + * + * + * + * + * + * + * + * + * + a > img
 motorradonline.de###breadcrumb + * + * + * + * + * + * + * + * + * + * + a > img
 motorradonline.de###breadcrumb + * + * + * + * + * + * + * + * + a > img
@@ -7777,6 +7779,7 @@ spiegel.de###content-main > [-abp-properties='bottom: 20px;'] > a > img
 lustich.de###contentTopBg > [-abp-properties='height: 9*px; margin-bottom: *px; margin-left: *px; margin-right: *;']
 meinestadt.de###coop-navigation + [-abp-properties='text-align: center;']
 hoerzu.de###fb-root + * + * + * + * + * + * + * + * + * + * + div > :first-child > img
+ariva.de###foot > .adControllerAd + div + div + div + div + div + div > img
 ariva.de###foot > .adControllerAd + div + div + div > img
 ariva.de###foot > .adControllerAd + div + div > img
 ariva.de###foot > .adControllerAd + div > img
@@ -7785,7 +7788,9 @@ woxikon.de###footer > [-abp-properties='top: 6px;'] > a > img
 woxikon.de###footer > [-abp-properties='top: 7px;']
 woxikon.de###footer > div > [-abp-properties='top: 6px;'] > img
 tvspielfilm.de###footer [-abp-properties='cursor: pointer;']
+spox.com###frnMain > div > [-abp-properties='margin-bottom: 10px; margin-top: 10px;'] > img
 hoerzu.de###google_ad_no_bb + * + * > div > :first-child > img
+pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + span > a > img
 pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + span > a > img
 pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + span > a > img
 pcwelt.de###header + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + * + span > a > img
@@ -7836,6 +7841,7 @@ macwelt.de###header + div > a + div + a > img
 pcwelt.de###header + div > a > img
 klettern-magazin.de,klettern.de,outdoor-magazin.com###header [-abp-properties='left: 84px; position: relative;'] > img
 nwzonline.de###header-container + * div > span > [-abp-properties='text-align: center;'] > div > img
+wn.de###header-position + * + * + * + * + * + * + * + * + * + * + [-abp-properties='bottom: 4px;'] > div > img
 wn.de###header-position + * + * + * + * + * + [-abp-properties='bottom: 4px;'] > div > img
 wn.de###header-position + * + * + * + * + [-abp-properties='bottom: 4px;'] > div > img
 gamezone.de###header2 + * + * > div > [-abp-properties='left: 1px; position: relative;'] > img
@@ -7888,6 +7894,7 @@ autopixx.de###nab_top + * + * + [-abp-properties='padding-bottom: 10px;'] > img
 funfire.de###nab_top + * + * + div > [-abp-properties='margin-bottom: 10px;'] > img
 4players.de###navi + * + * + * + [-abp-properties='margin-top: 16px;'] > img
 4players.de###navi + * + * + [-abp-properties='margin-top: 16px;'] > img
+arcor.de###oop_1 + * + * + * + * + * + * + [-abp-properties='left: 9px;'] > a > img
 arcor.de###oop_1 + * + * + * + * + * + [-abp-properties='left: 9px;'] > a > img
 arcor.de###oop_1 + * + * + * + * + [-abp-properties='left: 9px;'] > a > img
 arcor.de###oop_1 + * + * + [-abp-properties='left: 9px; position: relative;'] > a > img
@@ -7993,6 +8000,7 @@ genialetricks.de,gutfuerdich.co,heftig.de,leckerschmecker.me,tierfreund.co##.ad-
 genialetricks.de,gutfuerdich.co,heftig.de,leckerschmecker.me,tierfreund.co##.ad-leaderboard + div > [-abp-properties='left: 29px;'] > img
 genialetricks.de,gutfuerdich.co,heftig.de,leckerschmecker.me,tierfreund.co##.ad-leaderboard + div > [-abp-properties='left: 30.1px;'] > img
 genialetricks.de,gutfuerdich.co,heftig.de,leckerschmecker.me,tierfreund.co##.ad-leaderboard + div > [-abp-properties='left: 30px;'] > img
+general-anzeiger-bonn.de##.ad-skyscraper.left + * + * + * + * + * > div + div > div > a > img
 funfire.de##.ad768 + [-abp-properties='width: 728.*px;'] > img
 funfire.de##.ad768 + [-abp-properties='width: 728px;'] > img
 funfire.de##.ad768 + [-abp-properties='width: 729.*px;'] > img
@@ -8038,6 +8046,7 @@ spiegel.de##.article-section > * > [-abp-properties='margin-right: 8px;']
 spiegel.de##.article-section > [-abp-properties='clear: right; float: right;'] > div > img
 spiegel.de##.article-section > [-abp-properties='clear: right;'] > * > img
 spiegel.de##.article-section > [-abp-properties='clear: right;'] > div > img
+spiegel.de##.article-section > div > [-abp-properties='clear: right;'] > * > img
 caravaning.de##.article_content > div > [-abp-properties='cursor: pointer;']
 autobild.de##.articlecontent + * > [-abp-properties='cursor: pointer;']
 experto.de##.artikelmain > [-abp-properties='cursor: pointer']
@@ -8084,6 +8093,7 @@ arcor.de##.footer section > a > img
 sat1gold.de##.grid_300 > [-abp-properties='cursor: pointer;']
 prosiebenmaxx.de##.grid_300 > [-abp-properties='position: relative;']
 ran.de,sat1gold.de##.grid_300 [-abp-properties='cursor: pointer;']
+stern.de##.header + * + * + [-abp-properties='text-align: center;'] > img
 abendzeitung-muenchen.de##.header > div > div > [-abp-properties='padding-bottom: 25px;'] > img
 pcgameshardware.de##.header2 + * + * > div > [-abp-properties='margin-left: 6px;'] > img
 lifeline.de##.header_menu + * + * > div > [-abp-properties='margin-bottom: 20px;'] > img
@@ -8121,7 +8131,9 @@ experto.de##.main_left > [-abp-properties='cursor: pointer']
 boerse-online.de##.main_right > [-abp-properties='margin-left: 10px;']
 caravaning.de##.mainad + [-abp-properties='text-align: center;']
 auto-motor-und-sport.de##.maincol > [-abp-properties='display: block; margin-left: 16px;']
+landwirt.com##.mainnavigation + * + * + div > [-abp-properties='text-align: center;'] > img
 landwirt.com##.mainnavigation + * + div > [-abp-properties='text-align: center;'] > img
+woman.at##.md_pageheader + * + * + div > img
 woman.at##.md_pageheader + * + div > img
 lustaufsleben.at##.menu-inner-wrapper + * > [-abp-properties='margin-bottom: 5px;'] > img
 gamezone.de##.module > [-abp-properties='padding-left: 27px;'] > div > img
@@ -8177,6 +8189,7 @@ genialetricks.de,gutfuerdich.co,heftig.de,leckerschmecker.me,tierfreund.co##.pos
 genialetricks.de,gutfuerdich.co,heftig.de,leckerschmecker.me,tierfreund.co##.post-image-container + * + * + div > img
 arcor.de##.powerVIEW_wrapper + * + * + * + * + [-abp-properties='margin-left: 14px;'] > a > img
 arcor.de##.powerVIEW_wrapper + * + * + [-abp-properties='margin-left: 14px;'] > a > img
+arcor.de##.powerVIEW_wrapper + [-abp-properties='margin-left: 12px;'] > a > img
 auto-motor-und-sport.de##.r [-abp-properties='cursor: pointer;']
 wetter.com##.rectangle-home > div:first-child > a[href]:last-child > img
 genialetricks.de,gutfuerdich.co,heftig.de,leckerschmecker.me,tierfreund.co##.right-column > [-abp-properties='left: 10px; margin-left: 7px;']
@@ -8192,6 +8205,7 @@ buffed.de##.rightWing > [-abp-properties='margin-left: -5px;']
 pcgameshardware.de##.rightWing > [-abp-properties='position: fixed; top: 120px;'] > img
 wn.de##.rightcol > [-abp-properties='margin-bottom: 22.*px;']
 wn.de##.rightcol > [-abp-properties='margin-bottom: 22.1px;']
+wn.de##.rightcol > [-abp-properties='margin-bottom: 24px;']
 gala.de##.row > * > [-abp-properties='padding-top: 10px;']
 gala.de##.row > [-abp-properties='left: 6px; top: 6px;']
 gala.de##.row > [-abp-properties='text-align: center;'] > * > img
@@ -8218,6 +8232,7 @@ bikemarkt.mtb-news.de##.span4 > a > img
 trend.at##.sprite.format-logo + li > img
 hamburg.de##.teaser .sponsored + div > img
 auto-motor-und-sport.de##.teaser.b > * > [-abp-properties='margin-left: 14px;']
+trend.at##.top-leiste + * + div > img
 profil.at##.top-leiste + div
 eatsmarter.de##.top_ad + * + * + * + span > a > img
 eatsmarter.de##.top_ad + * + * + span > a > img
@@ -8258,12 +8273,14 @@ autoextrem.de,winboard.org##.yui-sidebar div > div > a > img
 motorradonline.de##.zerobox > [-abp-properties='cursor: pointer;'] > img
 boerse-online.de,fem.com,flugzeugforum.de,kabeleins.de,prosieben.de,prosiebenmaxx.de,sat1.de,sat1gold.de,serienjunkies.de,sixx.de,the-voice-of-germany.de##[-abp-properties='*left: *px*; position: absolute; top: *px;'] > img
 auto-motor-und-sport.de,usp-forum.de##[-abp-properties='*left: 10*px*; position: absolute; top: *px;'] > img
+news.at,tv-media.at##[-abp-properties='*left: 231*px;']
 pcgames.de##[-abp-properties='background-color*; bottom*; cursor: pointer; left*; position: absolute; right*; top: 0px;']
 wetter.com##[-abp-properties='bottom*; left: 108px; position: relative;']
 spiegel.de##[-abp-properties='bottom: 21.*px;']
 spiegel.de##[-abp-properties='bottom: 21.01px;']
 spiegel.de##[-abp-properties='bottom: 21.02px;'] > img
 spiegel.de##[-abp-properties='bottom: 21px;'] > img
+spiegel.de##[-abp-properties='bottom: 22px;'] > img
 wetter.com##[-abp-properties='bottom: 270px; left: 770px; position: absolute;']
 sixx.de##[-abp-properties='bottom: 2px; left: 38px; position: relative;']
 woxikon.de##[-abp-properties='bottom: 2px; position: relative; text-align: center;']
@@ -8464,7 +8481,7 @@ wetter.com##[-abp-properties='left: 108px; position: relative;']
 fem.com##[-abp-properties='left: 108px;']
 wetter.com##[-abp-properties='left: 108px;'] > img
 autoexperience.de,autoextrem.de,fitness-foren.de,kreatives-wohnforum.de,lpgforum.de,mazda-forum.info,pkw-forum.de,teccentral.de,win-8-forum.net,winboard.org,windows-7-forum.net##[-abp-properties='left: 109*px;']
-mehr-tanken.de##[-abp-properties='left: 109*px;'] > img
+mehr-tanken.de,stern.de##[-abp-properties='left: 109*px;'] > img
 flugzeugforum.de##[-abp-properties='left: 1090px;']
 mehr-tanken.de##[-abp-properties='left: 1099*px;']
 fem.com,lustich.de##[-abp-properties='left: 109px; position: relative;']
@@ -8629,6 +8646,7 @@ shz.de##[-abp-properties='left: 23.61px;']
 shz.de##[-abp-properties='left: 23.6px;']
 shz.de##[-abp-properties='left: 23.7*px;']
 shz.de##[-abp-properties='left: 23.8*px;']
+woman.at##[-abp-properties='left: 230.*px;']
 woman.at##[-abp-properties='left: 231px;']
 tv-media.at##[-abp-properties='left: 232px;']
 mehr-tanken.de##[-abp-properties='left: 235px;']
@@ -8773,6 +8791,7 @@ the-voice-of-germany.de##[-abp-properties='left: 47.7*px;']
 the-voice-of-germany.de##[-abp-properties='left: 47.8*px;']
 the-voice-of-germany.de##[-abp-properties='left: 47.9*px;']
 planetsnow.de,prosiebenmaxx.de##[-abp-properties='left: 47px;']
+gala.de##[-abp-properties='left: 47px;'] > img
 the-voice-of-germany.de##[-abp-properties='left: 48.*px;']
 the-voice-of-germany.de##[-abp-properties='left: 48.0*px;']
 the-voice-of-germany.de##[-abp-properties='left: 48.1*px;']
@@ -8882,6 +8901,7 @@ sat1gold.de##[-abp-properties='left: 76px; position: relative; z-index: 70;']
 sat1gold.de##[-abp-properties='left: 76px;']
 cavallo.de,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,planetsnow.de,roadbike.de##[-abp-properties='left: 76px;'] > img
 wetter.com##[-abp-properties='left: 77*px;']
+motorradonline.de##[-abp-properties='left: 77*px;'] > img
 cavallo.de,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,planetsnow.de,roadbike.de##[-abp-properties='left: 77.*px; position: relative;']
 sat1gold.de##[-abp-properties='left: 77.*px;']
 cavallo.de,elektrobike-online.com,klettern-magazin.de,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,planetsnow.de,roadbike.de##[-abp-properties='left: 77.1px; position: relative;']
@@ -8913,6 +8933,7 @@ fem.com##[-abp-properties='left: 797px;']
 cavallo.de,e-mountainbike.com,klettern.de,mountainbike-magazin.de,outdoor-magazin.com,outdoorchannel.de,roadbike.de,tvspielfilm.de##[-abp-properties='left: 79px;']
 tvspielfilm.de##[-abp-properties='left: 79px;'] + * + *
 klettern-magazin.de,klettern.de,motorradonline.de,mountainbike-magazin.de,outdoor-magazin.com##[-abp-properties='left: 80*px;']
+landwirt.com##[-abp-properties='left: 800px;']
 comunio.de##[-abp-properties='left: 809px;']
 klettern-magazin.de,klettern.de,outdoor-magazin.com,tvspielfilm.de##[-abp-properties='left: 80px; position: relative;']
 tvspielfilm.de##[-abp-properties='left: 80px; position: relative;'] + div
@@ -8934,6 +8955,7 @@ abendzeitung-muenchen.de##[-abp-properties='left: 825px;']
 abendzeitung-muenchen.de##[-abp-properties='left: 828px;']
 gala.de,ran.de##[-abp-properties='left: 829px;']
 comunio.de,fem.com,ran.de,wetter.com##[-abp-properties='left: 83*px;']
+abendzeitung-muenchen.de##[-abp-properties='left: 83*px;'] > img
 gala.de##[-abp-properties='left: 83.7*px;']
 gala.de##[-abp-properties='left: 83.7px;']
 gala.de##[-abp-properties='left: 83.8*px;']
@@ -9016,6 +9038,7 @@ kabeleins.de,shz.de##[-abp-properties='left: 929px;']
 wetter.com##[-abp-properties='left: 92px;']
 general-anzeiger-bonn.de##[-abp-properties='left: 92px;'] > a > img
 giessener-anzeiger.de,kabeleins.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,shz.de,usinger-anzeiger.de##[-abp-properties='left: 93*px;']
+general-anzeiger-bonn.de##[-abp-properties='left: 93*px;'] > img
 wetter.com##[-abp-properties='left: 93px;']
 experto.de,kabeleins.de,serienjunkies.de##[-abp-properties='left: 94*px;']
 sixx.de##[-abp-properties='left: 94*px;'] > img
@@ -9036,6 +9059,7 @@ prosiebenmaxx.de##[-abp-properties='left: 947*px;']
 prosiebenmaxx.de##[-abp-properties='left: 948px;']
 prosiebenmaxx.de##[-abp-properties='left: 949px;']
 wetter.com##[-abp-properties='left: 94px;']
+general-anzeiger-bonn.de##[-abp-properties='left: 94px;'] > a > img
 echo-online.de,gala.de##[-abp-properties='left: 95*px;']
 prosiebenmaxx.de##[-abp-properties='left: 950.*px;']
 kabeleins.de,prosiebenmaxx.de##[-abp-properties='left: 950px;']
@@ -9058,7 +9082,7 @@ sat1gold.de##[-abp-properties='left: 959*px;']
 readmore.de##[-abp-properties='left: 959px;']
 wetter.com##[-abp-properties='left: 95px;']
 echo-online.de,experto.de,gelnhaeuser-tageblatt.de,giessener-anzeiger.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,oberhessische-zeitung.de,ran.de,usinger-anzeiger.de##[-abp-properties='left: 96*px;']
-sat1gold.de##[-abp-properties='left: 96*px;'] > img
+lustaufsleben.at,news.at,sat1gold.de,tv-media.at,yachtrevue.at##[-abp-properties='left: 96*px;'] > img
 sat1gold.de##[-abp-properties='left: 960*px;']
 readmore.de##[-abp-properties='left: 960px;']
 news.at##[-abp-properties='left: 963*px;']
@@ -9068,13 +9092,14 @@ caravaning.de##[-abp-properties='left: 969px;']
 wetter.com##[-abp-properties='left: 96px; position: relative;'] > img
 wetter.com##[-abp-properties='left: 96px;']
 allgemeine-zeitung.de,buerstaedter-zeitung.de,experto.de,hochheimer-zeitung.de,hofheimer-zeitung.de,lampertheimer-zeitung.de,ran.de,rhein-main-presse.de,tvspielfilm.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='left: 97*px;']
+trend.at##[-abp-properties='left: 97*px;'] > img
 tv-media.at##[-abp-properties='left: 970*px;']
 stern.de##[-abp-properties='left: 970px; position: absolute; top: 100px;']
 fem.com##[-abp-properties='left: 970px; top: 100px;']
 stern.de##[-abp-properties='left: 971px; position: absolute; top: 100px;']
 wetter.com##[-abp-properties='left: 97px;']
 experto.de,tvdigital.de##[-abp-properties='left: 98*px;']
-macwelt.de##[-abp-properties='left: 98*px;'] > img
+macwelt.de,woman.at##[-abp-properties='left: 98*px;'] > img
 trend.at##[-abp-properties='left: 980*px;']
 autozeitung.de,macwelt.de##[-abp-properties='left: 980px;']
 macwelt.de##[-abp-properties='left: 981px;']
@@ -9139,6 +9164,7 @@ hoerzu.de##[-abp-properties='margin-bottom: 4.6*px;']
 hoerzu.de##[-abp-properties='margin-bottom: 4.7*px;']
 hoerzu.de##[-abp-properties='margin-bottom: 4.8*px;']
 hoerzu.de##[-abp-properties='margin-bottom: 4.9*px;']
+lustaufsleben.at##[-abp-properties='margin-bottom: 4.9px;'] > img
 chefkoch.de##[-abp-properties='margin-bottom: 4px; margin-left: 34px;'] > img
 hoerzu.de##[-abp-properties='margin-bottom: 5.*px;'] > img
 pcgameshardware.de##[-abp-properties='margin-bottom: 5px; margin-left: 125px;']
@@ -9192,13 +9218,14 @@ focus.de,gamepro.de,gamestar.de,testedich.de,wn.de##[-abp-properties='margin-lef
 readmore.de##[-abp-properties='margin-left: 1002*px;']
 hoerzu.de##[-abp-properties='margin-left: 1002.*px;']
 gamepro.de,gamestar.de,hoerzu.de,testedich.de##[-abp-properties='margin-left: 1002px;']
-focus.de,hoerzu.de,readmore.de,testedich.de##[-abp-properties='margin-left: 1003*px;']
+focus.de,hoerzu.de,readmore.de,testedich.de,wn.de##[-abp-properties='margin-left: 1003*px;']
 focus.de,testedich.de##[-abp-properties='margin-left: 1003px;']
 testedich.de##[-abp-properties='margin-left: 1004*px;']
 focus.de##[-abp-properties='margin-left: 1004px;']
 testedich.de##[-abp-properties='margin-left: 1005*px;']
 focus.de##[-abp-properties='margin-left: 1005px;']
 gamepro.de,gamestar.de##[-abp-properties='margin-left: 101*px;']
+arcor.de##[-abp-properties='margin-left: 101*px;'] > img
 arcor.de##[-abp-properties='margin-left: 1010.*px;']
 formel1.de##[-abp-properties='margin-left: 1010px; max-height: 46.*em; max-width: 300.1px;']
 arcor.de##[-abp-properties='margin-left: 1010px;']
@@ -9285,6 +9312,7 @@ pcgameshardware.de##[-abp-properties='margin-left: 124.8*px;']
 pcgameshardware.de##[-abp-properties='margin-left: 124.9*px;']
 pcgameshardware.de##[-abp-properties='margin-left: 125.*px;']
 pcgameshardware.de##[-abp-properties='margin-left: 125px;']
+wn.de##[-abp-properties='margin-left: 125px;'] > img
 tvdigital.de##[-abp-properties='margin-left: 127px;']
 wetter.com##[-abp-properties='margin-left: 13.*em; margin-top: 2em;']
 menshealth.de##[-abp-properties='margin-left: 13.9*px;']
@@ -9317,8 +9345,10 @@ motorradonline.de##[-abp-properties='margin-left: 152px; position: relative;'] >
 motorradonline.de##[-abp-properties='margin-left: 152px;'] > img
 mtb-news.de##[-abp-properties='margin-left: 154.*px;']
 mtb-news.de##[-abp-properties='margin-left: 155px;']
+motorradonline.de##[-abp-properties='margin-left: 155px;'] > img
 ran.de##[-abp-properties='margin-left: 156px; position: relative;']
 mtb-news.de,ran.de##[-abp-properties='margin-left: 156px;']
+wn.de##[-abp-properties='margin-left: 156px;'] > img
 ran.de##[-abp-properties='margin-left: 157.*px;']
 ran.de##[-abp-properties='margin-left: 157.1px;']
 mtb-news.de,ran.de##[-abp-properties='margin-left: 157px;']
@@ -9382,6 +9412,7 @@ motorradonline.de##[-abp-properties='margin-left: 20px; position: relative; widt
 4players.de##[-abp-properties='margin-left: 20px;'] > img
 experto.de##[-abp-properties='margin-left: 21*px;']
 tvdigital.de##[-abp-properties='margin-left: 215px; margin-top: 10px;']
+abendzeitung-muenchen.de##[-abp-properties='margin-left: 217px;'] > img
 experto.de,ran.de##[-abp-properties='margin-left: 22*px;']
 chefkoch.de##[-abp-properties='margin-left: 22.*px;']
 chefkoch.de##[-abp-properties='margin-left: 22.6*px;']
@@ -9392,6 +9423,7 @@ chefkoch.de##[-abp-properties='margin-left: 22.9*px;']
 stern.de##[-abp-properties='margin-left: 220px;'] > img
 stern.de##[-abp-properties='margin-left: 221.*px;']
 stern.de##[-abp-properties='margin-left: 221px;'] > img
+stern.de##[-abp-properties='margin-left: 223*px;'] > img
 experto.de,meinestadt.de,tvspielfilm.de##[-abp-properties='margin-left: 23*px;']
 shz.de##[-abp-properties='margin-left: 23.9*px;']
 stern.de##[-abp-properties='margin-left: 230px;'] > img
@@ -9576,7 +9608,7 @@ wetter.com##[-abp-properties='margin-left: 77em; margin-top: 9*px; position: abs
 wetteronline.de##[-abp-properties='margin-left: 7px; margin-top: 5px; padding-top: 12px;']
 wetteronline.de##[-abp-properties='margin-left: 7px; margin-top: 6px;']
 gamesaktuell.de##[-abp-properties='margin-left: 8.9*px;']
-nnn.de,prignitzer.de,svz.de##[-abp-properties='margin-left: 80*px;'] > img
+nnn.de,pcwelt.de,prignitzer.de,svz.de##[-abp-properties='margin-left: 80*px;'] > img
 nnn.de,prignitzer.de,svz.de##[-abp-properties='margin-left: 800.*px;']
 nnn.de,prignitzer.de,svz.de##[-abp-properties='margin-left: 800px;']
 nnn.de,prignitzer.de,svz.de##[-abp-properties='margin-left: 801.*px;']
@@ -9598,7 +9630,7 @@ mtb-news.de##[-abp-properties='margin-left: 83.*px;']
 pcwelt.de##[-abp-properties='margin-left: 84*px;'] > img
 tvdigital.de##[-abp-properties='margin-left: 840px;']
 tvdigital.de##[-abp-properties='margin-left: 841px;']
-pcwelt.de##[-abp-properties='margin-left: 85*px;'] > img
+pcwelt.de,stern.de##[-abp-properties='margin-left: 85*px;'] > img
 stern.de##[-abp-properties='margin-left: 854.*px;']
 stern.de##[-abp-properties='margin-left: 854px;']
 stern.de##[-abp-properties='margin-left: 855*px;']
@@ -9633,7 +9665,7 @@ pcwelt.de##[-abp-properties='margin-left: 888px;']
 pcwelt.de##[-abp-properties='margin-left: 889.*px;']
 pcwelt.de##[-abp-properties='margin-left: 889px;']
 nwzonline.de##[-abp-properties='margin-left: 89*px;'] > img
-hoerzu.de,pcwelt.de##[-abp-properties='margin-left: 90*px;'] > img
+focus.de,hoerzu.de,pcwelt.de##[-abp-properties='margin-left: 90*px;'] > img
 promobil.de##[-abp-properties='margin-left: 904*px;']
 promobil.de##[-abp-properties='margin-left: 905*px;']
 promobil.de##[-abp-properties='margin-left: 906px;']
@@ -9657,7 +9689,7 @@ chefkoch.de##[-abp-properties='margin-left: 946px;']
 chefkoch.de##[-abp-properties='margin-left: 947px;']
 chefkoch.de##[-abp-properties='margin-left: 948px;']
 chefkoch.de##[-abp-properties='margin-left: 949px;']
-focus.de##[-abp-properties='margin-left: 95*px;'] > img
+focus.de,spox.com##[-abp-properties='margin-left: 95*px;'] > img
 chefkoch.de##[-abp-properties='margin-left: 950.*px;']
 chefkoch.de##[-abp-properties='margin-left: 950px;']
 chefkoch.de##[-abp-properties='margin-left: 951.*px;']
@@ -9667,7 +9699,7 @@ chefkoch.de##[-abp-properties='margin-left: 953*px;']
 stern.de##[-abp-properties='margin-left: 953px;']
 chefkoch.de##[-abp-properties='margin-left: 954*px;']
 meinestadt.de##[-abp-properties='margin-left: 96*px;']
-focus.de##[-abp-properties='margin-left: 96*px;'] > img
+focus.de,gala.de##[-abp-properties='margin-left: 96*px;'] > img
 bikemarkt.mtb-news.de##[-abp-properties='margin-left: 96px;']
 finanztreff.de,focus.de##[-abp-properties='margin-left: 97*px;']
 focus.de##[-abp-properties='margin-left: 970.*px;']
@@ -9696,6 +9728,7 @@ finanztreff.de##[-abp-properties='margin-left: 984px;']
 focus.de##[-abp-properties='margin-left: 99*px;'] > img
 ariva.de##[-abp-properties='margin-left: 994px;']
 woxikon.de##[-abp-properties='margin-right: -22*px;']
+ariva.de##[-abp-properties='margin-right: 293px;']
 ariva.de##[-abp-properties='margin-right: 296.*px;']
 ariva.de##[-abp-properties='margin-right: 297.*px;']
 ariva.de##[-abp-properties='margin-right: 297px;']
@@ -9846,6 +9879,7 @@ fanfiktion.de##[-abp-properties='max-width: 728.1px;'] > img
 fanfiktion.de##[-abp-properties='max-width: 728px;']
 ran.de##[-abp-properties='max-width: 940px;']
 epochtimes.de##[-abp-properties='max-width: 970px;']
+abendzeitung-muenchen.de##[-abp-properties='padding-bottom: 24.*px;'] > img
 gamezone.de##[-abp-properties='padding-left: 26.*px;']
 gamezone.de##[-abp-properties='padding-left: 26.7*px;']
 gamezone.de##[-abp-properties='padding-left: 26.79px;']
@@ -10015,7 +10049,8 @@ fem.com##header + * + * + * + * + * + * + * + span > [-abp-properties='position:
 fem.com##header + * + * + * + * + * + * + span > [-abp-properties='position: relative;'] > img
 fem.com##header + * + * + * + * + * + span > [-abp-properties='position: relative;'] > img
 fem.com##header + * + * + * + span > a > img
-news.at##header + * + div > img
+news.at##header + * + div + div > img
+news.at,profil.at,trend.at,tv-media.at##header + * + div > img
 trend.at,tv-media.at##header + div > img
 eatsmarter.de##span + div + span > a > img
 eatsmarter.de##span + span > a > img
@@ -10645,4 +10680,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: L+jbxW/uWuC3WXcRubL+JQ
+! Checksum: j/ew2mmW2yPhskqfaald4w
