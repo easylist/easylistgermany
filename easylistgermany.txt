@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611230734
+! Version: 201611231801
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 23 Nov 2016 07:34 UTC
+! Last modified: 23 Nov 2016 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5825,6 +5825,7 @@ esl.eu##.montrealadvertisementlayer
 esl.eu##.montrealadvertisementlayer2
 antag.de##.more_info
 derwesten.de,stuttgarter-zeitung.de,wlz-fz.de##.mp-slider
+motorradonline.de##.mps-banner
 jetztspielen.de##.mpu
 ebay.de##.mrec
 meinestadt.de##.ms-promo-teaser
@@ -9972,7 +9973,7 @@ buffed.de##[-abp-properties='right: -5.*px;']
 buffed.de##[-abp-properties='right: -5px;']
 videogameszone.de##[-abp-properties='right: 1270px;']
 gamona.de##[-abp-properties='right: 989*px;']
-autobild.de,caravaning.de,experto.de,gala.de,motorradonline.de,promobil.de,ran.de,serienjunkies.de,shz.de,sixx.de,wetter.com##[-abp-properties='text-align: center;'] > img
+autobild.de,caravaning.de,experto.de,gala.de,promobil.de,ran.de,serienjunkies.de,shz.de,sixx.de,wetter.com##[-abp-properties='text-align: center;'] > img
 caravaning.de##[-abp-properties='top: 100.*px;']
 caravaning.de##[-abp-properties='top: 100.8*px;']
 caravaning.de##[-abp-properties='top: 100.9*px;']
@@ -10736,4 +10737,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: TZA7m0wtLLV1ROMeRsrfbQ
+! Checksum: Qetr5TCD9gZKLvfO0viCuA
