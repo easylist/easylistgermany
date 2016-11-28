@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611280729
+! Version: 201611281724
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 28 Nov 2016 07:29 UTC
+! Last modified: 28 Nov 2016 17:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3477,6 +3477,7 @@ $websocket,domain=animes-stream24.net
 ||stadt-bremerhaven.de/grafiken/redcoon.jpg
 ||stadt-bremerhaven.de/wp-content/uploads/2014/02/brandbox-sony-vaio-multi-flip.png
 ||stadt-bremerhaven.de/wp-content/uploads/2016/11/h8bf.jpg
+||stadt-bremerhaven.de/wp-content/uploads/2016/11/honor.jpg
 ||stadt-werther.de/uploads/tx_macinabanners/
 ||staedte-info.net/bilder/banner_$image
 ||static-fb.com^$domain=anime-stream24.com|animes-stream24.net
@@ -10774,4 +10775,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: qo6XZGT2rnaimsu+9av1LA
+! Checksum: VdOylEzohQWSgBjdUoEyaw
