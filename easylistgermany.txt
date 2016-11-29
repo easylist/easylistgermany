@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611290729
+! Version: 201611292208
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 29 Nov 2016 07:29 UTC
+! Last modified: 29 Nov 2016 22:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6743,6 +6743,7 @@ emok.tv##a[href^="http://www.goo.gl/"]
 eierkraulen.net##a[href^="http://www.handytaxi.de"]
 picdumps.com##a[href^="http://www.handyz.de"]
 myfunlink.to##a[href^="http://www.haushaltsdeals.de/"]
+stadt-bremerhaven.de##a[href^="http://www.hihonor.com/de/products/mobile-phones/honor8/"] > img
 pornkino.to,private-blog.org##a[href^="http://www.hobbyhurenkontakte.com"]
 xxx-blog.to##a[href^="http://www.hobbyhurenkontakte.com/"]
 icubik.com##a[href^="http://www.icubik.com/catalog/redirect.php/action/banner/goto/"]
@@ -10797,4 +10798,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: WfkLJmJao5OPCtRwqOaJHg
+! Checksum: zyXKHt6X792r1bwR4/HYlg
