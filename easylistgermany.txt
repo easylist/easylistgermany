@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201611302049
+! Version: 201611302051
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 Nov 2016 20:49 UTC
+! Last modified: 30 Nov 2016 20:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -542,6 +542,7 @@ schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 cnet.de,deals.chip.de#@#a[href^="http://pubads.g.doubleclick.net/"]
 onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net#@#a[href^="https://ad.doubleclick.net/"]
+daswetter.com#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
 guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ! Anti-Adblock
@@ -5944,7 +5945,7 @@ wegwerfemailadresse.com##.promobox
 access.de##.promotionbox
 psvita-forum.de##.psads
 lingostudy.de##.psw_banner
-daswetter.at,daswetter.com##.pubDesk
+daswetter.at##.pubDesk
 gameone.de##.q_teaser_wrapper
 quotenmeter.de##.qm-news-list-box
 quotenmeter.de##.qm-right-box[style="position:relative"]
@@ -10338,6 +10339,7 @@ eatsmarter.de##span + span > a > img
 @@||cookex.amp.yahoo.com/v2/cexposer/SIG=*//ad.yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||d3con.de/data1/$image,~third-party
+@@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
 @@||de.ebayobjects.com/1ai/mobile.homepage/superteaser;$subdocument,domain=mobile.de
 @@||derstandard.at/adserver/t.gif$domain=videoservice.apa.at
@@ -10830,4 +10832,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: kn4vQuzQw1ICeU4kIe62/g
+! Checksum: nKtjN01g2TUm8W319Tww8A
