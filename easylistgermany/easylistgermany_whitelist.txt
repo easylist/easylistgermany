@@ -5,7 +5,6 @@
 @@|http://byte.to/js/wz_tooltip.js|
 @@|https://$generichide,domain=bs.to
 @@|https://*.js?_=$script,domain=freenet.de
-@@||0815sms.com/img/pagepeel.php?$image
 @@||1000steine.de/img/ads/
 @@||123people.us/trackads/display?zones=$script,domain=123people.de
 @@||2mdn.net^*/flash_inpage_rendering_lib_$script,domain=cnet.de
@@ -13,7 +12,6 @@
 @@||360yield.com/adj?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||71iv.nuggad.net/crossdomain.xml$object-subrequest
 @@||ab-in-den-urlaub.de^*.popunder.js
-@@||abacomuenchensued.de/pageear/$object,object-subrequest,script
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
@@ -481,7 +479,6 @@ kalender-365.de#@#.adsbygoogle
 @@||doubleclick.net^*/pfadx/*;zz=10x1;$object-subrequest,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
 @@||doubleclick.net^*/RP_Sat1/other;dcmt=*;showroom=abp;$domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
 @@||doubleclick.net^*^kw=iqadtile1^$script,domain=faz.net
-@@||ebook-hell.to/js/ads.js
 @@||eclipso.*/adframe.js
 @@||einrichtungsbeispiele.de^*/click.js
 @@||energielupe.de^$elemhide

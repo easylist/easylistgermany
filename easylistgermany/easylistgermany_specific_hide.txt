@@ -379,8 +379,6 @@ spielen.com###fakebody
 newsroom.de###far_right > div[style="height:600px"]
 3dl.tv###fb-root + script + center + br + .content_box[cellspacing="1"][cellpadding="0"] > tbody:first-child:last-child
 fck.de###fck_bannerTop
-3min.de###featured_site_bg
-3min.de###featured_superbanner
 gedankenausbruch.de###feedburner-email-subscription-2 + #text-11
 flashforum.de###ffPartner
 joggen-online.de###fib_banner
@@ -611,7 +609,6 @@ linkbase.in###mdh
 mov-world.net###mdh_flip
 t-online.de###med_anz
 klicktel.de###mediaBanner
-3min.de###mediadetails_add_box
 comprano.de###mediumRectangle
 cosmiq.de###medium_rectangle_container
 gay-szene.net###medrectmenuright
@@ -673,7 +670,6 @@ yasni.de###offer
 mixeryrawdeluxe.tv###outerBanner
 schiffsansagedienst-cuxhaven.de###overlay
 schiffsansagedienst-cuxhaven.de###overlay + #lightBox
-4forums.de###p
 hstt.net###page-header + br + .forabg
 hc-erlangen.de###pageBanner
 unternehmerkarte.de###pageBannerRgt
@@ -996,7 +992,6 @@ chefkoch.de###teaser-top-partner
 titanic-magazin.de###teaser-wrap > span[style="font-size: 7pt; color: grey;"]
 wetter.de###teaser_hotelde_suche
 computerbild.de###teaser_right a[target="_blank"][href^="http://ww251.smartadserver.com/h/cc?imgid="]
-absenden.net###testimonial
 netzpolitik.org###text-406427715
 netzpolitik.org###text-406427717
 tsvbodnegg.de###text-5
@@ -1509,7 +1504,6 @@ itwissen.info##.content_banner
 sound-load.com##.content_box_content_dl > div + .fc + div
 inside-digital.de,inside-handy.de##.content_ins
 ladies.de##.content_left > .topteaser_td
-3min.de##.content_mrec
 atv.at##.content_rectangle
 goldesel.to##.content_right > div > div[class^="d_"] > a > img
 goldesel.to##.content_right > div[class]:first-child + div[class]
@@ -2333,7 +2327,6 @@ npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[t
 filecrypt.cc##[onmouseup$="', this);"][href^="javascript:"]
 filecrypt.cc##[onmouseup^="var c = this;openLink('"][style="cursor:pointer;"]
 forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 100px; left: 550px; empty-cells: hide;"]
-ebook-hell.to##[width="620"][bordercolor="#808080"] td[height="60"][align="CENTER"] > a > img
 sat-erotik.de##[width="800"][cellspacing="0"][cellpadding="4"][border="0"]
 hsc-bad-neustadt.de##a[class*="sponsor"]
 xxx-blog.to##a[height="600"][width="120"]
@@ -2356,7 +2349,6 @@ xp-antispy.org##a[href*="com_partner&link="]
 3dl.tv##a[href*="downloadboutique.com"]
 hd-vidz.net##a[href*="filesonthe.net"]
 movie-blog.org##a[href*="http://ul.to/ref/"]
-absenden.net##a[href="../weiter/3-4"]
 arcor.de##a[href="/content/unterhaltung/lotto/"]
 smsgott.de##a[href="/d2freikarte.php"]
 sb.sbsb.cc##a[href="/download.php"]
@@ -2476,7 +2468,6 @@ g-stream.in##a[href^="download/?"]
 g-stream.in##a[href^="download/client.html?"]
 elitesearch.at##a[href^="highspeed-download/"]
 movie-blog.org##a[href^="http://0l3.de/"]
-ebook-hell.to##a[href^="http://3wl.li/"]
 movie-blog.org##a[href^="http://4short.de/"]
 cinema.de##a[href^="http://a3.superwin.de/click."]
 deluxetools.net##a[href^="http://access.im/"]
@@ -2522,14 +2513,14 @@ hornoxe.com##a[href^="http://amzn.to/"] > img[width="480"][height="400"]
 trendhure.com##a[href^="http://amzn.trendhure.com"]
 byte.to,pdfs.us##a[href^="http://anonym.to/?http://ul.to/ref/"]
 smsform.de##a[href^="http://api.tapstream.com/lovoo/"]
-byte.to,ebook-hell.to##a[href^="http://b1t.it/"]
+byte.to##a[href^="http://b1t.it/"]
 movie-blog.org##a[href^="http://b23.ru/"]
 movie-blog.org##a[href^="http://bi.ai/"]
 linkfarm.in,underground-links.org##a[href^="http://billing.purevpn.com/aff.php"]
 deluxetools.net##a[href^="http://billing.purevpn.com/aff.php?"]
 movie-blog.org##a[href^="http://bim.im/"]
 drop-games.org##a[href^="http://bit.ly"]
-4fuckr.com,byte.to,cine-dream.com,derlacher.de,ebook-hell.to,g-stream.in,gamepro.de,goldesel.to,housebeats.cc,livestreamfussball.org,movie-blog.org,moviekk.net,musicstream.cc,xxx-blog.to##a[href^="http://bit.ly/"]
+4fuckr.com,byte.to,cine-dream.com,derlacher.de,g-stream.in,gamepro.de,goldesel.to,housebeats.cc,livestreamfussball.org,movie-blog.org,moviekk.net,musicstream.cc,xxx-blog.to##a[href^="http://bit.ly/"]
 feiertage.net##a[href^="http://bit.ly/"] > img
 magazin-ddl.info,sceneload.to,warez-load.com##a[href^="http://bitshare.com/?referral="]
 movie-blog.org##a[href^="http://blue.gg/"]
@@ -2555,7 +2546,7 @@ g-stream.in,xxx-blog.to##a[href^="http://cpm.amateurcommunity."]
 xxx-art.biz##a[href^="http://cpm.amateurcommunity.de/"]
 hd-world.org,movie-blog.org##a[href^="http://cutt.us/"]
 byte.to##a[href^="http://ddl.byte.to/go1/"]
-deluxetools.net,ebook-hell.to,xxx-blog.to##a[href^="http://de.generic4all.com/"]
+deluxetools.net,xxx-blog.to##a[href^="http://de.generic4all.com/"]
 hoerbuch.us##a[href^="http://dealdog.net/"]
 movie-blog.org##a[href^="http://dft.ba/"]
 mygully.com##a[href^="http://dl1.mygully.com"]
@@ -2582,7 +2573,7 @@ gload.cc##a[href^="http://gload.cc/images/freeuser"]
 gload.cc##a[href^="http://gload.cc/un/dl."]
 movie-blog.org##a[href^="http://goo.by/"]
 drop-games.org##a[href^="http://goo.gl"]
-cinebee.org,ebook-hell.to,goldesel.to,hornoxe.com,leave.to,movie-blog.org,porn2you.org,prad.de,trendhure.com,warezking.in,zensiert.to##a[href^="http://goo.gl/"]
+cinebee.org,goldesel.to,hornoxe.com,leave.to,movie-blog.org,porn2you.org,prad.de,trendhure.com,warezking.in,zensiert.to##a[href^="http://goo.gl/"]
 ingame.de##a[href^="http://green.ingame.de/www/delivery/inck.php?"]
 duckcrypt.info##a[href^="http://highspeed.duckcrypt.info"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
@@ -2623,7 +2614,7 @@ hd-world.org##a[href^="http://netload.in/"][href*="&refer_id="]
 paradise-load.us,sdx.cc##a[href^="http://netload.in/index.php?refer_id="]
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 mov-world.net##a[href^="http://nvpn.net/"]
-byte.to,ebook-hell.to,movie-blog.org##a[href^="http://ow.ly/"]
+byte.to,movie-blog.org##a[href^="http://ow.ly/"]
 darktown.biz##a[href^="http://partner.rebuy.de"]
 schambereich.net##a[href^="http://partners.adklick.de/"]
 anonym.to##a[href^="http://partners.affiliace.com/"]
@@ -2643,7 +2634,6 @@ putenbrust.net##a[href^="http://putenbrust.99k.org"]
 spieletipps.de##a[href^="http://rc23.overture.com"]
 gulli.com##a[href^="http://rc23.overture.com/"]
 movie-blog.org##a[href^="http://redir.ec/"]
-ebook-hell.to##a[href^="http://rod.gs/"]
 hubbahotel.cc##a[href^="http://rover.ebay.com/rover/"]
 gesichtskirmes.net##a[href^="http://sau-billig.net/"]
 myvideo.de##a[href^="http://server.nitrado.net/deu/gameserver-mieten?"]
@@ -2687,7 +2677,6 @@ t-online.de##a[href^="http://wirtschaft.t-online.de/top-girokonto-der-norisbank/
 5-jahres-wertung.de##a[href^="http://ws.amazon.de/widgets/q?"]
 n24.de##a[href^="http://ww251.smartadserver.com/"]
 computerbild.de##a[href^="http://ww251.smartadserver.com/call/cliccommand/"]
-ebook-hell.to##a[href^="http://www.5z8.info/"]
 tvtv.de##a[href^="http://www.TwinPlan.de/AF_"]
 mobilfunk-talk.de##a[href^="http://www.active-tracking.de/"]
 smsform.de##a[href^="http://www.adscads.de/sites/"]
@@ -2829,9 +2818,8 @@ gamiano.de##a[href^="https://www.amazon.de/"][href*="?tag=gamiano-21&"]
 chip.de##a[href^="https://www.amazon.de/gp/video/primesignup?tag="]
 livestreamfussball.org##a[href^="https://www.bwin.com/de/registration?wm="]
 chip.de##a[href^="https://www.expertiger.de/partner/"]
-ebook-hell.to##a[href^="https://www.filemonkey.in/ref/"]
 filecrypt.cc##a[href^="https://www.g2a.com/?reflink="]
-atomload.to,ebook-hell.to##a[href^="https://www.oboom.com/ref/"]
+atomload.to##a[href^="https://www.oboom.com/ref/"]
 atomload.to##a[href^="https://www.smoozed.rocks/landing/"]
 ddl-warez.to,goldesel.to##a[href^="https://www.spyoff.com/"]
 arcor.de##a[href^="https://zuhauseplus.vodafone.de/"] > img
@@ -3018,7 +3006,6 @@ chip.de##div[data-adzone="contentad-afc-main"]
 chip.de##div[data-adzone="contentad-storyad-afc"]
 giga.de##div[data-click-url="http://www.giga.de/go/jimr"]
 amazon.de##div[id$="_adcontent"]
-0o2.de##div[id$="spbox"]
 spieletipps.de##div[id*="_adblock_sd"]
 vol.at##div[id^="AdContainer_"]
 www.blick.ch##div[id^="CT299"]
@@ -3356,7 +3343,7 @@ rtl.de##form[id^="parshipform_"]
 rtl.de##form[id^="powerform_"]
 n-tv.de##form[onsubmit^="return c24_track_"]
 t-online.de##form[target="_blank"][action="http://im.banner.t-online.de/"]
-byte.to,ebook-hell.to##form[target="id__"]
+byte.to##form[target="id__"]
 movie-blog.org##h1[id$="-637540"]
 movie-blog.org##h1[id$="-637540"] + * + *
 movie-blog.org##h1[id$="-637540"] + :nth-child(n)
@@ -3461,13 +3448,12 @@ t-online.de##img[width="920"][usemap^="#imgmap"]
 t-online.de##img[width="920"][usemap^="#immap"]
 prad.de##img[width="940"][height="174"]
 rnf.de##img[width="960"][height="200"]
-1load.in,1zwo.in##input[name="highspeed"]
+1zwo.in##input[name="highspeed"]
 ddl-music.org,ddl-warez.in,pornlounge.org##input[onclick^="javascript:window.open('http://www.FriendlyDuck.com/AF_"]
 file-lounge.com##input[onclick^="location.href='http://tiny.cc/"]
 file-lounge.com##input[onclick^="location.href='http://ul.to/ref/"]
-1load.bz,file-lounge.com##input[onclick^="location.href='http://www.FriendlyDuck.com/AF_"]
+file-lounge.com##input[onclick^="location.href='http://www.FriendlyDuck.com/AF_"]
 file-lounge.com,warez-vz.net##input[onclick^="location.href='http://www.gigaflat.com/affiliate/"]
-ebook-hell.to##input[onclick^="location='http://"]
 byte.to##input[onclick^="location='http://3wl.li/"]
 byte.to##input[onclick^="location='http://6f.ro/"]
 byte.to##input[onclick^="location='http://bit.ly/"]
@@ -3477,7 +3463,6 @@ byte.to##input[onclick^="location='http://www.firstload.com/?uniq="]
 byte.to##input[onclick^="parent.location.href='/toplist/"]
 byte.to##input[onclick^="parent.location.href='http://"]
 byte.to##input[onclick^="parent.location='"]
-ebook-hell.to##input[onclick^="parent.location='http://"]
 wiiu-reloaded.com##input[onclick^="window.location='http://www.firstload.com/affiliate/"]
 byte.to##input[onclick^="window.open('http://bit.ly/"]
 fettrap.com##input[onclick^="window.open('http://fettrap.com/highspeed/"]
@@ -3662,7 +3647,6 @@ web.de##tr > td[colspan="2"] > table[cellspacing="0"][cellpadding="0"][border="0
 computerhilfen.de##tr > td[style="background-color:#FFFFFF;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:5px;"][colspan="4"]
 notebookcheck.com##tr > td[style="text-align:center;"][colspan="2"] > div[style="margin:0px; padding:0px; margin-bottom:10px; background-color:#efefef; height:100px;"]
 homerj.de##tr > td[style="width:952px; height:200px;"]
-ebook-hell.to##tr > td[valign="TOP"][align="CENTER"] > .TABLE[width="640"][cellspacing="1"][cellpadding="0"][border="0"]:first-child
 ww3.cad.de##tr > td[valign="top"]:first-child + td[align="right"][width="160"][style="vertical-align: top;"]:last-child
 ibash.de##tr > td[valign="top"]:first-child + td[width="15"] + td[width="186"][valign="top"]:last-child
 ww3.cad.de##tr > td[valign="top"]:first-child + td[width="161"][align="right"][style="vertical-align: top;"]

@@ -12,7 +12,6 @@ $websocket,domain=animes-stream24.net
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
 |https://*.bs.to^$script,domain=~board.bs.to|bs.to
-||0815sms.com/doku/$script
 ||1000hp.net/banner/
 ||149.13.77.20^$domain=ww3.cad.de
 ||193.107.16.142/f.php
@@ -20,8 +19,6 @@ $websocket,domain=animes-stream24.net
 ||1jux.net/js/1l.js
 ||1jux.net/js/4p.js
 ||1jux.net/js/4p2.js
-||1load.bz/kwa.php
-||1load.in/kwa.php
 ||1und1.de/movein_$xmlhttprequest
 ||1zwo.in/kwa.php
 ||20min.ch/werbung/
@@ -31,7 +28,6 @@ $websocket,domain=animes-stream24.net
 ||2mdn.net/videoplayback/$object-subrequest,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
 ||320k.in/jscript/layer.js
 ||3dl.tv/public/images/smb.png
-||3min.de/media/featured_sites/featured_bg_$image
 ||4-seasons.tv^*/FsProducts.swf
 ||4memes.net/rec$subdocument
 ||4pcdn.de/premium/GameAccessories/*/310x120mifcom_battlebox.jpg$domain=4players.de
@@ -51,7 +47,6 @@ $websocket,domain=animes-stream24.net
 ||800gs.de/images/tpa/duonix/
 ||87.237.123.50/jcorner.php$domain=mydia.de
 ||90elf.de^*/buderus_banner_
-||a.nyx.at^
 ||aachener-zeitung.de/zva/container/kalaydo/
 ||abakus-internet-marketing.de/img/forum-800_120_
 ||abg-net.de/uploads/tx_macinabanners/
@@ -87,7 +82,6 @@ $websocket,domain=animes-stream24.net
 ||affiliate-marketing.de/media/banner/
 ||affiliate-marketing.de/media/medienpartnerschaften/
 ||africa-live.de/!banner/
-||ajaxstatic.ebook-hell.to^
 ||ak-kurier.de/akkurier/www/images/headerhoehn.gif
 ||ak-kurier.de/akkurier/www/images/headerhoehn.jpg
 ||ak-kurier.de/akkurier/www/images/iphonerepa.gif
@@ -520,22 +514,6 @@ $websocket,domain=animes-stream24.net
 ||ebby.de^*/boxen1_com_klein-220.gif
 ||ebby.de^*/boxsport1.gif
 ||ebby.es^*/wfc_logo220.png
-||ebook-hell.me/popdown.js
-||ebook-hell.to/google/
-||ebook-hell.to/js/bk2.js
-||ebook-hell.to/js/ebook.js
-||ebook-hell.to/js/ebooktip.js
-||ebook-hell.to/js/mediamarkt.js
-||ebook-hell.to/js/ranger.js
-||ebook-hell.to/js/tooltip.js
-||ebook-hell.to/js/tooltips.js
-||ebook-hell.to/js/ulnet.
-||ebook-hell.to/js/ULpop.
-||ebook-hell.to/js/zk.js
-||ebook-hell.to/js/zk1.js
-||ebook-hell.to/popdown.js
-||ebook-hell.to/toppop.js
-||ebook-hell.to^$domain=byte.to
 ||ebook-hell.to^*/jspop.js
 ||ecdl-moodle.de^*/script_banner_
 ||econo.de/uploads/tx_macinabanners/
@@ -2177,7 +2155,6 @@ $websocket,domain=animes-stream24.net
 ||yimg.com/a/i/eu/cbe/xm/christmas_index_2010_de.jpg$domain=yahoo.com
 ||yimg.com/i/i/de/lfst/neuq.html$domain=yahoo.com
 ||youfreetv.net/js/jquery.ad.js
-||youpic.in/css/images/box.png$domain=6dl.to
 ||yourdealz.de/120.gif
 ||yourjavascript.com^*/cpmsite.js$domain=anime-stream24.com
 ||youzap.de/img/fraag.de.jpg
