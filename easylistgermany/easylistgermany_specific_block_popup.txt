@@ -1,9 +1,7 @@
 .gif|$popup,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
-.png|$popup,domain=audio.de|colorfoto.de|connect.de|connected-home.de|epochtimes.de|pc-magazin.de|video-magazin.de
 ^utm_campaign^$popup,domain=jappy.de
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 |http://*.filecrypt.cc/|$popup
-|http://ow.ly^$popup,domain=byte.to
 ||1kino.in/vload.php$popup
 ||1kino.in^*/out.php$popup
 ||3dl.tv/redipo.php$popup
@@ -13,7 +11,6 @@
 ||adcloud.net^$popup,domain=lustich.de
 ||adscale.de^$popup,domain=4players.de|lustich.de
 ||adsfac.eu/link.asp?$popup,domain=iamgamer.de
-||alturl.com^$popup,domain=byte.to
 ||amazon.de/?tag=bluray18-21$popup,domain=bluray-disc.de
 ||amazon.de/gp/*&tag=$popup,domain=chillmo.com
 ||amazon.de/s/*&tag=$popup,domain=bluray-disc.de
@@ -24,9 +21,7 @@
 ||amazon.de^*/ref=*&tag=$popup,domain=bluray-disc.de
 ||amazon.de^*^tag=$popup,domain=wetteronline.de
 ||atomload.to/load.php$popup
-||bit.ly^$popup,domain=byte.to|filecrypt.cc|movie-blog.org
-||byte.to/out.php$popup
-||byte.to^*/out.php$popup
+||bit.ly^$popup,domain=filecrypt.cc|movie-blog.org
 ||campartner.com^$popup,domain=g-stream.in
 ||cinebee.org/r0tation/$popup
 ||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
@@ -39,7 +34,6 @@
 ||dealbunny.de^$popup,domain=dokus4.me
 ||def.filecrypt.cc^$popup
 ||doubleclick.net^$popup,domain=gamestar.de|gamona.de
-||ebook-hell.to/?$popup,domain=byte.to
 ||ebook-hell.to/ad/$popup
 ||ebook-hell.to/out.php$popup
 ||ebook-hell.to^*/out.php$popup
@@ -50,7 +44,7 @@
 ||g-stream.in/lla2/$popup
 ||g-stream.in/mirror/$popup
 ||g-stream.in/out.php|$popup
-||goo.gl^$popup,domain=byte.to|fail.to|omfg.to|warezking.in
+||goo.gl^$popup,domain=fail.to|omfg.to|warezking.in
 ||googleadservices.com^$popup,domain=wetteronline.de
 ||green.ingame.de/www/delivery/inck.php?oaparams=*__bannerid=*__zoneid=*__oadest=$popup
 ||hamster.cc^$popup,domain=movie-blog.org
@@ -79,7 +73,7 @@
 ||rapidvideo.com/popup.php$popup
 ||sexpartnersite.net^$popup,domain=pornkino.to
 ||share-online.biz/affiliate/$popup,domain=linxcrypt.com
-||slimtrade.com/out.php?$popup,domain=byte.to|hd-load.org|porno-streams.com
+||slimtrade.com/out.php?$popup,domain=hd-load.org|porno-streams.com
 ||slimtrade.com/out.php?s=$popup,domain=gload.cc
 ||sms2me.at^$popup,domain=superchat.at
 ||smsgott.de/click.php?url=$popup
@@ -111,4 +105,3 @@
 ||xxx-blog.to/pstreams.php$popup
 ||yabeat.com^*.php?id=$popup
 ||yasni.de/ad_pop.php$popup
-||zumlink.de^$popup,domain=byte.to

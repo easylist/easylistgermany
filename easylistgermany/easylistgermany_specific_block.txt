@@ -8,7 +8,6 @@ $websocket,domain=animes-stream24.net
 ^what=zone^$domain=ww3.cad.de
 |blob:$script,domain=animes-stream24.net
 |http://$subdocument,third-party,domain=bonimail.de
-|http://*.pw^$script,domain=byte.to
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
 |https://*.bs.to^$script,domain=~board.bs.to|bs.to
@@ -95,7 +94,6 @@ $websocket,domain=animes-stream24.net
 ||alatest.de/banner/
 ||alatest.de/banners.php?
 ||alkoblog.de/wp-content/uploads/*/banner_weisshaus_
-||alpine-auskunft.de/images/banners/
 ||altesrad.net/phpBB3/images/banner/
 ||amadeal.de/pics/240.gif
 ||amateur-blog.org^*.php|$script
@@ -107,22 +105,10 @@ $websocket,domain=animes-stream24.net
 ||androidpit.de/swf/app-seller.swf?xmlpath=$object
 ||anime-loads.org/images/c3on9.jpg
 ||anisearch.de/affi.php?
-||antag.at/js/ov.js.php?
-||antag.de/js/ov.js.php?
 ||antenne-frankfurt.de/tl_files/img/partner/
 ||anthrojob.de/images/banners/
-||anzeigen.bei-uns.de^
 ||anzeiger-news.com/portals/willowtree/
 ||apfeleimer.de/wp-content/uploads/*/i5b-$image
-||apfelnews.eu/banner/
-||apfelnews.eu/banner_ipoint_
-||apfelnews.eu/copytrans.png
-||apfelnews.eu/ct-banner.png
-||apfelnews.eu/ipad-special.jpg
-||apfelnews.eu/iphone_300de.jpg
-||apfelnews.eu/iphone_oben.gif
-||apfelnews.eu/iphone_sidebar.gif
-||apfelnews.eu/mein-deal.png
 ||apotheke-adhoc.de/banner/
 ||appsundco.de^$domain=schulterglatze.de
 ||arbeitstage.at/pub_
@@ -193,7 +179,6 @@ $websocket,domain=animes-stream24.net
 ||beichthaus.com.s3.amazonaws.com/meineticks.jpg
 ||beihilferecht.de/media/banner/
 ||beisammen.de^*/banner/
-||benm.at^*/iphoneohnevertrag_banner_
 ||benzinpreis.de/140_x_160.gif
 ||benzinpreis.de/gfx/rc_banner.jpg
 ||benzinpreis.de/zahn.gif
@@ -217,8 +202,6 @@ $websocket,domain=animes-stream24.net
 ||blankrefer.com^$subdocument,domain=anime-loads.org
 ||blaue-blume.tv^*/banner/
 ||blickpunkt-brandenburg.de/typo3conf/ext/sbbanner/
-||blockbusters.cc/partner/
-||blockbusters.to^$script,domain=byte.to
 ||blockfloete.eu/media/images/banners/
 ||blog-xx.net/pop-code.js
 ||blogprojekt.de/Bilder/bp/backlinkseller.gif
@@ -248,15 +231,9 @@ $websocket,domain=animes-stream24.net
 ||boxen1.com^*/wfc_logo220.png
 ||boxen1.com^*/www.ebby_.de1_.gif
 ||branchenbuch.pixelio.de^
-||braunschweigheute.de/platzierungen/
 ||brautinfo.at/uploads/tx_macinabanners/
 ||bravo.de/online/sponsoring-
 ||bravo.de/sponsoring-
-||brothersoft.de/gg/back_ad.js
-||brothersoft.de/gg/center_gg.js
-||brothersoft.de/gg/g.js
-||brothersoft.de/gg/kontera_com.js
-||brothersoft.de/gg/soft_down.js
 ||browsergames.de/images/wallpaper/
 ||brustverein.de/images/banner/
 ||bs.to/js/rev.js
@@ -270,7 +247,6 @@ $websocket,domain=animes-stream24.net
 ||bvb.de/var/ezdemo_site/storage/images/bvb.de/banner/schwarzgelbe-karte/
 ||bvb.de/var/ezdemo_site/storage/images/bvb.de/banner/sky/
 ||bvb.de/var/ezdemo_site/storage/images/bvb.de/banner/strom09-banner/
-||byte.to/images/hdstream.gif
 ||campen.de/images/misc/ebay_logo.gif
 ||casecenter.net^*/werbung/
 ||casinowelt.com/banner/
@@ -2033,7 +2009,6 @@ $websocket,domain=animes-stream24.net
 ||warez-load.com/random.php
 ||warezking.in^*/layer.js
 ||waswiewo.com/media/banner/
-||watchever.bild.de^
 ||wcm.at/images/attingo.gif
 ||web.de/banner/
 ||web.de/banner2/
