@@ -255,8 +255,6 @@ $websocket,domain=animes-stream24.net
 ||cdn11.anime-stream24.com^
 ||cellesche-zeitung.de^*/b4nner/
 ||cellesche-zeitung.de^*/banner/
-||center.tv/cms/fileadmin/site/flash/anzeigen/
-||center.tv^*_pimpmyleasing.jpg
 ||centertv.de/upload/anzeigen/
 ||chefkoch-cdn.de^*/partnerlogos/
 ||chefkoch.de/produkte/widget/loader.js
@@ -277,11 +275,6 @@ $websocket,domain=animes-stream24.net
 ||chip.de/teaser/c1_teaser_frei_*.html$xmlhttprequest
 ||chip.de/unabh_dateien/*/videoskin_$image
 ||ciao.de/sreamer/xs.php?$object-subrequest
-||cine24.tv/la.php
-||cine24.tv/themes/default/banner/
-||cine24.tv/themes/default/images/hdstream.jpg
-||cine24.tv/themes/default/images/joyetech_
-||cine24.tv^*/rotator.php
 ||cine4home.de/images/banner_
 ||cine4home.de/images/logos/banner_
 ||cine4home.de/images/logos/mainlogos/swans%20banner%20ar150.gif
@@ -291,15 +284,8 @@ $websocket,domain=animes-stream24.net
 ||cine4home.de/pics/aibanner_
 ||cine4home.de/pics/banner_
 ||cine4home.de/pics/heimkino_160x240.gif
-||cinebee.org/_out.js
-||cinebee.org/la.js
-||cinebee.org^*.js|
-||cinebee.org^*.php|$script
-||cinebee.org^*/rotator.php
 ||cinecity.at^*/banner*.gif
 ||cineman.ch^*/promobox_$subdocument
-||cineman.com^*/promobox_$subdocument
-||cineman.de^*/promobox_$subdocument
 ||cinemotion-kino.de/fileadmin/backgrounds/*/background.jpg
 ||cineprog.de/images/banner/
 ||cinestar.de/flash/sdkm_intro_video_mini.swf
@@ -325,8 +311,6 @@ $websocket,domain=animes-stream24.net
 ||computerhilfen.de^*/gt-banner-
 ||connect.de^*/partner.js
 ||connect.quoka.de^
-||consol.at/fileadmin/templates/images/bg_
-||consol.at/uploads/tx_consolmedia/*_branding.jpg
 ||coretime.fm/banner/
 ||crackajack.de^*/_banner/$image
 ||crawli.net/com/
