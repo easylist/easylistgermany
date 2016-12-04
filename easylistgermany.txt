@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612042124
+! Version: 201612042131
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 Dec 2016 21:24 UTC
+! Last modified: 04 Dec 2016 21:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30,6 +30,7 @@
 .de/werb/
 .de/werbung/
 .net/werbung/
+.org/werbung/
 .to/werbung/
 /_werbung/*
 /aaa-werbung/*
@@ -3848,7 +3849,6 @@ $websocket,domain=animes-stream24.net
 ||ddl-warez.in/smoozed.$popup
 ||ddl-warez.in/smoozed/$popup
 ||ddl-warez.to/_$popup
-||ddl.me^$popup,domain=c1neon.com
 ||dealbunny.de^$popup,domain=dokus4.me
 ||def.filecrypt.cc^$popup
 ||doubleclick.net^$popup,domain=gamestar.de|gamona.de
@@ -5358,7 +5358,6 @@ gamestar.de##.centeredDiv > .homeContReg > .doubleBlkLeft[style="height:270px;pa
 gamestar.de##.centeredDiv > .homeContReg > .doubleBlkRight[style="height:300px;padding:20px 0;"]:last-child
 typo3blogger.de##.chemical_sitelogo_r
 putenbrust.net##.children:last-child > table[width="500"][align="center"]
-c1neon.com##.cineadd
 lesen.to##.clicky_log_outbound[style="color: rgb(255, 51, 0);  title="]
 chip.de##.cloudsider-widget
 golem.de##.cluster-header + div[style="margin:15px 0; min-height:103px;"]
@@ -7311,7 +7310,7 @@ gamefront.de##img[width="150"][height="563"]
 gamefront.de##img[width="150"][height="600"]
 fscklog.com##img[width="160"][height="160"]
 gamefront.de##img[width="160"][height="300"]
-callofdutyplayers.de,dashitradio.de,der-postillon.com,gamefront.de,myfunlink.to,picdumps.com,radioholiday.it##img[width="160"][height="600"]
+dashitradio.de,der-postillon.com,gamefront.de,myfunlink.to,picdumps.com,radioholiday.it##img[width="160"][height="600"]
 gamefront.de##img[width="180"][height="350"]
 t-online.de##img[width="209"][usemap^="#immap"]
 hitradio.com.na##img[width="220"][height="48"]
@@ -10718,4 +10717,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 82FOaL1FIGYPXDCWDDNi6g
+! Checksum: 9tm1PytuoMuxRPeVhTXvCA
