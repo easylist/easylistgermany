@@ -11,7 +11,6 @@ quoka.de###ColumnOuterRight > .yui3-u-1 > .box:first-child + .box > .ly-1:first-
 quoka.de###ColumnOuterRight > .yui3-u-1:first-child:last-child > .box:last-child > .ly-1:first-child:last-child
 1kh.de###Container > #head:first-child + #content + br + .spacer + center
 fr-online.de###ContainerContent > .Redaktionsmodul.Teaser
-torrent.to###Content + div > div + div + div + a > img
 amazon.de###DAcrs1
 amazon.de###DAi
 amazon.de###DAr2
@@ -32,10 +31,7 @@ branchen-info.net,brd-info.net,staedte-info.net,top-dsl.com###Layer2
 quoka.de###Layout2Column2 > .MsBoxSection
 teltarif.de###LxFloatShop
 mopo.de###MOPO-ad-uap-super-banner
-torrent.to###MainMenu:first-child + div + div > div:first-child + div + div
-torrent.to###MainMenu:first-child + div + div > div:first-child + div + div + div[class]
 ciao.de###MainRightColumn
-torrent.to###Mainframe > div > a > img
 werkzeug-news.de###MitteRechts > .infoblock
 abacho.de###MomondoWidgetSidebar
 boulevard-baden.de###OMSrectangle
@@ -1041,8 +1037,6 @@ chip.de###trippleTipp
 n-tv.de,urlaubspiraten.de,wetter.de###trivago_dealform
 t-online.de###tsc_skyscraper
 t-online.de###tsrwh
-torrent.to###ttoadbar
-torrent.to###ttolayer
 hooksiel.de###ueberalles
 mov-world.net###uflip
 home.1und1.de,web.de###uimTopPosition
@@ -2535,7 +2529,7 @@ linkfarm.in,underground-links.org##a[href^="http://billing.purevpn.com/aff.php"]
 deluxetools.net##a[href^="http://billing.purevpn.com/aff.php?"]
 movie-blog.org##a[href^="http://bim.im/"]
 drop-games.org##a[href^="http://bit.ly"]
-4fuckr.com,byte.to,cine-dream.com,derlacher.de,ebook-hell.to,g-stream.in,gamepro.de,goldesel.to,housebeats.cc,livestreamfussball.org,movie-blog.org,moviekk.net,musicstream.cc,torrent.to,xxx-blog.to##a[href^="http://bit.ly/"]
+4fuckr.com,byte.to,cine-dream.com,derlacher.de,ebook-hell.to,g-stream.in,gamepro.de,goldesel.to,housebeats.cc,livestreamfussball.org,movie-blog.org,moviekk.net,musicstream.cc,xxx-blog.to##a[href^="http://bit.ly/"]
 feiertage.net##a[href^="http://bit.ly/"] > img
 magazin-ddl.info,sceneload.to,warez-load.com##a[href^="http://bitshare.com/?referral="]
 movie-blog.org##a[href^="http://blue.gg/"]
@@ -2588,7 +2582,7 @@ gload.cc##a[href^="http://gload.cc/images/freeuser"]
 gload.cc##a[href^="http://gload.cc/un/dl."]
 movie-blog.org##a[href^="http://goo.by/"]
 drop-games.org##a[href^="http://goo.gl"]
-cinebee.org,ebook-hell.to,goldesel.to,hornoxe.com,leave.to,movie-blog.org,porn2you.org,prad.de,torrent.to,trendhure.com,warezking.in,zensiert.to##a[href^="http://goo.gl/"]
+cinebee.org,ebook-hell.to,goldesel.to,hornoxe.com,leave.to,movie-blog.org,porn2you.org,prad.de,trendhure.com,warezking.in,zensiert.to##a[href^="http://goo.gl/"]
 ingame.de##a[href^="http://green.ingame.de/www/delivery/inck.php?"]
 duckcrypt.info##a[href^="http://highspeed.duckcrypt.info"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
@@ -2667,7 +2661,7 @@ movie-blog.org##a[href^="http://tini.cc/"]
 movie-blog.org##a[href^="http://tiny.cc/"]
 movie-blog.org##a[href^="http://tiny.tw/"]
 dokujunkies.org,drop-games.org,flp.to,istream.ws,oxygen-scene.com##a[href^="http://tinyurl.com"]
-byte.to,chatroulette-deutsch.com,cine-dream.com,dbase.ws,fakedaten.tk,fantasiedaten.1x.biz,flower-blog.org,hd-world.org,hopto.org,livestreamfussball.org,movie-blog.org,moviekk.net,querverweis.net,torrent.to,trendhure.com,xvidload.com,xxx-dream.com##a[href^="http://tinyurl.com/"]
+byte.to,chatroulette-deutsch.com,cine-dream.com,dbase.ws,fakedaten.tk,fantasiedaten.1x.biz,flower-blog.org,hd-world.org,hopto.org,livestreamfussball.org,movie-blog.org,moviekk.net,querverweis.net,trendhure.com,xvidload.com,xxx-dream.com##a[href^="http://tinyurl.com/"]
 g-stream.in##a[href^="http://tinyurl.com/"] > img
 movie-blog.org##a[href^="http://to.ly/"]
 byte.to##a[href^="http://torrent.byte.to/first/"]
@@ -2734,8 +2728,7 @@ maerkischeallgemeine.de##a[href^="http://www.etracker.de/lnkcnt.php?"]
 5vor12.de##a[href^="http://www.exnzg.de/go.cgi?pid="]
 maclife.de##a[href^="http://www.falkemedia-shop.de/"][target="_blank"] > img
 finanztreff.de,manager-magazin.de##a[href^="http://www.finanztreff.de/adclick.htn?b="]
-lesen.to,torrent.to##a[href^="http://www.firstload.com/?uniq="]
-torrent.to##a[href^="http://www.firstload.net/affiliate/"]
+lesen.to##a[href^="http://www.firstload.com/?uniq="]
 movie-blog.org##a[href^="http://www.fixurl.de/"]
 flower-blog.org##a[href^="http://www.flower-blog.org/download_usenet_"]
 freesms-senden.net##a[href^="http://www.freesms-senden.net/sms-"]
@@ -3331,7 +3324,6 @@ hitradio-rtl.de##div[style="width:822px; height:90px; margin:auto"]
 techno4ever.fm##div[style="width:904px; margin-left: auto; margin-right: auto; text-align: right"]
 free-klingeltoene-handy.de##div[style="width:950px; border: 1px solid #FFFFFF; padding:0 0 8px 8px; background: #FFFEEF; float: left; text-align: left;"]
 hitparade.ch##div[style="width:970px;margin-bottom:10px;height:90px;"]
-torrent.to##div[style] > div + div + div + a > img
 mikrocontroller.net##div[style] > script + div[id^="a"][style] > div[style]
 gamestar.de##div[style^="background-image:url(/img/gamestar/products/banner_mcgame.png)"]
 t-online.de##div[style^="background-image:url(http://bilder.t-online.de/b/62/17/80/56/id_62178056/tid_da/index.jpg"]
