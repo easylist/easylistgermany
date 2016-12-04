@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612041712
+! Version: 201612041714
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 Dec 2016 17:12 UTC
+! Last modified: 04 Dec 2016 17:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -719,7 +719,7 @@ guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||doubleclick.net/pfadx/telewest.de/$third-party
 ||doubleclick.net/pfadx/toggo.de/$third-party
 ||doubleclick.net/pfadx/www.teleboerse.de/$third-party
-||doubleclick.net^$third-party,domain=augsburger-allgemeine.de|autobild.de|bigbrother.de|bild.de|buffed.de|bunch.tv|bundesliga.de|cnet.de|comedycentral.de|computerbild.de|dashausanubis.de|de.msn.com|dooloop.tv|eyep.tv|filmjunkies.de|flashgames.de|focus.de|frauenzimmer.de|gameone.de|gamepro.de|gamesaktuell.de|gamestar.de|gameswelt.at|gameswelt.ch|gameswelt.de|gameswelt.tv|gamezone.de|gzsz.rtl.de|hatenight.com|homerj.de|icarly.de|kino.de|kochbar.de|laola1.tv|lustich.de|motorvision.de|myvideo.at|myvideo.ch|myvideo.de|n-tv.de|onlinewelten.com|pcgames.de|pcgameshardware.de|pcwelt.de|radio.de|ran.de|rtlregional.de|southpark.de|spiegel.tv|spiele-zone.de|spongebob.de|sport.de|spox.com|spreeradio.de|t-online.de|tape.tv|teleboerse.de|the-hills.tv|trailerseite.de|tvmovie.de|video.de|videogameszone.de|vip.de|vodafonelive.de|vox.de|welt.de|wetter.de|wetterschnecken.de|wikifit.de|www.rtl2.de|zdnet.de
+||doubleclick.net^$third-party,domain=augsburger-allgemeine.de|autobild.de|bigbrother.de|bild.de|buffed.de|bunch.tv|bundesliga.de|cnet.de|comedycentral.de|computerbild.de|dashausanubis.de|de.msn.com|dooloop.tv|eyep.tv|filmjunkies.de|flashgames.de|focus.de|frauenzimmer.de|gameone.de|gamepro.de|gamesaktuell.de|gamestar.de|gameswelt.at|gameswelt.ch|gameswelt.de|gameswelt.tv|gamezone.de|gzsz.rtl.de|hatenight.com|homerj.de|icarly.de|kino.de|kochbar.de|laola1.tv|lustich.de|motorvision.de|myvideo.at|myvideo.ch|myvideo.de|n-tv.de|onlinewelten.com|pcgames.de|pcgameshardware.de|pcwelt.de|radio.de|ran.de|rtlregional.de|southpark.de|spiegel.tv|spiele-zone.de|spongebob.de|sport.de|spox.com|spreeradio.de|t-online.de|teleboerse.de|the-hills.tv|trailerseite.de|tvmovie.de|video.de|videogameszone.de|vip.de|vodafonelive.de|vox.de|welt.de|wetter.de|wetterschnecken.de|wikifit.de|www.rtl2.de|zdnet.de
 ||doubleclick.net^*/pfadx/DE_N24.*.video/*;vpos=*;zz=*;fs=$third-party
 ||doubleclick.net^*/pfadx/tele5.de/$third-party
 ||dragout.de^$third-party
@@ -3554,8 +3554,6 @@ $websocket,domain=animes-stream24.net
 ||tagseoblog.de/images/schildkroete-net.png
 ||tagseoblog.de/images/vpp-werben280x250.jpg
 ||taketv.net/bilder/backdell.jpg
-||tape.tv/tape2fs-new/images/campaign/$object-subrequest
-||tape.tv/tape2fs/images/campaign/$object-subrequest
 ||taschenlampen-forum.de/images/fenix/
 ||taschenlampen-forum.de/images/imalent/
 ||taschenlampen-forum.de/images/jetbeam/
@@ -10594,7 +10592,6 @@ eatsmarter.de##span + span > a > img
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
-@@||tape.tv/tape2fs/images/campaign/teaser-redaktion.swf?
 @@||teufel-media.de/www/delivery/avw.php?zoneid=$image,domain=gewinnspiele.freenet.de
 @@||tfag.de/img/$domain=focus.de
 @@||tfag.de/js_ng/js_ng_huffpost_$script,domain=huffingtonpost.de
@@ -10849,4 +10846,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: CI9ZbMXBVvEFKdbrLUTPKQ
+! Checksum: bE1ZG41jpNXnCrRAF4pCuA
