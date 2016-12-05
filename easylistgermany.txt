@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612051713
+! Version: 201612051803
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Dec 2016 17:13 UTC
+! Last modified: 05 Dec 2016 18:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6549,6 +6549,7 @@ movie-blog.org##a[href^="http://urlizr.de/"]
 movie-blog.org##a[href^="http://vyu.me/"]
 fakedaten.tk##a[href^="http://wasistdasusenet.com/"]
 movie-blog.org##a[href^="http://wck.me/"]
+winfuture.de##a[href^="http://winfuture.de/redirect.php?c=sb_hockey_"]
 t-online.de##a[href^="http://wirtschaft.t-online.de/tagesgeldkonto-der-bank-of-scotland/id_"]
 t-online.de##a[href^="http://wirtschaft.t-online.de/testen-sie-den-devisen-handel-mit-dem-kostenlosen-demokonto-der-fxdirekt-bank/id_"]
 t-online.de##a[href^="http://wirtschaft.t-online.de/top-girokonto-der-norisbank/id_"]
@@ -10685,4 +10686,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: mmnT+W5dwmxOv3ANXbNrRQ
+! Checksum: XbhNBC3olTN03FVPXqIllw
