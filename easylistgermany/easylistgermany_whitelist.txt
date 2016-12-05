@@ -329,6 +329,7 @@
 @@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||serving-sys.com/BurstingRes//Site-*/Type-*/$script,domain=cnet.de
 @@||showfusion.eu/xml/ads/ad_1.xml$object-subrequest,domain=urbia.de
+@@||shz.de/sso/$elemhide
 @@||smart.allocine.fr/a/diff/*/show*.asp?$object-subrequest,domain=ufa-dresden.de
 @@||smart.allocine.fr/call/pubx/*&video=$object-subrequest
 @@||smartadserver.com/a/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
