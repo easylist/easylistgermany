@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612121713
+! Version: 201612122209
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Dec 2016 17:13 UTC
+! Last modified: 12 Dec 2016 22:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3806,6 +3806,42 @@ $websocket,domain=animes-stream24.net
 ||adsafeprotected.com^$domain=imasdk.googleapis.com
 ||adtech.de^$domain=tellows.de
 ||googleadservices.com^$domain=tellows.de
+! 
+||aachener-nachrichten.de/zva/an/images/D/*-*.*/*.gif
+||aachener-nachrichten.de/zva/an/images/U/*-*.*/*.gif
+||autozeitung.de/imgs/D/*-*.*/*.gif
+||deine-tierwelt.de/image/U/*-*.*/*.gif
+||donnerwetter.de/images/D/*-*.*/*.gif
+||donnerwetter.de/images/U/*-*.*/*.gif
+||e-hausaufgaben.de/image/D/*-*.*/*.gif
+||epochtimes.de/image/D/*-*.*/*.gif
+||fanfiktion.de/pics/D/*-*.*/*.gif
+||formel1.de/public/img/D/*-*.*/*.gif
+||formel1.de/public/img/U/*-*.*/*.gif
+||frag-mutti.de/image/D/*-*.*/*.gif
+||frag-mutti.de/image/U/*-*.*/*.gif
+||fremdwort.de/images/D/*-*.*/*.gif
+||frustfrei-lernen.de/image/D/*-*.*/*.gif
+||gevestor.de/image/D/*-*.*/*.gif
+||infranken.de/image/D/*-*.*/*.gif
+||inside-handy.de/imagedir/D/*-*.*/*.gif
+||juraforum.de/image/D/*-*.*/*.gif
+||liga3-online.de/image/D/*-*.*/*.gif
+||motorsport-total.com/i/U/*-*.*/*.gif
+||nickles.de/image/D/*-*.*/*.gif
+||pixelio.de/image/U/*-*.*/*.gif
+||psychic.de/image/D/*-*.*/*.gif
+||quoka.de/image/D/*-*.*/*.gif
+||rp-online.de/image/D/*-*.*/*.gif
+||spielen.de/image/U/
+||tvinfo.de/image/U/*-*.*/*.gif
+||unicum.de/image/D/*-*.*/*.gif
+||weristdeinfreund.de/image/D/*-*.*/*.gif
+||weser-kurier.de/cms_media/module_wkdpicture/2/1108_1_meyerhoff_weihnachtsbaeume_v2-1_5849309e0494f.gif
+||weser-kurier.de/image/D/*-*.*/*.gif
+||wetteronline.de/image/wo/D/*-*.*/*.gif
+||wize.life/wde6141348/D/*-*.*/*.gif
+||www.news.de/image/D/*-*.*/*.gif
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block_popup.txt ***
 .gif|$popup,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
 ^utm_campaign^$popup,domain=jappy.de
@@ -10251,9 +10287,6 @@ epochtimes.de##img[style="margin: 0px auto;"]
 donnerwetter.de##img[style="width: 160px; max-width: 160px;"]
 autozeitung.de##img[style="width: 300px; height: 600px; max-width: 300.1px; max-height: 600px; margin-left: 0px;"]
 tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
-||aachener-nachrichten.de/zva/an/images/U/*-*.*/*.gif
-||formel1.de/public/img/U/*-*.*/*.gif
-||motorsport-total.com/i/U/*-*.*/*.gif
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist.txt ***
 @@/adpop.js$domain=freenet.de
@@ -10884,4 +10917,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: N5koJsOl1cXwvR0d8Pnw6g
+! Checksum: +mjR9wUIfHfSHaBwpl+j0g
