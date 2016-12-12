@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612121702
+! Version: 201612121703
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Dec 2016 17:02 UTC
+! Last modified: 12 Dec 2016 17:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10561,6 +10561,8 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||s.bs.to/js/main.min.js|$script,domain=~board.bs.to|bs.to
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
 @@||sascdn.com/diff/251/$image,domain=transfermarkt.de
+@@||sascdn.com/diff/251/*/650x400$image,domain=gofeminin.de
+@@||sascdn.com/diff/251/*_650x400_$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/*_650x400px.$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/*_650x400x.$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/5489376/500x305_ms_wei_.jpg$image,domain=gofeminin.de
@@ -10877,4 +10879,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: fk6t47clp7EsFhNBVHi+UQ
+! Checksum: mK59iiqArZ4YPDAVWFsf7w
