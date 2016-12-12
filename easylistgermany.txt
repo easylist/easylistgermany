@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612121703
+! Version: 201612121713
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Dec 2016 17:03 UTC
+! Last modified: 12 Dec 2016 17:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10219,12 +10219,17 @@ aachener-nachrichten.de##.adNoAdMark
 motorsport-total.com##.asmlink
 weser-kurier.de##.bb-img
 rp-online.de##.billboard
+deine-tierwelt.de##.classified-skyscraper-right
 donnerwetter.de##.col-xs-9.block-center
 weser-kurier.de##.container_skyscraper
 spielfilm.de##.dconti
+deine-tierwelt.de##.header-leaderboard
 deine-tierwelt.de##.header-leaderboard-container
+deine-tierwelt.de##.img-responsive.center-block
 giga.de##.quo_il
+deine-tierwelt.de##.resultslist-sky-right
 psychic.de##.right_a
+deine-tierwelt.de##.row.visible-md.visible-lg.external-content-container
 wize.life##.skyscraper_1
 wize.life##.superbanner_1
 gevestor.de##.top_ads
@@ -10879,4 +10884,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: mK59iiqArZ4YPDAVWFsf7w
+! Checksum: N5koJsOl1cXwvR0d8Pnw6g
