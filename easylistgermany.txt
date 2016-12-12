@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612120720
+! Version: 201612120725
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Dec 2016 07:20 UTC
+! Last modified: 12 Dec 2016 07:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10224,6 +10224,7 @@ donnerwetter.de##.col-xs-9.block-center
 weser-kurier.de##.container_skyscraper
 spielfilm.de##.dconti
 deine-tierwelt.de##.header-leaderboard-container
+giga.de##.quo_il
 psychic.de##.right_a
 wize.life##.skyscraper_1
 wize.life##.superbanner_1
@@ -10231,10 +10232,24 @@ gevestor.de##.top_ads
 frag-mutti.de##[style="width: 300px; right: -140px;"]
 e-hausaufgaben.de##div[style="background-color: rgb(221, 221, 221);"]
 gevestor.de##div[style="position: relative; width: 1020px; margin: 0px auto;"]
+iban-rechner.de##div[style="text-align:center; margin-left:auto; margin-right:auto"]
+frustfrei-lernen.de##img[src="/images/verwaltung/november-special-2016-small-link-smaller.jpg"]
+wetteronline.de##img[src="https://st.wetteronline.de/wotexte/vermarktung/snippets/topnewsBox/wotexte_teaser_Slider_image_02_3061c1d5316989ddc1dcd89cdc88f839.jpg"]
+wetteronline.de##img[src="https://st.wetteronline.de/wotexte/vermarktung/snippets/topnewsBox/wotexte_teaser_Slider_image_02_3061c1d531bd9c789af71beaca45d0b1.jpg"]
+donnerwetter.de##img[src^="/image/D/"]
+abi.unicum.de,donnerwetter.de,e-hausaufgaben.de,epochtimes.de,frustfrei-lernen.de,gevestor.de,infranken.de,juraforum.de,liga3-online.de,news.de,nickles.de,psychic.de,quoka.de,rp-online.de,weristdeinfreund.de,weser-kurier.de##img[src^="/image/U/"]
+inside-handy.de##img[src^="/imagedir/U/"]
+fremdwort.de##img[src^="/images/U/"]
+autozeitung.de##img[src^="/imgs/U/"]
+fanfiktion.de##img[src^="/pics/U/"]
+wize.life##img[src^="/wde189432/U/"]
 epochtimes.de##img[style="margin: 0px auto;"]
 donnerwetter.de##img[style="width: 160px; max-width: 160px;"]
 autozeitung.de##img[style="width: 300px; height: 600px; max-width: 300.1px; max-height: 600px; margin-left: 0px;"]
 tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
+||aachener-nachrichten.de/zva/an/images/U/*-*.*/*.gif
+||formel1.de/public/img/U/*-*.*/*.gif
+||motorsport-total.com/i/U/*-*.*/*.gif
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist.txt ***
 @@/adpop.js$domain=freenet.de
@@ -10859,4 +10874,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Z14GgEp7H4Yi3KpQ/NNp9g
+! Checksum: eyA3VxumWu50VO1fyyoWyQ
