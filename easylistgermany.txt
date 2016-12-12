@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612120725
+! Version: 201612121701
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Dec 2016 07:25 UTC
+! Last modified: 12 Dec 2016 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7925,7 +7925,6 @@ finanztreff.de##.adEventSpacer + * + * + * + * + * + * + * + * + * + [-abp-prope
 finanztreff.de##.adEventSpacer + * + * + * + * + * + * + * + * + [-abp-properties='text-align: center;'] > img
 finanztreff.de##.adEventSpacer + * + [-abp-properties='text-align: center;'] > img
 finanztreff.de##.adEventSpacer + [-abp-properties='text-align: center;'] > img
-spiegel.de##.adition + *
 macwelt.de##.article + * + * + * + * + * + #ob_holder + div > img
 shz.de##.article > [-abp-properties='margin-left: 24px;']
 nnn.de,prignitzer.de,svz.de##.article > div > [-abp-properties='left: 42.9*px;']
@@ -10839,6 +10838,8 @@ kalender-365.de#@#.adsbygoogle
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
 @@||wirtschaft-recht-aktuell.de^$elemhide
 @@||zdnet.de^*/advertising.js$domain=zdnet.de
+! 
+@@||uobsoe.com^$image,domain=spiegel.de
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist_dimensions.txt ***
 @@||bueropartner24.de/out/pictures/generated/category/icon/728_90_$image,~third-party
 @@||campact.de^*_300x250.gif
@@ -10874,4 +10875,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: eyA3VxumWu50VO1fyyoWyQ
+! Checksum: /S2iA9c5fSznQXROGUdXcQ
