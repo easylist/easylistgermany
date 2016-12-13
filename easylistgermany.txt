@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612131812
+! Version: 201612131815
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Dec 2016 18:12 UTC
+! Last modified: 13 Dec 2016 18:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5467,6 +5467,7 @@ muenchen.de##.dienste_anzeige
 muensterschezeitung.de,ruhrnachrichten.de##.digitaleAnzeigen
 morgensex.com##.dim_b945_h100
 bluewin.ch##.directto > .logos
+freetipps.com##.ditto-shopping
 volksblatt.li##.divAnzeige
 volksblatt.li##.divBanner
 volksblatt.li##.divPdfAnzeigen
@@ -10914,4 +10915,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: m+eEjD35AwNs8ZqLSVzqfg
+! Checksum: knw4IZoTmY+mQfBzpgyU7Q
