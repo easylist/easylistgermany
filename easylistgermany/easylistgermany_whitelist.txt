@@ -587,6 +587,7 @@ kalender-365.de#@#.adsbygoogle
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
 @@||wirtschaft-recht-aktuell.de^$elemhide
 !
+@@|http:*/*_*-$image,third-party,domain=spiegel.de
 @@||p5.focus.de/img/fotos/crop*.png$image,domain=focus.de
 @@||prosieben.de/static/*.png$image,domain=prosieben.de
 @@||uobsoe.com^$image,domain=pcwelt.de|spiegel.de|transfermarkt.de
