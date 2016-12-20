@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612190734
+! Version: 201612200857
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 19 Dec 2016 07:34 UTC
+! Last modified: 20 Dec 2016 08:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8038,16 +8038,6 @@ macwelt.de##.article + * + * + * + * + * + #ob_holder + div > img
 shz.de##.article > [-abp-properties='margin-left: 24px;']
 nnn.de,prignitzer.de,svz.de##.article > div > [-abp-properties='left: 42.9*px;']
 nnn.de,prignitzer.de,svz.de##.article > div > [-abp-properties='left: 43px;'] > img
-spiegel.de##.article-section > * > * > img
-spiegel.de##.article-section > div > div > div > img
-spiegel.de##.article-section > div > div > img
-spiegel.de##.article-section > div > div > span > img
-spiegel.de##.article-section > div > span > img
-spiegel.de##.article-section > section > * > img
-spiegel.de##.article-section > span > * > img
-spiegel.de##.article-section > span > :last-child > img
-spiegel.de##.article-section > span > aside > img
-spiegel.de##.article-section > span > div > img
 caravaning.de##.article_content > div > [-abp-properties='cursor: pointer;']
 autobild.de##.articlecontent + * > [-abp-properties='cursor: pointer;']
 experto.de##.artikelmain > [-abp-properties='cursor: pointer']
@@ -8363,10 +8353,6 @@ kabeleins.de##[-abp-properties='/width: 7[34][0-9]|750px;/'] > img
 pcgames.de##[-abp-properties='background-color*; bottom*; cursor: pointer; left*; position: absolute; right*; top: 0px;']
 wetter.com##[-abp-properties='bottom*; left: 108px; position: relative;']
 pcgameshardware.de##[-abp-properties='bottom: 1px; margin-left: 5px;'] > img
-spiegel.de##[-abp-properties='bottom: 21.*px;'] > img
-spiegel.de##[-abp-properties='bottom: 22.*px;'] > img
-spiegel.de##[-abp-properties='bottom: 23.*px;'] > img
-spiegel.de##[-abp-properties='bottom: 24px;'] > img
 wetter.com##[-abp-properties='bottom: 270px; left: 770px; position: absolute;']
 sixx.de##[-abp-properties='bottom: 2px; left: 38px; position: relative;']
 woxikon.de##[-abp-properties='bottom: 2px; position: relative; text-align: center;']
@@ -10996,4 +10982,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: SXqoPcTftIvx194fIkihTw
+! Checksum: Z2oVPTvC2NHGfWDeM6u9Ig
