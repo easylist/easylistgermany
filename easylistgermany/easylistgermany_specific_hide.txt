@@ -30,6 +30,7 @@ branchen-info.net,brd-info.net,staedte-info.net,top-dsl.com###Layer1
 branchen-info.net,brd-info.net,staedte-info.net,top-dsl.com###Layer2
 quoka.de###Layout2Column2 > .MsBoxSection
 teltarif.de###LxFloatShop
+teltarif.de###LxShop
 mopo.de###MOPO-ad-uap-super-banner
 ciao.de###MainRightColumn
 werkzeug-news.de###MitteRechts > .infoblock
@@ -2152,6 +2153,7 @@ macnews.de##.transaction_box
 www.google.de##.ts[style="margin:0 0 12px;height:92px;width:100%"]
 t-online.de##.tsc_www_p4p
 t-online.de##.tsc_www_p4p_bottom
+teltarif.de##.ttWallTD
 teltarif.de##.ttcen1[style="height: 59px; margin: 0; padding-bottom: 21px;"]
 enduro-austria.at##.ttr_banner_menu_inner_above0
 teltarif.de##.ttsidecol > aside > div[style="text-align:right;color:#CCCCCC"]:first-child
@@ -2990,6 +2992,7 @@ abnehmen-forum.com##div[id^="edit"] > .vbseo_like_postbit + table[width="100%"][
 jswelt.de##div[id^="edit"]:first-child:last-child > .spacer:last-child
 boerse.sx##div[id^="edit"][style="padding:0px 0px 6px 0px"] > table[id^="post"][width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"] + br + .tborder[width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"]
 gamestar.de##div[id^="idAd"]
+teltarif.de##div[id^="ideaload"]
 freitag.de##div[id^="mf"]
 pcgames.de##div[id^="plakatinhalttag_"]
 ruppiner-medien.de##div[id^="promotion"]
