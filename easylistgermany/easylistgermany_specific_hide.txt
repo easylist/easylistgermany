@@ -869,6 +869,7 @@ mamamiez.de###sidebar > ul > #text-7
 autozeitung.de###sidebar div[id] > img[src^="/imags/"]
 infosperber.ch###sidebar-inner-content > .bildbox
 infosperber.ch###sidebar-inner-content > .expertenjobs
+areadvd.de###sidebar-left #text-5
 mikrocontroller.net###sidebar-right > div[style]:last-child > div[id]:last-child > div[style]
 mikrocontroller.net###sidebar-right > div[style]:last-child > script + div[style]:last-child
 grenzwissenschaft-aktuell.blogspot.de###sidebar-right-1 > #HTML1 > .widget-content:first-child
