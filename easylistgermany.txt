@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612221202
+! Version: 201612221415
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 22 Dec 2016 12:02 UTC
+! Last modified: 22 Dec 2016 14:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3530,6 +3530,7 @@ $websocket,domain=animes-stream24.net
 ||testreich.com/layer*.html
 ||ticket-leistung.de^*/banner/
 ||tinyurl.com^$domain=g-stream.in|hardcoremetal.biz|hd-world.org|hoerbuch.us|kino24.to|kinox.tv|lesen.to|linkfarm.in|movie-blog.org|playporn.to|pornkino.to|rapidvideo.com|relink.us|smsit.me|xxx-blog.to
+||titanic-magazin.de/fileadmin/content/anz/
 ||titanic-magazin.de/fileadmin/content/anzeigen/
 ||tobitech.de/images/*.swf
 ||tollesthueringen.de/img_proximus/anzeigen/
@@ -7084,6 +7085,7 @@ pure-anime.biz##div[style=" text-align:center;margin:15px;height:88px;"]
 epochtimes.de##div[style="background-color: #eee; border: 1px solid #ccc; margin: 1rem auto; text-align: center;"]
 fr-online.de##div[style="background-color: #fcfcfc; padding: 5px; font-size: 11px;"]
 zdnet.de##div[style="background-color: #fff; width: 984px; height: auto; background-image:url(http://www.zdnet.de/i/g/z/zdnet_site_bg.gif); padding: 10px 0 10px 0; text-align: center;"]
+titanic-magazin.de##div[style="background-color: white;z-index: 10;height: 97px;padding: 5px;position: relative;padding-top: 15px;margin-bottom: 30px;"]
 wallstreet-online.de##div[style="background-color:#000000; height:25px;"]
 fireball.de##div[style="background-color:#FFFFD9;padding:5px;"]
 php-resource.de##div[style="background-color:#fff7bd;border:1px #818181 solid;padding:15px;margin:15px;width:900px;"]
@@ -11065,4 +11067,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: xAh6AlEetyysF38hesZqPQ
+! Checksum: VVJwSwpmnshmL+gxlOZwHQ
