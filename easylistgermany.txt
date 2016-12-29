@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612291116
+! Version: 201612291955
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 29 Dec 2016 11:16 UTC
+! Last modified: 29 Dec 2016 19:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3806,7 +3806,10 @@ $websocket,domain=animes-stream24.net
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
+@@||spiegel.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
+||adition.com/banner?$domain=spiegel.de
+||adition.com^$domain=spiegel.de
 ||adnet.de^$domain=tellows.de
 ||adsafeprotected.com^$domain=imasdk.googleapis.com
 ||adtech.de^$domain=tellows.de
@@ -11112,4 +11115,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 1ZzB+1mrHxy7Esq8nAdy5A
+! Checksum: PpXEeGOjoyFWLkArP9I+vQ
