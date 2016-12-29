@@ -1274,6 +1274,7 @@ autobild.de##.article > div > img
 tvspielfilm.de##.article-body > div[style="margin:0 0 20px;text-align:center"]
 www.stern.de##.article-content > div > img
 telemedicus.info##.article-info + .b[style="margin-top:15px;"]
+spiegel.de##.article-section > .asset-buchwerbekasten
 computerbase.de##.article-view__rectangle
 nwzonline.de##.article.clearfix .c8.inv-border + a > img
 computerbild.de##.articleAdditional > .kaufenteaser .amazon

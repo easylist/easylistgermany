@@ -2145,6 +2145,7 @@ $websocket,domain=animes-stream24.net
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 @@||spiegel.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
+widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ||adition.com/banner?$domain=spiegel.de
 ||adition.com^$domain=spiegel.de
 ||adnet.de^$domain=tellows.de
