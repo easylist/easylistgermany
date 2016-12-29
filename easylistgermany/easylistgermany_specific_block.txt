@@ -2143,7 +2143,10 @@ $websocket,domain=animes-stream24.net
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
+@@||spiegel.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
+||adition.com/banner?$domain=spiegel.de
+||adition.com^$domain=spiegel.de
 ||adnet.de^$domain=tellows.de
 ||adsafeprotected.com^$domain=imasdk.googleapis.com
 ||adtech.de^$domain=tellows.de
