@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201612300940
+! Version: 201612300954
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 Dec 2016 09:40 UTC
+! Last modified: 30 Dec 2016 09:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3806,6 +3806,7 @@ $websocket,domain=animes-stream24.net
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
+@@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 @@||spiegel.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
@@ -11099,11 +11100,6 @@ kalender-365.de#@#.adsbygoogle
 @@||vorsorgebote.de^$elemhide
 @@||werbeblocker-erkennen.webconrad.com/adframe.js
 @@||wirtschaft-recht-aktuell.de^$elemhide
-! 
-@@|http:*/*_*-$image,third-party,domain=spiegel.de
-@@||p5.focus.de/img/fotos/crop*.png$image,domain=focus.de
-@@||prosieben.de/static/*.png$image,domain=prosieben.de
-@@||uobsoe.com^$image,domain=pcwelt.de|spiegel.de|transfermarkt.de
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist_dimensions.txt ***
 @@||bueropartner24.de/out/pictures/generated/category/icon/728_90_$image,~third-party
 @@||campact.de^*_300x250.gif
@@ -11139,4 +11135,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: BJfW5YLcOoQ7zi8+BaXt6w
+! Checksum: Ha7BLEkr/+wrM9ocPHzd8w
