@@ -2143,6 +2143,7 @@ $websocket,domain=animes-stream24.net
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
+@@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 @@||spiegel.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
