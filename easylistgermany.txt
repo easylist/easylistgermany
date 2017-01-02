@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701021810
+! Version: 201701021942
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Jan 2017 18:10 UTC
+! Last modified: 02 Jan 2017 19:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3857,18 +3857,23 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||teads.tv^$domain=spiegel.de
 ||yieldlab.net^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de
 ! 
+||aachener-nachrichten.de/*/*/*/*/*.gif$image
 ||aachener-nachrichten.de/zva/an/image/D/*-*.*/*.gif
 ||aachener-nachrichten.de/zva/an/image/public$image
 ||aachener-nachrichten.de/zva/an/image/static/D/*-*/*.gif
 ||aachener-nachrichten.de/zva/an/images/D/*-*.*/*.gif
 ||aachener-nachrichten.de/zva/an/images/U/*-*.*/*.gif
 ||autozeitung.de/imges/D/*-*.*/*.gif
+||autozeitung.de/imges/publc$image
 ||autozeitung.de/imges/public$image
 ||autozeitung.de/imges/static/D/*-*/*.gif
 ||autozeitung.de/imgs/D/*-*.*/*.gif
+||browsergames.spielen.de/imag/publc/U$image
+||deine-tierwelt.de/imag/publc$image
 ||deine-tierwelt.de/image$image
 ||deine-tierwelt.de/image/U/*-*.*/*.gif
 ||donnerwetter.de/imag/D/*-*.*/*.gif
+||donnerwetter.de/imag/publc$image
 ||donnerwetter.de/imag/public$image
 ||donnerwetter.de/imag/static/D/*-*/*.gif
 ||donnerwetter.de/imag/static/U/*-*/*.gif
@@ -3876,23 +3881,28 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||donnerwetter.de/images/D/*-*.*/*.gif
 ||donnerwetter.de/images/U/*-*.*/*.gif
 ||e-hausaufgaben.de/imag/D/*-*.*/*.gif
+||e-hausaufgaben.de/imag/publc$image
 ||e-hausaufgaben.de/imag/public$image
 ||e-hausaufgaben.de/imag/static/D/*-*/*.gif
 ||e-hausaufgaben.de/image/D/*-*.*/*.gif
 ||epochtimes.de/image/D/*-*.*/*.gif
 ||epochtimes.de/Z/D/*-*.*/*.gif
+||epochtimes.de/Z/publc$image
 ||epochtimes.de/Z/public$image
 ||epochtimes.de/Z/static/D/*-*/*.gif
 ||fanfiktion.de/pics/D/*-*.*/*.gif
+||fanfiktion.de/pics/publc$image
 ||fanfiktion.de/pics/statc$image
 ||fanfiktion.de/pics/static/D/*-*.*/*.gif
 ||fanfiktion.de/pics/statlc/D/*-*/*.gif
 ||formel1.de/public/img/D/*-*.*/*.gif
+||formel1.de/public/img/publc$image
 ||formel1.de/public/img/statc/D/*-*/*.gif
 ||formel1.de/public/img/static/D/*-*.*/*.gif
 ||formel1.de/public/img/statlc$image
 ||formel1.de/public/img/U/*-*.*/*.gif
 ||frag-mutti.de/imag/D/*-*.*/*.gif
+||frag-mutti.de/imag/publc$image
 ||frag-mutti.de/imag/static/D/*-*/*.gif
 ||frag-mutti.de/imag/static/U/*-*/*.gif
 ||frag-mutti.de/imag/statlc$image
@@ -3901,21 +3911,27 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||frag-mutti.de/image/U/*-*.*/*.gif
 ||fremdwort.de/images/D/*-*.*/*.gif
 ||fremdwort.de/imags/D/*-*.*/*.gif
+||fremdwort.de/imags/publc$image
 ||fremdwort.de/imags/public$image
 ||fremdwort.de/imags/static/D/*-*/*.gif
 ||frustfrei-lernen.de/imag/D/*-*.*/*.gif
 ||frustfrei-lernen.de/imag/static/D/*-*/*.gif
+||frustfrei-lernen.de/imag/statlc$image
 ||frustfrei-lernen.de/image/D/*-*.*/*.gif
 ||gevestor.de/imag/D/*-*.*/*.gif
+||gevestor.de/imag/publc$image
 ||gevestor.de/imag/static/D/*-*/*.gif
 ||gevestor.de/imag/statlc$image
 ||gevestor.de/image/D/*-*.*/*.gif
+||haz.de/image/U$image
 ||infranken.de/imag/D/*-*.*/*.gif
 ||infranken.de/imag/static/D/*-*/*.gif
+||infranken.de/imag/statlc$image
 ||infranken.de/image/D/*-*.*/*.gif
 ||inside-handy.de/imagedir/D/*-*.*/*.gif
 ||inside-handy.de/imagesdir/D/*-*.*/*.gif
 ||juraforum.de/imag/D/*-*.*/*.gif
+||juraforum.de/imag/publc$image
 ||juraforum.de/imag/static/D/*-*/*.gif
 ||juraforum.de/imag/statlc$image
 ||juraforum.de/image/D/*-*.*/*.gif
@@ -3923,27 +3939,38 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||liga3-online.de/imag/public$image
 ||liga3-online.de/imag/static/D/*-*/*.gif
 ||liga3-online.de/image/D/*-*.*/*.gif
+||ln-online.de/image/U$image
+||lvz.de/image/U$image
 ||motorsport-total.com/i/D/*-*/*.gif
+||motorsport-total.com/i/publc$image
 ||motorsport-total.com/i/static$image
 ||motorsport-total.com/i/U/*-*.*/*.gif
+||mt.de/image/U$image
 ||news.de/imags/D/*-*.*/*.gif
+||news.de/imags/publc$image
 ||news.de/imags/public$image
 ||news.de/imags/static/D/*-*/*.gif
 ||nickles.de/imag/D/*-*.*/*.gif
+||nickles.de/imag/publc$image
 ||nickles.de/imag/public$image
 ||nickles.de/imag/static/D/*-*/*.gif
 ||nickles.de/image/D/*-*.*/*.gif
+||nw.de/image/U$image
+||pferde.de/image/publc/U$image
 ||pferde.de/image/static$image
 ||pferde.de/image/U/*-*/*.gif
 ||pixelio.de/image/D/*-*.*/*.gif
+||pixelio.de/image/publc$image
 ||pixelio.de/image/public$image
 ||pixelio.de/image/static/D/*-*/*.gif
 ||pixelio.de/image/U/*-*.*/*.gif
 ||psychic.de/imag/D/*-*.*/*.gif
+||psychic.de/imag/publc$image
 ||psychic.de/imag/public$image
 ||psychic.de/imag/static/D/*-*/*.gif
 ||psychic.de/image/D/*-*.*/*.gif
 ||quoka.de/imag/D/*-*.*/*.gif
+||quoka.de/imag/publc$image
 ||quoka.de/imag/public$image
 ||quoka.de/imag/static/D/*-*/*.gif
 ||quoka.de/image/D/*-*.*/*.gif
@@ -3952,26 +3979,32 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||spielen.de/imag/static/U/*-*.*/*.gif
 ||spielen.de/imag/U/*-*.*/*.gif
 ||spielen.de/image/U/
+||tvinfo.de/imag/publc$image
 ||tvinfo.de/imag/public$image
 ||tvinfo.de/imag/static/U/*-*/*.gif
 ||tvinfo.de/imag/U/*-*.*/*.gif
 ||tvinfo.de/image/U/*-*.*/*.gif
 ||unicum.de/imag/D/*-*.*/*.gif
+||unicum.de/imag/public$image
 ||unicum.de/imag/static/D/*-*/*.gif
 ||unicum.de/image/D/*-*.*/*.gif
 ||weristdeinfreund.de/imag/D/*-*.*/*.gif
+||weristdeinfreund.de/imag/publc$image
 ||weristdeinfreund.de/imag/public$image
 ||weristdeinfreund.de/imag/static/D/*-*/*.gif
 ||weristdeinfreund.de/image/D/*-*.*/*.gif
 ||weser-kurier.de/cms_media/module_wkdpicture/2/1108_1_meyerhoff_weihnachtsbaeume_v2-1_5849309e0494f.gif
 ||weser-kurier.de/imag/D/*-*.*/*.gif
+||weser-kurier.de/imag/publc$image
 ||weser-kurier.de/imag/public$image
 ||weser-kurier.de/imag/static/D/*-*/*.gif
 ||weser-kurier.de/image/D/*-*.*/*.gif
 ||wetteronline.de/image/wo/D/*-*.*/*.gif
+||wetteronline.de/image/wo/publc$image
 ||wetteronline.de/image/wo/public$image
 ||wetteronline.de/image/wo/static/D/*-*/*.gif
 ||wetteronline.de/wotexte/vermarktung/snippets/topnewsBox/
+||wize.life/*/*/*/*.gif
 ||wize.life/wde2863467/D/*-*/*.gif
 ||wize.life/wde6141348/D/*-*.*/*.gif
 ||wize.life/wde790276/D/*-*.*/*.gif
@@ -10931,4 +10964,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Rm8TUQM5n4TInyWFDh+UJw
+! Checksum: uUrU1BK8sgkWrnNrV3n3bQ
