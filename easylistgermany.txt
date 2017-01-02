@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701021705
+! Version: 201701021715
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Jan 2017 17:05 UTC
+! Last modified: 02 Jan 2017 17:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3806,10 +3806,12 @@ $websocket,domain=animes-stream24.net
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
+://ads.$domain=spiegel.de
 @@||adition.com/s?$script,domain=spiegel.de
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 @@||spiegel.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
+spiegel.de##.article-section > .asset-buchwerbekasten
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ||ad.doubleclick.net^$domain=spiegel.de
 ||adform.net^$domain=spiegel.de
@@ -3825,6 +3827,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||googleadservices.com^$domain=tellows.de
 ||googlesyndication.com/safeframe/$domain=spiegel.de
 ||googlesyndication.com/sodar/$domain=spiegel.de
+||mediaplex.com^$domain=spiegel.de
 ||movad.net^$domain=spiegel.de
 ||pagead2.googlesyndication.com^$domain=spiegel.de
 ||qservz.com^$domain=spiegel.de
@@ -11179,4 +11182,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 9g4eOPlE43sEyutoyJRzzw
+! Checksum: UL3k5tNB5TBesQ2YNQmTMg
