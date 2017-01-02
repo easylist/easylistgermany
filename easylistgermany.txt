@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701020658
+! Version: 201701021705
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Jan 2017 06:58 UTC
+! Last modified: 02 Jan 2017 17:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3270,6 +3270,7 @@ $websocket,domain=animes-stream24.net
 ||schambereich.net/js/mdhsbexit_adplib.js
 ||schnaeppchenfuchs.com/eol2.png
 ||schnelle-online.info/amazon/$image
+||schnelle-online.info/ban/
 ||schnelle-online.info/banner/
 ||schnelle-online.info/fruehbucher-banner_$image
 ||schnelle-online.info/pictures/banner/
@@ -11178,4 +11179,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: UmSkbd5avD7F8GbrQw2JnQ
+! Checksum: 9g4eOPlE43sEyutoyJRzzw
