@@ -2145,9 +2145,12 @@ $websocket,domain=animes-stream24.net
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 ://ads.$domain=spiegel.de
 @@||adition.com/s?$script,domain=spiegel.de
+@@||bento.de^$generichide
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 @@||spiegel.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
+bento.de##.plistaList > .itemLinkPET
+bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 spiegel.de##.article-section > .asset-buchwerbekasten
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ||ad.doubleclick.net^$domain=spiegel.de
