@@ -2149,6 +2149,7 @@ $websocket,domain=animes-stream24.net
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 @@||spiegel.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
+autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 bento.de##.plistaList > .itemLinkPET
 bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 spiegel.de##.article-section > .asset-buchwerbekasten
@@ -2160,6 +2161,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||adition.com^$popup,domain=spiegel.de
 ||adnet.de^$domain=tellows.de
 ||adsafeprotected.com^$domain=imasdk.googleapis.com
+||adsnative.com^$domain=autobild.de
 ||adtech.de^$domain=tellows.de
 ||adverserve.net^$domain=spiegel.de
 ||flashtalking.com^$domain=spiegel.de
@@ -2167,11 +2169,16 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||googleadservices.com^$domain=tellows.de
 ||googlesyndication.com/safeframe/$domain=spiegel.de
 ||googlesyndication.com/sodar/$domain=spiegel.de
+||intellitxt.com^$domain=autobild.de
 ||mediaplex.com^$domain=spiegel.de
 ||movad.net^$domain=spiegel.de
-||pagead2.googlesyndication.com^$domain=spiegel.de
+||pagead2.googlesyndication.com^$domain=autobild.de|spiegel.de
+||plista.com/pictureads/$domain=autobild.de
 ||qservz.com^$domain=spiegel.de
+||rlcdn.com^$domain=autobild.de
+||sascdn.com^$domain=autobild.de
 ||serving-sys.com^$domain=spiegel.de
+||smartadserver.com^$domain=autobild.de
 ||t4ft.de^$domain=spiegel.de
 ||teads.tv^$domain=spiegel.de
 ||yieldlab.net^$domain=spiegel.de
