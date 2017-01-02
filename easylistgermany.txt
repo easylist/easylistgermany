@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701021715
+! Version: 201701021717
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Jan 2017 17:15 UTC
+! Last modified: 02 Jan 2017 17:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3808,9 +3808,12 @@ $websocket,domain=animes-stream24.net
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 ://ads.$domain=spiegel.de
 @@||adition.com/s?$script,domain=spiegel.de
+@@||bento.de^$generichide
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 @@||spiegel.de^$genericblock,generichide
 @@||tellows.de^$genericblock,generichide
+bento.de##.plistaList > .itemLinkPET
+bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 spiegel.de##.article-section > .asset-buchwerbekasten
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ||ad.doubleclick.net^$domain=spiegel.de
@@ -11182,4 +11185,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: UL3k5tNB5TBesQ2YNQmTMg
+! Checksum: Qai9CHP3ibF1prXN3V3xcQ
