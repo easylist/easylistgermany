@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701022121
+! Version: 201701022131
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Jan 2017 21:21 UTC
+! Last modified: 02 Jan 2017 21:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3808,12 +3808,14 @@ $websocket,domain=animes-stream24.net
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 ://ads.$domain=spiegel.de
 @@||adition.com/s?$script,domain=spiegel.de
+@@||autobild.de^$genericblock,generichide
 @@||bento.de^$generichide
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de
 @@||kabeleins.de^$genericblock,generichide
 @@||prosieben.de^$genericblock,generichide
 @@||prosiebenmaxx.de^$genericblock,generichide
 @@||ran.de^$genericblock,generichide
+@@||sascdn.com/diff/251/pages/autobild.js$domain=autobild.de
 @@||sat1.de^$genericblock,generichide
 @@||sixx.de^$genericblock,generichide
 @@||spiegel.de^$genericblock,generichide
@@ -3831,14 +3833,15 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||adition.com^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
 ||adition.com^$popup,domain=spiegel.de
 ||adnet.de^$domain=tellows.de
-||adrolays.de^$domain=transfermarkt.de
+||adnxs.com^$domain=autobild.de
+||adrolays.de^$domain=autobild.de|transfermarkt.de
 ||adsafeprotected.com^$domain=imasdk.googleapis.com
 ||adserver.71i.de^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||adsnative.com^$domain=autobild.de
 ||adspirit.de^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||adtech.de^$domain=tellows.de
 ||adverserve.net^$domain=spiegel.de
-||amazon-adsystem.com^$domain=transfermarkt.de
+||amazon-adsystem.com^$domain=autobild.de|transfermarkt.de
 ||flashtalking.com^$domain=spiegel.de
 ||g.doubleclick.net^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
 ||googleadservices.com^$domain=tellows.de
@@ -3847,22 +3850,21 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||intellitxt.com^$domain=autobild.de
 ||mediaplex.com^$domain=spiegel.de
 ||moatads.com^$domain=transfermarkt.de
-||mookie1.com^$domain=transfermarkt.de
+||mookie1.com^$domain=autobild.de|transfermarkt.de
 ||movad.net^$domain=spiegel.de
 ||p7s1.com/xfiles/*/simad.min.js?$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||pagead2.googlesyndication.com^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
 ||plista.com/pictureads/$domain=autobild.de
 ||qservz.com^$domain=spiegel.de
 ||revsci.net^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
-||rlcdn.com^$domain=autobild.de
-||rtax.criteo.com^$domain=transfermarkt.de
+||rtax.criteo.com^$domain=autobild.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de
 ||serving-sys.com^$domain=spiegel.de
 ||smartadserver.com^$domain=autobild.de|transfermarkt.de
 ||t4ft.de^$domain=spiegel.de
 ||teads.tv^$domain=spiegel.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
-||yieldlab.net^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
+||yieldlab.net^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
 ! 
 ||aachener-nachrichten.de/*/*/*/*/*.gif$image
 ||aachener-nachrichten.de/zva/an/image/D/*-*.*/*.gif
@@ -10910,4 +10912,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: MKnUN12Uhdf1v5PQJgTSnA
+! Checksum: q0Urs+ihNDz4IQU61ijbfg
