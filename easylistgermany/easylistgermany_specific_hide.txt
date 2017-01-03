@@ -6073,6 +6073,7 @@ eatsmarter.de##span + * + * + span > a > img
 eatsmarter.de##span + div + span > a > img
 eatsmarter.de##span + span > a > img
 !
+news.de###FlexTopView
 spielen.de###bannerarea
 browsergames.spielen.de###gameimage
 psychic.de###outer
@@ -6080,6 +6081,7 @@ wetteronline.de###rightcontainer
 rp-online.de,wetteronline.de###topcontainer
 e-hausaufgaben.de##.Box.BoxB
 aachener-nachrichten.de##.adNoAdMark
+giga.de##.ad_hpa.clicklayer
 motorsport-total.com##.asmlink
 weser-kurier.de##.bb-img
 rp-online.de##.billboard
@@ -6100,6 +6102,9 @@ gevestor.de##.top_ads
 frag-mutti.de##[style="width: 300px; right: -140px;"]
 e-hausaufgaben.de##div[style="background-color: rgb(221, 221, 221);"]
 gevestor.de##div[style="position: relative; width: 1020px; margin: 0px auto;"]
+giga.de##div[style="position: relative; width: 300px; height: 250px; box-sizing: content-box;"]
+giga.de##div[style="position: relative; width: 300px; height: 600px; box-sizing: content-box;"]
+giga.de##div[style="position: relative; width: 970px; height: 250px; box-sizing: content-box;"]
 iban-rechner.de##div[style="text-align:center; margin-left:auto; margin-right:auto"]
 frustfrei-lernen.de##img[src="/images/verwaltung/november-special-2016-small-link-smaller.jpg"]
 wetteronline.de##img[src="https://st.wetteronline.de/wotexte/vermarktung/snippets/topnewsBox/wotexte_teaser_Slider_image_02_3061c1d5316989ddc1dcd89cdc88f839.jpg"]
