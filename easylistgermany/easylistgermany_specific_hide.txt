@@ -1349,6 +1349,7 @@ auto-motor-und-sport.de##.beitragsrechner_sideteaser2
 ebay.de##.beta-placement
 oilimperium.de##.bg_img
 designtagebuch.de##.billbo
+winfuture.de##.billboard
 yelp.de##.biz-details-yla
 pc-max.de##.block-banner
 notebookinfo.de##.block-custom-teaser
@@ -2068,6 +2069,7 @@ deine-tierwelt.de##.stroeer
 fernsehserien.de##.stroeer-container
 womenshealth.de##.stuff
 stadtradio-goettingen.de##.subfoot
+winfuture.de##.success_box
 fuw.ch##.suche_sponsor
 sdx.cc##.suggestionList > a[href^="http://www.sdx.cc/file="]
 frankenpost.de,freies-wort.de,gentleman-blog.de,horizont.net,itopnews.de,mediabiz.de,neon.de,np-coburg.de,radiopsr.de,schlagerhoelle.de,stz-online.de,volksfreund.de##.superbanner
@@ -2610,7 +2612,8 @@ movie-blog.org##a[href^="http://urlizr.de/"]
 movie-blog.org##a[href^="http://vyu.me/"]
 fakedaten.tk##a[href^="http://wasistdasusenet.com/"]
 movie-blog.org##a[href^="http://wck.me/"]
-winfuture.de##a[href^="http://winfuture.de/redirect.php?c=instf_single_"]
+winfuture.de##a[href^="http://winfuture.de/redirect.php?"][href*="_nab&"]
+winfuture.de##a[href^="http://winfuture.de/redirect.php?c=instf_"]
 winfuture.de##a[href^="http://winfuture.de/redirect.php?c=sb_hockey_"]
 t-online.de##a[href^="http://wirtschaft.t-online.de/tagesgeldkonto-der-bank-of-scotland/id_"]
 t-online.de##a[href^="http://wirtschaft.t-online.de/testen-sie-den-devisen-handel-mit-dem-kostenlosen-demokonto-der-fxdirekt-bank/id_"]
@@ -3255,6 +3258,7 @@ gamestar.de##div[style^="position: fixed; width: 120px; margin-left: 984px; heig
 code-bude.net##div[style^="width:125px;height:125px;float:left;"]
 ka-news.de##div[style^="width:145px;height:150px;"]
 windowspro.de##div[style^="width:300px;height:250px;"]
+winfuture.de##div[style^="width:729px;height:90px"]
 android-hilfe.de##div[style^="width:748px;height:100px;padding-top:10px;"]
 lix.in##form[action="ads.php"]
 serienjunkies.org##form[action="http://mirror.serienjunkies.org"]
@@ -3319,6 +3323,7 @@ t-online.de##img[height="365"][width="178"][style="margin-left:-10px;margin-bott
 lesen.to,liplop.de,teen-blog.us##img[height="60"][width="468"]
 blogtotal.de##img[height="600"][width="120"]
 arthouse.ch##img[height="72"][alt="banner"]
+winfuture.de##img[height="90"][width="729"]
 schoener-fernsehen.com##img[id$="closer"] + h2
 schoener-fernsehen.com##img[id$="icon"]
 schoener-fernsehen.com##img[id$="icon"] + p
