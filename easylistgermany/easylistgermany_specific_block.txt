@@ -2158,6 +2158,8 @@ $websocket,domain=animes-stream24.net
 @@||sascdn.com/diff/251/pages/autobild.js$domain=autobild.de
 @@||sat1.de^$genericblock,generichide
 @@||sixx.de^$genericblock,generichide
+@@||smartadserver.com/ac?nwid=$script,domain=autobild.de
+@@||smartadserver.com/diff/251/partners/amazon.js$domain=autobild.de
 @@||smartadserver.com/diff/251/verify.js$domain=transfermarkt.de
 @@||spiegel.de^$genericblock,generichide
 @@||stern.de/gujadstatic/stern/gujAd.js$domain=stern.de
@@ -2198,7 +2200,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||intellitxt.com^$domain=autobild.de
 ||ligadx.com^$domain=stern.de
 ||mediaplex.com^$domain=spiegel.de
-||moatads.com^$domain=transfermarkt.de
+||moatads.com^$domain=autobild.de|transfermarkt.de
 ||mookie1.com^$domain=autobild.de|stern.de|transfermarkt.de
 ||movad.net^$domain=spiegel.de
 ||p7s1.com/xfiles/*/simad.min.js?$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
@@ -2213,7 +2215,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||smartadserver.com^$domain=autobild.de|transfermarkt.de
 ||stern.de/gujadstatic/stern/gujAd.$domain=stern.de
 ||t4ft.de^$domain=spiegel.de
-||teads.tv^$domain=spiegel.de
+||teads.tv^$domain=autobild.de|spiegel.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
 ||yieldlab.net^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 !
