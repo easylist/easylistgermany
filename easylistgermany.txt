@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701042054
+! Version: 201701042055
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 Jan 2017 20:54 UTC
+! Last modified: 04 Jan 2017 20:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3890,21 +3890,25 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 ! 
+|http://www.formel1.de/public/img/stat$image
 ||aachener-nachrichten.de/*/*/*/*/*.gif$image
 ||aachener-nachrichten.de/zva/an/image/D/*-*.*/*.gif
 ||aachener-nachrichten.de/zva/an/image/public$image
 ||aachener-nachrichten.de/zva/an/image/static/D/*-*/*.gif
 ||aachener-nachrichten.de/zva/an/images/D/*-*.*/*.gif
 ||aachener-nachrichten.de/zva/an/images/U/*-*.*/*.gif
+||autozeitung.de/images/public$image
 ||autozeitung.de/imges/D/*-*.*/*.gif
 ||autozeitung.de/imges/publ$image
 ||autozeitung.de/imges/publc$image
 ||autozeitung.de/imges/public$image
 ||autozeitung.de/imges/static/D/*-*/*.gif
 ||autozeitung.de/imgs/D/*-*.*/*.gif
+||bikerszene.de/image/D$image
 ||browsergames.spielen.de/imag/publc/U$image
 ||deine-tierwelt.de/imag/publ$image
 ||deine-tierwelt.de/imag/publc$image
+||deine-tierwelt.de/imag/static$image
 ||deine-tierwelt.de/image$image
 ||deine-tierwelt.de/image/U/*-*.*/*.gif
 ||donnerwetter.de/imag/D/*-*.*/*.gif
@@ -3914,6 +3918,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||donnerwetter.de/imag/static/D/*-*/*.gif
 ||donnerwetter.de/imag/static/U/*-*/*.gif
 ||donnerwetter.de/imag/U/*-*.*/*.gif
+||donnerwetter.de/image/publ$image
 ||donnerwetter.de/images/D/*-*.*/*.gif
 ||donnerwetter.de/images/U/*-*.*/*.gif
 ||e-hausaufgaben.de/imag/D/*-*.*/*.gif
@@ -3922,13 +3927,16 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||e-hausaufgaben.de/imag/public$image
 ||e-hausaufgaben.de/imag/static/D/*-*/*.gif
 ||e-hausaufgaben.de/image/D/*-*.*/*.gif
+||e-hausaufgaben.de/image/publ$image
 ||epochtimes.de/image/D/*-*.*/*.gif
 ||epochtimes.de/Z/D/*-*.*/*.gif
 ||epochtimes.de/Z/publ$image
 ||epochtimes.de/Z/publc$image
 ||epochtimes.de/Z/public$image
+||epochtimes.de/Z/statc$image
 ||epochtimes.de/Z/static/D/*-*/*.gif
 ||fanfiktion.de/pics/D/*-*.*/*.gif
+||fanfiktion.de/pics/publ$image
 ||fanfiktion.de/pics/publc$image
 ||fanfiktion.de/pics/statc$image
 ||fanfiktion.de/pics/static/D/*-*.*/*.gif
@@ -3948,8 +3956,10 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||frag-mutti.de/imag/statlc$image
 ||frag-mutti.de/imag/U/*-*.*/*.gif
 ||frag-mutti.de/image/D/*-*.*/*.gif
+||frag-mutti.de/image/public$image
 ||frag-mutti.de/image/U/*-*.*/*.gif
 ||fremdwort.de/images/D/*-*.*/*.gif
+||fremdwort.de/images/public$image
 ||fremdwort.de/imags/D/*-*.*/*.gif
 ||fremdwort.de/imags/publ$image
 ||fremdwort.de/imags/publc$image
@@ -3960,12 +3970,15 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||frustfrei-lernen.de/imag/static/D/*-*/*.gif
 ||frustfrei-lernen.de/imag/statlc$image
 ||frustfrei-lernen.de/image/D/*-*.*/*.gif
+||frustfrei-lernen.de/image/public$image
 ||gevestor.de/imag/D/*-*.*/*.gif
 ||gevestor.de/imag/publ$image
 ||gevestor.de/imag/publc$image
 ||gevestor.de/imag/static/D/*-*/*.gif
 ||gevestor.de/imag/statlc$image
 ||gevestor.de/image/D/*-*.*/*.gif
+||gevestor.de/image/public$image
+||haz.de/image/publc$image
 ||haz.de/image/public$image
 ||haz.de/image/U$image
 ||infranken.de/imag/D/*-*.*/*.gif
@@ -3973,6 +3986,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||infranken.de/imag/static/D/*-*/*.gif
 ||infranken.de/imag/statlc$image
 ||infranken.de/image/D/*-*.*/*.gif
+||infranken.de/image/public$image
 ||inside-handy.de/imagedir/D/*-*.*/*.gif
 ||inside-handy.de/imagesdir/D/*-*.*/*.gif
 ||juraforum.de/imag/D/*-*.*/*.gif
@@ -3981,22 +3995,29 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||juraforum.de/imag/static/D/*-*/*.gif
 ||juraforum.de/imag/statlc$image
 ||juraforum.de/image/D/*-*.*/*.gif
+||juraforum.de/image/public$image
 ||liga3-online.de/imag/D/*-*.*/*.gif
+||liga3-online.de/imag/publc$image
 ||liga3-online.de/imag/public$image
 ||liga3-online.de/imag/static/D/*-*/*.gif
 ||liga3-online.de/image/D/*-*.*/*.gif
+||ln-online.de/image/publc$image
 ||ln-online.de/image/public
 ||ln-online.de/image/U$image
+||lvz.de/image/publc/U$image
 ||lvz.de/image/public$image
 ||lvz.de/image/U$image
 ||motorsport-total.com/i/D/*-*/*.gif
 ||motorsport-total.com/i/publ
 ||motorsport-total.com/i/publc$image
+||motorsport-total.com/i/statc$image
 ||motorsport-total.com/i/static$image
 ||motorsport-total.com/i/U/*-*.*/*.gif
+||mt.de/image/publc$image
 ||mt.de/image/public$image
 ||mt.de/image/U$image
 ||news.de/imags/D/*-*.*/*.gif
+||news.de/imags/publ$image
 ||news.de/imags/publc$image
 ||news.de/imags/public$image
 ||news.de/imags/static/D/*-*/*.gif
@@ -4006,16 +4027,20 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||nickles.de/imag/public$image
 ||nickles.de/imag/static/D/*-*/*.gif
 ||nickles.de/image/D/*-*.*/*.gif
+||nickles.de/image/public$image
+||nw.de/image/publc$image
 ||nw.de/image/public$image
 ||nw.de/image/U$image
 ||pferde.de/image/publ$image
 ||pferde.de/image/publc/U$image
+||pferde.de/image/statc$image
 ||pferde.de/image/static$image
 ||pferde.de/image/U/*-*/*.gif
 ||pixelio.de/image/D/*-*.*/*.gif
 ||pixelio.de/image/publ$image
 ||pixelio.de/image/publc$image
 ||pixelio.de/image/public$image
+||pixelio.de/image/statc$image
 ||pixelio.de/image/static/D/*-*/*.gif
 ||pixelio.de/image/U/*-*.*/*.gif
 ||psychic.de/imag/D/*-*.*/*.gif
@@ -4024,6 +4049,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||psychic.de/imag/public$image
 ||psychic.de/imag/static/D/*-*/*.gif
 ||psychic.de/image/D/*-*.*/*.gif
+||psychic.de/image/public$image
 ||quoka.de/imag/D/*-*.*/*.gif
 ||quoka.de/imag/publ$image
 ||quoka.de/imag/publc$image
@@ -4035,24 +4061,28 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||spielen.de/imag/public$image
 ||spielen.de/imag/static/U/*-*.*/*.gif
 ||spielen.de/imag/U/*-*.*/*.gif
+||spielen.de/image/public$image
 ||spielen.de/image/U/
 ||tvinfo.de/imag/publ$image
 ||tvinfo.de/imag/publc$image
 ||tvinfo.de/imag/public$image
 ||tvinfo.de/imag/static/U/*-*/*.gif
 ||tvinfo.de/imag/U/*-*.*/*.gif
+||tvinfo.de/image/public$image
 ||tvinfo.de/image/U/*-*.*/*.gif
 ||unicum.de/imag/D/*-*.*/*.gif
 ||unicum.de/imag/publc$image
 ||unicum.de/imag/public$image
 ||unicum.de/imag/static/D/*-*/*.gif
 ||unicum.de/image/D/*-*.*/*.gif
+||unicum.de/image/public$image
 ||weristdeinfreund.de/imag/D/*-*.*/*.gif
 ||weristdeinfreund.de/imag/publ$image
 ||weristdeinfreund.de/imag/publc$image
 ||weristdeinfreund.de/imag/public$image
 ||weristdeinfreund.de/imag/static/D/*-*/*.gif
 ||weristdeinfreund.de/image/D/*-*.*/*.gif
+||weristdeinfreund.de/image/public$image
 ||weser-kurier.de/cms_media/module_wkdpicture/2/1108_1_meyerhoff_weihnachtsbaeume_v2-1_5849309e0494f.gif
 ||weser-kurier.de/imag/D/*-*.*/*.gif
 ||weser-kurier.de/imag/publ$image
@@ -4060,10 +4090,12 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||weser-kurier.de/imag/public$image
 ||weser-kurier.de/imag/static/D/*-*/*.gif
 ||weser-kurier.de/image/D/*-*.*/*.gif
+||weser-kurier.de/image/public$image
 ||wetteronline.de/image/wo/D/*-*.*/*.gif
 ||wetteronline.de/image/wo/publ$image
 ||wetteronline.de/image/wo/publc$image
 ||wetteronline.de/image/wo/public$image
+||wetteronline.de/image/wo/statc$image
 ||wetteronline.de/image/wo/static/D/*-*/*.gif
 ||wetteronline.de/wotexte/vermarktung/snippets/topnewsBox/
 ||wize.life/*/*/*/*.gif
@@ -10930,4 +10962,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: +YUISXU1yQ+SV+yewfoXVA
+! Checksum: fOUiQyJsbTy1Qni0yVNghA
