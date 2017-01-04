@@ -2148,6 +2148,8 @@ $websocket,domain=animes-stream24.net
 @@||adition.com/s?$script,domain=spiegel.de
 @@||autobild.de^$genericblock,generichide
 @@||bento.de^$generichide
+@@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200%7C200x20$script,domain=stern.de
+@@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200&$script,domain=stern.de
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de|transfermarkt.de
 @@||kabeleins.de^$genericblock,generichide
 @@||prosieben.de^$genericblock,generichide
@@ -2157,6 +2159,7 @@ $websocket,domain=animes-stream24.net
 @@||sat1.de^$genericblock,generichide
 @@||sixx.de^$genericblock,generichide
 @@||spiegel.de^$genericblock,generichide
+@@||stern.de/gujadstatic/stern/gujAd.js$domain=stern.de
 @@||tellows.de^$genericblock,generichide
 @@||transfermarkt.de^$genericblock,generichide
 @@||www.stern.de^$genericblock,generichide
@@ -2165,6 +2168,7 @@ bento.de##.plistaList > .itemLinkPET
 bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 spiegel.de##.article-section > .asset-buchwerbekasten
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
+||a-ssl.ligatus.com^$domain=stern.de
 ||ad-srv.net^$domain=tellows.de
 ||ad.71i.de^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||ad.doubleclick.net^$domain=spiegel.de
@@ -2191,9 +2195,10 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||googlesyndication.com/sodar/$domain=spiegel.de
 ||guj.de^*/gujAd.$domain=stern.de
 ||intellitxt.com^$domain=autobild.de
+||ligadx.com^$domain=stern.de
 ||mediaplex.com^$domain=spiegel.de
 ||moatads.com^$domain=transfermarkt.de
-||mookie1.com^$domain=autobild.de|transfermarkt.de
+||mookie1.com^$domain=autobild.de|stern.de|transfermarkt.de
 ||movad.net^$domain=spiegel.de
 ||p7s1.com/xfiles/*/simad.min.js?$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||pagead2.googlesyndication.com^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
