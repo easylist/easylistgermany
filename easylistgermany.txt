@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701031739
+! Version: 201701040706
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Jan 2017 17:39 UTC
+! Last modified: 04 Jan 2017 07:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9244,6 +9244,7 @@ wetter.com##[-abp-properties='margin-bottom: 2.1em; margin-left: 22*px;']
 wetter.com##[-abp-properties='margin-bottom: 2.1em; margin-left: 221px;']
 boerse-online.de##[-abp-properties='margin-bottom: 20px; margin-left: 10px; margin-right: 10px;']
 onvista.de##[-abp-properties='margin-bottom: 20px; text-align: center;'] > img
+onvista.de##[-abp-properties='margin-bottom: 20px;'] > img
 wetter.com##[-abp-properties='margin-bottom: 28px; padding-bottom: 3px; padding-top: 3px;']
 wetter.com##[-abp-properties='margin-bottom: 29px; padding-bottom: 3px; padding-top: 3px; text-align: center;']
 wetter.com##[-abp-properties='margin-bottom: 2em; margin-left: 220px;']
@@ -10908,4 +10909,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: jJweFv4+0h2wujEk+VU05w
+! Checksum: 6SV00NBhiBnTXOX4DdDa4A
