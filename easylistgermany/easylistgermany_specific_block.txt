@@ -2151,6 +2151,7 @@ $websocket,domain=animes-stream24.net
 @@||focus.de^$genericblock
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200%7C200x20$script,domain=stern.de
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200&$script,domain=stern.de
+@@||gala.de^$genericblock,generichide
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de|transfermarkt.de
 @@||kabeleins.de^$genericblock,generichide
 @@||prosieben.de^$genericblock,generichide
@@ -2195,6 +2196,8 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||criteo.com^$domain=tellows.de
 ||flashtalking.com^$domain=spiegel.de
 ||g.doubleclick.net^$domain=focus.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
+||gala.de/googleads/$domain=gala.de
+||gala.de/gujAd/$domain=gala.de
 ||google.com/adsense/search/ads.js$domain=focus.de
 ||googleadservices.com^$domain=stern.de|tellows.de
 ||googlesyndication.com/safeframe/$domain=spiegel.de
