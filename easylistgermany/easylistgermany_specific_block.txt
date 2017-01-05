@@ -2148,6 +2148,8 @@ $websocket,domain=animes-stream24.net
 @@||adition.com/s?$script,domain=spiegel.de
 @@||autobild.de^$genericblock,generichide
 @@||bento.de^$generichide
+@@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
+@@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
 @@||focus.de^$genericblock
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200%7C200x20$script,domain=stern.de
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200&$script,domain=stern.de
@@ -2211,7 +2213,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||moatads.com^$domain=autobild.de|transfermarkt.de
 ||mookie1.com^$domain=autobild.de|stern.de|transfermarkt.de
 ||movad.net^$domain=spiegel.de
-||pagead2.googlesyndication.com^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
+||pagead2.googlesyndication.com^$domain=autobild.de|focus.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
 ||plista.com/pictureads/$domain=autobild.de
 ||pubmatic.com^$domain=stern.de
 ||qservz.com^$domain=spiegel.de
