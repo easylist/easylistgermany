@@ -101,7 +101,7 @@ autoscout24.de#@#.detail-ads
 di.fm#@#.firstload
 esvkticker.sports-stream.de#@#.google_adsense
 immobilienscout24.de#@#.has-ad
-guterhut.de#@#.img_ad
+gofeminin.de,guterhut.de#@#.img_ad
 hochzeitswahn.de#@#.internal-ad
 frankenlist.de#@#.item-ad
 suedtirolnews.it#@#.ligatus
@@ -122,5 +122,5 @@ onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net#@#a[href^="https://ad.doubleclick.net/"]
 daswetter.com#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
-guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
+gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ! Anti-Adblock
