@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701052048
+! Version: 201701052053
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Jan 2017 20:48 UTC
+! Last modified: 05 Jan 2017 20:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3811,6 +3811,8 @@ $websocket,domain=animes-stream24.net
 @@||adition.com/s?$script,domain=spiegel.de
 @@||autobild.de^$genericblock,generichide
 @@||bento.de^$generichide
+@@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
+@@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
 @@||focus.de^$genericblock
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200%7C200x20$script,domain=stern.de
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200&$script,domain=stern.de
@@ -3874,7 +3876,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||moatads.com^$domain=autobild.de|transfermarkt.de
 ||mookie1.com^$domain=autobild.de|stern.de|transfermarkt.de
 ||movad.net^$domain=spiegel.de
-||pagead2.googlesyndication.com^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
+||pagead2.googlesyndication.com^$domain=autobild.de|focus.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
 ||plista.com/pictureads/$domain=autobild.de
 ||pubmatic.com^$domain=stern.de
 ||qservz.com^$domain=spiegel.de
@@ -11046,4 +11048,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 6IwTXRvbH8fZ5l7h0wkeOg
+! Checksum: 7nxbv2Pv/xeGAwT41A2DMQ
