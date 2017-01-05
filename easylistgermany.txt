@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701052044
+! Version: 201701052047
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Jan 2017 20:44 UTC
+! Last modified: 05 Jan 2017 20:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -545,7 +545,7 @@ onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net#@#a[href^="https://ad.doubleclick.net/"]
 daswetter.com#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
-guterhut.de,zalando.de#@#iframe[id^="google_ads_iframe"]
+guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ! Anti-Adblock
 ! ---------------------------Third-party Werbeserver---------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
@@ -10596,10 +10596,10 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||fotostudio-katikrueger.de/werbung/$~third-party
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g-stream.in/lla2/smoothscroll.js
-@@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|zalando.de
+@@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/gampad/ads?*&sz=440x3&$script,domain=gofeminin.de
 @@||g.doubleclick.net/gampad/ads?*&sz=440x4&$script,domain=gofeminin.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=gofeminin.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=gofeminin.de|rtl.de
 @@||galileo.tv/js/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
 @@||gamers.at/images/branding/*/header.
@@ -10655,6 +10655,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||liverail.com^*/liverail_preroll.swf$object,domain=jam.fm|paradiso.de
 @@||magenschmerzen.net/wp-content/themes/zeemagazine_adtech/$~third-party
 @@||maps.gstatic.com/maps-api-*/adsense.js$domain=wg-gesucht.de
+@@||marketing-a.akamaihd.net/inhouse/$subdocument,domain=rtl.de
 @@||markt.de^*/advert_search_results.gif
 @@||marktplatzservice.de/ads/$image,domain=local24.de
 @@||master.captchaad.com/www/delivery/$script,domain=winload.de
@@ -10780,6 +10781,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
 @@||static-fra.de/ip/js/adcontrol/adcontrol.min.js
+@@||static-fra.de/ip/js/adcontrol/fabp.min.js$domain=rtl.de
 @@||static-fra.de^*/admeta.xml?$object-subrequest
 @@||static.classistatic.de/res/images/ads/$image
 @@||static.classistatic.de/res/js/shared/advertising/*advertisingHeadPacked.js
@@ -11021,6 +11023,7 @@ kalender-365.de#@#.adsbygoogle
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist_popup.txt ***
 @@||888casino.com^$popup,domain=online-casino.de
 @@||ad.doubleclick.net/clk;$popup,domain=gutscheindoktor.de|mydealz.de
+@@||adclick.g.doubleclick.net^$popup,domain=marketing-a.akamaihd.net
 @@||adform.net^$popup,domain=onvista.de
 @@||ads.mybet.com/redirect.aspx?pid=$popup,domain=gewinnspiele.freenet.de
 @@||ads.smartfeedads.com^$popup,domain=motorrad2000.de
@@ -11040,4 +11043,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Of3KMHkpWMREQAdHeICT1g
+! Checksum: o/TGzKBqOp55GlCreV3xNA
