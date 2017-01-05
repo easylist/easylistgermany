@@ -6103,16 +6103,19 @@ news.de###FlexTopView
 spielen.de###bannerarea
 browsergames.spielen.de###gameimage
 psychic.de###outer
+giga.de###outertop3
 wetteronline.de###rightcontainer
 rp-online.de,wetteronline.de###topcontainer
 e-hausaufgaben.de##.Box.BoxB
 aachener-nachrichten.de##.adNoAdMark
 giga.de##.ad_hpa.clicklayer
 motorsport-total.com##.asmlink
+donnerwetter.de##.banner-place
 weser-kurier.de##.bb-img
 rp-online.de##.billboard
 deine-tierwelt.de##.classified-skyscraper-right
 donnerwetter.de##.col-xs-9.block-center
+giga.de##.container
 weser-kurier.de##.container_skyscraper
 spielfilm.de##.dconti
 deine-tierwelt.de##.header-leaderboard
@@ -6125,6 +6128,7 @@ deine-tierwelt.de##.row.visible-md.visible-lg.external-content-container
 wize.life##.skyscraper_1
 wize.life##.superbanner_1
 gevestor.de##.top_ads
+tellows.de##[id^="google_ads_iframe"]
 frag-mutti.de##[style="width: 300px; right: -140px;"]
 e-hausaufgaben.de##div[style="background-color: rgb(221, 221, 221);"]
 gevestor.de##div[style="position: relative; width: 1020px; margin: 0px auto;"]
