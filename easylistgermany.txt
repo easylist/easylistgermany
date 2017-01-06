@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701060744
+! Version: 201701061811
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 06 Jan 2017 07:44 UTC
+! Last modified: 06 Jan 2017 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3896,22 +3896,32 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 ! 
-@@||donnerwetter.de/images/content$image,domain=donnerwetter.de
-@@||donnerwetter.de/images/k_deu.gif$image,domain=donnerwetter.de
-@@||donnerwetter.de/images/k_deu_g.jpg$image,domain=donnerwetter.de
-@@||donnerwetter.de/images/logo1.gif$image,domain=donnerwetter.de
-@@||donnerwetter.de/images/news$image,domain=donnerwetter.de
-@@||donnerwetter.de/images/wetsym_*.gif$image,domain=donnerwetter.de
-@@||donnerwetter.de/intern/$image,domain=donnerwetter.de
-@@||e-hausaufgaben.de/community/$image,domain=e-hausaufgaben.de
-@@||e-hausaufgaben.de/images/pi_$image,domain=e-hausaufgaben.de
-@@||e-hausaufgaben.de/images/smilies/$image,domain=e-hausaufgaben.de
-@@||e-hausaufgaben.de/images_public$image,domain=e-hausaufgaben.de
+@@||autozeitung.de/misc/ajax-loader-alt.gif$domain=autozeitung.de
+@@||autozeitung.de/sites/all/modules/$image,domain=autozeitung.de
+@@||autozeitung.de/sites/all/themes$image,domain=autozeitung.de
+@@||autozeitung.de/sites/default/files/images$image,domain=autozeitung.de
+@@||forum.frag-mutti.de/html/avatars/Smiley_Avatars/$image,domain=frag-mutti.de
+@@||forum.frag-mutti.de/uploads/av-$image,domain=frag-mutti.de
+@@||fotos.autozeitung.de/*/images/bildergalerie$image,domain=autozeitung.de
+@@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
+@@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
+@@||fotos.autozeitung.de^*/images/teaser/$image,domain=autozeitung.de
+@@||frag-mutti.de/images/*_login.png$domain=frag-mutti.de
+@@||frag-mutti.de/images/logo$image
+@@||frag-mutti.de/images/uploads$image,domain=frag-mutti.de
+@@||frag-mutti.de/images/youtube$domain=frag-mutti.de
+@@||frag-mutti.de^*.pagespeed.$image,domain=frag-mutti.de
+@@||gevestor.de/img/logo.svg
+@@||gevestor.de/img/logo_footer.png$domain=gevestor.de
+@@||gevestor.de/img/sprite_new.png$domain=gevestor.de
+@@||gevestor.de/wp-content/themes/ape/public/img/$image,domain=gevestor.de
+@@||gevestor.de/wp-content/uploads$image,domain=gevestor.de
 @@||media.news.de/images$image,domain=news.de
 @@||media.news.de/resources$image,domain=news.de
 @@||news.de/module/newsfrontend$image,domain=news.de
+@@||nw.de/_em_daten$image,domain=nw.de
+@@||praemien.gevestor.de/bilder/$domain=gevestor.de
 @@||sale.news.de/customs/uploads$image,domain=news.de
-@@||static.donnerwetter.de/images$image,domain=donnerwetter.de
 |http://www.formel1.de/public/img/stat$image
 |http://www.liga3-online.de/imag/publ$image
 |http://www.nickles.de/image/publc/$image
@@ -3929,11 +3939,14 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||autozeitung.de/imges/public$image
 ||autozeitung.de/imges/static/D/*-*/*.gif
 ||autozeitung.de/imgs/D/*-*.*/*.gif
+||autozeitung.de^$image,domain=www.autozeitung.de
 ||bikerszene.de/image/D$image
+||bikerszene.de/image/publc$image
 ||bikerszene.de/image/public$image
 ||browsergames.spielen.de/imag/publc/U$image
 ||deine-tierwelt.de/imag/publ$image
 ||deine-tierwelt.de/imag/publc$image
+||deine-tierwelt.de/imag/stat$image
 ||deine-tierwelt.de/imag/statc$image
 ||deine-tierwelt.de/imag/static$image
 ||deine-tierwelt.de/image$image
@@ -3946,9 +3959,10 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||donnerwetter.de/imag/static/U/*-*/*.gif
 ||donnerwetter.de/imag/U/*-*.*/*.gif
 ||donnerwetter.de/image/publ$image
+||donnerwetter.de/images/content/D$image
+||donnerwetter.de/images/content/U$image
 ||donnerwetter.de/images/D/*-*.*/*.gif
 ||donnerwetter.de/images/U/*-*.*/*.gif
-||donnerwetter.de^$image,domain=donnerwetter.de
 ||e-hausaufgaben.de/imag/D/*-*.*/*.gif
 ||e-hausaufgaben.de/imag/publ$image
 ||e-hausaufgaben.de/imag/publc$image
@@ -3956,7 +3970,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||e-hausaufgaben.de/imag/static/D/*-*/*.gif
 ||e-hausaufgaben.de/image/D/*-*.*/*.gif
 ||e-hausaufgaben.de/image/publ$image
-||e-hausaufgaben.de^$image
+||e-hausaufgaben.de/images_public/static/D$image
 ||epochtimes.de/image/D/*-*.*/*.gif
 ||epochtimes.de/Z/D/*-*.*/*.gif
 ||epochtimes.de/Z/publ$image
@@ -3965,6 +3979,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||epochtimes.de/Z/stat/$image
 ||epochtimes.de/Z/statc$image
 ||epochtimes.de/Z/static/D/*-*/*.gif
+||epochtimes.de/Z/U$image
 ||fanfiktion.de/pics/D/*-*.*/*.gif
 ||fanfiktion.de/pics/publ$image
 ||fanfiktion.de/pics/publc$image
@@ -3972,8 +3987,10 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||fanfiktion.de/pics/statc$image
 ||fanfiktion.de/pics/static/D/*-*.*/*.gif
 ||fanfiktion.de/pics/statlc/D/*-*/*.gif
+||fanfiktion.de/pics/Z$image
 ||formel1.de/public/img/D/*-*.*/*.gif
 ||formel1.de/public/img/media$image
+||formel1.de/public/img/medien$image
 ||formel1.de/public/img/publ$image
 ||formel1.de/public/img/publc$image
 ||formel1.de/public/img/statc/D/*-*/*.gif
@@ -3991,7 +4008,9 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||frag-mutti.de/image/publc$image
 ||frag-mutti.de/image/public$image
 ||frag-mutti.de/image/U/*-*.*/*.gif
+||frag-mutti.de^$image,domain=forum.frag-mutti.de|www.frag-mutti.de
 ||fremdwort.de/images/D/*-*.*/*.gif
+||fremdwort.de/images/publ$image
 ||fremdwort.de/images/publc$image
 ||fremdwort.de/images/public$image
 ||fremdwort.de/imags/D/*-*.*/*.gif
@@ -4004,6 +4023,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||frustfrei-lernen.de/imag/static/D/*-*/*.gif
 ||frustfrei-lernen.de/imag/statlc$image
 ||frustfrei-lernen.de/image/D/*-*.*/*.gif
+||frustfrei-lernen.de/image/publ$image
 ||frustfrei-lernen.de/image/publc$image
 ||frustfrei-lernen.de/image/public$image
 ||gevestor.de/imag/D/*-*.*/*.gif
@@ -4014,15 +4034,19 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||gevestor.de/image/D/*-*.*/*.gif
 ||gevestor.de/image/publc$image
 ||gevestor.de/image/public$image
+||gevestor.de^$image,domain=www.gevestor.de
 ||haz.de/image/publ$image
 ||haz.de/image/publc$image
 ||haz.de/image/public$image
+||haz.de/image/static$image
 ||haz.de/image/U$image
+||iban-rechner.de/image$image
 ||infranken.de/imag/D/*-*.*/*.gif
 ||infranken.de/imag/statc$image
 ||infranken.de/imag/static/D/*-*/*.gif
 ||infranken.de/imag/statlc$image
 ||infranken.de/image/D/*-*.*/*.gif
+||infranken.de/image/publ$image
 ||infranken.de/image/publc$image
 ||infranken.de/image/public$image
 ||inside-handy.de/imagedir/D/*-*.*/*.gif
@@ -4033,6 +4057,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||juraforum.de/imag/static/D/*-*/*.gif
 ||juraforum.de/imag/statlc$image
 ||juraforum.de/image/D/*-*.*/*.gif
+||juraforum.de/image/publ$image
 ||juraforum.de/image/publc$image
 ||juraforum.de/image/public$image
 ||liga3-online.de/imag/D/*-*.*/*.gif
@@ -4040,13 +4065,16 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||liga3-online.de/imag/public$image
 ||liga3-online.de/imag/static/D/*-*/*.gif
 ||liga3-online.de/image/D/*-*.*/*.gif
+||liga3-online.de/image/public$image
 ||ln-online.de/image/publ$image
 ||ln-online.de/image/publc$image
 ||ln-online.de/image/public
+||ln-online.de/image/static$image
 ||ln-online.de/image/U$image
 ||lvz.de/image/publ$image
 ||lvz.de/image/publc/U$image
 ||lvz.de/image/public$image
+||lvz.de/image/static$image
 ||lvz.de/image/U$image
 ||motorsport-total.com/i/D/*-*/*.gif
 ||motorsport-total.com/i/publ
@@ -4054,11 +4082,14 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||motorsport-total.com/i/stat$image
 ||motorsport-total.com/i/statc$image
 ||motorsport-total.com/i/static$image
+||motorsport-total.com/i/sttic$image
 ||motorsport-total.com/i/U/*-*.*/*.gif
 ||moviejones.de/image/$image
+||moviejones.de/images/public$image
 ||mt.de/image/publ$image
 ||mt.de/image/publc$image
 ||mt.de/image/public$image
+||mt.de/image/static$image
 ||mt.de/image/U$image
 ||news.de/imags/D/*-*.*/*.gif
 ||news.de/imags/publ$image
@@ -4072,17 +4103,20 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||nickles.de/imag/public$image
 ||nickles.de/imag/static/D/*-*/*.gif
 ||nickles.de/image/D/*-*.*/*.gif
+||nickles.de/image/publ$image
 ||nickles.de/image/public$image
 ||nw.de/image/publ$image
 ||nw.de/image/publc$image
 ||nw.de/image/public$image
 ||nw.de/image/U$image
+||nw.de^$image,domain=www.nw.de
 ||pferde.de/image/publ$image
 ||pferde.de/image/publc/U$image
 ||pferde.de/image/stat$image
 ||pferde.de/image/statc$image
 ||pferde.de/image/static$image
 ||pferde.de/image/U/*-*/*.gif
+||pferde.de/image/Z$image
 ||pixelio.de/image/D/*-*.*/*.gif
 ||pixelio.de/image/publ$image
 ||pixelio.de/image/publc$image
@@ -4091,12 +4125,14 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||pixelio.de/image/statc$image
 ||pixelio.de/image/static/D/*-*/*.gif
 ||pixelio.de/image/U/*-*.*/*.gif
+||pixelio.de/images/static$image
 ||psychic.de/imag/D/*-*.*/*.gif
 ||psychic.de/imag/publ$image
 ||psychic.de/imag/publc$image
 ||psychic.de/imag/public$image
 ||psychic.de/imag/static/D/*-*/*.gif
 ||psychic.de/image/D/*-*.*/*.gif
+||psychic.de/image/publ$image
 ||psychic.de/image/publc$image
 ||psychic.de/image/public$image
 ||quoka.de/imag/D/*-*.*/*.gif
@@ -4110,6 +4146,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||spielen.de/imag/public$image
 ||spielen.de/imag/static/U/*-*.*/*.gif
 ||spielen.de/imag/U/*-*.*/*.gif
+||spielen.de/image/publ$image
 ||spielen.de/image/publc$image
 ||spielen.de/image/public$image
 ||spielen.de/image/U/
@@ -4118,6 +4155,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||tvinfo.de/imag/public$image
 ||tvinfo.de/imag/static/U/*-*/*.gif
 ||tvinfo.de/imag/U/*-*.*/*.gif
+||tvinfo.de/image/publ$image
 ||tvinfo.de/image/publc$image
 ||tvinfo.de/image/public$image
 ||tvinfo.de/image/U/*-*.*/*.gif
@@ -4126,6 +4164,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unicum.de/imag/public$image
 ||unicum.de/imag/static/D/*-*/*.gif
 ||unicum.de/image/D/*-*.*/*.gif
+||unicum.de/image/publ$image
 ||unicum.de/image/publc$image
 ||unicum.de/image/public$image
 ||weristdeinfreund.de/imag/D/*-*.*/*.gif
@@ -4134,6 +4173,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||weristdeinfreund.de/imag/public$image
 ||weristdeinfreund.de/imag/static/D/*-*/*.gif
 ||weristdeinfreund.de/image/D/*-*.*/*.gif
+||weristdeinfreund.de/image/publ$image
 ||weristdeinfreund.de/image/publc$image
 ||weristdeinfreund.de/image/public$image
 ||weser-kurier.de/cms_media/module_wkdpicture/2/1108_1_meyerhoff_weihnachtsbaeume_v2-1_5849309e0494f.gif
@@ -4143,6 +4183,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||weser-kurier.de/imag/public$image
 ||weser-kurier.de/imag/static/D/*-*/*.gif
 ||weser-kurier.de/image/D/*-*.*/*.gif
+||weser-kurier.de/image/publc$image
 ||weser-kurier.de/image/public$image
 ||wetteronline.de/image/wo/D/*-*.*/*.gif
 ||wetteronline.de/image/wo/publ$image
@@ -4151,6 +4192,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||wetteronline.de/image/wo/stat$image
 ||wetteronline.de/image/wo/statc$image
 ||wetteronline.de/image/wo/static/D/*-*/*.gif
+||wetteronline.de/image/wo/sttic$image
 ||wetteronline.de/wotexte/vermarktung/snippets/topnewsBox/
 ||wize.life/*/*/*/*.gif
 ||wize.life/wde2863467/D/*-*/*.gif
@@ -5429,6 +5471,7 @@ general-anzeiger-bonn.de##.ad-skyscraper.left + * + * + * + * > div + div a > im
 med1.de,stayfriends.de##.adContainer
 wz-newsline.de##.adDisclaimerLight
 games.ch,webfail.at##.adMR
+gevestor.de##.adTop
 skandinavien.eu##.ad_big
 augsburger-allgemeine.de##.ad_load
 t3n.de##.adbContentAd1
@@ -10931,4 +10974,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: UXGcSeY4UcdFLCldZJQoyQ
+! Checksum: JeMi0x6DFcOt1QTE1Q+Obg
