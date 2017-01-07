@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701061812
+! Version: 201701071023
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 06 Jan 2017 18:12 UTC
+! Last modified: 07 Jan 2017 10:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3818,8 +3818,10 @@ $websocket,domain=animes-stream24.net
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200&$script,domain=stern.de
 @@||gala.de/gujAd/gujAd.js$domain=gala.de
 @@||gala.de^$genericblock,generichide
+@@||googlesyndication.com/pagead/js/adsbygoogle.js$domain=transfermarkt.de
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de|transfermarkt.de
 @@||kabeleins.de^$genericblock,generichide
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=transfermarkt.de
 @@||prosieben.de^$genericblock,generichide
 @@||prosiebenmaxx.de^$genericblock,generichide
 @@||ran.de^$genericblock,generichide
@@ -10895,4 +10897,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: dGGgB8zX2zvSF1q/X3KI8w
+! Checksum: 7CM4TaFKcRjC06y0JKQ+Sw
