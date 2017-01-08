@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701081519
+! Version: 201701081524
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Jan 2017 15:19 UTC
+! Last modified: 08 Jan 2017 15:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5094,7 +5094,7 @@ autoexperience.de,fitness-foren.de,forumla.de,lpgforum.de,mazda-forum.info,noteb
 bauexpertenforum.de,forumla.de###sidebar > div > div > a > img
 stopadblock.org###sidebar > div[id][style="text-align:center"]
 stopadblock.org###sidebar > div[style] + div[id][style]
-abnehmen.com,aquariumforum.de,pferd.de,radforum.de###sidebar > li > .ffwidget_sidebar
+abnehmen.com,aquariumforum.de,auswandererforum.de,pferd.de,radforum.de###sidebar > li > .ffwidget_sidebar
 windows-8-forum.net###sidebar > li:first-child > .block
 autoexperience.de,fitness-foren.de,forumla.de,lpgforum.de,mazda-forum.info,notebookforum.at,pkw-forum.de,win-8-forum.net,windows-7-forum.net###sidebar > span > a > img
 tgs-pforzheim.de###sidebar > ul > #aioslideshow-widget-2
@@ -6543,6 +6543,7 @@ serienjunkies.org##a[href*="/mirror."]
 bild.de##a[href*="/partner/"]
 20min.ch##a[href*="/sponsored/story/"]
 emfis.de##a[href*="/uebersicht.html?tx_ricrotation_"]
+auswandererforum.de##a[href*="affiliate.php?"]
 xp-antispy.org##a[href*="com_partner&link="]
 3dl.tv##a[href*="downloadboutique.com"]
 hd-vidz.net##a[href*="filesonthe.net"]
@@ -7463,6 +7464,7 @@ winfuture.de##div[style="width:160px;height:600px;position:absolute;top:-90px;le
 pressakey.com##div[style="width:260px;height:310px;background-image:url(gfximg/rnavi_w3.jpg);"]
 n-tv.de##div[style="width:290px;height:100px;background-image:url(http://www.n-tv.de/ads/images/rechner/c24-bg.png);background-repeat:repeat-x;background-position:bottom;font-family:arial,verdana,sans-serif;margin: 0 5px;"]
 html-world.de##div[style="width:300px; height:250px; "]
+auswandererforum.de##div[style="width:300px;height:600px;"]
 mainfranken24.de##div[style="width:300px;overflow:hidden;float:right; margin:0px 0px 20px 20px;"]
 news.ch##div[style="width:300px;padding:12px;float:left;"]
 14-tage-wettervorhersage.de##div[style="width:320px; height:64px; margin-left:-3px; margin-top:-35px;"]
@@ -10907,4 +10909,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: WyEAxiEX3NDPASKxEwVHdA
+! Checksum: eIj+FAyRIYcNZZDzKixjOQ
