@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701081512
+! Version: 201701081519
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Jan 2017 15:12 UTC
+! Last modified: 08 Jan 2017 15:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7600,6 +7600,7 @@ t-online.de##img[width="297"][height="465"][usemap^="#immap"]
 kraftfuttermischwerk.de##img[width="300"][height="200"]
 02elf.net,dashitradio.de,der-postillon.com,fitforfun.de,foerderland.de,iphoneblog.de,msn.com,sunshine.it,teltarif.de,trendsderzukunft.de,wetter.net##img[width="300"][height="250"]
 t-online.de##img[width="300"][height="450"]
+games-mag.de##img[width="320"][height="315"]
 ingame.de##img[width="325px"][src$="clear.gif"]
 xxx-boardz.com##img[width="360"][height="46"]
 xxx-boardz.com##img[width="366"][height="46"]
@@ -10906,4 +10907,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: iFWSTZ3JsG+ywB+DuWOB3w
+! Checksum: WyEAxiEX3NDPASKxEwVHdA
