@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701071554
+! Version: 201701081512
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 07 Jan 2017 15:54 UTC
+! Last modified: 08 Jan 2017 15:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -228,6 +228,13 @@ _woz_banner_vote.
 ###tmobilefreikarte
 ###topwerbung
 ###videopage-werbung
+###werb10
+###werb11
+###werb12
+###werb13
+###werb7
+###werb8
+###werb9
 ###werbLayer1
 ###werbLayer2
 ###werbLayer3
@@ -4718,6 +4725,7 @@ h-bw.de###inhalt-banner
 boote-forum.de###inlinemodform + * + div > a > img
 zensiert.to###innercontent2 > .contentcontainer + .contentfooter + br + center
 immonet.de###interhypSonder
+np-coburg.de###internbox
 123recht.net###ip_content_wrapper > div[style="height: 90px;"]
 abload.de###iphpbannerleft
 golem.de###iqadtile4gol
@@ -7191,6 +7199,7 @@ oberprima.com##div[id^="ad-inst-"]
 modified-shop.org##div[id^="ad_above_"]
 modified-shop.org##div[id^="ad_after_first_post_"]
 modified-shop.org,xtc-modified.org##div[id^="ad_below_"]
+np-coburg.de##div[id^="adition_"]
 morgenpost.de##div[id^="advertisementRightcolumn_"]
 winfuture.de##div[id^="amazon_box_iframe_"]
 netdoktor.de##div[id^="banner"]
@@ -10897,4 +10906,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: NMuEHBHf71dqj/f7PzxI9Q
+! Checksum: iFWSTZ3JsG+ywB+DuWOB3w
