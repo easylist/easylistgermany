@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701081524
+! Version: 201701081525
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Jan 2017 15:24 UTC
+! Last modified: 08 Jan 2017 15:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6459,10 +6459,6 @@ autoextrem.de,teccentral.de##.yui-sidebar li > a > img
 autoextrem.de,teccentral.de,winboard.org##.yui-sidebar li > span > a > img
 magistrix.de##.zeezee
 german-bash.org##.zitat > div[style="width:300px;"]
-listsandnews-de.net##A[href^="http://www.dekarrierejournal.com/index.php?A="]
-ebook-hell.to##A[href^="http://www.friendlyduck.com/AF_"] + *
-320k.in##A[href^="http://www.yellow-ducks.com/AF_"]
-chip.de##A[title="Amazon Instant Video"][target="_blank"]
 gamepro.de,gamestar.de##[-abp-properties='bottom: 3.7*px;']
 woxikon.de##[-abp-properties='bottom: 4.*px;']
 wn.de##[-abp-properties='height: 90px; margin-left: 125px;']
@@ -6897,6 +6893,7 @@ tvspielfilm.de##a[href^="http://www.bluvistaclub.tv/?pid="]
 linkvz.net##a[href^="http://www.cashdorado.de/"]
 fail.to##a[href^="http://www.china-deals.net"]
 omfg.to##a[href^="http://www.china-deals.net/"]
+listsandnews-de.net##a[href^="http://www.dekarrierejournal.com/index.php?A="]
 digital-eliteboard.com##a[href^="http://www.digital-eliteboard.com/rbs_banner.php?id="]
 safeyourlink.com##a[href^="http://www.eads.to/home.php?ref="]
 bild.de##a[href^="http://www.erotik1.de/"]
@@ -6908,6 +6905,7 @@ lesen.to##a[href^="http://www.firstload.com/?uniq="]
 movie-blog.org##a[href^="http://www.fixurl.de/"]
 flower-blog.org##a[href^="http://www.flower-blog.org/download_usenet_"]
 freesms-senden.net##a[href^="http://www.freesms-senden.net/sms-"]
+ebook-hell.to##a[href^="http://www.friendlyduck.com/AF_"] + *
 g-stream.in##a[href^="http://www.g-stream.in/mirror/HIGHSPEED"]
 rtl.de##a[href^="http://www.gamechannel.de/cms/spiele/"]
 gamestar.de##a[href^="http://www.gamestar.de/_misc/linkforward/"][target="_blank"]
@@ -6980,6 +6978,7 @@ opencannabis.net##a[href^="http://www.udopea.de/"][href*="?refid="]
 serialzz.us##a[href^="http://www.viagra-dienst.info"]
 t-online.de##a[href^="http://www.viversum.de/index.php?pid="]
 wz-newsline.de##a[href^="http://www.wz-werbewelt.de/proads/"]
+320k.in##a[href^="http://www.yellow-ducks.com/AF_"]
 golyr.de##a[href^="http://www.zanox-affiliate.de/ppc/?"]
 goldesel.to,mega-stream.to,moviebox.to,woom.ws##a[href^="http://www2.filedroid.net/AF_"]
 readmore.de##a[href^="http://www4.smartadserver.com/"]
@@ -7108,6 +7107,7 @@ rtl.de##a[target="_self"][href^="http://www.rtl.de/street-one/"]
 magistrix.de##a[target="blank"][href*="/assets/"]
 magistrix.de##a[target="blank"][href^="/"] > img[src^="/"]
 magistrix.de##a[target="blank"][href^="/deblock/"]
+chip.de##a[title="Amazon Instant Video"][target="_blank"]
 fc-hansa.de##a[title="DKB-Familienblock"]
 chip.de##a[title="FriendScout24"][target="_blank"]
 g4u.me##a[title="Highspeed Download"]
@@ -10909,4 +10909,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: eIj+FAyRIYcNZZDzKixjOQ
+! Checksum: 9Mys0/m/QZIMIUqAr3Wr+Q
