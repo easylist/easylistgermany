@@ -486,6 +486,7 @@ h-bw.de###inhalt-banner
 boote-forum.de###inlinemodform + * + div > a > img
 zensiert.to###innercontent2 > .contentcontainer + .contentfooter + br + center
 immonet.de###interhypSonder
+np-coburg.de###internbox
 123recht.net###ip_content_wrapper > div[style="height: 90px;"]
 abload.de###iphpbannerleft
 golem.de###iqadtile4gol
@@ -2959,6 +2960,7 @@ oberprima.com##div[id^="ad-inst-"]
 modified-shop.org##div[id^="ad_above_"]
 modified-shop.org##div[id^="ad_after_first_post_"]
 modified-shop.org,xtc-modified.org##div[id^="ad_below_"]
+np-coburg.de##div[id^="adition_"]
 morgenpost.de##div[id^="advertisementRightcolumn_"]
 winfuture.de##div[id^="amazon_box_iframe_"]
 netdoktor.de##div[id^="banner"]
