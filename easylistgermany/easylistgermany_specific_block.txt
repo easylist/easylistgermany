@@ -2153,6 +2153,7 @@ $websocket,domain=animes-stream24.net
 @@||focus.de^$genericblock
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200%7C200x20$script,domain=stern.de
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200&$script,domain=stern.de
+@@||g.doubleclick.net/static/glade.js$domain=transfermarkt.de
 @@||gala.de/gujAd/gujAd.js$domain=gala.de
 @@||gala.de^$genericblock,generichide
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$domain=transfermarkt.de
