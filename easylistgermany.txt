@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701091805
+! Version: 201701091806
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 09 Jan 2017 18:05 UTC
+! Last modified: 09 Jan 2017 18:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -545,6 +545,7 @@ blesius.de#@#.text_werbung
 christophhubrich.blogspot.co.uk,christophhubrich.blogspot.de,delamar.de,ews-markt.de,mediamarkt.de,paolo-film.de,transfermarkt.de#@#.werbung
 ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
 zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
+marketing-a.akamaihd.net#@#a[href^="http://adclick.g.doubleclick.net/"]
 berlin.de#@#a[href^="http://adfarm.mediaplex.com/"]
 schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 cnet.de,deals.chip.de#@#a[href^="http://pubads.g.doubleclick.net/"]
@@ -10278,6 +10279,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@|https://*.js?_=$script,domain=freenet.de
 @@||1000steine.de/img/ads/
 @@||123people.us/trackads/display?zones=$script,domain=123people.de
+@@||2mdn.net/ads/studio/Enabler.js$domain=marketing-a.akamaihd.net
 @@||2mdn.net^*/flash_inpage_rendering_lib_$script,domain=cnet.de
 @@||2mdn.net^*/plcr_$script,domain=cnet.de
 @@||360yield.com/adj?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
@@ -10901,4 +10903,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: KpLwAYFYZFbm4OYOD5nZKg
+! Checksum: Mg3z8b1OIeWlJbby6pzRnA
