@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701081652
+! Version: 201701091800
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Jan 2017 16:52 UTC
+! Last modified: 09 Jan 2017 18:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6338,6 +6338,7 @@ saz-aktuell.com##.textadul
 et-tutorials.de##.textwidget > div[style="background-color: #FFFFFF; color:#000000; "]
 teltarif.de##.tgtLink[style="color:#CCCCCC;margin:10px 0 2px 0"]
 teltarif.de##.tgtLink[style="width:100%;text-align:left;border-spacing:0;margin-bottom:5px"]
+heise.de##.themenseite_preisvergleich.meldung__box--right
 giga.de##.three-boxes + div > div[style]
 dhb.de##.three.columns > #c22 + .pslider
 promipool.de##.timeframe_banner
@@ -10897,4 +10898,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: y8W++Gh8ZyZv5pNe3BhNCw
+! Checksum: IDDXOjlR+OAWQynpezIRDA
