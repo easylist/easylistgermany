@@ -2177,7 +2177,8 @@ $websocket,domain=animes-stream24.net
 autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 bento.de##.plistaList > .itemLinkPET
 bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
-spiegel.de##.article-section > .asset-buchwerbekasten
+spiegel.de##.article-section.clearfix > .asset-box.asset-buchwerbekasten.clearfix
+spiegel.de##a[href^="http://ad8.adfarm1.adition.com/"]
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ||a-ssl.ligatus.com^$domain=gala.de|stern.de
 ||ad-srv.net^$domain=tellows.de
@@ -2223,7 +2224,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||pubmatic.com^$domain=stern.de
 ||qservz.com^$domain=spiegel.de
 ||revsci.net^$domain=gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
-||rtax.criteo.com^$domain=autobild.de|stern.de|transfermarkt.de
+||rtax.criteo.com^$domain=autobild.de|spiegel.de|stern.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de|transfermarkt.de
 ||serving-sys.com^$domain=spiegel.de
 ||smartadserver.com^$domain=autobild.de|transfermarkt.de
