@@ -2164,6 +2164,7 @@ $websocket,domain=animes-stream24.net
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de|transfermarkt.de
 @@||kabeleins.de^$genericblock,generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=transfermarkt.de
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
 @@||prosieben.de^$genericblock,generichide
 @@||prosiebenmaxx.de^$genericblock,generichide
