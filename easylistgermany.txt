@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701092115
+! Version: 201701100701
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 09 Jan 2017 21:15 UTC
+! Last modified: 10 Jan 2017 07:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3818,6 +3818,7 @@ $websocket,domain=animes-stream24.net
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
+/pagead2.$domain=g.doubleclick.net|googlesyndication.com
 ://ads.$domain=spiegel.de
 @@||adition.com/s?$script,domain=spiegel.de
 @@||autobild.de^$genericblock,generichide
@@ -3827,6 +3828,7 @@ $websocket,domain=animes-stream24.net
 @@||focus.de^$genericblock
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200%7C200x20$script,domain=stern.de
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200&$script,domain=stern.de
+@@||g.doubleclick.net/gampad/ads?*&sz=300x250&$subdocument,domain=transfermarkt.de
 @@||g.doubleclick.net/static/glade.js$domain=transfermarkt.de
 @@||gala.de/gujAd/gujAd.js$domain=gala.de
 @@||gala.de^$genericblock,generichide
@@ -3851,6 +3853,8 @@ $websocket,domain=animes-stream24.net
 autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 bento.de##.plistaList > .itemLinkPET
 bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
+g.doubleclick.net###adunit
+googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
 spiegel.de##.article-section.clearfix > .asset-box.asset-buchwerbekasten.clearfix
 spiegel.de##a[href^="http://ad8.adfarm1.adition.com/"]
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
@@ -3876,13 +3880,16 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||amazon-adsystem.com^$domain=autobild.de|focus.de|transfermarkt.de
 ||bf-ad.net^$domain=focus.de
 ||criteo.com^$domain=tellows.de
-||flashtalking.com^$domain=gala.de|spiegel.de
+||flashtalking.com^$domain=g.doubleclick.net|gala.de|spiegel.de
 ||g.doubleclick.net^$domain=focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|tellows.de|transfermarkt.de
 ||gala.de/googleads/$domain=gala.de
 ||gala.de/gujAd/$domain=gala.de
 ||google.com/adsense/search/ads.js$domain=focus.de
 ||googleadservices.com^$domain=stern.de|tellows.de
-||googlesyndication.com/safeframe/$domain=spiegel.de|tellows.de
+||googlesyndication.com/pagead$domain=g.doubleclick.net
+||googlesyndication.com/pagead/$domain=googlesyndication.com
+||googlesyndication.com/safeframe/$domain=g.doubleclick.net|spiegel.de|tellows.de
+||googlesyndication.com/simgad/$domain=g.doubleclick.net
 ||googlesyndication.com/sodar/$domain=spiegel.de
 ||guj.de^*/gujAd.$domain=stern.de
 ||intellitxt.com^$domain=autobild.de
@@ -3897,6 +3904,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||plista.com/pictureads/$domain=autobild.de
 ||pubmatic.com^$domain=stern.de
 ||qservz.com^$domain=spiegel.de
+||redintelligence.net^$domain=g.doubleclick.net
 ||revsci.net^$domain=gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 ||rtax.criteo.com^$domain=autobild.de|spiegel.de|stern.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de|transfermarkt.de
@@ -3906,7 +3914,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||smartredirect.de^$domain=focus.de
 ||stern.de/gujadstatic/stern/gujAd.$domain=stern.de
 ||t4ft.de^$domain=spiegel.de
-||teads.tv^$domain=autobild.de|spiegel.de
+||teads.tv^$domain=autobild.de|spiegel.de|transfermarkt.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
@@ -10929,4 +10937,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: A97qaei0g7dWMNrzBPOZWg
+! Checksum: 45jZyXPfW/yBZnIWTXGJ6A
