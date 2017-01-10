@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701100701
+! Version: 201701100702
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Jan 2017 07:01 UTC
+! Last modified: 10 Jan 2017 07:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3854,7 +3854,6 @@ autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"
 bento.de##.plistaList > .itemLinkPET
 bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 g.doubleclick.net###adunit
-googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
 spiegel.de##.article-section.clearfix > .asset-box.asset-buchwerbekasten.clearfix
 spiegel.de##a[href^="http://ad8.adfarm1.adition.com/"]
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
@@ -3886,6 +3885,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||gala.de/gujAd/$domain=gala.de
 ||google.com/adsense/search/ads.js$domain=focus.de
 ||googleadservices.com^$domain=stern.de|tellows.de
+||googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
 ||googlesyndication.com/pagead$domain=g.doubleclick.net
 ||googlesyndication.com/pagead/$domain=googlesyndication.com
 ||googlesyndication.com/safeframe/$domain=g.doubleclick.net|spiegel.de|tellows.de
@@ -10937,4 +10937,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 45jZyXPfW/yBZnIWTXGJ6A
+! Checksum: lmD9txy089btIzaA4+wfVg
