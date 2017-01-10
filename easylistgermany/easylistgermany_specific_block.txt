@@ -2272,7 +2272,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||news.de/module/newsfrontend$image,domain=news.de
 @@||praemien.gevestor.de/bilder/$domain=gevestor.de
 @@||sale.news.de/customs/uploads$image,domain=news.de
-||autozeitung.de^$image
+||autozeitung.de^$image,domain=www.autozeitung.de
 ||bikerszene.de/*-*.*/*.gif
 ||deine-tierwelt.de/*-*.*/*.gif
 ||donnerwetter.de/*-*.*/*.gif
@@ -2282,7 +2282,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||frag-mutti.de/*-*.*/*.gif
 ||fremdwort.de/*-*.*/*.gif
 ||frustfrei-lernen.de/*-*.*/*.gif
-||gevestor.de^$image
+||gevestor.de^$image,domain=www.gevestor.de
 ||haz.de/*-*.*/*.gif
 ||iban-rechner.de/*-*.*/*.gif
 ||infranken.de/*-*.*/*.gif
@@ -2293,7 +2293,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||motorsport-total.com/*-*.*/*.gif
 ||moviejones.de/*-*.*/*.gif
 ||mt.de/*-*.*/*.gif
-||news.de^$image
+||news.de^$image,domain=news.de|~sale.news.de
 ||nickles.de/*-*.*/*.gif
 ||nw.de/*-*.*/*.gif
 ||pferde.de/*-*.*/*.gif
