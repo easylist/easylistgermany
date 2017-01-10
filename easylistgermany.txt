@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701100741
+! Version: 201701100744
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Jan 2017 07:41 UTC
+! Last modified: 10 Jan 2017 07:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3838,6 +3838,7 @@ $websocket,domain=animes-stream24.net
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de|transfermarkt.de
 @@||kabeleins.de^$genericblock,generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=transfermarkt.de
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
 @@||prosieben.de^$genericblock,generichide
 @@||prosiebenmaxx.de^$genericblock,generichide
@@ -7873,7 +7874,6 @@ focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir
 boote-forum.de,comunio.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 ariva.de,boote-forum.de,comunio.de,fanfiktion.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
-focus.de##.plista_widget_innerArticle
 @@||focus.de^$generichide
 @@||pcwelt.de^$generichide
 plista.com##a[href^="http://click.plista.com/pets"]
@@ -10970,4 +10970,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 9i0EROLgxtqWFZbPGriMvw
+! Checksum: XpfHO9dqsE/AJ9NhJwxHYg
