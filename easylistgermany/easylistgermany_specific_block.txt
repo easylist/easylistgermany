@@ -2180,7 +2180,6 @@ autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"
 bento.de##.plistaList > .itemLinkPET
 bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 g.doubleclick.net###adunit
-googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
 spiegel.de##.article-section.clearfix > .asset-box.asset-buchwerbekasten.clearfix
 spiegel.de##a[href^="http://ad8.adfarm1.adition.com/"]
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
@@ -2212,6 +2211,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||gala.de/gujAd/$domain=gala.de
 ||google.com/adsense/search/ads.js$domain=focus.de
 ||googleadservices.com^$domain=stern.de|tellows.de
+||googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
 ||googlesyndication.com/pagead$domain=g.doubleclick.net
 ||googlesyndication.com/pagead/$domain=googlesyndication.com
 ||googlesyndication.com/safeframe/$domain=g.doubleclick.net|spiegel.de|tellows.de
