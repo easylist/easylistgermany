@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701100703
+! Version: 201701100706
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Jan 2017 07:03 UTC
+! Last modified: 10 Jan 2017 07:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3435,6 +3435,7 @@ $websocket,domain=animes-stream24.net
 ||stadt-bremerhaven.de/wp-content/uploads/2016/11/h8bf.jpg
 ||stadt-bremerhaven.de/wp-content/uploads/2016/11/honor.jpg
 ||stadt-bremerhaven.de/wp-content/uploads/2016/12/honor5c-1.jpg
+||stadt-bremerhaven.de/wp-content/uploads/2017/01/instaffo.gif
 ||stadt-werther.de/uploads/tx_macinabanners/
 ||staedte-info.net/bilder/banner_$image
 ||static-fb.com^$domain=anime-stream24.com|animes-stream24.net
@@ -7019,6 +7020,7 @@ livestreamfussball.org##a[href^="http://zolanis.com/landingpage"]
 movie-blog.org##a[href^="http://zzb.bz/"]
 freenet.de##a[href^="https://ad1.adfarm1.adition.com/redi?sid="]
 filecrypt.cc##a[href^="https://goo.gl/"]
+stadt-bremerhaven.de##a[href^="https://instaffo.com/?utm_source="] > img
 gamepro.de,gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
 ddl-warez.in##a[href^="https://share-online.biz/affiliate/"]
 ddl-warez.in##a[href^="https://uploaded.net/ref/"]
@@ -10966,4 +10968,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: mUVN3HYDgPQHL0Q/2ukCBA
+! Checksum: QP3qC8jQwegQJypwQqd2fA
