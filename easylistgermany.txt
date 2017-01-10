@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701101315
+! Version: 201701101725
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Jan 2017 13:15 UTC
+! Last modified: 10 Jan 2017 17:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3312,6 +3312,8 @@ $websocket,domain=animes-stream24.net
 ||scooter-attack.com^$subdocument,domain=rollertuningpage.de
 ||sealed.in^*/downloadmirror.
 ||search.1und1.de/uns/amazon?$xmlhttprequest
+||searchx.ch/img/customerupload/banner/
+||searchx.ch/img/links/120x60_
 ||seatforum.de/forum/images/banner_
 ||seatforum.de^*/anzeige.gif
 ||see-online.info/banner_pictures/
@@ -10946,6 +10948,7 @@ kalender-365.de#@#.adsbygoogle
 @@||gronkh.de/media/thumbs/*/300x250/$image
 @@||internetworld.de/img/*_300x250_$image,~third-party
 @@||kramarz.ch/iws/images/banner/iws-$~third-party
+@@||searchx.ch/img/BannerFreeRegister_728_90.jpg$domain=searchx.ch
 @@||social-media-hosting.com^*_120x60.jpg
 @@||welt.de/sites/default/files/rectangle-300x250-newsletter.jpg
 @@||wetter.com/layout/1/woys/300_250/300_250_$image
@@ -10973,4 +10976,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: vRtLv9ximqVhSKYjgGMpTw
+! Checksum: jh6krWymObTwcrbZg8NR4Q
