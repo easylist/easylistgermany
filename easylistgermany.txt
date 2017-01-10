@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701100744
+! Version: 201701100755
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Jan 2017 07:44 UTC
+! Last modified: 10 Jan 2017 07:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3829,7 +3829,10 @@ $websocket,domain=animes-stream24.net
 @@||focus.de^$genericblock
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200%7C200x20$script,domain=stern.de
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200&$script,domain=stern.de
+@@||g.doubleclick.net/gampad/ads?*&sz=1x1&$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||g.doubleclick.net/gampad/ads?*&sz=300x250&$subdocument,domain=transfermarkt.de
+@@||g.doubleclick.net/gampad/ads?*&sz=468x60&$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||g.doubleclick.net/static/glade.js$domain=autobild.de|transfermarkt.de
 @@||g.doubleclick.net/static/glade/extra_$script,domain=autobild.de
 @@||gala.de/gujAd/gujAd.js$domain=gala.de
@@ -10970,4 +10973,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: XpfHO9dqsE/AJ9NhJwxHYg
+! Checksum: VQTpp5wKDGn/Qih2uLTYgw
