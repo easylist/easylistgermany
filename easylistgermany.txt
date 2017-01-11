@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701111943
+! Version: 201701112205
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 11 Jan 2017 19:43 UTC
+! Last modified: 11 Jan 2017 22:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5381,6 +5381,7 @@ hsvhandball.com##.banner-container
 bos-fahrzeuge.info,com-magazin.de,macnews.de##.banner-content
 macmagazin.de##.banner-detail
 macmagazin.de##.banner-home
+ebay-kleinanzeigen.de##.banner-leaderboard
 eintracht-handball.de,radiodresden.de,radioleipzig.de##.banner-rechts
 macmagazin.de##.banner-sidebar-1
 macmagazin.de##.banner-sidebar-2
@@ -10783,4 +10784,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: XCfbLOmhlGtDcAVVuY/+3A
+! Checksum: JcfBOqF8x/tilbbF15EvsA
