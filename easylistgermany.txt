@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701112205
+! Version: 201701131800
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 11 Jan 2017 22:05 UTC
+! Last modified: 13 Jan 2017 18:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3947,40 +3947,39 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||news.de/module/newsfrontend$image,domain=news.de
 @@||praemien.gevestor.de/bilder/$domain=gevestor.de
 @@||sale.news.de/customs/uploads$image,domain=news.de
-||aachener-nachrichten.de/*/*/*.gif
 ||autozeitung.de^$image,domain=www.autozeitung.de
-||bikerszene.de/image/*/*/*/*.gif
-||deine-tierwelt.de/imag/*/*/*/*.gif
-||donnerwetter.de/images/*/*/*/*/*.gif
-||e-hausaufgaben.de/images_public/*/*/*/*/*.gif
-||epochtimes.de/*/*/*.gif
-||fanfiktion.de/scripts/*/*/*/*.gif
-||finya.de/image/*/*/*.gif
-||formel1.de/public/img/*/*/*/*.gif
-||frag-mutti.de/images/*/*/*/*.gif
-||fremdwort.de/images/*/*/*/*.gif
-||frustfrei-lernen.de/image/*/*/*/*.gif
+||bikerszene.de/images/*/*/*/*.gif
+||deine-tierwelt.de/imags/*/*/*/*.gif
+||donnerwetter.de/images/*/*/*/*.gif
+||e-hausaufgaben.de/images_public/*/*/*/*.gif
+||fanfiktion.de/*/*/*/*.gif
+||finya.de/images/*/*/*.gif
+||formel1.de/public/*/*/*/*.gif
+||frag-mutti.de/imagez/*/*/*/*.gif
+||fremdwort.de/imagez/*/*/*/*.gif
+||frustfrei-lernen.de/images/*/*/*/*.gif
 ||gevestor.de^$image,domain=www.gevestor.de
-||infranken.de/image/*/*/*/*.gif
-||juraforum.de/image/*/*/*/*.gif
-||liga3-online.de/image/*/*/*/*.gif
-||motorsport-total.com/*/*/*/*/*.gif
-||moviejones.de/images/*/*/*/*.gif
-||mt.de/*/*/*.gif
+||haz.de/image/*/*/*/*.gif
+||infranken.de/images/*/*/*/*.gif
+||juraforum.de/images/*/*/*/*.gif
+||liga3-online.de/images/*/*/*/*.gif
+||ln-online.de/image/*/*/*/*.gif
+||lvz.de/image/*/*/*/*.gif
+||motorsport-total.com/*/*/*/*.gif
+||moviejones.de/image/*/*/*/*.gif
 ||news.de^$image,domain=news.de|~sale.news.de
-||nickles.de/image/*/*/*/*.gif
-||nw.de/_ems-daten/*/*/*.gif
-||pferde.de/imags/*/*/*/*.gif
-||pixelio.de/images/*/*/*/*.gif
-||psychic.de/image/*/*/*/*.gif
-||spielen.de/image/*/*/*/*.gif
-||tvinfo.de/image/*/*/*/*.gif
-||unicum.de/image/*/*/*/*.gif
-||weristdeinfreund.de/image/*/*/*/*.gif
-||weser-kurier.de/image/*/*/*/*.gif
-||wetteronline.de/image/*/*/*/*/*.gif
-||win-10-forum.de/images/*/*/*/*.gif
-||wize.life/*/*/*.gif
+||nickles.de/images/*/*/*/*.gif
+||nw.de/_emc-daten/*/*/*.gif
+||pferde.de/image/*/*/*/*.gif
+||pixelio.de/image/*/*/*/*.gif
+||psychic.de/images/*/*/*/*.gif
+||spielen.de/images/*/*/*/*.gif
+||tvinfo.de/images/*/*/*/*.gif
+||unicum.de/images/*/*/*/*.gif
+||weristdeinfreund.de/images/*/*/*/*.gif
+||weser-kurier.de/images/*/*/*/*.gif
+||wetteronline.de/image/*/*/*/*.gif
+||win-10-forum.de/images/*/*/*.gif
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block_popup.txt ***
 .gif|$popup,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
 ^utm_campaign^$popup,domain=jappy.de
@@ -10784,4 +10783,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: JcfBOqF8x/tilbbF15EvsA
+! Checksum: 6FsBqqcLH9oquZX0b7Kv+w
