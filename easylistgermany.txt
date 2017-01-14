@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701131801
+! Version: 201701141333
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Jan 2017 18:01 UTC
+! Last modified: 14 Jan 2017 13:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3866,6 +3866,7 @@ bento.de##.plistaList > .itemLinkPET
 bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 g.doubleclick.net###adunit
 spiegel.de##.article-section.clearfix > .asset-box.asset-buchwerbekasten.clearfix
+widgets.outbrain.com##.OUTBRAIN[data-src^="http://www.spiegel.de/"] .ob-p
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ||a-ssl.ligatus.com^$domain=gala.de|stern.de
 ||ad-srv.net^$domain=tellows.de
@@ -10842,4 +10843,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: jQHGbXVzA3R/aS+vLF53dA
+! Checksum: hSGueZKnZapDl0qxTBWGXQ
