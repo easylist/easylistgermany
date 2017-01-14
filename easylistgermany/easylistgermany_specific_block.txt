@@ -2147,8 +2147,10 @@ $websocket,domain=animes-stream24.net
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
+/flyads/*$domain=stern.de
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
-/pagead2.$domain=g.doubleclick.net|googlesyndication.com
+/pagead2.$domain=g.doubleclick.net|googlesyndication.com|stern.de
+/PLISTA_FLYAD.js$domain=stern.de
 ://ads.$domain=spiegel.de
 @@||adition.com/s?$script,domain=spiegel.de
 @@||autobild.de^$genericblock,generichide
@@ -2161,10 +2163,14 @@ $websocket,domain=animes-stream24.net
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200%7C200x203&$script,domain=gala.de
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200%7C200x211&$script,domain=gala.de
 @@||g.doubleclick.net/gampad/ads?*&prev_iu_szs=200x200&$script,domain=gala.de|stern.de
-@@||g.doubleclick.net/gampad/ads?*&sz=1x1&$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+@@||g.doubleclick.net/gampad/ads?*&sz=160x600&$script,domain=stern.de
+@@||g.doubleclick.net/gampad/ads?*&sz=1x1&$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
+@@||g.doubleclick.net/gampad/ads?*&sz=300x250&$script,domain=stern.de
 @@||g.doubleclick.net/gampad/ads?*&sz=300x250&$subdocument,domain=transfermarkt.de
 @@||g.doubleclick.net/gampad/ads?*&sz=468x60&$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+@@||g.doubleclick.net/gampad/ads?*&sz=4x$script,domain=stern.de
+@@||g.doubleclick.net/gampad/ads?*&sz=728x90&$script,domain=stern.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 @@||g.doubleclick.net/static/glade.js$domain=autobild.de|transfermarkt.de
 @@||g.doubleclick.net/static/glade/extra_$script,domain=autobild.de
 @@||gala.de/gujAd/gujAd.js$domain=gala.de
@@ -2221,6 +2227,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||amazon-adsystem.com^$domain=autobild.de|focus.de|transfermarkt.de
 ||betrad.com^$domain=googlesyndication.com
 ||bf-ad.net^$domain=focus.de
+||cloudfront.net/werbemittel/$domain=stern.de
 ||criteo.com^$domain=tellows.de
 ||flashtalking.com^$domain=g.doubleclick.net|gala.de|spiegel.de
 ||g.doubleclick.net^$domain=focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|tellows.de|transfermarkt.de
@@ -2232,7 +2239,8 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||googlesyndication.com/pagead$domain=g.doubleclick.net
 ||googlesyndication.com/pagead/$domain=g.doubleclick.net|googlesyndication.com
 ||googlesyndication.com/sadbundle/$domain=g.doubleclick.net
-||googlesyndication.com/safeframe/$domain=g.doubleclick.net|gala.de|spiegel.de|tellows.de
+||googlesyndication.com/safeframe/$domain=g.doubleclick.net|gala.de|googlesyndication.com|spiegel.de|tellows.de
+||googlesyndication.com/safeframe/$subdocument,domain=stern.de
 ||googlesyndication.com/simgad/$domain=g.doubleclick.net
 ||googlesyndication.com/sodar/$domain=googlesyndication.com|spiegel.de
 ||guj.de^*/gujAd.$domain=stern.de
@@ -2243,7 +2251,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||moatads.com^$domain=autobild.de|transfermarkt.de
 ||mookie1.com^$domain=autobild.de|gala.de|stern.de|transfermarkt.de
 ||movad.net^$domain=spiegel.de
-||mpnrs.com^$domain=gala.de|transfermarkt.de
+||mpnrs.com^$domain=gala.de|stern.de|transfermarkt.de
 ||pagead2.googlesyndication.com^$domain=autobild.de|focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
 ||plista.com/pictureads/$domain=autobild.de
 ||pubmatic.com^$domain=stern.de
