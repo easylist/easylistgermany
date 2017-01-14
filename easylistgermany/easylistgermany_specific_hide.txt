@@ -1079,7 +1079,6 @@ stadtradio-goettingen.de##.Anzeigen
 bluray-disc.de##.AnzeigenBlock2
 schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##.AnzeigenHead
 bluray-disc.de##.AnzeigenText
-focus.de##.BC-Container
 haustechnikdialog.de##.BannerContainer
 idowa.de##.BannerSeiteLinks
 ksta.de,rundschau-online.de##.BoxAnzeige
@@ -3599,7 +3598,6 @@ radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
 focus.de###clickyBG_FP
-focus.de##.adMarkerBlock
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 boote-forum.de,comunio.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
