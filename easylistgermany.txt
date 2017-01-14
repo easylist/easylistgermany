@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701141333
+! Version: 201701141400
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 14 Jan 2017 13:33 UTC
+! Last modified: 14 Jan 2017 14:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3822,6 +3822,7 @@ $websocket,domain=animes-stream24.net
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
+/googleads.$domain=g.doubleclick.net
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com
 ://ads.$domain=spiegel.de
 @@||adition.com/s?$script,domain=spiegel.de
@@ -3844,6 +3845,7 @@ $websocket,domain=animes-stream24.net
 @@||imagesrv.adition.com/banners/1337/files/00/0b/bf/a*/00000076995*.jpg$domain=spiegel.de
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de|transfermarkt.de
 @@||kabeleins.de^$genericblock,generichide
+@@||moatads.com^*/moatad.js$domain=transfermarkt.de
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=transfermarkt.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
@@ -3874,7 +3876,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||ad.doubleclick.net^$domain=spiegel.de
 ||adform.net^$domain=spiegel.de
 ||adition.com/banner?$domain=spiegel.de
-||adition.com^$domain=gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
+||adition.com^$domain=g.doubleclick.net|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
 ||adition.com^$popup,domain=spiegel.de
 ||adnet.de^$domain=tellows.de
 ||adnxs.com^$domain=autobild.de|gala.de|stern.de
@@ -3898,7 +3900,8 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||googleadservices.com^$domain=stern.de|tellows.de
 ||googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
 ||googlesyndication.com/pagead$domain=g.doubleclick.net
-||googlesyndication.com/pagead/$domain=googlesyndication.com
+||googlesyndication.com/pagead/$domain=g.doubleclick.net|googlesyndication.com
+||googlesyndication.com/sadbundle/$domain=g.doubleclick.net
 ||googlesyndication.com/safeframe/$domain=g.doubleclick.net|spiegel.de|tellows.de
 ||googlesyndication.com/simgad/$domain=g.doubleclick.net
 ||googlesyndication.com/sodar/$domain=spiegel.de
@@ -10843,4 +10846,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: hSGueZKnZapDl0qxTBWGXQ
+! Checksum: GDigevPmpE3PyyJVWncRIA
