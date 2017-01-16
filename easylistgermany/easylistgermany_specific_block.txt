@@ -2312,6 +2312,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||pferde.de/app/images/*.gif
 @@||pixelio.de/resources/*.gif
 @@||pixelio.de/resources_ltk/images/*.gif
+@@||praemien.gevestor.de/bilder/$domain=gevestor.de
 @@||psychic.de/wp-content/plugins/wp-postratings/images/*.gif
 @@||spielen.de/bundles/mediatrustfrontend/images/blank.gif
 @@||spielen.de/cache/uploads/image/*/*.gif
@@ -2342,7 +2343,7 @@ frustfrei-lernen.de##div[style="height: 310px"]
 ||frag-mutti.de/*.gif
 ||fremdwort.de/*.gif
 ||frustfrei-lernen.de/*.gif
-||gevestor.de^$image,domain=www.gevestor.de
+||gevestor.de/*.gif
 ||iban-rechner.de/*.gif
 ||infranken.de/*/*/*/*/*.gif
 ||juraforum.de/*.gif
