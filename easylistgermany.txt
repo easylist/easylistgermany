@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701161828
+! Version: 201701162021
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 16 Jan 2017 18:28 UTC
+! Last modified: 16 Jan 2017 20:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3955,13 +3955,13 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||autozeitung.de/sites/all/themes$image,domain=autozeitung.de
 @@||autozeitung.de/sites/default/files/images$image,domain=autozeitung.de
 @@||bikerszene.de/app/i/*.gif
-@@||cdn.psychic.de/*.gif
 @@||e-hausaufgaben.de/images/*.gif
-@@||e-hausaufgaben.de/images_public/*.gif
+@@||e-hausaufgaben.de/images_public/transp.gif
 @@||finya.de/img/loader3.gif
 @@||finya.de/img/void.gif
 @@||finya.de/img/vsep1.gif
 @@||forum.deine-tierwelt.de/images/*.gif
+@@||forum.frag-mutti.de/*.gif
 @@||fotos.autozeitung.de/*/images/bildergalerie$image,domain=autozeitung.de
 @@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
@@ -3974,67 +3974,108 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||gevestor.de/img/sprite_new.png$domain=gevestor.de
 @@||gevestor.de/wp-content/themes/ape/public/img/$image,domain=gevestor.de
 @@||gevestor.de/wp-content/uploads$image,domain=gevestor.de
+@@||haz.de/design/standard/images/1x1.gif
+@@||haz.de/extension/moldesign/design/moldesign/images/clearpixel.gif
+@@||haz.de/extension/pd2011/design/haz/images/topicloader.gif
+@@||haz.de/var/storage/images/haz/*.gif
 @@||images.wize.life/datei/*.gif
+@@||infranken.de/event/img/signet_wer_wo_was.gif
+@@||infranken.de/storage/sym/loaders/loader_big_black.gif
+@@||infranken.de/storage/sym/loaders/loader_small_grey.gif
+@@||infranken.de/templates/img/facelift/zeitungstitel.gif
+@@||infranken.de/templates/img/icons/icon_epaper_neu.gif
+@@||infranken.de/templates/img/link.gif
 @@||juraforum.de/bilder$image
-@@||juraforum.de/grafiken/$image
-@@||juraforum.de/nachrichten/bilder/$image
-@@||juraforum.de/ratgeber/bilder/$image
-@@||juraforum.de/rechtsanwalt/bilder/$image
-@@||moviejones.de/bilder/icons/*.gif
+@@||ln-online.de/design/standard/images/1x1.gif
+@@||ln-online.de/extension/pd2011/design/ln/images/topicloader.gif
+@@||lvz.de/extension/pd2011/design/lvz/images/topicloader.gif
+@@||lvz.de/var/storage/images/lvz/specials/links2/extra2-links/angestupst/333087494-1-ger-DE/Angestupst_pdaExtra.gif
+@@||lvz.de/var/storage/images/lvz/specials/links2/extra2-links/zeitung-in-schulen/333088814-1-ger-DE/Zeitung-in-Schulen_pdaExtra.gif
+@@||lvz.de/var/storage/images/lvz/sport/rb-leipzig/imagelinks-fuer-klicktipps/partner-gruber-nutzfahrzeuge/204991394-8-ger-DE/Partner-Gruber-Nutzfahrzeuge_pdaExtra.gif
+@@||lvz.de/var/storage/images/lvz/sport/rb-leipzig/imagelinks-fuer-klicktipps/partner-sporthaus-am-ring/374374709-8-ger-DE/Partner-Sporthaus-am-Ring_pdaExtra.gif
+@@||moviejones.de/bilder/avatare/1628_104751.gif
+@@||moviejones.de/bilder/avatare/167_192858.gif
+@@||moviejones.de/bilder/avatare/4_114053.gif
+@@||moviejones.de/bilder/avatare/8831_163521.gif
+@@||moviejones.de/bilder/icons/dreieck_top.gif
 @@||news.de/module/newsfrontend/img/ajax-loader.gif
 @@||news.de/module/newsfrontend/img/forw.gif
 @@||nw.de/_em_daten/nw/assets/img/*.gif
+@@||nw.de/_em_daten/nw/assets/img/1062x450.gif
+@@||nw.de/_em_daten/nw/assets/img/128x77.gif
+@@||nw.de/_em_daten/nw/assets/img/318x180.gif
+@@||nw.de/_em_daten/nw/assets/img/320x194.gif
+@@||nw.de/_em_daten/nw/assets/img/50x50.gif
+@@||nw.de/_em_daten/nw/assets/img/660x396.gif
+@@||nw.de/_em_daten/nw/assets/img/fancybox/fancybox_loading@2x.gif
+@@||nw.de/_em_daten/nw/assets/img/logo.gif
+@@||nw.de/_em_daten/nw/assets/img/logo_sticky.gif
 @@||pferde.de/app/images/*.gif
-@@||pixelio.de/resources/*.gif
-@@||pixelio.de/resources_ltk/images/*.gif
 @@||praemien.gevestor.de/bilder/$domain=gevestor.de
-@@||psychic.de/wp-content/plugins/wp-postratings/images/*.gif
+@@||psychic.de/wp-content/plugins/wp-postratings/images/loading.gif
+@@||psychic.de/wp-content/plugins/wp-postratings/images/stars_crystal/rating_over.gif
 @@||spielen.de/bundles/mediatrustfrontend/images/blank.gif
 @@||spielen.de/cache/uploads/image/*/*.gif
-@@||static.donnerwetter.de/images/*.gif
 @@||unicum.de/sites/all/modules/*.gif
 @@||unicum.de/sites/all/themes/*.gif
-@@||unicum.de/sites/default/files/*.gif
 @@||weristdeinfreund.de/widf_handlers/tinymce/js/tinymce/plugins/emoticons/*.gif
 @@||weristdeinfreund.de/widf_images/emotes/aktuell/*.gif
 @@||weristdeinfreund.de/widf_images/icons/*.gif
 @@||weristdeinfreund.de/widf_images/warten.gif
-@@||weser-kurier.de/__wetterkontor/images*.gif
-@@||weser-kurier.de/cms_media$image
-@@||weser-kurier.de/pu_wkd2014/images*.gif
+@@||weser-kurier.de/pu_wkd2014/images/bg_dualtone_line.gif
+@@||weser-kurier.de/pu_wkd2014/images/comment-box-top_398.gif
+@@||weser-kurier.de/pu_wkd2014/images/Eigenwerbung_WK-Online.gif
+@@||weser-kurier.de/pu_wkd2014/images/premium/nav_active.gif
+@@||weser-kurier.de/pu_wkd2014/images/premium/sprites_print_v2.gif
+@@||weser-kurier.de/pu_wkd2014/images/wetter/ico_regenschirm.gif
 @@||weser-kurier.de/REST*.gif
 @@||win-10-forum.de/avatars/*.gif
-@@||win-10-forum.de/images/w10/*.gif
+@@||win-10-forum.de/images/w10/default_avatar.gif
+@@||win-10-forum.de/images/w10/misc/lightbox_progress.gif
+@@||win-10-forum.de/images/w10/misc/progress.gif
+@@||win-10-forum.de/images/w10/misc/progress2.gif
+@@||win-10-forum.de/images/w10/misc/unknown.gif
 @@||wize.life/img/layout/*.gif
 frustfrei-lernen.de##div[style="height: 310px"]
+|http://www.moviejones.de/bilder/*/*/*/*.gif
 ||aachener-nachrichten.de/*.gif
 ||bikerszene.de/*.gif
 ||deine-tierwelt.de/*.gif
-||donnerwetter.de/*.gif
+||deine-tierwelt.de/image/*-*_-*-*.jpg
+||donnerwetter.de/image/*-*_-*-*-*.jpg
 ||e-hausaufgaben.de/*.gif
 ||epochtimes.de/*.gif
+||fanfiktion.de/*.gif
 ||finya.de/*.gif
+||formel1.de/public/*/*/*/*.gif
 ||frag-mutti.de/*.gif
 ||fremdwort.de/*.gif
 ||frustfrei-lernen.de/*.gif
 ||gevestor.de/*.gif
+||haz.de/*.gif
 ||iban-rechner.de/*.gif
+||infranken.de/*.gif
 ||infranken.de/*/*/*/*/*.gif
 ||juraforum.de/*.gif
 ||liga3-online.de/*.gif
-||moviejones.de/*.gif
+||ln-online.de/*.gif
+||lvz.de/*.gif
+||motorsport-total.com/*/*/*/*.gif
 ||mt.de/*.gif
 ||news.de/*.gif
+||nickles.de/image/*/*/*/*.gif
 ||nickles.de/imagez/*/*/*/*.gif
 ||nw.de/*.gif
 ||pferde.de/*.gif
-||pixelio.de/*.gif
+||pferde.de/imags/*.gif
+||pixelio.de/resources/*/*/*/*.gif
 ||psychic.de/*.gif
 ||spielen.de/*.gif
 ||tvinfo.de/*.gif
 ||unicum.de/*gif
 ||weristdeinfreund.de/*.gif
 ||weser-kurier.de/*.gif
+||wetteronline.de/image/*/*/*/*.gif
 ||win-10-forum.de/*.gif
 ||wize.life/*.gif
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block_popup.txt ***
@@ -10897,4 +10938,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: /hCrEPcdgYry8p4oznG4BQ
+! Checksum: 6OnVz0YEDqfaqvXLuhP2Lg
