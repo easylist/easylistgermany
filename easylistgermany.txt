@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701141436
+! Version: 201701160713
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 14 Jan 2017 14:36 UTC
+! Last modified: 16 Jan 2017 07:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3946,57 +3946,97 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 ! 
+@@||aachener-nachrichten.de/logger/p.gif
+@@||aachener-nachrichten.de/red/img/leserreisen/*.gif
+@@||aachener-nachrichten.de/red/img/raetselspiele/*.gif
+@@||aachener-nachrichten.de/zva/polopoly/kino/loading.gif
 @@||autozeitung.de/misc/ajax-loader-alt.gif$domain=autozeitung.de
 @@||autozeitung.de/sites/all/modules/$image,domain=autozeitung.de
 @@||autozeitung.de/sites/all/themes$image,domain=autozeitung.de
 @@||autozeitung.de/sites/default/files/images$image,domain=autozeitung.de
+@@||bikerszene.de/app/i/*.gif
+@@||cdn.psychic.de/*.gif
+@@||e-hausaufgaben.de/images/*.gif
+@@||e-hausaufgaben.de/images_public/*.gif
+@@||finya.de/img/loader3.gif
+@@||finya.de/img/void.gif
+@@||finya.de/img/vsep1.gif
+@@||forum.deine-tierwelt.de/images/*.gif
 @@||fotos.autozeitung.de/*/images/bildergalerie$image,domain=autozeitung.de
 @@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/teaser/$image,domain=autozeitung.de
+@@||frag-mutti.de/html/avatars/*.gif
+@@||frag-mutti.de/images/field-divider.gif.pagespeed.ce.d-9_0WrMIF.gif
+@@||frag-mutti.de/images/xnoavatar_light.gif.pagespeed.ic.IgtaDz0d2A.png
 @@||gevestor.de/img/logo.svg
 @@||gevestor.de/img/logo_footer.png$domain=gevestor.de
 @@||gevestor.de/img/sprite_new.png$domain=gevestor.de
 @@||gevestor.de/wp-content/themes/ape/public/img/$image,domain=gevestor.de
 @@||gevestor.de/wp-content/uploads$image,domain=gevestor.de
-@@||media.news.de/images$image,domain=news.de
-@@||media.news.de/resources$image,domain=news.de
-@@||news.de/module/newsfrontend$image,domain=news.de
-@@||praemien.gevestor.de/bilder/$domain=gevestor.de
-@@||sale.news.de/customs/uploads$image,domain=news.de
+@@||images.wize.life/datei/*.gif
+@@||juraforum.de/bilder$image
+@@||juraforum.de/grafiken/$image
+@@||juraforum.de/nachrichten/bilder/$image
+@@||juraforum.de/ratgeber/bilder/$image
+@@||juraforum.de/rechtsanwalt/bilder/$image
+@@||moviejones.de/bilder/icons/*.gif
+@@||news.de/module/newsfrontend/img/ajax-loader.gif
+@@||news.de/module/newsfrontend/img/forw.gif
+@@||nw.de/_em_daten/nw/assets/img/*.gif
+@@||pferde.de/app/images/*.gif
+@@||pixelio.de/resources/*.gif
+@@||pixelio.de/resources_ltk/images/*.gif
+@@||psychic.de/wp-content/plugins/wp-postratings/images/*.gif
+@@||spielen.de/bundles/mediatrustfrontend/images/blank.gif
+@@||spielen.de/cache/uploads/image/*/*.gif
+@@||static.donnerwetter.de/images/*.gif
+@@||unicum.de/sites/all/modules/*.gif
+@@||unicum.de/sites/all/themes/*.gif
+@@||unicum.de/sites/default/files/*.gif
+@@||weristdeinfreund.de/widf_handlers/tinymce/js/tinymce/plugins/emoticons/*.gif
+@@||weristdeinfreund.de/widf_images/emotes/aktuell/*.gif
+@@||weristdeinfreund.de/widf_images/icons/*.gif
+@@||weristdeinfreund.de/widf_images/warten.gif
+@@||weser-kurier.de/__wetterkontor/images*.gif
+@@||weser-kurier.de/cms_media$image
+@@||weser-kurier.de/pu_wkd2014/images*.gif
+@@||weser-kurier.de/REST*.gif
+@@||win-10-forum.de/avatars/*.gif
+@@||win-10-forum.de/images/w10/*.gif
+@@||wize.life/img/layout/*.gif
+frustfrei-lernen.de##div[style="height: 310px"]
+||aachener-nachrichten.de/*.gif
 ||autozeitung.de^$image,domain=www.autozeitung.de
-||bikerszene.de/images/*/*/*/*.gif
-||deine-tierwelt.de/imags/*/*/*/*.gif
-||donnerwetter.de/images/*/*/*/*.gif
-||e-hausaufgaben.de/images_public/*/*/*/*.gif
-||fanfiktion.de/*/*/*/*.gif
-||finya.de/images/*/*/*.gif
-||formel1.de/public/*/*/*/*.gif
-||frag-mutti.de/imagez/*/*/*/*.gif
-||fremdwort.de/imagez/*/*/*/*.gif
-||frustfrei-lernen.de/images/*/*/*/*.gif
+||bikerszene.de/*.gif
+||deine-tierwelt.de/*.gif
+||donnerwetter.de/*.gif
+||e-hausaufgaben.de/*.gif
+||epochtimes.de/*.gif
+||finya.de/*.gif
+||frag-mutti.de/*.gif
+||fremdwort.de/*.gif
+||frustfrei-lernen.de/*.gif
 ||gevestor.de^$image,domain=www.gevestor.de
-||haz.de/image/*/*/*/*.gif
-||infranken.de/images/*/*/*/*.gif
-||juraforum.de/images/*/*/*/*.gif
-||liga3-online.de/images/*/*/*/*.gif
-||ln-online.de/image/*/*/*/*.gif
-||lvz.de/image/*/*/*/*.gif
-||motorsport-total.com/*/*/*/*.gif
-||moviejones.de/image/*/*/*/*.gif
-||news.de^$image,domain=news.de|~sale.news.de
-||nickles.de/images/*/*/*/*.gif
-||nw.de/_emc-daten/*/*/*.gif
-||pferde.de/image/*/*/*/*.gif
-||pixelio.de/image/*/*/*/*.gif
-||psychic.de/images/*/*/*/*.gif
-||spielen.de/images/*/*/*/*.gif
-||tvinfo.de/images/*/*/*/*.gif
-||unicum.de/images/*/*/*/*.gif
-||weristdeinfreund.de/images/*/*/*/*.gif
-||weser-kurier.de/images/*/*/*/*.gif
-||wetteronline.de/image/*/*/*/*.gif
-||win-10-forum.de/images/*/*/*.gif
+||iban-rechner.de/*.gif
+||infranken.de/*/*/*/*/*.gif
+||juraforum.de/*.gif
+||liga3-online.de/*.gif
+||moviejones.de/*.gif
+||mt.de/*.gif
+||news.de/*.gif
+||nickles.de/imagez/*/*/*/*.gif
+||nw.de/*.gif
+||pferde.de/*.gif
+||pixelio.de/*.gif
+||psychic.de/*.gif
+||spielen.de/*.gif
+||tvinfo.de/*.gif
+||unicum.de/*gif
+||weristdeinfreund.de/*.gif
+||weser-kurier.de/*.gif
+||win-10-forum.de/*.gif
+||wize.life/*.gif
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block_popup.txt ***
 .gif|$popup,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
 ^utm_campaign^$popup,domain=jappy.de
@@ -10857,4 +10897,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: J7gCr4fuwIRznvWhZ62YMA
+! Checksum: L94r3/tYIkDMHfXo35eIdg
