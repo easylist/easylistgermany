@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701171721
+! Version: 201701172311
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 Jan 2017 17:21 UTC
+! Last modified: 17 Jan 2017 23:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3952,9 +3952,11 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||aachener-nachrichten.de/zva/polopoly/kino/loading.gif
 @@||autozeitung.de/misc/ajax-loader-alt.gif$domain=autozeitung.de
 @@||autozeitung.de/sites/all/modules/$image,domain=autozeitung.de
-@@||autozeitung.de/sites/all/themes$image,domain=autozeitung.de
 @@||autozeitung.de/sites/default/files/images$image,domain=autozeitung.de
 @@||bikerszene.de/app/i/*.gif
+@@||cdn.psychic.de/images/fblogin.gif
+@@||cdn.psychic.de/images/head_back.gif
+@@||cdn.psychic.de/images/pfeilbg.gif
 @@||e-hausaufgaben.de/images/*.gif
 @@||e-hausaufgaben.de/images_public/transp.gif
 @@||finya.de/img/loader3.gif
@@ -3966,14 +3968,9 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/teaser/$image,domain=autozeitung.de
-@@||frag-mutti.de/html/avatars/*.gif
 @@||frag-mutti.de/images/field-divider.gif.pagespeed.ce.d-9_0WrMIF.gif
 @@||frag-mutti.de/images/xnoavatar_light.gif.pagespeed.ic.IgtaDz0d2A.png
-@@||gevestor.de/img/logo.svg
-@@||gevestor.de/img/logo_footer.png$domain=gevestor.de
 @@||gevestor.de/img/sprite_new.png$domain=gevestor.de
-@@||gevestor.de/wp-content/themes/ape/public/img/$image,domain=gevestor.de
-@@||gevestor.de/wp-content/uploads$image,domain=gevestor.de
 @@||haz.de/design/standard/images/1x1.gif
 @@||haz.de/extension/moldesign/design/moldesign/images/clearpixel.gif
 @@||haz.de/extension/pd2011/design/haz/images/topicloader.gif
@@ -3985,11 +3982,12 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||infranken.de/templates/img/facelift/zeitungstitel.gif
 @@||infranken.de/templates/img/icons/icon_epaper_neu.gif
 @@||infranken.de/templates/img/link.gif
-@@||juraforum.de/bilder$image
 @@||ln-online.de/design/standard/images/1x1.gif
 @@||ln-online.de/extension/pd2011/design/ln/images/topicloader.gif
+@@||lvz.de/design/standard/images/1x1.gif
 @@||lvz.de/extension/pd2011/design/lvz/images/topicloader.gif
 @@||lvz.de/var/storage/images/lvz/specials/links2/extra2-links/angestupst/333087494-1-ger-DE/Angestupst_pdaExtra.gif
+@@||lvz.de/var/storage/images/lvz/specials/links2/extra2-links/schlingel-familienmagazin/204800228-4-ger-DE/Schlingel-Familienmagazin_pdaExtra.gif
 @@||lvz.de/var/storage/images/lvz/specials/links2/extra2-links/zeitung-in-schulen/333088814-1-ger-DE/Zeitung-in-Schulen_pdaExtra.gif
 @@||lvz.de/var/storage/images/lvz/sport/rb-leipzig/imagelinks-fuer-klicktipps/partner-gruber-nutzfahrzeuge/204991394-8-ger-DE/Partner-Gruber-Nutzfahrzeuge_pdaExtra.gif
 @@||lvz.de/var/storage/images/lvz/sport/rb-leipzig/imagelinks-fuer-klicktipps/partner-sporthaus-am-ring/374374709-8-ger-DE/Partner-Sporthaus-am-Ring_pdaExtra.gif
@@ -3999,8 +3997,8 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||moviejones.de/bilder/avatare/8831_163521.gif
 @@||moviejones.de/bilder/icons/dreieck_top.gif
 @@||news.de/module/newsfrontend/img/ajax-loader.gif
+@@||news.de/module/newsfrontend/img/ajax-loader16x16.gif
 @@||news.de/module/newsfrontend/img/forw.gif
-@@||nw.de/_em_daten/nw/assets/img/*.gif
 @@||nw.de/_em_daten/nw/assets/img/1062x450.gif
 @@||nw.de/_em_daten/nw/assets/img/128x77.gif
 @@||nw.de/_em_daten/nw/assets/img/318x180.gif
@@ -4011,16 +4009,13 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||nw.de/_em_daten/nw/assets/img/logo.gif
 @@||nw.de/_em_daten/nw/assets/img/logo_sticky.gif
 @@||pferde.de/app/images/*.gif
-@@||praemien.gevestor.de/bilder/$domain=gevestor.de
 @@||psychic.de/wp-content/plugins/wp-postratings/images/loading.gif
 @@||psychic.de/wp-content/plugins/wp-postratings/images/stars_crystal/rating_over.gif
 @@||spielen.de/bundles/mediatrustfrontend/images/blank.gif
-@@||spielen.de/cache/uploads/image/*/*.gif
 @@||unicum.de/sites/all/modules/*.gif
 @@||unicum.de/sites/all/themes/*.gif
 @@||weristdeinfreund.de/widf_handlers/tinymce/js/tinymce/plugins/emoticons/*.gif
 @@||weristdeinfreund.de/widf_images/emotes/aktuell/*.gif
-@@||weristdeinfreund.de/widf_images/icons/*.gif
 @@||weristdeinfreund.de/widf_images/warten.gif
 @@||weser-kurier.de/pu_wkd2014/images/bg_dualtone_line.gif
 @@||weser-kurier.de/pu_wkd2014/images/comment-box-top_398.gif
@@ -4029,19 +4024,27 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||weser-kurier.de/pu_wkd2014/images/premium/sprites_print_v2.gif
 @@||weser-kurier.de/pu_wkd2014/images/wetter/ico_regenschirm.gif
 @@||weser-kurier.de/REST*.gif
-@@||win-10-forum.de/avatars/*.gif
 @@||win-10-forum.de/images/w10/default_avatar.gif
 @@||win-10-forum.de/images/w10/misc/lightbox_progress.gif
 @@||win-10-forum.de/images/w10/misc/progress.gif
 @@||win-10-forum.de/images/w10/misc/progress2.gif
 @@||win-10-forum.de/images/w10/misc/unknown.gif
 @@||wize.life/img/layout/*.gif
+bikerszene.de###skyscraper
 frustfrei-lernen.de##div[style="height: 310px"]
+win-10-forum.de##.above_header
 |http://www.moviejones.de/bilder/*/*/*/*.gif
 ||aachener-nachrichten.de/*.gif
+||aachener-nachrichten.de/*_*_*-*.jpg
+||aachener-nachrichten.de/*_*_*.jpg
 ||bikerszene.de/*.gif
+||bikerszene.de/*_*-*-*.jpg
 ||deine-tierwelt.de/*.gif
 ||deine-tierwelt.de/image/*-*_-*-*.jpg
+||deine-tierwelt.de/image/*_*.jpg
+||donnerwetter.de/*-*_*.jpg
+||donnerwetter.de/image/*-*_*-*.jpg
+||donnerwetter.de/image/*-*_*_*-*.jpg
 ||donnerwetter.de/image/*-*_-*-*-*.jpg
 ||e-hausaufgaben.de/*.gif
 ||epochtimes.de/*.gif
@@ -4061,17 +4064,25 @@ frustfrei-lernen.de##div[style="height: 310px"]
 ||ln-online.de/*.gif
 ||lvz.de/*.gif
 ||motorsport-total.com/*/*/*/*.gif
+||moviejones.de/bilder/*/*/*.gif
 ||mt.de/*.gif
 ||news.de/*.gif
+||news.de/image/*_*.jpg
 ||nickles.de/image/*/*/*/*.gif
+||nickles.de/images/*/*/*/*.gif
 ||nickles.de/imagez/*/*/*/*.gif
 ||nw.de/*.gif
 ||pferde.de/*.gif
+||pferde.de/*_*-*-*.jpg
 ||pferde.de/imags/*.gif
+||pixelio.de/resources/*/*/*.gif
 ||pixelio.de/resources/*/*/*/*.gif
 ||psychic.de/*.gif
 ||spielen.de/*.gif
+||st.wetteronline.de/*.gif
 ||tvinfo.de/*.gif
+||tvinfo.de/*_*_*-*.jpg
+||tvinfo.de/image/*_*.jpg
 ||unicum.de/*gif
 ||weristdeinfreund.de/*.gif
 ||weser-kurier.de/*.gif
@@ -10976,4 +10987,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: fJVkfipXmSbMSz4jkAZyyw
+! Checksum: k00P9FJfRu79tcfTFrgk2Q
