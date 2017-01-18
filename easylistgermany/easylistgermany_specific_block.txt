@@ -2361,7 +2361,7 @@ win-10-forum.de##.above_header
 |http://www.moviejones.de/bilder/*/*/*/*.gif
 ||aachener-nachrichten.de/*.gif
 ||aachener-nachrichten.de/*_*_*-*.jpg
-||aachener-nachrichten.de/*_*_*.jpg
+||aachener-nachrichten.de/zva/an/image^$image
 ||bikerszene.de/*.gif
 ||bikerszene.de/*_*-*-*.jpg
 ||deine-tierwelt.de/*.gif
