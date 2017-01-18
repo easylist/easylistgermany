@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701180812
+! Version: 201701181810
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 Jan 2017 08:12 UTC
+! Last modified: 18 Jan 2017 18:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4036,7 +4036,7 @@ win-10-forum.de##.above_header
 |http://www.moviejones.de/bilder/*/*/*/*.gif
 ||aachener-nachrichten.de/*.gif
 ||aachener-nachrichten.de/*_*_*-*.jpg
-||aachener-nachrichten.de/*_*_*.jpg
+||aachener-nachrichten.de/zva/an/image^$image
 ||bikerszene.de/*.gif
 ||bikerszene.de/*_*-*-*.jpg
 ||deine-tierwelt.de/*.gif
@@ -11007,4 +11007,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 0aamEBphIi+lFYQiI5ouag
+! Checksum: gef9xZCr0zCifzlVoHq00w
