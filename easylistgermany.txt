@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701181935
+! Version: 201701190726
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 Jan 2017 19:35 UTC
+! Last modified: 19 Jan 2017 07:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8557,6 +8557,7 @@ buffed.de##[-abp-properties='/left: 1[0-8][0-9][0-9]|19[0-8][0-9]|199[0-9]px;/']
 the-voice-of-germany.de##[-abp-properties='/left: 1[0-9][0-9]|2[0-4][0-9]|250px;/']
 mehr-tanken.de##[-abp-properties='/left: 1[0-9]{3}|2000px;/']
 the-voice-of-germany.de##[-abp-properties='/left: 1[5-8][0-9]|19[0-9]|2[0-4][0-9]|250px;/'] > * > img
+onvista.de##[-abp-properties='/left: 2[0-8][0-9]|29[0-9]px;/'] > img
 pnn.de##[-abp-properties='/left: 6[0-8][0-9]|69[0-9]px;/']
 lustaufsleben.at,ran.de,tv-media.at,yachtrevue.at##[-abp-properties='/left: 7[0-8][0-9]|79[0-9]px;/']
 9monate.de,general-anzeiger-bonn.de,gusto.at,lifeline.de,lustaufsleben.at,news.at,profil.at,trend.at,tv-media.at,woman.at,womenshealth.de,yachtrevue.at##[-abp-properties='/left: 8[0-8][0-9]|89[0-9]px;/']
@@ -9363,6 +9364,7 @@ promobil.de##[-abp-properties='margin-bottom: 18*px;']
 testedich.de##[-abp-properties='margin-bottom: 18.*px;'] > img
 testedich.de##[-abp-properties='margin-bottom: 18.1px;'] > img
 pnn.de##[-abp-properties='margin-bottom: 18px; margin-top: 18px;'] > img
+onvista.de##[-abp-properties='margin-bottom: 19*px;'] > img
 promobil.de##[-abp-properties='margin-bottom: 19.*px;']
 testedich.de##[-abp-properties='margin-bottom: 19.*px;'] > img
 wetter.com##[-abp-properties='margin-bottom: 2.1em; margin-left: 22*px;']
@@ -11054,4 +11056,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: TZHfzRkKmWdCaG/7Z4U5FA
+! Checksum: 2C3vZm0WkzgHYtG7Rgm/mw
