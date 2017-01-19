@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701190726
+! Version: 201701191706
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 19 Jan 2017 07:26 UTC
+! Last modified: 19 Jan 2017 17:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10435,6 +10435,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||2mdn.net^*/flash_inpage_rendering_lib_$script,domain=cnet.de
 @@||2mdn.net^*/plcr_$script,domain=cnet.de
 @@||360yield.com/adj?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
+@@||6inserate.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||71iv.nuggad.net/crossdomain.xml$object-subrequest
 @@||ab-in-den-urlaub.de^*.popunder.js
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
@@ -10596,6 +10597,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||feuerwehr-marchtrenk.at/homepage/banner.php$subdocument
 @@||fewo-direkt.de^*/advertiser.css
 @@||fh-muenster.de/leitbild/banner.php
+@@||figgä.ch/sites/default/files/ms_ads/banner$domain=ameliatantra.jimdo.com
 @@||filecrypt.cc/index.php?Action=Go&id=$subdocument,domain=filecrypt.cc
 @@||firebaseapp.com^$script,domain=freenet.de
 @@||fn-neon.de/javascript/adserver_banner.js
@@ -10635,6 +10637,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||gymnasium-august-dicke.de^*/ads/
 @@||gynny.de/img/affilinet/
 @@||gynny.de/shopframe/$document,subdocument
+@@||happybox24.ch/img/media/happybox24.ch_$image,domain=ameliatantra.jimdo.com
 @@||horizont.net/news/media/$image,domain=horizont.net
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
 @@||idowa.de^*/advertisement/$xmlhttprequest
@@ -10686,6 +10689,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
 @@||msi-computer.de/js/topad/topad.css
 @@||mstat.freent.de^*/sms_advertising/sms_teaser_$image,domain=webmail.freenet.de
+@@||mybitch.ch/banner/mb_banner$image,domain=ameliatantra.jimdo.com
 @@||myfreefarm.de/city/ajax/buyad.php?
 @@||n-tv.de/ads/comdirect/$object-subrequest,domain=comdirect.de
 @@||n-tv.de/ads/images/kompakt_$image
@@ -10699,6 +10703,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||nuggad.net/bk?nuggn=$object-subrequest,domain=clipfish.de|edge.download.newmedia.nacamar.net
 @@||nuggad.net/bk?nuggn=$script,domain=podcast.de
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|schwaebische.de|sky.de|studis-online.de|vox.de
+@@||nutte.ch/banner_fuer_werbung/nutte_$image,domain=ameliatantra.jimdo.com
 @@||oeko-komp.de/evoAds2/
 @@||openx.musotalk.de/crossdomain.xml
 @@||openx.musotalk.de/www/delivery/fc.php?script=bannertypehtml:vastinlinebannertypehtml:vastinlinehtml&$object-subrequest
@@ -10748,6 +10753,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||saugking.net/css/ads.css
 @@||save.tv/stv/img/global/trailer20sec.swf?
 @@||schluetersche.de/adwords/$~third-party
+@@||searchx.ch/img/Banner_$image,domain=ameliatantra.jimdo.com
 @@||secserv.adtech.de/adiframe/3.0/1135/5281906/0/3055/ADTECH;target=_blank$document,subdocument,domain=nzz.at
 @@||secserv.adtech.de/adiframe/3.0/1135/5281908/0/170/ADTECH;target=_blank$document,subdocument,domain=nzz.at
 @@||secserv.adtech.de/adiframe/3.0/1135/5787749/0/2466/ADTECH;target=_blank$document,subdocument,domain=nzz.at
@@ -10759,6 +10765,9 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=cnet.de
 @@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||serving-sys.com/BurstingRes//Site-*/Type-*/$script,domain=cnet.de
+@@||sexabc.ch/xxx/topliste/img/sexabc_topliste$image,domain=ameliatantra.jimdo.com
+@@||sexkontaktinserate.com/images/banner/$image,domain=ameliatantra.jimdo.com
+@@||sexlink.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||showfusion.eu/xml/ads/ad_1.xml$object-subrequest,domain=urbia.de
 @@||shz.de/sso/$elemhide
 @@||smart.allocine.fr/a/diff/*/show*.asp?$object-subrequest,domain=ufa-dresden.de
@@ -11056,4 +11065,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 2C3vZm0WkzgHYtG7Rgm/mw
+! Checksum: OtP1EVU255mQ1a4pq/wDcw
