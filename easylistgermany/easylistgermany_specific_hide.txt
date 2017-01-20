@@ -6064,7 +6064,6 @@ lifeline.de##div > div:first-child > span > img
 9monate.de##div > span > span > img
 www.4players.de##div:first-child + div + div + div + div > div > img
 www.4players.de##div:first-child + div + div > div > img
-www.4players.de##div:first-child + div > a > img
 www.4players.de##div:first-child + div > div > img
 donnerwetter.de##div[id^="plista_widget_"] [-abp-properties='max-width: 199px;']
 gamona.de##footer > div img
