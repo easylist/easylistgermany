@@ -768,6 +768,7 @@ okitalk.com###promo_page
 okitalk.com###promo_right
 stuttgarter-zeitung.de###promoblock_1
 gameswelt.at,gameswelt.ch,gameswelt.de###pslink
+psychic.de###psychictable > table[width="100%"][border="0"] > tbody > tr > td:first-child + td[width="167"][valign="top"]:last-child
 fussballtransfers.com###pub-200x197
 fussballtransfers.com###pub-300x250
 fussballtransfers.com###pub-468x60
@@ -1172,7 +1173,7 @@ magistrix.de,wuv.de##.adblock
 1jux.net##.adblock-rect
 derwesten.de,falstaff.at,falstaff.de,sueddeutsche.de,wetter.com##.adbox
 dasoertliche.de##.adcontainer
-paradisi.de##.adcontent
+paradisi.de,psychic.de##.adcontent
 paradisi.de##.adcontenttext
 derhandel.de##.add
 pressebox.de##.add-left
@@ -3148,6 +3149,7 @@ n-tv.de##div[style="margin: 0 5px; width:290px; height:100px; background-image:u
 netzwelt.de##div[style="margin: 0px; padding: 0px 0px 0px 426px; border: 0px none; display: table-cell; width: 50%; text-align: left; vertical-align: top; cursor: pointer; visibility: visible;"]
 netzwelt.de##div[style="margin: 0px; padding: 0px; border: 0px none; display: table-cell; width: 50%; text-align: left; vertical-align: top; cursor: pointer; visibility: visible;"]
 flirttown.net##div[style="margin:auto; width:300px; height:250px; margin-bottom:10px; border: 1px solid #cdbe8f"]
+psychic.de##div[style="max-width: 860px; max-height: 250px; margin: auto;"]
 inside-handy.de##div[style="min-height: 250px; min-width: 300px; padding-left: 5px;"]
 inside-digital.de,inside-handy.de##div[style="min-width: 920px; min-height: 90px"]
 tvinfo.de##div[style="overflow:hidden;margin:0;padding:0;height:125px;width:395px"]
@@ -3216,10 +3218,12 @@ gamestar.de##div[style="width:100%;background: url(/img/aktionen/sponsorbar_bg.p
 gamestar.de##div[style="width:100%;background: url(/img/sb_bg.png) repeat-x;"]
 open-report.de##div[style="width:100%;height:90px;text-align:center;background-color:#FFFFFF;"]
 wohnmobilforum.de##div[style="width:120px; height:1720px; overflow:hidden; background-color:#eeeeee"]
+psychic.de##div[style="width:120px;height:600px;"]
 beliebtestewebseite.de##div[style="width:120px;height:600px;border:1px solid gray;"]
 free.mysmspage.de##div[style="width:148px; font-family:Arial; font-size:12px;padding:2px"]
 suedostschweiz.ch##div[style="width:160px; height:650px; overflow:hidden;"]
 meintomtom.de##div[style="width:160px;height:100px;padding:6px;margin:0 0 18px 0;border: solid #b4c39a;background:#f9fcf1 none;border-width: 1px;"]
+psychic.de##div[style="width:160px;height:600px;"]
 ht4u.net##div[style="width:160px;height:600px;float:left;margin-left:-165px;background-color:silver;top:0px;position:absolute;"]
 winfuture.de##div[style="width:160px;height:600px;position:absolute;top:-90px;left:1000px"]
 pressakey.com##div[style="width:260px;height:310px;background-image:url(gfximg/rnavi_w3.jpg);"]
@@ -3248,6 +3252,7 @@ azonline.de,mv-online.de,westfaelische-nachrichten.de##div[style="width:820px; h
 hitradio-rtl.de##div[style="width:822px; height:90px; margin:auto"]
 techno4ever.fm##div[style="width:904px; margin-left: auto; margin-right: auto; text-align: right"]
 free-klingeltoene-handy.de##div[style="width:950px; border: 1px solid #FFFFFF; padding:0 0 8px 8px; background: #FFFEEF; float: left; text-align: left;"]
+psychic.de##div[style="width:970px;height:250px;margin-bottom:15px;"]
 hitparade.ch##div[style="width:970px;margin-bottom:10px;height:90px;"]
 mikrocontroller.net##div[style] > script + div[id^="a"][style] > div[style]
 gamestar.de##div[style^="background-image:url(/img/gamestar/products/banner_mcgame.png)"]
