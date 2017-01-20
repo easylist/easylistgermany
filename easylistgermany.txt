@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701201905
+! Version: 201701201907
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 20 Jan 2017 19:05 UTC
+! Last modified: 20 Jan 2017 19:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7313,6 +7313,7 @@ gamers.at##div[id^="clickTagDIVElement_"] > a
 prad.de##div[id^="content-"] > a[target="_blank"] > img
 bild.de##div[id^="content_stoerer_"]
 mafia.to##div[id^="cpa_rotator_"]
+gulli.com##div[id^="crt-"]
 downloadstube.net##div[id^="ddl_"] + div[id] + a[onclick] + br + a[onclick]
 pnp.de##div[id^="diganz"]
 abnehmen-forum.com##div[id^="edit"] > .vbseo_like_postbit + table[width="100%"][bgcolor="#FFFFFF"]
@@ -11137,4 +11138,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: JvNgbmmdUKsuDeEbxfI5Kg
+! Checksum: fmHJMgYOb7yWKRUSpDFSGw
