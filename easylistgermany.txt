@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701201907
+! Version: 201701202012
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 20 Jan 2017 19:07 UTC
+! Last modified: 20 Jan 2017 20:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1875,6 +1875,7 @@ $websocket,domain=animes-stream24.net
 ||bildschirmarbeiter.com/images/poster/
 ||bildwl.mobile.de^
 ||bio-markt.info/biomarkt/easyCMS/FileManager/Banner/
+||biomagazin.de/files/bio-magazin/content/anzeigen/
 ||bizipic.de/images/gbcodes200.jpg
 ||bizipic.de/images/gross.png
 ||blackbeats.fm/defshopbanner.swf
@@ -4341,7 +4342,7 @@ windows-7-forum.net##[style="z-index: 1000;"]
 finanzen.net###Ads_BA_CAD_box + .content_box
 fussbodenbau-forum.com###Advertisment
 onmeda.de###BANNER_AUSSEN
-clubtime.fm,coretime.fm,hardbase.fm,housetime.fm,technobase.fm,trancebase.fm###Banner
+biomagazin.de,clubtime.fm,coretime.fm,hardbase.fm,housetime.fm,technobase.fm,trancebase.fm###Banner
 triathlon-szene.de,x-athlon.de###BannerOben
 triathlon-szene.de,x-athlon.de###BannerRechts
 fcbayern.telekom.de###BannerSkyscraper
@@ -11138,4 +11139,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: fmHJMgYOb7yWKRUSpDFSGw
+! Checksum: kW5Gt6qMYH0fYsshlzzB1A
