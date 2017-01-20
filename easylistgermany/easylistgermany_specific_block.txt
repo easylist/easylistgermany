@@ -2359,27 +2359,39 @@ aachener-nachrichten.de##img[style="width: 160px; height: 600px; max-width: 160p
 aachener-nachrichten.de##img[style="width: 300px; height: 600px; max-width: 300px; max-height: 600px;"]
 abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 abi.unicum.de###block-views-werbeplatz-skyscraper-block
+abi.unicum.de##.monatsthema-boxen
+abi.unicum.de##.region.region-head-banner
+abi.unicum.de##.region.region-skyscraper
+bauexpertenforum.de##[style="z-index: 1000;"]
 bauexpertenforum.de,usp-forum.de,winboard.org##.above_header
 bikerszene.de###skyscraper
+bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.1px;"]
 bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10px;"]
 deine-tierwelt.de##.row.hidden-xs.hidden-sm.external-content-container
 donnerwetter.de##.block.prepend-top
 donnerwetter.de##[style="position: absolute; margin-left: 310.1px;"]
+donnerwetter.de##[style="position: absolute; margin-left: 310.2px;"]
 donnerwetter.de##[style="position: absolute; margin-left: 310px;"]
 donnerwetter.de##center
 donnerwetter.de##img[style="width: 160px; max-width: 160.1px;"]
 donnerwetter.de##img[style="width: 160px; max-width: 160.2px;"]
 donnerwetter.de##img[style="width: 300px; max-width: 300.1px;"]
+donnerwetter.de##table[align="right"]
+formel1.de##[style="margin-top: 20px;"]
 frag-mutti.de###right-ad
 frag-mutti.de##[style="width: 300.1px; right: -140px;"]
+frag-mutti.de##[style="width: 300.2px; right: -140px;"]
+frustfrei-lernen.de##.dropdown.sidebarArea
 frustfrei-lernen.de##div[style="height: 310px"]
 frustfrei-lernen.de##div[style="height: 320px"]
 frustfrei-lernen.de##div[style="height: 735px"]
 gevestor.de##div[style="position: relative; width: 1020.1px; margin: 0px auto;"]
 iban.de##.ibanafar2
 moviejones.de##img[style="max-width: 160.1px;"]
+moviejones.de##img[style="max-width: 160.2px;"]
 moviejones.de##img[style="max-width: 160px;"]
 news.de##[style="top: *px;"]
+pferde.de##[style="margin-left: 1050.1px;"]
 pferde.de##[style="margin-left: 1050px;"]
 skodacommunity.de,windows-7-forum.net###oc24_container_top
 skodacommunity.de,windows-7-forum.net##.section.funbox
@@ -2388,22 +2400,28 @@ tvinfo.de###infoTop
 unicum.de###block-views-werbeplatz-top-banner-block
 unicum.de##img[style="width: 160px; height: 600px; max-width: 160px; max-height: 600px;"]
 unicum.de##img[style="width: 800px; height: 600px; max-width: 800px; max-height: 600px;"]
+usp-forum.de##[style="z-index: 1000;"]
 wetteronline.de##[style="top: -252px; left: 0px; position: absolute;"]
 win-10-forum.de##.above_header
+winboard.org##[style="z-index: 1000;"]
 winboard.org##li[style="margin-bottom: 15px;"]
+windows-7-forum.net##[style="z-index: 1000;"]
 |http://www.moviejones.de/bilder/*/*/*/*.gif
 ||aachener-nachrichten.de/*.gif
 ||aachener-nachrichten.de/*_*_*-*.jpg
 ||aachener-nachrichten.de/zva/an/imag/*.jpg
 ||aachener-nachrichten.de/zva/an/image^$image
+||aachener-nachrichten.de/zva/an/img/*-*.jpg
 ||abi.unicum.de/image/*-*_*.jpg$domain=~unicum.de
 ||bauexpertenforum.de/image/*.gif
 ||bauexpertenforum.de/images/*.gif
+||bauexpertenforum.de/imgs/*.gif
 ||bikerszene.de/*.gif
 ||bikerszene.de/*_*-*-*.jpg
 ||bikerszene.de/image/*-*-*-*-*.jpg
 ||bikerszene.de/image/*-*-*.jpg
 ||bikerszene.de/images/*.jpg
+||bikerszene.de/imgs/*.jpg
 ||browsergames.spielen.de/images/static/*-*-*-*_*_*-*.jpg
 ||browsergames.spielen.de/images/static/*-*-*-*_*_*.jpg
 ||deine-tierwelt.de/*.gif
@@ -2412,6 +2430,7 @@ winboard.org##li[style="margin-bottom: 15px;"]
 ||deine-tierwelt.de/imags/*-*_*_*_*.jpg
 ||deine-tierwelt.de/imagz/*-*-*-*_*-*_*_*_*.jpg
 ||deine-tierwelt.de/imagz/*-*-*-*_*_*_*.jpg
+||deine-tierwelt.de/imagz/*_*.jpg
 ||donnerwetter.de/*-*_*.jpg
 ||donnerwetter.de/image/*-*-*-*-*-*.jpg
 ||donnerwetter.de/image/*-*-*-*-*.jpg
@@ -2420,6 +2439,7 @@ winboard.org##li[style="margin-bottom: 15px;"]
 ||donnerwetter.de/image/*-*_*-*.jpg
 ||donnerwetter.de/image/*-*_*_*-*.jpg
 ||donnerwetter.de/image/*-*_-*-*-*.jpg
+||donnerwetter.de/image/*_*.jpg
 ||donnerwetter.de/image/*_*_*_*_*_*_*_*_*.jpg
 ||e-hausaufgaben.de/*.gif
 ||epochtimes.de/*.gif
@@ -2431,11 +2451,14 @@ winboard.org##li[style="margin-bottom: 15px;"]
 ||finya.de/*.gif
 ||formel1.de/public/*/*/*/*.gif
 ||formel1.de/public/img/*-*-*-*_*_*-*-*.jpg
+||formel1.de/public/img/*-*.jpg
 ||frag-mutti.de/*.gif
 ||frag-mutti.de/html/avatars/*-*-*-*_*_*-*-*.jpg
 ||frag-mutti.de/html/avatars/*-*-*-*_*_*-*.jpg
+||frag-mutti.de/html/avatars/*-*_*.jpg
 ||fremdwort.de/*.gif
 ||frustfrei-lernen.de/*.gif
+||frustfrei-lernen.de/image/*-*.jpg
 ||frustfrei-lernen.de/image/*-*_*_*.jpg
 ||frustfrei-lernen.de/images/*-*-*-*_*_*-*_*.jpg
 ||frustfrei-lernen.de/images/*.jpg
@@ -2443,9 +2466,11 @@ winboard.org##li[style="margin-bottom: 15px;"]
 ||gevestor.de/image/*-*_*.jpg
 ||gevestor.de/image/*-*_*_*.jpg
 ||gevestor.de/images/publ/*-*-*-*_*_*-*-*_*.jpg
+||gevestor.de/images/publ/*-*.jpg
 ||haz.de/*.gif
 ||iban-rechner.de/*.gif
 ||iban-rechner.de/image/*-*-*-*_*_*-*-*-*.jpg
+||iban-rechner.de/image/*-*_*.jpg
 ||infranken.de/*-*-*_*.jpg
 ||infranken.de/*.gif
 ||infranken.de/*/*/*/*/*.gif
@@ -2461,18 +2486,22 @@ winboard.org##li[style="margin-bottom: 15px;"]
 ||lvz.de/*.gif
 ||motorsport-total.com/*/*/*/*.gif
 ||motorsport-total.com/i/*-*-*-*_*-*_*.jpg
+||motorsport-total.com/i/*-*.jpg
 ||moviejones.de/bilder/*/*/*.gif
 ||moviejones.de/image/*.gif
 ||moviejones.de/images/*-*-*-*_*-*-*-*_*.jpg
+||moviejones.de/images/*-*_*.jpg
 ||mt.de/*.gif
 ||news.de/*.gif
 ||news.de/image/*_*.jpg
 ||news.de/images/*.jpg
+||news.de/img/*-*.jpg
 ||news.de/imgs/
 ||nickles.de/image/*/*/*/*.gif
 ||nickles.de/images/*/*/*/*.gif
 ||nickles.de/imagez/*/*/*/*.gif
 ||nickles.de/imags/static/*.gif
+||nickles.de/img/static/D/*.gif
 ||nickles.de/imgs/static/*.gif
 ||nw.de/*.gif
 ||pferde.de/image/*-*-*-*-*.jpg
@@ -2480,15 +2509,18 @@ winboard.org##li[style="margin-bottom: 15px;"]
 ||pferde.de/imags/*.gif
 ||pferde.de/imgs/*-*-*-*-*-*-*-*-*.jpg
 ||pferde.de/imgs/*-*-*-*-*-*-*-*.jpg
+||pferde.de/imgs/*.jpg
 ||pixelio.de/image/public/*.gif
 ||pixelio.de/images/public/*/*.gif
+||pixelio.de/imgs/public/*.gif
 ||pixelio.de/resources/*/*/*.gif
 ||pixelio.de/resources/*/*/*/*.gif
-||psychic.de/*.gif
 ||skodacommunity.de/image/*.gif
 ||skodacommunity.de/images/*.gif
+||skodacommunity.de/imgs/*.gif
 ||spielen.de/*.gif
 ||spielen.de/image/*-*_*_*.jpg
+||spielen.de/images/static/*.jpg
 ||st.wetteronline.de/*.gif
 ||tvinfo.de/*.gif
 ||tvinfo.de/*_*_*-*.jpg
@@ -2496,10 +2528,13 @@ winboard.org##li[style="margin-bottom: 15px;"]
 ||tvinfo.de/image/*_*.jpg
 ||tvinfo.de/images/*-*-*-*-*-*-*-*-*-*.jpg
 ||tvinfo.de/images/*-*-*-*-*-*-*-*-*.jpg
+||tvinfo.de/images/*-*.jpg
 ||unicum.de/*gif
 ||unicum.de/image/*-*_*_*.jpg
+||unicum.de/images/*-*.jpg
 ||usp-forum.de/image/*.gif
 ||usp-forum.de/images/*.gif
+||usp-forum.de/imgs/*.gif
 ||weristdeinfreund.de/*.gif
 ||weser-kurier.de/*.gif
 ||wetteronline.de/image/*-*_*_*.jpg
@@ -2508,6 +2543,8 @@ winboard.org##li[style="margin-bottom: 15px;"]
 ||win-10-forum.de/*.gif
 ||winboard.org/image/U/*.gif
 ||winboard.org/images/*.gif
+||winboard.org/imgs/*.gif
 ||windows-7-forum.net/image/*.gif
 ||windows-7-forum.net/images/*.gif
+||windows-7-forum.net/imgs/U/*.gif
 ||wize.life/*.gif
