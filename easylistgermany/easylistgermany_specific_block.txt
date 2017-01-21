@@ -2196,6 +2196,7 @@ $websocket,domain=animes-stream24.net
 @@||sat1.de^$genericblock,generichide
 @@||sixx.de^$genericblock,generichide
 @@||smartadserver.com/ac?nwid=$script,domain=autobild.de|transfermarkt.de
+@@||smartadserver.com/diff/251/divscripte/$subdocument,domain=transfermarkt.de
 @@||smartadserver.com/diff/251/partners/amazon.js$domain=autobild.de|transfermarkt.de
 @@||smartadserver.com/diff/251/verify.js$domain=transfermarkt.de
 @@||spiegel.de^$genericblock,generichide

@@ -3607,7 +3607,6 @@ ddl-warez.in##tr[style="background:#D0F5A9"]
 radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
-focus.de###clickyBG_FP
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 boote-forum.de,comunio.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
