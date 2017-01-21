@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701211746
+! Version: 201701211809
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Jan 2017 17:46 UTC
+! Last modified: 21 Jan 2017 18:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3876,6 +3876,7 @@ $websocket,domain=animes-stream24.net
 @@||sat1.de^$genericblock,generichide
 @@||sixx.de^$genericblock,generichide
 @@||smartadserver.com/ac?nwid=$script,domain=autobild.de|transfermarkt.de
+@@||smartadserver.com/diff/251/divscripte/$subdocument,domain=transfermarkt.de
 @@||smartadserver.com/diff/251/partners/amazon.js$domain=autobild.de|transfermarkt.de
 @@||smartadserver.com/diff/251/verify.js$domain=transfermarkt.de
 @@||spiegel.de^$genericblock,generichide
@@ -7952,7 +7953,6 @@ ddl-warez.in##tr[style="background:#D0F5A9"]
 radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
-focus.de###clickyBG_FP
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 boote-forum.de,comunio.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
@@ -11147,4 +11147,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: e5TU39iKPZO7aQZskk8zHA
+! Checksum: yOAsKYZvfm1hd3udG00zVQ
