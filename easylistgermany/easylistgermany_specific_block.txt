@@ -2155,6 +2155,7 @@ $websocket,domain=animes-stream24.net
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|stern.de
 /PLISTA_FLYAD.js$domain=stern.de
 ://ads.$domain=spiegel.de
+@@||ad.71i.de/global_js/AdScripts/$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||adition.com/s?$script,domain=spiegel.de
 @@||autobild.de^$genericblock,generichide
 @@||bento.de^$generichide
@@ -2178,6 +2179,7 @@ $websocket,domain=animes-stream24.net
 @@||g.doubleclick.net/static/glade/extra_$script,domain=autobild.de
 @@||gala.de/gujAd/gujAd.js$domain=gala.de
 @@||gala.de^$genericblock,generichide
+@@||googlesyndication.com/pagead/$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$domain=transfermarkt.de
 @@||imagesrv.adition.com/banners/1337/files/00/0b/bf/a*/00000076995*.jpg$domain=spiegel.de
 @@||imagesrv.adition.com/js/srp.js$domain=spiegel.de|transfermarkt.de
@@ -2185,6 +2187,7 @@ $websocket,domain=animes-stream24.net
 @@||moatads.com^*/moatad.js$domain=transfermarkt.de
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=transfermarkt.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de
+@@||pagead2.googlesyndication.com/pagead/osd.js$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
 @@||prosieben.de^$genericblock,generichide
 @@||prosiebenmaxx.de^$genericblock,generichide
@@ -2240,9 +2243,9 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||googleadservices.com^$domain=stern.de|tellows.de
 ||googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
 ||googlesyndication.com/pagead$domain=g.doubleclick.net
-||googlesyndication.com/pagead/$domain=g.doubleclick.net|googlesyndication.com
+||googlesyndication.com/pagead/$domain=g.doubleclick.net|googlesyndication.com|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||googlesyndication.com/sadbundle/$domain=g.doubleclick.net
-||googlesyndication.com/safeframe/$domain=g.doubleclick.net|gala.de|googlesyndication.com|spiegel.de|tellows.de
+||googlesyndication.com/safeframe/$domain=g.doubleclick.net|gala.de|googlesyndication.com|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|tellows.de
 ||googlesyndication.com/safeframe/$subdocument,domain=stern.de
 ||googlesyndication.com/simgad/$domain=g.doubleclick.net
 ||googlesyndication.com/sodar/$domain=googlesyndication.com|spiegel.de
