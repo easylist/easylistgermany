@@ -1199,6 +1199,7 @@ $websocket,domain=animes-stream24.net
 ||mototreff.ch/Banner/
 ||mov-world.net^*/fidel.js
 ||movie-blog.org/layer/
+||movie-blog.org/script1.js
 ||movie-blog.org^$subdocument,domain=movie-blog.org|movieblog.to
 ||movie-blog.org^*.php|$script
 ||movie-blog.org^*/stargames.js
