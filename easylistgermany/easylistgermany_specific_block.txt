@@ -2235,6 +2235,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||amazon-adsystem.com^$domain=autobild.de|focus.de|transfermarkt.de
 ||betrad.com^$domain=googlesyndication.com
 ||bf-ad.net^$domain=focus.de
+||cas.criteo.com^$domain=autobild.de|gala.de|spiegel.de|stern.de|transfermarkt.de
 ||cloudfront.net/werbemittel/$domain=stern.de
 ||criteo.com^$domain=tellows.de
 ||flashtalking.com^$domain=g.doubleclick.net|gala.de|spiegel.de
