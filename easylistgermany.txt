@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701302152
+! Version: 201701302154
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 Jan 2017 21:52 UTC
+! Last modified: 30 Jan 2017 21:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4057,8 +4057,6 @@ abi.unicum.de##.region.region-skyscraper
 abi.unicum.de##img[style="max-width: 160.1px;"]
 abi.unicum.de##img[style="max-width: 160.2px;"]
 abi.unicum.de##img[style="max-width: 160px;"]
-bauexpertenforum.de##[style="z-index: 1000;"]
-bauexpertenforum.de##[style="z-index: 1001;"]
 bauexpertenforum.de,usp-forum.de,winboard.org##.above_header
 bikerszene.de###skyscraper
 bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.1px;"]
@@ -4150,10 +4148,6 @@ wize.life##.panoramaWrapper.relative.no-print
 ||aachener-nachrichten.de/zva/an/imges/*.jpg
 ||aachener-nachrichten.de/zva/an/imgez/*.jpg
 ||abi.unicum.de/image/*-*_*.jpg$domain=~unicum.de
-||bauexpertenforum.de/image/*.gif
-||bauexpertenforum.de/images/*.gif
-||bauexpertenforum.de/imags/*.gif
-||bauexpertenforum.de/imgs/*.gif
 ||bikerszene.de/*.gif
 ||bikerszene.de/*_*-*-*.jpg
 ||bikerszene.de/image/*-*-*.jpg
@@ -5195,7 +5189,7 @@ chefkoch.de###recipe-com-user-banner
 chefkoch.de###recipe_com_user_banner
 clipfish.de###rect
 kicker.de,kidszone.de,os-informer.de,pcgames.de,pcgameshardware.de,smartphone-daily.de,widescreen-online.de###rect_anz
-autoexperience.de,cineman.de,daselternforum.de,fitness-foren.de,flugzeugforum.de,kreatives-wohnforum.de,laut.de,lpgforum.de,macprime.ch,mazda-forum.info,moonwalk.ch,neue-braunschweiger.de,notebookforum.at,pkw-forum.de,prad.de,ringrocker.com,teccentral.de,usp-forum.de,win-10-forum.de,win-8-forum.net,winboard.org,windows-7-forum.net,windows-8-forum.net,xboxone-forum.net###rectangle
+autoexperience.de,bauexpertenforum.de,cineman.de,daselternforum.de,fitness-foren.de,flugzeugforum.de,kreatives-wohnforum.de,laut.de,lpgforum.de,macprime.ch,mazda-forum.info,moonwalk.ch,neue-braunschweiger.de,notebookforum.at,pkw-forum.de,prad.de,ringrocker.com,teccentral.de,usp-forum.de,win-10-forum.de,win-8-forum.net,winboard.org,windows-7-forum.net,windows-8-forum.net,xboxone-forum.net###rectangle
 spieletipps.de###rectangleRgt
 laut.de###rectangleSpace
 abacho.de###reisemarkt-sidebar
@@ -5654,7 +5648,7 @@ gamepro.de,gamestar.de##.amz
 andreziegler.de##.amz_main
 winfuture.de##.amzwgt
 sdx.cc##.announce_text
-biallo.de,computerbild.de,deutsche-startups.de,epochtimes.de,fremdwort.de,genderblog.de,gesetzlichekrankenkassen.de,heinertown.de,heise.de,juedische-allgemeine.de,lehrerfreund.de,medizin-netz.de,motorsport-total.com,moviejones.de,nwzonline.de,projektmagazin.de,rtl.de,saarbruecker-zeitung.de,sportal.de,telemedicus.info,tweakpc.de,welt.de,wer-kennt-wen.de,wetter.com,win-10-forum.de,zdnet.de,zeit.de##.anzeige
+bauexpertenforum.de,biallo.de,computerbild.de,deutsche-startups.de,epochtimes.de,fremdwort.de,genderblog.de,gesetzlichekrankenkassen.de,heinertown.de,heise.de,juedische-allgemeine.de,lehrerfreund.de,medizin-netz.de,motorsport-total.com,moviejones.de,nwzonline.de,projektmagazin.de,rtl.de,saarbruecker-zeitung.de,sportal.de,telemedicus.info,tweakpc.de,welt.de,wer-kennt-wen.de,wetter.com,win-10-forum.de,zdnet.de,zeit.de##.anzeige
 motorsport-total.com##.anzeige + *
 designtagebuch.de##.anzeige-links
 designtagebuch.de##.anzeige-mittig
@@ -11261,4 +11255,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: +rPek/ClvE2oR6z5p4oA6g
+! Checksum: V+rECdevqjnlEK23l45RkQ
