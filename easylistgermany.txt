@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701260727
+! Version: 201701301900
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Jan 2017 07:27 UTC
+! Last modified: 30 Jan 2017 19:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8749,7 +8749,6 @@ tvspielfilm.de##.two-blocks > .preview-box + * + div > img
 tvspielfilm.de##.two-blocks > [-abp-properties='margin-bottom: 13px;']
 auto-motor-und-sport.de##.v-A_-wrapper--stroer > [-abp-properties='text-align: center;'] > img
 gamona.de##.wallpaper > [-abp-properties='cursor: pointer; left: *; position: *; right: *; top: *;']
-4players.de##.weischer > a > img
 wetter.com##.wrapper-weather-news [-abp-properties='cursor: pointer;']
 usp-forum.de##.yui-b.yui-sidebar div > a > img
 autoextrem.de,usp-forum.de,win-10-forum.de,winboard.org##.yui-b.yui-sidebar li > span > span > a > img
@@ -10483,9 +10482,7 @@ auto-motor-und-sport.de##[-abp-properties='top: 159px; width: 1020px; z-index: 3
 wetter.com##[-abp-properties='top: 161px;'] > img
 pcgames.de##[-abp-properties='top: 190.*px;']
 woxikon.de##[-abp-properties='top: 1px;'] > img
-4players.de##[-abp-properties='top: 29.*px;']
 woxikon.de##[-abp-properties='top: 2px;'] > a > img
-4players.de##[-abp-properties='top: 30px;'] > img
 woxikon.de##[-abp-properties='top: 5.*px;']
 lustich.de##[-abp-properties='top: 51px;'] > img
 lustich.de##[-abp-properties='top: 52px;'] > img
@@ -10499,7 +10496,7 @@ lustich.de##[-abp-properties='top: 69px;']
 lustich.de##[-abp-properties='top: 70px;']
 caravaning.de##[-abp-properties='top: 78px;']
 caravaning.de##[-abp-properties='top: 79px;']
-4players.de,bikemarkt.mtb-news.de##[-abp-properties='top: 7px;']
+bikemarkt.mtb-news.de##[-abp-properties='top: 7px;']
 e-mountainbike.com,elektrobike-online.com,outdoorchannel.de,roadbike.de##[-abp-properties='top: 8*em;']
 woxikon.de##[-abp-properties='top: 8.*px;']
 bikemarkt.mtb-news.de##[-abp-properties='top: 8.8*px;']
@@ -10583,15 +10580,11 @@ lifeline.de##div > :first-child + div > span > img
 9monate.de##div > :first-child > span + :last-child > img
 9monate.de##div > [-abp-properties='margin-bottom: 5px; position: relative;'] > img
 lifeline.de##div > div > div:first-child + span + div > span > img
-www.4players.de##div > div > div:first-child > img
 ariva.de##div > div:first-child > div:first-child > img
 ariva.de##div > div:first-child > img
 lifeline.de##div > div:first-child > span > img
 9monate.de##div > span > div > img
 9monate.de,lifeline.de##div > span > span > img
-www.4players.de##div:first-child + div + div + div + div > div > img
-www.4players.de##div:first-child + div + div > div > img
-www.4players.de##div:first-child + div > div > img
 donnerwetter.de##div[id^="plista_widget_"] [-abp-properties='max-width: 199px;']
 gamona.de##footer > div img
 woxikon.de##head + * > [-abp-properties='margin-bottom: 15px;'] img
@@ -11319,4 +11312,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: gwRIF19MmOllSKmWhUuoOA
+! Checksum: AJR7SX/Tv3kwg6fgb/LfKA
