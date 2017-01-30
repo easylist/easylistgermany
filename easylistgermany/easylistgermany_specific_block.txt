@@ -2362,11 +2362,6 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||weser-kurier.de/pu_wkd2014/images/premium/sprites_print_v2.gif
 @@||weser-kurier.de/pu_wkd2014/images/wetter/ico_regenschirm.gif
 @@||weser-kurier.de/REST*.gif
-@@||win-10-forum.de/images/w10/default_avatar.gif
-@@||win-10-forum.de/images/w10/misc/lightbox_progress.gif
-@@||win-10-forum.de/images/w10/misc/progress.gif
-@@||win-10-forum.de/images/w10/misc/progress2.gif
-@@||win-10-forum.de/images/w10/misc/unknown.gif
 @@||wize.life/img/layout/*.gif
 aachener-nachrichten.de##img[style="width: 160.1px; height: 600px; max-width: 160px; max-height: 600px;"]
 aachener-nachrichten.de##img[style="width: 160.2px; height: 600px; max-width: 160px; max-height: 600px;"]
@@ -2622,7 +2617,6 @@ wize.life##.panoramaWrapper.relative.no-print
 ||wetteronline.de/image/*-*_*_*.jpg
 ||wetteronline.de/image/*/*/*/*.gif
 ||wetteronline.de/image/wo/*.jpg
-||win-10-forum.de/*.gif
 ||winboard.org/image/U/*.gif
 ||winboard.org/images/*.gif
 ||winboard.org/imags/*.gif
