@@ -2447,8 +2447,6 @@ tvinfo.de###infoTop
 unicum.de###block-views-werbeplatz-top-banner-block
 unicum.de##img[style="width: 160px; height: 600px; max-width: 160px; max-height: 600px;"]
 unicum.de##img[style="width: 800px; height: 600px; max-width: 800px; max-height: 600px;"]
-usp-forum.de##[style="z-index: 1000;"]
-usp-forum.de##[style="z-index: 1001;"]
 wetteronline.de##[style="top: -252.1px; left: 0px; position: absolute;"]
 wetteronline.de##[style="top: -252.2px; left: 0px; position: absolute;"]
 wetteronline.de##[style="top: -252.3px; left: 0px; position: absolute;"]
@@ -2608,10 +2606,6 @@ wize.life##.panoramaWrapper.relative.no-print
 ||unicum.de/images/*-*.jpg
 ||unicum.de/imags/*-*_*.jpg
 ||unicum.de/imgs/*.jpg
-||usp-forum.de/image/*.gif
-||usp-forum.de/images/*.gif
-||usp-forum.de/imags/*.gif
-||usp-forum.de/imgs/*.gif
 ||weristdeinfreund.de/*.gif
 ||weser-kurier.de/*.gif
 ||wetteronline.de/image/*-*_*_*.jpg
