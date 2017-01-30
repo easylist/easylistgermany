@@ -2377,8 +2377,6 @@ abi.unicum.de##.region.region-skyscraper
 abi.unicum.de##img[style="max-width: 160.1px;"]
 abi.unicum.de##img[style="max-width: 160.2px;"]
 abi.unicum.de##img[style="max-width: 160px;"]
-bauexpertenforum.de##[style="z-index: 1000;"]
-bauexpertenforum.de##[style="z-index: 1001;"]
 bauexpertenforum.de,usp-forum.de,winboard.org##.above_header
 bikerszene.de###skyscraper
 bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.1px;"]
@@ -2470,10 +2468,6 @@ wize.life##.panoramaWrapper.relative.no-print
 ||aachener-nachrichten.de/zva/an/imges/*.jpg
 ||aachener-nachrichten.de/zva/an/imgez/*.jpg
 ||abi.unicum.de/image/*-*_*.jpg$domain=~unicum.de
-||bauexpertenforum.de/image/*.gif
-||bauexpertenforum.de/images/*.gif
-||bauexpertenforum.de/imags/*.gif
-||bauexpertenforum.de/imgs/*.gif
 ||bikerszene.de/*.gif
 ||bikerszene.de/*_*-*-*.jpg
 ||bikerszene.de/image/*-*-*.jpg
