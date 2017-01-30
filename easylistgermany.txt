@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201701302151
+! Version: 201701302152
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 Jan 2017 21:51 UTC
+! Last modified: 30 Jan 2017 21:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4127,8 +4127,6 @@ tvinfo.de###infoTop
 unicum.de###block-views-werbeplatz-top-banner-block
 unicum.de##img[style="width: 160px; height: 600px; max-width: 160px; max-height: 600px;"]
 unicum.de##img[style="width: 800px; height: 600px; max-width: 800px; max-height: 600px;"]
-usp-forum.de##[style="z-index: 1000;"]
-usp-forum.de##[style="z-index: 1001;"]
 wetteronline.de##[style="top: -252.1px; left: 0px; position: absolute;"]
 wetteronline.de##[style="top: -252.2px; left: 0px; position: absolute;"]
 wetteronline.de##[style="top: -252.3px; left: 0px; position: absolute;"]
@@ -4288,10 +4286,6 @@ wize.life##.panoramaWrapper.relative.no-print
 ||unicum.de/images/*-*.jpg
 ||unicum.de/imags/*-*_*.jpg
 ||unicum.de/imgs/*.jpg
-||usp-forum.de/image/*.gif
-||usp-forum.de/images/*.gif
-||usp-forum.de/imags/*.gif
-||usp-forum.de/imgs/*.gif
 ||weristdeinfreund.de/*.gif
 ||weser-kurier.de/*.gif
 ||wetteronline.de/image/*-*_*_*.jpg
@@ -11267,4 +11261,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: F/XESWyhkKpkvnJaexnGCQ
+! Checksum: +rPek/ClvE2oR6z5p4oA6g
