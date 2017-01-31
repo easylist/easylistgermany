@@ -10,6 +10,7 @@ $websocket,domain=animes-stream24.net
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
 |https://*.bs.to^$script,domain=~board.bs.to|bs.to
+|onvista.de/news/boxes/ner$image,domain=onvista.de
 ||1000hp.net/banner/
 ||149.13.77.20^$domain=ww3.cad.de
 ||193.107.16.142/f.php
@@ -32,8 +33,8 @@ $websocket,domain=animes-stream24.net
 ||4pcdn.de/sourcen/portal/MIFcom/$domain=4players.de
 ||4players.de/4pl/wallpaper/
 ||4players.de/javascript/4players/billiger.de.js
-||4players.de/screenshots/
 ||4players.de/screenshot/
+||4players.de/screenshots/
 ||4players.de/sourcen/portal/4players/utraforce/
 ||4players.de^*/vast.js
 ||4taktershop.de^$subdocument,domain=rollertuningpage.de
