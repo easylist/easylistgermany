@@ -608,8 +608,6 @@ $websocket,domain=animes-stream24.net
 ||foerderland.de/fileadmin/user_upload/banner_
 ||forendienst.de/ad/
 ||forenhoster.net/index.php?wbu=$subdocument
-||formel1.de/image/$subdocument,domain=formel1.de
-||formel1.de^*/image/$subdocument,domain=formel1.de
 ||forum-speditionen.de/k-grafik/
 ||forumprofi.de/fritz/$subdocument
 ||fr-online.de^*/teaserbox_300x160.jpg
@@ -2286,10 +2284,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 !
-@@||aachener-nachrichten.de/logger/p.gif
-@@||aachener-nachrichten.de/red/img/leserreisen/*.gif
-@@||aachener-nachrichten.de/red/img/raetselspiele/*.gif
-@@||aachener-nachrichten.de/zva/polopoly/kino/loading.gif
+/[a-zA-Z0-9-?_?]{150,}\.(jpg|jpeg|gif)/$image,domain=aachener-nachrichten.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|motorsport-total.com|moviejones.de|news.de|pferde.de|spielen.de|tvinfo.de|unicum.de|wetteronline.de|wize.life
 @@||autozeitung.de/misc/ajax-loader-alt.gif$domain=autozeitung.de
 @@||autozeitung.de/sites/all/modules/$image,domain=autozeitung.de
 @@||autozeitung.de/sites/default/files/images$image,domain=autozeitung.de
@@ -2298,25 +2293,10 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||cdn.psychic.de/images/head_back.gif
 @@||cdn.psychic.de/images/pfeil.gif
 @@||cdn.psychic.de/images/pfeilbg.gif
-@@||e-hausaufgaben.de/images/*.gif
-@@||e-hausaufgaben.de/images_public/transp.gif
-@@||finya.de/img/loader3.gif
-@@||finya.de/img/void.gif
-@@||finya.de/img/vsep1.gif
-@@||forum.deine-tierwelt.de/images/*.gif
-@@||forum.frag-mutti.de/*.gif
 @@||fotos.autozeitung.de/*/images/bildergalerie$image,domain=autozeitung.de
 @@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/teaser/$image,domain=autozeitung.de
-@@||frag-mutti.de/images/field-divider.gif.pagespeed.ce.d-9_0WrMIF.gif
-@@||frag-mutti.de/images/xnoavatar_light.gif.pagespeed.ic.IgtaDz0d2A.png
-@@||gevestor.de/img/sprite_new.png$domain=gevestor.de
-@@||haz.de/design/standard/images/1x1.gif
-@@||haz.de/extension/moldesign/design/moldesign/images/clearpixel.gif
-@@||haz.de/extension/pd2011/design/haz/images/topicloader.gif
-@@||haz.de/var/storage/images/haz/*.gif
-@@||images.wize.life/datei/*.gif
 @@||infranken.de/event/img/signet_wer_wo_was.gif
 @@||infranken.de/storage/sym/loaders/loader_big_black.gif
 @@||infranken.de/storage/sym/loaders/loader_small_grey.gif
@@ -2332,15 +2312,6 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||lvz.de/var/storage/images/lvz/specials/links2/extra2-links/zeitung-in-schulen/333088814-1-ger-DE/Zeitung-in-Schulen_pdaExtra.gif
 @@||lvz.de/var/storage/images/lvz/sport/rb-leipzig/imagelinks-fuer-klicktipps/partner-gruber-nutzfahrzeuge/204991394-8-ger-DE/Partner-Gruber-Nutzfahrzeuge_pdaExtra.gif
 @@||lvz.de/var/storage/images/lvz/sport/rb-leipzig/imagelinks-fuer-klicktipps/partner-sporthaus-am-ring/374374709-8-ger-DE/Partner-Sporthaus-am-Ring_pdaExtra.gif
-@@||media.news.de/images/*.jpg
-@@||moviejones.de/bilder/avatare/1628_104751.gif
-@@||moviejones.de/bilder/avatare/167_192858.gif
-@@||moviejones.de/bilder/avatare/4_114053.gif
-@@||moviejones.de/bilder/avatare/8831_163521.gif
-@@||moviejones.de/bilder/icons/dreieck_top.gif
-@@||news.de/module/newsfrontend/img/ajax-loader.gif
-@@||news.de/module/newsfrontend/img/ajax-loader16x16.gif
-@@||news.de/module/newsfrontend/img/forw.gif
 @@||nw.de/_em_daten/nw/assets/img/1062x450.gif
 @@||nw.de/_em_daten/nw/assets/img/128x77.gif
 @@||nw.de/_em_daten/nw/assets/img/318x180.gif
@@ -2352,9 +2323,6 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||nw.de/_em_daten/nw/assets/img/logo_sticky.gif
 @@||psychic.de/wp-content/plugins/wp-postratings/images/loading.gif
 @@||psychic.de/wp-content/plugins/wp-postratings/images/stars_crystal/rating_over.gif
-@@||spielen.de/bundles/mediatrustfrontend/images/blank.gif
-@@||unicum.de/sites/all/modules/*.gif
-@@||unicum.de/sites/all/themes/*.gif
 @@||weristdeinfreund.de/widf_handlers/tinymce/js/tinymce/plugins/emoticons/*.gif
 @@||weristdeinfreund.de/widf_images/emotes/aktuell/*.gif
 @@||weristdeinfreund.de/widf_images/warten.gif
@@ -2365,23 +2333,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||weser-kurier.de/pu_wkd2014/images/premium/sprites_print_v2.gif
 @@||weser-kurier.de/pu_wkd2014/images/wetter/ico_regenschirm.gif
 @@||weser-kurier.de/REST*.gif
-@@||wize.life/img/layout/*.gif
-aachener-nachrichten.de##img[style="width: 160.1px; height: 600px; max-width: 160px; max-height: 600px;"]
-aachener-nachrichten.de##img[style="width: 160.2px; height: 600px; max-width: 160px; max-height: 600px;"]
-aachener-nachrichten.de##img[style="width: 160.3px; height: 600px; max-width: 160px; max-height: 600px;"]
-aachener-nachrichten.de##img[style="width: 160px; height: 600px; max-width: 160px; max-height: 600px;"]
-aachener-nachrichten.de##img[style="width: 300px; height: 600px; max-width: 300px; max-height: 600px;"]
-aachener-nachrichten.de##img[style="width: 800.4px; height: 600px; max-width: 800px; max-height: 600px;"]
 abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
-abi.unicum.de###block-views-werbeplatz-skyscraper-block
-abi.unicum.de###wrapper-banner-head
-abi.unicum.de##.monatsthema-boxen
-abi.unicum.de##.region.region-head-banner
-abi.unicum.de##.region.region-skyscraper
-abi.unicum.de##img[style="max-width: 160.1px;"]
-abi.unicum.de##img[style="max-width: 160.2px;"]
-abi.unicum.de##img[style="max-width: 160px;"]
-abi.unicum.de##img[style="max-width: 300.3px;"]
 bauexpertenforum.de,usp-forum.de,winboard.org##.above_header
 bikerszene.de###skyscraper
 bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.1px;"]
@@ -2390,77 +2342,20 @@ bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10
 bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.4px;"]
 bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.5px;"]
 bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10px;"]
-deine-tierwelt.de##.row.hidden-xs.hidden-sm.external-content-container
-donnerwetter.de##[style="display: inline-block;"]
-donnerwetter.de##[style="position: absolute; margin-left: 310.1px;"]
-donnerwetter.de##[style="position: absolute; margin-left: 310.2px;"]
-donnerwetter.de##[style="position: absolute; margin-left: 310.3px;"]
-donnerwetter.de##[style="position: absolute; margin-left: 310.4px;"]
-donnerwetter.de##[style="position: absolute; margin-left: 310.5px;"]
-donnerwetter.de##[style="position: absolute; margin-left: 310.6px;"]
-donnerwetter.de##[style="position: absolute; margin-left: 310px;"]
-donnerwetter.de##center
-donnerwetter.de##img[style="width: 160.1px; max-width: 160.4px;"]
-donnerwetter.de##img[style="width: 160.2px; max-width: 160.4px;"]
-donnerwetter.de##img[style="width: 160.3px; max-width: 160.4px;"]
-donnerwetter.de##img[style="width: 160px; max-width: 160.1px;"]
-donnerwetter.de##img[style="width: 160px; max-width: 160.2px;"]
-donnerwetter.de##img[style="width: 300.2px; max-width: 300.4px;"]
-donnerwetter.de##img[style="width: 300px; max-width: 300.1px;"]
-donnerwetter.de##img[style="width: 300px; max-width: 300.3px;"]
-donnerwetter.de##table[align="right"]
 epochtimes.de##img[style="margin: 0.1px auto;"]
-fanfiktion.de##[style="right: -270px;"]
-formel1.de##.mb20.mt20.text-center
-formel1.de##[style="margin-top: 20px;"]
-frag-mutti.de###right-ad
-frag-mutti.de##[style="width: 300.1px; right: -140px;"]
-frag-mutti.de##[style="width: 300.2px; right: -140px;"]
-frag-mutti.de##[style="width: 300.3px; right: -140px;"]
 fremdwort.de###iojrennab
 fremdwort.de##.col-sm-3
-frustfrei-lernen.de##.dropdown.sidebarArea
-frustfrei-lernen.de##div[style="height: 310.1px;"]
-frustfrei-lernen.de##div[style="height: 310.2px;"]
-frustfrei-lernen.de##div[style="height: 310.3px;"]
-frustfrei-lernen.de##div[style="height: 310px"]
-frustfrei-lernen.de##div[style="height: 320px"]
-frustfrei-lernen.de##div[style="height: 735px"]
-gevestor.de##div[style="position: relative; width: 1020.1px; margin: 0px auto;"]
 iban.de##.ibanafar2
 liga3-online.de###skyscraperstart
 liga3-online.de##.widget.widget_text
 liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
 ln-online.de##[style="position:absolute;left:940px;top:153px;"]
 lvz.de##[style="position:absolute;left:940px;top:153px;"]
-moviejones.de##img[style="max-width: 160.1px;"]
-moviejones.de##img[style="max-width: 160.2px;"]
-moviejones.de##img[style="max-width: 160.3px;"]
-moviejones.de##img[style="max-width: 160.5px;"]
-moviejones.de##img[style="max-width: 160px;"]
-moviejones.de##img[style="max-width: 800.4px;"]
-news.de##[style="top: *px;"]
-news.de##[style="top: 0px;"]
-pferde.de##[style="margin-left: 1050.1px;"]
-pferde.de##[style="margin-left: 1050.2px;"]
-pferde.de##[style="margin-left: 1050.3px;"]
-pferde.de##[style="margin-left: 1050.4px;"]
-pferde.de##[style="margin-left: 1050px;"]
 psychic.de##.td.right_td
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
 skodacommunity.de,windows-7-forum.net###oc24_container_top
 skodacommunity.de,windows-7-forum.net##.section.funbox
-tvinfo.de###infoRight
-tvinfo.de###infoTop
-unicum.de###block-views-werbeplatz-top-banner-block
-unicum.de##img[style="width: 160px; height: 600px; max-width: 160px; max-height: 600px;"]
-unicum.de##img[style="width: 800px; height: 600px; max-width: 800px; max-height: 600px;"]
-wetteronline.de##[style="top: -252.1px; left: 0px; position: absolute;"]
-wetteronline.de##[style="top: -252.2px; left: 0px; position: absolute;"]
-wetteronline.de##[style="top: -252.3px; left: 0px; position: absolute;"]
-wetteronline.de##[style="top: -252.4px; left: 0px; position: absolute;"]
-wetteronline.de##[style="top: -252px; left: 0px; position: absolute;"]
 win-10-forum.de##.above_header
 winboard.org##[style="z-index: 1000;"]
 winboard.org##[style="z-index: 1001;"]
@@ -2469,21 +2364,6 @@ windows-7-forum.net##[style="z-index: 1000;"]
 windows-7-forum.net##[style="z-index: 1001;"]
 wintotal.de##.widget.widget_wt_wintotal_rotator
 wintotal.de##[style="margin: 10px auto;"]
-wize.life##.alternative.divider.rectangle_1
-wize.life##.panoramaWrapper.relative.no-print
-wize.life##[style="margin-bottom: 20px;"]
-wize.life##[style="margin: auto auto 30px -430px; top: 20px; left: 50%;"]
-wize.life##[style="position: absolute; left: 50%; margin-left: 505px; margin-top: 100px;"]
-||aachener-nachrichten.de/*.gif
-||aachener-nachrichten.de/*_*_*-*.jpg
-||aachener-nachrichten.de/zva/an/imag/*.jpg
-||aachener-nachrichten.de/zva/an/image^$image
-||aachener-nachrichten.de/zva/an/imags/*-*.jpg
-||aachener-nachrichten.de/zva/an/img/*-*.jpg
-||aachener-nachrichten.de/zva/an/imges/*.jpg
-||aachener-nachrichten.de/zva/an/imgesz/*.jpg
-||aachener-nachrichten.de/zva/an/imgez/*.jpg
-||abi.unicum.de/image/*-*_*.jpg$domain=~unicum.de
 ||bikerszene.de/*.gif
 ||bikerszene.de/*_*-*-*.jpg
 ||bikerszene.de/image/*-*-*.jpg
@@ -2493,93 +2373,15 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505px; margin-top
 ||bikerszene.de/imgesz/*.jpg
 ||bikerszene.de/imgez/*.jpg
 ||bikerszene.de/imgs/*.jpg
-||deine-tierwelt.de/*.gif
-||deine-tierwelt.de/imag/*.jpg
-||deine-tierwelt.de/image/*_*.jpg
-||deine-tierwelt.de/imags/*-*_*_*_*.jpg
-||deine-tierwelt.de/imagz/*_*.jpg
-||deine-tierwelt.de/imges/*.jpg
-||deine-tierwelt.de/imgesz/*.jpg
-||deine-tierwelt.de/imgez/*.jpg
-||donnerwetter.de/*-*_*.jpg
-||donnerwetter.de/image/*-*-*-*.jpg
-||donnerwetter.de/image/*_*.jpg
-||donnerwetter.de/images/*_*_*.jpg
-||donnerwetter.de/imagesz/*.jpg
-||donnerwetter.de/imags/*.jpg
-||donnerwetter.de/imgs/*.jpg
-||e-hausaufgaben.de/*.gif
 ||epochtimes.de/*.gif
-||fanfiktion.de/*.gif
-||fanfiktion.de/fonts/*.jpg
-||fanfiktion.de/pics/*.jpg
-||fanfiktion.de/style/*-*.jpg
-||finya.de/*.gif
-||finya.de/image/*.jpg
-||finya.de/imags/*.jpg
-||formel1.de/public/*/*/*/*.gif
-||formel1.de/public/img/*.jpeg
-||formel1.de/public/img/*.jpg
-||formel1.de/public/img/*.png
-||frag-mutti.de/*.gif
-||frag-mutti.de/html/avatars/*-*_*.jpg
-||frag-mutti.de/imagez/*.jpg
-||frag-mutti.de/imags/*.jpg
-||frag-mutti.de/imgs/*.jpg
 ||fremdwort.de/*.gif
-||frustfrei-lernen.de/*.gif
-||frustfrei-lernen.de/image/*-*.jpg
-||frustfrei-lernen.de/images/*.jpg
-||frustfrei-lernen.de/imags/*-*_*.jpg
-||frustfrei-lernen.de/imges/*.jpg
-||frustfrei-lernen.de/imgs/*.jpg
-||frustfrei-lernen.de/imgz/*.jpg
-||gevestor.de/*.gif
-||gevestor.de/image/*-*_*.jpg
-||gevestor.de/image/publ/*-*.jpg
-||gevestor.de/images/publ/*-*.jpg
-||gevestor.de/images/publc/*-*-*_*.jpg
-||gevestor.de/images/public/*.jpg
-||gevestor.de/images/publics/*.jpg
-||gevestor.de/images/publicz/*.jpg
-||haz.de/*.gif
-||haz.de/image/stts/*.jpg
-||iban-rechner.de/*.gif
-||iban-rechner.de/image/*-*_*.jpg
-||iban-rechner.de/images/*-*-*.jpg
-||iban-rechner.de/imagez/*.jpg
-||iban-rechner.de/imgs/*.jpg
 ||infranken.de/*-*-*_*.jpg
 ||infranken.de/*.gif
 ||infranken.de/imagez/*_*_*_*_*_*_*_*_*.jpg
-||juraforum.de/*.gif
-||juraforum.de/bilder/statc/*.jpg
-||juraforum.de/bilder/statec/*.jpg
-||juraforum.de/bilder/static/*-*-*-*-*.jpg
-||juraforum.de/bilder/static/*-*_*.jpg
-||juraforum.de/bilder/statik/*.jpg
 ||liga3-online.de/*.gif
 ||ln-online.de/*.gif
 ||lvz.de/*.gif
-||motorsport-total.com/*/*/*/*.gif
-||motorsport-total.com/i/*-*.jpg
-||motorsport-total.com/i/*_*_*.jpg
-||motorsport-total.com/i/stati/*.jpg
-||motorsport-total.com/i/static/*.jpg
-||moviejones.de/bilder/*/*/*.gif
-||moviejones.de/imag/*.jpg
-||moviejones.de/image/*.gif
-||moviejones.de/images/*.jpg
-||moviejones.de/imgs/*.jpg
 ||mt.de/*.gif
-||news.de/*.gif
-||news.de/image/*_*.jpg
-||news.de/images/*.jpg
-||news.de/imagez/*.jpg
-||news.de/imagezz/*.jpg
-||news.de/imags/*.jpg
-||news.de/img/*-*.jpg
-||news.de/imgs/
 ||nickles.de/image/*/*/*/*.gif
 ||nickles.de/images/*/*/*/*.gif
 ||nickles.de/imagez/*/*/*/*.gif
@@ -2590,14 +2392,8 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505px; margin-top
 ||nickles.de/imgs/static/*.gif
 ||nickles.de/imgz/stat/*.gif
 ||nickles.de/imgz/statt/D/*.gif
+||nickles.de/imgz/stattc/*.gif
 ||nw.de/*.gif
-||pferde.de/imag/*.jpg
-||pferde.de/image/*-*-*-*-*.jpg
-||pferde.de/imagez/*.jpg
-||pferde.de/imagezz/*.jpg
-||pferde.de/imags/*-*.jpg
-||pferde.de/imags/*.gif
-||pferde.de/imgs/*.jpg
 ||pixelio.de/image/public/*.gif
 ||pixelio.de/images/public/*/*.gif
 ||pixelio.de/imgs/publ/*.gif
@@ -2605,49 +2401,23 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505px; margin-top
 ||pixelio.de/imgs/publi/*.gif
 ||pixelio.de/imgs/public/*.gif
 ||pixelio.de/imgs/publii/D/*.gif
+||pixelio.de/imgs/publiii/*.gif
 ||pixelio.de/resources/*/*/*.gif
 ||psychic.de/wp-content/plugins/wp-postratings/imags/*.gif
+||psychic.de/wp-content/plugins/wp-postratings/imagz/*.gif
 ||psychic.de/wp-content/plugins/wp-postratings/img/D/*.gif
 ||psychic.de/wp-content/plugins/wp-postratings/imgs/*.gif
 ||skodacommunity.de/image/*.gif
 ||skodacommunity.de/images/*.gif
 ||skodacommunity.de/imags/*.gif
 ||skodacommunity.de/imgs/*.gif
-||spielen.de/*.gif
-||spielen.de/image/*-*_*_*.jpg
-||spielen.de/images/sta/*.jpg
-||spielen.de/images/stat/*.jpg
-||spielen.de/images/statc/*-*_*.jpg
-||spielen.de/images/static/*.jpg
 ||spielfilm.de/image/*.gif
+||spielfilm.de/imags/*.gif
 ||spielfilm.de/imagz/U/*.gif
-||st.wetteronline.de/*.gif
-||st.wetteronline.de/image/wo/public/*.jpeg
-||tvinfo.de/*.gif
-||tvinfo.de/*_*_*-*.jpg
-||tvinfo.de/imag/*.jpg
-||tvinfo.de/image/*-*-*-*.jpg
-||tvinfo.de/image/*_*.jpg
-||tvinfo.de/images/*-*.jpg
-||tvinfo.de/imags/*-*.jpg
-||tvinfo.de/img/*.jpg
-||tvinfo.de/imgs/*.jpg
-||unicum.de/*gif
-||unicum.de/imag/*.jpg
-||unicum.de/image/*-*_*_*.jpg
-||unicum.de/images/*-*.jpg
-||unicum.de/imags/*-*_*.jpg
-||unicum.de/img/*.jpg
-||unicum.de/imgs/*.jpg
 ||weristdeinfreund.de/*.gif
 ||weser-kurier.de/*.gif
 ||weser-kurier.de/image/public/*.jpg
-||wetteronline.de/image/*-*_*_*.jpg
-||wetteronline.de/image/*/*/*/*.gif
-||wetteronline.de/image/wo/*.jpg
-||wetteronline.de/image/wo/publc/*.jpeg
 ||winboard.org/image/U/*.gif
-||winboard.org/images/*.gif
 ||winboard.org/imags/*.gif
 ||winboard.org/imgs/*.gif
 ||windows-7-forum.net/image/*.gif
@@ -2655,4 +2425,3 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505px; margin-top
 ||windows-7-forum.net/imags/*.gif
 ||windows-7-forum.net/imgs/U/*.gif
 ||wintotal.de/image/U/*/*.gif
-||wize.life/*.gif
