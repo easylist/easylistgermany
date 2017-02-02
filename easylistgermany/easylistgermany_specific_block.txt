@@ -4,7 +4,6 @@
 /worker.php$domain=filmpalast.to
 /www/images/*$domain=technic3d.com
 ^what=zone^$domain=ww3.cad.de
-|blob:$script,domain=animes-stream24.net
 |http://$subdocument,third-party,domain=bonimail.de
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
@@ -1761,7 +1760,6 @@
 ||stadt-bremerhaven.de/wp-content/uploads/2017/01/pswbanner.png
 ||stadt-werther.de/uploads/tx_macinabanners/
 ||staedte-info.net/bilder/banner_$image
-||static-fb.com^$domain=anime-stream24.com|animes-stream24.net
 ||static-fra.de/nitronow/css/ad.css
 ||static-fra.de/rtlnow/css/ad.css
 ||static-fra.de/wetterv3/css/images/map/icons/knorr.png$domain=wetter.de
@@ -2141,7 +2139,6 @@
 ||zumlink.de/public/images/banner/
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
-﻿$websocket,domain=animes-stream24.net
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /flyads/*$domain=stern.de
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
