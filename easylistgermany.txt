@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702022017
+! Version: 201702022149
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Feb 2017 20:17 UTC
+! Last modified: 02 Feb 2017 21:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1676,7 +1676,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||vodafone.de^*&tsid=$popup,third-party
 ! -------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block.txt ***
-$websocket,domain=animes-stream24.net
+﻿$websocket,domain=animes-stream24.net
 &campaignid=*&zoneid=$domain=technic3d.com
 /?placement=$domain=movie-blog.org
 /oase_banner.jpg$domain=mysummit.wordpress.com
@@ -1711,6 +1711,7 @@ $websocket,domain=animes-stream24.net
 ||4pcdn.de/sourcen/portal/MIFcom/$domain=4players.de
 ||4players.de/4pl/wallpaper/
 ||4players.de/javascript/4players/billiger.de.js
+||4players.de/screenshoot/
 ||4players.de/screenshot/
 ||4players.de/screenshots/
 ||4players.de/sourcen/portal/4players/utraforce/
@@ -11059,4 +11060,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: i+8zwp1Ry7vr7mXnW48fKA
+! Checksum: tTcduCdqBQy0Llfe+hjKiw
