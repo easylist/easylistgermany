@@ -1,4 +1,3 @@
-﻿$websocket,domain=animes-stream24.net
 &campaignid=*&zoneid=$domain=technic3d.com
 /?placement=$domain=movie-blog.org
 /oase_banner.jpg$domain=mysummit.wordpress.com
@@ -1410,10 +1409,6 @@
 ||ping-timeout.de/b_$subdocument
 ||pirate-loads.to/fl.php
 ||pirate-loads.to/neu.php
-||pixelio.de/resources/icons/anzeige.gif
-||pixelio.de^*/anzeige2.gif
-||pixelio.de^*/clipdealer.gif
-||pixelio.de^*/he_logo.gif
 ||pizzamann.at/images/banner_
 ||planet3dnow.de/iframes/160homepage.php3
 ||planet3dnow.de/iframes/468ros.php3
@@ -1493,14 +1488,6 @@
 ||ps3inside.de/forum/images/green/*-468.gif
 ||ps3inside.de/forum/images/green/figuren-zrr.gif
 ||ps3inside.de/forum/images/green/ps3inside_zockerrampe.gif
-||psychic.de/bilder/angst-panikattacken.png
-||psychic.de/bilder/eifersucht.png
-||psychic.de/bilder/erroeten-ratgeber.gif
-||psychic.de/bilder/erroeten.png
-||psychic.de/bilder/expertenrat-banner-gross.jpg
-||psychic.de/bilder/muskelentspannung.png
-||psychic.de/wp-content/plugins/wp-postratings/image/*.gif|
-||psychic.de/wp-content/plugins/wp-postratings/images/*.gif|
 ||pszone.eu/templates/playzone/img/bg_all.jpg
 ||pszone.eu/uploads/banners/
 ||pz-news.de^*/module_wb/
@@ -1761,8 +1748,6 @@
 ||spreeblick.com/wp-content/themes/*/thomann_banner_
 ||spreeblick.com^*/intro_banner.png
 ||spvggunterhaching.de/themes/haching/images/BSWALP-Onlinebanner.gif
-||st.wetteronline.de/image/wo/U/$image,domain=wetteronline.de
-||st.wetteronline.de/wotexte/vermarktung/snippets/sidebarAndTeaser/$image,domain=wetteronline.de
 ||stadt-bremerhaven.de/grafiken/footer.gif
 ||stadt-bremerhaven.de/grafiken/getgoods2013.jpg
 ||stadt-bremerhaven.de/grafiken/gg_banner_320x100_ani.gif
@@ -2156,6 +2141,7 @@
 ||zumlink.de/public/images/banner/
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
+﻿$websocket,domain=animes-stream24.net
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /flyads/*$domain=stern.de
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
@@ -2286,15 +2272,11 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 !
-/[a-zA-Z0-9-?_?]{150,}\.(jpg|jpeg|gif)/$image,domain=aachener-nachrichten.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|motorsport-total.com|moviejones.de|news.de|pferde.de|spielen.de|tvinfo.de|unicum.de|wetteronline.de|wize.life
+/[a-zA-Z0-9-?_?\/?]{91,}\.(png|jpg|jpeg|gif)/$image,domain=gevestor.de|nickles.de|pixelio.de|psychic.de|spielfilm.de|weristdeinfreund.de
+/[a-zA-Z0-9-?_?]{150,}\.(png|jpg|jpeg|gif)/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|motorsport-total.com|moviejones.de|news.de|pferde.de|psychic.de|spielen.de|tvinfo.de|unicum.de|weser-kurier.de|wetteronline.de|wize.life
 @@||autozeitung.de/misc/ajax-loader-alt.gif$domain=autozeitung.de
 @@||autozeitung.de/sites/all/modules/$image,domain=autozeitung.de
 @@||autozeitung.de/sites/default/files/images$image,domain=autozeitung.de
-@@||bikerszene.de/app/i/*.gif
-@@||cdn.psychic.de/images/fblogin.gif
-@@||cdn.psychic.de/images/head_back.gif
-@@||cdn.psychic.de/images/pfeil.gif
-@@||cdn.psychic.de/images/pfeilbg.gif
 @@||fotos.autozeitung.de/*/images/bildergalerie$image,domain=autozeitung.de
 @@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
@@ -2317,27 +2299,8 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||nw.de/_em_daten/nw/assets/img/fancybox/fancybox_loading@2x.gif
 @@||nw.de/_em_daten/nw/assets/img/logo.gif
 @@||nw.de/_em_daten/nw/assets/img/logo_sticky.gif
-@@||psychic.de/wp-content/plugins/wp-postratings/images/loading.gif
-@@||psychic.de/wp-content/plugins/wp-postratings/images/stars_crystal/rating_over.gif
-@@||weristdeinfreund.de/widf_handlers/tinymce/js/tinymce/plugins/emoticons/*.gif
-@@||weristdeinfreund.de/widf_images/emotes/aktuell/*.gif
-@@||weristdeinfreund.de/widf_images/warten.gif
-@@||weser-kurier.de/pu_wkd2014/images/bg_dualtone_line.gif
-@@||weser-kurier.de/pu_wkd2014/images/comment-box-top_398.gif
-@@||weser-kurier.de/pu_wkd2014/images/Eigenwerbung_WK-Online.gif
-@@||weser-kurier.de/pu_wkd2014/images/premium/nav_active.gif
-@@||weser-kurier.de/pu_wkd2014/images/premium/sprites_print_v2.gif
-@@||weser-kurier.de/pu_wkd2014/images/wetter/ico_regenschirm.gif
-@@||weser-kurier.de/REST*.gif
 abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 bauexpertenforum.de,usp-forum.de,winboard.org##.above_header
-bikerszene.de###skyscraper
-bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.1px;"]
-bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.2px;"]
-bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.3px;"]
-bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.4px;"]
-bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.5px;"]
-bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10px;"]
 epochtimes.de##img[style="margin: 0.1px auto;"]
 fremdwort.de###iojrennab
 fremdwort.de##.col-sm-3
@@ -2347,7 +2310,6 @@ liga3-online.de##.widget.widget_text
 liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
 ln-online.de##[style="position:absolute;left:940px;top:153px;"]
 lvz.de##[style="position:absolute;left:940px;top:153px;"]
-psychic.de##.td.right_td
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
 skodacommunity.de,windows-7-forum.net###oc24_container_top
@@ -2360,56 +2322,17 @@ windows-7-forum.net##[style="z-index: 1000;"]
 windows-7-forum.net##[style="z-index: 1001;"]
 wintotal.de##.widget.widget_wt_wintotal_rotator
 wintotal.de##[style="margin: 10px auto;"]
-||bikerszene.de/*.gif
-||bikerszene.de/*_*-*-*.jpg
-||bikerszene.de/image/*-*-*.jpg
-||bikerszene.de/images/*.jpg
-||bikerszene.de/imags/*.jpg
-||bikerszene.de/imges/*.jpg
-||bikerszene.de/imgesz/*.jpg
-||bikerszene.de/imgez/*.jpg
-||bikerszene.de/imgs/*.jpg
 ||epochtimes.de/*.gif
 ||fremdwort.de/*.gif
 ||liga3-online.de/*.gif
 ||ln-online.de/*.gif
 ||lvz.de/*.gif
 ||mt.de/*.gif
-||nickles.de/image/*/*/*/*.gif
-||nickles.de/images/*/*/*/*.gif
-||nickles.de/imagez/*/*/*/*.gif
-||nickles.de/imags/static/*.gif
-||nickles.de/img/stat/*.gif
-||nickles.de/img/statc/*/*.gif
-||nickles.de/img/static/D/*.gif
-||nickles.de/imgs/static/*.gif
-||nickles.de/imgz/stat/*.gif
-||nickles.de/imgz/statt/D/*.gif
-||nickles.de/imgz/stattc/*.gif
 ||nw.de/*.gif
-||pixelio.de/image/public/*.gif
-||pixelio.de/images/public/*/*.gif
-||pixelio.de/imgs/publ/*.gif
-||pixelio.de/imgs/publc/*/*.gif
-||pixelio.de/imgs/publi/*.gif
-||pixelio.de/imgs/public/*.gif
-||pixelio.de/imgs/publii/D/*.gif
-||pixelio.de/imgs/publiii/*.gif
-||pixelio.de/resources/*/*/*.gif
-||psychic.de/wp-content/plugins/wp-postratings/imags/*.gif
-||psychic.de/wp-content/plugins/wp-postratings/imagz/*.gif
-||psychic.de/wp-content/plugins/wp-postratings/img/D/*.gif
-||psychic.de/wp-content/plugins/wp-postratings/imgs/*.gif
 ||skodacommunity.de/image/*.gif
 ||skodacommunity.de/images/*.gif
 ||skodacommunity.de/imags/*.gif
 ||skodacommunity.de/imgs/*.gif
-||spielfilm.de/image/*.gif
-||spielfilm.de/imags/*.gif
-||spielfilm.de/imagz/U/*.gif
-||weristdeinfreund.de/*.gif
-||weser-kurier.de/*.gif
-||weser-kurier.de/image/public/*.jpg
 ||winboard.org/image/U/*.gif
 ||winboard.org/imags/*.gif
 ||winboard.org/imgs/*.gif
