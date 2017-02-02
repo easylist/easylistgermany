@@ -2298,12 +2298,6 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/teaser/$image,domain=autozeitung.de
-@@||infranken.de/event/img/signet_wer_wo_was.gif
-@@||infranken.de/storage/sym/loaders/loader_big_black.gif
-@@||infranken.de/storage/sym/loaders/loader_small_grey.gif
-@@||infranken.de/templates/img/facelift/zeitungstitel.gif
-@@||infranken.de/templates/img/icons/icon_epaper_neu.gif
-@@||infranken.de/templates/img/link.gif
 @@||ln-online.de/design/standard/images/1x1.gif
 @@||ln-online.de/extension/pd2011/design/ln/images/topicloader.gif
 @@||lvz.de/design/standard/images/1x1.gif
@@ -2376,9 +2370,6 @@ wintotal.de##[style="margin: 10px auto;"]
 ||bikerszene.de/imgs/*.jpg
 ||epochtimes.de/*.gif
 ||fremdwort.de/*.gif
-||infranken.de/*-*-*_*.jpg
-||infranken.de/*.gif
-||infranken.de/imagez/*_*_*_*_*_*_*_*_*.jpg
 ||liga3-online.de/*.gif
 ||ln-online.de/*.gif
 ||lvz.de/*.gif
