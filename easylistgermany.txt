@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702022208
+! Version: 201702022212
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Feb 2017 22:08 UTC
+! Last modified: 02 Feb 2017 22:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1682,7 +1682,6 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 /worker.php$domain=filmpalast.to
 /www/images/*$domain=technic3d.com
 ^what=zone^$domain=ww3.cad.de
-|blob:$script,domain=animes-stream24.net
 |http://$subdocument,third-party,domain=bonimail.de
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
@@ -3439,7 +3438,6 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||stadt-bremerhaven.de/wp-content/uploads/2017/01/pswbanner.png
 ||stadt-werther.de/uploads/tx_macinabanners/
 ||staedte-info.net/bilder/banner_$image
-||static-fb.com^$domain=anime-stream24.com|animes-stream24.net
 ||static-fra.de/nitronow/css/ad.css
 ||static-fra.de/rtlnow/css/ad.css
 ||static-fra.de/wetterv3/css/images/map/icons/knorr.png$domain=wetter.de
@@ -3819,7 +3817,6 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||zumlink.de/public/images/banner/
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
-﻿$websocket,domain=animes-stream24.net
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /flyads/*$domain=stern.de
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
@@ -10983,4 +10980,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: yRy0qeARHygFWkL/gbmZrQ
+! Checksum: NOk4MJOYeipsJQaSakTfpA
