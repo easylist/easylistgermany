@@ -9,6 +9,8 @@
 ! Bitte melde ungeblockte Werbung und fälschlicherweise geblockte Dinge:
 ! Forum: https://forums.lanik.us/viewforum.php?f=90
 ! E-Mail: easylist.germany@gmail.com
+! GitHub issues: https://github.com/easylist/easylistgermany/issues
+! GitHub pull requests: https://github.com/easylist/easylistgermany/pulls 
 !
 !----------------Allgemeine Regeln zum Blockieren von Werbung-----------------!
 %include easylistgermany:easylistgermany/easylistgermany_general_block.txt%
