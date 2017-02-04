@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702041714
+! Version: 201702041715
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 Feb 2017 17:14 UTC
+! Last modified: 04 Feb 2017 17:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3959,13 +3959,9 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/teaser/$image,domain=autozeitung.de
-@@||ln-online.de/design/standard/images/1x1.gif
 @@||ln-online.de/extension/pd2011/design/ln/images/topicloader.gif
-@@||lvz.de/design/standard/images/1x1.gif
 @@||lvz.de/extension/pd2011/design/lvz/images/topicloader.gif
 @@||lvz.de/var/storage/images/lvz/specials/links2/extra2-links/angestupst/333087494-1-ger-DE/Angestupst_pdaExtra.gif
-@@||lvz.de/var/storage/images/lvz/specials/links2/extra2-links/schlingel-familienmagazin/204800228-4-ger-DE/Schlingel-Familienmagazin_pdaExtra.gif
-@@||lvz.de/var/storage/images/lvz/specials/links2/extra2-links/zeitung-in-schulen/333088814-1-ger-DE/Zeitung-in-Schulen_pdaExtra.gif
 @@||lvz.de/var/storage/images/lvz/sport/rb-leipzig/imagelinks-fuer-klicktipps/partner-gruber-nutzfahrzeuge/204991394-8-ger-DE/Partner-Gruber-Nutzfahrzeuge_pdaExtra.gif
 @@||lvz.de/var/storage/images/lvz/sport/rb-leipzig/imagelinks-fuer-klicktipps/partner-sporthaus-am-ring/374374709-8-ger-DE/Partner-Sporthaus-am-Ring_pdaExtra.gif
 @@||nw.de/_em_daten/nw/assets/img/1062x450.gif
@@ -4003,7 +3999,6 @@ wintotal.de##[style="margin: 10px auto;"]
 ||epochtimes.de/*.gif
 ||fremdwort.de/*.gif
 ||iban.de/img/1/btop2.gif
-||ln-online.de/*.gif
 ||mt.de/*.gif
 ||nw.de/*.gif
 ||skodacommunity.de/image/*.gif
@@ -10998,4 +10993,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ghG2vKvjRUkUlPY7EFZPag
+! Checksum: K4Y9mOoax8OrmlKIJTfMmQ
