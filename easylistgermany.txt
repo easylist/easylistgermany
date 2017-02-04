@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702032049
+! Version: 201702041001
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Feb 2017 20:49 UTC
+! Last modified: 04 Feb 2017 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10545,7 +10545,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||g.doubleclick.net/gampad/ads?*&sz=440x$script
 @@||g.doubleclick.net/gampad/ads?*&sz=440x3&$script,domain=gofeminin.de
 @@||g.doubleclick.net/gampad/ads?*&sz=440x4&$script,domain=gofeminin.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=gofeminin.de|rtl.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||galileo.tv/js/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
 @@||gamers.at/images/branding/*/header.
@@ -11002,4 +11002,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: rCzcdMq4BStpDJGITHd2QA
+! Checksum: S0FY4spA9oSFp5By8Et9yQ
