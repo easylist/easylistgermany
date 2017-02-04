@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702041001
+! Version: 201702041131
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 Feb 2017 10:01 UTC
+! Last modified: 04 Feb 2017 11:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5984,6 +5984,7 @@ clap-club.de##.page_caption > #menu_border_wrapper + br + br + br + p
 archiv.raid-rush.ws##.pagebody:first-child > div[style="margin-bottom:80px;height:250px;"]
 golem.de##.paged-cluster-header + div[style="margin:15px 0; min-height:103px;"]
 golem.de##.paged-cluster-header + div[style="margin:15px 0; min-height:266px;"]
+eatsmarter.de##.pane-amazon-product-feed
 freiburger-nachrichten.ch##.pane-frn-content-inserate-slider
 oekoportal.de##.panel-display > .panel-col-side > #block-views-website-block-1
 spiegelfechter.com##.parship
@@ -11002,4 +11003,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: S0FY4spA9oSFp5By8Et9yQ
+! Checksum: LmRipH1gjohcE/MJa9YVAw
