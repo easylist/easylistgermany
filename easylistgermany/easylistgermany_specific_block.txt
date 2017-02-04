@@ -2270,11 +2270,8 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 !
-/[a-zA-Z0-9-+_+\/+]{140,}\.(png|jpg|jpeg|gif)$/$image,domain=deine-tierwelt.de|frustfrei-lernen.de|moviejones.de
 /[a-zA-Z0-9-+_+\/+]{147,}\.(png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|juraforum.de|motorsport-total.com|news.de|pferde.de|spielen.de|tvinfo.de|unicum.de|weser-kurier.de|wetteronline.de|wize.life
-/[a-zA-Z0-9-+_+\/+]{91,}\.(png|jpg|jpeg|gif)$/$image,domain=frag-mutti.de|spielfilm.de|wintotal.de
-/[a-zA-Z0-9-?_?\/?]{91,}\.(png|jpg|jpeg|gif)/$image,domain=gevestor.de|nickles.de|pixelio.de|psychic.de|spielfilm.de|weristdeinfreund.de
-/[a-zA-Z0-9-?_?]{150,}\.(png|jpg|jpeg|gif)/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|motorsport-total.com|moviejones.de|news.de|pferde.de|psychic.de|spielen.de|tvinfo.de|unicum.de|weser-kurier.de|wetteronline.de|wize.life
+/[a-zA-Z0-9_\-]{40,}\/?[a-zA-Z0-9_\-]{30,}\.(png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 @@||autozeitung.de/misc/ajax-loader-alt.gif$domain=autozeitung.de
 @@||autozeitung.de/sites/all/modules/$image,domain=autozeitung.de
 @@||autozeitung.de/sites/default/files/images$image,domain=autozeitung.de
@@ -2325,10 +2322,8 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 wintotal.de##[style="margin: 10px auto;"]
 ||epochtimes.de/*.gif
 ||fremdwort.de/*.gif
-||haz.de/image/stats/*.gif
-||liga3-online.de/*.gif
+||iban.de/img/1/btop2.gif
 ||ln-online.de/*.gif
-||lvz.de/*.gif
 ||mt.de/*.gif
 ||nw.de/*.gif
 ||skodacommunity.de/image/*.gif
