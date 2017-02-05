@@ -1199,6 +1199,7 @@
 ||mov-world.net^*/fidel.js
 ||movie-blog.org/layer/
 ||movie-blog.org/script1.js
+||movie-blog.org^$script,domain=movie-blog.org
 ||movie-blog.org^$subdocument,domain=movie-blog.org|movieblog.to
 ||movie-blog.org^*.php|$script
 ||movie-blog.org^*/stargames.js
