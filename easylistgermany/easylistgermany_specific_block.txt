@@ -2271,8 +2271,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 !
-/[a-zA-Z0-9-+_+\/+]{147,}\.(png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|juraforum.de|motorsport-total.com|news.de|pferde.de|spielen.de|tvinfo.de|unicum.de|weser-kurier.de|wetteronline.de|wize.life
-/[a-zA-Z0-9_\-]{40,}\/?[a-zA-Z0-9_\-]{30,}\.(png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/[a-zA-Z0-9_\-]{40,}\/?[a-zA-Z0-9]{35,}\.(bmp|png|jpg|jpeg|gif|tiff)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 @@||autozeitung.de/misc/ajax-loader-alt.gif$domain=autozeitung.de
 @@||autozeitung.de/sites/all/modules/$image,domain=autozeitung.de
 @@||autozeitung.de/sites/default/files/images$image,domain=autozeitung.de
@@ -2280,11 +2279,6 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/teaser/$image,domain=autozeitung.de
-@@||ln-online.de/extension/pd2011/design/ln/images/topicloader.gif
-@@||lvz.de/extension/pd2011/design/lvz/images/topicloader.gif
-@@||lvz.de/var/storage/images/lvz/specials/links2/extra2-links/angestupst/333087494-1-ger-DE/Angestupst_pdaExtra.gif
-@@||lvz.de/var/storage/images/lvz/sport/rb-leipzig/imagelinks-fuer-klicktipps/partner-gruber-nutzfahrzeuge/204991394-8-ger-DE/Partner-Gruber-Nutzfahrzeuge_pdaExtra.gif
-@@||lvz.de/var/storage/images/lvz/sport/rb-leipzig/imagelinks-fuer-klicktipps/partner-sporthaus-am-ring/374374709-8-ger-DE/Partner-Sporthaus-am-Ring_pdaExtra.gif
 @@||nw.de/_em_daten/nw/assets/img/1062x450.gif
 @@||nw.de/_em_daten/nw/assets/img/128x77.gif
 @@||nw.de/_em_daten/nw/assets/img/318x180.gif
