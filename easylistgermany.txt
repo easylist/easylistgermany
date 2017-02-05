@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702041933
+! Version: 201702051854
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 Feb 2017 19:33 UTC
+! Last modified: 05 Feb 2017 18:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2879,6 +2879,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||mov-world.net^*/fidel.js
 ||movie-blog.org/layer/
 ||movie-blog.org/script1.js
+||movie-blog.org^$script,domain=movie-blog.org
 ||movie-blog.org^$subdocument,domain=movie-blog.org|movieblog.to
 ||movie-blog.org^*.php|$script
 ||movie-blog.org^*/stargames.js
@@ -10612,6 +10613,8 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||mobilbranche.de/mobilbranche/wp-content/uploads/$image,domain=mobilbranche.de
 @@||mobilegeeks.de/wp-content/uploads/*/Google-Ads.$image,domain=mobilegeeks.de
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
+@@||movie-blog.org/wp-content/plugins/$script,domain=movie-blog.org
+@@||movie-blog.org/wp-includes/js/$script,domain=movie-blog.org
 @@||msi-computer.de/js/topad/topad.css
 @@||mstat.freent.de^*/sms_advertising/sms_teaser_$image,domain=webmail.freenet.de
 @@||mybitch.ch/banner/mb_banner$image,domain=ameliatantra.jimdo.com
@@ -10997,4 +11000,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: T+Vf5DKtWHK3RbmcBysJWg
+! Checksum: AA+9DDyOqtVf5lrs1K+EWg
