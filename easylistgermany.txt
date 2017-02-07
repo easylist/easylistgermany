@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702070731
+! Version: 201702071800
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 07 Feb 2017 07:31 UTC
+! Last modified: 07 Feb 2017 18:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3957,7 +3957,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 ! 
-/[a-zA-Z0-9_\-\.]{40,}\/?[a-zA-Z0-9\.]{35,}(bmp|png|jpg|jpeg|gif|tiff)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/[a-zA-Z0-9_\-\.]{40,}\/?[,a-zA-Z0-9\.]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 @@||autozeitung.de/misc/ajax-loader-alt.gif$domain=autozeitung.de
 @@||autozeitung.de/sites/all/modules/$image,domain=autozeitung.de
 @@||autozeitung.de/sites/default/files/images$image,domain=autozeitung.de
@@ -3998,7 +3998,6 @@ windows-7-forum.net##[style="z-index: 1001;"]
 wintotal.de##.widget.widget_wt_wintotal_rotator
 wintotal.de##[style="margin: 10px auto;"]
 ||epochtimes.de/*.gif
-||fremdwort.de/*.gif
 ||iban.de/img/1/btop2.gif
 ||mt.de/*.gif
 ||nw.de/*.gif
@@ -10999,4 +10998,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: LSFx5hJE1T1kAY3qxNleNw
+! Checksum: 8XM7Ty0p9fi7Ista3VbyVg
