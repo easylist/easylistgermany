@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702071800
+! Version: 201702071820
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 07 Feb 2017 18:00 UTC
+! Last modified: 07 Feb 2017 18:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8521,7 +8521,7 @@ runnersworld.de##[-abp-properties='/margin-left: 4[0-8][0-9]|49[0-9]px;/'] > img
 antenne.de,autopixx.de,boerse.de,comunio.de,hoerzu.de,nnn.de,prignitzer.de,promobil.de,spox.com,svz.de,testedich.de,tvtoday.de,wn.de,woxikon.de##[-abp-properties='/margin-left: 5[0-8][0-9]|59[0-9]px;/']
 runnersworld.de##[-abp-properties='/margin-left: 5[0-8][0-9]|59[0-9]px;/'] > img
 abendzeitung-muenchen.de,antenne.de,arcor.de,autopixx.de,boerse.de,chefkoch.de,comunio.de,eatsmarter.de,finanztreff.de,gamezone.de,hoerzu.de,menshealth.de,moviepilot.de,mtb-news.de,nnn.de,prignitzer.de,promipool.de,promobil.de,runnersworld.de,sportal.de,spox.com,svz.de,testedich.de,tvtoday.de,wn.de##[-abp-properties='/margin-left: 6[0-8][0-9]|69[0-9]px;/']
-abendzeitung-muenchen.de,antenne.de,arcor.de,autopixx.de,boerse.de,caravaning.de,comunio.de,eatsmarter.de,finanztreff.de,gamesaktuell.de,gamestar.de,gamezone.de,hoerzu.de,ligainsider.de,menshealth.de,motorradonline.de,moviepilot.de,nnn.de,pcgames.de,pcgameshardware.de,pnn.de,prignitzer.de,promipool.de,promobil.de,runnersworld.de,sportal.de,spox.com,svz.de,testedich.de,tvtoday.de,wn.de##[-abp-properties='/margin-left: 7[0-8][0-9]|79[0-9]px;/']
+abendzeitung-muenchen.de,antenne.de,arcor.de,autopixx.de,boerse.de,caravaning.de,eatsmarter.de,finanztreff.de,gamesaktuell.de,gamestar.de,gamezone.de,hoerzu.de,ligainsider.de,menshealth.de,motorradonline.de,moviepilot.de,nnn.de,pcgames.de,pcgameshardware.de,pnn.de,prignitzer.de,promipool.de,promobil.de,runnersworld.de,sportal.de,spox.com,svz.de,testedich.de,tvtoday.de,wn.de##[-abp-properties='/margin-left: 7[0-8][0-9]|79[0-9]px;/']
 abendzeitung-muenchen.de,antenne.de,arcor.de,auto-service.de,autopixx.de,boerse.de,caravaning.de,cavallo.de,eatsmarter.de,elektrobike-online.com,finanztreff.de,gamepro.de,gamesaktuell.de,gamestar.de,gamezone.de,hoerzu.de,klettern-magazin.de,klettern.de,ligainsider.de,motorradonline.de,mountainbike-magazin.de,moviepilot.de,nwzonline.de,outdoor-magazin.com,outdoorchannel.de,pcgames.de,pcgameshardware.de,planetsnow.de,promipool.de,promobil.de,roadbike.de,sportal.de,spox.com,testedich.de,tvtoday.de,videogameszone.de,webfail.com,wn.de##[-abp-properties='/margin-left: 8[0-8][0-9]|89[0-9]px;/']
 mtb-news.de,ran.de,runnersworld.de##[-abp-properties='/margin-left: 8[0-9]px;/']
 pcgames.de##[-abp-properties='/margin-left: 8[0-9]px;/'] > img
@@ -10998,4 +10998,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 8XM7Ty0p9fi7Ista3VbyVg
+! Checksum: 2o+kQ1+IMaa1fIDNq6VmJA
