@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702080740
+! Version: 201702081752
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Feb 2017 07:40 UTC
+! Last modified: 08 Feb 2017 17:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -555,7 +555,7 @@ schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 cnet.de,deals.chip.de#@#a[href^="http://pubads.g.doubleclick.net/"]
 onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net#@#a[href^="https://ad.doubleclick.net/"]
-daswetter.com#@#div[id^="div-gpt-ad"]
+daswetter.com,gofeminin.de#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
 gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ! Anti-Adblock
@@ -10973,4 +10973,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: bNDO/VNDL/guBfJakWEtbQ
+! Checksum: oIkQJvZfNakqxUeFq2BVHQ
