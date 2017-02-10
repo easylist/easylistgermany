@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702090745
+! Version: 201702100736
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 09 Feb 2017 07:45 UTC
+! Last modified: 10 Feb 2017 07:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3956,6 +3956,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 ! 
+/[a-zA-Z\d_\-\.]{40,}\/-?[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /[a-zA-Z\d_\-\.]{40,}\/?[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 @@||autozeitung.de/misc/ajax-loader-alt.gif$domain=autozeitung.de
 @@||autozeitung.de/sites/all/modules/$image,domain=autozeitung.de
@@ -3964,15 +3965,6 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
 @@||fotos.autozeitung.de^*/images/teaser/$image,domain=autozeitung.de
-@@||nw.de/_em_daten/nw/assets/img/1062x450.gif
-@@||nw.de/_em_daten/nw/assets/img/128x77.gif
-@@||nw.de/_em_daten/nw/assets/img/318x180.gif
-@@||nw.de/_em_daten/nw/assets/img/320x194.gif
-@@||nw.de/_em_daten/nw/assets/img/50x50.gif
-@@||nw.de/_em_daten/nw/assets/img/660x396.gif
-@@||nw.de/_em_daten/nw/assets/img/fancybox/fancybox_loading@2x.gif
-@@||nw.de/_em_daten/nw/assets/img/logo.gif
-@@||nw.de/_em_daten/nw/assets/img/logo_sticky.gif
 abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 bauexpertenforum.de,usp-forum.de,winboard.org##.above_header
 epochtimes.de##img[style="margin: 0.1px auto;"]
@@ -3998,8 +3990,6 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 wintotal.de##[style="margin: 10px auto;"]
 ||epochtimes.de/*.gif
 ||iban.de/img/1/btop2.gif
-||mt.de/*.gif
-||nw.de/*.gif
 ||skodacommunity.de/image/*.gif
 ||skodacommunity.de/images/*.gif
 ||skodacommunity.de/imags/*.gif
@@ -10965,4 +10955,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: tdPhj52NbkvG65MZD7a7Yg
+! Checksum: EuSHYWFeEysLOqW45ELpSg
