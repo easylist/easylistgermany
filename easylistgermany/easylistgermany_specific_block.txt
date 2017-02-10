@@ -3,7 +3,6 @@
 /oase_banner.jpg$domain=mysummit.wordpress.com
 /worker.php$domain=filmpalast.to
 /www/images/*$domain=technic3d.com
-@@||onvista.de/*/ad_bomb$image,domain=onvista.de
 ^what=zone^$domain=ww3.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
 |http://byte.to^$script
