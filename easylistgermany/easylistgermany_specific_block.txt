@@ -7,7 +7,6 @@
 |http://$subdocument,third-party,domain=bonimail.de
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
-|https://*.bs.to^$script,domain=~board.bs.to|bs.to
 |onvista.de/news/boxes/ner$image,domain=onvista.de
 ||1000hp.net/banner/
 ||149.13.77.20^$domain=ww3.cad.de
