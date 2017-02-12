@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702121303
+! Version: 201702121711
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Feb 2017 13:03 UTC
+! Last modified: 12 Feb 2017 17:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3966,8 +3966,8 @@ iban.de##.ibanafar2
 skodacommunity.de,windows-7-forum.net##.section.funbox
 liga3-online.de##.widget.widget_text
 wintotal.de##.widget.widget_wt_wintotal_rotator
-/[a-zA-Z\d_\-\.]{40,}\/[^A-Za-z0-9]{1,}[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
-/\/[^A-Za-z0-9]{1,}[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=finya.de
+/[a-zA-Z\d_\-\.]{40,}\/[^A-Za-z0-9]{0,}[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[^A-Za-z0-9]{0,}[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=finya.de
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
 liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
@@ -10956,4 +10956,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: WJs2+fktaPA1rcgRFc31kA
+! Checksum: mI2iV2YIgmq8OZMOC2vj8g
