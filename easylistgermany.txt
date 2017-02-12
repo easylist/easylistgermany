@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702122023
+! Version: 201702122032
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Feb 2017 20:23 UTC
+! Last modified: 12 Feb 2017 20:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1688,7 +1688,6 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 |http://$subdocument,third-party,domain=bonimail.de
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
-|https://*.bs.to^$script,domain=~board.bs.to|bs.to
 |onvista.de/news/boxes/ner$image,domain=onvista.de
 ||1000hp.net/banner/
 ||149.13.77.20^$domain=ww3.cad.de
@@ -10306,7 +10305,6 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@/cdn-cgi/pe/bag2?r[]=*popads.net$xmlhttprequest,domain=playporn.to
 @@|http://byte.to/js/javascript.js|
 @@|http://byte.to/js/wz_tooltip.js|
-@@|https://$generichide,domain=bs.to
 @@|https://*.js?_=$script,domain=freenet.de
 @@||1000steine.de/img/ads/
 @@||123people.us/trackads/display?zones=$script,domain=123people.de
@@ -10344,7 +10342,6 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||adition.com/js?wp_id=$script,domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de
 @@||adition.com/s?t=$script,domain=ambellis.de|mirapodo.de|mytoys.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
-@@||adk2.com/tags/banner.js$subdocument,domain=bs.to
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
 @@||admedia.adgemini.de^$~third-party
 @@||admeld.com/ad/js/*/game-page?$script,domain=jetztspielen.de|spielen.com
@@ -10623,9 +10620,6 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||rtl.de^*/admeta.xml?$object-subrequest
 @@||rtl.de^*/player_modul_onclick_300x250.jpg
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
-@@||s.bs.to/js/heartcode-canvas-loader.js|$domain=~board.bs.to|bs.to
-@@||s.bs.to/js/jquery.js|$script,domain=~board.bs.to|bs.to
-@@||s.bs.to/js/main.min.js|$script,domain=~board.bs.to|bs.to
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
 @@||sascdn.com/diff/251/$image,domain=transfermarkt.de
 @@||sascdn.com/diff/251/*&frameId=sas_5419_$document,subdocument,domain=welt.de
@@ -10741,7 +10735,6 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||wn.de/var/storage/images/*_300_250.$image,~third-party
 @@||xfind.de/banner/$image,domain=searchx.ch
 @@||yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
-@@||youradexchange.com/script/packcpm.php?r=$script,domain=bs.to
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|gutscheindoktor.de|notenbuch24.de|preismafia.com
 ! "Matched Content" by Google (https://support.google.com/adsense/answer/6111336)
 @@||g.doubleclick.net/pagead/ads?*^slotname=3722556080^$document,subdocument,domain=kalender-365.de
@@ -10956,4 +10949,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 8klO7LYEHJA/0amegrfelA
+! Checksum: ZkZ3CpayRzvCNROlEd72lQ
