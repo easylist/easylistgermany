@@ -2276,38 +2276,27 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 !
-/[a-zA-Z\d_\-\.]{40,}\/-?[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
-/[a-zA-Z\d_\-\.]{40,}\/?[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
-@@||autozeitung.de/misc/ajax-loader-alt.gif$domain=autozeitung.de
-@@||autozeitung.de/sites/all/modules/$image,domain=autozeitung.de
-@@||autozeitung.de/sites/default/files/images$image,domain=autozeitung.de
-@@||fotos.autozeitung.de/*/images/bildergalerie$image,domain=autozeitung.de
-@@||fotos.autozeitung.de/marken_logo_sidebar/images/markenlogos/$image,domain=autozeitung.de
-@@||fotos.autozeitung.de^*/images/baukasten/$image,domain=autozeitung.de
-@@||fotos.autozeitung.de^*/images/teaser/$image,domain=autozeitung.de
-abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
-bauexpertenforum.de,usp-forum.de,winboard.org##.above_header
-epochtimes.de##img[style="margin: 0.1px auto;"]
 fremdwort.de###iojrennab
+skodacommunity.de,windows-7-forum.net###oc24_container_top
+liga3-online.de###skyscraperstart
+bauexpertenforum.de,usp-forum.de,win-10-forum.de,winboard.org##.above_header
 fremdwort.de##.col-sm-3
 iban.de##.ibanafar2
-liga3-online.de###skyscraperstart
+skodacommunity.de,windows-7-forum.net##.section.funbox
 liga3-online.de##.widget.widget_text
-liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
-ln-online.de##[style="position:absolute;left:940px;top:153px;"]
-lvz.de##[style="position:absolute;left:940px;top:153px;"]
+wintotal.de##.widget.widget_wt_wintotal_rotator
+/[a-zA-Z\d_\-\.]{40,}\/[^A-Za-z0-9]{1,}[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[^A-Za-z0-9]{1,}[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=finya.de
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
-skodacommunity.de,windows-7-forum.net###oc24_container_top
-skodacommunity.de,windows-7-forum.net##.section.funbox
-win-10-forum.de##.above_header
-winboard.org##[style="z-index: 1000;"]
-winboard.org##[style="z-index: 1001;"]
-winboard.org##li[style="margin-bottom: 15px;"]
-windows-7-forum.net##[style="z-index: 1000;"]
-windows-7-forum.net##[style="z-index: 1001;"]
-wintotal.de##.widget.widget_wt_wintotal_rotator
+liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
 wintotal.de##[style="margin: 10px auto;"]
+ln-online.de,lvz.de##[style="position:absolute;left:940px;top:153px;"]
+winboard.org,windows-7-forum.net##[style="z-index: 1000;"]
+winboard.org,windows-7-forum.net##[style="z-index: 1001;"]
+epochtimes.de##img[style="margin: 0.1px auto;"]
+winboard.org##li[style="margin-bottom: 15px;"]
+abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 ||epochtimes.de/*.gif
 ||iban.de/img/1/btop2.gif
 ||skodacommunity.de/image/*.gif
