@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702122032
+! Version: 201702131736
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Feb 2017 20:32 UTC
+! Last modified: 13 Feb 2017 17:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3434,6 +3434,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||stadt-bremerhaven.de/grafiken/getgoods2013.jpg
 ||stadt-bremerhaven.de/grafiken/gg_banner_320x100_ani.gif
 ||stadt-bremerhaven.de/grafiken/paragon.jpg
+||stadt-bremerhaven.de/grafiken/pswbanner.jpg
 ||stadt-bremerhaven.de/grafiken/redcoon.jpg
 ||stadt-bremerhaven.de/wp-content/uploads/2014/02/brandbox-sony-vaio-multi-flip.png
 ||stadt-bremerhaven.de/wp-content/uploads/2016/11/h8bf.jpg
@@ -10949,4 +10950,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ZkZ3CpayRzvCNROlEd72lQ
+! Checksum: KKICyTdqgJK5l1gkWsLghA
