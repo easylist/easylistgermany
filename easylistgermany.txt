@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702132243
+! Version: 201702132248
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Feb 2017 22:43 UTC
+! Last modified: 13 Feb 2017 22:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3831,6 +3831,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 @@||adition.com/s?$script,domain=spiegel.de
 @@||autobild.de^$genericblock,generichide
 @@||bento.de^$generichide
+@@||bf-ad.net/makabo/js_ng/adplayer/js/adplayer.min.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
 @@||focus.de^$genericblock
@@ -3893,7 +3894,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||adition.com^$domain=g.doubleclick.net|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
 ||adition.com^$popup,domain=spiegel.de
 ||adnet.de^$domain=tellows.de
-||adnxs.com^$domain=autobild.de|gala.de|stern.de
+||adnxs.com^$domain=autobild.de|focus.de|gala.de|stern.de
 ||adrolays.de^$domain=autobild.de|transfermarkt.de
 ||adsafeprotected.com^$domain=imasdk.googleapis.com|spiegel.de
 ||adscale.de^$domain=tellows.de
@@ -3949,7 +3950,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||teads.tv^$domain=autobild.de|spiegel.de|transfermarkt.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
 ||unrulymedia.com^$domain=focus.de
-||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
+||yieldlab.net^$domain=autobild.de|focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 ! 
 fremdwort.de###iojrennab
 skodacommunity.de,windows-7-forum.net###oc24_container_top
@@ -10942,4 +10943,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: c4haFiU4knepoHqs9EQVlA
+! Checksum: u77F7Bj3x5U/f1HMnX0crA
