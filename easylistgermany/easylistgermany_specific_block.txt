@@ -2150,6 +2150,7 @@
 @@||adition.com/s?$script,domain=spiegel.de
 @@||autobild.de^$genericblock,generichide
 @@||bento.de^$generichide
+@@||bf-ad.net/makabo/js_ng/adplayer/js/adplayer.min.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
 @@||focus.de^$genericblock
@@ -2212,7 +2213,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||adition.com^$domain=g.doubleclick.net|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|transfermarkt.de
 ||adition.com^$popup,domain=spiegel.de
 ||adnet.de^$domain=tellows.de
-||adnxs.com^$domain=autobild.de|gala.de|stern.de
+||adnxs.com^$domain=autobild.de|focus.de|gala.de|stern.de
 ||adrolays.de^$domain=autobild.de|transfermarkt.de
 ||adsafeprotected.com^$domain=imasdk.googleapis.com|spiegel.de
 ||adscale.de^$domain=tellows.de
@@ -2268,7 +2269,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||teads.tv^$domain=autobild.de|spiegel.de|transfermarkt.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
 ||unrulymedia.com^$domain=focus.de
-||yieldlab.net^$domain=autobild.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
+||yieldlab.net^$domain=autobild.de|focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|spiegel.de|stern.de|transfermarkt.de
 !
 fremdwort.de###iojrennab
 skodacommunity.de,windows-7-forum.net###oc24_container_top
