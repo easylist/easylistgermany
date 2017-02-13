@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702132144
+! Version: 201702132243
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Feb 2017 21:44 UTC
+! Last modified: 13 Feb 2017 22:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3883,7 +3883,7 @@ g.doubleclick.net###adunit
 spiegel.de##.article-section.clearfix > .asset-box.asset-buchwerbekasten.clearfix
 widgets.outbrain.com##.OUTBRAIN[data-src^="http://www.spiegel.de/"] .ob-p
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
-||a-ssl.ligatus.com^$domain=gala.de|stern.de
+||a-ssl.ligatus.com^$domain=gala.de|spiegel.de|stern.de
 ||ad-srv.net^$domain=tellows.de
 ||ad.71i.de^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||ad.doubleclick.net^$domain=spiegel.de
@@ -10942,4 +10942,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: CxGWcG5snj5Ej8mMyKE0QQ
+! Checksum: c4haFiU4knepoHqs9EQVlA
