@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702131738
+! Version: 201702131818
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Feb 2017 17:38 UTC
+! Last modified: 13 Feb 2017 18:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1688,7 +1688,6 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 |http://$subdocument,third-party,domain=bonimail.de
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
-|onvista.de/news/boxes/ner$image,domain=onvista.de
 ||1000hp.net/banner/
 ||149.13.77.20^$domain=ww3.cad.de
 ||193.107.16.142/f.php
@@ -3024,14 +3023,6 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||onlinewahn.de/sky.js
 ||onlinewelten.com/img/sponsor/
 ||onlinewelten.com/uploads/brandings/
-||onvista.de/news/boxes/nest$image,domain=onvista.de
-||onvista.de/news/boxes/nev$image,domain=onvista.de
-||onvista.de/news/boxes/nevv$image,domain=onvista.de
-||onvista.de/news/boxes/new-image-*?newsId=*&width=*&height=$image,domain=onvista.de
-||onvista.de/news/boxes/news-image-*?newsId=*&width=*&height=$image,domain=onvista.de
-||onvista.de/news/boxes/next$image,domain=onvista.de
-||onvista.de/news/boxes/neyt$image,domain=onvista.de
-||onvista.de/news/boxes/nezt$image,domain=onvista.de
 ||orf.at/mojo/*/banner.html
 ||orientierungslauf.de/images/anzeige_neu/
 ||orientierungslauf.de/images/anzeigen/
@@ -3827,6 +3818,9 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||zumlink.de/public/images/banner/
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
+! onvista.de
+@@||onvista.de/news/boxes/news-image/?newsId=*&width=*&height=$image,domain=onvista.de
+||www.onvista.de/news/boxes/$image,domain=onvista.de
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /flyads/*$domain=stern.de
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
@@ -10950,4 +10944,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: RaXRmr0WuoqAaBv9r+pJzA
+! Checksum: eMa0ZGRBDS269BlrjUbmLQ
