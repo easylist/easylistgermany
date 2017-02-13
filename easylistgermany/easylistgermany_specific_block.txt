@@ -7,7 +7,6 @@
 |http://$subdocument,third-party,domain=bonimail.de
 |http://byte.to^$script
 |http://lustich.de/bilder/*_*-
-|onvista.de/news/boxes/ner$image,domain=onvista.de
 ||1000hp.net/banner/
 ||149.13.77.20^$domain=ww3.cad.de
 ||193.107.16.142/f.php
@@ -1343,14 +1342,6 @@
 ||onlinewahn.de/sky.js
 ||onlinewelten.com/img/sponsor/
 ||onlinewelten.com/uploads/brandings/
-||onvista.de/news/boxes/nest$image,domain=onvista.de
-||onvista.de/news/boxes/nev$image,domain=onvista.de
-||onvista.de/news/boxes/nevv$image,domain=onvista.de
-||onvista.de/news/boxes/new-image-*?newsId=*&width=*&height=$image,domain=onvista.de
-||onvista.de/news/boxes/news-image-*?newsId=*&width=*&height=$image,domain=onvista.de
-||onvista.de/news/boxes/next$image,domain=onvista.de
-||onvista.de/news/boxes/neyt$image,domain=onvista.de
-||onvista.de/news/boxes/nezt$image,domain=onvista.de
 ||orf.at/mojo/*/banner.html
 ||orientierungslauf.de/images/anzeige_neu/
 ||orientierungslauf.de/images/anzeigen/
@@ -2146,6 +2137,9 @@
 ||zumlink.de/public/images/banner/
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
+! onvista.de
+@@||onvista.de/news/boxes/news-image/?newsId=*&width=*&height=$image,domain=onvista.de
+||www.onvista.de/news/boxes/$image,domain=onvista.de
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /flyads/*$domain=stern.de
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
