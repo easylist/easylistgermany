@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702131818
+! Version: 201702132144
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Feb 2017 18:18 UTC
+! Last modified: 13 Feb 2017 21:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3960,8 +3960,8 @@ iban.de##.ibanafar2
 skodacommunity.de,windows-7-forum.net##.section.funbox
 liga3-online.de##.widget.widget_text
 wintotal.de##.widget.widget_wt_wintotal_rotator
-/[a-zA-Z\d_\-\.]{40,}\/[^A-Za-z0-9]{0,}[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
-/\/[^A-Za-z0-9]{0,}[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=finya.de
+/[a-zA-Z\d_\-\.]{40,}\/[\d\D]{0,}[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[^A-Za-z]{0,}[^_-]{35,}(bmp|png|jpg|jpeg|gif)$/$image,domain=finya.de
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
 liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
@@ -10890,8 +10890,6 @@ kalender-365.de#@#.adsbygoogle
 @@||teleskipp.de/jump/www/delivery/ajs.php?zoneid=$script,domain=mv-spion.de
 @@||tiervermittlung.de/adblock.js
 @@||tiervermittlung.de/advertisement.js
-@@||tisoomi-services.com/js/services.js?id=$domain=motorsport-total.com
-@@||tisoomi-services.com^$image,domain=motorsport-total.com
 @@||tobinsteuer.de^$elemhide
 @@||tower-defense-spiele.de/wp-content/themes/Denver/js/ads.js
 @@||ttads.de/www/delivery/banner/ads/click.js
@@ -10944,4 +10942,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: eMa0ZGRBDS269BlrjUbmLQ
+! Checksum: CxGWcG5snj5Ej8mMyKE0QQ
