@@ -2202,7 +2202,7 @@ g.doubleclick.net###adunit
 spiegel.de##.article-section.clearfix > .asset-box.asset-buchwerbekasten.clearfix
 widgets.outbrain.com##.OUTBRAIN[data-src^="http://www.spiegel.de/"] .ob-p
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
-||a-ssl.ligatus.com^$domain=gala.de|stern.de
+||a-ssl.ligatus.com^$domain=gala.de|spiegel.de|stern.de
 ||ad-srv.net^$domain=tellows.de
 ||ad.71i.de^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||ad.doubleclick.net^$domain=spiegel.de
