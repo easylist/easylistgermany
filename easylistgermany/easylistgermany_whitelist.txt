@@ -185,7 +185,9 @@
 @@||g.doubleclick.net/gampad/ads?*&sz=440x$script
 @@||g.doubleclick.net/gampad/ads?*&sz=440x3&$script,domain=gofeminin.de
 @@||g.doubleclick.net/gampad/ads?*&sz=440x4&$script,domain=gofeminin.de
+@@||g.doubleclick.net/gampad/ads?*^sz=970x250^$subdocument,domain=welt.de
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
+@@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||galileo.tv/js/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
 @@||gamers.at/images/branding/*/header.
@@ -321,7 +323,7 @@
 @@||sascdn.com/diff/251/$image,domain=transfermarkt.de
 @@||sascdn.com/diff/251/*&frameId=sas_5419_$document,subdocument,domain=welt.de
 @@||sascdn.com/diff/251/*650$image,domain=gofeminin.de
-@@||sascdn.com/diff/251/5316574/*_970x250$image,domain=welt.de
+@@||sascdn.com/diff/251/*970x250$image,domain=welt.de
 @@||sascdn.com/diff/251/5489376/500x305_ms_wei_.jpg$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/pages/$script,domain=derwesten.de|gofeminin.de|hoerzu.de|transfermarkt.de
 @@||sascdn.com/diff/251/pages/autobild.js$domain=autobild.de
