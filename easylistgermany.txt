@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702261605
+! Version: 201702261621
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Feb 2017 16:05 UTC
+! Last modified: 26 Feb 2017 16:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5275,6 +5275,7 @@ oxygen-scene.com##.adoxygen
 baronbuff.de##.adp_pls
 20min.ch,250kb.de,app-kostenlos.de,arbeitszeugnisgenerator.de,bild.de,channelpartner.de,dhb.de,eintracht.de,erdbeerlounge.de,fischkopf.de,giga.de,helpster.de,israelnetz.com,mtv.de,playmassive.de,tageblatt.lu,tecchannel.de,tus-n-luebbecke.de,viamichelin.at,viamichelin.ch,worldofminecraft.eu,zdnet.de##.ads
 psychic.de##.ads5
+tagesanzeiger.ch##.adsTitle
 e-hausaufgaben.de##.adscontntad
 duden.de##.adsense
 skodacommunity.de##.adsenseContainer + div[align="center"]
@@ -11034,4 +11035,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: /GjR7Pqv9giwlBBwSM5t0g
+! Checksum: uOfv2nlm72C7I9g+4Lpouw
