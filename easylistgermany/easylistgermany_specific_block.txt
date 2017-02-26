@@ -2268,8 +2268,7 @@ iban.de##.ibanafar2
 skodacommunity.de,windows-7-forum.net##.section.funbox
 liga3-online.de##.widget.widget_text
 wintotal.de##.widget.widget_wt_wintotal_rotator
-/\/[A-Za-z0-9_-]{16,}\.(bmp|jpeg|gif)$/$image,domain=finya.de
-/\/[a-zA-Z0-9]{44,}\/[\d\D]{1,}?[^_-]{16,}(bmp|png|jpg|jpeg|gif)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|lz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[a-zA-Z0-9]{44,}\/[\d\D]{1,}?[^_-]{10,}\.gif$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|lz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
 liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
@@ -2281,6 +2280,7 @@ epochtimes.de##img[style="margin: 0.1px auto;"]
 winboard.org##li[style="margin-bottom: 15px;"]
 abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 ||epochtimes.de/*.gif
+||finya.de/imags-z/$domain=finya.de
 ||iban.de/img/1/btop2.gif
 ||skodacommunity.de/image/*.gif
 ||skodacommunity.de/images/*.gif
