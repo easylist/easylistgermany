@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702261534
+! Version: 201702261542
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Feb 2017 15:34 UTC
+! Last modified: 26 Feb 2017 15:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10420,14 +10420,14 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||adclient.uimserv.net/banner?$script,domain=millionenklick.web.de
 @@||adimg.uimserv.net^$image,domain=millionenklick.web.de
 @@||adindex.de^*^gutschein_$subdocument,domain=gutscheindoktor.de
-@@||adition.com/banner?sid=$script,domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de
-@@||adition.com/banners/$image,domain=ambellis.de|dsl.freenet.de|mirapodo.de|mytoys.de
+@@||adition.com/banner?sid=$script,domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de|yomonda.de
+@@||adition.com/banners/$image,domain=ambellis.de|dsl.freenet.de|mirapodo.de|mytoys.de|yomonda.de
 @@||adition.com/banners/$image,object,domain=payback.de
 @@||adition.com/crossdomain.xml$object-subrequest,domain=hd-plus.de
-@@||adition.com/js/adition.js$domain=ambellis.de|mirapodo.de|mytoys.de
-@@||adition.com/js/srp.js$domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de
-@@||adition.com/js?wp_id=$script,domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de
-@@||adition.com/s?t=$script,domain=ambellis.de|mirapodo.de|mytoys.de
+@@||adition.com/js/adition.js$domain=ambellis.de|mirapodo.de|mytoys.de|yomonda.de
+@@||adition.com/js/srp.js$domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de|yomonda.de
+@@||adition.com/js?wp_id=$script,domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de|yomonda.de
+@@||adition.com/s?t=$script,domain=ambellis.de|mirapodo.de|mytoys.de|yomonda.de
 @@||adition.com/track?$object-subrequest,domain=hd-plus.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
 @@||admedia.adgemini.de^$~third-party
@@ -11036,4 +11036,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: +bc5w3MEtzImnM1df76tjQ
+! Checksum: ke/bQwBf5JnTrTf0BlVgZQ
