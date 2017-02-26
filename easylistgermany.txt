@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702261644
+! Version: 201702261651
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Feb 2017 16:44 UTC
+! Last modified: 26 Feb 2017 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4121,6 +4121,7 @@ teltarif.de###LxFloatShop
 teltarif.de###LxShop
 mopo.de###MOPO-ad-uap-super-banner
 ciao.de###MainRightColumn
+windows-7-forum.net###MidRectangle
 werkzeug-news.de###MitteRechts > .infoblock
 abacho.de###MomondoWidgetSidebar
 onmeda.de###PARTNERANGEBOTE
@@ -5163,7 +5164,7 @@ zelluloid.de###zTopBanner
 onvista.de##.ANZEIGE.FLOAT_RECHTS + ul
 kimeta.de,vol.at##.Ad
 v-i-t-t-i.de##.AmazonSimpleAdmin_widget_inner
-fr-online.de,unixboard.de##.Anzeige
+fr-online.de,unixboard.de,windows-7-forum.net##.Anzeige
 stadtradio-goettingen.de##.Anzeigen
 bluray-disc.de##.AnzeigenBlock2
 schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##.AnzeigenHead
@@ -11037,4 +11038,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: wsrmpgn5H9JVB5VwBgN97w
+! Checksum: O9nX895H9+U1xybao8DDuQ
