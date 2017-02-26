@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201702261542
+! Version: 201702261552
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Feb 2017 15:42 UTC
+! Last modified: 26 Feb 2017 15:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8489,13 +8489,10 @@ sat1gold.de,the-voice-of-germany.de##[-abp-properties='/left: [2-8][0-9][0-9]|9[
 sat1gold.de,the-voice-of-germany.de##[-abp-properties='/left: [2-8][0-9]|9[0-9]|1[0-4][0-9]|150px;/'] > img
 serienjunkies.de##[-abp-properties='/left: [3-5][0-9]|60px;/']
 sat1gold.de##[-abp-properties='/left: [3-8][0-9]|9[0-9]|1[0-9][0-9]|200px;/']
-wetter.com##[-abp-properties='/left: [3-8][0-9]|9[0-9]|[12][0-9][0-9]|300px;/']
 sat1gold.de,the-voice-of-germany.de##[-abp-properties='/left: [4-8][0-9]|9[0-9]|1[0-4][0-9]|150px;/'] > img
 sat1gold.de,the-voice-of-germany.de##[-abp-properties='/left: [5-8][0-9][0-9]|9[0-8][0-9]|99[0-9]|1[0-4][0-9][0-9]|1500px;/']
-wetter.com##[-abp-properties='/left: [5-8][0-9]|9[0-9]|[12][0-9][0-9]|300.*px;/']
 sat1gold.de,the-voice-of-germany.de##[-abp-properties='/left: [78][0-9][0-9]|9[0-8][0-9]|99[0-9]|[12][0-9][0-9][0-9]|3000px;/']
 auto-service.de##[-abp-properties='/margin-left: -1[0-8][0-9]|19[0-9]px;/']
-wetter.com##[-abp-properties='/margin-left: -[1-8][0-9]|9[0-9]|[1-4][0-9][0-9]|500px;/']
 ariva.de,boerse-online.de,hoerzu.de,motorradonline.de,mtb-news.de,nnn.de,prignitzer.de,readmore.de,svz.de##[-abp-properties='/margin-left: 1[0-8][0-9][0-9]|19[0-8][0-9]|199[0-9]px;/']
 pcgames.de,buffed.de,woxikon.de##[-abp-properties='/margin-left: 1[0-8][0-9]{2}|19[0-8][0-9]|199[0-9]px;/']
 news.at,nwzonline.de,ran.de,wn.de##[-abp-properties='/margin-left: 1[0-8][0-9]|19[0-9]px;/']
@@ -11036,4 +11033,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ke/bQwBf5JnTrTf0BlVgZQ
+! Checksum: bhd+qSHct24gJNIvbbi3WA
