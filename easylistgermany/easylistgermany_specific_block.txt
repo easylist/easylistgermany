@@ -2140,9 +2140,7 @@
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! onvista.de
-@@||onvista.de/news/boxes/ad-$image,domain=onvista.de
-@@||onvista.de/news/boxes/ad_$image,domain=onvista.de
-@@||onvista.de/news/boxes/ad_cache/$image,domain=onvista.de
+@@||onvista.de/news/$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*&width=*&height=*-$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*&width=*&height=*_$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*-*&width=*&height=$image,domain=onvista.de
