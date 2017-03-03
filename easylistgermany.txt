@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703030738
+! Version: 201703031730
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Mar 2017 07:38 UTC
+! Last modified: 03 Mar 2017 17:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3956,8 +3956,7 @@ skodacommunity.de,windows-7-forum.net##.section.funbox
 liga3-online.de##.widget.widget_text
 wintotal.de##.widget.widget_wt_wintotal_rotator
 /\/[^/]{44,}\/[^/]{1,}\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
-/\/[a-z-]+[a-z0-9]{44,}\/[A-z0-9-]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
-/src=wotexte\/vermarktung\/snippets\/[A-Za-z0-9]+\/wotexte_teaserSlider_image_02_\/[A-Za-z0-9]+\.(jpg|gif|jpeg|png)$/$image,domain=wetteronline.de
+/https?:\/\/([a-z\.]+\/){2}[^\/]{44,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
 liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
@@ -10467,7 +10466,9 @@ wize.life##.skyscraper_1
 wize.life##.superbanner_1
 gevestor.de##.top_ads
 tellows.de##[id^="google_ads_iframe"]
+rp-online.de##[style="margin-left: 106.1px;"]
 rp-online.de##[style="margin-left: 142.1px;"]
+rp-online.de##[style="margin-left: 142.2px;"]
 frag-mutti.de##[style="width: 300px; right: -140px;"]
 e-hausaufgaben.de##div[style="background-color: rgb(221, 221, 221);"]
 gevestor.de##div[style="position: relative; width: 1020px; margin: 0px auto;"]
@@ -11142,4 +11143,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: hQRVd9QCXSFdOE4KDiMvuQ
+! Checksum: n4n98m64nZg6rP97xWY4Zg
