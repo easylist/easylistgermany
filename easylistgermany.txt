@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703020745
+! Version: 201703030736
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Mar 2017 07:45 UTC
+! Last modified: 03 Mar 2017 07:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3955,8 +3955,9 @@ iban.de##.ibanafar2
 skodacommunity.de,windows-7-forum.net##.section.funbox
 liga3-online.de##.widget.widget_text
 wintotal.de##.widget.widget_wt_wintotal_rotator
-/\/%[\d\D]{0,}[a-zA-Z0-9]{44}\/[\d\D]{1,}\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|lz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
-/\/[^A-Z^a-z]{0,}[a-zA-Z0-9]{44}\/[\d\D]{1,}\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|lz.de|motorsport-total.com|moviejones.de|mt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[^/]{44,}\/[^/]{1,}\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[a-z-]+[a-z0-9]{44,}\/[A-z0-9-]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
+/src=wotexte\/vermarktung\/snippets\/[A-Za-z0-9]+\/wotexte_teaserSlider_image_02_\/[A-Za-z0-9]+\.(jpg|gif|jpeg|png)$/$image,domain=wetteronline.de
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
 liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
@@ -3968,10 +3969,9 @@ epochtimes.de##img[style="margin: 0.1px auto;"]
 winboard.org##li[style="margin-bottom: 15px;"]
 abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 ||epochtimes.de/*.gif
-||finya.de/imag-s/$image,domain=finya.de
-||finya.de/image/$image,domain=finya.de
-||finya.de/imags-z/$domain=finya.de
+||finya.de/imgs/$image,domain=finya.de
 ||iban.de/img/1/btop2.gif
+||liga3-online.de/Bilder/Sportwetten24Banner.gif
 ||skodacommunity.de/image/*.gif
 ||skodacommunity.de/images/*.gif
 ||skodacommunity.de/imags/*.gif
@@ -11111,4 +11111,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: JTllzEM6N5Dvk52aFVrAmg
+! Checksum: p3Md6QXBq0JNbYhF+XFBmQ
