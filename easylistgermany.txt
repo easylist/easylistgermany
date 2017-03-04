@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703031800
+! Version: 201703040838
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Mar 2017 18:00 UTC
+! Last modified: 04 Mar 2017 08:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3956,6 +3956,7 @@ skodacommunity.de,windows-7-forum.net##.section.funbox
 liga3-online.de##.widget.widget_text
 wintotal.de##.widget.widget_wt_wintotal_rotator
 /\/[^/]{44,}\/[^/]{1,}\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[^\/]{32}\/[^\/]{19}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /https?:\/\/([a-z\.]+\/){2}[^\/]{44,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
@@ -11144,4 +11145,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: vpkPSI8TEFFG3APdf2+O/w
+! Checksum: nucqK4QcV4x6sLCIPK1f8w
