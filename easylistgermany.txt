@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703071903
+! Version: 201703072200
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 07 Mar 2017 19:03 UTC
+! Last modified: 07 Mar 2017 22:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -480,7 +480,7 @@ anime-loads.org,filmmakers.de,nicht-lustig.de,vegaklub.net,youthweb.net#@##werbu
 anzeigen-kostenlos.com#@#.AdBox
 egofm.de#@#.WerbungLinksRechts
 zeitleser.de#@#.ad-bottom
-siemens-home.de#@#.ad-item
+siemens-home.de,xdate.ch#@#.ad-item
 willhaben.at#@#.ad-text
 zeitleser.de#@#.ad-top
 delamar.de#@#.adBox
@@ -543,7 +543,9 @@ der-postillon.com#@#.middleads
 fanfiktion.de#@#.plistaList > .itemLinkPET
 tsv-thedinghausen.de#@#.postad
 quoka.de#@#.related-ads
+xdate.ch#@#.side-ads
 blesius.de#@#.text_werbung
+xdate.ch#@#.top-ads
 christophhubrich.blogspot.co.uk,christophhubrich.blogspot.de,delamar.de,ews-markt.de,mediamarkt.de,paolo-film.de,transfermarkt.de#@#.werbung
 ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
 zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
@@ -10928,6 +10930,8 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||wn-markt.de/search.html?adType=$xmlhttprequest
 @@||wn-mobil.de/search.html?adType=$xmlhttprequest
 @@||wn.de/var/storage/images/*_300_250.$image,~third-party
+@@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
+@@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch
 @@||xfind.de/banner/$image,domain=searchx.ch
 @@||yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|gutscheindoktor.de|notenbuch24.de|preismafia.com
@@ -11143,4 +11147,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: uVnHMNReP3gV+SjRHPf1wQ
+! Checksum: niPhZiTqoSSjyg4/LoYecw
