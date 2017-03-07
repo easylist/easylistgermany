@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703061710
+! Version: 201703071725
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 06 Mar 2017 17:10 UTC
+! Last modified: 07 Mar 2017 17:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6680,7 +6680,7 @@ putenbrust.net##a[href^="http://putenbrust.99k.org"]
 spieletipps.de##a[href^="http://rc23.overture.com"]
 gulli.com##a[href^="http://rc23.overture.com/"]
 movie-blog.org##a[href^="http://redir.ec/"]
-hubbahotel.cc##a[href^="http://rover.ebay.com/rover/"]
+gulli.com,hubbahotel.cc##a[href^="http://rover.ebay.com/rover/"]
 gesichtskirmes.net##a[href^="http://sau-billig.net/"]
 myvideo.de##a[href^="http://server.nitrado.net/deu/gameserver-mieten?"]
 blasemaul.com,gratiswix.com,klubsex.com,morgensex.com,pornoflitsche.com##a[href^="http://sexplicy.net/anmelden/"]
@@ -11140,4 +11140,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Jjv6JvuRcOPduR/O3X622A
+! Checksum: H6Xr5DnybFOmkG1r6YZVPg
