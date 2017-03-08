@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703080744
+! Version: 201703081805
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Mar 2017 07:44 UTC
+! Last modified: 08 Mar 2017 18:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3961,6 +3961,9 @@ liga3-online.de##.widget.widget_text
 wintotal.de##.widget.widget_wt_wintotal_rotator
 /[^\/]{32,}\/[^\/]{12,}\/[^\/]{17}\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /[^\/]{44,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|haz.de|iban-rechner.de|juraforum.de|liga3-online.de|ln-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[A-Za-z0-9]{32,}\/[a-z0-9]{10,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)/$image,domain=haz.de|ln-online.de
+/\/[A-Za-z0-9]{40,45}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)/$image,domain=lz.de|mt.de|nw.de
+/\/[^\/]{32,}\/[^\/]{12,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|liga3-online.de|lvz.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /http:\/\/([^\/]+\/){2,3}[^\/]{44,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
 /img1/a/b/$image,domain=lz.de|mt.de|nw.de
 rp-online.de##[style="margin-left: 106px;"]
@@ -3976,6 +3979,7 @@ abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 ||epochtimes.de/*.gif
 ||finya.de/image/$image,domain=finya.de
 ||finya.de/images/$image,domain=finya.de
+||finya.de/imagez/$image,domain=finya.de
 ||finya.de/imgs/$image,domain=finya.de
 ||finya.de/imgz/$image,domain=finya.de
 ||iban.de/img/1/btop2.gif
@@ -5802,6 +5806,7 @@ bild.de##.jetzt_aufnehmen
 kulturmanagement.net##.joboffer_banner_wrapper
 heise.de##.jobtv24
 de.yahoo.com##.js-applet-view-container-main > style + .NavLinks + .Bd-t + .NavLinks
+aachener-nachrichten.de##.kalaydo-container
 kochbar.de##.kb-has-rectangle
 kochbar.de##.kb-recipe-comment-container > .kb-recipe-comment-right-fix
 wortfilter.de##.kuriosbox
@@ -11196,4 +11201,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: jC7ZsaDH7z4qASlyMMJPKA
+! Checksum: 7qIbVqLzm3c/73UX9aCNDQ
