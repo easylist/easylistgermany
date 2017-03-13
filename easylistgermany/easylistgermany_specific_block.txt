@@ -2161,6 +2161,7 @@
 @@||ad.71i.de/global_js/AdScripts/$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||autobild.de^$genericblock,generichide
 @@||bf-ad.net/makabo/js_ng/adplayer/js/adplayer.min.js$domain=focus.de
+@@||bf-ad.net/makabo/js_ng/ae_ks.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
 @@||focus.de^$genericblock
@@ -2255,7 +2256,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||pubmatic.com^$domain=stern.de
 ||qservz.com^$domain=gala.de
 ||redintelligence.net^$domain=g.doubleclick.net
-||revsci.net^$domain=gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
+||revsci.net^$domain=focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 ||rtax.criteo.com^$domain=autobild.de|gala.de|stern.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de|transfermarkt.de
 ||serving-sys.com^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
