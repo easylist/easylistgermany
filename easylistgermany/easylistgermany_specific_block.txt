@@ -2282,9 +2282,17 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 /\/[A-Za-z]\/[^\/]{33,}\/[^\/]{13,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
 /\/[A-Za-z]\/[^\/]{44,}\/[^\/]+\.(jpg|gif|jpeg)$/$image,domain=haz.de|ln-online.de|lvz.de
 /\/[A-Za-z]\/[^\/]{45,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
+/\/[^\/]{27,}\/[^\/]{15,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[^\/]{28}\/[^\/]{16}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=haz.de|ln-online.de|lvz.de|lz.de|mt.de|nw.de
 /\/[^\/]{29}\/[^\/]{15}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /\/[^\/]{30,}\/[^\/]{12,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[^\/]{40,}\/[^\/]{25,}\.(gif|jpg|jpeg|png|bmp)$/$image,domain=airliners.de|digitalfernsehen.de|gameswelt.de|gartendialog.de|laut.de|netzwelt.de|playfront.de|prad.de|truckscout24.de
 /\/[^\/]{44,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+@@/finya\.de\/img\/[^\/]+/$image,domain=finya.de
+@@/finya\.de\/img\/b\/[^\/]+/$image,domain=finya.de
+@@/finya\.de\/img\/de_DE\/[^\/]+/$image,domain=finya.de
+@@/finya\.de\/img\/mood\/[^\/]+/$image,domain=finya.de
+@@||finya.de/img/sprites@2X.png?222
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
 liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
@@ -2302,12 +2310,7 @@ abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 ||donnerwetter.de/images/varying/*/2017/immune_20170310-8-27909.jpg
 ||donnerwetter.de/images/yokes/*/2017/quota_20170310-3-13090.jpg
 ||epochtimes.de/*.gif
-||finya.de/image/$image,domain=finya.de
-||finya.de/images/$image,domain=finya.de
-||finya.de/imagex/$image
-||finya.de/imagez/$image,domain=finya.de
-||finya.de/imgs/$image,domain=finya.de
-||finya.de/imgz/$image,domain=finya.de
+||finya.de^$image
 ||iban.de/img/1/btop2.gif
 ||liga3-online.de/Bilder/Sportwetten24Banner.gif
 ||wintotal.de/image/U/*/*.gif
