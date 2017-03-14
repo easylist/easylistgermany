@@ -2177,7 +2177,7 @@
 @@||g.doubleclick.net/gampad/ads?*&sz=468x60&$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||g.doubleclick.net/gampad/ads?*&sz=4x$script,domain=stern.de
 @@||g.doubleclick.net/gampad/ads?*&sz=728x90&$script,domain=stern.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 @@||g.doubleclick.net/static/glade.js$domain=autobild.de|transfermarkt.de
 @@||g.doubleclick.net/static/glade/extra_$script,domain=autobild.de
 @@||gala.de/gujAd/gujAd.js$domain=gala.de
@@ -2187,7 +2187,7 @@
 @@||imagesrv.adition.com/js/srp.js$domain=transfermarkt.de
 @@||kabeleins.de^$genericblock,generichide
 @@||moatads.com^*/moatad.js$domain=transfermarkt.de
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=transfermarkt.de
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=focus.de|transfermarkt.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
