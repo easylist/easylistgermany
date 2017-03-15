@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703151726
+! Version: 201703151806
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 15 Mar 2017 17:26 UTC
+! Last modified: 15 Mar 2017 18:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3955,27 +3955,20 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||yieldlab.net^$domain=autobild.de|focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|transfermarkt.de
 ! 
-fremdwort.de###iojrennab
-skodacommunity.de,windows-7-forum.net###oc24_container_top
-liga3-online.de###skyscraperstart
-bauexpertenforum.de,usp-forum.de,win-10-forum.de,winboard.org##.above_header
-fremdwort.de##.col-sm-3
-iban.de##.ibanafar2
-skodacommunity.de,windows-7-forum.net##.section.funbox
-liga3-online.de##.widget.widget_text
-wintotal.de##.widget.widget_wt_wintotal_rotator
-/\/[A-Za-z]\/[^\/]{29}\/[^\/]{15}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=haz.de|ln-online.de|lvz.de|lz.de|mt.de|nw.de
-/\/[A-Za-z]\/[^\/]{31,}\/[^\/]{13,}\/[^\/]+\.(jpg|gif|jpeg)$/$image,domain=haz.de|ln-online.de|lvz.de
-/\/[A-Za-z]\/[^\/]{33,}\/[^\/]{13,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
-/\/[A-Za-z]\/[^\/]{44,}\/[^\/]+\.(jpg|gif|jpeg)$/$image,domain=haz.de|ln-online.de|lvz.de
-/\/[A-Za-z]\/[^\/]{45,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
+/\/[^\/\.]+\/[^\/]{15,}\/[^\/]{10,}\/[^\/]+\.(jpg|gif|png|jpeg|bmp)$/$image,~third-party,domain=abi.unicum.de|airliners.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|iban-rechner.de|iban.de|kindergeld.org|laut.de|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|news.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de
+/\/[^\/\.]+\/[^\/]{40,}\/[^\/]{35,}\.(jpg|gif|png|jpeg|bmp)$/$image,~third-party,domain=kindergeld.org
+/\/[^\/\.]{18,20}\/[^\/]{24,25}\/[^\/]+\.(jpg|gif|png|jpeg|bmp)$/$image,~third-party,domain=pferde.de
 /\/[^\/]+\/[^\/]{20,}\/[^\/]{10,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,~third-party,domain=airliners.de|bikerszene.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|iban-rechner.de|iban.de|juraforum.de|laut.de|liga3-online.de|lz.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|truckscout24.de|tvinfo.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /\/[^\/]{27,}\/[^\/]{15,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /\/[^\/]{28}\/[^\/]{16}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=haz.de|ln-online.de|lvz.de|lz.de|mt.de|nw.de
 /\/[^\/]{29}\/[^\/]{15}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /\/[^\/]{30,}\/[^\/]{12,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
-/\/[^\/]{40,}\/[^\/]{25,}\.(gif|jpg|jpeg|png|bmp)$/$image,domain=airliners.de|digitalfernsehen.de|gameswelt.de|gartendialog.de|netzwelt.de|playfront.de|prad.de|truckscout24.de
 /\/[^\/]{44,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[A-Za-z]\/[^\/]{29}\/[^\/]{15}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=haz.de|ln-online.de|lvz.de|lz.de|mt.de|nw.de
+/\/[A-Za-z]\/[^\/]{31,}\/[^\/]{13,}\/[^\/]+\.(jpg|gif|jpeg)$/$image,domain=haz.de|ln-online.de|lvz.de
+/\/[A-Za-z]\/[^\/]{33,}\/[^\/]{13,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
+/\/[A-Za-z]\/[^\/]{44,}\/[^\/]+\.(jpg|gif|jpeg)$/$image,domain=haz.de|ln-online.de|lvz.de
+/\/[A-Za-z]\/[^\/]{45,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=lz.de|mt.de|nw.de
 /tJikGfC.js$/$domain=haz.de|ln-online.de|lvz.de|maz-online.de
 @@/finya.de\/de_DE\/img\/blog\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/[^\/]+/$image,domain=finya.de
@@ -3983,16 +3976,31 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 @@/finya\.de\/img\/de_DE\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/mood\/[^\/]+/$image,domain=finya.de
 @@||finya.de/img/sprites@2X.png?222
+abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
+bauexpertenforum.de,usp-forum.de,win-10-forum.de,winboard.org##.above_header
+epochtimes.de##img[style="margin: 0.1px auto;"]
+fremdwort.de###iojrennab
+fremdwort.de##.col-sm-3
+iban.de##.ibanafar2
+liga3-online.de###skyscraperstart
+liga3-online.de##.widget.widget_text
+liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
+ln-online.de,lvz.de##[style="position:absolute;left:940px;top:153px;"]
+pferde.de##[style="margin-left: 1050.5px;"]
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
-liga3-online.de##[style="margin-top: -160px; margin-left: -242px;"]
-wintotal.de##[style="margin: 10px auto;"]
-ln-online.de,lvz.de##[style="position:absolute;left:940px;top:153px;"]
+skodacommunity.de,windows-7-forum.net###oc24_container_top
+skodacommunity.de,windows-7-forum.net##.section.funbox
+winboard.org##li[style="margin-bottom: 15px;"]
 winboard.org,windows-7-forum.net##[style="z-index: 1000;"]
 winboard.org,windows-7-forum.net##[style="z-index: 1001;"]
-epochtimes.de##img[style="margin: 0.1px auto;"]
-winboard.org##li[style="margin-bottom: 15px;"]
-abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
+wintotal.de##.well[style="margin-top:15px;"]
+wintotal.de##.widget.widget_wt_wintotal_rotator
+wintotal.de##[style="margin: 10.1px auto;"]
+wintotal.de##[style="margin: 10px auto;"]
+||aachener-zeitung.de/zva/an/LW1JGBI.js
+||aachener-zeitung.de/zva/az/EEaQY9q.js
+||digitalfernsehen.de/fileadmin/ctZh83r.js
 ||donnerwetter.de/images/chained/*/2017/backup_20170310-2-54769.jpg
 ||donnerwetter.de/images/label/*/2017/german_20170310-1-75755.jpg
 ||donnerwetter.de/images/radius/*/2017/uncut_20170310-2-15098.jpg
@@ -4002,8 +4010,14 @@ abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 ||epochtimes.de/*.gif
 ||finya.de^$image
 ||iban.de/img/1/btop2.gif
+||juraforum.de/tsmi.php$script
 ||liga3-online.de/Bilder/Sportwetten24Banner.gif
+||lz.de/_em_daten/lz/tisoomi.js
+||mt.de/_em_daten/mt/tisoomi.js
+||nickles.de/js/nickles-1-0-13/nickles.js
+||nw.de/_em_daten/nw/tisoomi.js
 ||wintotal.de/image/U/*/*.gif
+||wize.life/js/alternative/alternative.js
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block_popup.txt ***
 .gif|$popup,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
 ^utm_campaign^$popup,domain=jappy.de
@@ -11284,4 +11298,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: xntZsj4v392uukwvPtjggA
+! Checksum: iDk9lKgAG91Tmj6UpAYP0g
