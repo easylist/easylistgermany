@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703161747
+! Version: 201703161753
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 16 Mar 2017 17:47 UTC
+! Last modified: 16 Mar 2017 17:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -346,7 +346,6 @@ _woz_banner_vote.
 ##.lokalwerbung
 ##.news-item-werbung
 ##.newswerbung
-##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
 ##.popup_werbung_oben_tom
 ##.popup_werbung_rechts_tom
 ##.ps-trackingposition_Werbungskasten
@@ -418,16 +417,11 @@ _woz_banner_vote.
 ##.werbungimthread
 ##.werbungrechtstitel
 ##.widget-werbung
-##a[data-redirect^="http://click.plista.com/pets"]
-##a[href^="http://click.plista.com/pets"]
-##a[href^="http://farm.plista.com/pets"]
 ##a[href^="http://shortnews.de/gotoklick.cfm?fr_campaign_adtext_id="]
 ##a[href^="http://www.eis.de/index.phtml?refid="]
 ##a[href^="http://www.firstload.de/index.php?set_lang=de&log="]
 ##a[href^="http://www.sendung-now.de/tick/click.php?id="]
 ##a[href^="http://www.top-of-software.de/"]
-##a[href^="https://click.plista.com/pets"]
-##a[href^="https://farm.plista.com/pets"]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##input[onclick^="window.open('http://www.firstload.de/affiliate/"]
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist_general_hide.txt ***
@@ -1159,9 +1153,6 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||faktenpedia.de/layer-
 ||fandealer.de^*/promo/
 ||fantasticzero.com^*/skinnings/$third-party
-||farm.plista.com/iframewidget.php?*&widgetname=i$subdocument
-||farm.plista.com/tiny/$third-party
-||farm.plista.com/widgetdata.php?*%22pictureads%22%7D
 ||fastad.beepworld.de^
 ||fc-moto.com/bild/$domain=offroadforen.de
 ||festivalfick.com/banner/$third-party
@@ -1518,10 +1509,6 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||star-toplist.com/votebanner.png$third-party
 ||starting6.de/dyn_banner/$third-party
 ||startparadies.de/banner/$third-party
-||static.plista.com/jsmodule/flash|$third-party
-||static.plista.com/tiny/$third-party
-||static.plista.com/upload/videos/$third-party
-||static.plista.com^*/resized/$third-party
 ||stealth.to^$subdocument,third-party
 ||strato.de/banner/$third-party
 ||suchebiete.com/bilder/allgemein_kleinanzeigen.png
@@ -11335,4 +11322,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: d5cJrr+BvHh3Jy5o2TqAmA
+! Checksum: HbS27ZMA+28RqyiTWJorYw
