@@ -2154,11 +2154,10 @@
 @@||connect.facebook.net^$script,domain=movie-blog.org
 |http:$script,third-party,domain=movie-blog.org
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
-/flyads/*$domain=stern.de
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
-/pagead2.$domain=g.doubleclick.net|googlesyndication.com|stern.de
-/PLISTA_FLYAD.js$domain=stern.de
+/pagead2.$domain=g.doubleclick.net|googlesyndication.com
 @@||ad.71i.de/global_js/AdScripts/$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+@@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de
 @@||autobild.de^$genericblock,generichide
 @@||bf-ad.net/makabo/js_ng/adplayer/js/adplayer.min.js$domain=focus.de
 @@||bf-ad.net/makabo/js_ng/ae_ks.js$domain=focus.de
@@ -2210,9 +2209,9 @@ g.doubleclick.net###adunit
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ||a-ssl.ligatus.com^$domain=gala.de|stern.de
 ||ad-srv.net^$domain=tellows.de
-||ad.71i.de^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+||ad.71i.de^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||ad4mat.de^$domain=googlesyndication.com
-||adform.net^$domain=googlesyndication.com
+||adform.net^$domain=autobild.de|googlesyndication.com
 ||adition.com^$domain=g.doubleclick.net|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|transfermarkt.de
 ||adnet.de^$domain=tellows.de
 ||adnxs.com^$domain=autobild.de|focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
