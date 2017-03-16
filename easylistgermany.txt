@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703161738
+! Version: 201703161747
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 16 Mar 2017 17:38 UTC
+! Last modified: 16 Mar 2017 17:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -417,6 +417,7 @@ _woz_banner_vote.
 ##.werbungamazon
 ##.werbungimthread
 ##.werbungrechtstitel
+##.widget-werbung
 ##a[data-redirect^="http://click.plista.com/pets"]
 ##a[href^="http://click.plista.com/pets"]
 ##a[href^="http://farm.plista.com/pets"]
@@ -11334,4 +11335,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 1Hz11JS47R5Gp08xKa5phA
+! Checksum: d5cJrr+BvHh3Jy5o2TqAmA
