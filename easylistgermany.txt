@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703161728
+! Version: 201703161729
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 16 Mar 2017 17:28 UTC
+! Last modified: 16 Mar 2017 17:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3842,6 +3842,8 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com
+@@||ad.71i.de/global_js/globalV6.js$domain=prosiebenmaxx.de
+@@||ad.71i.de/global_js/Sites/$script,domain=prosiebenmaxx.de
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de
 @@||autobild.de^$genericblock,generichide
 @@||bf-ad.net/makabo/js_ng/adplayer/js/adplayer.min.js$domain=focus.de
@@ -3862,7 +3864,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 @@||g.doubleclick.net/gampad/ads?*&sz=468x60&$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||g.doubleclick.net/gampad/ads?*&sz=4x$script,domain=stern.de
 @@||g.doubleclick.net/gampad/ads?*&sz=728x90&$script,domain=stern.de
-@@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=kabeleins.de
+@@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=kabeleins.de|prosiebenmaxx.de
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 @@||g.doubleclick.net/static/glade.js$domain=autobild.de|transfermarkt.de
 @@||g.doubleclick.net/static/glade/extra_$script,domain=autobild.de
@@ -3877,7 +3879,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
-@@||probe.yieldlab.net/yp/$script,domain=kabeleins.de
+@@||probe.yieldlab.net/yp/$script,domain=kabeleins.de|prosiebenmaxx.de
 @@||prosieben.de^$genericblock,generichide
 @@||prosiebenmaxx.de^$genericblock,generichide
 @@||ran.de^$genericblock,generichide
@@ -11346,4 +11348,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: EpuWYYjvE8Mpo8Ns1i2ftg
+! Checksum: 2yQxcP3iyett6oegIxXLgA
