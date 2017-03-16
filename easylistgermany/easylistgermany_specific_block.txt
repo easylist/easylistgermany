@@ -2178,7 +2178,7 @@
 @@||g.doubleclick.net/gampad/ads?*&sz=468x60&$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||g.doubleclick.net/gampad/ads?*&sz=4x$script,domain=stern.de
 @@||g.doubleclick.net/gampad/ads?*&sz=728x90&$script,domain=stern.de
-@@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=kabeleins.de|prosiebenmaxx.de|ran.de
+@@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=kabeleins.de|prosiebenmaxx.de|ran.de|sixx.de
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 @@||g.doubleclick.net/static/glade.js$domain=autobild.de|transfermarkt.de
 @@||g.doubleclick.net/static/glade/extra_$script,domain=autobild.de
@@ -2193,7 +2193,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
-@@||probe.yieldlab.net/yp/$script,domain=kabeleins.de|prosiebenmaxx.de|ran.de
+@@||probe.yieldlab.net/yp/$script,domain=kabeleins.de|prosiebenmaxx.de|ran.de|sixx.de
 @@||prosieben.de^$genericblock,generichide
 @@||prosiebenmaxx.de^$genericblock,generichide
 @@||ran.de^$genericblock,generichide
