@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703161723
+! Version: 201703161726
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 16 Mar 2017 17:23 UTC
+! Last modified: 16 Mar 2017 17:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10705,8 +10705,9 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
+@@||ad.71i.de/global_js/globalV6.js$domain=7tv.de
 @@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|bundesliga.de|myvideo.de|n24.de|netzwelt.de|sport1.fm
-@@||ad.71i.de/global_js/Sites/$script,domain=n24.de|netzwelt.de|sport1.fm
+@@||ad.71i.de/global_js/Sites/$script,domain=7tv.de|n24.de|netzwelt.de|sport1.fm
 @@||ad.71i.de/images/fallback/video/1_sek.mp4$domain=netzwelt.de
 @@||ad.adworx.at/crossdomain.xml$object-subrequest
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
@@ -10877,6 +10878,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||g.doubleclick.net/gampad/ads?*&sz=440x3&$script,domain=gofeminin.de
 @@||g.doubleclick.net/gampad/ads?*&sz=440x4&$script,domain=gofeminin.de
 @@||g.doubleclick.net/gampad/ads?*^sz=970x250^$subdocument,domain=welt.de
+@@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=7tv.de
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||galileo.tv/js/my_ad_integration.js
@@ -11342,4 +11344,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: IbG6rWpk79qAJ8stSVJjkA
+! Checksum: J+S4KB8jtT6QwkQujoXerw
