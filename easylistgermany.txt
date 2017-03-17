@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703171707
+! Version: 201703171709
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 Mar 2017 17:07 UTC
+! Last modified: 17 Mar 2017 17:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3969,20 +3969,16 @@ wintotal.de##.well[style="margin-top:15px;"]
 liga3-online.de##.widget.widget_text
 wintotal.de##.widget.widget_wt_wintotal_rotator
 spielaffe.de##.ycw_qt[width="970"][height="250"]
-/\/[^\/\.]+\/[^\/\.]{10,}\/[^\/]{20,}\.(jpg|gif|png|jpeg|bmp)$/$image,~third-party,domain=airliners.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|kindergeld.org|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de
-/\/[^\/]{44,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
-/news\.de\/.*(png|jpg|gif|jpeg|bmp)$/$image,~third-party
+/\/[^\/\.]+\/[^\/\.]{10,}\/[^\/]{18,}\/[^\/]+\.(jpg|gif|png|jpeg|bmp)$/$image,~third-party,domain=airliners.de|bikerszene.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|iban-rechner|juraforum.de|laut.de|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+/\/[^\/]{44,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,~third-party,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|kindergeld.org|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /tJikGfC.js$/$domain=haz.de|ln-online.de|lvz.de|maz-online.de
 @@/finya.de\/de_DE\/img\/blog\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/b\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/de_DE\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/mood\/[^\/]+/$image,domain=finya.de
-@@/news\.de\/module\/newsfrontend\/img\/[^\/]+\.(png|jpg|jpeg|gif)$/$image,domain=news.de
-@@/news\.de\/module\/newsfrontend\/img\/article\/[^\/]+\.(png|jpg|jpeg|gif)$/$image,domain=news.de
 @@||finya.de/img/sprites@2X.png?222
-@@||media.news.de^$image,domain=news.de
-@@||news.de/module/newsfrontend/img/newsletter/business_girl.jpg
+wize.life##[style="margin-bottom: 20.1px;"]
 pferde.de##[style="margin-left: 1050.5px;"]
 rp-online.de##[style="margin-left: 106px;"]
 rp-online.de##[style="margin-left: 142px;"]
@@ -3992,9 +3988,16 @@ liga3-online.de##[style="margin-top: -160px; margin-left: -72px;"]
 wintotal.de##[style="margin: 10.1px auto;"]
 wintotal.de##[style="margin: 10.2px auto;"]
 wintotal.de##[style="margin: 10px auto;"]
+wize.life##[style="margin: auto auto 30px -364px; top: 20.1px; left: 50%;"]
+wize.life##[style="margin: auto auto 30px -374px; top: 20.1px; left: 50%;"]
+wize.life##[style="margin: auto auto 30px -400px; top: 20.1px; left: 50%;"]
+wize.life##[style="position: absolute; left: 50%; margin-left: 505.1px; top: 115.1px;"]
+bikerszene.de##[style="position: absolute; top: 0px; left: 100%; margin-left: 10.6px;"]
 ln-online.de,lvz.de##[style="position:absolute;left:940px;top:153px;"]
+frag-mutti.de##[style="width: 300.4px; right: -140px;"]
 winboard.org,windows-7-forum.net##[style="z-index: 1000;"]
 winboard.org,windows-7-forum.net##[style="z-index: 1001;"]
+truckscout24.de##[style="z-index: 500;"]
 gameswelt.de##aside[style="height:600px"]
 kindergeld.org##div[style="max-width:465px"]
 giga.de##iframe[style="border: 0px none; padding: 0px;"][width="200"][height="600"]
@@ -4017,6 +4020,7 @@ abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 ||liga3-online.de/Bilder/Sportwetten24Banner.gif
 ||lz.de/_em_daten/lz/tisoomi.js
 ||mt.de/_em_daten/mt/tisoomi.js
+||news.de/module/newsfrontend/img/*.jpg
 ||nickles.de/js/nickles-1-0-13/nickles.js
 ||nw.de/_em_daten/nw/tisoomi.js
 ||wize.life/js/alternative/alternative.js
@@ -11310,4 +11314,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: mCdZ15FcJYPYN/ddg7S4TA
+! Checksum: vK506kGNnsHlWuwJ8+XLkQ
