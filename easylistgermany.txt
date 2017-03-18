@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703171709
+! Version: 201703181651
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 Mar 2017 17:09 UTC
+! Last modified: 18 Mar 2017 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3969,6 +3969,8 @@ wintotal.de##.well[style="margin-top:15px;"]
 liga3-online.de##.widget.widget_text
 wintotal.de##.widget.widget_wt_wintotal_rotator
 spielaffe.de##.ycw_qt[width="970"][height="250"]
+/\/[^.]+\/[^\/.]+\/[^\/]+\/[^\/]+\.(gif|jpg|png|jpeg|bmp)$/$image,~third-party,domain=e-hausaufgaben.de|fremdwort.de|frustfrei-lernen.de|iban-rechner.de|pixelio.de
+/\/[^.]+\/[^\/]{15,}\/[^\/]{15,}\/[^\/]+\.(gif|jpg|png|jpeg|bmp)$/$image,~third-party,domain=airliners.de|bikerszene.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|fanfiktion.de|formel1.de|frag-mutti.de|gameswelt.de|gevestor.de|kindergeld.org|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /\/[^\/\.]+\/[^\/\.]{10,}\/[^\/]{18,}\/[^\/]+\.(jpg|gif|png|jpeg|bmp)$/$image,~third-party,domain=airliners.de|bikerszene.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|iban-rechner|juraforum.de|laut.de|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /\/[^\/]{44,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,~third-party,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|kindergeld.org|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /tJikGfC.js$/$domain=haz.de|ln-online.de|lvz.de|maz-online.de
@@ -3978,6 +3980,7 @@ spielaffe.de##.ycw_qt[width="970"][height="250"]
 @@/finya\.de\/img\/de_DE\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/mood\/[^\/]+/$image,domain=finya.de
 @@||finya.de/img/sprites@2X.png?222
+@@||image.pixelio.de/000/510/862/thumbnails/1.jpg$domain=pixelio.de
 wize.life##[style="margin-bottom: 20.1px;"]
 pferde.de##[style="margin-left: 1050.5px;"]
 rp-online.de##[style="margin-left: 106px;"]
@@ -3999,6 +4002,8 @@ winboard.org,windows-7-forum.net##[style="z-index: 1000;"]
 winboard.org,windows-7-forum.net##[style="z-index: 1001;"]
 truckscout24.de##[style="z-index: 500;"]
 gameswelt.de##aside[style="height:600px"]
+frustfrei-lernen.de##div[style="height: 310px"]
+frustfrei-lernen.de##div[style="height: 320px"]
 kindergeld.org##div[style="max-width:465px"]
 giga.de##iframe[style="border: 0px none; padding: 0px;"][width="200"][height="600"]
 giga.de##iframe[style="border: 0px none; padding: 0px;"][width="728"][height="90"]
@@ -11314,4 +11319,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: vK506kGNnsHlWuwJ8+XLkQ
+! Checksum: EsDK1tvjNaPdqFwbWyYgjg
