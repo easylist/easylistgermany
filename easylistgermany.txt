@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703181651
+! Version: 201703191440
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 Mar 2017 16:51 UTC
+! Last modified: 19 Mar 2017 14:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3970,6 +3970,8 @@ liga3-online.de##.widget.widget_text
 wintotal.de##.widget.widget_wt_wintotal_rotator
 spielaffe.de##.ycw_qt[width="970"][height="250"]
 /\/[^.]+\/[^\/.]+\/[^\/]+\/[^\/]+\.(gif|jpg|png|jpeg|bmp)$/$image,~third-party,domain=e-hausaufgaben.de|fremdwort.de|frustfrei-lernen.de|iban-rechner.de|pixelio.de
+/\/[^.]+\/[^\/.]{27,}\/[^\/]{17,}\/[^\/]{10,}\.(gif|jpg|png|jpeg|bmp)$/$image,~third-party,domain=gartendialog.de|laut.de|pferde.de
+/\/[^.]+\/[^\/.]{9}\/[^\/]{30,}\/[^\/]{10,}\.(gif|jpg|png|jpeg|bmp)$/$image,~third-party,domain=airliners.de|bikerszene.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|fanfiktion.de|formel1.de|frag-mutti.de|gameswelt.de|gevestor.de|kindergeld.org|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /\/[^.]+\/[^\/]{15,}\/[^\/]{15,}\/[^\/]+\.(gif|jpg|png|jpeg|bmp)$/$image,~third-party,domain=airliners.de|bikerszene.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|fanfiktion.de|formel1.de|frag-mutti.de|gameswelt.de|gevestor.de|kindergeld.org|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /\/[^\/\.]+\/[^\/\.]{10,}\/[^\/]{18,}\/[^\/]+\.(jpg|gif|png|jpeg|bmp)$/$image,~third-party,domain=airliners.de|bikerszene.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|iban-rechner|juraforum.de|laut.de|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /\/[^\/]{44,}\/[^\/]+\.(gif|jpg|jpeg|png|bmp)$/$image,~third-party,domain=aachener-nachrichten.de|bikerszene.de|deine-tierwelt.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gevestor.de|iban-rechner.de|juraforum.de|kindergeld.org|liga3-online.de|motorsport-total.com|moviejones.de|news.de|nickles.de|pferde.de|pixelio.de|psychic.de|spielen.de|spielfilm.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
@@ -4026,6 +4028,7 @@ abacho.de##td[style="border: 3px solid #ccc;"][width="300"]
 ||lz.de/_em_daten/lz/tisoomi.js
 ||mt.de/_em_daten/mt/tisoomi.js
 ||news.de/module/newsfrontend/img/*.jpg
+||news.de/module/newsfrontend/img/*.png
 ||nickles.de/js/nickles-1-0-13/nickles.js
 ||nw.de/_em_daten/nw/tisoomi.js
 ||wize.life/js/alternative/alternative.js
@@ -11319,4 +11322,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: EsDK1tvjNaPdqFwbWyYgjg
+! Checksum: lFXCFWizwNQemUmvkJvKWA
