@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703191440
+! Version: 201703191630
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 19 Mar 2017 14:40 UTC
+! Last modified: 19 Mar 2017 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5882,6 +5882,7 @@ lokalisten.de##.logoutCont
 wiealt.myvideo.de##.logout_container_box
 web.de##.lottoJackpot
 abendzeitung-muenchen.de##.lp_standard_rectangle
+prozentrechner.net##.lxButton[target="_blank"]
 macnews.de##.macdeal
 hsg-gensungen-felsberg.de##.main > .inner > #ja-hl
 orschlurch.net##.main > div > div:first-child + .widget
@@ -7327,6 +7328,7 @@ webradio.de##div[style="position:absolute;left:322px;top:-3px;padding:1px;backgr
 wallstreet-online.de##div[style="position:absolute;right:5px;bottom:4px;width: 110px;height: 28px;overflow: hidden;"]
 presseportal.de##div[style="position:fixed;left:980px;top:10px;color:#9B9A9D;font-size:10px"]
 suxedoo.ch##div[style="position:relative; height:70px; left:40px;top:10px;"]
+prozentrechner.net##div[style="position:relative; width:728px; height:90px; padding:5px; background-color:#F5F5F5; box-shadow:0px 0px 2px #000000; margin:auto;"]
 simkea.de##div[style="position:relative; width:728px; height:90px; text-align:right; margin:1px auto 1px auto; overflow:hidden;"]
 14-tage-wettervorhersage.de##div[style="text-align: center; padding-top: 10px; margin-top: 0px; height: 260px; background-image: url(/wp-content/plugins/flasko/img/anzeige_300.gif); background-position: initial; background-repeat: no-repeat;"]
 14-tage-wettervorhersage.de##div[style="text-align: center; padding-top: 10px; margin-top: 5px; height: 260px; background-image: url(/wp-content/plugins/flasko/img/anzeige_300.gif); background-position: initial; background-repeat: no-repeat;"]
@@ -11322,4 +11324,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: lFXCFWizwNQemUmvkJvKWA
+! Checksum: QLrfRA7A5fUlcqfUrFQohQ
