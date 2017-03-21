@@ -2277,12 +2277,15 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||yieldlab.net^$domain=autobild.de|focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|transfermarkt.de
 !
 /tJikGfC.js$/$domain=haz.de|ln-online.de|lvz.de|maz-online.de
+412424110595$image,domain=wize.life
+41fdb0e3ba3dc6$image,domain=formel1.de
+6c7817d09eb116$image,domain=deine-tierwelt.de|fanfiktion.de|motorsport-total.com|pixelio.de
 @@/finya.de\/de_DE\/img\/blog\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/b\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/de_DE\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/mood\/[^\/]+/$image,domain=finya.de
-@@||adternal.com/*/ad-loading.bmp$domain=airliners.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|hausgarten.net|iban-rechner.de|iban.de|kindergeld.org|laut.de|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|news.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+@@||adternal.com^$image,domain=airliners.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|hausgarten.net|iban-rechner.de|kindergeld.org|laut.de|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de
 @@||finya.de/img/sprites@2X.png?222
 @@||iban-rechner.de/fileadmin/_migrated/pics/theano_17.gif$image,domain=iban-rechner.de
 @@||iban-rechner.de/fileadmin/slheader.gif$image,domain=iban-rechner.de
@@ -2324,6 +2327,7 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 ||lz.de/_em_daten/lz/tisoomi.js
 ||mt.de/_em_daten/mt/tisoomi.js
 ||news.de/image/$image,domain=news.de
+||news.de/images/*.png
 ||news.de/img/$image
 ||nickles.de/js/nickles-1-0-13/nickles.js
 ||nw.de/_em_daten/nw/tisoomi.js
