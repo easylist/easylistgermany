@@ -2286,7 +2286,9 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@/finya\.de\/img\/b\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/de_DE\/[^\/]+/$image,domain=finya.de
 @@/finya\.de\/img\/mood\/[^\/]+/$image,domain=finya.de
-@@||adternal.com^$image,domain=airliners.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|hausgarten.net|iban-rechner.de|kindergeld.org|laut.de|liga3-online.de|motorsport-total.com|moviejones.de|netzwelt.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de
+@@||admother.com^$image,domain=airliners.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|hausgarten.net|iban-rechner.de|juraforum.de|kindergeld.org|laut.de|liga3-online.de|maz-online.de|motorsport-total.com|moviejones.de|netzwelt.de|news.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de
+@@||adswithsalt.com^$image,domain=news.de
+@@||adternal.com^$image,domain=airliners.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gevestor.de|hausgarten.net|iban-rechner.de|juraforum.de|kindergeld.org|laut.de|liga3-online.de|maz-online.de|motorsport-total.com|moviejones.de|netzwelt.de|news.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de
 @@||finya.de/img/sprites@2X.png?222
 @@||iban-rechner.de/fileadmin/_migrated/pics/theano_17.gif$image,domain=iban-rechner.de
 @@||iban-rechner.de/fileadmin/slheader.gif$image,domain=iban-rechner.de
@@ -2313,6 +2315,10 @@ truckscout24.de##.superBanner
 unicum.de##.region.region-head-banner
 winboard.org##li[style="margin-bottom: 15px;"]
 wintotal.de##.widget.widget_wt_wintotal_rotator
+wize.life##[style="margin-bottom: 20.3px;"]
+wize.life##[style="margin: auto auto 30px -364px; top: 20.3px; left: 50%;"]
+wize.life##[style="margin: auto auto 30px -485px; top: 20.3px; left: 50%;"]
+wize.life##[style="position: absolute; left: 50%; margin-left: 505.2px; top: 115.2px;"]
 ||aachener-zeitung.de/zva/an/kling.js
 ||aachener-zeitung.de/zva/an/LW1JGBI.js
 ||aachener-zeitung.de/zva/az/EEaQY9q.js
