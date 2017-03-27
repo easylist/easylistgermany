@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703261900
+! Version: 201703271622
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Mar 2017 19:00 UTC
+! Last modified: 27 Mar 2017 16:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -539,6 +539,7 @@ fanfiktion.de#@#.plistaList > .itemLinkPET
 tsv-thedinghausen.de#@#.postad
 quoka.de#@#.related-ads
 xdate.ch#@#.side-ads
+wuv.de#@#.sticky-ad-wrapper
 blesius.de#@#.text_werbung
 xdate.ch#@#.top-ads
 christophhubrich.blogspot.co.uk,christophhubrich.blogspot.de,delamar.de,ews-markt.de,mediamarkt.de,paolo-film.de,transfermarkt.de#@#.werbung
@@ -10989,6 +10990,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||wn-markt.de/search.html?adType=$xmlhttprequest
 @@||wn-mobil.de/search.html?adType=$xmlhttprequest
 @@||wn.de/var/storage/images/*_300_250.$image,~third-party
+@@||wuv.de/var/wuv/storage/images/werben_verkaufen/dossier/$image,domain=wuv.de
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 @@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch
 @@||xfind.de/banner/$image,domain=searchx.ch
@@ -11206,4 +11208,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 3DWQgByb/LesT5bYBS5OLQ
+! Checksum: dtyJaNySHze9i6W4JGtekQ
