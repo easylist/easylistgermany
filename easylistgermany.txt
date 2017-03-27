@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703271622
+! Version: 201703271635
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Mar 2017 16:22 UTC
+! Last modified: 27 Mar 2017 16:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3823,6 +3823,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 @@||onvista.de/onvista/smartAd?version=$subdocument,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*&itransfer=*&width=*&height=
 ||onvista.de/news/boxes/news-image/?newsId=*&width=*&height=*&hstring=$image,domain=onvista.de
+||onvista.de/news/boxes/news-image/?newsId=*background$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*block$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*string$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*text$image,domain=onvista.de
@@ -8530,11 +8531,11 @@ ran.de##[-abp-properties='/left: 2[0-9][0-9]px;/'] > img
 9monate.de,ran.de,womenshealth.de##[-abp-properties='/left: 4[0-8][0-9]|49[0-9]px;/']
 lifeline.de##[-abp-properties='/left: 4[0-8][0-9]|49[0-9]px;/'] > img
 gusto.at,lustaufsleben.at,news.at,profil.at,trend.at,woman.at##[-abp-properties='/left: 4[0-9][0-9]px;/']
-,9monate.de,buffed.de,gusto.at,lustaufsleben.at,mehr-tanken.de,menshealth.de,news.at,profil.at,ran.de,woman.at,yachtrevue.at##[-abp-properties='/left: 5[0-8][0-9]|59[0-9]px;/']
+9monate.de,buffed.de,gusto.at,lustaufsleben.at,mehr-tanken.de,menshealth.de,news.at,profil.at,ran.de,woman.at,yachtrevue.at##[-abp-properties='/left: 5[0-8][0-9]|59[0-9]px;/']
 lifeline.de,trend.at,tv-media.at##[-abp-properties='/left: 5[0-9][0-9]px;/']
 9monate.de,buffed.de,gusto.at,lustaufsleben.at,mehr-tanken.de,news.at,profil.at,ran.de,trend.at,woman.at,womenshealth.de,yachtrevue.at##[-abp-properties='/left: 6[0-8][0-9]|69[0-9]px;/']
 lifeline.de,tv-media.at##[-abp-properties='/left: 6[0-9][0-9]px;/']
-,9monate.de,buffed.de,gusto.at,lustaufsleben.at,mehr-tanken.de,news.at,profil.at,ran.de,trend.at,tv-media.at,woman.at,yachtrevue.at##[-abp-properties='/left: 7[0-8][0-9]|79[0-9]px;/']
+9monate.de,buffed.de,gusto.at,lustaufsleben.at,mehr-tanken.de,news.at,profil.at,ran.de,trend.at,tv-media.at,woman.at,yachtrevue.at##[-abp-properties='/left: 7[0-8][0-9]|79[0-9]px;/']
 lifeline.de##[-abp-properties='/left: 7[0-9][0-9]px;/']
 9monate.de,gusto.at,lifeline.de,lustaufsleben.at,mehr-tanken.de,news.at,profil.at,ran.de,trend.at,tv-media.at,woman.at,womenshealth.de,yachtrevue.at##[-abp-properties='/left: 8[0-8][0-9]|89[0-9]px;/']
 buffed.de##[-abp-properties='/left: 8[0-9][0-9]px;/']
@@ -11208,4 +11209,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: dtyJaNySHze9i6W4JGtekQ
+! Checksum: CI0x2hAKuwNcAcZWro9S6Q
