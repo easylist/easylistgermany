@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703291714
+! Version: 201703291718
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 29 Mar 2017 17:14 UTC
+! Last modified: 29 Mar 2017 17:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3874,7 +3874,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 @@||moatads.com^*/moatad.js$domain=transfermarkt.de
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=focus.de|transfermarkt.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de
-@@||pagead2.googlesyndication.com/pagead/osd.js$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+@@||pagead2.googlesyndication.com/pagead/osd.js$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
 @@||probe.yieldlab.net/yp/$script,domain=kabeleins.de|prosiebenmaxx.de|ran.de|sixx.de
 @@||prosieben.de^$genericblock,generichide
@@ -3898,7 +3898,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||ad-srv.net^$domain=tellows.de
 ||ad.71i.de^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||ad4mat.de^$domain=googlesyndication.com
-||adform.net^$domain=autobild.de|googlesyndication.com
+||adform.net^$domain=autobild.de|googlesyndication.com|stern.de
 ||adition.com^$domain=g.doubleclick.net|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|transfermarkt.de
 ||adnet.de^$domain=tellows.de
 ||adnxs.com^$domain=autobild.de|focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
@@ -3906,6 +3906,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||adsafeprotected.com^$domain=imasdk.googleapis.com
 ||adscale.de^$domain=tellows.de
 ||adserver.71i.de^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+||adserverc.cliipa.com^$domain=stern.de
 ||adsnative.com^$domain=autobild.de
 ||adspirit.de^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||adtech.de^$domain=tellows.de
@@ -3916,6 +3917,8 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||cas.criteo.com^$domain=autobild.de|gala.de|stern.de|transfermarkt.de
 ||cloudfront.net/werbemittel/$domain=stern.de
 ||criteo.com^$domain=tellows.de
+||emsmobile.de^$domain=stern.de
+||emsservice.de^$domain=stern.de
 ||flashtalking.com^$domain=g.doubleclick.net|gala.de|stern.de
 ||g.doubleclick.net^$domain=focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|tellows.de|transfermarkt.de
 ||gala.de/googleads/$domain=gala.de
@@ -3947,10 +3950,11 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||rtax.criteo.com^$domain=autobild.de|gala.de|stern.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de|transfermarkt.de
 ||serving-sys.com^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
-||smartadserver.com^$domain=autobild.de|transfermarkt.de
+||smartadserver.com^$domain=autobild.de|stern.de|transfermarkt.de
 ||smartclip.net^$domain=gala.de
 ||smartredirect.de^$domain=focus.de
 ||stern.de/gujadstatic/stern/gujAd.$domain=stern.de
+||stickyadstv.com^$domain=stern.de
 ||teads.tv^$domain=autobild.de|transfermarkt.de
 ||theadex.com^$domain=stern.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
@@ -11229,4 +11233,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: T3vmwi+B3BAvtC3qQFGX4g
+! Checksum: aUf/nGmUprHjR5CWA7femg
