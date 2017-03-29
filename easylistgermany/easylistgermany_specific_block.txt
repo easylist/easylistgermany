@@ -2147,6 +2147,7 @@
 @@||onvista.de/onvista/smartAd?version=$subdocument,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*&itransfer=*&width=*&height=
 ||onvista.de/news/boxes/news-image/?newsId=*&width=*&height=*&hstring=$image,domain=onvista.de
+||onvista.de/news/boxes/news-image/?newsId=*argument$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*background$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*block$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*string$image,domain=onvista.de
