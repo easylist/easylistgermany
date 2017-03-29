@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703291718
+! Version: 201703291721
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 29 Mar 2017 17:18 UTC
+! Last modified: 29 Mar 2017 17:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5780,6 +5780,7 @@ spielaffe.de##.game__bottomInfoRightContainer
 webmart.de##.gap
 pooltrax.com##.gas2
 t3n.de##.gasTeaser
+winfuture.de##.gcap
 chip.de##.general2 > #ContBoxCBM
 geizhals.at,geizhals.de,gh.de##.gh_fp
 geizhals.at,gh.de##.gh_fp_wide
@@ -11233,4 +11234,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: aUf/nGmUprHjR5CWA7femg
+! Checksum: aneqQ5P+9jE8grjoCY4f4w
