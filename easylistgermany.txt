@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201703302058
+! Version: 201703311609
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 Mar 2017 20:58 UTC
+! Last modified: 31 Mar 2017 16:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3821,6 +3821,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 /height=([0-9]+[+]+[a-zA-Z0-9]+)+/$image,domain=onvista.de
 /height=([0-9]+[+]+[A-Za-z]+)+/$image,domain=onvista.de
 /height=([0-9]+[A-Za-z]+)+/$image,domain=onvista.de
+/newsId=([0-9]+[&]+[a-zA-Z]+[=]+[0-9]+[a-zA-Z]+)+/$image,domain=onvista.de
 /newsId=([0-9]+[&]+[a-zA-Z]+[=]+[a-zA-Z]+)+/$image,domain=onvista.de
 @@||onvista.de/onvista/smartAd?version=$subdocument,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*&itransfer=*&width=*&height=
@@ -11248,4 +11249,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: C5wldpxuGzjDNk4yHP1Lww
+! Checksum: mAO93DVtXqLk9YX2iS9m9g
