@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704022052
+! Version: 201704031741
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Apr 2017 20:52 UTC
+! Last modified: 03 Apr 2017 17:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3817,6 +3817,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! onvista.de
+/([a-zA-Z]+[=]+[0-9]+[a-zA-Z]+[&newsid]+)+/$image,domain=onvista.de
 /height=([0-9]+[&]+[a-zA-Z0-9]+)+/$image,domain=onvista.de
 /height=([0-9]+[+]+[a-zA-Z0-9]+)+/$image,domain=onvista.de
 /height=([0-9]+[+]+[A-Za-z]+)+/$image,domain=onvista.de
@@ -5278,6 +5279,7 @@ ksta.de##.BoxHeaderKalaydo
 sex-up.net##.BoxSidebarGoogleSexUp
 mactechnews.de##.CommercialPanel
 ksta.de##.ContainerContentKalaydoSmall
+stayfriends.de##.ContainerRectangle
 onvista.de##.DAS_INVESTMENT > .ANZEIGE
 mactechnews.de##.DfpNewsO
 mactechnews.de##.DfpPanel336
@@ -5377,6 +5379,7 @@ baronbuff.de##.adp_pls
 20min.ch,250kb.de,app-kostenlos.de,arbeitszeugnisgenerator.de,bild.de,channelpartner.de,dhb.de,eintracht.de,erdbeerlounge.de,fischkopf.de,giga.de,helpster.de,israelnetz.com,mtv.de,playmassive.de,tageblatt.lu,tecchannel.de,tus-n-luebbecke.de,viamichelin.at,viamichelin.ch,worldofminecraft.eu,zdnet.de##.ads
 psychic.de##.ads5
 tagesanzeiger.ch##.adsTitle
+stayfriends.de##.adsWrapper
 e-hausaufgaben.de##.adscontntad
 duden.de##.adsense
 skodacommunity.de##.adsenseContainer + div[align="center"]
@@ -11258,4 +11261,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: vFG54GCQlrpPYV8CP+d2VA
+! Checksum: AG2Rt39cCHtB36o3DlA2pg
