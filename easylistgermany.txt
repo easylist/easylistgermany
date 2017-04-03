@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704031745
+! Version: 201704031804
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Apr 2017 17:45 UTC
+! Last modified: 03 Apr 2017 18:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3852,6 +3852,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 @@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
 @@||doubleclick.net^$image,domain=stern.de
+@@||emsservice.de/autoNative/project/autoNative.min.js$domain=stern.de
 @@||emsservice.de^$image,domain=stern.de
 @@||focus.de^$genericblock
 @@||g.doubleclick.net/dbm/vast?dbm_c=$xmlhttprequest,domain=imasdk.googleapis.com
@@ -3962,6 +3963,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||revsci.net^$domain=focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 ||rtax.criteo.com^$domain=autobild.de|gala.de|stern.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de|transfermarkt.de
+||serving-sys.com/BurstingPipe/$domain=stern.de
 ||serving-sys.com/BurstingRes/$domain=imasdk.googleapis.com
 ||serving-sys.com/Serving/$domain=imasdk.googleapis.com
 ||serving-sys.com^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
@@ -11260,4 +11262,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 1xh8JsV0F1pt3ZSHM/ZWVg
+! Checksum: XFml2IX/D9lX09dNpVgp3Q
