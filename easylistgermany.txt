@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704041748
+! Version: 201704050632
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 Apr 2017 17:48 UTC
+! Last modified: 05 Apr 2017 06:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3815,7 +3815,6 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! onvista.de
 /([a-zA-Z]+[=]+[0-9]+[_]+[a-zA-Z]+[&newsid]+)+/$image,domain=onvista.de
-/([a-zA-Z]+[=]+[0-9]+[a-zA-Z]+[&newsid]+)+/$image,domain=onvista.de
 /height=([0-9]+[&]+[a-zA-Z0-9]+)+/$image,domain=onvista.de
 /height=([0-9]+[+]+[a-zA-Z0-9]+)+/$image,domain=onvista.de
 /height=([0-9]+[+]+[A-Za-z]+)+/$image,domain=onvista.de
@@ -4094,6 +4093,24 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 ||wize.life/*/cc26a9f/$image
 ||wize.life/*/ecfed44/$image
 ||wize.life/js/alternative/alternative.js
+! 
+||4players.de/screenshooot/$image,domain=4players.de
+||arcor.de/img/$image,domain=arcor.de
+||ariva.de/chart/img/*_chart.jpg$image,domain=ariva.de
+||auto-service.de/*f=hero-$image,domain=auto-service.de
+||cdn.heftig.co/wp-content/uploads/$image,domain=genialetricks.de|heftig.de
+||images.cgames.de/images/*_*.jpg$image,domain=gamestar.de
+||images.cgames.de/images/gamepro/*_*.jpg$image,domain=gamepro.de
+||kamelle.de/incoming/$image,domain=kamelle.de
+||la20.de/$image,domain=lablue.de
+||menshealth.de/media/mh-*/*/sh_$image,domain=menshealth.de
+||motorradonline.de/sixcms/media.php/166/thumbnails/$image,domain=motorradonline.de
+||ran.de/static/$image,domain=ran.de
+||sportal.de/photos/17/04/resize/*x*_$image,domain=sportal.de
+||spox.com/img/$image,domain=spox.com
+||www.nnn.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=nnn.de
+||www.prignitzer.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=prignitzer.de
+||www.svz.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=svz.de
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block_popup.txt ***
 .gif|$popup,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
 ^utm_campaign^$popup,domain=jappy.de
@@ -11270,4 +11287,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: rSw7Dx3I+ikPShyvfnHtnA
+! Checksum: 4oDGDNzzydRj4IlptSLB1A
