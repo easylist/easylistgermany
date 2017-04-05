@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704051629
+! Version: 201704051630
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Apr 2017 16:29 UTC
+! Last modified: 05 Apr 2017 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10654,6 +10654,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||ad.71i.de/images/fallback/video/1_sek.mp4$domain=netzwelt.de
 @@||ad.adworx.at/crossdomain.xml$object-subrequest
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
+@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=erdbeerlounge.de|giga.de|kino.de|spielaffe.de|spieletipps.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad.yieldlab.net/yp/$script,domain=dance-charts.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|gutscheindoktor.de|literatur-fast-pur.de|preismafia.com|preisvergleich.de
@@ -10788,6 +10789,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||efiliale.de/efiliale/pop/js/pop.js
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object-subrequest,domain=mobile.de
 @@||enjoykitz.tv/werbung.txt$object-subrequest
+@@||erdbeerlounge.de^$elemhide
 @@||eventim.de^*?affiliate=$subdocument
 @@||eventus-design.com^$~third-party
 @@||expertklein.de/xml/banner.php?id=$object-subrequest
@@ -10831,6 +10833,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||gamers.at/images/branding/*_header.
 @@||games.tfag.de^$domain=fitforfun.de
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
+@@||giga.de^$elemhide
 @@||gmx.net^*/video-adserver-config.xml$object-subrequest
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.com/ads/search/module/ads/*/search.js$domain=arcor.de|fewo-direkt.de|zoover.de
@@ -10868,6 +10871,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||juleps-esslingen.de/index.swf?clicktag=$object,~third-party
 @@||kabeleins.de/php-bin/functions/adtags/$subdocument
 @@||kalaydo.de/mmo/logo/advert/$domain=kalaydo.de
+@@||kino.de^$elemhide
 @@||klick.affiliwelt.net/klick.php?bannerid=$subdocument,domain=gutscheindoktor.de
 @@||kmelektronik.de/shop/images/advertising/$image
 @@||kurier.at^*/ac_oetags_clone.js
@@ -11010,8 +11014,10 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||smartredirect.de/redir/clickGate.php?u=$subdocument,domain=gutscheindoktor.de
 @@||softwareload.kpcustomer.de/voting/public/flash/300x250_widget_$object
 @@||sparfoto.de/article_designer/ad.php?$object
+@@||spielaffe.de^$elemhide
 @@||spielen.de/bundles/mediatrustfrontend/js/javascript.js?
 @@||spielesite.com^$script,domain=spielesite.com
+@@||spieletipps.de^$elemhide
 @@||spielkarussell.de^*/ads_loader_new.js
 @@||sport.de/autoimg/*/300x250/$image,~third-party
 @@||sport1.fm/ad/my_ad_iframe.html?ad_id=performance*&start=$subdocument
@@ -11288,4 +11294,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: zUqqfkiWUni6MMz8ooEUaQ
+! Checksum: r/KAyeXIV/cmsRs/xJWGBw
