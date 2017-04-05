@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704051633
+! Version: 201704052043
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Apr 2017 16:33 UTC
+! Last modified: 05 Apr 2017 20:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2856,6 +2856,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||mobiflip.de^*/160er.html
 ||mobiflip.de^*/728er.html
 ||mobilefunk.info^$domain=germanload.to
+||mobilegeeks.de/wp-content/uploads/2017/03/mobilegeeks_koop_banner_1600x900.jpg
 ||mobilfunk-talk.de/banner_rechts.php
 ||moddingtech.de^*/banners/
 ||modified-shop.org/images/banner/
@@ -5953,6 +5954,7 @@ au-ja.de##.leftADV
 taketv.net##.leftbanner
 bunte.de##.li_imageteaser_row_typ3
 mov-world.net##.link .archive.online[target="_blank"]
+mobilegeeks.de##.link-display-large[href^="https://www.mobilegeeks.de/go/instaffo/"]
 handballecke.de##.linkEmpfehlungen
 kissfm.de##.links
 kicker.de##.linksebay
@@ -11302,4 +11304,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: OvpHKImTwc7jywHmnDrdMA
+! Checksum: 5H/g0b9i+pKmTApPvQBW7g
