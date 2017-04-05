@@ -2138,7 +2138,6 @@
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! onvista.de
 /([a-zA-Z]+[=]+[0-9]+[_]+[a-zA-Z]+[&newsid]+)+/$image,domain=onvista.de
-/([a-zA-Z]+[=]+[0-9]+[a-zA-Z]+[&newsid]+)+/$image,domain=onvista.de
 /height=([0-9]+[&]+[a-zA-Z0-9]+)+/$image,domain=onvista.de
 /height=([0-9]+[+]+[a-zA-Z0-9]+)+/$image,domain=onvista.de
 /height=([0-9]+[+]+[A-Za-z]+)+/$image,domain=onvista.de
@@ -2417,3 +2416,21 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 ||wize.life/*/cc26a9f/$image
 ||wize.life/*/ecfed44/$image
 ||wize.life/js/alternative/alternative.js
+!
+||4players.de/screenshooot/$image,domain=4players.de
+||arcor.de/img/$image,domain=arcor.de
+||ariva.de/chart/img/*_chart.jpg$image,domain=ariva.de
+||auto-service.de/*f=hero-$image,domain=auto-service.de
+||cdn.heftig.co/wp-content/uploads/$image,domain=genialetricks.de|heftig.de
+||images.cgames.de/images/*_*.jpg$image,domain=gamestar.de
+||images.cgames.de/images/gamepro/*_*.jpg$image,domain=gamepro.de
+||kamelle.de/incoming/$image,domain=kamelle.de
+||la20.de/$image,domain=lablue.de
+||menshealth.de/media/mh-*/*/sh_$image,domain=menshealth.de
+||motorradonline.de/sixcms/media.php/166/thumbnails/$image,domain=motorradonline.de
+||ran.de/static/$image,domain=ran.de
+||sportal.de/photos/17/04/resize/*x*_$image,domain=sportal.de
+||spox.com/img/$image,domain=spox.com
+||www.nnn.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=nnn.de
+||www.prignitzer.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=prignitzer.de
+||www.svz.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=svz.de
