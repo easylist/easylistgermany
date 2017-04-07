@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704062050
+! Version: 201704070645
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 06 Apr 2017 20:50 UTC
+! Last modified: 07 Apr 2017 06:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3824,6 +3824,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 /newsId=([0-9]+[&]+[a-zA-Z]+[=]+[0-9]+[a-zA-Z]+)+/$image,domain=onvista.de
 /newsId=([0-9]+[&]+[a-zA-Z]+[=]+[a-zA-Z]+)+/$image,domain=onvista.de
 @@||onvista.de/onvista/smartAd?version=$subdocument,domain=onvista.de
+||onvista.de/news/boxes/news-image/?i$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*&itransfer=*&width=*&height=
 ||onvista.de/news/boxes/news-image/?newsId=*&width=*&height=*&hstring=$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*argument$image,domain=onvista.de
@@ -4101,20 +4102,31 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 ||wize.life/*/ecfed44/$image
 ||wize.life/js/alternative/alternative.js
 ! 
+http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||4players.de/screenshooot/$image,domain=4players.de
+||4players.de/screenshoots/$image,domain=4players.de
 ||arcor.de/img/$image,domain=arcor.de
+||arcor.de/img1/$image,domain=arcor.de
+||ariva.de/chart/img/*_char*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*_chart.jpg$image,domain=ariva.de
 ||auto-service.de/*f=hero-$image,domain=auto-service.de
+||auto-service.de/*f=teaser/$image,domain=auto-service.de
+||cdn.heftig.co/wp-content/upload/$image,domain=genialetricks.de|heftig.de
 ||cdn.heftig.co/wp-content/uploads/$image,domain=genialetricks.de|heftig.de
+||images.cgames.de/imager/*_*.jpg$image,domain=gamestar.de
+||images.cgames.de/imager/gamepro/*_*.jpg$image,domain=gamepro.de
 ||images.cgames.de/images/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/images/gamepro/*_*.jpg$image,domain=gamepro.de
 ||kamelle.de/incoming/$image,domain=kamelle.de
 ||la20.de/$image,domain=lablue.de
+||menshealth.de/media/mh-*/*/sh-$image,domain=menshealth.de
 ||menshealth.de/media/mh-*/*/sh_$image,domain=menshealth.de
 ||motorradonline.de/sixcms/media.php/166/thumbnails/$image,domain=motorradonline.de
+||noz.de/media/$image,domain=noz.de
 ||ran.de/static/$image,domain=ran.de
 ||sportal.de/photos/17/04/resize/*x*_$image,domain=sportal.de
 ||spox.com/img/$image,domain=spox.com
+||spox.com/inng/$image,domain=spox.com
 ||www.nnn.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=nnn.de
 ||www.prignitzer.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=prignitzer.de
 ||www.svz.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=svz.de
@@ -11301,4 +11313,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: NYWxVEG8UYR/gHwzgjrXcg
+! Checksum: whM4ffdnFH+ylczb7VTAEA
