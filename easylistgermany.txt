@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704102056
+! Version: 201704102107
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Apr 2017 20:56 UTC
+! Last modified: 10 Apr 2017 21:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2911,9 +2911,8 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||muskelschmiede.de/images/banners/
 ||mvv-muenchen.de/web4archiv/objects/pictures/homepage/banner/
 ||myanimes.net/layer.js
-||myboerse.bz/annepromo.php
-||myboerse.bz/anneromo.php
-||myboerse.bz/popup.php
+||myboerse.bz/annedpromo.php
+||myboerse.bz/popups.php
 ||myconsol.net/uploads/brandings/bg_
 ||myconsol.net/uploads/brandings/headerbg_
 ||mycsharp.de/wbb2/images/community_index/events/*_140x100.gif
@@ -5010,7 +5009,7 @@ supernature-forum.de###post_
 handy-hilfeforum.de,usp-forum.de###post_218944
 pocketpc.ch###post_99_Ad_Second
 wow-forum.com###posts #wow_ros_postbit
-eot-clan.net,myboerse.bz###posts > li[id^="yui-gen"]
+myboerse.bz###posts > .postbitlegacy:not([id])
 mobilfunk-talk.de###posts > li[id^="yui-gen"].postcontainer
 unixboard.de###posts > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][style="page-break-before: always"]
 gutefrage.net###poweredBy
@@ -7701,6 +7700,7 @@ titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; marg
 prad.de##p[style="margin-top: 0px; margin-bottom: 0px; margin-right: auto; margin-left: auto; text-align: center;"]
 lateinwiki.org##p[style="width:100%;border:solid 1px #00ff00;background-color:#98FB98;text-align:left;font-size:12px;color:#000000;"]
 kfz-steuer.de##p[style="width:575px; height:85px; background: #F6F6F6"]
+eot-clan.net##posts > li[id^="yui-gen"]
 doku.me##script + table[width="700"][height="600"]
 tv-stream.to##script[src^="/"] + div > div[id][style]
 g-stream.in##script[type="text/javascript"] + div[class] + script[type="text/javascript"] + *
@@ -11349,4 +11349,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: r9LfG+8rVFK38NN/ELEcZg
+! Checksum: CsWE4l6QwX5JwEEjiEKOKQ
