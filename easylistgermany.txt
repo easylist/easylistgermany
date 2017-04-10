@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704102107
+! Version: 201704102111
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Apr 2017 21:07 UTC
+! Last modified: 10 Apr 2017 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4083,7 +4083,7 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 ||formel1.de/public/news/5034caff0db726/$image
 ||gevestor.de/images/publiczs/$image
 ||gevestor.de/images/publiczs​/​$image
-||haz.de/js/haz^$script
+||haz.de/js/haz/f4fcb05efca8a9b74a35c44e994d03f1.js
 ||iban-rechner.de^$image,~third-party,domain=iban-rechner.de
 ||iban.de/img/1/btop2.gif
 ||juraforum.de/bilder/statisch/$image
@@ -11349,4 +11349,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: CsWE4l6QwX5JwEEjiEKOKQ
+! Checksum: PzwdECKajkVqgsWa5XWcoA
