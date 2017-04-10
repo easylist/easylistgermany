@@ -303,6 +303,7 @@ wetteronline.de###content + * > a > img
 fernsehkritik.tv###content > #rclm[style="width:224px;"]:last-child
 wgvdl.com###content > #seitenblock > #seitenblockinhalt > #seitenblockzeilen
 oxygen-scene.com###content > .board_message
+hoerbuch.us###content > .entry-content:first-child
 movie-blog.org###content > div[class] > div[class] > div > div > a[href^="http://movie-blog.org/"]
 hoerbuch.us,lesen.to###content > font[color="red"] > h2
 onlinereports.ch###content-banner1
@@ -512,7 +513,7 @@ immonet.de###kuechenlink
 nibelungenkurier.de###large_banner_top
 deutsche-startups.de###latestDivider.highlighted
 laut.de###laut-box-ad
-beamtentalk.de,dug-portal.com,gesichtskirmes.net,movie-blog.org,pornofilme24.info,sdx.cc,wichsfleck.com###layer
+beamtentalk.de,dug-portal.com,gesichtskirmes.net,hoerbuch.us,movie-blog.org,pornofilme24.info,sdx.cc,wichsfleck.com###layer
 ingame.de###layer-overlay
 tv-stream.to###layer_1
 simpsons.to###layerbg
@@ -2529,7 +2530,10 @@ goldesel.to,hornoxe.com,leave.to,movie-blog.org,porn2you.org,prad.de,trendhure.c
 ingame.de##a[href^="http://green.ingame.de/www/delivery/inck.php?"]
 duckcrypt.info##a[href^="http://highspeed.duckcrypt.info"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
+hoerbuch.us##a[href^="http://hoerbuch.us/dddl"]
+hoerbuch.us##a[href^="http://hoerbuch.us/ddl/?f="]
 hoerbuch.us##a[href^="http://hoerbuch.us/load/?f="]
+hoerbuch.us##a[href^="http://hoerbuch.us/wp/goto/Download_Unser_Tipp_"]
 hd-world.org,movie-blog.org##a[href^="http://href.hu/"]
 movie-blog.org##a[href^="http://ilnk.me/"]
 fussball.de,knuddels.de,t-online.de,trax.de##a[href^="http://im.banner.t-online.de/?adlink|"]
@@ -3280,7 +3284,7 @@ t-online.de##form[action="http://stromvergleich.t-online.de/strom.php"]
 xxx-blog.to##form[action="http://xxx-blog.to/mirror.php?download=highspeed"]
 rtl.de##form[action^="http://altfarm.mediaplex.com/"]
 atomload.to##form[action^="http://atomload.to/direktdownload/"]
-lesen.to##form[action^="http://www.FriendlyDuck.com/AF_"]
+hoerbuch.us,lesen.to##form[action^="http://www.FriendlyDuck.com/AF_"]
 hoerbuch.us##form[action^="http://www.FriendlyDuck.com/AF_"] > #mirror
 ddl-search.biz##form[action^="http://www.affaire.com/"]
 serienjunkies.org,wiiu-reloaded.com##form[action^="http://www.firstload.com/affiliate/"]
