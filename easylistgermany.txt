@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704102046
+! Version: 201704102056
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Apr 2017 20:46 UTC
+! Last modified: 10 Apr 2017 20:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7882,6 +7882,9 @@ focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir
 boote-forum.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 ariva.de,boote-forum.de,fanfiktion.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
+giga.de##.trc-content-sponsored
+giga.de##.trc-content-sponsoredUB
+giga.de##.trc_related_container div[data-item-syndicated="true"]
 @@||focus.de^$generichide
 @@||pcwelt.de^$generichide
 plista.com##a[href^="http://click.plista.com/pets"]
@@ -10885,7 +10888,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||gamers.at/images/branding/*_header.
 @@||games.tfag.de^$domain=fitforfun.de
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
-@@||giga.de^$elemhide
+@@||giga.de^$generichide
 @@||gmx.net^*/video-adserver-config.xml$object-subrequest
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.com/ads/search/module/ads/*/search.js$domain=arcor.de|fewo-direkt.de|zoover.de
@@ -11338,7 +11341,7 @@ kalender-365.de#@#.adsbygoogle
 @@||getmyads.com^$popup,domain=wieverdienen.online
 @@||partycasino.com^$popup,domain=online-casino.de
 @@||pubads.g.doubleclick.net/gampad/clk?$popup,domain=cnet.de
-@@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=gofeminin.de
+@@||serving-sys.com/BurstingPipe/adServer.bs?$popup,domain=giga.de|gofeminin.de
 @@||slimtrade.com/out.php?*&g=http://www.hoerbuch.us/protection/folder_$popup,domain=hoerbuch.us
 @@||slimtrade.com/out.php?*&g=http://www.lesen.to/protection/folder_$popup,domain=lesen.to
 @@||stargames.com^$popup,domain=online-casino.de
@@ -11346,4 +11349,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: pFqvIsX9JKztLI6hUu0zXw
+! Checksum: r9LfG+8rVFK38NN/ELEcZg
