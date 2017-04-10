@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704101958
+! Version: 201704102001
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Apr 2017 19:58 UTC
+! Last modified: 10 Apr 2017 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10756,6 +10756,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||alfred-delp-schule.de/ads_$~third-party
 @@||am-display.com/display-ad/tag-set/$subdocument,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||am-display.com/display-ad/tag/$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
+@@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net|hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||angis-escort.com/angi/banner/$image,domain=searchx.ch
 @@||ankerbrot.at/_ads/$~third-party
@@ -11334,4 +11335,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: LVbBM0eFhaWVeOd4lEg+dA
+! Checksum: tPASfrkJcXxhu1oQoP5pPA
