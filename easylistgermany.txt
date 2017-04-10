@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704102014
+! Version: 201704102022
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Apr 2017 20:14 UTC
+! Last modified: 10 Apr 2017 20:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5660,6 +5660,7 @@ web.de##.buster
 tt.com##.button145
 foerderland.de##.button300x250
 xink.it##.buttonMirror
+filecrypt.cc##.buttons > span > button[onmouseup^="var d = this;openLink('"]
 filecrypt.cc##.buttons button[onmouseup^="var c = this;openLink('"]
 lounge.fm##.buy
 giga.de##.buy[target="_blank"]
@@ -6569,6 +6570,7 @@ xp-antispy.org##a[href*="com_partner&link="]
 3dl.tv##a[href*="downloadboutique.com"]
 hd-vidz.net##a[href*="filesonthe.net"]
 movie-blog.org##a[href*="http://ul.to/ref/"]
+filecrypt.cc##a[href="#"] > img[src^="http://filecrypt.cc/images/"]
 arcor.de##a[href="/content/unterhaltung/lotto/"]
 smsgott.de##a[href="/d2freikarte.php"]
 sb.sbsb.cc##a[href="/download.php"]
@@ -10852,6 +10854,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||fh-muenster.de/leitbild/banner.php
 @@||figgä.ch/sites/default/files/ms_ads/banner$domain=ameliatantra.jimdo.com
 @@||filecrypt.cc/index.php?Action=Go&id=$subdocument,domain=filecrypt.cc
+@@||filecrypt.cc^$script,domain=filecrypt.cc
 @@||firebaseapp.com^$script,domain=freenet.de
 @@||fn-neon.de/javascript/adserver_banner.js
 @@||forum-duewupp.de/images/ad-gallery/$~third-party
@@ -11336,4 +11339,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: n4jwp5xiM813gcgBWBHomQ
+! Checksum: +yXpbsVbt772HUEuo4qlcw
