@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704101953
+! Version: 201704101958
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Apr 2017 19:53 UTC
+! Last modified: 10 Apr 2017 19:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -476,6 +476,7 @@ anzeigen-kostenlos.com#@#.AdBox
 egofm.de#@#.WerbungLinksRechts
 zeitleser.de#@#.ad-bottom
 siemens-home.de,xdate.ch#@#.ad-item
+gemeinsam-in-bremen.de#@#.ad-region
 willhaben.at#@#.ad-text
 zeitleser.de#@#.ad-top
 delamar.de#@#.adBox
@@ -11333,4 +11334,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: OyEETjEMs1fSyO/dmJPBVA
+! Checksum: LVbBM0eFhaWVeOd4lEg+dA
