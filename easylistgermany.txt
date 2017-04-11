@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704111912
+! Version: 201704111916
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 11 Apr 2017 19:12 UTC
+! Last modified: 11 Apr 2017 19:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3163,6 +3163,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||ps3inside.de/forum/images/green/ps3inside_zockerrampe.gif
 ||pszone.eu/templates/playzone/img/bg_all.jpg
 ||pszone.eu/uploads/banners/
+||pure-fm.de/wp-content/uploads/ad-
 ||pz-news.de^*/module_wb/
 ||querverweis.net/show/index.php?sac_cat=
 ||quoka.de/fif.html
@@ -7715,6 +7716,7 @@ iphone-tricks.de##p[style="clear:both;width:100%;border-bottom: 1px solid #e5e5e
 titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; margin: 0; padding: 0;"]
 titanic-magazin.de##p[style="font-size: 7pt; color: grey; text-align: left; margin: 0; padding: 0;"] + .teaser_row[style="height: 181px;"]
 prad.de##p[style="margin-top: 0px; margin-bottom: 0px; margin-right: auto; margin-left: auto; text-align: center;"]
+pure-fm.de##p[style="text-align:center; height:90px; width:100%"]
 lateinwiki.org##p[style="width:100%;border:solid 1px #00ff00;background-color:#98FB98;text-align:left;font-size:12px;color:#000000;"]
 kfz-steuer.de##p[style="width:575px; height:85px; background: #F6F6F6"]
 eot-clan.net##posts > li[id^="yui-gen"]
@@ -11354,4 +11356,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Bxn79c8O6yhn0Zgb1b90mg
+! Checksum: SjAVTdo7RqTDICp4vffgog
