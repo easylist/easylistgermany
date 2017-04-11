@@ -155,7 +155,7 @@
 @@||efiliale.de/efiliale/pop/js/pop.js
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object-subrequest,domain=mobile.de
 @@||enjoykitz.tv/werbung.txt$object-subrequest
-@@||erdbeerlounge.de^$generichide
+@@||erdbeerlounge.de^$elemhide
 @@||eventim.de^*?affiliate=$subdocument
 @@||eventus-design.com^$~third-party
 @@||expertklein.de/xml/banner.php?id=$object-subrequest
@@ -200,7 +200,7 @@
 @@||gamers.at/images/branding/*_header.
 @@||games.tfag.de^$domain=fitforfun.de
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
-@@||giga.de^$generichide
+@@||giga.de^$elemhide
 @@||gmx.net^*/video-adserver-config.xml$object-subrequest
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.com/ads/search/module/ads/*/search.js$domain=arcor.de|fewo-direkt.de|zoover.de
@@ -384,7 +384,7 @@
 @@||spielaffe.de^$elemhide
 @@||spielen.de/bundles/mediatrustfrontend/js/javascript.js?
 @@||spielesite.com^$script,domain=spielesite.com
-@@||spieletipps.de^$generichide
+@@||spieletipps.de^$elemhide
 @@||spielkarussell.de^*/ads_loader_new.js
 @@||sport.de/autoimg/*/300x250/$image,~third-party
 @@||sport1.fm/ad/my_ad_iframe.html?ad_id=performance*&start=$subdocument
