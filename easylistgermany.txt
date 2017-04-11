@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704111916
+! Version: 201704112059
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 11 Apr 2017 19:16 UTC
+! Last modified: 11 Apr 2017 20:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10850,7 +10850,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||efiliale.de/efiliale/pop/js/pop.js
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object-subrequest,domain=mobile.de
 @@||enjoykitz.tv/werbung.txt$object-subrequest
-@@||erdbeerlounge.de^$generichide
+@@||erdbeerlounge.de^$elemhide
 @@||eventim.de^*?affiliate=$subdocument
 @@||eventus-design.com^$~third-party
 @@||expertklein.de/xml/banner.php?id=$object-subrequest
@@ -10895,7 +10895,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||gamers.at/images/branding/*_header.
 @@||games.tfag.de^$domain=fitforfun.de
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
-@@||giga.de^$generichide
+@@||giga.de^$elemhide
 @@||gmx.net^*/video-adserver-config.xml$object-subrequest
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.com/ads/search/module/ads/*/search.js$domain=arcor.de|fewo-direkt.de|zoover.de
@@ -11079,7 +11079,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||spielaffe.de^$elemhide
 @@||spielen.de/bundles/mediatrustfrontend/js/javascript.js?
 @@||spielesite.com^$script,domain=spielesite.com
-@@||spieletipps.de^$generichide
+@@||spieletipps.de^$elemhide
 @@||spielkarussell.de^*/ads_loader_new.js
 @@||sport.de/autoimg/*/300x250/$image,~third-party
 @@||sport1.fm/ad/my_ad_iframe.html?ad_id=performance*&start=$subdocument
@@ -11356,4 +11356,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: SjAVTdo7RqTDICp4vffgog
+! Checksum: HsRCUlWLQogPz+mgy7ERXw
