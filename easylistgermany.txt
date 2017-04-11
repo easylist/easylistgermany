@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704111900
+! Version: 201704111912
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 11 Apr 2017 19:00 UTC
+! Last modified: 11 Apr 2017 19:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3661,6 +3661,8 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||voltigierforum.de/images/banner2.jpg
 ||voltigierzirkel.de^*/banner/
 ||vsg2001.de/images/banners/
+||vsport.at/fileadmin/sponsoren/
+||vsport.at/uploads/tx_macinabanners/
 ||w.online-verlag-freiburg.de^
 ||w3-warez.cc/images/hoster/ref_
 ||waldecker-tagblatt.de/images/banners/
@@ -5447,6 +5449,8 @@ die-schnelle-kuh.de##.abp
 presseportal.de##.abvbp-parent-hockey
 aachener-nachrichten.de,abendblatt.de,alle-immobilien.ch,azonline.de,bazonline.ch,bernerzeitung.ch,bildderfrau.de,billig-flieger-vergleich.de,bos-fahrzeuge.info,computerbase.de,crn.de,derbund.ch,derlacher.de,echo-online.de,epochtimes.de,fail.to,fettspielen.de,funnypizza.de,glamour.de,gmx.net,gq-magazin.de,hardwareclips.com,inside-handy.de,ircgalerie.net,kalenderwoche.net,kino24.to,kronehit.at,macwelt.de,modhoster.de,netzpolitik.org,newscomm.de,phonostar.de,podcast.de,prisma.de,radiokoeln.de,raidrush.org,rhein-neckar-loewen.de,sachsen-fernsehen.de,shopbetreiber-blog.de,sueddeutsche.de,suite101.de,tagesanzeiger.ch,wallstreet-online.de,web.de,welt.de,wn.de,yellingnews.com,zeit.de##.ad
 1und1.de,gmx.net,web.de##.ad-container
+vsport.at##.ad1
+vsport.at##.ad2
 med1.de,stayfriends.de##.adContainer
 wz-newsline.de##.adDisclaimerLight
 games.ch,webfail.at##.adMR
@@ -11350,4 +11354,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ZTHiqfbYfOVDBN6Aba0Owg
+! Checksum: Bxn79c8O6yhn0Zgb1b90mg
