@@ -2164,6 +2164,7 @@
 ||onvista.de/news/boxes/news-image/?newsId=*string$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*text$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?newsId=*var$image,domain=onvista.de
+||onvista.de/news/boxes/news-ir$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*&width=*&height=*-$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*&width=*&height=*_$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*-*&width=*&height=$image,domain=onvista.de
@@ -2450,20 +2451,24 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 ​||news.de/module/newsfrontend/img/$image​
 !
 http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
+||4players.de/screenschoots/$image,domain=4players.de
 ||4players.de/screenshooot/$image,domain=4players.de
 ||4players.de/screenshoorts/$image,domain=4players.de
 ||4players.de/screenshoots/$image,domain=4players.de
 ||4players.de/screenshorts/$image,domain=4players.de
 ||abendzeitung-muenchen.de/media.media*normalized$image,domain=abendzeitung-muenchen.de
 ||abendzeitung-muenchen.de/media.media*norrnalized$image,domain=abendzeitung-muenchen.de
+||abendzeitung-muenchen.de/media.media.*-*-*-*-*-*.original
 ||arcor.de/img/$image,domain=arcor.de
 ||arcor.de/img1/$image,domain=arcor.de
 ||arcor.de/img2/$image,domain=arcor.de
 ||arcor.de/img3/$image,domain=arcor.de
+||arcor.de/img4/$image,domain=arcor.de
 ||ariva.de/chart/img/*_char*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*_chart.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*cha*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*char*.jpg$image,domain=ariva.de
+||ariva.de/chart/img/*chi*.jpg$image,domain=ariva.de
 ||auto-service.de/*f*=teaser/$image,domain=auto-service.de
 ||auto-service.de/*f=hero-$image,domain=auto-service.de
 ||auto-service.de/*f=teaser/$image,domain=auto-service.de
@@ -2471,6 +2476,8 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||cdn.heftig.co/wp-content/uploads/$image,domain=genialetricks.de|heftig.de
 ||chefkoch.de/ck.de/cms-uploads/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uploards/$image,domain=chefkoch.de
+||chefkoch.de/ck.de/cms-uptoads/$image,domain=chefkoch.de
+||classic.comunio.de/i/2/screenshots/bundesliga/*/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bundesliga/de/screenshot_$image,domain=classic.comunio.de
 ||i0.auto-service.de/*/*,pd=0$image,domain=auto-service.de
 ||images.cgames.de/imager/*_*.jpg$image,domain=gamestar.de
@@ -2479,6 +2486,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||images.cgames.de/imagers/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/images/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/images/gamepro/*_*.jpg$image,domain=gamepro.de
+||images.cgames.de/imagest/*_*.jpg$image,domain=gamestar.de
 ||kamelle.de/incoming/$image,domain=kamelle.de
 ||la20.de/$image,domain=lablue.de
 ||menshealth.de/media/mh-*/*/sh-$image,domain=menshealth.de
@@ -2490,6 +2498,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||spox.com/img/$image,domain=spox.com
 ||spox.com/inng/$image,domain=spox.com
 ||spox.com/irng/$image,domain=spox.com
+||spox.com/iroing/$image,domain=spox.com
 ||spox.com/irong/$image,domain=spox.com
 ||testedich.de/quiz*/picture/pic_$image,domain=testedich.de
 ||tvdigitalepg.images.dvbdata.com/$image,domain=tvdigital.de
