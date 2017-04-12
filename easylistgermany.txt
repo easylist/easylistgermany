@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704120651
+! Version: 201704122135
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Apr 2017 06:51 UTC
+! Last modified: 12 Apr 2017 21:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11077,6 +11077,8 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||smartadserver.com/diff/*/smartad.js$domain=derwesten.de|hoerzu.de|sky.de
 @@||smartadserver.com/diff/251/smartad.js$domain=gofeminin.de
 @@||smartadserver.com/diff/js/smartadserver.js$domain=freestream.nmdn.net
+@@||smartadserver.com/wp-content/uploads/$image,domain=smartadserver.de
+@@||smartadserver.de/wp-content/uploads/$image,domain=smartadserver.de
 @@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|podcast.de|radiobob.de
 @@||smartclip.net/inpage/inpage.js
 @@||smartclip.net/inpage/inpage.swf$object
@@ -11365,4 +11367,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: iY9yJiCIJAg61GaV2/LgmQ
+! Checksum: ANmdkSHuzzEpFpJqozNpGA
