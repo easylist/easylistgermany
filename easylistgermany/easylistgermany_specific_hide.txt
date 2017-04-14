@@ -3823,6 +3823,7 @@ womenshealth.de###header + * + * + [-abp-properties='text-align: center;'] > img
 pcwelt.de###header + * + * + span > div > a > img
 womenshealth.de###header + * + [-abp-properties='text-align: center;'] > img
 macwelt.de###header + * + div > div + a > img
+fettspielen.de###header + * > [-abp-properties='text-align: center;'] > img
 pcwelt.de###header + * > a > img
 gamepro.de###header + [-abp-properties='margin-bottom: 1px;'] > img
 womenshealth.de###header + [-abp-properties='text-align: center;'] > img
@@ -4292,6 +4293,7 @@ mazda-forum.info##.sidebar > div > div span > span > a > img
 motor-talk.de##.sidebar > div > img
 mazda-forum.info##.sidebar a > img
 skodacommunity.de##.sidebar div a > img
+areadvd.de##.sidebar.sidebar-right li > img
 promipool.de##.site-content + [-abp-properties='text-align: center;'] > img
 promipool.de##.site-content + div + div + [-abp-properties='text-align: center;'] > img
 promipool.de##.site-content + div + div + div + div + div + [-abp-properties='text-align: center;'] > img
@@ -4463,7 +4465,7 @@ areamobile.de,pcgames.de,wn.de##[-abp-properties='/margin-left: 8[0-9]px;/'] > i
 abendzeitung-muenchen.de,areamobile.de,auto-service.de,boerse-online.de,boerse.de,caravaning.de,cavallo.de,chefkoch.de,eatsmarter.de,elektrobike-online.com,gamepro.de,klettern-magazin.de,klettern.de,ligainsider.de,mountainbike-magazin.de,mtb-news.de,nnn.de,outdoor-magazin.com,outdoorchannel.de,pcgames.de,planetsnow.de,prignitzer.de,promipool.de,readmore.de,roadbike.de,sportal.de,spox.com,svz.de,testedich.de,tvspielfilm.de,woxikon.de##[-abp-properties='/margin-left: 9[0-8][0-9]|99[0-9]px;/']
 arcor.de##[-abp-properties='/margin-left: 9[0-8][0-9]|99[0-9]px;/'] > img
 antenne.de##[-abp-properties='/margin-left: 9[0-8][0-9]|99[0-9]|1[0-9]{3}|2000px;/']
-ariva.de,auto-motor-und-sport.de,autopixx.de,hoerzu.de,metalflirt.de,nwzonline.de,serienjunkies.de,videogameszone.de##[-abp-properties='/margin-left: 9[0-9][0-9]px;/']
+ariva.de,auto-motor-und-sport.de,autopixx.de,fettspielen.de,hoerzu.de,metalflirt.de,mopo.de,nwzonline.de,serienjunkies.de,videogameszone.de##[-abp-properties='/margin-left: 9[0-9][0-9]px;/']
 buffed.de,ran.de##[-abp-properties='/margin-left: 9[0-9]px;/']
 areamobile.de,wn.de##[-abp-properties='/margin-left: 9[0-9]px;/'] > img
 onvista.de##[-abp-properties='/margin-left: [1-8][0-9][0-9][0-9]|9[0-8][0-9][0-9]|99[0-8][0-9]|999[0-9]px;/']
@@ -4480,6 +4482,7 @@ shz.de##[-abp-properties='/margin-left: [5-8][0-9]|9[0-9]|[12][0-9][0-9]|300px;/
 promipool.de##[-abp-properties='/padding-left: [1-9][0-9]{2}px;/']
 shz.de##[-abp-properties='/padding-left: [23][0-9][0-9]|400px;/']
 buffed.de##[-abp-properties='/right: 8[0-9]px;/']
+fettspielen.de##[-abp-properties='/right: 9[0-9][0-9]px;/']
 gamesaktuell.de##[-abp-properties='/top: 1[0-9][0-9]px;/']
 menshealth.de,nnn.de,prignitzer.de,svz.de##[-abp-properties='/top: 1[0-9][0-9]px;/'] > img
 menshealth.de##[-abp-properties='/top: 2[0-9][0-9]px;/'] > img
@@ -5306,6 +5309,7 @@ wn.de##[-abp-properties='margin-bottom: 24px;'] > div > img
 wn.de##[-abp-properties='margin-bottom: 25.*px;']
 wn.de##[-abp-properties='margin-bottom: 25px;']
 wn.de##[-abp-properties='margin-bottom: 25px;'] > div > img
+fettspielen.de##[-abp-properties='margin-bottom: 26px; text-align: center;']
 wn.de##[-abp-properties='margin-bottom: 26px;']
 wn.de##[-abp-properties='margin-bottom: 27*px;']
 buffed.de##[-abp-properties='margin-bottom: 27px;'] > img
@@ -6293,8 +6297,10 @@ serienjunkies.de##[-abp-properties='width: 933.3*px;']
 serienjunkies.de##[-abp-properties='width: 933.4*px;']
 wetter.com##[-abp-properties='z-index: 1000*;']
 wetter.com##[-abp-properties='z-index: 10000000;']
+ingame.de##[-abp-properties='z-index: 100;']
 mtb-news.de##[-abp-properties='z-index: 100;'] > img
 allgemeine-zeitung.de,buerstaedter-zeitung.de,hochheimer-zeitung.de,hofheimer-zeitung.de,lampertheimer-zeitung.de,rhein-main-presse.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wormser-zeitung.de##[-abp-properties='z-index: 2000;'] > img
+ingame.de##[-abp-properties='z-index: 200;']
 wetter.com##[-abp-properties='z-index: 999;']
 webfail.com##[class^="wf-sidebar-box"] + * > img
 abendzeitung-muenchen.de##[data-layout-desktop="w12-"] > div + div > div > img
@@ -6350,6 +6356,7 @@ onvista.de##header + * + [-abp-properties='margin-bottom: 20px;'] > img
 news.at##header + * + div + div > img
 news.at,profil.at,trend.at,tv-media.at##header + * + div > img
 onvista.de##header + [-abp-properties='margin-bottom: 20px;'] > img
+mopo.de##header + [-abp-properties='margin-top: 20px;'] > img
 trend.at,tv-media.at##header + div > img
 eatsmarter.de##span + * + * + * + * + * + * + * + span > a > img
 eatsmarter.de##span + * + * + span > a > img
