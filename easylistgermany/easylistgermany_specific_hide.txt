@@ -3918,7 +3918,6 @@ testedich.de###related > [-abp-properties='margin-bottom: 20.*px;'] > img
 testedich.de###related > [-abp-properties='margin-bottom: 20px;'] > img
 testedich.de###resources > [-abp-properties='margin-bottom: 15px;'] > img
 gelnhaeuser-tageblatt.de,giessener-anzeiger.de,hochheimer-zeitung.de,hofheimer-zeitung.de,kreis-anzeiger.de,lauterbacher-anzeiger.de,main-spitze.de,oberhessische-zeitung.de,rhein-main-presse.de,usinger-anzeiger.de,wormser-zeitung.de###rightbar > [-abp-properties='cursor: pointer']
-allgemeine-zeitung.de,buerstaedter-zeitung.de,lampertheimer-zeitung.de,wiesbadener-kurier.de,wiesbadener-tagblatt.de###rightbar > [-abp-properties='cursor: pointer;']
 echo-online.de###rightbar > [-abp-properties='margin-bottom: 28px;']
 echo-online.de###rightbar > [-abp-properties='margin-bottom: 3*px; padding*: 1*px;']
 echo-online.de###rightbar > [-abp-properties='margin-bottom: 30px;']
