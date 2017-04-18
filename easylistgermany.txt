@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704181659
+! Version: 201704182021
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 Apr 2017 16:59 UTC
+! Last modified: 18 Apr 2017 20:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3945,7 +3945,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||criteo.com^$domain=tellows.de
 ||emsmobile.de^$domain=stern.de
 ||emsservice.de^$domain=stern.de
-||flashtalking.com^$domain=g.doubleclick.net|gala.de|stern.de
+||flashtalking.com^$domain=g.doubleclick.net|gala.de|ran.de|stern.de
 ||g.doubleclick.net^$domain=focus.de|gala.de|imasdk.googleapis.com|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|tellows.de|transfermarkt.de
 ||gala.de/googleads/$domain=gala.de
 ||gala.de/gujAd/$domain=gala.de
@@ -11357,4 +11357,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: tXuOT4CMLvjtuVECoHX/ug
+! Checksum: MzDCpETcM0LAnoScKuR4Ow
