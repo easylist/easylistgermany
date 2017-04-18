@@ -2969,7 +2969,7 @@ np-coburg.de##div[id^="adition_"]
 morgenpost.de##div[id^="advertisementRightcolumn_"]
 winfuture.de##div[id^="amazon_box_iframe_"]
 netdoktor.de##div[id^="banner"]
-spielen.de##div[id^="banner_"]
+finanzen100.de,spielen.de##div[id^="banner_"]
 gamers.de##div[id^="click"]
 insidegames.ch##div[id^="click"][onclick^="_gaq.push(['_trackEvent',"]
 gamers.at##div[id^="clickTagDIVElement_"] > a
