@@ -2180,6 +2180,7 @@
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
 @@||ad.71i.de/global_js/globalV6.js$domain=prosiebenmaxx.de|ran.de
 @@||ad.71i.de/global_js/Sites/$script,domain=prosiebenmaxx.de|ran.de
+@@||adserver.71i.de/cgi-bin/functions/rogator-kkl2ads.pl?$domain=kabeleins.de
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de|stern.de
 @@||autobild.de^$genericblock,generichide
 @@||bf-ad.net/makabo/js_ng/adplayer/js/adplayer.min.js$domain=focus.de
@@ -2267,7 +2268,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||criteo.com^$domain=tellows.de
 ||emsmobile.de^$domain=stern.de
 ||emsservice.de^$domain=stern.de
-||flashtalking.com^$domain=g.doubleclick.net|gala.de|ran.de|stern.de
+||flashtalking.com^$domain=g.doubleclick.net|gala.de|kabeleins.de|ran.de|stern.de
 ||g.doubleclick.net^$domain=focus.de|gala.de|imasdk.googleapis.com|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|tellows.de|transfermarkt.de
 ||gala.de/googleads/$domain=gala.de
 ||gala.de/gujAd/$domain=gala.de
@@ -2310,7 +2311,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||spotxchange.com^$domain=imasdk.googleapis.com
 ||stern.de/gujadstatic/stern/gujAd.$domain=stern.de
 ||stickyadstv.com^$domain=stern.de
-||teads.tv^$domain=autobild.de|transfermarkt.de
+||teads.tv^$domain=autobild.de|kabeleins.de|transfermarkt.de
 ||theadex.com^$domain=stern.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
 ||unrulymedia.com^$domain=focus.de
