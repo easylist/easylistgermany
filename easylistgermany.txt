@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704172145
+! Version: 201704180626
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 Apr 2017 21:45 UTC
+! Last modified: 18 Apr 2017 06:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4015,7 +4015,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 9c97a0657$image,domain=psychic.de
 9e7adbf68$image,domain=brieffreunde.de
 @@/ad-lil$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gesundheit.de|gevestor.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
-@@/script-1491397318.js|$domain=haz.de|ln-online.de|lvz.de|maz-online.de|ostsee-zeitung.de
+@@/script-1491397318.js|$domain=goettinger-tageblatt.de|haz.de|kn-online.de|ln-online.de|lvz.de|maz-online.de|ostsee-zeitung.de|sn-online.de|waz-online.de
 @@ad-bottom$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gesundheit.de|gevestor.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 @@ad-bucket$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gesundheit.de|gevestor.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 @@ad-builder$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gesundheit.de|gevestor.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
@@ -4060,6 +4060,7 @@ c313f9fff$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|
 d9e6163c$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gesundheit.de|gevestor.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 f5adb94$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gesundheit.de|gevestor.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 fa1fed39d$image,domain=digitalfernsehen.de
+fb79f8dd403f00$image
 fremdwort.de###iojrennab
 fremdwort.de##.col-sm-3
 frustfrei-lernen.de##div[style="height: 310px"]
@@ -4105,11 +4106,13 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 ||formel1.de/public/news/5034caff0db726/$image
 ||gevestor.de/images/publiczs/$image
 ||gevestor.de/images/publiczs​/​$image
+||goettinger-tageblatt.de/js/gtet/$script
 ||haz.de/js/haz^$script
 ||iban-rechner.de^$image,~third-party,domain=iban-rechner.de
 ||iban.de/img/1/btop2.gif
 ||juraforum.de/bilder/statisch/$image
 ||juraforum.de/tsmi.php$script
+||kn-online.de/js/kn/$script
 ||liga3-online.de/Bilder/Sportwetten24Banner.gif
 ||ln-online.de/js/ln^$script
 ||lvz.de/js/lvz^$script
@@ -4133,6 +4136,8 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 ||pixelio.de/imgs/publiic./$image
 ||psychic.de/images/D/$image
 ||psychic.de/images/D​/​$image
+||sn-online.de/js/sn/$script
+||waz-online.de/js/wazaz/$script
 ||wize.life/*/342d5b8/$image
 ||wize.life/*/ac8a011/$image
 ||wize.life/*/cc26a9f/$image
@@ -11417,4 +11422,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: e+YoVMrwAdw2rlv04Bh1yg
+! Checksum: cMQwb5VivhPH2o0qNn2tww
