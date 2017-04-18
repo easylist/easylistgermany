@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704180626
+! Version: 201704181643
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 Apr 2017 06:26 UTC
+! Last modified: 18 Apr 2017 16:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1986,6 +1986,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||cnetde.edgesuite.net/cnetde/ads/$domain=cnet.de
 ||cnetde.edgesuite.net/zdnetde/ads/$domain=zdnet.de
 ||cobuich.de/avislogo.jpg
+||computer-bild.de/imgs/*/thermomix_bb_$image,domain=computerbild.de
 ||computerbase.de/js/jwplayer/ova-$object-subrequest
 ||computerbetrug.de/uploads/pics/a2.jpg
 ||computerhilfen.de^*/gt-banner-
@@ -4557,6 +4558,7 @@ modhoster.de###bigsize_inner
 pcpraxis.de,rund-magazin.de###bigsizebanner
 autozeitung.de,computerbild.de,prad.de,volksfreund.de###billboard
 autozeitung.de###billboard + div
+computerbild.de###billboard + div a > img[width="1000"][height="250"]
 computerbild.de###billboard + div[style="margin-bottom: 20px;"]
 prad.de###billboardbig
 4players.de###billiger-charts
@@ -11422,4 +11424,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: cMQwb5VivhPH2o0qNn2tww
+! Checksum: vlOheujYO/yfdMO4GLCQQg
