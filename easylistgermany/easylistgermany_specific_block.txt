@@ -2246,7 +2246,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||ad-srv.net^$domain=tellows.de
 ||ad.71i.de^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||ad4mat.de^$domain=googlesyndication.com
-||adform.net^$domain=autobild.de|googlesyndication.com|stern.de
+||adform.net^$domain=autobild.de|googlesyndication.com|ran.de|stern.de
 ||adition.com^$domain=g.doubleclick.net|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|transfermarkt.de
 ||adnet.de^$domain=tellows.de
 ||adnxs.com^$domain=autobild.de|focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
@@ -2311,7 +2311,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||spotxchange.com^$domain=imasdk.googleapis.com
 ||stern.de/gujadstatic/stern/gujAd.$domain=stern.de
 ||stickyadstv.com^$domain=stern.de
-||teads.tv^$domain=autobild.de|kabeleins.de|transfermarkt.de
+||teads.tv^$domain=autobild.de|kabeleins.de|ran.de|transfermarkt.de
 ||theadex.com^$domain=stern.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
 ||unrulymedia.com^$domain=focus.de
