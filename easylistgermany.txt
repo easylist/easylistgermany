@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704201858
+! Version: 201704210641
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 20 Apr 2017 18:58 UTC
+! Last modified: 21 Apr 2017 06:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3826,6 +3826,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 /newsId=([0-9]+[&]+[a-zA-Z]+[=]+[0-9]+[a-zA-Z]+)+/$image,domain=onvista.de
 /newsId=([0-9]+[&]+[a-zA-Z]+[=]+[a-zA-Z]+)+/$image,domain=onvista.de
 @@||onvista.de/onvista/smartAd?version=$subdocument,domain=onvista.de
+||onvista.de/news/boxes/news-g$image,domain=onvista.de
 ||onvista.de/news/boxes/news-il$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?*=*&newsId=*&width=*&height=$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?i$image,domain=onvista.de
@@ -4119,11 +4120,13 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||4players.de/screenshoorts/$image,domain=4players.de
 ||4players.de/screenshoots/$image,domain=4players.de
 ||4players.de/screenshorts/$image,domain=4players.de
+||4players.de/screnhots/$image,domain=4players.de
 ||abendzeitung-muenchen.de/media.media*normalized$image,domain=abendzeitung-muenchen.de
 ||abendzeitung-muenchen.de/media.media*norrnalized$image,domain=abendzeitung-muenchen.de
 ||abendzeitung-muenchen.de/media.media.*-*-*-*-*-*.original
 ||abendzeitung-muenchen.de/media.media.*origina1$image,domain=abendzeitung-muenchen.de
 ||abendzeitung-muenchen.de/media.media.*originel1$image,domain=abendzeitung-muenchen.de
+||abendzeitung-muenchen.de/media.media.*originil1$image,domain=abendzeitung-muenchen.de
 ||arcor.de/img/$image,domain=arcor.de
 ||arcor.de/img1/$image,domain=arcor.de
 ||arcor.de/img2/$image,domain=arcor.de
@@ -4131,6 +4134,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||arcor.de/img4/$image,domain=arcor.de
 ||arcor.de/img5/$image,domain=arcor.de
 ||arcor.de/img6/$image,domain=arcor.de
+||arcor.de/img7/$image,domain=arcor.de
 ||ariva.de/chart/img/*_char*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*_chart.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*cha*.jpg$image,domain=ariva.de
@@ -4138,24 +4142,30 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||ariva.de/chart/img/*chi*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*chv*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*ctr*.jpg$image,domain=ariva.de
+||ariva.de/chart/img/*ctt*.jpg$image,domain=ariva.de
 ||auto-service.de/*f*=teaser/$image,domain=auto-service.de
 ||auto-service.de/*f=hero-$image,domain=auto-service.de
 ||auto-service.de/*f=teaser/$image,domain=auto-service.de
 ||buffed.de/screenshots/*/*/*/*/*-$image,domain=buffed.de
+||buffed.de/screenshots/226$image,domain=buffed.de
+||buffed.de/screenshots/228$image,domain=buffed.de
 ||buffed.de/screenshots/teaserw$image,domain=buffed.de
 ||cdn.heftig.co/wp-content/upload/$image,domain=genialetricks.de|heftig.de
 ||cdn.heftig.co/wp-content/uploads/$image,domain=genialetricks.de|heftig.de
 ||chefkoch.de/ck.de/cms-uploads/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uploards/$image,domain=chefkoch.de
+||chefkoch.de/ck.de/cms-upnutadl/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-upnutads/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uproads/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uptoads/$image,domain=chefkoch.de
+||classic.comunio.de/i/2/screenshots/bundeliga/*/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bunderliga/*/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bundesliga/*/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bundesliga/de/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bundestliga/*/screenshot_$image,domain=classic.comunio.de
 ||gamesaktuell.de/screenshots/*/*/*/*/*-*.$image,domain=gamesaktuell.de
 ||gamesaktuell.de/screenshots/*/*/*/*/*_*.$image,domain=gamesaktuell.de
+||gamesaktuell.de/screenshots/286$image,domain=gamesaktuell.de
 ||gamezone.de/screenshots/teaserw$image,domain=gamezone.de
 ||i0.auto-service.de/*/*,pd=0$image,domain=auto-service.de
 ||images.cgames.de/imager/*_*.jpg$image,domain=gamestar.de
@@ -4167,7 +4177,10 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||images.cgames.de/imagest/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/imagevest/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/imagvest/*_*.jpg$image,domain=gamestar.de
+||images.cgames.de/imagvst/*_*.jpg$image,domain=gamestar.de
+||img1.caravaning.de/img*/$image,domain=caravaning.de
 ||img1.caravaning.de/img/$image,domain=caravaning.de
+||img1.promobil.de/imag$image,domain=promobil.de
 ||img1.promobil.de/img$image,domain=promobil.de
 ||kamelle.de/incoming/$image,domain=kamelle.de
 ||la20.de/$image,domain=lablue.de
@@ -4177,9 +4190,11 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||noz.de/media/$image,domain=noz.de
 ||pcgames.de/screenshots/teaserw$image,domain=pcgames.de
 ||pcgameshardware.de/screenshots/*/*/*/*/*-*.$image,domain=pcgameshardware.de
+||pcgameshardware.de/screenshots/237$image,domain=pcgameshardware.de
 ||pcgameshardware.de/screenshots/teaserw$image,domain=pcgameshardware.de
 ||ran.de/static/$image,domain=ran.de
 ||sportal.de/photos/17/04/resize/*x*_$image,domain=sportal.de
+||spox.com/iig/$image,domain=spox.com
 ||spox.com/ilg/$image,domain=spox.com
 ||spox.com/img/$image,domain=spox.com
 ||spox.com/inng/$image,domain=spox.com
@@ -4190,11 +4205,13 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||testedich.de/quiz*/picture/pic_$image,domain=testedich.de
 ||tvdigitalepg.images.dvbdata.com/$image,domain=tvdigital.de
 ||videogameszone.de/screenshots/*/*/*/*/*-*.$image,domain=videogameszone.de
+||videogameszone.de/screenshots/286$image,domain=videogameszone.de
 ||videogameszone.de/screenshots/teaserw$image,domain=videogameszone.de
 ||woxikon.de/img/$image,domain=woxikon.de
 ||www.9monate.de/img/$image,domain=9monate.de
 ||www.nnn.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=nnn.de
 ||www.prignitzer.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=prignitzer.de
+||www.readmore.de/gallerry/$image,domain=readmore.de
 ||www.readmore.de/gallery/$image,domain=readmore.de
 ||www.serienjunkies.de/img/$image,domain=serienjunkies.de
 ||www.svz.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=svz.de
@@ -11308,4 +11325,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: LVAKJyttuk/JSh52ALtVMQ
+! Checksum: Y3xx82+DWPOcOEnIJ8CJQQ
