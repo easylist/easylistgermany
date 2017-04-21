@@ -305,7 +305,6 @@ fernsehkritik.tv###content > #rclm[style="width:224px;"]:last-child
 wgvdl.com###content > #seitenblock > #seitenblockinhalt > #seitenblockzeilen
 oxygen-scene.com###content > .board_message
 hoerbuch.us###content > .entry-content:first-child
-movie-blog.org###content > div[class] > div[class] > div > div > a[href^="http://movie-blog.org/"]
 hoerbuch.us,lesen.to###content > font[color="red"] > h2
 onlinereports.ch###content-banner1
 onlinereports.ch###content-banner3
@@ -351,7 +350,7 @@ schelian.de###dnn_dnnBANNER_lstBanners
 seamonkey.at###donor
 ddl-warez.to###download > div:first-child + br + a
 winload.de###downloading > #websearch[style="margin-top: 8px; background-color: white;"]
-dug-portal.com###dp_layer
+dug-portal.com,movie-blog.org###dp_layer
 golyr.de###drk
 112-magazin.de,forendienst.de,navi-forum.net,wohnmobilforum.de###dropin
 abnehmen-forum.com###dropinboxv2cover
@@ -1355,7 +1354,6 @@ pcgameshardware.de##.bargainLp
 heise.de##.bcadv
 bildderfrau.de##.bdf_megabannerBack
 saarbruecker-zeitung.de##.beilagen
-movie-blog.org##.beitrag > div > div > a[href^="http://movie-blog.org/"]
 auto-motor-und-sport.de##.beitragsrechner_sideteaser2
 ebay.de##.beta-placement
 oilimperium.de##.bg_img
@@ -1537,8 +1535,6 @@ abnehmen.com,amerika-forum.de,aquariumforum.de,pferd.de,rechnungswesenforum.de##
 sinn-frei.com##.ebp
 abacho.de##.econa_editorial_tips
 abacho.de##.econa_editorial_tips_header
-movie-blog.org##.eintrag2 a[target="_blank"] > b
-movie-blog.org##.eintrag2 b > a[target="_blank"]
 hoerbuch.us,lesen.to##.eintrag_dowload0_link
 lesen.to##.eintrag_download0
 hildesheimer-allgemeine.de##.einzelbanner
@@ -1547,24 +1543,8 @@ pnp.de##.em_cnt_ad_hinweis + div
 report-k.de##.empfanzeige
 xdate.ch##.empfehlung
 branchen-info.net##.empfehlungen
-movie-blog.org##.entry + a
-movie-blog.org##.entry + center > a
-movie-blog.org##.entry + div > a > b
-movie-blog.org##.entry > a[target="_blank"]
-movie-blog.org##.entry > a[target="blank"]
-movie-blog.org##.entry > center > a
-movie-blog.org##.entry > div > a
-movie-blog.org##.entry > div > div > a
-movie-blog.org##.entry > div[style*="color:"]
 ecommerce-vision.de##.entry > div[style="float: right; padding: 0 0 10px 10px;"]
-movie-blog.org##.entry > div[style^="border-style:"]
-movie-blog.org##.entry > iframe + * + a
-movie-blog.org##.entry > p > a[target="_blank"][href*=".hd-world.org"]
-movie-blog.org##.entry > p[style*="color:"]
 hd-world.org##.entry > p[style]
-movie-blog.org##.entry a[href^="http://www.movie-blog.org/"]
-movie-blog.org##.entry a[target="_blank"][href^="http://movie-blog.org/"]
-movie-blog.org##.entry center > a[target="_blank"][href*=".movie-blog.org/"]
 sueddeutsche.de##.entry-content > .overlay
 etcg.de##.eral_wrapper
 picdumps.com##.evil_1
@@ -1669,8 +1649,6 @@ gamestar.de##.homeContReg > .homeContRegCol1 > div[style] > a > img
 gamestar.de##.homeContRegCol3 > .elemCont + .elemCont + .elemCont + .elemCont[style="position:relative;"] + .elemCont + .elemCont > .titleHead + .article
 gamestar.de##.homeContRegCol3 > .elemCont + .elemCont + .elemCont + .elemCont[style="position:relative;"] + .elemCont[style="position: relative;"] > .titleHead + .article
 netzkino.de##.horizontalBanner
-movie-blog.org##.hreview-aggregate > a[target="blank"]
-movie-blog.org##.hreview-aggregate > div[class] > div > a[href^="http://movie-blog.org/"]
 heinertown.de##.htown_anzeige
 news.de##.ialayer-container
 news.de##.ialayerContainer
@@ -1891,18 +1869,10 @@ grosseleute.de##.portalColumnInner > :nth-child(n) div:first-child:last-child > 
 archiv.raid-rush.ws##.post + #g
 raid-rush.ws##.post + #gg
 ultras.ws##.post + .divider + .post.bg3
-movie-blog.org##.post + a
-movie-blog.org##.post + center:last-child > a[target="_blank"]
 moviebox.to##.post > .cover > center > a[target="_blank"]
 serienjunkies.org##.post > .post-title + #outer
-movie-blog.org##.post > center > a[target="_blank"][href*=".hd-world.org"]
-movie-blog.org##.post > center > a[target="_blank"][href*=".movie-blog.org"]
-movie-blog.org##.post > center:last-child > a[target="_blank"]
 blogprojekt.de##.post > div[style="margin-left: 10px;"] > div[style="clear:both; font-size:8pt; text-align:right; width: 468px;"]
-movie-blog.org##.post a[href^="http://movie-blog.org/"]
-movie-blog.org##.post a[target="_blank"][href$=".movie-blog.org"]
 iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:center;"]
-movie-blog.org##.post p > a[target="_blank"][href*=".movie-blog.org/"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##.post td[valign="top"] > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > td > a[target="_blank"] > img
 radio1.ch##.post-box-middle-anzeige
 wallstreet-online.de##.posting + div[style="width:860px;"]
@@ -2163,7 +2133,6 @@ china.ahk.de##.tx-bannermanagement-pi1
 bild.de##.txe
 excitingcommerce.de##.typelist-note > a > img[style="margin: 5px 5px 5px 0px; border-width: 0px;"]
 excitingcommerce.de##.typelist-note > a > img[style="margin: 5px 5px 5px 0px; border-width:0px;"]
-movie-blog.org##.ulnet
 heise.de##.us_ad
 tagblatt.ch##.vermarktungsflaeche
 schuelerzeitung-tbb.de##.vertical
@@ -2307,7 +2276,6 @@ auswandererforum.de##a[href*="affiliate.php?"]
 xp-antispy.org##a[href*="com_partner&link="]
 3dl.tv##a[href*="downloadboutique.com"]
 hd-vidz.net##a[href*="filesonthe.net"]
-movie-blog.org##a[href*="http://ul.to/ref/"]
 filecrypt.cc##a[href="#"] > img[src^="http://filecrypt.cc/images/"]
 filecrypt.cc##a[href="#"] img[src^="http://filecrypt.cc/images/"]
 arcor.de##a[href="/content/unterhaltung/lotto/"]
@@ -2343,7 +2311,6 @@ bild.de##a[href="http://gutscheine.bild.de"]
 prad.de##a[href="http://links.prad.de/lgcurved"]
 livestreamfussball.org##a[href="http://livetv.ru/de/allupcomingsports/1/"]
 bild.de##a[href="http://magine.bild.de"]
-movie-blog.org##a[href="http://movie-blog.org/2007"]
 moviebox.to##a[href="http://moviebox.to/download/?"]
 rs-load.blogspot.com##a[href="http://multimedia-load.com"]
 bild.de##a[href="http://neuwagen.bild.de/"]
@@ -2374,8 +2341,6 @@ gulli.com##a[href="http://www.gulli.com/internet/chrome"] + p
 immonet.de##a[href="http://www.immonet.de/service/toom-baumarkt.html"]:first-child
 querverweis.net##a[href="http://www.intimvideos.com"]
 5-jahres-wertung.de##a[href="http://www.kostenloses-konto24.de/girokonto-vergleich.html"]
-movie-blog.org##a[href="http://www.movie-blog.org/2007/FD"]
-movie-blog.org##a[href="http://www.movie-blog.org/2011/FD"]
 n-tv.de##a[href="http://www.n-tv.de/marktplatz/lotto/"]
 mysummit.wordpress.com##a[href="http://www.prontocafe.eu/de/"] > img
 soft-ware.net##a[href="http://www.soft-ware.net/pics/gewinnspiel.jpg"]
@@ -2422,8 +2387,6 @@ gamehammer.de##a[href^="banner_click.php?advert_id="]
 bastel-elfe.de##a[href^="banners.php?"]
 tobitech.de##a[href^="banners.php?op="]
 elitesearch.at##a[href^="highspeed-download/"]
-movie-blog.org##a[href^="http://0l3.de/"]
-movie-blog.org##a[href^="http://4short.de/"]
 cinema.de##a[href^="http://a3.superwin.de/click."]
 deluxetools.net##a[href^="http://access.im/"]
 urlauburlaub.at##a[href^="http://ad.adworx.at/"]
@@ -2459,30 +2422,21 @@ yourporn.ws##a[href^="http://adultfriendfinder.com/search/"]
 chip.de,~deals.chip.de##a[href^="http://adx.chip.de/www/delivery/ck.php?"]
 serienjunkies.org##a[href^="http://alternads.info/"]
 arcor.de,welt.de,weltwoche.ch##a[href^="http://altfarm.mediaplex.com/ad/ck/"]
-movie-blog.org##a[href^="http://alturl.com/"]
 derlacher.de,sinn-frei.com,trendhure.com##a[href^="http://amzn.to/"]
 beichthaus.com,gamefront.de##a[href^="http://amzn.to/"] > img
 hornoxe.com##a[href^="http://amzn.to/"] > img[width="480"][height="400"]
 trendhure.com##a[href^="http://amzn.trendhure.com"]
 pdfs.us##a[href^="http://anonym.to/?http://ul.to/ref/"]
 smsform.de##a[href^="http://api.tapstream.com/lovoo/"]
-movie-blog.org##a[href^="http://b23.ru/"]
-movie-blog.org##a[href^="http://bi.ai/"]
 linkfarm.in,underground-links.org##a[href^="http://billing.purevpn.com/aff.php"]
 deluxetools.net##a[href^="http://billing.purevpn.com/aff.php?"]
-movie-blog.org##a[href^="http://bim.im/"]
 byte.to##a[href^="http://bit.do/"]
 drop-games.org##a[href^="http://bit.ly"]
-4fuckr.com,derlacher.de,gamepro.de,goldesel.to,housebeats.cc,livestreamfussball.org,movie-blog.org,moviekk.net,musicstream.cc,xxx-blog.to##a[href^="http://bit.ly/"]
+4fuckr.com,derlacher.de,gamepro.de,goldesel.to,housebeats.cc,livestreamfussball.org,moviekk.net,musicstream.cc,xxx-blog.to##a[href^="http://bit.ly/"]
 feiertage.net##a[href^="http://bit.ly/"] > img
 magazin-ddl.info,sceneload.to,warez-load.com##a[href^="http://bitshare.com/?referral="]
-movie-blog.org##a[href^="http://blue.gg/"]
-movie-blog.org##a[href^="http://brk.to/"]
 zensiert.to##a[href^="http://caracum.net?ref="]
 xxx-blog.to##a[href^="http://cctv.ws/"]
-movie-blog.org##a[href^="http://chilp.it/"]
-movie-blog.org##a[href^="http://chrst.ph/"]
-movie-blog.org##a[href^="http://cl.lk/"]
 serienoldies.de##a[href^="http://click.jamba.de/click.asp?"]
 darktown.biz##a[href^="http://clix.superclix.de/"]
 mytube-one.de##a[href^="http://clix.superclix.de/cgi-bin/clix.cgi?"]
@@ -2495,34 +2449,26 @@ dbase.ws,dokujunkies.org##a[href^="http://cloudzer.net/ref/"]
 t-online.de,trax.de##a[href^="http://count.shopping.t-online.de/RE?ID="]
 xxx-blog.to##a[href^="http://cpm.amateurcommunity."]
 xxx-art.biz##a[href^="http://cpm.amateurcommunity.de/"]
-hd-world.org,movie-blog.org##a[href^="http://cutt.us/"]
+hd-world.org##a[href^="http://cutt.us/"]
 deluxetools.net,xxx-blog.to##a[href^="http://de.generic4all.com/"]
 hoerbuch.us##a[href^="http://dealdog.net/"]
-movie-blog.org##a[href^="http://dft.ba/"]
 mygully.com##a[href^="http://dl1.mygully.com"]
 duckcrypt.info##a[href^="http://download.duckcrypt.info"]
 movie-stream.to##a[href^="http://download.movie-stream.to"]
 serienjunkies.org##a[href^="http://download.serienjunkies.org/md-"]
 sdx.cc##a[href^="http://eads.to"]
-movie-blog.org##a[href^="http://ebrix.me/"]
 trendhure.com##a[href^="http://ext.trendhure.com/"]
 trendhure.com##a[href^="http://extern.trendhure.com/"]
-movie-blog.org##a[href^="http://f.nu/"]
 duckcrypt.info##a[href^="http://fast.duckcrypt.info"]
 mega-stream.to##a[href^="http://fastmirror.mega-stream.to"]
-movie-blog.org##a[href^="http://fave.co/"]
 fettrap.com##a[href^="http://fettrap.com/highspeed/"]
 linkvz.net##a[href^="http://filedroid.net"]
-movie-blog.org##a[href^="http://flaturl.com/"]
 game-freaks.net,magazin-ddl.info,romhood.com##a[href^="http://freakshare.com/?ref="]
 omega-music.com##a[href^="http://freakshare.net/?ref="]
-movie-blog.org##a[href^="http://fur.ly/"]
-movie-blog.org##a[href^="http://gg.gg/"]
 gload.cc##a[href^="http://gload.cc/images/freeuser"]
 gload.cc##a[href^="http://gload.cc/un/dl."]
-movie-blog.org##a[href^="http://goo.by/"]
 drop-games.org##a[href^="http://goo.gl"]
-goldesel.to,hornoxe.com,leave.to,movie-blog.org,porn2you.org,prad.de,trendhure.com,warezking.in,zensiert.to##a[href^="http://goo.gl/"]
+goldesel.to,hornoxe.com,leave.to,porn2you.org,prad.de,trendhure.com,warezking.in,zensiert.to##a[href^="http://goo.gl/"]
 ingame.de##a[href^="http://green.ingame.de/www/delivery/inck.php?"]
 duckcrypt.info##a[href^="http://highspeed.duckcrypt.info"]
 moviebox.to##a[href^="http://highspeed.moviebox.to"]
@@ -2530,20 +2476,13 @@ hoerbuch.us##a[href^="http://hoerbuch.us/dddl"]
 hoerbuch.us##a[href^="http://hoerbuch.us/ddl/?f="]
 hoerbuch.us##a[href^="http://hoerbuch.us/load/?f="]
 hoerbuch.us##a[href^="http://hoerbuch.us/wp/goto/Download_Unser_Tipp_"]
-hd-world.org,movie-blog.org##a[href^="http://href.hu/"]
-movie-blog.org##a[href^="http://ilnk.me/"]
 fussball.de,knuddels.de,t-online.de,trax.de##a[href^="http://im.banner.t-online.de/?adlink|"]
 sexuria.com##a[href^="http://in.mydirtyhobby.com/"]
-dokujunkies.org,movie-blog.org,serienjunkies.org##a[href^="http://is.gd/"]
-4fuckr.com,movie-blog.org##a[href^="http://j.mp/"]
-movie-blog.org##a[href^="http://jmb.tw/"]
-movie-blog.org##a[href^="http://k-urz.de/"]
-movie-blog.org##a[href^="http://kuerzer.org/"]
+dokujunkies.org,serienjunkies.org##a[href^="http://is.gd/"]
+4fuckr.com##a[href^="http://j.mp/"]
 linkfarm.in##a[href^="http://landing.amateurseite.com/"]
-movie-blog.org##a[href^="http://lil.io/"]
 linuxundich.de##a[href^="http://linuxundich.de/wp-content/plugins/adrotate/"]
 lix.in##a[href^="http://lix.in/ad.php?"]
-movie-blog.org##a[href^="http://lnk.co/"]
 xxx-blog.to##a[href^="http://lp.amateurcommunity.com/"]
 pornkino.to##a[href^="http://lp.amateurcommunity.de/"]
 mafia-linkz.to##a[href^="http://mafia-linkz.to/dirty/"]
@@ -2557,16 +2496,12 @@ dokujunkies.org##a[href^="http://mirror."]
 moviebox.to##a[href^="http://mirror.moviebox.to"]
 sdx.cc##a[href^="http://mirror.sdx.cc/"]
 pure-anime.biz##a[href^="http://mmotraffic.com/"]
-movie-blog.org##a[href^="http://movie-blog.org/tarif"]
-movie-blog.org##a[href^="http://mrte.ch/"]
 musicelster.net##a[href^="http://musicelster.net/premium"]
-movie-blog.org##a[href^="http://myln.de/"]
 gamingxp.com##a[href^="http://nemexia.de/?"]
 hd-world.org##a[href^="http://netload.in/"][href*="&refer_id="]
 paradise-load.us,sdx.cc##a[href^="http://netload.in/index.php?refer_id="]
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 mov-world.net##a[href^="http://nvpn.net/"]
-movie-blog.org##a[href^="http://ow.ly/"]
 darktown.biz##a[href^="http://partner.rebuy.de"]
 schambereich.net##a[href^="http://partners.adklick.de/"]
 anonym.to##a[href^="http://partners.affiliace.com/"]
@@ -2576,8 +2511,6 @@ alle-autos-in.de,appcatalog.de##a[href^="http://partners.webmasterplan.com/click
 pcwelt.de##a[href^="http://partners.webmasterplan.com/click.asp?ref="]
 metacrawler.de##a[href^="http://performance-netzwerk.de"]
 mobilfunk-talk.de,usp-forum.de##a[href^="http://performance-netzwerk.de/"]
-movie-blog.org##a[href^="http://ph.ly/"]
-movie-blog.org##a[href^="http://pir.at/"]
 funcloud.com##a[href^="http://pn.innogames.com/go.cgi?pid="] > img
 pornkino.to##a[href^="http://pornkino.to/milfs/"]
 pornkino.to##a[href^="http://pornkino.to/poppen/popUp/"]
@@ -2585,39 +2518,22 @@ pornkino.to##a[href^="http://pornkino.to/usenet."]
 putenbrust.net##a[href^="http://putenbrust.99k.org"]
 spieletipps.de##a[href^="http://rc23.overture.com"]
 gulli.com##a[href^="http://rc23.overture.com/"]
-movie-blog.org##a[href^="http://redir.ec/"]
 gulli.com,hubbahotel.cc##a[href^="http://rover.ebay.com/rover/"]
 gesichtskirmes.net##a[href^="http://sau-billig.net/"]
 myvideo.de##a[href^="http://server.nitrado.net/deu/gameserver-mieten?"]
 blasemaul.com,gratiswix.com,klubsex.com,morgensex.com,pornoflitsche.com##a[href^="http://sexplicy.net/anmelden/"]
 drop-games.org,moviez.to##a[href^="http://share.cx/partner"]
 t-online.de##a[href^="http://shop.fussball.de/?ref="]
-movie-blog.org##a[href^="http://sn.im/"]
-movie-blog.org##a[href^="http://snipr.com/"]
-movie-blog.org##a[href^="http://snipurl.com/"]
-movie-blog.org##a[href^="http://step.to/"]
 stylebook.de##a[href^="http://style.glossybox.de/?zanpid="]
 4fuckr.com##a[href^="http://sweetmichelle.net?ref="]
 spielesnacks.de##a[href^="http://t.ad2games.com/"]
-movie-blog.org##a[href^="http://tini.cc/"]
-movie-blog.org##a[href^="http://tiny.cc/"]
-movie-blog.org##a[href^="http://tiny.tw/"]
 dokujunkies.org,drop-games.org,flp.to,istream.ws,oxygen-scene.com##a[href^="http://tinyurl.com"]
-dbase.ws,fakedaten.tk,fantasiedaten.1x.biz,flower-blog.org,hd-world.org,hopto.org,livestreamfussball.org,movie-blog.org,moviekk.net,querverweis.net,trendhure.com,xvidload.com,xxx-dream.com##a[href^="http://tinyurl.com/"]
-movie-blog.org##a[href^="http://to.ly/"]
+dbase.ws,fakedaten.tk,fantasiedaten.1x.biz,flower-blog.org,hd-world.org,hopto.org,livestreamfussball.org,moviekk.net,querverweis.net,trendhure.com,xvidload.com,xxx-dream.com##a[href^="http://tinyurl.com/"]
 playboy.de##a[href^="http://track.adform.net/"]
 linkfarm.in,pornkino.to,private-blog.org,xxx-blog.to##a[href^="http://tracking.to/"]
 brigitte.de##a[href^="http://trf.greatviews.de/"]
 news.at##a[href^="http://trf.greatviews.de/cl?"]
-movie-blog.org##a[href^="http://trick.ly/"]
-movie-blog.org##a[href^="http://ttb.li/"]
-movie-blog.org##a[href^="http://u.to/"]
-movie-blog.org##a[href^="http://ur1.ca/"]
-movie-blog.org##a[href^="http://url9.de/"]
-movie-blog.org##a[href^="http://urlizr.de/"]
-movie-blog.org##a[href^="http://vyu.me/"]
 fakedaten.tk##a[href^="http://wasistdasusenet.com/"]
-movie-blog.org##a[href^="http://wck.me/"]
 winfuture.de##a[href^="http://winfuture.de/redirect.php?"][href*="_nab&"]
 winfuture.de##a[href^="http://winfuture.de/redirect.php?c=instf_"]
 winfuture.de##a[href^="http://winfuture.de/redirect.php?c=sb_hockey_"]
@@ -2666,7 +2582,6 @@ maerkischeallgemeine.de##a[href^="http://www.etracker.de/lnkcnt.php?"]
 maclife.de##a[href^="http://www.falkemedia-shop.de/"][target="_blank"] > img
 finanztreff.de,manager-magazin.de##a[href^="http://www.finanztreff.de/adclick.htn?b="]
 lesen.to##a[href^="http://www.firstload.com/?uniq="]
-movie-blog.org##a[href^="http://www.fixurl.de/"]
 flower-blog.org##a[href^="http://www.flower-blog.org/download_usenet_"]
 freesms-senden.net##a[href^="http://www.freesms-senden.net/sms-"]
 ebook-hell.to##a[href^="http://www.friendlyduck.com/AF_"] + *
@@ -2697,7 +2612,6 @@ mmnews.de##a[href^="http://www.marketlettercorp.com/"]
 ddl-search.biz##a[href^="http://www.mister-load.com/"]
 idowa.de##a[href^="http://www.moebel-wanninger.de/"]
 erogeschichten.com##a[href^="http://www.momo-net.ch/?moid="]
-movie-blog.org##a[href^="http://www.movie-blog.org/2010/FD/"]
 yourporn.ws##a[href^="http://www.mydirtyhobby.com/?sub="]
 porn-reactor.net##a[href^="http://www.mydownloader.net/pr/"]
 12free-sms.de##a[href^="http://www.mymobileworld.de/"]
@@ -2730,8 +2644,6 @@ linkfarm.in,pornkino.to,xxx-blog.to##a[href^="http://www.stargames.com/bridge.as
 linkfarm.in,underground-links.org##a[href^="http://www.stargames.net/bridge.asp?"]
 lavendel.net##a[href^="http://www.sunday.de?utm_"]
 pornkino.to##a[href^="http://www.sunmaker.com?a_aid="]
-movie-blog.org##a[href^="http://www.surl.pf-control.de/"]
-movie-blog.org##a[href^="http://www.tarifliste.com/"]
 unixboard.de##a[href^="http://www.terrashop.de/"]
 shortnews.de##a[href^="http://www.tickntalk.com/?af="]
 trendhure.com##a[href^="http://www.trendhure.tv/"]
@@ -2746,13 +2658,9 @@ golyr.de##a[href^="http://www.zanox-affiliate.de/ppc/?"]
 goldesel.to,mega-stream.to,moviebox.to,woom.ws##a[href^="http://www2.filedroid.net/AF_"]
 readmore.de##a[href^="http://www4.smartadserver.com/"]
 chip.de##a[href^="http://x.chip.de/fs24/io/?url="]
-movie-blog.org##a[href^="http://x.co/"]
 xxx-blog.to##a[href^="http://xxx-blog.to/poppen/"]
-movie-blog.org##a[href^="http://y.ahoo.it/"]
-movie-blog.org##a[href^="http://yi.tl/"]
-hd-world.org,movie-blog.org##a[href^="http://zip5.de/"]
+hd-world.org##a[href^="http://zip5.de/"]
 livestreamfussball.org##a[href^="http://zolanis.com/landingpage"]
-movie-blog.org##a[href^="http://zzb.bz/"]
 freenet.de##a[href^="https://ad1.adfarm1.adition.com/redi?sid="]
 filecrypt.cc##a[href^="https://goo.gl/"]
 stadt-bremerhaven.de##a[href^="https://instaffo.com/?utm_source="] > img
@@ -2932,10 +2840,8 @@ technic3d.com##div[class^="ad-"]
 oxygen-scene.com##div[class^="adoxygen"]
 bild.de##div[class^="adspecial"]
 erbrecht-ratgeber.de##div[class^="b_336x280_"]
-movie-blog.org##div[class^="entry"] a[href^="http://movie-blog.org/"]
 goldesel.to##div[class^="p"][style="margin-top:20px;"] > div[class^="c"] > div[class^="d"] > div[class^="d_"]:last-child > a[href^="apps/windows/"] > img[src^="img/"]
 goldesel.to##div[class^="p"][style="margin-top:20px;"] > ul[class^="c"] > li > a[href^="apps/windows/"] > img[src^="img/"]
-movie-blog.org##div[class^="post"] a[href^="http://movie-blog.org/"]
 1fcm.de,fc-magdeburg.de##div[class^="reklame_"]
 bildderfrau.de,gofeminin.de##div[class^="sas_FormatID_"]
 car.de##div[class^="wrb-"]
@@ -3287,12 +3193,6 @@ rtl.de##form[id^="parshipform_"]
 rtl.de##form[id^="powerform_"]
 n-tv.de##form[onsubmit^="return c24_track_"]
 t-online.de##form[target="_blank"][action="http://im.banner.t-online.de/"]
-movie-blog.org##h1[id$="-637540"]
-movie-blog.org##h1[id$="-637540"] + * + *
-movie-blog.org##h1[id$="-637540"] + :nth-child(n)
-movie-blog.org##h1[id$="-637552"]
-movie-blog.org##h1[id$="-637552"] + * + *
-movie-blog.org##h1[id$="-637552"] + :nth-child(n)
 rtl.de##h2[onclick^="verivox_go_"]
 rtl.de##h2[onclick^="xdot_go_trpix(document.getElementById('parshipform_"]
 fem.com##header + div + span > a > img

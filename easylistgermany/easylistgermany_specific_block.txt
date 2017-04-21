@@ -1,5 +1,4 @@
 &campaignid=*&zoneid=$domain=technic3d.com
-/?placement=$domain=movie-blog.org
 /oase_banner.jpg$domain=mysummit.wordpress.com
 /worker.php$domain=filmpalast.to
 /www/images/*$domain=technic3d.com
@@ -838,7 +837,6 @@
 ||hcempor.de/images/content/sponsors/
 ||hd-vidz.net/layer.php
 ||hd-vidz.net/out.js
-||hd-world.org^$domain=movie-blog.org
 ||hd-world.org^$subdocument,domain=hd-world.org
 ||heddesheimblog.de^*/anzeige-
 ||heddesheimblog.de^*/bds-anzeige-
@@ -1194,18 +1192,10 @@
 ||motorsport-xl.de^*/werbung/
 ||mototreff.ch/Banner/
 ||mov-world.net^*/fidel.js
-||movie-blog.org/layer/
-||movie-blog.org/script1.js
-||movie-blog.org^$script,domain=movie-blog.org
-||movie-blog.org^$subdocument,domain=movie-blog.org|movieblog.to
-||movie-blog.org^*.php|$script
-||movie-blog.org^*/stargames.js
-||movie-blog.org^*/starlay.js
 ||movie-stream.to/do.php
 ||movie-stream.to^*/pop*.js
 ||movie-stream.to^*/system.js
 ||moviebb.to/img/banner/
-||movieblog.to^$domain=movie-blog.org
 ||moviebox.to/do.php
 ||moviebox.to^*/*pop*.js
 ||moviebox.to^*/system.js
@@ -2170,9 +2160,6 @@
 ||www.onvista.de/news/boxes/news-image/?newsId=*&width=*&height=*_$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*-*&width=*&height=$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*_*&width=*&height=$image,domain=onvista.de
-! movie-blog.org
-@@||connect.facebook.net^$script,domain=movie-blog.org
-|http:$script,third-party,domain=movie-blog.org
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
