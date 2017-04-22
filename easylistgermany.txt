@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704212029
+! Version: 201704220950
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Apr 2017 20:29 UTC
+! Last modified: 22 Apr 2017 09:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2868,6 +2868,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||motorsport-xl.de^*/werbung/
 ||mototreff.ch/Banner/
 ||mov-world.net^*/fidel.js
+||movie-blog.org^$subdocument,domain=movie-blog.org
 ||movie-stream.to/do.php
 ||movie-stream.to^*/pop*.js
 ||movie-stream.to^*/system.js
@@ -6983,6 +6984,7 @@ stadt-bremerhaven.de##a[href^="https://www.cyberport.de/?token="][target="_blank
 chip.de##a[href^="https://www.expertiger.de/partner/"]
 filecrypt.cc##a[href^="https://www.g2a.com/?reflink="]
 atomload.to##a[href^="https://www.oboom.com/ref/"]
+movie-blog.org##a[href^="https://www.smoozed.com/p/"]
 atomload.to##a[href^="https://www.smoozed.rocks/landing/"]
 ddl-warez.to,goldesel.to##a[href^="https://www.spyoff.com/"]
 arcor.de##a[href^="https://zuhauseplus.vodafone.de/"] > img
@@ -11208,4 +11210,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: O/MM+bCp61vIP9apU6o1FA
+! Checksum: 0d81zEO+DlqnRPQifhpb6A
