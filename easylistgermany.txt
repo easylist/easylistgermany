@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704231758
+! Version: 201704231800
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 23 Apr 2017 17:58 UTC
+! Last modified: 23 Apr 2017 18:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2956,6 +2956,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||nibelungenkurier.de/upload/banner/
 ||nichtlustig.de^*/adv/
 ||nichtlustig.de^*/sponsor/
+||nickles.de/js/jsV13/plugins/ads.js
 ||niederschlagsradar.de/550x150.
 ||niederschlagsradar.de/bannerdetails.aspx?
 ||nnz-online.de/_banner/
@@ -4086,7 +4087,6 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 ||motorsport-total.com/i/stat/$image
 ||motorsport-total.com/i/stats/$image
 ||mt.de/_em_daten/mt/tisoomi.js
-||nickles.de/js/nicklesjs-1-0-13-1/nickles.js
 ||nw.de/_em_daten/nw/tisoomi.js
 ||ostsee-zeitung.de/js/oz/$script
 ||paz-online.de/js/paz/$script
@@ -11207,4 +11207,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: w3uEIsY0pBRfB1dOGxJwdw
+! Checksum: Xh7GGFBJk88JFQFOX22SmA
