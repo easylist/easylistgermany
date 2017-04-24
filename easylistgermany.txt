@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704232043
+! Version: 201704240639
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 23 Apr 2017 20:43 UTC
+! Last modified: 24 Apr 2017 06:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3834,6 +3834,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||onvista.de/news/boxes/news-ir$image,domain=onvista.de
 ||onvista.de/news/boxes/news-n$image,domain=onvista.de
 ||onvista.de/news/boxes/news-p$image,domain=onvista.de
+||onvista.de/news/boxes/news-q$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*&width=*&height=*-$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*&width=*&height=*_$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*-*&width=*&height=$image,domain=onvista.de
@@ -4109,6 +4110,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||4players.de/screenshoorts/$image,domain=4players.de
 ||4players.de/screenshoots/$image,domain=4players.de
 ||4players.de/screenshorts/$image,domain=4players.de
+||4players.de/screnhoots/$image,domain=4players.de
 ||4players.de/screnhots/$image,domain=4players.de
 ||abendzeitung-muenchen.de/media.media*normalized$image,domain=abendzeitung-muenchen.de
 ||abendzeitung-muenchen.de/media.media*norrnalized$image,domain=abendzeitung-muenchen.de
@@ -4116,6 +4118,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||abendzeitung-muenchen.de/media.media.*origina1$image,domain=abendzeitung-muenchen.de
 ||abendzeitung-muenchen.de/media.media.*originel1$image,domain=abendzeitung-muenchen.de
 ||abendzeitung-muenchen.de/media.media.*originil1$image,domain=abendzeitung-muenchen.de
+||abendzeitung-muenchen.de/media.media.*oriqinal1$image,domain=abendzeitung-muenchen.de
 ||arcor.de/img/$image,domain=arcor.de
 ||arcor.de/img1/$image,domain=arcor.de
 ||arcor.de/img2/$image,domain=arcor.de
@@ -4124,8 +4127,10 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||arcor.de/img5/$image,domain=arcor.de
 ||arcor.de/img6/$image,domain=arcor.de
 ||arcor.de/img7/$image,domain=arcor.de
+||arcor.de/img8/$image,domain=arcor.de
 ||ariva.de/chart/img/*_char*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*_chart.jpg$image,domain=ariva.de
+||ariva.de/chart/img/*cft*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*cha*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*char*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*chi*.jpg$image,domain=ariva.de
@@ -4138,15 +4143,18 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||buffed.de/screenshots/*/*/*/*/*-$image,domain=buffed.de
 ||buffed.de/screenshots/226$image,domain=buffed.de
 ||buffed.de/screenshots/228$image,domain=buffed.de
+||buffed.de/screenshots/229$image,domain=buffed.de
 ||buffed.de/screenshots/teaserw$image,domain=buffed.de
 ||cdn.heftig.co/wp-content/upload/$image,domain=genialetricks.de|heftig.de
 ||cdn.heftig.co/wp-content/uploads/$image,domain=genialetricks.de|heftig.de
 ||chefkoch.de/ck.de/cms-uploads/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uploards/$image,domain=chefkoch.de
+||chefkoch.de/ck.de/cms-upnutadk/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-upnutadl/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-upnutads/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uproads/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uptoads/$image,domain=chefkoch.de
+||classic.comunio.de/i/2/screenshots/bundaliga/*/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bundeliga/*/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bunderliga/*/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bundesliga/*/screenshot_$image,domain=classic.comunio.de
@@ -4166,11 +4174,14 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||images.cgames.de/imagest/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/imagevest/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/imagvest/*_*.jpg$image,domain=gamestar.de
+||images.cgames.de/imagvsst/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/imagvst/*_*.jpg$image,domain=gamestar.de
 ||img1.caravaning.de/img*/$image,domain=caravaning.de
 ||img1.caravaning.de/img/$image,domain=caravaning.de
+||img1.caravaning.de/ing*/$image,domain=caravaning.de
 ||img1.promobil.de/imag$image,domain=promobil.de
 ||img1.promobil.de/img$image,domain=promobil.de
+||img1.promobil.de/ing$image,domain=promobil.de
 ||kamelle.de/incoming/$image,domain=kamelle.de
 ||la20.de/$image,domain=lablue.de
 ||menshealth.de/media/mh-*/*/sh-$image,domain=menshealth.de
@@ -4180,10 +4191,12 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||pcgames.de/screenshots/teaserw$image,domain=pcgames.de
 ||pcgameshardware.de/screenshots/*/*/*/*/*-*.$image,domain=pcgameshardware.de
 ||pcgameshardware.de/screenshots/237$image,domain=pcgameshardware.de
+||pcgameshardware.de/screenshots/286$image,domain=pcgameshardware.de
 ||pcgameshardware.de/screenshots/teaserw$image,domain=pcgameshardware.de
 ||ran.de/static/$image,domain=ran.de
 ||sportal.de/photos/17/04/resize/*x*_$image,domain=sportal.de
 ||spox.com/iig/$image,domain=spox.com
+||spox.com/ijg/$image,domain=spox.com
 ||spox.com/ilg/$image,domain=spox.com
 ||spox.com/img/$image,domain=spox.com
 ||spox.com/inng/$image,domain=spox.com
@@ -4200,6 +4213,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||www.9monate.de/img/$image,domain=9monate.de
 ||www.nnn.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=nnn.de
 ||www.prignitzer.de/img/zeitung-fuer-die-landeshauptstadt/$image,domain=prignitzer.de
+||www.readmore.de/galleny/$image,domain=readmore.de
 ||www.readmore.de/gallerry/$image,domain=readmore.de
 ||www.readmore.de/gallery/$image,domain=readmore.de
 ||www.serienjunkies.de/img/$image,domain=serienjunkies.de
@@ -11209,4 +11223,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 3uCCxjL7mb357Gx2KqhyzA
+! Checksum: 0/TCbcyghVG32IjwzHkIYw
