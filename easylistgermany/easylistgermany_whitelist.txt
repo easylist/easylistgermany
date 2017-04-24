@@ -374,6 +374,8 @@
 @@||smartadserver.com/diff/251/templates/passback.js$domain=welt.de
 @@||smartadserver.com/diff/js/smartadserver.js$domain=freestream.nmdn.net
 @@||smartadserver.com/wp-content/uploads/$image,domain=smartadserver.de
+@@||smartadserver.com^*^tag=sas_3648^$script,domain=welt.de
+@@||smartadserver.com^*^tag=sas_3650^$script,domain=welt.de
 @@||smartadserver.de/wp-content/uploads/$image,domain=smartadserver.de
 @@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|podcast.de|radiobob.de
 @@||smartclip.net/inpage/inpage.js
