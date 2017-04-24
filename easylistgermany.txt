@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704241745
+! Version: 201704241751
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 24 Apr 2017 17:45 UTC
+! Last modified: 24 Apr 2017 17:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3541,6 +3541,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||transfermarkt.de/bilder/inter_sport_
 ||transfermarkt.de/bilder/intersport-
 ||trapp-it-consulting.com/images/freelancer-it-
+||travelbook.de/imgs/3/4/9/8/7/1/170419_TZ_QuerteaserHome_Dresden-9fb6d957e46905cc.jpg$domain=travelbook.de
 ||travianstats.de/amenu.php
 ||travianstats.de/aoben.php
 ||travianstats.de/aunten.php
@@ -11226,4 +11227,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 8qygumA/9QQt6ZFwgDjhTw
+! Checksum: rOIfApilRRv9+USC7UYwrg
