@@ -449,6 +449,7 @@
 @@||wn.de/var/storage/images/*_300_250.$image,~third-party
 @@||wohnungsrechner.ch/Advert-$xmlhttprequest,domain=wohnungsrechner.ch
 @@||wohnungsrechner.ch/js/advert.js$domain=wohnungsrechner.ch
+@@||wp.com/stadt-bremerhaven.de/wp-content/uploads/*?resize=$image,domain=stadt-bremerhaven.de
 @@||wuv.de/var/wuv/storage/images/werben_verkaufen/dossier/$image,domain=wuv.de
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 @@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch
