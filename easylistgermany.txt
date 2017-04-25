@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704252011
+! Version: 201704252025
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 25 Apr 2017 20:11 UTC
+! Last modified: 25 Apr 2017 20:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10583,7 +10583,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||ad.71i.de/images/fallback/video/1_sek.mp4$domain=netzwelt.de
 @@||ad.adworx.at/crossdomain.xml$object-subrequest
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
-@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=erdbeerlounge.de|giga.de|kino.de|spielaffe.de|spieletipps.de
+@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=erdbeerlounge.de|gamona.de|giga.de|kino.de|spielaffe.de|spieletipps.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad.yieldlab.net/yp/$script,domain=dance-charts.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|gutscheindoktor.de|literatur-fast-pur.de|preismafia.com|preisvergleich.de
@@ -10764,6 +10764,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||gamers.at/images/branding/*/header_
 @@||gamers.at/images/branding/*_header.
 @@||games.tfag.de^$domain=fitforfun.de
+@@||gamona.de^$elemhide
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
 @@||giga.de^$elemhide
 @@||gmx.net^*/video-adserver-config.xml$object-subrequest
@@ -11235,4 +11236,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: tZghrdRVXAF0UPBEpPITmw
+! Checksum: Wix/ezuhec44QPLBr7SLmg
