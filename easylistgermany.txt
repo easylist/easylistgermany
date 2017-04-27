@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704271758
+! Version: 201704271814
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Apr 2017 17:58 UTC
+! Last modified: 27 Apr 2017 18:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7709,12 +7709,12 @@ radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
-boote-forum.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .itemLinkPET
+boote-forum.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 ariva.de,boote-forum.de,fanfiktion.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
-erdbeerlounge.de,giga.de,spieletipps.de##.trc-content-sponsored
-erdbeerlounge.de,giga.de,spieletipps.de##.trc-content-sponsoredUB
-erdbeerlounge.de,giga.de,spieletipps.de##.trc_related_container div[data-item-syndicated="true"]
+erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
+erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
+erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de##.trc_related_container div[data-item-syndicated="true"]
 @@||focus.de^$generichide
 @@||pcwelt.de^$generichide
 plista.com##a[href^="http://click.plista.com/pets"]
@@ -8443,4 +8443,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: H+hGjlhPiHcMMKt73Llqbw
+! Checksum: O0Hd2lE38YBQZBIdQbl+Dw
