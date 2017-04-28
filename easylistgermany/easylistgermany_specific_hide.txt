@@ -328,7 +328,7 @@ schelian.de###dnn_dnnBANNER_lstBanners
 seamonkey.at###donor
 ddl-warez.to###download > div:first-child + br + a
 winload.de###downloading > #websearch[style="margin-top: 8px; background-color: white;"]
-dug-portal.com,movie-blog.org###dp_layer
+dug-portal.com,hd-world.org,movie-blog.org###dp_layer
 golyr.de###drk
 112-magazin.de,forendienst.de,navi-forum.net,wohnmobilforum.de###dropin
 abnehmen-forum.com###dropinboxv2cover
@@ -2525,7 +2525,7 @@ stadt-bremerhaven.de##a[href^="https://www.cyberport.de/?token="][target="_blank
 chip.de##a[href^="https://www.expertiger.de/partner/"]
 filecrypt.cc##a[href^="https://www.g2a.com/?reflink="]
 atomload.to##a[href^="https://www.oboom.com/ref/"]
-movie-blog.org##a[href^="https://www.smoozed.com/p/"]
+hd-world.org,movie-blog.org##a[href^="https://www.smoozed.com/p/"]
 atomload.to##a[href^="https://www.smoozed.rocks/landing/"]
 ddl-warez.to,goldesel.to##a[href^="https://www.spyoff.com/"]
 arcor.de##a[href^="https://zuhauseplus.vodafone.de/"] > img
