@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704271814
+! Version: 201704281723
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Apr 2017 18:14 UTC
+! Last modified: 28 Apr 2017 17:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -927,6 +927,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||sponsortown.de^$third-party
 ||stilanzeigen.net^$third-party
 ||stroeerdigitalmedia.de^$third-party
+||stroeerdigitalpublishing.de^$third-party
 ||stroeermediabrands.de^$third-party
 ||sunnysales.biz^$third-party
 ||superclix.de^$third-party
@@ -5358,6 +5359,7 @@ dwdl.de###viad_canvas
 androidpit.de###videoTakeOver
 androidpit.de###videoTakeOverBackground
 gameswelt.at,gameswelt.ch,gameswelt.de###videolink
+t-online.de###vmsky
 gehaltsvergleich.com###vn-super
 ddlporn.org###vote_9load
 linkvz.net,mac-guru.org,oxygen-scene.com###vote_popup
@@ -8443,4 +8445,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: O0Hd2lE38YBQZBIdQbl+Dw
+! Checksum: mV3miD0iyGjFBQol/sZbuQ
