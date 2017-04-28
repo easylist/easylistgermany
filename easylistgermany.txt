@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704281723
+! Version: 201704281744
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 28 Apr 2017 17:23 UTC
+! Last modified: 28 Apr 2017 17:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4353,7 +4353,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||sptopf.de/tshp/RE?ID=$popup,domain=t-online.de
 ||stream-box.net/out.php$popup
 ||stream-seiten.org/out.php$popup
-||sunmaker.com^$popup,domain=movie-blog.org
+||sunmaker.com^$popup,domain=hd-world.org|movie-blog.org
 ||superclix.de^$popup,domain=4players.de
 ||teen-blog.us/out_to_trade.php$popup
 ||teltarif.de/click/*:*.a=$popup
@@ -4709,7 +4709,7 @@ schelian.de###dnn_dnnBANNER_lstBanners
 seamonkey.at###donor
 ddl-warez.to###download > div:first-child + br + a
 winload.de###downloading > #websearch[style="margin-top: 8px; background-color: white;"]
-dug-portal.com,movie-blog.org###dp_layer
+dug-portal.com,hd-world.org,movie-blog.org###dp_layer
 golyr.de###drk
 112-magazin.de,forendienst.de,navi-forum.net,wohnmobilforum.de###dropin
 abnehmen-forum.com###dropinboxv2cover
@@ -6906,7 +6906,7 @@ stadt-bremerhaven.de##a[href^="https://www.cyberport.de/?token="][target="_blank
 chip.de##a[href^="https://www.expertiger.de/partner/"]
 filecrypt.cc##a[href^="https://www.g2a.com/?reflink="]
 atomload.to##a[href^="https://www.oboom.com/ref/"]
-movie-blog.org##a[href^="https://www.smoozed.com/p/"]
+hd-world.org,movie-blog.org##a[href^="https://www.smoozed.com/p/"]
 atomload.to##a[href^="https://www.smoozed.rocks/landing/"]
 ddl-warez.to,goldesel.to##a[href^="https://www.spyoff.com/"]
 arcor.de##a[href^="https://zuhauseplus.vodafone.de/"] > img
@@ -8445,4 +8445,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: mV3miD0iyGjFBQol/sZbuQ
+! Checksum: NfC3EEPyhQSzBLm52DK+AQ
