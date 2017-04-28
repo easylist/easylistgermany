@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704281808
+! Version: 201704282059
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 28 Apr 2017 18:08 UTC
+! Last modified: 28 Apr 2017 20:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3843,10 +3843,11 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ||www.onvista.de/news/boxes/news-image/?newsId=*-*&width=*&height=$image,domain=onvista.de
 ||www.onvista.de/news/boxes/news-image/?newsId=*_*&width=*&height=$image,domain=onvista.de
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
-/ad-utilities.​​$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
 13d4c92​​$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com​|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+9bb414e$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+@@/ad-utilities.​​$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 @@||ad.71i.de/global_js/globalV6.js$domain=prosiebenmaxx.de|ran.de
 @@||ad.71i.de/global_js/Sites/$script,domain=prosiebenmaxx.de|ran.de
 @@||adserver.71i.de/cgi-bin/functions/rogator-kkl2ads.pl?$domain=kabeleins.de
@@ -3909,6 +3910,7 @@ gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 @@||transfermarkt.de^$genericblock,generichide
 @@||www.stern.de^$genericblock,generichide
 autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
+ffff409​​$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 g.doubleclick.net###adunit
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ||2mdn.net^$domain=imasdk.googleapis.com|stern.de
@@ -8445,4 +8447,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: DO42a9LmidCYzI5GoWYizA
+! Checksum: IIRjsKktqA81fxJStEIaGA
