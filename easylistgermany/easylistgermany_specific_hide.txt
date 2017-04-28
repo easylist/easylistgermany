@@ -731,7 +731,6 @@ okitalk.com###promo_page
 okitalk.com###promo_right
 stuttgarter-zeitung.de###promoblock_1
 gameswelt.at,gameswelt.ch,gameswelt.de###pslink
-psychic.de###psychictable > table[width="100%"][border="0"] > tbody > tr > td:first-child + td[width="167"][valign="top"]:last-child
 psychic.de###psychictable > table[width="100%"][border="0"] > tbody > tr > td[width="167"][valign="top"]:last-child
 fussballtransfers.com###pub-200x197
 fussballtransfers.com###pub-300x250
@@ -2131,7 +2130,6 @@ auswandererforum.de##a[href*="affiliate.php?"]
 xp-antispy.org##a[href*="com_partner&link="]
 3dl.tv##a[href*="downloadboutique.com"]
 hd-vidz.net##a[href*="filesonthe.net"]
-filecrypt.cc##a[href="#"] > img[src^="http://filecrypt.cc/images/"]
 filecrypt.cc##a[href="#"] img[src^="http://filecrypt.cc/images/"]
 arcor.de##a[href="/content/unterhaltung/lotto/"]
 smsgott.de##a[href="/d2freikarte.php"]
@@ -3015,7 +3013,6 @@ xxx-blog.to##form[action="http://xxx-blog.to/mirror.php?download=highspeed"]
 rtl.de##form[action^="http://altfarm.mediaplex.com/"]
 atomload.to##form[action^="http://atomload.to/direktdownload/"]
 hoerbuch.us,lesen.to##form[action^="http://www.FriendlyDuck.com/AF_"]
-hoerbuch.us##form[action^="http://www.FriendlyDuck.com/AF_"] > #mirror
 ddl-search.biz##form[action^="http://www.affaire.com/"]
 serienjunkies.org,wiiu-reloaded.com##form[action^="http://www.firstload.com/affiliate/"]
 lesen.to,private-blog.org##form[action^="http://www.firstload.de/affiliate/"]

@@ -105,7 +105,6 @@
 @@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de
 @@||banners.webmasterplan.com/view.asp?ref=*&site=10830&$script
 @@||banners.webmasterplan.com/view.asp?ref=*&site=15264&$script
-@@||banners.webmasterplan.com/view.asp?ref=91339&site=10830&type=html&hnb=9&js=1&th=D1E4EF&tro=F4F4F4&tre=EEEEEE&abg=CF0000$script,domain=onlinekosten.de
 @@||bauer-plus.de^*?advertiser=$subdocument,domain=abosgratis.de
 @@||berliner-zeitung-online.de/specials/ads/scripts/standard_ads.css
 @@||berufsstart.de^*/anzeigeshowframeset.php?$subdocument
@@ -185,9 +184,7 @@
 @@||fotostudio-katikrueger.de/werbung/$~third-party
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
-@@||g.doubleclick.net/gampad/ads?*&sz=440x$script
-@@||g.doubleclick.net/gampad/ads?*&sz=440x3&$script,domain=gofeminin.de
-@@||g.doubleclick.net/gampad/ads?*&sz=440x4&$script,domain=gofeminin.de
+@@||g.doubleclick.net/gampad/ads?*&sz=440x&$script,domain=gofeminin.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
 @@||g.doubleclick.net/gampad/ads?*^sz=970x250^$subdocument,domain=welt.de
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=7tv.de
