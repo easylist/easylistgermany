@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201704301644
+! Version: 201704302025
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 Apr 2017 16:44 UTC
+! Last modified: 30 Apr 2017 20:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7913,7 +7913,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||cookex.amp.yahoo.com/v2/cexposer/SIG=*//ad.yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||d3con.de/data1/$image,~third-party
-@@||damoh.schneevonmorgen.com^*^ads=$script,domain=chip.de
+@@||damoh.schneevonmorgen.com^$script,domain=chip.de
 @@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
 @@||de.ebayobjects.com/1ai/mobile.homepage/superteaser;$subdocument,domain=mobile.de
@@ -8453,4 +8453,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: qgx5eZP6F2vcjugqclAxaw
+! Checksum: dbV+4VDS/pHya/+YGsCOzg
