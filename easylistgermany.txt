@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705031829
+! Version: 201705031832
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 May 2017 18:29 UTC
+! Last modified: 03 May 2017 18:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7979,7 +7979,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||fotoschloebe.de/Werbung/$~third-party
 @@||fotostudio-katikrueger.de/werbung/$~third-party
 @@||fussball.sv-kehlen.de/werbepartner.htm
-@@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
+@@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/gampad/ads?*&sz=440x&$script,domain=gofeminin.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
 @@||g.doubleclick.net/gampad/ads?*^sz=970x250^$subdocument,domain=welt.de
@@ -8469,4 +8469,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ws7IXPp3nXSwWpbWYjsQTA
+! Checksum: mhLTj0BhO65+X6AkHf5MRw
