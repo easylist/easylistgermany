@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705031636
+! Version: 201705031829
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 May 2017 16:36 UTC
+! Last modified: 03 May 2017 18:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8121,13 +8121,17 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||sagrotan.de/swf/*.swf?clickTag=$object,~third-party
 @@||sascdn.com/diff/251/$image,domain=transfermarkt.de
 @@||sascdn.com/diff/251/*&frameId=sas_5419_$document,subdocument,domain=welt.de
+@@||sascdn.com/diff/251/*/Abo-Teaser_fuer_ab.de-Home.png$image,domain=autobild.de
+@@||sascdn.com/diff/251/*/aktionen_191x108.jpg$image,domain=autobild.de
+@@||sascdn.com/diff/251/*/gebrauchtwagenmarkt.png$image,domain=autobild.de
+@@||sascdn.com/diff/251/*/kindersitze.png$image,domain=autobild.de
 @@||sascdn.com/diff/251/*650$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/*970x250$image,domain=welt.de
 @@||sascdn.com/diff/251/5489376/500x305_ms_wei_.jpg$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/pages/$script,domain=derwesten.de|gofeminin.de|hoerzu.de|transfermarkt.de
 @@||sascdn.com/diff/251/pages/autobild.js$domain=autobild.de
 @@||sascdn.com/diff/251/smartad.js$domain=welt.de
-@@||sascdn.com/diff/251/templates/passback.js$domain=welt.de
+@@||sascdn.com/diff/251/templates/passback.js$domain=autobild.de|welt.de
 @@||sascdn.com/diff/video/$script,domain=kleinezeitung.at
 @@||sascdn.com/video/$script,domain=kleinezeitung.at
 @@||saugking.net/css/ads.css
@@ -8163,9 +8167,10 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/smartad.js$domain=derwesten.de|hoerzu.de|sky.de
+@@||smartadserver.com/diff/251/2484653/show10.asp$script,domain=autobild.de
 @@||smartadserver.com/diff/251/pages/berlin.js$domain=welt.de
 @@||smartadserver.com/diff/251/smartad.js$domain=gofeminin.de
-@@||smartadserver.com/diff/251/templates/passback.js$domain=welt.de
+@@||smartadserver.com/diff/251/templates/passback.js$domain=autobild.de|welt.de
 @@||smartadserver.com/diff/js/smartadserver.js$domain=freestream.nmdn.net
 @@||smartadserver.com/wp-content/uploads/$image,domain=smartadserver.de
 @@||smartadserver.com^*^tag=sas_3648^$script,domain=welt.de
@@ -8464,4 +8469,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Y9aYBN7o71HKtLgXGk1ZXA
+! Checksum: ws7IXPp3nXSwWpbWYjsQTA
