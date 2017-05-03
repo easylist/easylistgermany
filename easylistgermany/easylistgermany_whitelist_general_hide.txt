@@ -87,6 +87,8 @@ karriere.de#@#.advert-wide
 jamesedition.de#@#.advert2
 tagblatt.de#@#.advertbox
 regman.de#@#.advertiseText
+11freunde.de#@#.advertisement-1
+11freunde.de#@#.advertisement-2
 e-valuate.de,wohnungsrechner.ch#@#.advertiser
 macwelt.de#@#.advertisment
 1und1.de,gmx.at,gmx.net,typischich.at,web.de#@#.advertorial
@@ -101,6 +103,7 @@ delamar.de#@#.custom_ads
 autoscout24.de#@#.detail-ads
 di.fm#@#.firstload
 esvkticker.sports-stream.de#@#.google_adsense
+11freunde.de#@#.gujAd
 immobilienscout24.de#@#.has-ad
 gofeminin.de,guterhut.de#@#.img_ad
 hochzeitswahn.de#@#.internal-ad
@@ -123,10 +126,11 @@ zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
 marketing-a.akamaihd.net#@#a[href^="http://adclick.g.doubleclick.net/"]
 berlin.de#@#a[href^="http://adfarm.mediaplex.com/"]
 schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
-cnet.de,deals.chip.de#@#a[href^="http://pubads.g.doubleclick.net/"]
+11freunde.de,cnet.de,deals.chip.de#@#a[href^="http://pubads.g.doubleclick.net/"]
 onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net#@#a[href^="https://ad.doubleclick.net/"]
 daswetter.com,gofeminin.de#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
-gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
+11freunde.de#@#div[id^="google_ads_iframe_"]
+11freunde.de,gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ! Anti-Adblock
