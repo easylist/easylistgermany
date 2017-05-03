@@ -2170,6 +2170,7 @@
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
+@@||ad.71i.de/global_js/AdPlayer/adplayer-v2.0.2.FINAL/js/adplayer.min.js$domain=kabeleins.de
 @@||ad.71i.de/global_js/globalV6.js$domain=prosiebenmaxx.de|ran.de
 @@||ad.71i.de/global_js/Sites/$script,domain=prosiebenmaxx.de|ran.de
 @@||adserver.71i.de/cgi-bin/functions/rogator-kkl2ads.pl?$domain=kabeleins.de
