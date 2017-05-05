@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705042041
+! Version: 201705050644
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 May 2017 20:41 UTC
+! Last modified: 05 May 2017 06:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3827,6 +3827,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 /newsId=([0-9]+[A-Za-z]+)+/$image,domain=onvista.de
 @@||onvista.de/onvista/smartAd?version=$subdocument,domain=onvista.de
 ||onvista.de/news/boxes/news-g$image,domain=onvista.de
+||onvista.de/news/boxes/news-i$image,domain=onvista.de
 ||onvista.de/news/boxes/news-il$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?*=*&newsId=*&width=*&height=$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?i$image,domain=onvista.de
@@ -4154,6 +4155,7 @@ wintotal.de##.widget.widget_wt_wintotal_rotator
 ||www.news.de/image/$image,domain=news.de
 ! 
 http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
+||4players.de/screamshots/$image,domain=4players.de
 ||4players.de/screencshoots/$image,domain=4players.de
 ||4players.de/screenhots/$image,domain=4players.de
 ||4players.de/screenschoots/$image,domain=4players.de
@@ -4177,6 +4179,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||arcor.de/img1/$image,domain=arcor.de
 ||arcor.de/img10/$image,domain=arcor.de
 ||arcor.de/img11/$image,domain=arcor.de
+||arcor.de/img12/$image,domain=arcor.de
 ||arcor.de/img2/$image,domain=arcor.de
 ||arcor.de/img3/$image,domain=arcor.de
 ||arcor.de/img4/$image,domain=arcor.de
@@ -4196,11 +4199,13 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||ariva.de/chart/img/*chv*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*ctr*.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*ctt*.jpg$image,domain=ariva.de
+||ariva.de/chart/img/*ehart.jpg$image,domain=ariva.de
 ||ariva.de/chart/img/*XsA*.jpg$image,domain=ariva.de
 ||auto-service.de/*f*=teaser/$image,domain=auto-service.de
 ||auto-service.de/*f=hero-$image,domain=auto-service.de
 ||baby-vornamen.de/images_community/$image,domain=baby-vornamen.de
 ||buffed.de/screenshots/*/*/*/*/*-$image,domain=buffed.de
+||buffed.de/screenshots/110x84/$image,domain=buffed.de
 ||buffed.de/screenshots/147x109/$image,domain=buffed.de
 ||buffed.de/screenshots/224$image,domain=buffed.de
 ||buffed.de/screenshots/226$image,domain=buffed.de
@@ -4211,6 +4216,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||buffed.de/screenshots/teaserw$image,domain=buffed.de
 ||cdn.heftig.co/wp-content/upload/$image,domain=genialetricks.de|heftig.de
 ||cdn.heftig.co/wp-content/uploads/$image,domain=genialetricks.de|heftig.de
+||chefkoch.de/ck.de/cms-uplaods/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uploads/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uploards/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uplodads/$image,domain=chefkoch.de
@@ -4229,6 +4235,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||classic.comunio.de/i/2/screenshots/bundeslija/*/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bundesllja/*/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bundestliga/*/screenshot_$image,domain=classic.comunio.de
+||classic.comunio.de/i/2/screenshots/bundezliga/*/screenshot_$image,domain=classic.comunio.de
 ||classic.comunio.de/i/2/screenshots/bundlliga/*/screenshot_$image,domain=classic.comunio.de
 ||connect.de/4c545151c66f6890/d2678a34c1c1e6fc.js
 ||gamesaktuell.de/screenshots/*/*/*/*/*-*.$image,domain=gamesaktuell.de
@@ -4250,15 +4257,19 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||images.cgames.de/imagvest/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/imagvsst/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/imagvst/*_*.jpg$image,domain=gamestar.de
+||images.cgames.de/lmages/*_*.jpg$image,domain=gamestar.de
 ||images.finanzen.net/mediacenter/*/images/*.$image,domain=finanzen.net
 ||images.finanzen.net/mediacenter/*/img/*.$image,domain=finanzen.net
+||images.finanzen.net/mediacenter/*/inages/*.$image,domain=finanzen.net
 ||images.finanzen.net/mediacenter/*/lmg/*.$image,domain=finanzen.net
 ||img1.caravaning.de/ijbg*/$image,domain=caravaning.de
+||img1.caravaning.de/images/$image,domain=caravaning.de
 ||img1.caravaning.de/img*/$image,domain=caravaning.de
 ||img1.caravaning.de/img/$image,domain=caravaning.de
 ||img1.caravaning.de/ing*/$image,domain=caravaning.de
 ||img1.caravaning.de/irrg*/$image,domain=caravaning.de
 ||img1.caravaning.de/isnbg*/$image,domain=caravaning.de
+||img1.promobil.de/igrm$image,domain=promobil.de
 ||img1.promobil.de/ilmg$image,domain=promobil.de
 ||img1.promobil.de/imag$image,domain=promobil.de
 ||img1.promobil.de/img$image,domain=promobil.de
@@ -4286,6 +4297,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||spox.com/iig/$image,domain=spox.com
 ||spox.com/ijg/$image,domain=spox.com
 ||spox.com/ilg/$image,domain=spox.com
+||spox.com/image/*_*.$image,domain=spox.com
 ||spox.com/images/*_*.$image,domain=spox.com
 ||spox.com/img/$image,domain=spox.com
 ||spox.com/img2/$image,domain=spox.com
@@ -4307,6 +4319,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||www.readmore.de/gallejy/$image,domain=readmore.de
 ||www.readmore.de/gallely/$image,domain=readmore.de
 ||www.readmore.de/galleny/$image,domain=readmore.de
+||www.readmore.de/gallerj/$image,domain=readmore.de
 ||www.readmore.de/gallerry/$image,domain=readmore.de
 ||www.readmore.de/gallery/$image,domain=readmore.de
 ||www.readmore.de/gallevy/$image,domain=readmore.de
@@ -8487,4 +8500,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 0x4pm62jJvjXYnk8rVdKuA
+! Checksum: Ufzdnc89E8uZqHVzxew2SA
