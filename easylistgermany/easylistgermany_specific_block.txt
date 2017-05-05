@@ -2146,7 +2146,6 @@
 /newsId=([0-9]+[A-Za-z]+)+/$image,domain=onvista.de
 @@||onvista.de/onvista/smartAd?version=$subdocument,domain=onvista.de
 ||onvista.de/news/boxes/news-g$image,domain=onvista.de
-||onvista.de/news/boxes/news-i$image,domain=onvista.de
 ||onvista.de/news/boxes/news-il$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?*=*&newsId=*&width=*&height=$image,domain=onvista.de
 ||onvista.de/news/boxes/news-image/?i$image,domain=onvista.de
