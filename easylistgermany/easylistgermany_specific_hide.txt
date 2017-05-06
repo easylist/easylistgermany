@@ -2111,6 +2111,7 @@ filecrypt.cc##[onmouseup^="var c = this;openLink('"][style="cursor:pointer;"]
 forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 100px; left: 550px; empty-cells: hide;"]
 sat-erotik.de##[width="800"][cellspacing="0"][cellpadding="4"][border="0"]
 hsc-bad-neustadt.de##a[class*="sponsor"]
+digitalfernsehen.de##a[data-redirect^="http://click.plista.com/redirect.php"] + div
 xxx-blog.to##a[height="600"][width="120"]
 goldesel.to##a[href$="-anonym"]
 goldesel.to##a[href$="-download"]
