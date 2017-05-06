@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705051743
+! Version: 201705060956
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 May 2017 17:43 UTC
+! Last modified: 06 May 2017 09:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5255,7 +5255,8 @@ apotheke-adhoc.de###skyscraper-left
 apotheke-adhoc.de###skyscraper-right
 dashitradio.de###skyscraper-wide
 oberpfalznetz.de###skyscraper_extreme_right
-nick.de###skyscraper_right
+digitalfernsehen.de,nick.de###skyscraper_right
+digitalfernsehen.de###skyscraper_top
 dooyoo.de###skyscrapper
 lachschon.de###skyskraper
 conrad.ch###slide
@@ -6461,6 +6462,7 @@ russland.ru##.werbung_01[valign="top"][align="left"]
 russland.tv##.werbung_01[valign="top"][align="right"]
 webfail.com##.wf-sidebox + div > a > img
 forum.winload.de##.wgo_block
+digitalfernsehen.de##.white_anzeige
 netzkino.de##.wideSkyscraper
 netzkino.de##.wideSkyscraperRight
 rp-online.de##.wideheader
@@ -8468,4 +8470,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ZYDljvukqGlt+jnJ+7tOVA
+! Checksum: RKJOb+LWzSduCo4bf11edQ
