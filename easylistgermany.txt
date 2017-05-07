@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705061226
+! Version: 201705071016
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 06 May 2017 12:26 UTC
+! Last modified: 07 May 2017 10:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8023,7 +8023,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||im.banner.t-online.de/?advideo/*;vidRT=VAST;$domain=t-online.de
 @@||im.banner.t-online.de/crossdomain.xml$domain=t-online.de
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=heise.de|radio.de
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=radio.de
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chip.de|radio.de
 @@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||insel-usedom-wollin.de/ads/$script,stylesheet
@@ -8473,4 +8473,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: prWyLWZZiPt9/ieUYEvXTA
+! Checksum: 9VDa2dSPQDvyUMUbD+sZ4g
