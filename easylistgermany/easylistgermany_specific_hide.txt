@@ -709,7 +709,7 @@ handy-hilfeforum.de,usp-forum.de###post_218944
 pocketpc.ch###post_99_Ad_Second
 pcgames.de###post_rec
 wow-forum.com###posts #wow_ros_postbit
-myboerse.bz###posts > .postbitlegacy:not([id])
+myboerse.bz###posts > li[id^="yui-gen"]
 mobilfunk-talk.de###posts > li[id^="yui-gen"].postcontainer
 unixboard.de###posts > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][style="page-break-before: always"]
 gutefrage.net###poweredBy
@@ -2350,6 +2350,7 @@ moviebox.to##a[href^="http://mirror.moviebox.to"]
 sdx.cc##a[href^="http://mirror.sdx.cc/"]
 pure-anime.biz##a[href^="http://mmotraffic.com/"]
 musicelster.net##a[href^="http://musicelster.net/premium"]
+myboerse.bz##a[href^="http://myboerse.bz/download/?ff="]
 gamingxp.com##a[href^="http://nemexia.de/?"]
 hd-world.org##a[href^="http://netload.in/"][href*="&refer_id="]
 paradise-load.us,sdx.cc##a[href^="http://netload.in/index.php?refer_id="]
