@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705071016
+! Version: 201705071129
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 07 May 2017 10:16 UTC
+! Last modified: 07 May 2017 11:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2902,6 +2902,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||myanimes.net/layer.js
 ||myboerse.bz/annedpromo.php
 ||myboerse.bz/popups.php
+||myboerse.bz^*.php$subdocument
 ||myconsol.net/uploads/brandings/bg_
 ||myconsol.net/uploads/brandings/headerbg_
 ||mycsharp.de/wbb2/images/community_index/events/*_140x100.gif
@@ -5111,7 +5112,7 @@ handy-hilfeforum.de,usp-forum.de###post_218944
 pocketpc.ch###post_99_Ad_Second
 pcgames.de###post_rec
 wow-forum.com###posts #wow_ros_postbit
-myboerse.bz###posts > .postbitlegacy:not([id])
+myboerse.bz###posts > li[id^="yui-gen"]
 mobilfunk-talk.de###posts > li[id^="yui-gen"].postcontainer
 unixboard.de###posts > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][style="page-break-before: always"]
 gutefrage.net###poweredBy
@@ -6752,6 +6753,7 @@ moviebox.to##a[href^="http://mirror.moviebox.to"]
 sdx.cc##a[href^="http://mirror.sdx.cc/"]
 pure-anime.biz##a[href^="http://mmotraffic.com/"]
 musicelster.net##a[href^="http://musicelster.net/premium"]
+myboerse.bz##a[href^="http://myboerse.bz/download/?ff="]
 gamingxp.com##a[href^="http://nemexia.de/?"]
 hd-world.org##a[href^="http://netload.in/"][href*="&refer_id="]
 paradise-load.us,sdx.cc##a[href^="http://netload.in/index.php?refer_id="]
@@ -8473,4 +8475,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 9VDa2dSPQDvyUMUbD+sZ4g
+! Checksum: NO1SGh92IzkJw3qWZ2RpRw
