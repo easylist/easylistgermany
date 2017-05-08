@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705081645
+! Version: 201705081650
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 May 2017 16:45 UTC
+! Last modified: 08 May 2017 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7663,7 +7663,7 @@ radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
-boote-forum.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
+boote-forum.de,golem.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 ariva.de,boote-forum.de,fanfiktion.de,notebookchat.com,notebookcheck.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
 erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
@@ -7671,6 +7671,7 @@ erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
 erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de##.trc_related_container div[data-item-syndicated="true"]
 @@||chip.de^$generichide
 @@||focus.de^$generichide
+@@||golem.de^$generichide
 @@||pcwelt.de^$generichide
 chip.de##a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"]
 plista.com##a[href^="http://click.plista.com/pets"]
@@ -7859,7 +7860,8 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||d3con.de/data1/$image,~third-party
 @@||damoh.chip.de^$script,domain=chip.de
-@@||damoh.schneevonmorgen.com^$script,domain=chip.de|erdbeerlounge.de|giga.de|kino.de|spieletipps.de
+@@||damoh.golem.de^$script,domain=golem.de
+@@||damoh.schneevonmorgen.com^$script,domain=chip.de|erdbeerlounge.de|giga.de|golem.de|kino.de|spieletipps.de
 @@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
 @@||de.ebayobjects.com/1ai/mobile.homepage/superteaser;$subdocument,domain=mobile.de
@@ -8405,4 +8407,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 825yEDL8zNoc4RntTZAafQ
+! Checksum: uNSipBEyLM/91/F4eb+8sw
