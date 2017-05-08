@@ -377,7 +377,6 @@ mufa.de###freikarten
 spox.com###frnBanner
 dmax.de###fs-skyscraper-outer
 morgenpost.de###fsrect01
-chip.de###full-banner + #v3brandbox
 bild.de###fullBanner
 nick.de,weltwoche.ch###fullbanner
 wer-weiss-was.de###fullbanner_02
@@ -937,7 +936,6 @@ fundanalyzer.de,fundresearch.de###ticker
 vfl-gummersbach.de###ticketmaster
 peeplo.de###tips-share
 t-online.de###tl_anz-pos1
-chip.de###top-banner
 fnweb.de###top-bannerrow
 clever-tanken.de###top-bar
 awardfabrik.de###top2
@@ -957,7 +955,6 @@ gmx.net,home.1und1.de,web.de###topper
 spritmonitor.de###towe
 gay-szene.net###tpl_right
 kinofilme.ucoz.com###trade
-chip.de###trippleTipp
 n-tv.de,urlaubspiraten.de,wetter.de###trivago_dealform
 t-online.de###tsc_skyscraper
 t-online.de###tsrwh
@@ -1202,7 +1199,6 @@ energie-fachberater.de##.anzeigeRight
 sportal.ch##.anzeige_468
 augsburger-allgemeine.de##.anzeige_rec
 sportalplus.com##.anzeige_sky
-chip.de##.anzeigeimage
 inselradio.com,partyamt.de##.anzeigen
 diaware.de##.anzeigen_link
 genderblog.de##.anzeigenhead
@@ -1336,7 +1332,6 @@ hilferuf.de##.buchtipp_content
 hilferuf.de##.buchtipp_footer
 hilferuf.de##.buchtipp_topic
 welt.de##.buechercharts
-chip.de##.bullet-partner
 web.de##.buster
 tt.com##.button145
 foerderland.de##.button300x250
@@ -1365,7 +1360,6 @@ gamestar.de##.centeredDiv > .homeContReg > .doubleBlkRight[style="height:300px;p
 typo3blogger.de##.chemical_sitelogo_r
 putenbrust.net##.children:last-child > table[width="500"][align="center"]
 lesen.to##.clicky_log_outbound[style="color: rgb(255, 51, 0);  title="]
-chip.de##.cloudsider-widget
 golem.de##.cluster-header + div[style="margin:15px 0; min-height:103px;"]
 golem.de##.cluster-header + div[style="margin:15px 0; min-height:266px;"]
 pooltrax.com##.cmc2
@@ -1456,7 +1450,6 @@ volksblatt.li##.divBanner
 volksblatt.li##.divPdfAnzeigen
 volksblatt.li##.divRectangle
 ladies.de##.div_head_main_anzeige
-chip.de##.dl-faktbox + .button-box
 gamestar.de##.dlightboxContainerBody > div[style="color: #5D5D5D; font-size: 18px; margin: 10px 10px 10px 20px; text-align: left;"] + .standardcontent > [type="text/css"] + .articlelb > table
 cyonix.to##.dllink
 xxx-blog.to##.dltable + .easySpoilerWrapper + p:last-child
@@ -1536,7 +1529,6 @@ webmart.de##.gap
 pooltrax.com##.gas2
 t3n.de##.gasTeaser
 winfuture.de##.gcap
-chip.de##.general2 > #ContBoxCBM
 geizhals.at,geizhals.de,gh.de##.gh_fp
 geizhals.at,gh.de##.gh_fp_wide
 heise.de##.gh_teaser
@@ -1972,7 +1964,6 @@ rheintaler.ch##.tbrposthtml
 rheintaler.ch##.tbrprehtml
 hifi-forum.de##.td1[valign="top"] > div[style="float:left; width: 300px; height: 250px; margin-right: 10px; margin-bottom: 10px; padding:0;"]:first-child
 bild.de##.tea-rectangle
-chip.de##.teaser-headline-gray
 notebookinfo.de##.teaser-news-inline-anzeige
 bluewin.ch##.teaser-partnerlink
 n-tv.de##.teaser_220_450.clearfix[style="background-color: #02225a; padding: 5px 0 5px 0; margin: -10px 0 10px 0; "]
@@ -2633,7 +2624,6 @@ chip.de##a[title="Amazon Instant Video"][target="_blank"]
 fc-hansa.de##a[title="DKB-Familienblock"]
 chip.de##a[title="FriendScout24"][target="_blank"]
 g4u.me##a[title="Highspeed Download"]
-chip.de##a[title^="Anzeige:"]
 golem.de##article > .formatted > p + div[style$="px 0; min-height:266px; clear:both;"]
 golem.de##article > .formatted > p + div[style="margin:15px 0; min-height:266px;"]
 yellingnews.com##article > .teaser + .related.tm
