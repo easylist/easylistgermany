@@ -123,6 +123,7 @@
 @@||classic-motorrad.de/anzeigen/layout_images/new/top_ads_icon.gif
 @@||classistatic.de^*/advertising/*advertisingpacked.js$domain=mobile.de
 @@||clipfish.de/ip/admeta.xml?$object-subrequest
+@@||clipfish.de^$generichide
 @@||comdirect.de^*.html&ad=$subdocument
 @@||comdirect.de^*.html?ad=$subdocument
 @@||comdirect.de^*/advertising.do?$subdocument
@@ -132,7 +133,7 @@
 @@||d3con.de/data1/$image,~third-party
 @@||damoh.chip.de^$script,domain=chip.de
 @@||damoh.golem.de^$script,domain=golem.de
-@@||damoh.schneevonmorgen.com^$object-subrequest,domain=n-tv.de
+@@||damoh.schneevonmorgen.com^$object-subrequest,domain=clipfish.de|n-tv.de
 @@||damoh.schneevonmorgen.com^$script,domain=chip.de|erdbeerlounge.de|giga.de|golem.de|kino.de|spieletipps.de
 @@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
@@ -361,7 +362,7 @@
 @@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=cnet.de
 @@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||serving-sys.com/BurstingRes//Site-*/Type-*/$script,domain=cnet.de
-@@||serving-sys.com/Serving/adServer.bs?$object-subrequest,domain=n-tv.de
+@@||serving-sys.com/Serving/adServer.bs?$object-subrequest,domain=clipfish.de|n-tv.de
 @@||sexabc.ch/xxx/topliste/img/sexabc_topliste$image,domain=ameliatantra.jimdo.com
 @@||sexkontaktinserate.com/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||sexlink.ch/images/banner/$image,domain=ameliatantra.jimdo.com
@@ -404,7 +405,7 @@
 @@||sport1.fm/ad/my_ad_iframe.html?ad_id=performance*&start=$subdocument
 @@||sport1.fm/ad/my_ad_integration.js
 @@||spotrails.com/video/$object-subrequest,domain=mobile.de
-@@||spotxchange.com/vast/$object-subrequest,domain=n-tv.de
+@@||spotxchange.com/vast/$object-subrequest,domain=clipfish.de|n-tv.de
 @@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=pages.ebay.de
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
@@ -440,7 +441,7 @@
 @@||uicdn.com^*/video-adserver-config.xml$object-subrequest
 @@||v.fwmrm.net/ad/p/1?$object-subrequest,domain=southpark.de
 @@||vdn-mobile.oas-limited.com/ad/$object-subrequest,domain=mobile.de
-@@||videoplaza.tv/proxy/distributor/v2^$object-subrequest,domain=n-tv.de
+@@||videoplaza.tv/proxy/distributor/v2^$object-subrequest,domain=clipfish.de|n-tv.de
 @@||videoservice.apa.at/Vast/GetProxy/?*?videotype=preroll1&$xmlhttprequest
 @@||videostream4u.com^*/ac_oetags_clone.js
 @@||webdisk.ads.mwn.de/Scripts/ext-adv.js
@@ -468,6 +469,7 @@
 @@||xfind.de/banner/$image,domain=searchx.ch
 @@||yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|gutscheindoktor.de|notenbuch24.de|preismafia.com
+||videoplaza.tv/creatives/$domain=clipfish.de
 ! "Matched Content" by Google (https://support.google.com/adsense/answer/6111336)
 @@||g.doubleclick.net/pagead/ads?*^slotname=3722556080^$document,subdocument,domain=kalender-365.de
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=kalender-365.de
