@@ -3325,13 +3325,14 @@ erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de,welt.de##.trc-content-s
 erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de,welt.de##.trc-content-sponsoredUB
 erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
 @@||chip.de^$generichide
+@@||computerbild.de^$generichide
 @@||focus.de^$generichide
 @@||golem.de^$generichide
 @@||pcwelt.de^$generichide
 @@||welt.de^$generichide
 chip.de##a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"]
 plista.com##a[href^="http://click.plista.com/pets"]
-focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
+computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 stol.it##div[id^="div-gpt-ad"]
 ! CSS property filters
 !
