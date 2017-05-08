@@ -2267,7 +2267,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||criteo.com^$domain=tellows.de
 ||emsmobile.de^$domain=stern.de
 ||emsservice.de^$domain=gala.de|stern.de
-||flashtalking.com^$domain=g.doubleclick.net|gala.de|kabeleins.de|ran.de|stern.de
+||flashtalking.com^$domain=focus.de|g.doubleclick.net|gala.de|kabeleins.de|ran.de|stern.de
 ||g.doubleclick.net^$domain=focus.de|gala.de|imasdk.googleapis.com|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|tellows.de|transfermarkt.de
 ||gala.de/googleads/$domain=gala.de
 ||gala.de/gujAd/$domain=gala.de
