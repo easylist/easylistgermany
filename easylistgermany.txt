@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705071855
+! Version: 201705080642
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 07 May 2017 18:55 UTC
+! Last modified: 08 May 2017 06:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4141,6 +4141,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||4players.de/screnhoots/$image,domain=4players.de
 ||4players.de/screnhots/$image,domain=4players.de
 ||4players.de/scrrenhoots/$image,domain=4players.de
+||4players.de/seremnashots/$image,domain=4players.de
 ||4players.de/skrinshoots/$image,domain=4players.de
 ||4players.de/skrinshouts/$image,domain=4players.de
 ||abendzeitung-muenchen.de/media.media*normalized$image,domain=abendzeitung-muenchen.de
@@ -4155,6 +4156,7 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||arcor.de/img10/$image,domain=arcor.de
 ||arcor.de/img11/$image,domain=arcor.de
 ||arcor.de/img12/$image,domain=arcor.de
+||arcor.de/img13/$image,domain=arcor.de
 ||arcor.de/img2/$image,domain=arcor.de
 ||arcor.de/img3/$image,domain=arcor.de
 ||arcor.de/img4/$image,domain=arcor.de
@@ -8477,4 +8479,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: p738qd48NFV/VZRJMqdvmw
+! Checksum: pgNLbXz0PvxrDZ592k41dA
