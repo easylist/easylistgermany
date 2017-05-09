@@ -4,8 +4,6 @@
 @@||11freunde.de/sites/all/themes/elf/gujAd/gujAd.js$domain=11freunde.de
 @@||123people.us/trackads/display?zones=$script,domain=123people.de
 @@||2mdn.net/ads/studio/Enabler.js$domain=marketing-a.akamaihd.net
-@@||2mdn.net^*/flash_inpage_rendering_lib_$script,domain=cnet.de
-@@||2mdn.net^*/plcr_$script,domain=cnet.de
 @@||360yield.com/adj?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||6inserate.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||71iv.nuggad.net/crossdomain.xml$object-subrequest
@@ -189,7 +187,7 @@
 @@||fotoschloebe.de/Werbung/$~third-party
 @@||fotostudio-katikrueger.de/werbung/$~third-party
 @@||fussball.sv-kehlen.de/werbepartner.htm
-@@||g.doubleclick.net/gampad/ads?$script,domain=cnet.de|gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
+@@||g.doubleclick.net/gampad/ads?$script,domain=gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/gampad/ads?*300x250^$script,domain=11freunde.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
 @@||g.doubleclick.net/gampad/ads?*^sz=970x250^$subdocument,domain=welt.de
@@ -301,10 +299,8 @@
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=oroma.net|speedweek.com|spielen.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=oroma.net
-@@||pagead2.googlesyndication.com/pagead/osd.js$domain=cnet.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=spielen.com
 @@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.at|rakuten.de
-@@||partner.googleadservices.com/gampad/google_ads_gpt.js$domain=cnet.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|zalando.de
 @@||partners.webmasterplan.com/click*.asp$subdocument,domain=eule.de|gutscheindoktor.de
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
@@ -357,11 +353,7 @@
 @@||servedby.flashtalking.com/crossdomain.xml$object-subrequest
 @@||servedby.flashtalking.com/imp/$object-subrequest,domain=t-online.de
 @@||servettefc.ch^*.swf?clicktag=http://www.servettefc.ch$object
-@@||serving-sys.com/BurstingCachedScripts/*/ebStdBanner.js$domain=cnet.de
-@@||serving-sys.com/BurstingCachedScripts/ebBanner_$script,domain=cnet.de
-@@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=cnet.de
 @@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
-@@||serving-sys.com/BurstingRes//Site-*/Type-*/$script,domain=cnet.de
 @@||serving-sys.com/Serving/adServer.bs?$object-subrequest,domain=clipfish.de|n-tv.de
 @@||sexabc.ch/xxx/topliste/img/sexabc_topliste$image,domain=ameliatantra.jimdo.com
 @@||sexkontaktinserate.com/images/banner/$image,domain=ameliatantra.jimdo.com
