@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705101619
+! Version: 201705101620
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 May 2017 16:19 UTC
+! Last modified: 10 May 2017 16:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2124,6 +2124,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||dotnetpro.de/grafix/banners/
 ||dotnetpro.de^*/anzeigeh.gif
 ||dotnetpro.de^*/anzeigev.gif
+||doubleclick.net/ddm/pfadx/$object-subrequest,domain=clipfish.de
 ||dragondesigns.de/include/images/sponsor/
 ||dreambox.info/banner/
 ||dreambox.info/d4d468.gif
@@ -3321,6 +3322,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||serienjunkies.org^*/usenet.php
 ||serienoldies.de^*/jamba_ringtone.gif
 ||service4handys.de/banner/
+||serving-sys.com/Serving?$object-subrequest,domain=clipfish.de
 ||sevac.com/images/bmain-
 ||sevenmac.de/banner/
 ||sexgeschichten.com/banner/
@@ -8448,4 +8450,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: dKmbQ/pGbZswhwB40wnCHA
+! Checksum: Bo7pZBNBY2/ul43nZT5/bw
