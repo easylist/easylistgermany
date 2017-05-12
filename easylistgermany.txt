@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705121700
+! Version: 201705121701
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 May 2017 17:00 UTC
+! Last modified: 12 May 2017 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4124,6 +4124,19 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505.5px; top: 115
 ||wize.life/*/cc26a9f/$image
 ||wize.life/*/ecfed44/$image
 ||www.news.de/image/$image,domain=news.de
+! 
+.net/ads/$domain=digitalfernsehen.de|inside-handy.de
+/adchoices/*$domain=digitalfernsehen.de|inside-handy.de
+/banner/ad/*$domain=digitalfernsehen.de|inside-handy.de
+/pagead2.$domain=digitalfernsehen.de|inside-handy.de
+/securepubads.$domain=digitalfernsehen.de|inside-handy.de
+/tag_sys.$domain=digitalfernsehen.de|inside-handy.de
+@@||*.de^$genericblock,~third-party,domain=digitalfernsehen.de|inside-handy.de
+||adition.com^$domain=digitalfernsehen.de
+||inside-handy.de/lib/js/advertisement.js$domain=inside-handy.de
+||mookie1.com^$third-party,domain=digitalfernsehen.de
+||smartadserver.com^$third-party,domain=inside-handy.de
+||static.plista.com^*/resized/$domain=digitalfernsehen.de
 ! 
 http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||4players.de/screamshots/$image,domain=4players.de
@@ -8462,4 +8475,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 2wHZsyfoUNfpPpUPv9TIXA
+! Checksum: BvVBXAXk6K1zbXyMwfAuTw
