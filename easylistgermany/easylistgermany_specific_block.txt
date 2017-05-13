@@ -2452,6 +2452,7 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505.5px; top: 115
 /tag_sys.$domain=digitalfernsehen.de|inside-handy.de
 @@||*.de^$genericblock,~third-party,domain=digitalfernsehen.de|inside-handy.de
 ||adition.com^$domain=digitalfernsehen.de
+||adnxs.com^$domain=digitalfernsehen.de
 ||inside-handy.de/lib/js/advertisement.js$domain=inside-handy.de
 ||mookie1.com^$third-party,domain=digitalfernsehen.de
 ||smartadserver.com^$third-party,domain=inside-handy.de
