@@ -25,7 +25,6 @@ goettgen.de###GAS_SUBA
 grenzwissenschaft-aktuell.blogspot.com###HTML3 + #HTML1 > .widget-content:first-child
 namsu.de###Info
 express.de###JSAnzeigen
-onvista.de###LAYER_AD_CONTAINER
 branchen-info.net,brd-info.net,staedte-info.net,top-dsl.com###Layer1
 branchen-info.net,brd-info.net,staedte-info.net,top-dsl.com###Layer2
 quoka.de###Layout2Column2 > .MsBoxSection
@@ -44,8 +43,6 @@ sgcoburg.de###PromoRight
 volksfreund.de###RectangleOMS
 rclineforum.de###RotBanner
 express.de###RotatingPartner
-onvista.de###SKYSCRAPER_HOME
-onvista.de###SKY_LEFT
 helles-koepfchen.de###Sky_left
 dfb.de###SkyscraperContainer
 bayer04.de###Sponsoren_Logo
@@ -65,7 +62,7 @@ t-online.de###Tcontboxi > .Tagbox > .Tart > #Ttub2
 cio.de###TopBanner
 mazda-forum.info,unixboard.de###TopRectangle
 freiepresse.de###TopWrapper
-onvista-bank.de,onvista.de###WALLPAPER
+onvista-bank.de###WALLPAPER
 neumarktaktuell.de###Werbung
 ww3.cad.de###WzTtDiV + table[width="100%"][border="0"]
 adhs-zentrum.de,enuresis-zentrum.de,zeitarbeit-zentrum.de###a4d1af
@@ -1015,7 +1012,6 @@ pocketpc.ch###xxParentDivForWerbPostbit
 euronics.de###xxl_master_top_banner_container
 pocketpc.ch###xxyyParentDivForWerbPostbit
 zelluloid.de###zTopBanner
-onvista.de##.ANZEIGE.FLOAT_RECHTS + ul
 kimeta.de,vol.at##.Ad
 v-i-t-t-i.de##.AmazonSimpleAdmin_widget_inner
 fr-online.de,unixboard.de,windows-7-forum.net##.Anzeige
@@ -1032,7 +1028,6 @@ sex-up.net##.BoxSidebarGoogleSexUp
 mactechnews.de##.CommercialPanel
 ksta.de##.ContainerContentKalaydoSmall
 stayfriends.de##.ContainerRectangle
-onvista.de##.DAS_INVESTMENT > .ANZEIGE
 mactechnews.de##.DfpNewsO
 mactechnews.de##.DfpPanel336
 fr-online.de##.DigiAnz
@@ -1049,19 +1044,15 @@ xflat24.com##.KEYWORDS
 rundschau-online.de##.KalaydoColorBox
 perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
-onvista-bank.de,onvista.de##.MEGASIZE_BANNER
+onvista-bank.de##.MEGASIZE_BANNER
 sc-markersdorf.at##.ModBannersC
 alle-autos-in.de##.NaviTopP
 n24.de##.OUTBRAIN .ob_dual_left > .ob-p
 bildderfrau.de,gofeminin.de##.OffresSpe_cadre
 news.preisgenau.de##.Post5
-onvista.de##.RENDITE_TIPPS
 aol.de##.RHRSLL
 fremdwort.de##.RahmenRundrum[width="560"] > tbody > tr > td[colspan="2"]:first-child:last-child > table[border="0"]:first-child:last-child
-onvista.de##.SKYSCRAPER
 aol.de##.SLL
-onvista.de##.SPONSORED_NEWS
-onvista.de##.SPONSORED_NEWS + .RELATED_NEWS
 fcbayern.telekom.de##.SectionPresenting
 charivari.de##.Skyscraper_Slot
 buerschgens.de##.SponsorFuss
@@ -1146,7 +1137,6 @@ pc-magazin.de##.adv_inside_galerie
 detektor.fm##.advarea
 animania.de,erdbeerlounge.de,eurogamer.de,hcelb.de,mrn-news.de,n-tv.de,teleboerse.de,tvtv.at,tvtv.ch,tvtv.de,weser-kurier.de##.advert
 filsh.net##.advert + .notification
-onvista.de##.advertisedFund
 veeseo.com##.advertisement
 morgenpost.de,thueringer-allgemeine.de,welt.de##.advertising
 au-ja.de##.advframe
@@ -1372,7 +1362,6 @@ pchilfe.org##.col2 > .ink_box
 daspureleben.com##.column-first > .content > .fl-lft > img[width="139"][height="52"]
 daspureleben.com##.column-first > .content > .logo-slider
 bluewin.ch##.column-right > .column-right-right > .teaser-special > .ts-image + .ts-content
-onvista.de##.comStagePartnerInfos
 tripadvisor.de##.commerce
 auto-motor-und-sport.de,azonline.de,getgoods.4teams.de,mv-online.de,promobil.de,wn.de##.commercial
 filecrypt.cc##.container > tbody > tr > td > button[onmouseup]
