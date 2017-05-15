@@ -2145,11 +2145,13 @@
 @@||adserver.71i.de/cgi-bin/functions/rogator-kkl2ads.pl?$domain=kabeleins.de
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de|stern.de
 @@||autobild.de^$genericblock,generichide
+@@||bf-ad.net/makabo/js_ng/adplayer/css/adplayer.min.css$domain=focus.de
 @@||bf-ad.net/makabo/js_ng/adplayer/js/adplayer.min.js$domain=focus.de
 @@||bf-ad.net/makabo/js_ng/ae_ks.js$domain=focus.de
 @@||bf-ad.net/packages/polar/fol_queue.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
+@@||doubleclick.net/crossdomain.xml$domain=focus.de
 @@||doubleclick.net^$image,domain=stern.de
 @@||emsservice.de/autoNative/project/autoNative.min.js$domain=stern.de
 @@||emsservice.de/autoNative/project/config/autoNative.stern.js$domain=stern.de
