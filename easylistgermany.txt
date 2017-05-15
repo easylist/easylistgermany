@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705151727
+! Version: 201705151735
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 15 May 2017 17:27 UTC
+! Last modified: 15 May 2017 17:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3826,11 +3826,13 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||adserver.71i.de/cgi-bin/functions/rogator-kkl2ads.pl?$domain=kabeleins.de
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de|stern.de
 @@||autobild.de^$genericblock,generichide
+@@||bf-ad.net/makabo/js_ng/adplayer/css/adplayer.min.css$domain=focus.de
 @@||bf-ad.net/makabo/js_ng/adplayer/js/adplayer.min.js$domain=focus.de
 @@||bf-ad.net/makabo/js_ng/ae_ks.js$domain=focus.de
 @@||bf-ad.net/packages/polar/fol_queue.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
+@@||doubleclick.net/crossdomain.xml$domain=focus.de
 @@||doubleclick.net^$image,domain=stern.de
 @@||emsservice.de/autoNative/project/autoNative.min.js$domain=stern.de
 @@||emsservice.de/autoNative/project/config/autoNative.stern.js$domain=stern.de
@@ -8462,4 +8464,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: PqQ/9PSwoLmT0E9SNRbcyQ
+! Checksum: pNFlrXjYo0NWmqkRojdmGQ
