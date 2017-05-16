@@ -2202,9 +2202,7 @@
 @@||prosiebenmaxx.de^$genericblock,generichide
 @@||ran.de^$genericblock,generichide
 @@||revsci.net/gateway/gw.js$domain=focus.de|kabeleins.de
-@@||sascdn.com/diff/251/pages/autobild.js$domain=autobild.de
-@@||sascdn.com/diff/251/pages/metalhammer.js$domain=metal-hammer.de
-@@||sascdn.com/diff/251/verify.js$domain=metal-hammer.de
+@@||sascdn.com/diff/251/pages/$script,domain=autobild.de|metal-hammer.de
 @@||sascdn.com/diff/js/smart.js$domain=metal-hammer.de|musikexpress.de
 @@||sascdn.com^$script,domain=musikexpress.de
 @@||sat1.de^$genericblock,generichide
