@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705161903
+! Version: 201705161908
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 16 May 2017 19:03 UTC
+! Last modified: 16 May 2017 19:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3820,6 +3820,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
+@@||ad.71i.de/global_js/AdPlayer/adplayer-v2.0.2.FINAL/css/adplayer.min.css$domain=kabeleins.de
 @@||ad.71i.de/global_js/AdPlayer/adplayer-v2.0.2.FINAL/js/adplayer.min.js$domain=kabeleins.de
 @@||ad.71i.de/global_js/globalV6.js$domain=prosiebenmaxx.de|ran.de
 @@||ad.71i.de/global_js/Sites/$script,domain=prosiebenmaxx.de|ran.de
@@ -3968,11 +3969,12 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||smartclip.net^$domain=gala.de
 ||smartredirect.de^$domain=focus.de
 ||smartstream.tv^$domain=imasdk.googleapis.com
+||sparkflow.net^$domain=kabeleins.de
 ||spotxchange.com^$domain=imasdk.googleapis.com|sixx.de
 ||stern.de/gujadstatic/stern/gujAd.$domain=stern.de
 ||stickyadstv.com^$domain=stern.de
 ||teads.tv^$domain=autobild.de|kabeleins.de|metal-hammer.de|musikexpress.de|prosiebenmaxx.de|ran.de|transfermarkt.de
-||theadex.com^$domain=stern.de
+||theadex.com^$domain=kabeleins.de|stern.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
 ||unrulymedia.com^$domain=focus.de
 ||vod-akamai-psd2-dcp.p7s1digital.de/vod/2.0/progressive/*.mp4$domain=ran.de
@@ -8426,4 +8428,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Nh5EZu7Bg5NNB3nx/a6Wqg
+! Checksum: MwE0dvxyTjGYY+gEbt8XeQ
