@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705161916
+! Version: 201705162046
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 16 May 2017 19:16 UTC
+! Last modified: 16 May 2017 20:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3824,6 +3824,8 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||ad.71i.de/global_js/AdPlayer/adplayer-v2.0.2.FINAL/js/adplayer.min.js$domain=kabeleins.de
 @@||ad.71i.de/global_js/globalV6.js$domain=prosiebenmaxx.de|ran.de
 @@||ad.71i.de/global_js/Sites/$script,domain=prosiebenmaxx.de|ran.de
+@@||adnxs.com/ast/ast.js$domain=musikexpress.de
+@@||adnxs.com/ut/$xmlhttprequest,domain=musikexpress.de
 @@||adserver.71i.de/cgi-bin/functions/rogator-kkl2ads.pl?$domain=kabeleins.de
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de|stern.de
 @@||autobild.de^$genericblock,generichide
@@ -3857,13 +3859,14 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||g.doubleclick.net/gampad/ads?slotname=*stern%2F*^sz=480x360^$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?sz=480x360^*^url=http%3A%2F%2Fwww.stern.de%2F$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=kabeleins.de|prosiebenmaxx.de|ran.de|sixx.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=focus.de|gala.de|kabeleins.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 @@||g.doubleclick.net/static/glade.js$domain=autobild.de|transfermarkt.de
 @@||g.doubleclick.net/static/glade/extra_$script,domain=autobild.de
 @@||gala.de/gujAd/gujAd.js$domain=gala.de
 @@||gala.de^$genericblock,generichide
 @@||googlesyndication.com/pagead/$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$domain=transfermarkt.de
+@@||himediads.com/js?$script,domain=musikexpress.de
 @@||imagesrv.adition.com/js/srp.js$domain=transfermarkt.de
 @@||kabeleins.de^$genericblock,generichide
 @@||metal-hammer.de^$genericblock,generichide
@@ -3871,7 +3874,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||mookie1.com/s1/sas/lh1/checkSegments.min.js$domain=stern.de
 @@||musikexpress.de^$genericblock,generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=focus.de|transfermarkt.de
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de|musikexpress.de
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=focus.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
 @@||pix*.revsci.net^*.js?$domain=focus.de
@@ -3881,11 +3884,15 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||ran.de^$genericblock,generichide
 @@||revsci.net/gateway/gw.js$domain=focus.de|kabeleins.de
 @@||sascdn.com/diff/251/pages/autobild.js$domain=autobild.de
+@@||sascdn.com/diff/js/smart.js$domain=musikexpress.de
+@@||sascdn.com^$script,domain=musikexpress.de
 @@||sat1.de^$genericblock,generichide
 @@||sixx.de^$genericblock,generichide
-@@||smartadserver.com/ac?nwid=$script,domain=autobild.de|transfermarkt.de
+@@||smartadserver.com/ac?nwid=$script,domain=autobild.de|musikexpress.de|transfermarkt.de
+@@||smartadserver.com/config.js?nwid=$script,domain=musikexpress.de
 @@||smartadserver.com/diff/251/divscripte/$subdocument,domain=transfermarkt.de
 @@||smartadserver.com/diff/251/partners/amazon.js$domain=autobild.de|transfermarkt.de
+@@||smartadserver.com/diff/251/templates/$script,domain=musikexpress.de
 @@||smartadserver.com/diff/251/verify.js$domain=transfermarkt.de
 @@||stern.de/gujadstatic/stern/gujAd.js$domain=stern.de
 @@||tellows.de^$genericblock,generichide
@@ -3897,38 +3904,43 @@ g.doubleclick.net###adunit
 metal-hammer.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 musikexpress.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
-||2mdn.net^$domain=imasdk.googleapis.com|stern.de
+||2mdn.net^$domain=imasdk.googleapis.com|musikexpress.de|stern.de
 ||360yield.com^$domain=sixx.de
 ||3lift.com^$domain=focus.de
 ||a-ssl.ligatus.com^$domain=gala.de|stern.de
 ||ad-srv.net^$domain=focus.de|tellows.de
 ||ad.71i.de^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+||ad.doubleclick.net^$domain=musikexpress.de
 ||ad4mat.de^$domain=googlesyndication.com
 ||adform.net^$domain=autobild.de|focus.de|googlesyndication.com|prosiebenmaxx.de|ran.de|stern.de
-||adition.com^$domain=focus.de|g.doubleclick.net|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|transfermarkt.de
+||adition.com^$domain=focus.de|g.doubleclick.net|gala.de|kabeleins.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|transfermarkt.de
 ||adnet.de^$domain=tellows.de
-||adnxs.com^$domain=autobild.de|focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|widgets.outbrain.com
+||adnxs.com^$domain=autobild.de|focus.de|gala.de|kabeleins.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|widgets.outbrain.com
 ||adrolays.de^$domain=autobild.de|transfermarkt.de
-||adsafeprotected.com^$domain=imasdk.googleapis.com
+||adsafeprotected.com^$domain=imasdk.googleapis.com|musikexpress.de
 ||adscale.de^$domain=tellows.de
 ||adserver.71i.de^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||adserverc.cliipa.com^$domain=stern.de
 ||adsnative.com^$domain=autobild.de
 ||adspirit.de^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+||adsrvr.org^$domain=musikexpress.de
 ||adtech.de^$domain=tellows.de
+||adverserve.net^$domain=musikexpress.de
 ||advertising.veeseo.com^$domain=stern.de
-||advolution.de^$domain=focus.de
+||advolution.de^$domain=focus.de|musikexpress.de
 ||amazon-adsystem.com^$domain=autobild.de|focus.de|gala.de|stern.de|transfermarkt.de
 ||betrad.com^$domain=googlesyndication.com
 ||bf-ad.net^$domain=focus.de
 ||cas.criteo.com^$domain=autobild.de|gala.de|stern.de|transfermarkt.de
 ||cdn.flashtalking.com^$domain=imasdk.googleapis.com
 ||cloudfront.net/werbemittel/$domain=stern.de
+||connextra.com^$domain=musikexpress.de
 ||criteo.com^$domain=tellows.de
+||elasticad.net^$domain=musikexpress.de
 ||emsmobile.de^$domain=stern.de
 ||emsservice.de^$domain=gala.de|stern.de
-||flashtalking.com^$domain=focus.de|g.doubleclick.net|gala.de|kabeleins.de|ran.de|stern.de
-||g.doubleclick.net^$domain=focus.de|gala.de|imasdk.googleapis.com|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|tellows.de|transfermarkt.de
+||flashtalking.com^$domain=focus.de|g.doubleclick.net|gala.de|kabeleins.de|musikexpress.de|ran.de|stern.de
+||g.doubleclick.net^$domain=focus.de|gala.de|imasdk.googleapis.com|kabeleins.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|tellows.de|transfermarkt.de
 ||gala.de/googleads/$domain=gala.de
 ||gala.de/gujAd/$domain=gala.de
 ||google.com/adsense/search/ads.js$domain=focus.de
@@ -3937,9 +3949,9 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||googlesyndication.com/pagead$domain=g.doubleclick.net
 ||googlesyndication.com/pagead/$domain=g.doubleclick.net|googlesyndication.com|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||googlesyndication.com/sadbundle/$domain=g.doubleclick.net
-||googlesyndication.com/safeframe/$domain=g.doubleclick.net|gala.de|googlesyndication.com|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|tellows.de
+||googlesyndication.com/safeframe/$domain=g.doubleclick.net|gala.de|googlesyndication.com|kabeleins.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|tellows.de
 ||googlesyndication.com/simgad/$domain=g.doubleclick.net
-||googlesyndication.com/sodar/$domain=googlesyndication.com
+||googlesyndication.com/sodar/$domain=googlesyndication.com|musikexpress.de
 ||googlesyndication.com^$domain=focus.de|stern.de
 ||guj.de^*/gujAd.$domain=stern.de
 ||himediads.com^$domain=metal-hammer.de|musikexpress.de
@@ -3948,8 +3960,8 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||justpremium.com^$domain=sixx.de
 ||ktxtr.com^$domain=focus.de
 ||ligadx.com^$domain=gala.de|stern.de
-||moatads.com^$domain=autobild.de|focus.de|transfermarkt.de
-||mookie1.com^$domain=autobild.de|gala.de|stern.de|transfermarkt.de
+||moatads.com^$domain=autobild.de|focus.de|musikexpress.de|transfermarkt.de
+||mookie1.com^$domain=autobild.de|gala.de|musikexpress.de|stern.de|transfermarkt.de
 ||mpnrs.com^$domain=focus.de|gala.de|stern.de|transfermarkt.de
 ||pagead2.googlesyndication.com^$domain=autobild.de|focus.de|gala.de|kabeleins.de|metal-hammer.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|transfermarkt.de
 ||plista.com/pictureads/$domain=autobild.de
@@ -3957,16 +3969,17 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||plista.com^*_FLYAD.js$domain=stern.de
 ||polarmobile.com^$domain=focus.de
 ||pubmatic.com^$domain=stern.de
-||qservz.com^$domain=gala.de
+||qservz.com^$domain=gala.de|musikexpress.de
 ||redintelligence.net^$domain=g.doubleclick.net
 ||revsci.net^$domain=focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 ||rtax.criteo.com^$domain=autobild.de|focus.de|gala.de|stern.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|transfermarkt.de
-||serving-sys.com/BurstingPipe/$domain=stern.de
+||serving-sys.com/BurstingCachedScripts/$domain=musikexpress.de
+||serving-sys.com/BurstingPipe/$domain=musikexpress.de|stern.de
 ||serving-sys.com/BurstingRes/$domain=imasdk.googleapis.com
 ||serving-sys.com/Serving/$domain=imasdk.googleapis.com
 ||serving-sys.com^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
-||smartadserver.com^$domain=autobild.de|stern.de|transfermarkt.de
+||smartadserver.com^$domain=autobild.de|musikexpress.de|stern.de|transfermarkt.de
 ||smartclip.net^$domain=gala.de
 ||smartredirect.de^$domain=focus.de
 ||smartstream.tv^$domain=imasdk.googleapis.com
@@ -3977,10 +3990,12 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||teads.tv^$domain=autobild.de|kabeleins.de|metal-hammer.de|musikexpress.de|prosiebenmaxx.de|ran.de|transfermarkt.de
 ||theadex.com^$domain=kabeleins.de|stern.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
+||turn.com^$domain=musikexpress.de
 ||unrulymedia.com^$domain=focus.de
 ||vod-akamai-psd2-dcp.p7s1digital.de/vod/2.0/progressive/*.mp4$domain=ran.de
+||w55c.net^$domain=musikexpress.de
 ||widget.spoods.io/loader.js$domain=focus.de
-||yieldlab.net^$domain=autobild.de|focus.de|gala.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|transfermarkt.de
+||yieldlab.net^$domain=autobild.de|focus.de|gala.de|kabeleins.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|transfermarkt.de
 ! 
 24e861a$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|fid-gesundheitswissen.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 2efc088$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|fid-gesundheitswissen.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
@@ -8430,4 +8445,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: /Cuqk7J3rGALcl3k+gnEiw
+! Checksum: gU8CWSzfPU6zYdGf7gobWw
