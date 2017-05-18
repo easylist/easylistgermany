@@ -2156,6 +2156,7 @@
 @@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
 @@||connextra.com^$subdocument,domain=musikexpress.de
+@@||dmp.theadex.com^*/adex.js$domain=kabeleins.de
 @@||doubleclick.net/crossdomain.xml$domain=focus.de
 @@||doubleclick.net^$image,domain=stern.de
 @@||emsservice.de/autoNative/project/autoNative.min.js$domain=stern.de
@@ -2234,12 +2235,12 @@ musikexpress.de##iframe[src*="//fom.bildungscentrum.de/"]
 rollingstone.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ||2mdn.net^$domain=imasdk.googleapis.com|musikexpress.de|stern.de
-||360yield.com^$domain=sixx.de
+||360yield.com^$domain=kabeleins.de|prosieben.de|sat1.de|sixx.de
 ||3lift.com^$domain=focus.de
 ||a-ssl.ligatus.com^$domain=gala.de|stern.de
 ||ad-srv.net^$domain=focus.de|musikexpress.de|tellows.de
 ||ad.71i.de^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
-||ad.doubleclick.net^$domain=musikexpress.de
+||ad.doubleclick.net^$domain=musikexpress.de|sixx.de
 ||ad4mat.de^$domain=googlesyndication.com
 ||adform.net^$domain=autobild.de|focus.de|googlesyndication.com|metal-hammer.de|musikexpress.de|prosiebenmaxx.de|ran.de|stern.de
 ||adition.com^$domain=focus.de|g.doubleclick.net|gala.de|kabeleins.de|metal-hammer.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|transfermarkt.de
@@ -2268,10 +2269,11 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||elasticad.net^$domain=metal-hammer.de|musikexpress.de
 ||emsmobile.de^$domain=stern.de
 ||emsservice.de^$domain=gala.de|stern.de
-||flashtalking.com^$domain=focus.de|g.doubleclick.net|gala.de|kabeleins.de|metal-hammer.de|musikexpress.de|ran.de|stern.de
+||flashtalking.com^$domain=focus.de|g.doubleclick.net|gala.de|kabeleins.de|metal-hammer.de|musikexpress.de|ran.de|sixx.de|stern.de
 ||g.doubleclick.net^$domain=focus.de|gala.de|imasdk.googleapis.com|kabeleins.de|metal-hammer.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|tellows.de|transfermarkt.de
 ||gala.de/googleads/$domain=gala.de
 ||gala.de/gujAd/$domain=gala.de
+||glomex.com/vod/$media,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|sat1.de|sixx.de
 ||google.com/adsense/search/ads.js$domain=focus.de
 ||googleadservices.com^$domain=stern.de|tellows.de
 ||googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
@@ -2286,7 +2288,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||himediads.com^$domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||inskinad.com^$domain=focus.de
 ||intellitxt.com^$domain=autobild.de|stern.de
-||justpremium.com^$domain=sixx.de
+||justpremium.com^$domain=kabeleins.de|prosieben.de|sat1.de|sixx.de
 ||ktxtr.com^$domain=focus.de
 ||ligadx.com^$domain=gala.de|stern.de
 ||moatads.com^$domain=autobild.de|focus.de|metal-hammer.de|musikexpress.de|transfermarkt.de
@@ -2316,7 +2318,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||spotxchange.com^$domain=imasdk.googleapis.com|sixx.de
 ||stern.de/gujadstatic/stern/gujAd.$domain=stern.de
 ||stickyadstv.com^$domain=stern.de
-||teads.tv^$domain=autobild.de|kabeleins.de|metal-hammer.de|musikexpress.de|prosiebenmaxx.de|ran.de|rollingstone.de|transfermarkt.de
+||teads.tv^$domain=autobild.de|kabeleins.de|metal-hammer.de|musikexpress.de|prosiebenmaxx.de|ran.de|rollingstone.de|sixx.de|transfermarkt.de
 ||theadex.com^$domain=kabeleins.de|stern.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
 ||turn.com^$domain=metal-hammer.de|musikexpress.de
