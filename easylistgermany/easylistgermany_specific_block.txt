@@ -2465,6 +2465,8 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505.5px; top: 115
 ||sn-online.de/js/sn/$script
 ||waz-online.de/js/wazaz/$script
 !
+@@||tvdigitalepg.images.dvbdata.com/*/*_320x240.jpg|$image,domain=tvdigital.de
+@@||tvdigitalepg.images.dvbdata.com/*/*_478x268.jpg|$image,domain=tvdigital.de
 http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||4players.de/screamshots/$image,domain=4players.de
 ||4players.de/screencshoots/$image,domain=4players.de
