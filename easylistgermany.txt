@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705181634
+! Version: 201705181635
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 May 2017 16:34 UTC
+! Last modified: 18 May 2017 16:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3885,7 +3885,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||prosieben.de^$genericblock,generichide
 @@||prosiebenmaxx.de^$genericblock,generichide
 @@||ran.de^$genericblock,generichide
-@@||revsci.net/gateway/gw.js$domain=focus.de|kabeleins.de
+@@||revsci.net/gateway/gw.js$domain=focus.de|kabeleins.de|stern.de
 @@||rollingstone.de^$genericblock,generichide
 @@||sascdn.com/diff/251/pages/$script,domain=autobild.de|metal-hammer.de
 @@||sascdn.com/diff/251/verify.js$domain=metal-hammer.de
@@ -3921,7 +3921,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||a-ssl.ligatus.com^$domain=gala.de|stern.de
 ||ad-srv.net^$domain=focus.de|musikexpress.de|tellows.de
 ||ad.71i.de^$domain=autobild.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
-||ad.doubleclick.net^$domain=musikexpress.de|sixx.de
+||ad.doubleclick.net^$domain=musikexpress.de|sixx.de|stern.de
 ||ad4mat.de^$domain=googlesyndication.com
 ||adform.net^$domain=autobild.de|focus.de|googlesyndication.com|metal-hammer.de|musikexpress.de|prosiebenmaxx.de|ran.de|stern.de
 ||adition.com^$domain=focus.de|g.doubleclick.net|gala.de|kabeleins.de|metal-hammer.de|musikexpress.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de|transfermarkt.de
@@ -8465,4 +8465,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Pf+NWFwLtyH9wLTWj9GXUw
+! Checksum: OX4QuZgrz7qJGVx3oEpLsw
