@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705191635
+! Version: 201705191638
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 19 May 2017 16:35 UTC
+! Last modified: 19 May 2017 16:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7921,6 +7921,7 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||d3con.de/data1/$image,~third-party
 @@||damoh.chip.de^$script,domain=chip.de
+@@||damoh.giga.de^$script,domain=giga.de
 @@||damoh.golem.de^$script,domain=golem.de
 @@||damoh.schneevonmorgen.com^$object-subrequest,domain=clipfish.de|n-tv.de
 @@||damoh.schneevonmorgen.com^$script,domain=chip.de|erdbeerlounge.de|giga.de|golem.de|kino.de|spieletipps.de
@@ -8200,6 +8201,8 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
 @@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=gofeminin.de
+@@||stroeerdigitalmedia.de/dynback/gpt_call.sjs$domain=giga.de|spieletipps.de
+@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|spieletipps.de
 @@||stroeerdigitalmedia.de/praeludium/praeludium_gofeminin.min.js$domain=gofeminin.de
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
@@ -8468,4 +8471,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: lTaxF4zXLknW9pm2gWzjDw
+! Checksum: y78zs+FYDota3PfjSsnYRw
