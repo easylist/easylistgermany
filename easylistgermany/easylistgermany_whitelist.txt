@@ -130,6 +130,7 @@
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||d3con.de/data1/$image,~third-party
 @@||damoh.chip.de^$script,domain=chip.de
+@@||damoh.giga.de^$script,domain=giga.de
 @@||damoh.golem.de^$script,domain=golem.de
 @@||damoh.schneevonmorgen.com^$object-subrequest,domain=clipfish.de|n-tv.de
 @@||damoh.schneevonmorgen.com^$script,domain=chip.de|erdbeerlounge.de|giga.de|golem.de|kino.de|spieletipps.de
@@ -409,6 +410,8 @@
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
 @@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=gofeminin.de
+@@||stroeerdigitalmedia.de/dynback/gpt_call.sjs$domain=giga.de|spieletipps.de
+@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|spieletipps.de
 @@||stroeerdigitalmedia.de/praeludium/praeludium_gofeminin.min.js$domain=gofeminin.de
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
