@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705181640
+! Version: 201705191635
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 May 2017 16:40 UTC
+! Last modified: 19 May 2017 16:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3836,6 +3836,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||bf-ad.net/packages/polar/fol_queue.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
+@@||bf-ad.net/tests/bfad-testing/$image,domain=focus.de
 @@||connextra.com^$subdocument,domain=musikexpress.de
 @@||dmp.theadex.com^*/adex.js$domain=kabeleins.de
 @@||doubleclick.net/crossdomain.xml$domain=focus.de
@@ -3988,7 +3989,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||sascdn.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
 ||serving-sys.com/BurstingCachedScripts/$domain=musikexpress.de
 ||serving-sys.com/BurstingPipe/$domain=musikexpress.de|stern.de
-||serving-sys.com/BurstingRes/$domain=imasdk.googleapis.com
+||serving-sys.com/BurstingRes/$domain=focus.de|imasdk.googleapis.com
 ||serving-sys.com/Serving/$domain=imasdk.googleapis.com
 ||serving-sys.com^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||smartadserver.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|stern.de|transfermarkt.de
@@ -8467,4 +8468,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ciznYI4/aBPaAh5DRVya7A
+! Checksum: lTaxF4zXLknW9pm2gWzjDw
