@@ -409,10 +409,9 @@
 @@||static.classistatic.de/res/js/shared/advertising/*advertisingHeadPacked.js
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
-@@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=gofeminin.de
-@@||stroeerdigitalmedia.de/dynback/gpt_call.sjs$domain=giga.de|spieletipps.de
-@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|spieletipps.de
-@@||stroeerdigitalmedia.de/praeludium/praeludium_gofeminin.min.js$domain=gofeminin.de
+@@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=giga.de|gofeminin.de|spieletipps.de
+@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|gofeminin.de|spieletipps.de
+@@||stroeermediabrands.de/dmp-tracking-min.js$domain=gamona.de|giga.de|gofeminin.de|spieletipps.de
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||teufel-media.de/www/delivery/avw.php?zoneid=$image,domain=gewinnspiele.freenet.de
