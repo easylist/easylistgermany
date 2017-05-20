@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705191647
+! Version: 201705201111
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 19 May 2017 16:47 UTC
+! Last modified: 20 May 2017 11:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8204,10 +8204,9 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||static.classistatic.de/res/js/shared/advertising/*advertisingHeadPacked.js
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
-@@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=gofeminin.de
-@@||stroeerdigitalmedia.de/dynback/gpt_call.sjs$domain=giga.de|spieletipps.de
-@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|spieletipps.de
-@@||stroeerdigitalmedia.de/praeludium/praeludium_gofeminin.min.js$domain=gofeminin.de
+@@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=giga.de|gofeminin.de|spieletipps.de
+@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|gofeminin.de|spieletipps.de
+@@||stroeermediabrands.de/dmp-tracking-min.js$domain=gamona.de|giga.de|gofeminin.de|spieletipps.de
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||teufel-media.de/www/delivery/avw.php?zoneid=$image,domain=gewinnspiele.freenet.de
@@ -8475,4 +8474,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: TxF1L6QeAhS+R9Jnvf34Rw
+! Checksum: HdNX/S6H5J6/6CL2Gn/iYQ
