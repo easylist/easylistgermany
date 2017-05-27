@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705271615
+! Version: 201705271621
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 May 2017 16:15 UTC
+! Last modified: 27 May 2017 16:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3841,7 +3841,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||bf-ad.net/packages/polar/fol_queue.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/adengine.js$domain=focus.de
 @@||bf-ad.net/pubjs/focus/container.js$domain=focus.de
-@@||bf-ad.net/tests/bfad-testing/$image,domain=focus.de
+@@||bf-ad.net^$image,domain=focus.de
 @@||connextra.com^$subdocument,domain=musikexpress.de
 @@||dmp.theadex.com^*/adex.js$domain=kabeleins.de
 @@||doubleclick.net/crossdomain.xml$domain=focus.de
@@ -3887,8 +3887,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de|metal-hammer.de|musikexpress.de|rollingstone.de
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=focus.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|stern.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
-@@||pix*.revsci.net^*.js?$domain=focus.de
-@@||pix*.revsci.net^*.js?$script,domain=kabeleins.de
+@@||pix*.revsci.net^*.js?$domain=focus.de|kabeleins.de
 @@||probe.yieldlab.net/yp/$script,domain=kabeleins.de|prosiebenmaxx.de|ran.de|sixx.de
 @@||prosieben.de^$genericblock,generichide
 @@||prosiebenmaxx.de^$genericblock,generichide
@@ -8498,4 +8497,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: P1/InGp9/P25rTILVS+FHA
+! Checksum: T1I7oKnUctz/NuZ7klP6hw
