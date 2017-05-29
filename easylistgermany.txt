@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705291634
+! Version: 201705291645
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 29 May 2017 16:34 UTC
+! Last modified: 29 May 2017 16:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -560,7 +560,6 @@ daswetter.com,gofeminin.de#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
 11freunde.de,gofeminin.de#@#div[id^="google_ads_iframe_"]
 11freunde.de,gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
-! Anti-Adblock
 ! ---------------------------Third-party Werbeserver---------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
 ||2mdn.net^$object-subrequest,third-party,domain=anleger-fernsehen.de|blick.ch|clipfish.de|fitforfun.de|focus.de|giga.de|golem.de|helpster.de|myspass.de|netzwelt.de|stol.it|sueddeutsche.de|tvtoday.de
@@ -8294,174 +8293,6 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=kalender-365.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kalender-365.de
 kalender-365.de#@#.adsbygoogle
-! Anti-Adblock
-@@.gif#$domain=java-forum.org|schweizer-abgeltungssteuer.ch|startup-connection.de
-@@.jpg#$domain=brasilienfreunde.net|green-24.de|juristische-suche.de|peugeot-metropolis.de|proverbia-iuris.de|rene-neuweiler.ch|streamit.ws|umweltlupe.de
-@@.png#$domain=aktuelles-handelsrecht.info|aussenwirtschaftslupe.de|blaulichtreport-saarland.de|energielupe.de|europalupe.eu|finanzmarkttransaktionssteuer.de|gerichtsboulevard.de|grundrechteschutz.de|hartzbote.de|jagdlupe.de|kirchensteuerinfo.de|live-stream.tv|mediationslupe.de|medienrechtsnews.de|mutterschutz-rechner.de|rappers.in|rechtsschutzversicherunginfo.de|rentenbote.de|schuetzenrecht.de|sozialrechtsnews.de|steuerschmiede-aktuell.de|teamspeak-ts.com|tobinsteuer.de|ul-load.com|vereinslupe.de|vorsorgebote.de|wirtschaft-recht-aktuell.de
-@@.png?$domain=mobilfunk-geschichte.de
-@@||4players.de^$script,domain=4players.de
-@@||ad.71i.de/global_js/globalV6.js$domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
-@@||ad.71i.de/global_js/Sites/$script,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
-@@||ad.71i.de/images/*Opener$object-subrequest,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
-@@||ad.adnet.de/adj.php?$script,domain=schoener-fernsehen.com
-@@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=homerj.de
-@@||ad4mat.de/ads/js/adtrust-min.php?*&w=468&h=60&$script,domain=mufa.de
-@@||adfarm1.adition.com/banner?sid=3129288$image,domain=mainfranken24.de
-@@||adnet.de/ad2.js$domain=schoener-fernsehen.com
-@@||ads.exoclick.com/ads.js$domain=board.world-of-hentai.to
-@@||ads.flirttown.net/www/delivery/afr.php?zoneid=1&age=*&gender=$subdocument
-@@||adscale.de/adscale-ih/impr?$script,domain=4players.de
-@@||adscale.de/adscale-ih/rtb?iid=$script,domain=4players.de
-@@||adscale.de/adscale-ih/t.js$domain=4players.de
-@@||adscale.de/getads.js$domain=4players.de
-@@||adserv3.deutschland-spion.de/www/delivery/spc.php?$script,domain=mv-spion.de
-@@||adserv3.deutschland-spion.de/www/delivery/spcjs.php?$script,domain=mv-spion.de
-@@||adspaces.ero-advertising.com/adspace/214418.js$domain=berlin-nutten.com
-@@||adternal.com^$image,domain=motorsport-total.com
-@@||ae.amgdgt.com/ads?t=$object-subrequest,domain=dctp.tv|homerj.de
-@@||aktuelles-handelsrecht.info^$elemhide
-@@||alle-news.com^$image,script,domain=news.feed-reader.net
-@@||amazonaws.com^$image,domain=podcast.de
-@@||amazonaws.com^$script,domain=jappy.de
-@@||aussenwirtschaftslupe.de^$elemhide
-@@||banners.webmasterplan.com/view.asp?ref=7564&js=1&site=2941&b=3&target=&title=1%261+DSL$script,domain=mainfranken24.de
-@@||betreut-wohnen.de/adserver/ad.js
-@@||blaulichtreport-saarland.de^$elemhide
-@@||blick.ch^*/advertisement.js
-@@||bluray-disc.de/sites/all/js/fuckadblock.js?
-@@||boardking.de^*/adframe.js
-@@||brasilienfreunde.net^$elemhide
-@@||bullhost.de^$elemhide
-@@||bullhost.de^*#-$image
-@@||buxflow.com/a0/ab.js?id=$domain=raid-rush.ws
-@@||cad.de/adview.js
-@@||cas.criteo.com/delivery/afr.php?zoneid=$subdocument,domain=netzkino.de
-@@||chat.lycos.de/adimages/$subdocument
-@@||cloudfront.net^$script,domain=jappy.de
-@@||combatarms-game.de/adframe.js
-@@||coordur.de^$document,subdocument
-@@||crackajack.de^*/advertising.js
-@@||data-ero-advertising.com/impopup/layer.js$domain=berlin-nutten.com
-@@||david-forum.de/advertisement.css
-@@||ddl-search.biz/js/advertisement.js
-@@||ddl-search.biz/js/advertisements.js
-@@||dokumente-online.com^*/adframe.js
-@@||doubleclick.net/adj/*.4players.de_de/*;sz=120x600,160x600,200x600,300x600;$script,domain=4players.de
-@@||doubleclick.net/adj/*.4players.de_de/*;sz=2x2;$script,domain=4players.de
-@@||doubleclick.net/adj/*.4players.de_de/*;sz=300x250;$script,domain=4players.de
-@@||doubleclick.net/adj/*.4players.de_de/*;sz=301x250;$script,domain=4players.de
-@@||doubleclick.net/adj/*.4players.de_de/*;sz=728x90,728x180,1000x150;$script,domain=4players.de
-@@||doubleclick.net/crossdomain.xml$domain=kabeleins.de|prosieben.de|sat1.de|sixx.de
-@@||doubleclick.net/pfadx/*;sz=0x0;$object-subrequest,domain=sueddeutsche.de
-@@||doubleclick.net/pfadx/iqd_sueddeutsche;sz=$object-subrequest
-@@||doubleclick.net/pfadx/iqdsde/video;sz=$object-subrequest
-@@||doubleclick.net^*/ad/homerj.de.smartclip/*;sz=*;dcmt=*;ord=$object-subrequest,domain=homerj.de
-@@||doubleclick.net^*/pfadx/*;zz=10x1;$object-subrequest,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
-@@||doubleclick.net^*/RP_Sat1/other;dcmt=*;showroom=abp;$domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
-@@||doubleclick.net^*^kw=iqadtile1^$script,domain=faz.net
-@@||eclipso.*/adframe.js
-@@||einrichtungsbeispiele.de^*/click.js
-@@||energielupe.de^$elemhide
-@@||europalupe.eu^$elemhide
-@@||exoclick.com/ads-iframe-display.php?*&type=300x250&$subdocument,domain=board.world-of-hentai.to
-@@||fastshare.org/advertisement.js
-@@||feed-reader.net^$elemhide,image,script
-@@||fem.com^$script,domain=fem.com
-@@||finanzmarkttransaktionssteuer.de^$elemhide
-@@||forum-fuer-senioren.de^*/ad.js
-@@||free-klingeltoene-handy.de/adframe.js
-@@||funkhaus.com/fileadmin/zulieferer/VideoAds/$domain=mainfranken24.de
-@@||g.doubleclick.net/gampad/ads?$script,domain=wetteronline.de
-@@||game-advertising-online.com/images/s-l.gif$domain=anime-loads.org
-@@||game-advertising-online.com/index.php?section=serve&id=$subdocument,domain=anime-loads.org
-@@||gassi-tv.de^*/adframe.js
-@@||gerichtsboulevard.de^$elemhide
-@@||gmads.net/crossdomain.xml$object-subrequest,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
-@@||gmads.net/r?$object-subrequest,domain=kabeleins.at|kabeleins.ch|kabeleins.de|prosieben.at|prosieben.ch|prosieben.de|sat1.ch|sat1.de|sixx.at|sixx.ch|sixx.de|the-voice-of-germany.at|the-voice-of-germany.ch|the-voice-of-germany.de
-@@||goolive.de^*.js|
-@@||green-24.de^$elemhide
-@@||grundrechteschutz.de^$elemhide
-@@||hartzbote.de^$elemhide
-@@||hubbahotel.cc^*/advertisement.js
-@@||img.lokalisten.de/img/giftshop/$image
-@@||img.lokalisten.de/lokiimg/lokalisten/picturefeed/$image
-@@||jagdlupe.de^$elemhide
-@@||jappy.de^$elemhide
-@@||java-forum.org^$elemhide
-@@||juristische-suche.de^$elemhide
-@@||kaufn.com/banner/ads/adserver/click/ad.js
-@@||kirchensteuerinfo.de^$elemhide
-@@||lablue.at^$elemhide,script
-@@||lablue.ch^$elemhide,script
-@@||live-stream.tv^$elemhide
-@@||liverail.com^*^LR_PUBLISHER_ID=*&LR_SCHEMA=vast2-vpaid&$object-subrequest,domain=schoener-fernsehen.com
-@@||magistrix.de/ads/iframe.html?*#content$subdocument
-@@||magistrix.de^*/advertisement-$script
-@@||mannfuermann.com/mfm/static/adcode.js
-@@||mediationslupe.de^$elemhide
-@@||medienrechtsnews.de^$elemhide
-@@||mobilfunk-geschichte.de^$elemhide
-@@||mufa.de/js/advertisement.js
-@@||mutterschutz-rechner.de^$elemhide
-@@||mypolonia.de^*/adframe.js
-@@||myvideo.*/ad.js
-@@||news-reader.info^$image,script,domain=news.feed-reader.net
-@@||news.feed-reader.net/adimages/$subdocument
-@@||nuggad.net/bk?nuggn=$object-subrequest,domain=homerj.de
-@@||nuggad.net/rc?nuggn=$script,domain=4players.de
-@@||onlinetvrecorder.com/adcodes/?$subdocument
-@@||onlinetvrecorder.com/buyclicks/*.php?r=$subdocument
-@@||onlinetvrecorder.com/buyclicks/weasel.php$document
-@@||onlinetvrecorder.com/v2/banner.php$document
-@@||otrworld.at^$script
-@@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=brasilienfreunde.net|bullhost.de|green-24.de|iphone-tricks.de|java-forum.org|jetztspielen.de|lablue.at|lablue.ch|lablue.de|mufa.de|peugeot-metropolis.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|smsgott.de|teamspeak-ts.com|vol.at
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=motorsport-total.com|slideplayer.org
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=iphone-tricks.de|java-forum.org|mufa.de|peugeot-metropolis.de|slideplayer.org|teamspeak-ts.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=brasilienfreunde.net|bullhost.de|green-24.de|java-forum.org|jetztspielen.de|lablue.at|lablue.ch|lablue.de|motorsport-total.com|mufa.de|rappers.in|rene-neuweiler.ch|risiko-gesundheit.de|smsgott.de|vol.at
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=stol.it|wetteronline.de
-@@||peugeot-metropolis.de^$elemhide
-@@||picload.org/ads-1.js
-@@||ping-timeout.de/banner/ads/adserver/click/ad.js
-@@||proverbia-iuris.de^$elemhide
-@@||rappers.in^$elemhide
-@@||rawgit.com^$script,domain=jappy.de
-@@||rechnungswesenforum.de/abp/adblock_detector.js
-@@||rechtsschutzversicherunginfo.de^$elemhide
-@@||rene-neuweiler.ch^$elemhide
-@@||rentenbote.de^$elemhide
-@@||schuetzenrecht.de^$elemhide
-@@||schulzeux.de/js/show_ads.js
-@@||schweizer-abgeltungssteuer.ch^$elemhide
-@@||shoplenaro.com/combiban/$subdocument,domain=schoener-fernsehen.com
-@@||shoplenaro.com/resource/js/call/loadAd_$script,domain=schoener-fernsehen.com
-@@||slimspots.com/adspace/*.js$domain=arschfick-pornos.net|badjojo-porno.com|bruder-schwester-fick.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|pornorio.com|sunporno-german.com|tini-porn.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com
-@@||slimspots.com/view/$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
-@@||slimtrade.com/in.php?s=*&t=*&b=*&c=*&tm=*&r=$script,domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
-@@||slimtrade.com/s*.js$domain=arschfick-pornos.net|badjojo-porno.com|berlin-nutten.com|bruder-schwester-fick.com|deviantclip-porno.com|empflix-porno.net|geile-tube.com|inzest-tube.com|knallerpornos.com|lieblingspornos.com|mehrsprachige-pornos.com|sunporno-german.com|tini-porn.com|vater-fickt-tochter.net|xtube-porno.com|xvideo-deutsch.com|xxnxpornos.net
-@@||smartadserver.com/diff/*/smartad.js$domain=transfermarkt.de|transfermarkt.tv
-@@||sozialrechtsnews.de^$elemhide
-@@||startup-connection.de^$elemhide
-@@||steuerschmiede-aktuell.de^$elemhide
-@@||streamit.ws^$elemhide
-@@||sudoku-space.de^$script
-@@||teamspeak-ts.com^$elemhide
-@@||teleskipp.de/jump/www/delivery/ajs.php?zoneid=$script,domain=mv-spion.de
-@@||tiervermittlung.de/adblock.js
-@@||tiervermittlung.de/advertisement.js
-@@||tobinsteuer.de^$elemhide
-@@||tower-defense-spiele.de/wp-content/themes/Denver/js/ads.js
-@@||ttads.de/www/delivery/banner/ads/click.js
-@@||ttads.de/www/delivery/banner/click.js
-@@||ttads.de/www/delivery/click.js
-@@||ttads.de/www/delivery/spcjs.php?id=1&target=_blank$script
-@@||u-hacks.net/ads.js
-@@||ul-load.com/ads.js
-@@||ul-load.com^$elemhide
-@@||umweltlupe.de^$elemhide
-@@||vereinslupe.de^$elemhide
-@@||vorsorgebote.de^$elemhide
-@@||werbeblocker-erkennen.webconrad.com/adframe.js
-@@||wirtschaft-recht-aktuell.de^$elemhide
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist_dimensions.txt ***
 @@||bueropartner24.de/out/pictures/generated/category/icon/728_90_$image,~third-party
 @@||campact.de^*_300x250.gif
@@ -8504,4 +8335,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: smQJNjOXw9d9E0V9c0lnSw
+! Checksum: 4fbHrHyRDDvLVxfCzViqTg
