@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705301822
+! Version: 201705301910
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 May 2017 18:22 UTC
+! Last modified: 30 May 2017 19:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3931,7 +3931,8 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||amazon-adsystem.com^$domain=autobild.de|focus.de|gala.de|stern.de|transfermarkt.de
 ||betrad.com^$domain=googlesyndication.com|musikexpress.de
 ||bf-ad.net^$domain=focus.de
-||cas.criteo.com^$domain=autobild.de|gala.de|stern.de|transfermarkt.de
+||cas.*.criteo.com^$domain=autobild.de|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
+||cas.criteo.com^$domain=autobild.de|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
 ||cdn.flashtalking.com^$domain=imasdk.googleapis.com
 ||cloudfront.net/werbemittel/$domain=stern.de
 ||connextra.com^$domain=metal-hammer.de|musikexpress.de
@@ -3974,7 +3975,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||qservz.com^$domain=gala.de|metal-hammer.de|musikexpress.de|rollingstone.de
 ||redintelligence.net^$domain=g.doubleclick.net
 ||revsci.net^$domain=focus.de|gala.de|stern.de
-||rtax.criteo.com^$domain=autobild.de|focus.de|gala.de|stern.de|transfermarkt.de
+||rtax.criteo.com^$domain=autobild.de|focus.de|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
 ||secure-ds.serving-sys.com/BurstingRes/$domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||securepubads.g.doubleclick.net^$domain=kabeleins.de
@@ -8317,4 +8318,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: fCGWOXHSRhzLOFe/D2AXFQ
+! Checksum: vJt/WMYuGtaxkjJpc+yZRg
