@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705301648
+! Version: 201705301649
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 May 2017 16:48 UTC
+! Last modified: 30 May 2017 16:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3861,6 +3861,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||himediads.com/js?$domain=rollingstone.de
 @@||himediads.com/js?$script,domain=metal-hammer.de|musikexpress.de
 @@||imagesrv.adition.com/js/srp.js$domain=transfermarkt.de
+@@||kabeleins.de^$genericblock,generichide
 @@||metal-hammer.de^$genericblock,generichide
 @@||moatads.com^*/moatad.js$domain=transfermarkt.de
 @@||mookie1.com/s1/sas/lh1/checkSegments.min.js$domain=metal-hammer.de|musikexpress.de|rollingstone.de|stern.de
@@ -3904,9 +3905,10 @@ rollingstone.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/re
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ||2mdn.net^$domain=imasdk.googleapis.com|musikexpress.de|rollingstone.de|serving-sys.com|stern.de
 ||3lift.com^$domain=focus.de
+||7tv.de/xfiles/*/simad.min.js$domain=kabeleins.de
 ||a-ssl.ligatus.com^$domain=gala.de|stern.de
 ||ad-srv.net^$domain=focus.de|musikexpress.de|tellows.de
-||ad.71i.de^$domain=autobild.de
+||ad.71i.de^$domain=autobild.de|kabeleins.de
 ||ad.doubleclick.net^$domain=musikexpress.de|stern.de
 ||ad4mat.de^$domain=googlesyndication.com
 ||adform.net^$domain=autobild.de|focus.de|googlesyndication.com|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de
@@ -3939,6 +3941,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||g.doubleclick.net^$domain=focus.de|gala.de|imasdk.googleapis.com|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|tellows.de|transfermarkt.de
 ||gala.de/googleads/$domain=gala.de
 ||gala.de/gujAd/$domain=gala.de
+||google.com/adsense/$domain=kabeleins.de
 ||google.com/adsense/search/ads.js$domain=focus.de
 ||googleadservices.com^$domain=stern.de|tellows.de
 ||googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
@@ -3960,7 +3963,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||moatads.com^$domain=autobild.de|focus.de|metal-hammer.de|musikexpress.de|transfermarkt.de
 ||mookie1.com^$domain=autobild.de|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
 ||mpnrs.com^$domain=focus.de|gala.de|stern.de|transfermarkt.de
-||pagead2.googlesyndication.com^$domain=autobild.de|focus.de|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
+||pagead2.googlesyndication.com^$domain=autobild.de|focus.de|gala.de|kabeleins.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
 ||plista.com/pictureads/$domain=autobild.de
 ||plista.com^*/flyads/$domain=stern.de
 ||plista.com^*_FLYAD.js$domain=stern.de
@@ -3972,6 +3975,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||rtax.criteo.com^$domain=autobild.de|focus.de|gala.de|stern.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
 ||secure-ds.serving-sys.com/BurstingRes/$domain=metal-hammer.de|musikexpress.de|rollingstone.de
+||securepubads.g.doubleclick.net^$domain=kabeleins.de
 ||serving-sys.com/BurstingCachedScripts/$domain=metal-hammer.de|musikexpress.de|rollingstone.de|serving-sys.com
 ||serving-sys.com/BurstingPipe/$domain=metal-hammer.de|musikexpress.de|rollingstone.de|stern.de
 ||serving-sys.com/BurstingRes/$domain=focus.de|imasdk.googleapis.com|rollingstone.de|serving-sys.com
@@ -3985,7 +3989,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||stern.de/gujadstatic/stern/gujAd.$domain=stern.de
 ||stickyadstv.com^$domain=stern.de
 ||teads.tv^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
-||theadex.com^$domain=stern.de
+||theadex.com^$domain=kabeleins.de|stern.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
 ||turn.com^$domain=metal-hammer.de|musikexpress.de
 ||unrulymedia.com^$domain=focus.de
@@ -8311,4 +8315,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Aqx1ez4K9FGEDBzqJxY9Iw
+! Checksum: gLcfu+xvxyX0BJVKJKH4MA
