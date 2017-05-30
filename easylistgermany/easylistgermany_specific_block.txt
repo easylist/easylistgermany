@@ -2198,6 +2198,9 @@
 @@||sascdn.com/diff/js/smart.js$domain=metal-hammer.de|musikexpress.de
 @@||sascdn.com^$domain=rollingstone.de
 @@||sascdn.com^$script,domain=musikexpress.de
+@@||serving-sys.com/BurstingCachedScripts/*/ebHtml5Banner.js$domain=metal-hammer.de|musikexpress.de|rollingstone.de
+@@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=metal-hammer.de|musikexpress.de|rollingstone.de
+@@||serving-sys.com/BurstingRes/$subdocument,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||smartadserver.com/ac?nwid=$script,domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
 @@||smartadserver.com/config.js?nwid=$domain=rollingstone.de
 @@||smartadserver.com/config.js?nwid=$script,domain=metal-hammer.de|musikexpress.de
@@ -2220,7 +2223,7 @@ musikexpress.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/re
 musikexpress.de##iframe[src*="//fom.bildungscentrum.de/"]
 rollingstone.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
-||2mdn.net^$domain=imasdk.googleapis.com|musikexpress.de|rollingstone.de|stern.de
+||2mdn.net^$domain=imasdk.googleapis.com|musikexpress.de|rollingstone.de|serving-sys.com|stern.de
 ||3lift.com^$domain=focus.de
 ||a-ssl.ligatus.com^$domain=gala.de|stern.de
 ||ad-srv.net^$domain=focus.de|musikexpress.de|tellows.de
@@ -2289,9 +2292,11 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||revsci.net^$domain=focus.de|gala.de|stern.de
 ||rtax.criteo.com^$domain=autobild.de|focus.de|gala.de|stern.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
-||serving-sys.com/BurstingCachedScripts/$domain=musikexpress.de
-||serving-sys.com/BurstingPipe/$domain=musikexpress.de|rollingstone.de|stern.de
-||serving-sys.com/BurstingRes/$domain=focus.de|imasdk.googleapis.com|rollingstone.de
+||secure-ds.serving-sys.com/BurstingRes/$domain=metal-hammer.de|musikexpress.de|rollingstone.de
+||serving-sys.com/BurstingCachedScripts/$domain=metal-hammer.de|musikexpress.de|rollingstone.de|serving-sys.com
+||serving-sys.com/BurstingPipe/$domain=metal-hammer.de|musikexpress.de|rollingstone.de|stern.de
+||serving-sys.com/BurstingRes/$domain=focus.de|imasdk.googleapis.com|rollingstone.de|serving-sys.com
+||serving-sys.com/BurstingScript/$domain=serving-sys.com
 ||serving-sys.com/Serving/$domain=imasdk.googleapis.com
 ||smartadserver.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
 ||smartclip.net^$domain=gala.de
