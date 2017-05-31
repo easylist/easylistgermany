@@ -2217,6 +2217,7 @@
 @@||smartadserver.com/diff/251/verify.js$domain=transfermarkt.de
 @@||stern.de/gujadstatic/stern/gujAd.js$domain=stern.de
 @@||tellows.de^$genericblock,generichide
+@@||theadex.com^*/adex.js$domain=kabeleins.de
 @@||transfermarkt.de^$genericblock,generichide
 @@||www.stern.de^$genericblock,generichide
 _video_ads/$domain=imasdk.googleapis.com
