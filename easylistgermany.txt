@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201705311746
+! Version: 201705311747
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 31 May 2017 17:46 UTC
+! Last modified: 31 May 2017 17:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3821,6 +3821,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||adform.net/banners/scripts/extensions/gateway.js?$domain=musikexpress.de|rollingstone.de
 @@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=musikexpress.de|rollingstone.de
 @@||adnxs.com/ast/ast.js$domain=metal-hammer.de|musikexpress.de|rollingstone.de
+@@||adnxs.com/jpt?id=$script,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||adnxs.com/ut/$xmlhttprequest,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de|stern.de
 @@||autobild.de^$genericblock,generichide
@@ -3887,6 +3888,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||smartadserver.com/ac?nwid=$script,domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
 @@||smartadserver.com/config.js?nwid=$domain=rollingstone.de
 @@||smartadserver.com/config.js?nwid=$script,domain=metal-hammer.de|musikexpress.de
+@@||smartadserver.com/diff/251/$script,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||smartadserver.com/diff/251/divscripte/$subdocument,domain=transfermarkt.de
 @@||smartadserver.com/diff/251/partners/amazon.js$domain=autobild.de|transfermarkt.de
 @@||smartadserver.com/diff/251/templates/$script,domain=metal-hammer.de|musikexpress.de
@@ -3916,8 +3918,10 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||ad4mat.de^$domain=googlesyndication.com
 ||adform.net^$domain=autobild.de|focus.de|googlesyndication.com|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de
 ||adition.com^$domain=focus.de|g.doubleclick.net|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
+||adition.com^$popup,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||adnet.de^$domain=tellows.de
 ||adnxs.com^$domain=autobild.de|focus.de|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|widgets.outbrain.com
+||adnxs.com^$popup,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||adrolays.de^$domain=autobild.de|metal-hammer.de|transfermarkt.de
 ||adsafeprotected.com^$domain=imasdk.googleapis.com|musikexpress.de|rollingstone.de
 ||adscale.de^$domain=tellows.de
@@ -8292,4 +8296,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: O0yXoSOl24wTHLPdVYGk6g
+! Checksum: 6iKeRP4+rhwN2XiEjvVJxQ
