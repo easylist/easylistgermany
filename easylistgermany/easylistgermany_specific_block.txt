@@ -2195,6 +2195,7 @@
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=focus.de|stern.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
 @@||pix*.revsci.net^*.js?$domain=focus.de
+@@||ran.de^$generichide
 @@||revsci.net/gateway/gw.js$domain=focus.de|stern.de
 @@||rollingstone.de^$genericblock,generichide
 @@||rtax.criteo.com/delivery/rta/rta.js?$domain=stern.de
