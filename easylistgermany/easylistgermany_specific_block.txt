@@ -2205,6 +2205,7 @@
 @@||sascdn.com^$domain=rollingstone.de
 @@||sascdn.com^$script,domain=musikexpress.de
 @@||serving-sys.com/BurstingCachedScripts/*/ebHtml5Banner.js$domain=metal-hammer.de|musikexpress.de|rollingstone.de
+@@||serving-sys.com/BurstingCachedScripts/*/ebHtml5PoliteBanner.js$domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||serving-sys.com/BurstingPipe/adServer.bs?$script,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||serving-sys.com/BurstingRes/$subdocument,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||smartadserver.com/ac?nwid=$script,domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
@@ -2226,7 +2227,6 @@ autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"
 connextra.com##iframe[src^="https://ssl.connextra.com"]
 g.doubleclick.net###adunit
 metal-hammer.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
-metal-hammer.de##div[id^="hmAdWrapper_"]
 musikexpress.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 musikexpress.de##iframe[src*="//fom.bildungscentrum.de/"]
 rollingstone.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
