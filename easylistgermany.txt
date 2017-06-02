@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201706011630
+! Version: 201706021628
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 01 Jun 2017 16:30 UTC
+! Last modified: 02 Jun 2017 16:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -71,6 +71,7 @@
 /imgwerbung/*
 /includes/werbung/*
 /layer_werbg.
+/layout_img/werbung/*
 /media/werbung/*
 /medien/werbung/*
 /mod/werbung/*
@@ -3899,6 +3900,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||smartadserver.com/diff/251/verify.js$domain=transfermarkt.de
 @@||stern.de/gujadstatic/stern/gujAd.js$domain=stern.de
 @@||tellows.de^$genericblock,generichide
+@@||theadex.com/d/$image,script,domain=kabeleins.de
 @@||theadex.com^*/adex.js$domain=kabeleins.de
 @@||transfermarkt.de^$genericblock,generichide
 @@||www.stern.de^$genericblock,generichide
@@ -8081,7 +8083,6 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|schwaebische.de|sky.de|studis-online.de|vox.de
 @@||nutte.ch/banner_fuer_werbung/nutte_$image,domain=ameliatantra.jimdo.com
 @@||oeko-komp.de/evoAds2/
-@@||onvista.de^$elemhide
 @@||openx.musotalk.de/crossdomain.xml
 @@||openx.musotalk.de/www/delivery/fc.php?script=bannertypehtml:vastinlinebannertypehtml:vastinlinehtml&$object-subrequest
 @@||os1.tv/js/omsvc_externalad.js
@@ -8299,4 +8300,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 4urDO+qTo6I3p612Rxan5w
+! Checksum: f0HlGGsaAQDkrPKjjWz5XQ
