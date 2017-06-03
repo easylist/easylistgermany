@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201706031014
+! Version: 201706031034
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Jun 2017 10:14 UTC
+! Last modified: 03 Jun 2017 10:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6029,6 +6029,7 @@ ichspiele.cc##.leader
 airgamer.de,auto-motor-und-sport.de,billig-flieger-vergleich.de,buffed.de,de.de,gamesaktuell.de,gamestar.de,gamezone.de,meteovista.de,pcgames.de,pcgameshardware.de,spielefilmetechnik.de,spielen.de,technic3d.com,trailerzone.info,videogameszone.de##.leaderboard
 istream.ws##.leaderboard2
 lkz.de##.left > .content[style="min-height:100px"]
+narutoloads.org##.left-hand-global
 au-ja.de##.leftADB
 au-ja.de##.leftADV
 taketv.net##.leftbanner
@@ -6228,6 +6229,7 @@ gronkh.de##.revbox
 notebookcheck.com##.reviewlisttable[width="100%"][border="0"][style="background-color:#EEEEEE;"]
 stefan-niggemeier.de##.right-content > .external-content + .region-info
 stefan-niggemeier.de##.right-content > .external-content + .region-info + a > img
+narutoloads.org##.right-hand-global
 heute.at##.rightBanner
 notebookinfo.de##.rightColumn > .block-teaser-carousel
 tarifcheck24.com##.right_anzeige
@@ -8301,4 +8303,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: BgHiUcY/4wW3XOWU5K/LdA
+! Checksum: WkGx8EVm8BKFNjE451FiiA
