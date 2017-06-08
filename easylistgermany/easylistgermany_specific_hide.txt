@@ -3347,6 +3347,12 @@ rp-online.de##[style="margin-left: 106.1px;"]
 rp-online.de##[style="margin-left: 142.1px;"]
 rp-online.de##[style="margin-left: 142.2px;"]
 frag-mutti.de##[style="width: 300px; right: -140px;"]
+heise.de##div.bcadv
+heise.de##div.bcadv.ISI_IGNORE.bcadv_oben
+heise.de##div.teaser_adliste
+heise.de##div.teaser_deal_des_tages
+heise.de##div.teaser_hbs
+heise.de##div.teaser_hbs clearfix
 e-hausaufgaben.de##div[style="background-color: rgb(221, 221, 221);"]
 gevestor.de##div[style="position: relative; width: 1020px; margin: 0px auto;"]
 iban-rechner.de##div[style="text-align:center; margin-left:auto; margin-right:auto"]
@@ -3364,3 +3370,7 @@ epochtimes.de##img[style="margin: 0px auto;"]
 donnerwetter.de##img[style="width: 160px; max-width: 160px;"]
 autozeitung.de##img[style="width: 300px; height: 600px; max-width: 300.1px; max-height: 600px; margin-left: 0px;"]
 tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
+heise.de##p.us_ad
+heise.de##section#jobware-teaser
+heise.de##section.teaser_preisvergleich_top10
+heise.de##section.themenseite_preisvergleich.meldung__box--right
