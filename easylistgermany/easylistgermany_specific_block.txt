@@ -2142,6 +2142,7 @@
 @@||adform.net/banners/scripts/extensions/gateway.hook.js?$domain=musikexpress.de|rollingstone.de
 @@||adform.net/banners/scripts/extensions/gateway.js?$domain=musikexpress.de|rollingstone.de
 @@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=musikexpress.de|rollingstone.de
+@@||adform.net/stoat/*/s1.adform.net/load/$script,domain=musikexpress.de
 @@||adnxs.com/ast/ast.js$domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||adnxs.com/jpt?id=$script,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||adnxs.com/ut/$xmlhttprequest,domain=metal-hammer.de|musikexpress.de|rollingstone.de
