@@ -2143,6 +2143,10 @@
 @@||adform.net/banners/scripts/extensions/gateway.js?$domain=musikexpress.de|rollingstone.de
 @@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=musikexpress.de|rollingstone.de
 @@||adform.net/stoat/*/s1.adform.net/load/$script,domain=musikexpress.de
+@@||adition.com/banner?sid=$subdocument,domain=rollingstone.de
+@@||adition.com/js/acb/uid.html$subdocument,domain=rollingstone.de
+@@||adition.com/js/adition.js$domain=rollingstone.de
+@@||adition.com/js?wp_id=$script,domain=rollingstone.de
 @@||adnxs.com/ast/ast.js$domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||adnxs.com/jpt?id=$script,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 @@||adnxs.com/ut/$xmlhttprequest,domain=metal-hammer.de|musikexpress.de|rollingstone.de
@@ -2236,6 +2240,8 @@ musikexpress.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/re
 musikexpress.de##iframe[src*="//fom.bildungscentrum.de/"]
 rollingstone.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
+|http:$domain=adfarm1.adition.com
+|https:$domain=adfarm1.adition.com
 ||2mdn.net^$domain=imasdk.googleapis.com|musikexpress.de|rollingstone.de|serving-sys.com|stern.de
 ||3lift.com^$domain=focus.de
 ||7tv.de/xfiles/*/simad.min.js$domain=kabeleins.de|ran.de
