@@ -2138,6 +2138,7 @@
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
 @@/ad-tandem.$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|brieffreunde.de|clever-tanken.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|fid-gesundheitswissen.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 @@||7tv.de/xfiles/*/simad.min.js$domain=kabeleins.de
+@@||7tv.de/xfiles/*simad.min.js?$domain=ran.de
 @@||adform.net/adfscript/?bn=$script,domain=musikexpress.de|rollingstone.de
 @@||adform.net/adfserve/?bn=$script,domain=musikexpress.de|rollingstone.de
 @@||adform.net/banners/scripts/extensions/gateway.hook.js?$domain=musikexpress.de|rollingstone.de
@@ -2248,7 +2249,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||7tv.de/xfiles/*/simad.min.js$domain=kabeleins.de|ran.de
 ||a-ssl.ligatus.com^$domain=gala.de|stern.de
 ||ad-srv.net^$domain=focus.de|musikexpress.de|tellows.de
-||ad.71i.de^$domain=autobild.de|kabeleins.de
+||ad.71i.de^$domain=autobild.de|kabeleins.de|ran.de
 ||ad.doubleclick.net^$domain=musikexpress.de|stern.de
 ||ad4mat.de^$domain=googlesyndication.com
 ||adform.net^$domain=autobild.de|focus.de|googlesyndication.com|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de
@@ -2315,7 +2316,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||pubmatic.com^$domain=stern.de
 ||qservz.com^$domain=gala.de|metal-hammer.de|musikexpress.de|rollingstone.de
 ||redintelligence.net^$domain=g.doubleclick.net
-||revsci.net^$domain=focus.de|gala.de|stern.de
+||revsci.net^$domain=focus.de|gala.de|ran.de|stern.de
 ||rtax.criteo.com^$domain=autobild.de|focus.de|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
 ||sascdn.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
 ||secure-ds.serving-sys.com/BurstingRes/$domain=metal-hammer.de|musikexpress.de|rollingstone.de
@@ -2339,7 +2340,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||unrulymedia.com^$domain=focus.de
 ||w55c.net^$domain=musikexpress.de
 ||widget.spoods.io/loader.js$domain=focus.de
-||yieldlab.net^$domain=autobild.de|focus.de|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
+||yieldlab.net^$domain=autobild.de|focus.de|gala.de|metal-hammer.de|musikexpress.de|ran.de|rollingstone.de|stern.de|transfermarkt.de
 !
 011729c$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|fid-gesundheitswissen.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 0d73130$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|fid-gesundheitswissen.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
