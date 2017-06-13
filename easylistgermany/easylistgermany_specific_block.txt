@@ -2204,9 +2204,10 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=focus.de|metal-hammer.de|musikexpress.de|rollingstone.de
 @@||pagead2.googlesyndication.com/pagead/osd.js$domain=focus.de|stern.de
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
-@@||pix*.revsci.net^*.js?$domain=focus.de
+@@||pix*.revsci.net^*.js?$domain=focus.de|stern.de
 @@||ran.de^$genericblock,generichide
 @@||revsci.net/gateway/gw.js$domain=focus.de|stern.de
+@@||revsci.net/pql?placementIdList=$script,domain=stern.de
 @@||rollingstone.de^$genericblock,generichide
 @@||rtax.criteo.com/delivery/rta/rta.js?$domain=stern.de
 @@||sascdn.com/diff/251/pages/$script,domain=autobild.de|metal-hammer.de
