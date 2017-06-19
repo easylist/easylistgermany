@@ -2251,7 +2251,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||a-ssl.ligatus.com^$domain=gala.de|stern.de
 ||ad-srv.net^$domain=focus.de|musikexpress.de|tellows.de
 ||ad.71i.de^$domain=autobild.de|kabeleins.de|ran.de
-||ad.doubleclick.net^$domain=musikexpress.de|stern.de
+||ad.doubleclick.net^$domain=metal-hammer.de|musikexpress.de|rollingstone.de|stern.de
 ||ad4mat.de^$domain=googlesyndication.com
 ||adform.net^$domain=autobild.de|focus.de|googlesyndication.com|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de
 ||adition.com^$domain=focus.de|g.doubleclick.net|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
@@ -2334,7 +2334,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||stern.de/gujadstatic/stern/gujAd.$domain=stern.de
 ||stickyadstv.com^$domain=stern.de
 ||teads.tv^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
-||theadex.com^$domain=kabeleins.de|ran.de|stern.de
+||theadex.com^$domain=kabeleins.de|metal-hammer.de|ran.de|stern.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de
 ||turn.com^$domain=metal-hammer.de|musikexpress.de
 ||unrulymedia.com^$domain=focus.de
@@ -2480,6 +2480,7 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505.5px; top: 115
 ||juraforum.de/tsmi.php$script
 ||liga3-online.de/Bilder/Sportwetten24Banner.gif
 ||news.de/pics/$domain=news.de
+||news.de/pix/$domain=news.de
 ||psychic.de/images/D/$image
 ||tvinfo.de/img/dmax/DMAX_*.jpg
 !
