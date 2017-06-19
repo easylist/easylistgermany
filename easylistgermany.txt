@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201706191756
+! Version: 201706191757
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 19 Jun 2017 17:56 UTC
+! Last modified: 19 Jun 2017 17:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3819,6 +3819,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||7tv.de/xfiles/*/simad.min.js$domain=kabeleins.de
 @@||7tv.de/xfiles/*simad.min.js?$domain=ran.de
 @@||ad.71i.de/global_js/Sites/$script,domain=kabeleins.de
+@@||ad.yieldlab.net^$script,domain=stern.de
 @@||adform.net/adfscript/?bn=$script,domain=musikexpress.de|rollingstone.de
 @@||adform.net/adfserve/?bn=$script,domain=musikexpress.de|rollingstone.de
 @@||adform.net/banners/scripts/extensions/gateway.hook.js?$domain=musikexpress.de|rollingstone.de
@@ -4120,6 +4121,7 @@ kicker.de##[style="position: absolute; max-width: 160px;"]
 kicker.de##[style="position: absolute; max-width: 300px;"]
 liga3-online.de###skyscraperstart
 liga3-online.de##.widget.widget_text
+modhoster.de##.mobile.hidden.tablet.hidden
 moviejones.de##[style="position: fixed; margin-left: 1040px; top: 50px;"]
 netzwelt.de###leaderboard-wrapper
 netzwelt.de###skyscraper-wrapper
@@ -8319,4 +8321,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: pPFCCLuhkvX3iDIGtzS3Fg
+! Checksum: unPneKFeRUssFwh/TvSplg
