@@ -2139,6 +2139,7 @@
 @@||7tv.de/xfiles/*/simad.min.js$domain=kabeleins.de
 @@||7tv.de/xfiles/*simad.min.js?$domain=ran.de
 @@||ad.71i.de/global_js/Sites/$script,domain=kabeleins.de
+@@||ad.yieldlab.net^$script,domain=stern.de
 @@||adform.net/adfscript/?bn=$script,domain=musikexpress.de|rollingstone.de
 @@||adform.net/adfserve/?bn=$script,domain=musikexpress.de|rollingstone.de
 @@||adform.net/banners/scripts/extensions/gateway.hook.js?$domain=musikexpress.de|rollingstone.de
@@ -2440,6 +2441,7 @@ kicker.de##[style="position: absolute; max-width: 160px;"]
 kicker.de##[style="position: absolute; max-width: 300px;"]
 liga3-online.de###skyscraperstart
 liga3-online.de##.widget.widget_text
+modhoster.de##.mobile.hidden.tablet.hidden
 moviejones.de##[style="position: fixed; margin-left: 1040px; top: 50px;"]
 netzwelt.de###leaderboard-wrapper
 netzwelt.de###skyscraper-wrapper
