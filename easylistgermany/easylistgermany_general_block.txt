@@ -96,7 +96,7 @@
 /werbetrenner_
 /werbezonen/*
 /werbung.$third-party
-/werbung.$~image,~stylesheet
+/werbung.$~image,~stylesheet,domain=~berlin-airport.de
 /werbung.gif
 /werbung/*$third-party
 /Werbung/*_banner_
