@@ -2138,7 +2138,7 @@
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
 @@||7tv.de/xfiles/*/simad.min.js$domain=kabeleins.de
 @@||7tv.de/xfiles/*simad.min.js?$domain=ran.de
-@@||ad.71i.de/global_js/Sites/$script,domain=kabeleins.de
+@@||ad.71i.de/global_js/Sites/$script,domain=kabeleins.de|ran.de
 @@||ad.yieldlab.net^$script,domain=stern.de
 @@||adform.net/adfscript/?bn=$script,domain=musikexpress.de|rollingstone.de
 @@||adform.net/adfserve/?bn=$script,domain=musikexpress.de|rollingstone.de
