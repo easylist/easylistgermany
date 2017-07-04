@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201707041323
+! Version: 201707041336
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 04 Jul 2017 13:23 UTC
+! Last modified: 04 Jul 2017 13:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3470,7 +3470,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||suedpfalz-verlag.de/uploads/pics/DK-Grafik.png
 ||suedpfalz-verlag.de/uploads/pics/logo_fmf-real_suedpfalz_verlag_klein_01.jpg
 ||suedtirol-it.com/images/banner/
-||suedtiroltv.it/images/social/banner
+||suedtiroltv.it^*/banner
 ||sunshine.ch/files/banner
 ||sunshine.it/banner/
 ||superfly.fm/images/banners/
@@ -5548,7 +5548,7 @@ derwesten.de,falstaff.at,falstaff.de,gevestor.de,sueddeutsche.de,wetter.com##.ad
 dasoertliche.de##.adcontainer
 paradisi.de,psychic.de##.adcontent
 paradisi.de##.adcontenttext
-derhandel.de##.add
+derhandel.de,suedtiroltv.it##.add
 pressebox.de##.add-left
 tabtech.de##.add-panel
 pressebox.de##.add-right
@@ -8328,4 +8328,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: YtSTrM6Ciz2UPFdX2WQgig
+! Checksum: yW++f3hMnMCkeKs8hCPIJw
