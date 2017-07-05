@@ -13,8 +13,7 @@
 @@||ad-tuning.de^*/ad-tuning-footer.png
 @@||ad.71i.de/global_js/globalV6.js$domain=7tv.de
 @@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|bundesliga.de|myvideo.de|n24.de|netzwelt.de|sport1.fm
-@@||ad.71i.de/global_js/Sites/$script,domain=7tv.de|n24.de|netzwelt.de|sport1.fm
-@@||ad.71i.de/images/fallback/video/1_sek.mp4$domain=netzwelt.de
+@@||ad.71i.de/global_js/Sites/$script,domain=7tv.de|n24.de|sport1.fm
 @@||ad.adworx.at/crossdomain.xml$object-subrequest
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=erdbeerlounge.de|gamona.de|giga.de|kino.de|spielaffe.de|spieletipps.de
@@ -42,7 +41,6 @@
 @@||admeld.com/ad/js/*/game-page?$script,domain=jetztspielen.de|spielen.com
 @@||admeld.com/meld128.js$domain=jetztspielen.de|spielen.com
 @@||admin.brightcove.com/viewer/*/advertisingmodule.swf$domain=dmax.de|morgenpost.de
-@@||adnxs.com/prebid/static/*/prebid.js$domain=netzwelt.de
 @@||adonline.anonza.de^$~document,~third-party
 @@||adpartner.de^$~third-party
 @@||ads.autoscout24.com/adserver/*&elementid=ctl00_ctl00_decoratedarea_contentarea_fsbox0&$script,domain=autoscout24.de
