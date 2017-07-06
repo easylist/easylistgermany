@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201707061614
+! Version: 201707061615
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 06 Jul 2017 16:14 UTC
+! Last modified: 06 Jul 2017 16:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2243,9 +2243,6 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||faz.net/f6/ad/
 ||fbsmiley.de/tipp/moodrush.gif
 ||fc-koeln.de/fileadmin/img/banner/
-||fcbayern.telekom.de/media/native/misc/banner/
-||fcbayern.telekom.de^*/385x66.swf
-||fcbayern.telekom.de^*_385x66.swf
 ||fck.de/fileadmin/default/templates/gfx/banner/
 ||fcschweinfurt1905.de/wp-content/uploads/*_Skyscraper_
 ||fcz.ch/_img/banner/
@@ -4075,6 +4072,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 @@||iban-rechner.de/min.gif$image,domain=iban-rechner.de
 @@||iban-rechner.de/neu.gif$image,domain=iban-rechner.de
 a79c23d$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|fid-gesundheitswissen.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
+a80007a$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|boersennews.de|brieffreunde.de|clever-tanken.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|fid-gesundheitswissen.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kicker.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|modhoster.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|quoka.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 a9f0aba$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|fid-gesundheitswissen.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 a9f0aba63$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|brieffreunde.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|fid-gesundheitswissen.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 aachener-nachrichten.de##[style="position: absolute; left: 960px;"]
@@ -4458,7 +4456,6 @@ onmeda.de###BANNER_AUSSEN
 biomagazin.de,clubtime.fm,coretime.fm,hardbase.fm,housetime.fm,technobase.fm,trancebase.fm###Banner
 triathlon-szene.de,x-athlon.de###BannerOben
 triathlon-szene.de,x-athlon.de###BannerRechts
-fcbayern.telekom.de###BannerSkyscraper
 mazda-forum.info###BelowRectangle
 cinemotion-kino.de###COMMERCIAL_HEAD
 quoka.de###ColumnOuterRight > .yui3-u-1 > .box:first-child + .box > .ly-1:first-child:last-child
@@ -5504,7 +5501,6 @@ news.preisgenau.de##.Post5
 aol.de##.RHRSLL
 fremdwort.de##.RahmenRundrum[width="560"] > tbody > tr > td[colspan="2"]:first-child:last-child > table[border="0"]:first-child:last-child
 aol.de##.SLL
-fcbayern.telekom.de##.SectionPresenting
 charivari.de##.Skyscraper_Slot
 buerschgens.de##.SponsorFuss
 t-online.de##.TFlashPlayer[style="height:200px; width:300px;"]
@@ -8333,4 +8329,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Ne7Mc8WRVM7W3szYDrrjaw
+! Checksum: IEOPyEaaDzQ0IOUR0zlVUA
