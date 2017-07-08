@@ -2571,15 +2571,11 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||chefkoch.de/ck.de/cms-upnutads/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uproads/$image,domain=chefkoch.de
 ||chefkoch.de/ck.de/cms-uptoads/$image,domain=chefkoch.de
-||classic.comunio.de/i/2/screenshots/bundaliga/*/screenshot_$image,domain=classic.comunio.de
-||classic.comunio.de/i/2/screenshots/bundeliga/*/screenshot_$image,domain=classic.comunio.de
-||classic.comunio.de/i/2/screenshots/bunderliga/*/screenshot_$image,domain=classic.comunio.de
-||classic.comunio.de/i/2/screenshots/bundesliga/*/screenshot_$image,domain=classic.comunio.de
-||classic.comunio.de/i/2/screenshots/bundeslija/*/screenshot_$image,domain=classic.comunio.de
-||classic.comunio.de/i/2/screenshots/bundesllja/*/screenshot_$image,domain=classic.comunio.de
-||classic.comunio.de/i/2/screenshots/bundestliga/*/screenshot_$image,domain=classic.comunio.de
-||classic.comunio.de/i/2/screenshots/bundezliga/*/screenshot_$image,domain=classic.comunio.de
-||classic.comunio.de/i/2/screenshots/bundlliga/*/screenshot_$image,domain=classic.comunio.de
+||classic.comunio.de/i/2/screenshots///screenshot_*$image,domain=classic.comunio.de
+comunio.de##div[ng-class="getReklameContainerClass()"]
+comunio.de##div[class="main_container bg_main_green"]>div>img
+comunio.de##div#main-layout>div.home_container.with_home_bg_image>div>div>img
+comunio.de##div.main_container>div>img
 ||connect.de/4c545151c66f6890/d2678a34c1c1e6fc.js
 ||gamesaktuell.de/screenshots/*/*/*/*/*-*.$image,domain=gamesaktuell.de
 ||gamesaktuell.de/screenshots/*/*/*/*/*_*.$image,domain=gamesaktuell.de
