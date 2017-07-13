@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201707130650
+! Version: 201707131629
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Jul 2017 06:50 UTC
+! Last modified: 13 Jul 2017 16:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -113,7 +113,7 @@
 /werbetrenner_
 /werbezonen/*
 /werbung.$third-party
-/werbung.$~image,~stylesheet,domain=~berlin-airport.de
+/werbung.$~image,~stylesheet,domain=~berlin-airport.de|~qs-optiker.de
 /werbung.gif
 /werbung/*$third-party
 /Werbung/*_banner_
@@ -8332,4 +8332,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: VyCtp1lCLCSZ4Ho6bdzf8Q
+! Checksum: P6XZtH2ORGreHrzgkSBuDg
