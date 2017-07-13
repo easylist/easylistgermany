@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201707130648
+! Version: 201707130650
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Jul 2017 06:48 UTC
+! Last modified: 13 Jul 2017 06:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3939,7 +3939,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||adnxs.com^$domain=autobild.de|focus.de|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|widgets.outbrain.com
 ||adnxs.com^$popup,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||adrolays.de^$domain=autobild.de|metal-hammer.de|transfermarkt.de
-||adsafeprotected.com^$domain=imasdk.googleapis.com|musikexpress.de|rollingstone.de
+||adsafeprotected.com^$domain=imasdk.googleapis.com|metal-hammer.de|musikexpress.de|rollingstone.de
 ||adscale.de^$domain=tellows.de
 ||adserverc.cliipa.com^$domain=stern.de
 ||adsnative.com^$domain=autobild.de
@@ -3978,6 +3978,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||googlesyndication.com^$domain=focus.de|stern.de
 ||guj.de^*/gujAd.$domain=stern.de
 ||himediads.com^$domain=metal-hammer.de|musikexpress.de|rollingstone.de
+||hm-ad-storage-*.bwhog.net^$domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||inskinad.com^$domain=focus.de
 ||intellitxt.com^$domain=autobild.de|stern.de
 ||ktxtr.com^$domain=focus.de
@@ -8331,4 +8332,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: QNaQZ+gkXvktM84Cz5NFfQ
+! Checksum: VyCtp1lCLCSZ4Ho6bdzf8Q
