@@ -2259,7 +2259,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||adnxs.com^$domain=autobild.de|focus.de|gala.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|widgets.outbrain.com
 ||adnxs.com^$popup,domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||adrolays.de^$domain=autobild.de|metal-hammer.de|transfermarkt.de
-||adsafeprotected.com^$domain=imasdk.googleapis.com|musikexpress.de|rollingstone.de
+||adsafeprotected.com^$domain=imasdk.googleapis.com|metal-hammer.de|musikexpress.de|rollingstone.de
 ||adscale.de^$domain=tellows.de
 ||adserverc.cliipa.com^$domain=stern.de
 ||adsnative.com^$domain=autobild.de
@@ -2298,6 +2298,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||googlesyndication.com^$domain=focus.de|stern.de
 ||guj.de^*/gujAd.$domain=stern.de
 ||himediads.com^$domain=metal-hammer.de|musikexpress.de|rollingstone.de
+||hm-ad-storage-*.bwhog.net^$domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||inskinad.com^$domain=focus.de
 ||intellitxt.com^$domain=autobild.de|stern.de
 ||ktxtr.com^$domain=focus.de
