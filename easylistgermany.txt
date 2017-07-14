@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201707131629
+! Version: 201707141710
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Jul 2017 16:29 UTC
+! Last modified: 14 Jul 2017 17:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8120,6 +8120,8 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||oeko-komp.de/evoAds2/
 @@||openx.musotalk.de/crossdomain.xml
 @@||openx.musotalk.de/www/delivery/fc.php?script=bannertypehtml:vastinlinebannertypehtml:vastinlinehtml&$object-subrequest
+@@||openx.net/w/1.0/acj?$script,domain=erdbeerlounge.de|gamona.de|giga.de|kino.de|spielaffe.de|spieletipps.de
+@@||openx.net/w/1.0/jstag?nc=$script,domain=erdbeerlounge.de|gamona.de|giga.de|kino.de|spielaffe.de|spieletipps.de
 @@||os1.tv/js/omsvc_externalad.js
 @@||osthessen-tv.de/werbebanner/$object-subrequest
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
@@ -8332,4 +8334,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: P6XZtH2ORGreHrzgkSBuDg
+! Checksum: nvAzPzcoy31y4BZ9JUQ7cQ
