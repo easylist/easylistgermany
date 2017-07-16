@@ -1764,6 +1764,7 @@ iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:cent
 ak-kurier.de,nr-kurier.de,ww-kurier.de##.post td[valign="top"] > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > td > a[target="_blank"] > img
 radio1.ch##.post-box-middle-anzeige
 wallstreet-online.de##.posting + div[style="width:860px;"]
+stol.it##.pr
 dokus.to##.prc
 digitalfernsehen.de##.preisvergleich_search
 scm-gladiators.de##.presenter
@@ -3312,7 +3313,6 @@ erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de,welt.de##.trc_related_c
 chip.de##a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"]
 plista.com##a[href^="http://click.plista.com/pets"]
 computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
-stol.it##div[id^="div-gpt-ad"]
 ! CSS property filters
 !
 news.de###FlexTopView
