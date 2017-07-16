@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201707160518
+! Version: 201707161234
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 16 Jul 2017 05:18 UTC
+! Last modified: 16 Jul 2017 12:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7777,6 +7777,7 @@ erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de,welt.de##.trc_related_c
 chip.de##a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"]
 plista.com##a[href^="http://click.plista.com/pets"]
 computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
+computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ! CSS property filters
 ! 
 news.de###FlexTopView
@@ -8339,4 +8340,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: q5TerO4uAm3sYLc/1N0/uA
+! Checksum: DpHsHMoHnnsQgC+5W2q6FA
