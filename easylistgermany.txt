@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201707161234
+! Version: 201707161949
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 16 Jul 2017 12:34 UTC
+! Last modified: 16 Jul 2017 19:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1684,6 +1684,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 /worker.php$domain=filmpalast.to
 /www/images/*$domain=technic3d.com
 ^what=zone^$domain=ww3.cad.de
+|blob:$domain=hdfilme.tv
 |http:/$third-party,xmlhttprequest,domain=hdfilme.tv
 |http://$subdocument,third-party,domain=bonimail.de
 |http://byte.to^$script
@@ -5877,6 +5878,7 @@ winload.de##.darklayer
 fail.to##.dealheader
 gesichtskirmes.net##.deals
 wetter.com##.desk-one-third a[id][href] > img[src]
+hdfilme.tv##.detail > div[style="text-align: center;position: relative;"]
 filmpalast.to##.detail > li > span > a
 menshealth.de##.dfp_rand1
 menshealth.de##.dfp_ss1
@@ -7131,6 +7133,7 @@ chip.de##div[data-adzone="contentad-storyad-afc"]
 amazon.de##div[id$="_adcontent"]
 vol.at##div[id^="AdContainer_"]
 www.blick.ch##div[id^="CT299"]
+hdfilme.tv##div[id^="MGWrap"]
 t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
 t-online.de##div[id^="T-"].Tmm.Tts.Tmc4b.Ttshh.Tww1.Thh05.Tmc4s[onfocus^="A('zid="]
 t-online.de##div[id^="T-"][oncontextmenu="return false"]
@@ -8340,4 +8343,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: DpHsHMoHnnsQgC+5W2q6FA
+! Checksum: cZgkePbJZ24rufBfa9xpnA
