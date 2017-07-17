@@ -2038,6 +2038,7 @@
 ||win-lan.de^*/banners/
 ||windows-tweaks.info^*/safersurf__
 ||windowspro.de^*=*!$xmlhttprequest
+||windowspro.de^*=|$xmlhttprequest
 ||windowspro.de^*?*=$xmlhttprequest
 ||winfuture.de/css/images/$image
 ||winfuture.de/css/images/micropages/
