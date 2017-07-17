@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201707171751
+! Version: 201707171758
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 Jul 2017 17:51 UTC
+! Last modified: 17 Jul 2017 17:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4577,14 +4577,12 @@ falk.de###bahn
 hd-vidz.net###ball
 kress.de###banderole
 anderes-wort.de,apotheke-adhoc.de,bos-fahrzeuge.info,chaoz.ws,cine4home.de,ehrensenf.de,eisenbahn-kurier.de,elektrischer-reporter.de,fettspielen.de,forum.worldofplayers.de,frischauf-gp.de,gamekeyfinder.de,gamingjunkies.de,handballworld.com,holidaycheck.at,holidaycheck.ch,holidaycheck.de,horseweb.de,isarszene.de,it-sa.de,kath.ch,koelschwasser.eu,meproxsoft.de,neuigkeitendienst.com,rollingplanet.net,see-online.info,sodbrennen-welt.de,softguide.de,suxedoo.ch,vhs-ol.de,we-mod-it.com,xp-antispy.org###banner
-swz.it###banner-center
 donnerwetter.de###banner-container
 macgadget.de###banner-floater
 sportnews.bz###banner-leaderboard
 fremdwort.de###banner-rectangle
 autozeitung.de###banner-region
 deutsche-wirtschafts-nachrichten.de,doppelpunkt.de###banner-right
-swz.it###banner-side
 annos.de,chefkoch.de,dasoertliche.de,dastelefonbuch.de###banner-top
 dastelefonbuch.de###banner-top-wp
 maclife.de###banner-wrapper-lead
@@ -6395,6 +6393,7 @@ rheintaler.ch##.tbrposthtml
 rheintaler.ch##.tbrprehtml
 hifi-forum.de##.td1[valign="top"] > div[style="float:left; width: 300px; height: 250px; margin-right: 10px; margin-bottom: 10px; padding:0;"]:first-child
 bild.de##.tea-rectangle
+swz.it##.teaser
 notebookinfo.de##.teaser-news-inline-anzeige
 bluewin.ch##.teaser-partnerlink
 n-tv.de##.teaser_220_450.clearfix[style="background-color: #02225a; padding: 5px 0 5px 0; margin: -10px 0 10px 0; "]
@@ -8333,4 +8332,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: K43CF4aPenNJK9v/7DeGcA
+! Checksum: WirS87zw2zpqoR/rMN8+ww
