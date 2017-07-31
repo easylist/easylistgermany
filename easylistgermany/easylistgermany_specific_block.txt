@@ -2035,9 +2035,7 @@
 ||wilmaa.com^*/brandings/
 ||win-lan.de^*/banners/
 ||windows-tweaks.info^*/safersurf__
-||windowspro.de^*=*!$xmlhttprequest
-||windowspro.de^*=|$xmlhttprequest
-||windowspro.de^*?*=$xmlhttprequest
+||windowspro.de^$xmlhttprequest,domain=windowspro.de
 ||winfuture.de/css/images/$image
 ||winfuture.de/css/images/micropages/
 ||winrar.de/images/emsi.jpg
