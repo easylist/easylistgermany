@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201708101938
+! Version: 201708111743
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Aug 2017 19:38 UTC
+! Last modified: 11 Aug 2017 17:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4270,21 +4270,8 @@ http://img.svz.de/img/$image,domain=nnn.de|prignitzer.de
 ||gamesaktuell.de/screenshots/286$image,domain=gamesaktuell.de
 ||gamezone.de/screenshots/teaserw$image,domain=gamezone.de
 ||i0.auto-service.de/*/*,pd=0$image,domain=auto-service.de
-||images.cgames.de/imager/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/imager/gamepro/*_*.jpg$image,domain=gamepro.de
-||images.cgames.de/imageres/*_*.jpg$image,domain=gamestar.de
-||images.cgames.de/imagers/*_*.jpg$image,domain=gamestar.de
-||images.cgames.de/images/*_*.jpg$image,domain=gamestar.de
 ||images.cgames.de/images/gamepro/*_*.jpg$image,domain=gamepro.de
-||images.cgames.de/imagest/*_*.jpg$image,domain=gamestar.de
-||images.cgames.de/imagevest/*_*.jpg$image,domain=gamestar.de
-||images.cgames.de/imagimr/*_*.jpg$image,domain=gamestar.de
-||images.cgames.de/imagist/*_*.jpg$image,domain=gamestar.de
-||images.cgames.de/imagrst/*_*.jpg$image,domain=gamestar.de
-||images.cgames.de/imagvest/*_*.jpg$image,domain=gamestar.de
-||images.cgames.de/imagvsst/*_*.jpg$image,domain=gamestar.de
-||images.cgames.de/imagvst/*_*.jpg$image,domain=gamestar.de
-||images.cgames.de/lmages/*_*.jpg$image,domain=gamestar.de
 ||images.finanzen.net/mediacenter/*/images/*.$image,domain=finanzen.net
 ||images.finanzen.net/mediacenter/*/img/*.$image,domain=finanzen.net
 ||images.finanzen.net/mediacenter/*/inages/*.$image,domain=finanzen.net
@@ -8332,4 +8319,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Dv2oABSajC/3wQC1+En+KQ
+! Checksum: 5IhoEVM/HeVUfcC/O85Srw
