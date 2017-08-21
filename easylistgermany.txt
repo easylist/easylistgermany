@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201708151759
+! Version: 201708211740
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 15 Aug 2017 17:59 UTC
+! Last modified: 21 Aug 2017 17:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -930,7 +930,6 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||stilanzeigen.net^$third-party
 ||stroeerdigitalmedia.de^$third-party
 ||stroeerdigitalpublishing.de^$third-party
-||stroeermediabrands.de^$third-party
 ||sunnysales.biz^$third-party
 ||superclix.de^$third-party
 ||superpromo24.de^$third-party
@@ -1201,6 +1200,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||globetrotter.de/de/service/banner/$third-party
 ||go-doja.de/ComInfo/DOJA_BA/$third-party
 ||goal4glory.dyndns.org/images/banner/$third-party
+||gocp.stroeermediabrands.de^$third-party
 ||gold-super-markt.de/affiliate/
 ||gooof.de/sa/$third-party
 ||gpaf.net/b/$third-party
@@ -1250,6 +1250,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||jobscout24.ch/JS24Templates/Companies/$subdocument,third-party
 ||joycash.joydate.com^$third-party
 ||joyclub.de/partner/aff/
+||js.stroeermediabrands.de^$third-party
 ||kai-homilius-verlag.de/bilder/banner/$third-party
 ||kalaydo.fnp.de^
 ||kart-club-trier.de/images/banners/
@@ -8255,4 +8256,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: QVkTIMvsrQ+9W4WjvdvY+g
+! Checksum: jIn8l8SHvaRbOz/CU0ue3Q
