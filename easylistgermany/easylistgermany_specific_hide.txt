@@ -1314,9 +1314,6 @@ web.de##.buster
 tt.com##.button145
 foerderland.de##.button300x250
 xink.it##.buttonMirror
-filecrypt.cc##.buttons > span > button[onmouseup^="var d = this;openLink('"]
-filecrypt.cc##.buttons > span > button[onmouseup^="var e = this;openLink('"]
-filecrypt.cc##.buttons button[onmouseup^="var c = this;openLink('"]
 lounge.fm##.buy
 magistrix.de##.buy_song
 heise.de##.buytable
@@ -1356,7 +1353,6 @@ daspureleben.com##.column-first > .content > .logo-slider
 bluewin.ch##.column-right > .column-right-right > .teaser-special > .ts-image + .ts-content
 tripadvisor.de##.commerce
 auto-motor-und-sport.de,azonline.de,getgoods.4teams.de,mv-online.de,promobil.de,wn.de##.commercial
-filecrypt.cc##.container > tbody > tr > td > button[onmouseup]
 deutscherskiverband.de##.container-banner-2
 secured.in##.container-banner-image
 tarifagent.com##.container_fullbanner
@@ -1932,7 +1928,6 @@ winfuture.de##.success_box
 fuw.ch##.suche_sponsor
 sdx.cc##.suggestionList > a[href^="http://www.sdx.cc/file="]
 frankenpost.de,freies-wort.de,gentleman-blog.de,horizont.net,itopnews.de,mediabiz.de,neon.de,np-coburg.de,radiopsr.de,schlagerhoelle.de,stz-online.de,volksfreund.de##.superbanner
-filecrypt.cc##.support > [style^="cursor:pointer"] > img[style="border:none;"]
 kochbar.de##.tTraffic
 berlin.de##.t_a_vert
 berlinonline.de##.t_special
@@ -2076,8 +2071,6 @@ magistrix.de##.zeezee
 german-bash.org##.zitat > div[style="width:300px;"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
-filecrypt.cc##[onmouseup$="', this);"][href^="javascript:"]
-filecrypt.cc##[onmouseup^="var c = this;openLink('"][style="cursor:pointer;"]
 forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 100px; left: 550px; empty-cells: hide;"]
 sat-erotik.de##[width="800"][cellspacing="0"][cellpadding="4"][border="0"]
 hsc-bad-neustadt.de##a[class*="sponsor"]
@@ -2102,7 +2095,6 @@ auswandererforum.de##a[href*="affiliate.php?"]
 xp-antispy.org##a[href*="com_partner&link="]
 3dl.tv##a[href*="downloadboutique.com"]
 hd-vidz.net##a[href*="filesonthe.net"]
-filecrypt.cc##a[href="#"] img[src^="http://filecrypt.cc/images/"]
 arcor.de##a[href="/content/unterhaltung/lotto/"]
 smsgott.de##a[href="/d2freikarte.php"]
 sb.sbsb.cc##a[href="/download.php"]
@@ -2488,7 +2480,6 @@ hd-world.org##a[href^="http://zip5.de/"]
 livestreamfussball.org##a[href^="http://zolanis.com/landingpage"]
 freenet.de##a[href^="https://ad1.adfarm1.adition.com/redi?sid="]
 4fuckr.com##a[href^="https://bit.ly/"]
-filecrypt.cc##a[href^="https://goo.gl/"]
 stadt-bremerhaven.de##a[href^="https://instaffo.com/?utm_source="] > img
 gamepro.de,gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
 ddl-warez.in##a[href^="https://share-online.biz/affiliate/"]
@@ -2499,7 +2490,6 @@ chip.de##a[href^="https://www.amazon.de/gp/video/primesignup?tag="]
 livestreamfussball.org##a[href^="https://www.bwin.com/de/registration?wm="]
 stadt-bremerhaven.de##a[href^="https://www.cyberport.de/?token="][target="_blank"] > img
 chip.de##a[href^="https://www.expertiger.de/partner/"]
-filecrypt.cc##a[href^="https://www.g2a.com/?reflink="]
 atomload.to##a[href^="https://www.oboom.com/ref/"]
 hd-world.org,movie-blog.org##a[href^="https://www.smoozed.com/p/"]
 atomload.to##a[href^="https://www.smoozed.rocks/landing/"]
@@ -2534,7 +2524,6 @@ php.de##a[onclick^="pageTracker._trackPageview('/outbound/ads/"]
 meinestadt.de##a[onclick^="return xt_ad('"]
 suchen.de##a[onclick^="sl(PID.PpcClick);window.open('http://www.suchen.de/ad?"]
 prad.de##a[onclick^="trackOutboundLink(this, 'HP'"]
-filecrypt.cc##a[onclick^="var c=this;openLink('"][href="#"] > img
 rtl.de##a[onclick^="verivox_go("]
 rtl.de##a[onclick^="verivox_go_"]
 downloadstube.net##a[onclick^="window.open('/download-file.php?type=premium&"]
@@ -2638,9 +2627,6 @@ acer-userforum.de##body > table[width="100%"][cellspacing="0"][cellpadding="0"][
 schoener-fernsehen.com##body[msallowfullscreen="true"][webkitallowfullscreen="true"][mozallowfullscreen="true"][allowfullscreen="true"][style="box-sizing: border-box; width: 100%; height: 100%; overflow: hidden;"] > iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class]
 rtl.de##button[onclick^="verivox_go("]
 rsd-store.com##button[onclick^="visitPartner("]
-filecrypt.cc##button[onmouseup$="', a);"]
-filecrypt.cc##button[onmouseup$="', this);"]
-filecrypt.cc##button[onmouseup$=", b, true);"]
 hornoxe.com##center > a[target="_blank"][href^="http://amzn.to/"] > img
 repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
 abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
@@ -3008,7 +2994,6 @@ t-online.de##form[target="_blank"][action="http://im.banner.t-online.de/"]
 rtl.de##h2[onclick^="verivox_go_"]
 rtl.de##h2[onclick^="xdot_go_trpix(document.getElementById('parshipform_"]
 heise.de##heisetext > .img[width="100%"]
-filecrypt.cc##i[onmouseup$="', a);"]
 anime-loads.org##iframe[allowtransparency="true"][src^="http://www.anime-loads.org/"]
 spiegelfechter.com##iframe[height="600"][width="160"]
 schoener-fernsehen.com##iframe[id][class][scrolling="auto"][frameborder="0"][allowtransparency="true"][src^="http://schoener-fernsehen.com/"] + iframe[id][class][scrolling="auto"][frameborder="0"][allowtransparency="true"][src^="http://schoener-fernsehen.com/"] + div[id][class]
@@ -3212,7 +3197,6 @@ ww3.cad.de##table[width="95%"][cellspacing="1"][border="0"] > tbody > tr > td[va
 gamefront.de##table[width="950"][bgcolor][align="center"]
 gamefront.de##table[width="950"][cellspacing="1"][cellpadding="0"][border="0"][bgcolor="#ffffff"][align="left"]
 dforum.net##table[width="983"][cellspacing="5"][style="border:1px solid #505A53;border-top:none;background:#ADB088;"]
-filecrypt.cc##td > [onmousedown$="', this);"]
 chat4free.de,erotikchat4free.de,freechat.de##td > font[style="font-size:9;"]
 loadsieben.org##td[align="CENTER"][width="644"] > p:first-child + center
 heimkinomarkt.de##td[align="center"][height="72"][valign="middle"][colspan="3"]
@@ -3222,7 +3206,6 @@ heise.de##td[align="left"][valign="top"][rowspan="5"]
 ak-kurier.de,ww-kurier.de##td[background="images/abstand1.gif"][width="1"] + td[width="180"][valign="top"]:last-child
 ixquick.de##td[bgcolor="#f7f9ff"]
 englische-briefe.de##td[colspan="3"] > table[width="769"][cellpadding="4"]
-filecrypt.cc##td[colspan="4"] > [onclick$="', this);"]
 dxtv.de,dxtv.eu,satbook.de##td[height="100%"][width="60%"][bgcolor="#FFFFFF"][align="right"]
 marcus-klein.de##td[height="148"] > table[width="800"][border="0"][align="center"][cellspacing="0"][cellpadding="0"]
 weltuntergang-2012.de##td[height="160"][width="297"][valign="top"]:first-child + td[width="263"]:last-child

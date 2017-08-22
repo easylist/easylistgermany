@@ -1,7 +1,6 @@
 .gif|$popup,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
 ^utm_campaign^$popup,domain=jappy.de
 ^utm_medium=popunder^$popup,domain=hilfreich.de
-|http://*.filecrypt.cc/|$popup
 ||1kino.in/vload.php$popup
 ||1kino.in^*/out.php$popup
 ||3dl.tv/redipo.php$popup
@@ -21,7 +20,6 @@
 ||amazon.de^*/ref=*&tag=$popup,domain=bluray-disc.de
 ||amazon.de^*^tag=$popup,domain=wetteronline.de
 ||atomload.to/load.php$popup
-||bit.ly^$popup,domain=filecrypt.cc
 ||campartner.com^$popup,domain=g-stream.in
 ||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
 ||damoh.spiegel.tv^$popup
@@ -30,7 +28,6 @@
 ||ddl-warez.in/smoozed/$popup
 ||ddl-warez.to/_$popup
 ||dealbunny.de^$popup,domain=dokus4.me
-||def.filecrypt.cc^$popup
 ||doubleclick.net^$popup,domain=gamestar.de|gamona.de
 ||ebook-hell.to/ad/$popup
 ||ebook-hell.to/out.php$popup
@@ -79,7 +76,6 @@
 ||teen-blog.us/out_to_trade.php$popup
 ||teltarif.de/click/*:*.a=$popup
 ||thepornlist.net^$popup,domain=sexuria.com
-||tiny.cc^$popup,domain=filecrypt.cc
 ||tinyurl.com^$popup,domain=gamersglobal.de
 ||tipico.com^$popup,domain=yabeat.com
 ||tradedoubler.com/click?$popup,domain=smsform.de
