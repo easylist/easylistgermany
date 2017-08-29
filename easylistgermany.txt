@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201708291636
+! Version: 201708291637
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 29 Aug 2017 16:36 UTC
+! Last modified: 29 Aug 2017 16:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5911,6 +5911,7 @@ livingathome.de##.heftBox[style="padding-left:0px;margin-left:0px;padding-bottom
 transfermarkt.at,transfermarkt.ch,transfermarkt.de##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
 deutsche-startups.de##.highlighted.squares
 moviebb.to##.highspeed_button
+stayfriends.de##.hint-adhint + .promoContainer + .cmsSlotContainer
 heise.de##.hinweis_anzeige
 fremdwort.de##.hinweisad
 technic3d.com##.home > footer[style="bottom: -105px;"]:last-child > div:first-child
@@ -8244,4 +8245,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: uNOBYR8wP3P2VVNVLZU6vw
+! Checksum: vXjo6GL0nrjsGEvvA+6law
