@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201708290606
+! Version: 201708291636
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 29 Aug 2017 06:06 UTC
+! Last modified: 29 Aug 2017 16:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7756,6 +7756,16 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||adback.de^$~third-party
 @@||adcell.de/click.php?bid=$subdocument,domain=gutscheindoktor.de|mein-rabatt.com
 @@||adclient.uimserv.net/banner?$script,domain=millionenklick.web.de
+@@||adform.net/adfserve/?bn=$script,domain=rewe.de
+@@||adform.net/adx/?rp=$script,domain=rewe.de
+@@||adform.net/Banners/Elements/Files/$domain=rewe.de
+@@||adform.net/banners/scripts/adfscript.js$domain=rewe.de
+@@||adform.net/banners/scripts/adx.js$domain=rewe.de
+@@||adform.net/banners/scripts/assets/components/dynamicSlider.js$domain=rewe.de
+@@||adform.net/banners/scripts/extensions/de/Rewe/rewe_slider.js$domain=rewe.de
+@@||adform.net/banners/scripts/rmb/Adform.DHTML.js$domain=rewe.de
+@@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=rewe.de
+@@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
 @@||adimg.uimserv.net^$image,domain=millionenklick.web.de
 @@||adindex.de^*^gutschein_$subdocument,domain=gutscheindoktor.de
 @@||adition.com/banner?sid=$script,domain=ambellis.de|jam.fm|mirapodo.de|mytoys.de|yomonda.de
@@ -8234,4 +8244,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 38TiWUv78ZJjvOnIL3hCFA
+! Checksum: uNOBYR8wP3P2VVNVLZU6vw
