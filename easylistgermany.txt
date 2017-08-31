@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201708310625
+! Version: 201708312001
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 31 Aug 2017 06:25 UTC
+! Last modified: 31 Aug 2017 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5418,6 +5418,8 @@ xflat24.com##.KEYWORDS
 rundschau-online.de##.KalaydoColorBox
 perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
+promiflash.de##.LazyLoad[style="min-height: 250px; min-width: 300px;"]
+promiflash.de##.LazyLoad[style="min-height: 270px; min-width: 970px;"]
 onvista-bank.de##.MEGASIZE_BANNER
 sc-markersdorf.at##.ModBannersC
 alle-autos-in.de##.NaviTopP
@@ -5464,7 +5466,7 @@ aachener-nachrichten.de,abendblatt.de,alle-immobilien.ch,azonline.de,bazonline.c
 1und1.de,gmx.net,web.de##.ad-container
 vsport.at##.ad1
 vsport.at##.ad2
-med1.de,stayfriends.de##.adContainer
+med1.de,promiflash.de,stayfriends.de##.adContainer
 wz-newsline.de##.adDisclaimerLight
 games.ch,webfail.at##.adMR
 gevestor.de##.adTop
@@ -8253,4 +8255,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: MZ7PC9yA65eqtovt5KM/Ww
+! Checksum: ugHzHv6/3D8YTZsejABnhg
