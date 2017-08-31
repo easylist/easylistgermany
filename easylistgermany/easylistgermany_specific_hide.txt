@@ -1037,6 +1037,8 @@ xflat24.com##.KEYWORDS
 rundschau-online.de##.KalaydoColorBox
 perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
+promiflash.de##.LazyLoad[style="min-height: 250px; min-width: 300px;"]
+promiflash.de##.LazyLoad[style="min-height: 270px; min-width: 970px;"]
 onvista-bank.de##.MEGASIZE_BANNER
 sc-markersdorf.at##.ModBannersC
 alle-autos-in.de##.NaviTopP
@@ -1083,7 +1085,7 @@ aachener-nachrichten.de,abendblatt.de,alle-immobilien.ch,azonline.de,bazonline.c
 1und1.de,gmx.net,web.de##.ad-container
 vsport.at##.ad1
 vsport.at##.ad2
-med1.de,stayfriends.de##.adContainer
+med1.de,promiflash.de,stayfriends.de##.adContainer
 wz-newsline.de##.adDisclaimerLight
 games.ch,webfail.at##.adMR
 gevestor.de##.adTop
