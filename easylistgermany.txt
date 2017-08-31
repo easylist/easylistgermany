@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201708312001
+! Version: 201708312002
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 31 Aug 2017 20:01 UTC
+! Last modified: 31 Aug 2017 20:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5016,6 +5016,7 @@ os-informer.de,pcgameshardware.de###plakathomecontentmetaboli2bottom
 buffed.de,gamezone.de###plakatinhalttag_1
 pcgameshardware.de###plakatskyscraper
 businessxp.at,mobilexp.com###platform_skyscraper
+immobilienscout24.de###platzhirsch-container
 myspass.de###playerData > div[style="height: 250px; overflow: hidden;"]
 gulli.com###plista1_belowArticle > .TeaserBox:first-child + .TeaserBox
 serienjunkies.de###plista_widget_slide
@@ -5600,6 +5601,7 @@ macmagazin.de##.banner-sidebar-2
 magistrix.de,moviepilot.de##.banner-skyscraper
 ebay-kleinanzeigen.de##.banner-supersize
 donnerwetter.de,xaver.de##.banner-top
+immobilienscout24.de##.banner-top-placeholder
 outdoor-magazin.com##.banner1
 digitalvideoschnitt.de,phpforum.de##.banner468x60
 digitalvideoschnitt.de##.banner728x90forumDV
@@ -8255,4 +8257,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ugHzHv6/3D8YTZsejABnhg
+! Checksum: Dlk9rL8pJ6Faq9k2a67+OA
