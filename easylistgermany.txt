@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201709180636
+! Version: 201709180639
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 18 Sep 2017 06:36 UTC
+! Last modified: 18 Sep 2017 06:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4863,7 +4863,7 @@ wetter.de###lbs-offers-container
 pooltrax.com###lcontainer2
 nickles.de###leader
 persoenlich.com###leaderbanner
-boomerangtv.de,channelpartner.de,ebay.at,ebay.ch,ebay.de,ircgalerie.net,laut.de,ringrocker.com,schweizamsonntag.ch,skiinfo.ch,skiinfo.com,skiinfo.de,sky.de,teccommunity.de,xboxfront.de###leaderboard
+boomerangtv.de,channelpartner.de,ebay.at,ebay.ch,ebay.de,ircgalerie.net,laut.de,ringrocker.com,schweizamsonntag.ch,skiinfo.ch,skiinfo.com,skiinfo.de,sky.de,spieletipps.de,teccommunity.de,xboxfront.de###leaderboard
 silicon.de###leaderboard-top
 searchsecurity.de###leaderboardPlacement
 laut.de###leaderboardSpace
@@ -5125,6 +5125,7 @@ chefkoch.de###recipe-com-user-banner
 chefkoch.de###recipe_com_user_banner
 kicker.de,kidszone.de,os-informer.de,pcgames.de,pcgameshardware.de,smartphone-daily.de,widescreen-online.de###rect_anz
 autoexperience.de,bauexpertenforum.de,cineman.de,daselternforum.de,fitness-foren.de,flugzeugforum.de,kreatives-wohnforum.de,laut.de,lpgforum.de,macprime.ch,mazda-forum.info,moonwalk.ch,neue-braunschweiger.de,notebookforum.at,pkw-forum.de,prad.de,ringrocker.com,teccentral.de,usp-forum.de,win-10-forum.de,win-8-forum.net,winboard.org,windows-7-forum.net,windows-8-forum.net,xboxone-forum.net###rectangle
+spieletipps.de###rectangleRgt
 laut.de###rectangleSpace
 abacho.de###reisemarkt-sidebar
 der-postillon.com###reklame-artikel
@@ -5302,6 +5303,7 @@ chefkoch.de###teaser-top-partner
 titanic-magazin.de###teaser-wrap > span[style="font-size: 7pt; color: grey;"]
 wetter.de###teaser_hotelde_suche
 computerbild.de###teaser_right a[target="_blank"][href^="http://ww251.smartadserver.com/h/cc?imgid="]
+spieletipps.de###teaserheld-header
 tsvbodnegg.de###text-5
 mtb-news.de###text-6 > div > div > img
 namibia-hunter.at###text-9.footer-box
@@ -6312,6 +6314,7 @@ biallo.de##.stdanzeige
 tixuma.de##.stdfont[bgcolor="#ecf5fa"]
 biallo.de##.stdspezialteaseranzeige
 pcgameshardware.de##.stellenmarktModule
+spieletipps.de##.stiSkyscraperRgt
 serienjunkies.org##.streams + #content > .post:first-child > .post-title:first-child + p[align="center"]
 deine-tierwelt.de##.stroeer
 fernsehserien.de##.stroeer-container
@@ -8151,7 +8154,6 @@ tracking.m6r.eu##img[style="width: 728px; height: 90px;"]
 @@||spielaffe.de^$elemhide
 @@||spielen.de/bundles/mediatrustfrontend/js/javascript.js?
 @@||spielesite.com^$script,domain=spielesite.com
-@@||spieletipps.de^$elemhide
 @@||spielkarussell.de^*/ads_loader_new.js
 @@||sport.de/autoimg/*/300x250/$image,~third-party
 @@||sport1.fm/ad/my_ad_iframe.html?ad_id=performance*&start=$subdocument
@@ -8264,4 +8266,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: shAormae32FWpo6O183Blg
+! Checksum: P2Qb0MJgg/Xxmf+NqfdGuQ
