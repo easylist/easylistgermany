@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201709261548
+! Version: 201709261623
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Sep 2017 15:48 UTC
+! Last modified: 26 Sep 2017 16:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -556,7 +556,7 @@ berlin.de#@#a[href^="http://adfarm.mediaplex.com/"]
 schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 11freunde.de,cnet.de,deals.chip.de#@#a[href^="http://pubads.g.doubleclick.net/"]
 onvista.de#@#a[href^="http://track.adform.net/"]
-gutefrage.net#@#a[href^="https://ad.doubleclick.net/"]
+gutefrage.net,reisebine.de#@#a[href^="https://ad.doubleclick.net/"]
 daswetter.com,gofeminin.de#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
 11freunde.de,gofeminin.de#@#div[id^="google_ads_iframe_"]
@@ -8267,7 +8267,7 @@ kalender-365.de#@#.adsbygoogle
 @@||ads.mybet.com/redirect.aspx?pid=$popup,domain=gewinnspiele.freenet.de
 @@||ads.smartfeedads.com^$popup,domain=motorrad2000.de
 @@||adspirit.de^$popup,domain=dealdoktor.de
-@@||doubleclick.net/ddm/$popup,domain=11freunde.de|gutefrage.net
+@@||doubleclick.net/ddm/$popup,domain=11freunde.de|gutefrage.net|reisebine.de
 @@||eurogrand.com^$popup,domain=online-casino.de
 @@||europacasino.com^$popup,domain=online-casino.de
 @@||g.doubleclick.net^$popup,domain=11freunde.de|deals.chip.de|gofeminin.de
@@ -8281,4 +8281,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: SOItE+bHqBdwaZvncHaydA
+! Checksum: JJD/T/tSqBCc8/lnu2VRjg
