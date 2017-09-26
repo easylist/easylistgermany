@@ -2980,8 +2980,8 @@ ka-news.de##div[style^="width:145px;height:150px;"]
 windowspro.de##div[style^="width:300px;height:250px;"]
 winfuture.de##div[style^="width:729px;height:90px"]
 android-hilfe.de##div[style^="width:748px;height:100px;padding-top:10px;"]
-facebook.com#?#.fbUserContent :-abp-has(a:-abp-contains(Gesponsert))
-facebook.com#?#.fbUserPost :-abp-has(a:-abp-contains(Gesponsert))
+facebook.com#?#.fbUserContent:-abp-has(a:-abp-contains(Gesponsert))
+facebook.com#?#.fbUserPost:-abp-has(a:-abp-contains(Gesponsert))
 lix.in##form[action="ads.php"]
 serienjunkies.org##form[action="http://mirror.serienjunkies.org"]
 t-online.de##form[action="http://stromvergleich.t-online.de/strom.php"]
