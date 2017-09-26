@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201709251717
+! Version: 201709261548
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 25 Sep 2017 17:17 UTC
+! Last modified: 26 Sep 2017 15:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7381,8 +7381,8 @@ ka-news.de##div[style^="width:145px;height:150px;"]
 windowspro.de##div[style^="width:300px;height:250px;"]
 winfuture.de##div[style^="width:729px;height:90px"]
 android-hilfe.de##div[style^="width:748px;height:100px;padding-top:10px;"]
-facebook.com#?#.fbUserContent :-abp-has(a:-abp-contains(Gesponsert))
-facebook.com#?#.fbUserPost :-abp-has(a:-abp-contains(Gesponsert))
+facebook.com#?#.fbUserContent:-abp-has(a:-abp-contains(Gesponsert))
+facebook.com#?#.fbUserPost:-abp-has(a:-abp-contains(Gesponsert))
 lix.in##form[action="ads.php"]
 serienjunkies.org##form[action="http://mirror.serienjunkies.org"]
 t-online.de##form[action="http://stromvergleich.t-online.de/strom.php"]
@@ -8281,4 +8281,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: kKIDcqz//6h1qnHAJeD3LA
+! Checksum: SOItE+bHqBdwaZvncHaydA
