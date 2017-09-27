@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201709261635
+! Version: 201709271649
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Sep 2017 16:35 UTC
+! Last modified: 27 Sep 2017 16:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3954,8 +3954,8 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||amazon-adsystem.com^$domain=autobild.de|focus.de|stern.de|transfermarkt.de
 ||betrad.com^$domain=googlesyndication.com|musikexpress.de
 ||bf-ad.net^$domain=focus.de
-||cas.*.criteo.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
-||cas.criteo.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
+||cas.*.criteo.com^$domain=autobild.de|focus.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
+||cas.criteo.com^$domain=autobild.de|focus.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
 ||cdn.flashtalking.com^$domain=imasdk.googleapis.com
 ||cloudfront.net/werbemittel/$domain=stern.de
 ||connextra.com^$domain=metal-hammer.de|musikexpress.de
@@ -8165,4 +8165,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: SyaPKZn69hIiSaF17s5Ngw
+! Checksum: Izm+ebW7qS0kTuitbpofNg
