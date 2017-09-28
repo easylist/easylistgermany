@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201709281647
+! Version: 201709281753
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 28 Sep 2017 16:47 UTC
+! Last modified: 28 Sep 2017 17:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6734,6 +6734,7 @@ t-online.de##a[href^="http://www.viversum.de/index.php?pid="]
 wz-newsline.de##a[href^="http://www.wz-werbewelt.de/proads/"]
 320k.in##a[href^="http://www.yellow-ducks.com/AF_"]
 golyr.de##a[href^="http://www.zanox-affiliate.de/ppc/?"]
+gesetzliche-kuendigungsfrist.info##a[href^="http://www1.belboon.de/"]
 goldesel.to,mega-stream.to,moviebox.to,woom.ws##a[href^="http://www2.filedroid.net/AF_"]
 readmore.de##a[href^="http://www4.smartadserver.com/"]
 chip.de##a[href^="http://x.chip.de/fs24/io/?url="]
@@ -8169,4 +8170,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ZQDFv7aPOGKHgqLjgQDpKw
+! Checksum: ykB4T39z/UY7P8RRlRE+aw
