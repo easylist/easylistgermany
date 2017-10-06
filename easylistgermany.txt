@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201710051928
+! Version: 201710061624
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Oct 2017 19:28 UTC
+! Last modified: 06 Oct 2017 16:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4111,6 +4111,7 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505.5px; top: 115
 ||digitalfernsehen.de/imagesz/$image,domain=digitalfernsehen.de
 ||digitalfernsehen.de/imagex/$image,domain=digitalfernsehen.de
 ||digitalfernsehen.de/imagez/$image,domain=digitalfernsehen.de
+||digitalfernsehen.de/imags/$image,domain=digitalfernsehen.de
 ||fussballdaten.de/js/blockadblock$script
 ||fussballdaten.de/js/THVQ1vv.js
 ||iban-rechner.de^$image,~third-party,domain=iban-rechner.de
@@ -4122,6 +4123,7 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505.5px; top: 115
 ||news.de/imagex/$image,domain=news.de
 ||news.de/imagez/$image,domain=news.de
 ||news.de/imags/$image,domain=news.de
+||news.de/imagx/$image,domain=news.de
 ||news.de/imagz/$image,domain=news.de
 ||news.de/imges/$image,domain=news.de
 ||news.de/imgs/$image,domain=news.de
@@ -8163,4 +8165,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: BL4KpTJaHwM0IGJT0CygUw
+! Checksum: CLIw/IfUdABvHv4gVXTtLg
