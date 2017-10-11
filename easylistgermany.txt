@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201710111627
+! Version: 201710111645
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 11 Oct 2017 16:27 UTC
+! Last modified: 11 Oct 2017 16:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5307,6 +5307,7 @@ t-online.de##.Tadblock
 t-online.de##.Tadc
 t-online.de##.Tamrecbox
 chip.de##.Teaser__Affiliate
+chip.de##.Teaser__Portal
 eltern-zentrum.de##.Text1[valign="top"]:last-child > .tabberlive:last-child
 adhs-zentrum.de##.Text[width="100%"][valign="top"] + td[valign="top"]:last-child
 t-online.de##.Thpx600
@@ -5980,6 +5981,7 @@ clap-club.de##.page_caption > #menu_border_wrapper + br + br + br + p
 archiv.raid-rush.ws##.pagebody:first-child > div[style="margin-bottom:80px;height:250px;"]
 golem.de##.paged-cluster-header + div[style="margin:15px 0; min-height:103px;"]
 golem.de##.paged-cluster-header + div[style="margin:15px 0; min-height:266px;"]
+chip.de##.paidlisting-body
 eatsmarter.de##.pane-amazon-product-feed
 freiburger-nachrichten.ch##.pane-frn-content-inserate-slider
 oekoportal.de##.panel-display > .panel-col-side > #block-views-website-block-1
@@ -6477,6 +6479,7 @@ mainpost.de##a[href^="http://ad.sol.de/"]
 queer.de##a[href^="http://ad.zanox.com"]
 serienjunkies.de##a[href^="http://ad.zanox.com/ppc/"]
 seaofsin.info##a[href^="http://ad.zanox.com/ppc/?"]
+chip.de##a[href^="http://ad1.adfarm1.adition.com/"]
 oe24.at##a[href^="http://ad1.adfarm1.adition.com/redi?sid="]
 finanzen100.de,ps3-talk.de##a[href^="http://ad3.adfarm1.adition.com/"]
 hardwareluxx.de##a[href^="http://adclick.g.doubleclick.net/"]
@@ -7005,6 +7008,7 @@ pure-anime.biz##div[style=" text-align:center;margin:15px;height:88px;"]
 epochtimes.de##div[style="background-color: #eee; border: 1px solid #ccc; margin: 1rem auto; text-align: center;"]
 fr-online.de##div[style="background-color: #fcfcfc; padding: 5px; font-size: 11px;"]
 zdnet.de##div[style="background-color: #fff; width: 984px; height: auto; background-image:url(http://www.zdnet.de/i/g/z/zdnet_site_bg.gif); padding: 10px 0 10px 0; text-align: center;"]
+chip.de##div[style="background-color: rgb(216, 242, 240); display: block;"]
 titanic-magazin.de##div[style="background-color: white;z-index: 10;height: 97px;padding: 5px;position: relative;padding-top: 15px;margin-bottom: 30px;"]
 wallstreet-online.de##div[style="background-color:#000000; height:25px;"]
 fireball.de##div[style="background-color:#FFFFD9;padding:5px;"]
@@ -8171,4 +8175,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 9fTm1KcOF3o20APwOD7KfA
+! Checksum: tbdMzcsspu9ZWTNZ8fqrXA
