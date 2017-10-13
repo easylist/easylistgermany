@@ -264,7 +264,7 @@ rp-online.de###container > div > div[style="background:url(http://static.rp-onli
 rp-online.de###container > div[style="position:absolute;top:9px;left:9px;"]:first-child
 spielen.com###container > iframe + #overlay
 spielen.com###container > iframe + #overlay + #overlay_bg
-dtoday.de,goslarsche.de,lkz.de,mittelhessen.de,neckar-chronik.de,schwaebische.de,tagblatt.de,weser-kurier.de###container_banner
+dtoday.de,goslarsche.de,lkz.de,mittelhessen.de,neckar-chronik.de,pz-news.de,schwaebische.de,tagblatt.de,weser-kurier.de###container_banner
 tageblatt.de###container_banner_medium
 augsburger-allgemeine.de,goslarsche.de,schwaebische.de,szon.de,tagblatt.de,teckbote.de###container_banner_wallpaper
 schwaebische.de###container_banner_wallpaper_placeholder
@@ -1709,6 +1709,12 @@ urlauburlaub.at##.newsitem
 pc-magazin.de##.newsletterTeaser
 dslteam.de##.newstxt > table[cellspacing="0"][cellpadding="0"][border="0"][align="right"][width="308"]
 onlinekosten.de##.newstxt > table[width="308"][cellspacing="0"][cellpadding="0"][border="0"][align="right"]
+pz-news.de##.nfy-ads
+pz-news.de##.nfy-adslider-large
+pz-news.de##.nfy-ar-topslider-rectangle
+pz-news.de##.nfy-sebox-pz-adslider1
+pz-news.de##.nfy-sebox-pz-adslider2
+pz-news.de##.nfy-sebox-rectangle
 beichthaus.com##.no > a[href^="http://bit.ly/"]
 mikrocontroller.net##.noprint > div[style] + div[style] > script:first-child + div[style]:last-child
 mikrocontroller.net##.noprint > div[style] > div[id]:last-child > div[style]
