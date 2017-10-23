@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201710230648
+! Version: 201710232124
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 23 Oct 2017 06:48 UTC
+! Last modified: 23 Oct 2017 21:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3950,18 +3950,23 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||adsnative.com^$domain=autobild.de
 ||adspirit.de^$domain=musikexpress.de|rollingstone.de
 ||adsrvr.org^$domain=musikexpress.de
-||adtech.de^$domain=tellows.de
+||adtech.de^$domain=focus.de|tellows.de
 ||adverserve.net^$domain=musikexpress.de
+||advertising.com^$domain=focus.de
 ||advertising.veeseo.com^$domain=stern.de
 ||advolution.de^$domain=focus.de|musikexpress.de
 ||amazon-adsystem.com^$domain=autobild.de|focus.de|stern.de|transfermarkt.de
 ||betrad.com^$domain=googlesyndication.com|musikexpress.de
 ||bf-ad.net^$domain=focus.de
+||bidder.criteo.com^$domain=focus.de
 ||cas.*.criteo.com^$domain=autobild.de|focus.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
 ||cas.criteo.com^$domain=autobild.de|focus.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
 ||cdn.flashtalking.com^$domain=imasdk.googleapis.com
 ||cloudfront.net/werbemittel/$domain=stern.de
+||conative.de^$domain=focus.de
 ||connextra.com^$domain=metal-hammer.de|musikexpress.de
+||consumable.com^$domain=focus.de
+||contextweb.com^$domain=focus.de
 ||criteo.com^$domain=tellows.de
 ||elasticad.net^$domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||emsmobile.de^$domain=stern.de
@@ -3986,17 +3991,20 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||intellitxt.com^$domain=autobild.de|stern.de
 ||ktxtr.com^$domain=focus.de
 ||ligadx.com^$domain=stern.de
+||lijit.com^$domain=focus.de
 ||mathads.com^$domain=rollingstone.de
 ||mediaplex.com^$domain=musikexpress.de
 ||moatads.com^$domain=autobild.de|focus.de|metal-hammer.de|musikexpress.de|transfermarkt.de
 ||mookie1.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
 ||mpnrs.com^$domain=focus.de|stern.de|transfermarkt.de
+||nativendo.de^$domain=focus.de
+||openx.net^$domain=focus.de
 ||pagead2.googlesyndication.com^$domain=autobild.de|focus.de|kabeleins.de|metal-hammer.de|musikexpress.de|rollingstone.de|transfermarkt.de
 ||plista.com/pictureads/$domain=autobild.de
 ||plista.com^*/flyads/$domain=stern.de
 ||plista.com^*_FLYAD.js$domain=stern.de
 ||polarmobile.com^$domain=focus.de
-||pubmatic.com^$domain=stern.de
+||pubmatic.com^$domain=focus.de|stern.de
 ||qservz.com^$domain=metal-hammer.de|musikexpress.de|rollingstone.de
 ||redintelligence.net^$domain=g.doubleclick.net|stern.de
 ||revsci.net^$domain=focus.de|ran.de|stern.de
@@ -4010,6 +4018,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||serving-sys.com/BurstingScript/$domain=serving-sys.com
 ||serving-sys.com/Serving/$domain=imasdk.googleapis.com
 ||smartadserver.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de|stern.de|transfermarkt.de
+||smartclip.net^$domain=focus.de
 ||smartredirect.de^$domain=focus.de
 ||smartstream.tv^$domain=imasdk.googleapis.com
 ||spotxchange.com^$domain=imasdk.googleapis.com
@@ -8196,4 +8205,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: uMJNIf4BuQnLseOeaqgvxA
+! Checksum: a4VV01mMZHABz86u8KcFcg
