@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201710232124
+! Version: 201710232205
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 23 Oct 2017 21:24 UTC
+! Last modified: 23 Oct 2017 22:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6050,6 +6050,7 @@ blogprojekt.de##.post > div[style="margin-left: 10px;"] > div[style="clear:both;
 iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:center;"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##.post td[valign="top"] > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"] > tbody > tr > td > a[target="_blank"] > img
 radio1.ch##.post-box-middle-anzeige
+amerika-forum.de##.postbitim:not([id])
 wallstreet-online.de##.posting + div[style="width:860px;"]
 stol.it##.pr
 dokus.to##.prc
@@ -8205,4 +8206,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: a4VV01mMZHABz86u8KcFcg
+! Checksum: k4rfT0XbRhUf7aIdGpGmAg
