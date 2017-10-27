@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201710261843
+! Version: 201710271635
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Oct 2017 18:43 UTC
+! Last modified: 27 Oct 2017 16:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7915,7 +7915,6 @@ yachtrevue.at,lustaufsleben.at,news.at,trend.at#?#:-abp-properties(/left: 1[0-9]
 @@||games.tfag.de^$domain=fitforfun.de
 @@||gamona.de^$elemhide
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
-@@||giga.de^$elemhide
 @@||gmx.net^*/video-adserver-config.xml$object-subrequest
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.com/ads/search/module/ads/*/search.js$domain=arcor.de|fewo-direkt.de|zoover.de
@@ -8217,4 +8216,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: obcAKyzyjZJXIzW4r4FojQ
+! Checksum: viIzAwwb4rWgQUhLDLFe7Q
