@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201710301519
+! Version: 201710301543
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 Oct 2017 15:19 UTC
+! Last modified: 30 Oct 2017 15:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6793,7 +6793,7 @@ freenet.de##a[href^="https://ad1.adfarm1.adition.com/redi?sid="]
 stadt-bremerhaven.de##a[href^="https://instaffo.com/?utm_source="] > img
 gamepro.de,gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
 ddl-warez.in##a[href^="https://share-online.biz/affiliate/"]
-kino.de##a[href^="https://sp.kino.de/spx/"]
+kino.de##a[href^="https://sp.kino.de/"]
 ddl-warez.in##a[href^="https://uploaded.net/ref/"]
 movie-blog.org##a[href^="https://vavoo.tv/promo/"]
 chip.de##a[href^="https://www.amazon.de/"][href*="&tag="]
@@ -8221,4 +8221,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: dfeJMCI22PFcw0mOFyA09A
+! Checksum: xaxsvnPEX3c36UCcfmUBCA
