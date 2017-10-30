@@ -2370,6 +2370,7 @@ myvideo.de##a[href^="http://server.nitrado.net/deu/gameserver-mieten?"]
 blasemaul.com,gratiswix.com,klubsex.com,morgensex.com,pornoflitsche.com##a[href^="http://sexplicy.net/anmelden/"]
 drop-games.org,moviez.to##a[href^="http://share.cx/partner"]
 t-online.de##a[href^="http://shop.fussball.de/?ref="]
+spielaffe.de##a[href^="http://sp.spielaffe.de/"]
 stylebook.de##a[href^="http://style.glossybox.de/?zanpid="]
 4fuckr.com##a[href^="http://sweetmichelle.net?ref="]
 spielesnacks.de##a[href^="http://t.ad2games.com/"]
@@ -2627,6 +2628,8 @@ chip.de##a[title="Amazon Instant Video"][target="_blank"]
 fc-hansa.de##a[title="DKB-Familienblock"]
 chip.de##a[title="FriendScout24"][target="_blank"]
 g4u.me##a[title="Highspeed Download"]
+spielaffe.de#?##advertising_billboard
+spielaffe.de#?##app_advertising_skyscraper_right
 golem.de##article > .formatted > p + div[style$="px 0; min-height:266px; clear:both;"]
 golem.de##article > .formatted > p + div[style="margin:15px 0; min-height:266px;"]
 yellingnews.com##article > .teaser + .related.tm
