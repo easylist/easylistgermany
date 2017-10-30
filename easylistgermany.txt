@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201710281942
+! Version: 201710301009
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 28 Oct 2017 19:42 UTC
+! Last modified: 30 Oct 2017 10:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4277,6 +4277,7 @@ wize.life##[style="position: absolute; left: 50%; margin-left: 505.5px; top: 115
 ||xxx-blog.to/pstreams.php$popup
 ||yabeat.com^*.php?id=$popup
 ||yasni.de/ad_pop.php$popup
+||youtube.com/watch?v=b0TdGvi24Zs$popup,domain=movie-blog.org
 ! -----Seitenspezifische Regeln zum Verstecken von Werbung(süberbleibseln)-----!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_hide.txt ***
 finanzen.net###Ads_BA_CAD_box + .content_box
@@ -8220,4 +8221,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: YsNqzPMcKxPCksWENxUqJQ
+! Checksum: zr0yQt9r8b43Bfaa+JR23w
