@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201710301550
+! Version: 201710311216
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 Oct 2017 15:50 UTC
+! Last modified: 31 Oct 2017 12:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3430,6 +3430,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||stadt-bremerhaven.de/wp-content/uploads/2016/12/honor5c-1.jpg
 ||stadt-bremerhaven.de/wp-content/uploads/2017/01/instaffo.gif
 ||stadt-bremerhaven.de/wp-content/uploads/2017/01/pswbanner.png
+||stadt-bremerhaven.de/wp-content/uploads/2017/10/echo.jpg
 ||stadt-werther.de/uploads/tx_macinabanners/
 ||staedte-info.net/bilder/banner_$image
 ||static-fra.de/nitronow/css/ad.css
@@ -6154,6 +6155,7 @@ gsx-r1000.de##.sidebar > .funbox > .funboxWrapper > .widget-group-random > #widg
 ploetzblog.de##.sidebar > .imglinks
 hc-empor.de##.sidebar > ul > #text-6 + #text-13 + #text-9
 1erforum.de,dasheimwerkerforum.de,mercedes-forum.com,modernboard.de,vermieter-forum.com##.sidebar a > img
+stadt-bremerhaven.de##.sidebar a[href^="https://www.amazon.de/"][href*="&tag="] > img
 berriesandpassion.com,kreativfieber.de##.sidebar-right > #text-11
 kreativfieber.de##.sidebar-right > #text-6
 berriesandpassion.com##.sidebar-right > #text-9
@@ -8223,4 +8225,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: l9BHXX3kgCHAETmWbJs3lA
+! Checksum: fZ8CB6zD2owA5f0tufIE0A
