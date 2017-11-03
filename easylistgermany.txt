@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201711021712
+! Version: 201711031702
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Nov 2017 17:12 UTC
+! Last modified: 03 Nov 2017 17:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -544,6 +544,7 @@ suedtirolnews.it#@#.ligatus
 frankenlist.de#@#.list-ad
 styleranking.de#@#.medrect-ad
 der-postillon.com#@#.middleads
+ebay-kleinanzeigen.de#@#.native-ad
 tk.de#@#.pfad
 fanfiktion.de#@#.plistaList > .itemLinkPET
 tsv-thedinghausen.de#@#.postad
@@ -7882,6 +7883,7 @@ yachtrevue.at,lustaufsleben.at,news.at,trend.at#?#:-abp-properties(/left: 1[0-9]
 @@||doubleclick.net^*/podcast.de.smartclip/*;sz=400x320;$script,domain=podcast.de
 @@||drei.at/moma/adserver/adview.php?$image
 @@||dtb-gymnet.de^*^admID^
+@@||ebayclassifiedsgroup.com^$xmlhttprequest,domain=ebay-kleinanzeigen.de
 @@||efiliale.de/efiliale/pop/js/pop.js
 @@||eltern.de^*_300x250px.$image,domain=eltern.de
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object-subrequest,domain=mobile.de
@@ -8228,4 +8230,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: m+Q5J/CJA054VPxUpC0xTg
+! Checksum: Fi9RuAXMfGd1/zwxbig34w
