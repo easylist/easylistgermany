@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201711092206
+! Version: 201711092213
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 09 Nov 2017 22:06 UTC
+! Last modified: 09 Nov 2017 22:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7150,6 +7150,7 @@ psychic.de##div[style="max-width: 728px; max-height: 90px; margin: auto;"]
 psychic.de##div[style="max-width: 800px; max-height: 250px; margin: auto;"]
 psychic.de##div[style="max-width: 860px; max-height: 250px; margin: auto;"]
 inside-handy.de##div[style="min-height: 250px; min-width: 300px; padding-left: 5px;"]
+promiflash.de##div[style="min-height: 250px; min-width: 970px;"]
 inside-digital.de,inside-handy.de##div[style="min-width: 920px; min-height: 90px"]
 tvinfo.de##div[style="overflow:hidden;margin:0;padding:0;height:125px;width:395px"]
 tonight.rp-online.de##div[style="padding-left:10px;width:980px;height:90px;"]
@@ -8199,4 +8200,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: VdpvoB45eEIQA+xo/Z0p9A
+! Checksum: 0OndDqQ4wusFkLFegVQcGw
