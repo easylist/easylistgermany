@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201711092021
+! Version: 201711092104
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 09 Nov 2017 20:21 UTC
+! Last modified: 09 Nov 2017 21:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7885,12 +7885,12 @@ yachtrevue.at,lustaufsleben.at,news.at,trend.at#?#:-abp-properties(/left: 1[0-9]
 @@||fotoschloebe.de/Werbung/$~third-party
 @@||fotostudio-katikrueger.de/werbung/$~third-party
 @@||fussball.sv-kehlen.de/werbepartner.htm
-@@||g.doubleclick.net/gampad/ads?$script,domain=gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|heise.de|rakuten.at|rakuten.de|rtl.de|zalando.de
+@@||g.doubleclick.net/gampad/ads?$script,domain=gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/gampad/ads?*300x250^$script,domain=11freunde.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
 @@||g.doubleclick.net/gampad/ads?*^sz=970x250^$subdocument,domain=welt.de
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=7tv.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|heise.de|rakuten.at|rakuten.de|rtl.de|welt.de|zalando.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|welt.de|zalando.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||galileo.tv/js/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
@@ -7919,8 +7919,6 @@ yachtrevue.at,lustaufsleben.at,news.at,trend.at#?#:-abp-properties(/left: 1[0-9]
 @@||gynny.de/img/affilinet/
 @@||gynny.de/shopframe/$document,subdocument
 @@||happybox24.ch/img/media/happybox24.ch_$image,domain=ameliatantra.jimdo.com
-@@||heise.de/autos/$elemhide
-@@||heise.de/js/autos/adplayer.min.js
 @@||horizont.net/news/media/$image,domain=horizont.net
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
 @@||idowa.de^*/advertisement/$xmlhttprequest
@@ -7932,7 +7930,6 @@ yachtrevue.at,lustaufsleben.at,news.at,trend.at#?#:-abp-properties(/left: 1[0-9]
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||insel-usedom-wollin.de/ads/$script,stylesheet
 @@||interhome.at/javascript/ad-gallery.js
-@@||ix.de^$image,domain=heise.de
 @@||jade-hs.de^*/ext-adv.js
 @@||jobpostings.tuja.de/Advertisment.aspx?$subdocument
 @@||joepenas.com/index.swf?clicktag=$object,~third-party
@@ -8200,4 +8197,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: pQgfDTTf0rvBEL3EMB8bww
+! Checksum: ea+JLmeT0ZWgG0Ae1PrxPA
