@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201711101814
+! Version: 201711101846
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Nov 2017 18:14 UTC
+! Last modified: 10 Nov 2017 18:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6631,6 +6631,7 @@ myvideo.de##a[href^="http://server.nitrado.net/deu/gameserver-mieten?"]
 blasemaul.com,gratiswix.com,klubsex.com,morgensex.com,pornoflitsche.com##a[href^="http://sexplicy.net/anmelden/"]
 drop-games.org,moviez.to##a[href^="http://share.cx/partner"]
 t-online.de##a[href^="http://shop.fussball.de/?ref="]
+erdbeerlounge.de##a[href^="http://sp.erdbeerlounge.de/"]
 spielaffe.de##a[href^="http://sp.spielaffe.de/"]
 stylebook.de##a[href^="http://style.glossybox.de/?zanpid="]
 4fuckr.com##a[href^="http://sweetmichelle.net?ref="]
@@ -7268,6 +7269,7 @@ ka-news.de##div[style^="width:145px;height:150px;"]
 windowspro.de##div[style^="width:300px;height:250px;"]
 winfuture.de##div[style^="width:729px;height:90px"]
 android-hilfe.de##div[style^="width:748px;height:100px;padding-top:10px;"]
+erdbeerlounge.de#?#a[href^="http://sp.erdbeerlounge.de/"]
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(Gesponsert))
 lix.in##form[action="ads.php"]
 serienjunkies.org##form[action="http://mirror.serienjunkies.org"]
@@ -7862,7 +7864,6 @@ yachtrevue.at,lustaufsleben.at,news.at,trend.at#?#:-abp-properties(/left: 1[0-9]
 @@||eltern.de^*_300x250px.$image,domain=eltern.de
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object-subrequest,domain=mobile.de
 @@||enjoykitz.tv/werbung.txt$object-subrequest
-@@||erdbeerlounge.de^$elemhide
 @@||eventim.de^*?affiliate=$subdocument
 @@||eventus-design.com^$~third-party
 @@||expertklein.de/xml/banner.php?id=$object-subrequest
@@ -8201,4 +8202,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ty46JR83KdE9ppTZZrt13g
+! Checksum: yEDT+1FXjjFYBmvbGrKB8A
