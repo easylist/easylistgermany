@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201711101853
+! Version: 201711101902
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 10 Nov 2017 18:53 UTC
+! Last modified: 10 Nov 2017 19:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4998,6 +4998,7 @@ chefkoch.de###recipe_com_user_banner
 kicker.de,kidszone.de,os-informer.de,pcgames.de,pcgameshardware.de,smartphone-daily.de,widescreen-online.de###rect_anz
 autoexperience.de,bauexpertenforum.de,cineman.de,daselternforum.de,fitness-foren.de,flugzeugforum.de,kreatives-wohnforum.de,laut.de,lpgforum.de,macprime.ch,mazda-forum.info,moonwalk.ch,neue-braunschweiger.de,notebookforum.at,pkw-forum.de,prad.de,ringrocker.com,teccentral.de,usp-forum.de,win-10-forum.de,win-8-forum.net,winboard.org,windows-7-forum.net,windows-8-forum.net,xboxone-forum.net###rectangle
 spieletipps.de###rectangleRgt
+spieletipps.de###rectangleRgt + div + a[href^="http://po.st/"]
 laut.de###rectangleSpace
 abacho.de###reisemarkt-sidebar
 der-postillon.com###reklame-artikel
@@ -8205,4 +8206,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: B8WyWHuBALumr43YHnDCrA
+! Checksum: eY3HKNwAuISh+rg2+XstEg
