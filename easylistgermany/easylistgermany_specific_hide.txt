@@ -743,6 +743,7 @@ chefkoch.de###recipe_com_user_banner
 kicker.de,kidszone.de,os-informer.de,pcgames.de,pcgameshardware.de,smartphone-daily.de,widescreen-online.de###rect_anz
 autoexperience.de,bauexpertenforum.de,cineman.de,daselternforum.de,fitness-foren.de,flugzeugforum.de,kreatives-wohnforum.de,laut.de,lpgforum.de,macprime.ch,mazda-forum.info,moonwalk.ch,neue-braunschweiger.de,notebookforum.at,pkw-forum.de,prad.de,ringrocker.com,teccentral.de,usp-forum.de,win-10-forum.de,win-8-forum.net,winboard.org,windows-7-forum.net,windows-8-forum.net,xboxone-forum.net###rectangle
 spieletipps.de###rectangleRgt
+spieletipps.de###rectangleRgt + div + a[href^="http://po.st/"]
 laut.de###rectangleSpace
 abacho.de###reisemarkt-sidebar
 der-postillon.com###reklame-artikel
