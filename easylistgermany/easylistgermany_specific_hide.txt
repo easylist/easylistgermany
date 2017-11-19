@@ -1550,6 +1550,7 @@ tvemsdetten.com##.hauptsponsor
 baunataler.de##.hauptsponsoren
 ak-kurier.de##.hd-banner
 goldesel.to##.hdls
+forum.golem.de##.head2 + p + div[style="min-height:266px; margin:20px 0 10px;"]
 au-ja.de##.headADB
 au-ja.de##.headADV
 fernsehlounge.de,staedte-info.net##.headbanner
@@ -2738,6 +2739,7 @@ prad.de##div[id^="content-"] > a[target="_blank"] > img
 bild.de##div[id^="content_stoerer_"]
 mafia.to##div[id^="cpa_rotator_"]
 gulli.com##div[id^="crt-"]
+forum.golem.de##div[id^="csi_forum"][style="min-height:100px"]
 downloadstube.net##div[id^="ddl_"] + div[id] + a[onclick] + br + a[onclick]
 pnp.de##div[id^="diganz"]
 abnehmen-forum.com##div[id^="edit"] > .vbseo_like_postbit + table[width="100%"][bgcolor="#FFFFFF"]
@@ -2875,6 +2877,8 @@ e-recht24.de##div[style="float:right;text-align:right;padding:0 0 0.5em 0.5em;ma
 e-recht24.de##div[style="float:right;width:300px;height:250px;margin:1em 0 1em 1em;"]
 pcgames.de##div[style="font-family:Arial, Helvetica, sans-serif; font-size:12px; padding-top:20%; text-align:center;"]:first-child > a[target="_blank"][href^="/aid,"]:first-child:last-child
 warezking.in##div[style="font-family:Trebuchet MS;margin:0px;font-size:12px;height:17px;margin-bottom:-3px;background:#000;text-align:center;overflow:hidden;-webkit-box-shadow:0 0 5px black;-moz-box-shadow:0 0 5px black;box-shadow:0 0 5px black;margin-top:-15px;"]
+golem.de##div[style="font-size: 11px !important;height: 16px;text-transform: uppercase;letter-spacing: 1px;font: normal normal 400 12px/20px 'Droid Sans',arial,sans-serif;"]
+golem.de##div[style="font-size: 11px !important;height: 16px;text-transform: uppercase;letter-spacing: 1px;font: normal normal 400 12px/20px 'Droid Sans',arial,sans-serif;"] + div > img
 titanic-magazin.de##div[style="height: 181px; width: 305px; border-radius: 5px; border: 1px solid #C0C0C0;"]
 winload.de##div[style="height: 74px; height: 74px;margin: 0px 0 6px; padding: 0px 0; background-color: white;"]
 computerhilfen.de##div[style="height:105px;margin-top:17px;position:relative;"]
