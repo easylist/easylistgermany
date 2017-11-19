@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201711191943
+! Version: 201711191952
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 19 Nov 2017 19:43 UTC
+! Last modified: 19 Nov 2017 19:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5295,6 +5295,7 @@ rundschau-online.de##.BoxContentPosAnzeige
 ksta.de##.BoxHeaderKalaydo
 sex-up.net##.BoxSidebarGoogleSexUp
 mactechnews.de##.CommercialPanel
+swoodoo.com##.Common-Kn-Rp-Inline
 ksta.de##.ContainerContentKalaydoSmall
 stayfriends.de##.ContainerRectangle
 mactechnews.de##.DfpNewsO
@@ -5305,6 +5306,7 @@ israelheute.com##.DnnModule-887
 israelheute.com##.DnnModule-888
 israelheute.com##.DnnModule-891
 israelheute.com##.DnnModule-900
+swoodoo.com##.Flights-Results-FlightRightRail
 pafnet.de##.FlyerRahmen1[width="125"]
 kimeta.de##.GoogleColSpan
 computerwoche.de##.HeadLeaderBoard
@@ -8217,4 +8219,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ce1TxjzDeu781ohWuInkqQ
+! Checksum: A3FcIIJ89uzIUzZVlXr2Vg
