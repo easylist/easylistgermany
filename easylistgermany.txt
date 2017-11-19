@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201711192026
+! Version: 201711192029
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 19 Nov 2017 20:26 UTC
+! Last modified: 19 Nov 2017 20:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6384,6 +6384,7 @@ autoextrem.de,teccentral.de,winboard.org##.yui-sidebar li > span > a > img
 magistrix.de##.zeezee
 german-bash.org##.zitat > div[style="width:300px;"]
 suche.1und1.de,suche.gmx.net,suche.web.de##COMPONENTS-SHOPPING-ONEBOX-LIST.l-display-block
+verivox.de##NRG-RESULT-LIST > ul > .position-zero
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[class] > a[target="_blank"][href*=".npage.de/"][href$=".html"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##[id] > a[target="_blank"][href^="/"][href$=".html"]
 forum-sachsen.com##[width="425"][height="600"][style="position: absolute; top: 100px; left: 550px; empty-cells: hide;"]
@@ -8231,4 +8232,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: KHm9U0Adg0WZWDqavuinWQ
+! Checksum: hSiVevDudWEv7KEgVM1Qpg
