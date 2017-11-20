@@ -431,6 +431,7 @@
 @@||track.adform.net/serving/scripts/trackpoint/$script,domain=mazda.de
 @@||tradedoubler.com/click?$subdocument,domain=eule.de|gutscheindoktor.de|preismafia.com
 @@||tradedoubler.com/redirect/*^affID^$subdocument,domain=gutscheindoktor.de
+@@||treesarekeys.com/shops/|$document,domain=treesarekeys.com
 @@||tv.derstandard.at/adserver.php?*&pos=video$subdocument
 @@||ui-portal.de^*/video-adserver-config.xml$object-subrequest
 @@||uicdn.com^*/video-adserver-config.xml$object-subrequest
