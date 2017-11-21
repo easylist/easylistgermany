@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201711212146
+! Version: 201711212152
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Nov 2017 21:46 UTC
+! Last modified: 21 Nov 2017 21:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -538,7 +538,7 @@ di.fm#@#.firstload
 esvkticker.sports-stream.de#@#.google_adsense
 11freunde.de#@#.gujAd
 immobilienscout24.de#@#.has-ad
-gofeminin.de,guterhut.de#@#.img_ad
+gofeminin.de,guterhut.de,notebooksbilliger.de#@#.img_ad
 hochzeitswahn.de#@#.internal-ad
 frankenlist.de#@#.item-ad
 suedtirolnews.it#@#.ligatus
@@ -565,8 +565,8 @@ onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net,reisebine.de#@#a[href^="https://ad.doubleclick.net/"]
 daswetter.com,gofeminin.de#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
-11freunde.de,gofeminin.de#@#div[id^="google_ads_iframe_"]
-11freunde.de,gofeminin.de,guterhut.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
+11freunde.de,gofeminin.de,notebooksbilliger.de#@#div[id^="google_ads_iframe_"]
+11freunde.de,gofeminin.de,guterhut.de,notebooksbilliger.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 ! ---------------------------Third-party Werbeserver---------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
 ||2mdn.net^$object-subrequest,third-party,domain=anleger-fernsehen.de|blick.ch|fitforfun.de|focus.de|giga.de|golem.de|helpster.de|myspass.de|netzwelt.de|stol.it|sueddeutsche.de|tvtoday.de
@@ -7929,12 +7929,12 @@ yachtrevue.at,lustaufsleben.at,news.at,trend.at#?#:-abp-properties(/left: 1[0-9]
 @@||fotoschloebe.de/Werbung/$~third-party
 @@||fotostudio-katikrueger.de/werbung/$~third-party
 @@||fussball.sv-kehlen.de/werbepartner.htm
-@@||g.doubleclick.net/gampad/ads?$script,domain=gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|zalando.de
+@@||g.doubleclick.net/gampad/ads?$script,domain=gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/gampad/ads?*300x250^$script,domain=11freunde.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
 @@||g.doubleclick.net/gampad/ads?*^sz=970x250^$subdocument,domain=welt.de
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=7tv.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|rtl.de|welt.de|zalando.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|welt.de|zalando.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||galileo.tv/js/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
@@ -7952,7 +7952,7 @@ yachtrevue.at,lustaufsleben.at,news.at,trend.at#?#:-abp-properties(/left: 1[0-9]
 @@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
 @@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|zalando.de
-@@||googlesyndication.com/simgad/$image,domain=gofeminin.de
+@@||googlesyndication.com/simgad/$image,domain=gofeminin.de|notebooksbilliger.de
 @@||googlesyndication.com/simgad/14155692645477451130$image,domain=guterhut.de
 @@||googlewatchblog.de/img/index-icons/$image
 @@||googlewatchblog.de^*/adsense.png
@@ -8244,4 +8244,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 0drqTOEpJ0TKzx76M4bPMg
+! Checksum: nQaxzgCuOlaDsZul2ceXjQ
