@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201711241858
+! Version: 201711271709
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 24 Nov 2017 18:58 UTC
+! Last modified: 27 Nov 2017 17:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7737,12 +7737,7 @@ wn.de#?#:-abp-properties(width: 1000.*px;) > div > img
 @@||adclient.uimserv.net/banner?$script,domain=millionenklick.web.de
 @@||adform.net/adfserve/?bn=$script,domain=rewe.de
 @@||adform.net/adx/?rp=$script,domain=rewe.de
-@@||adform.net/Banners/Elements/Files/$domain=rewe.de
-@@||adform.net/banners/scripts/adfscript.js$domain=rewe.de
-@@||adform.net/banners/scripts/adx.js$domain=rewe.de
-@@||adform.net/banners/scripts/assets/components/dynamicSlider.js$domain=rewe.de
-@@||adform.net/banners/scripts/extensions/de/Rewe/rewe_slider.js$domain=rewe.de
-@@||adform.net/banners/scripts/rmb/Adform.DHTML.js$domain=rewe.de
+@@||adform.net/banners/$domain=rewe.de
 @@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=rewe.de
 @@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
 @@||adimg.uimserv.net^$image,domain=millionenklick.web.de
@@ -8218,4 +8213,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: vWT7WV/xgBwYoDOqYAwryw
+! Checksum: KUqPVEd+6t+ulcVZhlgv0Q
