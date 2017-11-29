@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201711272217
+! Version: 201711291728
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Nov 2017 22:17 UTC
+! Last modified: 29 Nov 2017 17:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6997,6 +6997,7 @@ rtl.de##div[data-adformat="octopus_mr"]
 rtl.de,sport.de,vox.de##div[data-adformat="rectangle"]
 chip.de##div[data-adzone="contentad-afc-main"]
 chip.de##div[data-adzone="contentad-storyad-afc"]
+essen-und-trinken.de##div[data-ga_event^="shopping-sidebarrezepte:"]
 t-online.de##div[data-url^="http://m.exactag.com/"]
 amazon.de##div[id$="_adcontent"]
 vol.at##div[id^="AdContainer_"]
@@ -8213,4 +8214,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Sy26Fp+mQEtvXZWnNSTDhw
+! Checksum: HeYg28TM1H2C3uuW5NZ9Hg
