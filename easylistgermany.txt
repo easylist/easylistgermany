@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201712032032
+! Version: 201712032053
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Dec 2017 20:32 UTC
+! Last modified: 03 Dec 2017 20:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1000,6 +1000,16 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^$third-party
 ! Mobile
 ||avault.net^$third-party
+! 
+||bestes-produkt-vong-kaufen-her.de^$third-party
+||connor-kauft.de^$third-party
+||da-shoppe-ich-gerne.de^$third-party
+||eckstein-eckstein-alles-muss-versteckt-sein.de^$third-party
+||elijah-erwirbt.de^$third-party
+||i-bims-1-produkt.de^$third-party
+||i-bims-ein-shopper.de^$third-party
+||ichkaufehierein.de^$third-party
+||meinelieblingsprodukte.de^$third-party
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers_popup.txt ***
 ||ad.de.doubleclick.net^$popup,third-party
 ||adperform.de^$popup,third-party
@@ -1876,7 +1886,6 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||berlinertageszeitung.com/images/banners/
 ||bestboyz.de/wp-content/uploads/*-300x600_
 ||bestboyz.de/wp-content/uploads/*/ggsim_banner_blog_
-||bestes-produkt-vong-kaufen-her.de^$domain=quoka.de
 ||bgstatic.de/images/was/campagnes/*/wallpaper/$domain=browsergames.de
 ||bhc06.de/images/brosedkb.jpg
 ||bhc06.de/images/sponsorenleiste.jpg
@@ -2009,7 +2018,6 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||computerhilfen.de^*/gt-banner-
 ||connect.de^*/partner.js
 ||connect.quoka.de^
-||connor-kauft.de^$domain=quoka.de
 ||coretime.fm/banner/
 ||crackajack.de^*/_banner/$image
 ||crawli.net/com/
@@ -2029,7 +2037,6 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||csr-news.net/main/images/grundfos.gif
 ||cybercity.de/domains4sale/
 ||cylex.de/images/cylex.de/credit-report-banner-
-||da-shoppe-ich-gerne.de^$domain=quoka.de
 ||daf.fm/templates/images/flatex_
 ||daf.fm/templates/images/vitrade_
 ||dance-charts.de/images/banners/
@@ -2176,7 +2183,6 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||ebby.es^*/wfc_logo220.png
 ||ebook-hell.to^*/jspop.js
 ||ecdl-moodle.de^*/script_banner_
-||eckstein-eckstein-alles-muss-versteckt-sein.de^$domain=quoka.de
 ||econo.de/uploads/tx_macinabanners/
 ||ednetz.de/aktionen/banner.html
 ||edvinfos.de/banner/
@@ -2611,8 +2617,6 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||html-world.de/anzeige.gif
 ||html-world.de/anzeige3.gif
 ||htwk-leipzig.de^*/premium-partner/
-||i-bims-1-produkt.de^$domain=quoka.de
-||i-bims-ein-shopper.de^$domain=quoka.de
 ||iamgamer.de/uploads/tx_iagnewsandarticles/branding/
 ||iamgamer.de/uploads/tx_iagnewsandarticles/brandings/
 ||iban.de/img/1/bbox.gif
@@ -2620,7 +2624,6 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||iban.de/img/1/btop.gif
 ||ibash.de^*.html$subdocument
 ||ich-hab-gar-keine-homepage.de/show/kh.php
-||ichkaufehierein.de^$domain=quoka.de
 ||ichspiele.cc/assets/images/backgrounds/
 ||idealo.de/banner/
 ||idowa.de/banner/
@@ -2854,7 +2857,6 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||mega-stream.to/js/ppop*.js
 ||mega-stream.to^*/system.js
 ||mein-shirt.net^$domain=smsit.me
-||meinelieblingsprodukte.de^$domain=quoka.de
 ||meintomtom.de^*/back_adblock.gif
 ||meisterkuehler.de/bilder/artikel/banner/
 ||mensa-kl.de/banner/
@@ -8244,4 +8246,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: W90KvYfOaAJmVn0UVV73OQ
+! Checksum: z6lDxu/pGkT+HSxKYHNR/A
