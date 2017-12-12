@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201712112100
+! Version: 201712121737
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 11 Dec 2017 21:00 UTC
+! Last modified: 12 Dec 2017 17:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4382,7 +4382,7 @@ motorsport-xl.de###adala_bgholder
 fem.com###add_square
 verkehrsmittelvergleich.de###adhs
 hifitest.de###adl
-erf.de,fiverdeal.de,gepostet.com,haustierstall.de,musotalk.de,radiof.de,seniorkom.at,suedostschweiz.ch,unite.ws,web.de,welt.de,wer-kennt-wen.de###ads
+erf.de,fiverdeal.de,gepostet.com,haustierstall.de,musotalk.de,radiof.de,seniorkom.at,suedostschweiz.ch,unite.ws,web.de,wer-kennt-wen.de###ads
 ringrocker.com###adsense + #newcomment
 abload.de###adunten + div[style="font-size:8pt; color:#999999; margin-left:39px; width: 728px;"]
 1und1.de,gmx.net,web.de###adv
@@ -4596,7 +4596,6 @@ matheboard.de###content_rect2_div
 matheboard.de###content_rect_div
 data-travelers.de###contentas
 motorline.cc###contentbanner
-welt.de###contentbar01
 pixelio.de###contentcontainer > div[align="left"][style="margin-top: 10px; margin-left: 20px"]
 antenne.de###crBanner
 crn.de###crn_adbox
@@ -4612,7 +4611,6 @@ ebay.de###dfp-banner
 kalaydo.de###dfpBannerBapFrontpage
 probefahrten.eu###dialog
 quoka.de###divBannerRESULTHEADER
-welt.de###divInterstitielLayer
 game-freaks.net,saugking.net,warez-load.com###div_flip
 arbeitstage.at,arbeitstage.de,joursouvres.ch###div_lfsp
 g4u.me###dl-middle
@@ -5286,7 +5284,6 @@ shortnews.de###vv
 derwesten.de###w-ad-hpa
 med1.de###w2_u[style="visibility: visible; margin-bottom: 1em; clear: left;"]
 med1.de###w_b
-welt.de###w_bdrecart
 med1.de###w_o
 med1.de###w_s
 queer.de###walloben
@@ -5403,7 +5400,7 @@ tutorials.de##.above_body > #header + #navbar + table:last-child
 rc-network.de##.above_body:first-child + table[cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 die-schnelle-kuh.de##.abp
 presseportal.de##.abvbp-parent-hockey
-aachener-nachrichten.de,abendblatt.de,ak-kurier.de,alle-immobilien.ch,azonline.de,bazonline.ch,bernerzeitung.ch,bildderfrau.de,billig-flieger-vergleich.de,bos-fahrzeuge.info,computerbase.de,crn.de,derbund.ch,derlacher.de,echo-online.de,epochtimes.de,fail.to,fettspielen.de,funnypizza.de,glamour.de,gmx.net,gq-magazin.de,hardwareclips.com,inside-handy.de,ircgalerie.net,kalenderwoche.net,kino24.to,kronehit.at,macwelt.de,metager.de,modhoster.de,newscomm.de,oberhessische-zeitung.de,phonostar.de,podcast.de,prisma.de,radiokoeln.de,raidrush.org,rhein-neckar-loewen.de,sachsen-fernsehen.de,shopbetreiber-blog.de,sueddeutsche.de,suite101.de,tagesanzeiger.ch,wallstreet-online.de,web.de,welt.de,wn.de,yellingnews.com,zeit.de##.ad
+aachener-nachrichten.de,abendblatt.de,ak-kurier.de,alle-immobilien.ch,azonline.de,bazonline.ch,bernerzeitung.ch,bildderfrau.de,billig-flieger-vergleich.de,bos-fahrzeuge.info,computerbase.de,crn.de,derbund.ch,derlacher.de,echo-online.de,epochtimes.de,fail.to,fettspielen.de,funnypizza.de,glamour.de,gmx.net,gq-magazin.de,hardwareclips.com,inside-handy.de,ircgalerie.net,kalenderwoche.net,kino24.to,kronehit.at,macwelt.de,metager.de,modhoster.de,newscomm.de,oberhessische-zeitung.de,phonostar.de,podcast.de,prisma.de,radiokoeln.de,raidrush.org,rhein-neckar-loewen.de,sachsen-fernsehen.de,shopbetreiber-blog.de,sueddeutsche.de,suite101.de,tagesanzeiger.ch,wallstreet-online.de,web.de,wn.de,yellingnews.com,zeit.de##.ad
 ak-kurier.de##.ad + #flashContent
 ak-kurier.de##.ad + .tdt
 ak-kurier.de##.ad + .uk-panel
@@ -5458,7 +5455,7 @@ detektor.fm##.advarea
 animania.de,eurogamer.de,hcelb.de,morningstar.de,mrn-news.de,n-tv.de,teleboerse.de,tvtv.at,tvtv.ch,tvtv.de,weser-kurier.de##.advert
 filsh.net##.advert + .notification
 veeseo.com##.advertisement
-morgenpost.de,thueringer-allgemeine.de,welt.de##.advertising
+morgenpost.de,thueringer-allgemeine.de##.advertising
 au-ja.de##.advframe
 n-mag.de,sein.de##.advs
 netluchs.de##.adw
@@ -5494,7 +5491,7 @@ gamepro.de,gamestar.de##.amz
 andreziegler.de##.amz_main
 winfuture.de##.amzwgt
 sdx.cc##.announce_text
-bauexpertenforum.de,biallo.de,deutsche-startups.de,epochtimes.de,fremdwort.de,genderblog.de,gesetzlichekrankenkassen.de,heinertown.de,heise.de,juedische-allgemeine.de,lehrerfreund.de,medizin-netz.de,motorsport-total.com,moviejones.de,nwzonline.de,oktoberfestportal.de,projektmagazin.de,rtl.de,saarbruecker-zeitung.de,sportal.de,telemedicus.info,tweakpc.de,welt.de,wer-kennt-wen.de,wetter.com,win-10-forum.de,winboard.org,zdnet.de,zeit.de##.anzeige
+bauexpertenforum.de,biallo.de,deutsche-startups.de,epochtimes.de,fremdwort.de,genderblog.de,gesetzlichekrankenkassen.de,heinertown.de,heise.de,juedische-allgemeine.de,lehrerfreund.de,medizin-netz.de,motorsport-total.com,moviejones.de,nwzonline.de,oktoberfestportal.de,projektmagazin.de,rtl.de,saarbruecker-zeitung.de,sportal.de,telemedicus.info,tweakpc.de,wer-kennt-wen.de,wetter.com,win-10-forum.de,winboard.org,zdnet.de,zeit.de##.anzeige
 designtagebuch.de##.anzeige-links
 designtagebuch.de##.anzeige-mittig
 tbv-lemgo.de##.anzeige2
@@ -8254,4 +8251,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: WN8NZc2PF9xocJkYkdW8rA
+! Checksum: Qa+tYps0Qrmdbk5CA/OeEg
