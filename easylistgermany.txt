@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201712132000
+! Version: 201712251253
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Dec 2017 20:00 UTC
+! Last modified: 25 Dec 2017 12:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -996,6 +996,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||yoomedia.de^$third-party
 ||youads.de^$third-party
 ||yourlayer.de^$third-party
+||z0a.de^$third-party
 ||za-ads.de^$third-party
 ||zieltracker.de^$third-party
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^$third-party
@@ -1450,6 +1451,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||prospekt38.de^*/widget.php?anbieter_id=$subdocument,third-party
 ||psw.net/banner.gif$third-party
 ||psychologe.de/partner/$third-party
+||publisher.outtra.com^$third-party
 ||publisher.spoods.de^$third-party
 ||pvnsolutions.com/brand/hoh/file/*/schottenland/$domain=hoh.de
 ||px24.com/promotion/$third-party
@@ -8250,4 +8252,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: nHbsxaXPP+s2zddSovKHaw
+! Checksum: JvMPVa/ewi69ZqzHm4EyDA
