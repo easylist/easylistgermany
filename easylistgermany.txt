@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201712251253
+! Version: 201801082040
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 25 Dec 2017 12:53 UTC
+! Last modified: 08 Jan 2018 20:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7373,7 +7373,6 @@ podcast.de##iframe[style^="width:160px;height:600px;"]
 reitforum.de##iframe[width="160"][height="610"]
 reitforum.de##iframe[width="728"][height="100"]
 t-online.de##img[alt*="Mary & Paul"]
-t-online.de##img[alt*="Rabatt"]
 t-online.de##img[alt="Bequeme Slipper & Mokassins von hoher Qualität bei Vamos"]
 t-online.de##img[alt="Die neue Kollektion bei opus-fashion.com"]
 fitforfun.de##img[alt="FigurCoach Schlank per Mausklick"]
@@ -8252,4 +8251,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: JvMPVa/ewi69ZqzHm4EyDA
+! Checksum: NpRTZHnHBxuFA5IuGaA46Q
