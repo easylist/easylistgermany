@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201801231744
+! Version: 201801231745
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 23 Jan 2018 17:44 UTC
+! Last modified: 23 Jan 2018 17:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7291,6 +7291,7 @@ windowspro.de##div[style^="width:300px;height:250px;"]
 winfuture.de##div[style^="width:729px;height:90px"]
 android-hilfe.de##div[style^="width:748px;height:100px;padding-top:10px;"]
 erdbeerlounge.de#?#a[href^="http://sp.erdbeerlounge.de/"]
+facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(Gespo))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-contains(Gesponsert))
 facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(a[href="#"]:-abp-properties(content: "Gesponsert"))
 lix.in##form[action="ads.php"]
@@ -8240,4 +8241,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Ae2TmDI0QAClhSCd831HfA
+! Checksum: q/np7bkq+mRhhgDXod4l+g
