@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201801231745
+! Version: 201801251742
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 23 Jan 2018 17:45 UTC
+! Last modified: 25 Jan 2018 17:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4313,6 +4313,7 @@ unterwasserwelt.de###Tabelle673
 t-online.de###Tadspacefootlb
 t-online.de###Tamrecbox
 t-online.de###Tcmd1 > .Tmect
+t-online.de###Tcontbox > .Tgboxh > .altInventory
 t-online.de###Tcontboxi > .Tagbox > .Tart > #Ttub2
 cio.de###TopBanner
 finanz-notes.de,mazda-forum.info,unixboard.de###TopRectangle
@@ -8241,4 +8242,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: q/np7bkq+mRhhgDXod4l+g
+! Checksum: dZSemf2GGqep138ArpXpCQ
