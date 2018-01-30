@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201801251804
+! Version: 201801301811
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 25 Jan 2018 18:04 UTC
+! Last modified: 30 Jan 2018 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8174,6 +8174,9 @@ yachtrevue.at,news.at,trend.at#?#:-abp-properties(/left: [1-8][0-9]{4}|9[0-9][0-
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=kalender-365.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kalender-365.de
 kalender-365.de#@#.adsbygoogle
+! Necessary for AdBlock for Safari to fix blocked slider on shop.rewe.de
+@@||s1.adform.net/Banners/Elements/Files/34516/2017020/2017020.js?ADFassetID=2017020&bv=
+@@||s1.adform.net/Banners/Elements/Files/34516/2494523/Res ContentAd_main_asset/2494523.js?ADFassetID=2494523&bv=
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist_dimensions.txt ***
 @@||bueropartner24.de/out/pictures/generated/category/icon/728_90_$image,~third-party
 @@||campact.de^*_300x250.gif
@@ -8213,4 +8216,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: rJlBf/1STl3A3D07WoSVSQ
+! Checksum: +Lkmx2ZXpTKlA11GxDZzjw
