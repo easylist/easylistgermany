@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201802281801
+! Version: 201802281803
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 28 Feb 2018 18:01 UTC
+! Last modified: 28 Feb 2018 18:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8033,6 +8033,7 @@ yachtrevue.at,news.at,trend.at#?#:-abp-properties(/left: [1-8][0-9]{4}|9[0-9][0-
 @@||netzathleten-media.de^*/naMediaAd.js$domain=kino-vorschau.com
 @@||nonstoppartner.net/a/?$subdocument,domain=gutscheindoktor.de
 @@||nordclick.de/js/colors/adsense_colors.js
+@@||notebookcheck.com^$generichide
 @@||nuggad.net/bk?nuggn=$object-subrequest,domain=edge.download.newmedia.nacamar.net
 @@||nuggad.net/bk?nuggn=$script,domain=podcast.de
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|schwaebische.de|sky.de|studis-online.de|vox.de
@@ -8262,4 +8263,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: amk58jihQckKYCGFU65hqg
+! Checksum: Wu6XuNQxnmc20Bk+42L5yw
