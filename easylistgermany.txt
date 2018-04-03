@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201804031651
+! Version: 201804031721
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 03 Apr 2018 16:51 UTC
+! Last modified: 03 Apr 2018 17:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4274,6 +4274,7 @@ t-online.de###Tamrecbox
 t-online.de###Tcmd1 > .Tmect
 t-online.de###Tcontbox > .Tgboxh > .altInventory
 t-online.de###Tcontboxi > .Tagbox > .Tart > #Ttub2
+t-online.de###Tlibelle
 cio.de###TopBanner
 finanz-notes.de,mazda-forum.info,unixboard.de###TopRectangle
 freiepresse.de###TopWrapper
@@ -6933,6 +6934,7 @@ rtl.de##div[data-adformat="octopus_mr"]
 rtl.de,sport.de,vox.de##div[data-adformat="rectangle"]
 chip.de##div[data-adzone="contentad-afc-main"]
 chip.de##div[data-adzone="contentad-storyad-afc"]
+t-online.de##div[data-dy*="Partner:"]
 essen-und-trinken.de,livingathome.de##div[data-ga_event^="shopping-sidebar"]
 t-online.de##div[data-url^="http://m.exactag.com/"]
 amazon.de##div[id$="_adcontent"]
@@ -8263,4 +8265,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: euUspmAO1jN6fuY/Khh36g
+! Checksum: x+m2VdTNKJMcnKZGZIwRKw
