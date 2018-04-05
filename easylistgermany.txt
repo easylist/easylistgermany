@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201804051641
+! Version: 201804051643
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 05 Apr 2018 16:41 UTC
+! Last modified: 05 Apr 2018 16:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4071,7 +4071,6 @@ kicker.de##[style="position: absolute; max-width: 300px;"]
 kindergeld.org##.g-single.a-9
 liga3-online.de###skyscraperstart
 liga3-online.de##.widget.widget_text
-modhoster.de##.mobile.hidden.tablet.hidden
 moviejones.de##[style="position: fixed; margin-left: 1040px; top: 50px;"]
 netzwelt.de###leaderboard-wrapper
 netzwelt.de###skyscraper-wrapper
@@ -8266,4 +8265,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: lVTUZZxduBVBZk2pxqRhWA
+! Checksum: VVxxwV/j0FIz9BTxb67uEQ
