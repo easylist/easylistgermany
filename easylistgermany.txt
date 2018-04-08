@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201804062027
+! Version: 201804081737
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 06 Apr 2018 20:27 UTC
+! Last modified: 08 Apr 2018 17:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3428,6 +3428,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||sprachnudel.de/-/*/$xmlhttprequest
 ||sprachnudel.de/:/$xmlhttprequest
 ||sprachnudel.de/_sks02j1/$xmlhttprequest
+||sprachnudel.de/js/t.js
 ||sprachnudel.de/js/too1s.js
 ||sprachnudel.de/~$xmlhttprequest
 ||sprachnudel.de^*/*.*=&$xmlhttprequest
@@ -5228,6 +5229,7 @@ serienjunkies.de###wrap + span[align="center"] + div
 manager-magazin.de###wrapBoard > #wrapMain:first-child > .pbox
 schwaebische.de###wrapper > #titelkopf
 xxx-blog.to###wrapper > div#header:first-child + center
+sprachnudel.de###wrapper > div[style="margin: 0 0 5px 0;"]
 leave.to###wrapper > header + .wrapping
 leave.to###wrapper > header + .wrapping + .wrapping:last-child
 micky-maus.de###wrapper-1 > #extra1[style="padding-left: 108px;"]
@@ -6207,6 +6209,7 @@ rheintaler.ch##.tbrprehtml
 hifi-forum.de##.td1[valign="top"] > div[style="float:left; width: 300px; height: 250px; margin-right: 10px; margin-bottom: 10px; padding:0;"]:first-child
 bild.de##.tea-rectangle
 swz.it##.teaser
+sprachnudel.de##.teaser > div[style="padding:5px 0 5px 0;"][align="center"]
 bento.de##.teaser-content.spns
 notebookinfo.de##.teaser-news-inline-anzeige
 bluewin.ch##.teaser-partnerlink
@@ -7187,6 +7190,7 @@ acer-userforum.de##div[style="text-align:center;width:760px;height:120px;padding
 gamestar.de##div[style="top:0px;position:absolute;left:1001px;"] + [class] > img
 abkuerzungen.de##div[style="vertical-align:center;margin-left:8px;padding:8px;border:1px solid gray;background-color:white;"]
 xvideo-deutsch.com##div[style="width: 1000px; margin: 0 auto; height: 80px; overflow: hidden;"]
+sprachnudel.de##div[style="width: 1026px; background-color: #fff; margin-top: 5px;"]
 winload.de##div[style="width: 164px; height: 94px; padding: 6px 0px 0px 12px; margin: 1px 0px 2px 0px; background-color: white; background-image: url(/pix/layout/advertising/adsense/navigation-adsense-background.gif); background-repeat: repeat-x;"]
 winload.de##div[style="width: 180px; height: 90px; padding: 6px 0px 12px 3px;"]
 lpgforum.de##div[style="width: 258px; min-height: 322px; margin-bottom: 15px;border: 1px solid #C1C1C1;padding: 10px 20px;"]
@@ -8272,4 +8276,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: eiFmHLNZ6p0daU1U6SYo+A
+! Checksum: U08TRjsZPXR1IqQl1+xbkA
