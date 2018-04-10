@@ -412,6 +412,8 @@
 @@||stroeermediabrands.de/dmp-tracking-min.js$domain=gamona.de|giga.de|gofeminin.de|spieletipps.de
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
+@@||tamedia.ch/tl_files/content/Icons/Advertising_$domain=tamedia.ch
+@@||tamedia.ch^*/advertising-$subdocument,domain=tamedia.ch
 @@||teufel-media.de/www/delivery/avw.php?zoneid=$image,domain=gewinnspiele.freenet.de
 @@||tfag.de/img/$domain=focus.de
 @@||tfag.de/js_ng/js_ng_huffpost_$script,domain=huffingtonpost.de
