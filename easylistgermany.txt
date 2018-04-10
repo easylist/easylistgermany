@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201804091634
+! Version: 201804101641
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 09 Apr 2018 16:34 UTC
+! Last modified: 10 Apr 2018 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5280,6 +5280,7 @@ perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
 promiflash.de##.LazyLoad[style="min-height: 250px; min-width: 300px;"]
 promiflash.de##.LazyLoad[style="min-height: 270px; min-width: 970px;"]
+chip.de##.List > li > .copy-sm > .secondary[rel="nofollow"]
 onvista-bank.de##.MEGASIZE_BANNER
 sc-markersdorf.at##.ModBannersC
 alle-autos-in.de##.NaviTopP
@@ -6757,6 +6758,7 @@ gesetzliche-kuendigungsfrist.info##a[href^="http://www1.belboon.de/"]
 goldesel.to,mega-stream.to,moviebox.to,woom.ws##a[href^="http://www2.filedroid.net/AF_"]
 readmore.de##a[href^="http://www4.smartadserver.com/"]
 chip.de##a[href^="http://x.chip.de/fs24/io/?url="]
+chip.de##a[href^="http://x.chip.de/linktrack/teaser/?clickzone="][target="_blank"]
 xxx-blog.to##a[href^="http://xxx-blog.to/poppen/"]
 hd-world.org##a[href^="http://zip5.de/"]
 livestreamfussball.org##a[href^="http://zolanis.com/landingpage"]
@@ -8278,4 +8280,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: NzU889LGSA7A+s0ch23BrA
+! Checksum: UTvBKquBWKKKHN+srIy6rA
