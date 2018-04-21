@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201804211047
+! Version: 201804211050
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Apr 2018 10:47 UTC
+! Last modified: 21 Apr 2018 10:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5364,7 +5364,7 @@ psychic.de##.ads5
 tagesanzeiger.ch##.adsTitle
 stayfriends.de##.adsWrapper
 e-hausaufgaben.de##.adscontntad
-duden.de##.adsense
+duden.de,eatsmarter.de##.adsense
 skodacommunity.de##.adsenseContainer + div[align="center"]
 e-hausaufgaben.de##.adswallpapr
 preisvergleich.de##.adswsk
@@ -8298,4 +8298,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Y3x8y+HfkF7ExDneU/INHw
+! Checksum: hDar6eOlj/EPr5rlH9NhTQ
