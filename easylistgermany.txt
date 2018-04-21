@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201804211037
+! Version: 201804211047
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Apr 2018 10:37 UTC
+! Last modified: 21 Apr 2018 10:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6970,6 +6970,7 @@ modified-shop.org##div[id^="ad_above_"]
 modified-shop.org##div[id^="ad_after_first_post_"]
 modified-shop.org,xtc-modified.org##div[id^="ad_below_"]
 np-coburg.de##div[id^="adition_"]
+fddb.info##div[id^="adv"]
 morgenpost.de##div[id^="advertisementRightcolumn_"]
 winfuture.de##div[id^="amazon_box_iframe_"]
 netdoktor.de##div[id^="banner"]
@@ -8297,4 +8298,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: zGPVFPlWKE8pWPaP33FxnA
+! Checksum: Y3x8y+HfkF7ExDneU/INHw
