@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201804211050
+! Version: 201804231652
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Apr 2018 10:50 UTC
+! Last modified: 23 Apr 2018 16:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7774,7 +7774,7 @@ wn.de#?#:-abp-properties(width: 999px;)
 woman.at##.ad_con + * > * > img
 yachtrevue.at,news.at,trend.at#?#:-abp-properties(/left: [1-8][0-9]{4}|9[0-9][0-9]{3}.*/)
 ! 
-4players.de,areamobile.de,chefkoch.de,finanzen.at,finanzen.net,gamestar.de,golem.de,heise.de,pietsmiet.de,serienjunkies.de,welt.de,wetter.com,wetter.de,wetteronline.de##div[style="display: inherit !important;"]
+4players.de,areamobile.de,chefkoch.de,finanzen.at,finanzen.net,gamestar.de,golem.de,heise.de,notebookcheck.com,pietsmiet.de,serienjunkies.de,welt.de,wetter.com,wetter.de,wetteronline.de##div[style="display: inherit !important;"]
 golem.de##div[style="max-width:300px; width:auto; float:right; margin:0 -150px 0 20px;"]
 golem.de#?#div:-abp-contains(Anzeige) + div > img
 ! 
@@ -8298,4 +8298,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: hDar6eOlj/EPr5rlH9NhTQ
+! Checksum: 1HyKh++dIlTK2McfESv2hA
