@@ -59,6 +59,7 @@ t-online.de###Tadspacefootlb
 t-online.de###Tamrecbox
 t-online.de###Tcmd1 > .Tmect
 t-online.de###Tcontbox > .Tgboxh > .altInventory
+t-online.de###Tcontboxi + #Tgboxf
 t-online.de###Tcontboxi > .Tagbox > .Tart > #Ttub2
 t-online.de###Tlibelle
 cio.de###TopBanner
@@ -1184,6 +1185,7 @@ tchgdns.de##.alt-pub
 modernboard.de##.alt1[style="padding-top:0px"] > div[style="clear:both"] + ul[style="list-style-type:none; margin:0px; padding:0px"]
 dforum.net##.alt2[colspan="2"][style="background: #eaeab4"] > font[color="#000"]:first-child:last-child > table[width="100%"][cellspacing="0"][cellpadding="0"]:first-child:last-child
 winboard.org##.alt2[style="padding-top:0px"] > ul[style="list-style-type:none; margin:0px; padding:0px"] > br:first-child + div[align="center"]:last-child
+t-online.de##.altInventory__item
 winfuture.de##.am_box
 heise.de##.ama
 plattentests.de,radiopsr.de,rsh.de##.amazon
@@ -2553,6 +2555,7 @@ livestreamfussball.org##a[href^="http://zolanis.com/landingpage"]
 freenet.de##a[href^="https://ad1.adfarm1.adition.com/redi?sid="]
 googlewatchblog.de##a[href^="https://amzn.to/"]
 4fuckr.com##a[href^="https://bit.ly/"]
+t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
 stadt-bremerhaven.de##a[href^="https://instaffo.com/?utm_source="] > img
 gamepro.de,gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
 ddl-warez.in##a[href^="https://share-online.biz/affiliate/"]
