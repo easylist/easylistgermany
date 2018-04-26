@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201804261750
+! Version: 201804261754
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Apr 2018 17:50 UTC
+! Last modified: 26 Apr 2018 17:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3314,6 +3314,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||schnittberichte.com/pics/Schnittberichte_Scorpion.jpg
 ||schnittberichte.com/pics/Sons-of-Anarchy_v2.jpg
 ||schnittberichte.com^*.swf$object
+||schnittberichte.com^*/werbung/
 ||schnittberichte.com^*_459x1200_
 ||schnittberichte.com^*_takeover_
 ||schoener-fernsehen.com/images/gotootr.jpg
@@ -4450,6 +4451,7 @@ suedkurier.de###box_meinsueden
 bloggospace.de###boxgoogle
 playmassive.de###brand
 gameswelt.at,gameswelt.ch,gameswelt.de###brandabstand
+schnittberichte.com###branding
 20min.ch###branding-click
 bluray-disc.de###branding_header
 maniac.de###branding_spanner
@@ -6138,6 +6140,7 @@ rpc-germany.de##.sidebar_banner_bg
 n-tv.de##.sidebar_block[style="width:300px;height:163px"]
 n-tv.de##.sidebar_block_dark[style="padding-left: 40px; height: 200px;"]
 downloadstube.net##.sidebox_details > div[class]:first-child
+schnittberichte.com##.sideboxes
 fettspielen.de##.similar-games > .unblock
 fck.de##.site_ovlerlay
 dokus4.me##.siyl
@@ -6378,6 +6381,7 @@ windowspro.de##a[href*="/adclick."]
 htwk-leipzig.de##a[href*="/adclick.php?"]
 satindex.de##a[href*="/extern.php?"]
 serienjunkies.org##a[href*="/mirror."]
+schnittberichte.com##a[href*="/out.php?"]
 bild.de##a[href*="/partner/"]
 20min.ch##a[href*="/sponsored/story/"]
 emfis.de##a[href*="/uebersicht.html?tx_ricrotation_"]
@@ -8310,4 +8314,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ezyezYAgWFkEuyt+pDkr3A
+! Checksum: 1PN/sj2wX1Pv+M8dJPZ34w
