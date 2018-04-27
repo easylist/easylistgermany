@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201804271618
+! Version: 201804271623
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 27 Apr 2018 16:18 UTC
+! Last modified: 27 Apr 2018 16:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3503,6 +3503,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||suedpfalz-verlag.de/uploads/pics/logo_fmf-real_suedpfalz_verlag_klein_01.jpg
 ||suedtiroltv.it^*/banner
 ||sunshine.ch/files/banner
+||sunshine.it^*/raika.
 ||superfly.fm/images/banners/
 ||superfunblog.com^*/layer.js
 ||supertipp-online.de/uploads/tx_macinabanners/
@@ -5775,7 +5776,7 @@ de.pons.com##.header + div > [-abp-properties='margin-bottom: 20px;'] > img
 goldesel.to##.header + ul + ul > li > a > img
 derwesten.de##.header > .g_1of1 > .box > .mod_pic > .hyph > .img
 downloadstube.net##.header > div:last-child > a[onclick]:first-child
-videothek.cc##.header-banner
+sunshine.it,videothek.cc##.header-banner
 lintorfer.eu##.header-widget
 blick.ch##.headerPartners
 datensammler.org##.header_right_d
@@ -5993,6 +5994,7 @@ eatsmarter.de##.partnerbox
 quoka.de##.partnersmall
 picdumps.com##.pcd_mitte
 4players.de##.pcsponsor
+sunshine.it##.penci_list_banner_widget
 rtl.de##.performanceRect
 20min.ch##.piazza
 gamingxp.com,mobilexp.com##.platform_index_bsb
@@ -8290,4 +8292,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: UDN1MlmA47XYJltvH4L5Jg
+! Checksum: S6SHTqjbe+VREUlJ30eO4Q
