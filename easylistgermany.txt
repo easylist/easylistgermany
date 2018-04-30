@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201804301457
+! Version: 201804301519
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 Apr 2018 14:57 UTC
+! Last modified: 30 Apr 2018 15:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6372,7 +6372,6 @@ auswandererforum.de##a[href*="affiliate.php?"]
 xp-antispy.org##a[href*="com_partner&link="]
 3dl.tv##a[href*="downloadboutique.com"]
 hd-vidz.net##a[href*="filesonthe.net"]
-schnittberichte.com##a[href*="out.php?"]
 arcor.de##a[href="/content/unterhaltung/lotto/"]
 smsgott.de##a[href="/d2freikarte.php"]
 sb.sbsb.cc##a[href="/download.php"]
@@ -6774,7 +6773,7 @@ kino.de##a[href^="https://sp.kino.de/"]
 finanztreff.de##a[href^="https://track.adform.net/"]
 ddl-warez.in##a[href^="https://uploaded.net/ref/"]
 movie-blog.org##a[href^="https://vavoo.tv/promo/"]
-chip.de,schnittberichte.com##a[href^="https://www.amazon.de/"][href*="&tag="]
+chip.de##a[href^="https://www.amazon.de/"][href*="&tag="]
 gamiano.de##a[href^="https://www.amazon.de/"][href*="?tag=gamiano-21&"]
 chip.de##a[href^="https://www.amazon.de/gp/video/primesignup?tag="]
 livestreamfussball.org##a[href^="https://www.bwin.com/de/registration?wm="]
@@ -8295,4 +8294,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: XZEGXd17GgJ9Qa7XoJTs8Q
+! Checksum: GkeK0f7QyAFlicA6T6/EMw
