@@ -1915,7 +1915,6 @@ rpc-germany.de##.sidebar_banner_bg
 n-tv.de##.sidebar_block[style="width:300px;height:163px"]
 n-tv.de##.sidebar_block_dark[style="padding-left: 40px; height: 200px;"]
 downloadstube.net##.sidebox_details > div[class]:first-child
-schnittberichte.com##.sideboxes
 fettspielen.de##.similar-games > .unblock
 fck.de##.site_ovlerlay
 dokus4.me##.siyl
@@ -2156,7 +2155,6 @@ windowspro.de##a[href*="/adclick."]
 htwk-leipzig.de##a[href*="/adclick.php?"]
 satindex.de##a[href*="/extern.php?"]
 serienjunkies.org##a[href*="/mirror."]
-schnittberichte.com##a[href*="/out.php?"]
 bild.de##a[href*="/partner/"]
 20min.ch##a[href*="/sponsored/story/"]
 emfis.de##a[href*="/uebersicht.html?tx_ricrotation_"]
@@ -2164,6 +2162,7 @@ auswandererforum.de##a[href*="affiliate.php?"]
 xp-antispy.org##a[href*="com_partner&link="]
 3dl.tv##a[href*="downloadboutique.com"]
 hd-vidz.net##a[href*="filesonthe.net"]
+schnittberichte.com##a[href*="out.php?"]
 arcor.de##a[href="/content/unterhaltung/lotto/"]
 smsgott.de##a[href="/d2freikarte.php"]
 sb.sbsb.cc##a[href="/download.php"]
@@ -2565,7 +2564,7 @@ kino.de##a[href^="https://sp.kino.de/"]
 finanztreff.de##a[href^="https://track.adform.net/"]
 ddl-warez.in##a[href^="https://uploaded.net/ref/"]
 movie-blog.org##a[href^="https://vavoo.tv/promo/"]
-chip.de##a[href^="https://www.amazon.de/"][href*="&tag="]
+chip.de,schnittberichte.com##a[href^="https://www.amazon.de/"][href*="&tag="]
 gamiano.de##a[href^="https://www.amazon.de/"][href*="?tag=gamiano-21&"]
 chip.de##a[href^="https://www.amazon.de/gp/video/primesignup?tag="]
 livestreamfussball.org##a[href^="https://www.bwin.com/de/registration?wm="]
