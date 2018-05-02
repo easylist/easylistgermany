@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201805011713
+! Version: 201805021724
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 01 May 2018 17:13 UTC
+! Last modified: 02 May 2018 17:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1007,6 +1007,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^$third-party
 ! Mobile
 ||avault.net^$third-party
+||recognified.net^$third-party
 ! 
 ||bestes-produkt-vong-kaufen-her.de^$third-party
 ||connor-kauft.de^$third-party
@@ -8296,4 +8297,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: wVV+nxFOYccO+L1NPnrTkw
+! Checksum: 2WZqeHJIL9png0NFOtmpIA
