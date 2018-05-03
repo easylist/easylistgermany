@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201805021907
+! Version: 201805031632
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 May 2018 19:07 UTC
+! Last modified: 03 May 2018 16:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8234,7 +8234,7 @@ wetteronline.de##div[style*="display: block !important"]
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
 @@||wetteronline.de^$generichide
-@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|chip.de|discounto.de|focus.de|hellweg.at|hellweg.de|koeln.de|netmoms.de|offerista.com|sparwelt.de
+@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|chip.de|discounto.de|focus.de|hellweg.at|hellweg.de|koeln.de|netmoms.de|offerista.com|sparbaby.de|sparwelt.de
 @@||willhaben.apa.net/mmo/logo/advert/$domain=willhaben.at
 @@||windowspro.de/advertisement/chkABP.js$domain=windowspro.de
 @@||wm-druckarena.de/scripts/Werbebanner.
@@ -8298,4 +8298,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: //Xe8OqtT375yDiseyVtEQ
+! Checksum: LT0EKZQJt4VT1tXxgKGcHw
