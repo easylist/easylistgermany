@@ -1084,6 +1084,7 @@ rtl.de##.T_shopKoop
 t-online.de##.Tadblock
 t-online.de##.Tadc
 t-online.de##.Tamrecbox
+t-online.de##.Tctiga
 chip.de##.Teaser__Affiliate
 chip.de##.Teaser__Portal
 eltern-zentrum.de##.Text1[valign="top"]:last-child > .tabberlive:last-child
@@ -2147,6 +2148,8 @@ sat-erotik.de##[width="800"][cellspacing="0"][cellpadding="4"][border="0"]
 hsc-bad-neustadt.de##a[class*="sponsor"]
 mobilegeeks.de##a[data-eventcategory="Kooperation"]
 digitalfernsehen.de##a[data-redirect^="http://click.plista.com/redirect.php"] + div
+t-online.de##a[data-url^="http://m.exactag.com/"]
+t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 xxx-blog.to##a[height="600"][width="120"]
 goldesel.to##a[href$="-anonym"]
 goldesel.to##a[href$="-download"]
