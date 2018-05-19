@@ -51,6 +51,7 @@ nachrichten.at###StartseiteSonderthema
 send4free.de###Step1
 helles-koepfchen.de###Superbanner
 helles-koepfchen.de###Syscraper_left
+t-online.de###T-83783312
 fussball.de###TArtikel2 > img[height="95"][width="302"]:first-child
 mobile.de###TBANNER_SPACER
 unterwasserwelt.de###Tabelle671
@@ -1084,7 +1085,6 @@ rtl.de##.T_shopKoop
 t-online.de##.Tadblock
 t-online.de##.Tadc
 t-online.de##.Tamrecbox
-t-online.de##.Tctiga
 chip.de##.Teaser__Affiliate
 chip.de##.Teaser__Portal
 eltern-zentrum.de##.Text1[valign="top"]:last-child > .tabberlive:last-child
@@ -1101,6 +1101,7 @@ aol.de##.WOL
 helles-koepfchen.de##.Wer
 wetter.com##.\[.rectangle-home.\]
 gullipics.com##.a-zone
+dexerto.de##.aON
 winfuture.de##.a_box
 4cheaters.de##.aab-box
 islamische-zeitung.de##.aas_whole_wrapper
@@ -1163,7 +1164,7 @@ webstandard.kulando.de##.advBlockTop
 arcor.de##.advTop
 pc-magazin.de##.adv_inside_galerie
 detektor.fm##.advarea
-animania.de,eurogamer.de,hcelb.de,morningstar.de,mrn-news.de,n-tv.de,teleboerse.de,tvtv.at,tvtv.ch,tvtv.de,weser-kurier.de##.advert
+animania.de,check24.de,eurogamer.de,hcelb.de,morningstar.de,mrn-news.de,n-tv.de,teleboerse.de,tvtv.at,tvtv.ch,tvtv.de,weser-kurier.de##.advert
 filsh.net##.advert + .notification
 veeseo.com##.advertisement
 morgenpost.de,thueringer-allgemeine.de##.advertising
@@ -2398,6 +2399,7 @@ hd-world.org##a[href^="http://netload.in/"][href*="&refer_id="]
 paradise-load.us,sdx.cc##a[href^="http://netload.in/index.php?refer_id="]
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 mov-world.net##a[href^="http://nvpn.net/"]
+dexerto.de##a[href^="http://ow.ly/"]
 darktown.biz##a[href^="http://partner.rebuy.de"]
 schambereich.net##a[href^="http://partners.adklick.de/"]
 anonym.to##a[href^="http://partners.affiliace.com/"]
@@ -3117,10 +3119,12 @@ t-online.de##img[alt="Pauschalreisen bei t-online.de Reisen (Quelle: Fotalia)"]
 t-online.de##img[alt^="Modetrends"]
 t-online.de##img[alt^="Shoppen"]
 hallespektrum.de##img[alt^="Werbung"]
+t-online.de##img[height="180"][width="920"]
+t-online.de##img[height="180"][width="922"]
 raidrush.ws##img[height="250"][width="300"]
 t-online.de##img[height="365"][width="178"][style="margin-left:-10px;margin-bottom:10px"]
 lesen.to,liplop.de,teen-blog.us##img[height="60"][width="468"]
-blogtotal.de##img[height="600"][width="120"]
+blogtotal.de,t-online.de##img[height="600"][width="120"]
 arthouse.ch##img[height="72"][alt="banner"]
 winfuture.de##img[height="90"][width="729"]
 schoener-fernsehen.com##img[id$="closer"] + h2
