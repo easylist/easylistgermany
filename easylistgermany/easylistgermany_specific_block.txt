@@ -2133,7 +2133,7 @@
 ||zumlink.de/public/images/banner/
 ||zweinullig.de/wp-content/uploads/125.png
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
-! $csp filters
+! CSP filters
 ||spiele-umsonst.de^$csp=script-src 'self' * blob: 'unsafe-inline'
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
