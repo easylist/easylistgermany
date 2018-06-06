@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201806061826
+! Version: 201806061827
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 06 Jun 2018 18:26 UTC
+! Last modified: 06 Jun 2018 18:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7324,7 +7324,6 @@ t-online.de##img[alt="Frühlingsmode bei WENZ.de"]
 sbb.ch##img[alt="Halbtax mit Gratis-Kreditkarte."]
 t-online.de##img[alt="Modehighlights zu Jubiläumspreisen shoppen bei Peter Hahn!"]
 t-online.de##img[alt="Pauschalreisen bei t-online.de Reisen (Quelle: Fotalia)"]
-t-online.de##img[alt^=" (Quelle: "]
 t-online.de##img[alt^="Modetrends"]
 t-online.de##img[alt^="Shoppen"]
 hallespektrum.de##img[alt^="Werbung"]
@@ -8320,4 +8319,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: EiTsV//eqBxNHGjV7M1Zuw
+! Checksum: pIR1voNWo15v+swJkLGTTg
