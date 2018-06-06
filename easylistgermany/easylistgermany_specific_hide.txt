@@ -566,6 +566,8 @@ handball-neuhausen.de###middleWrapper > #cols3Right[style="height: 1062px;"]
 immonet.de###mietkautionslink
 20min.ch###min_billboard
 bunte.de###mini-panel-home_header_shopping_teaser
+koeln.de###mini-panel-rs_teaser_awb
+koeln.de###mini-panel-rs_teaser_verpoorten
 autozeitung.de###mini-panel-sidebar_default div[id] > img[src^="/images/"]
 20min.ch###minrectangle
 lesen.to###mirror
@@ -2577,6 +2579,7 @@ freenet.de##a[href^="https://ad1.adfarm1.adition.com/redi?sid="]
 googlewatchblog.de##a[href^="https://amzn.to/"]
 4fuckr.com##a[href^="https://bit.ly/"]
 t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
+koeln.de##a[href^="https://ed.koeln.de/ad/"]
 stadt-bremerhaven.de##a[href^="https://instaffo.com/?utm_source="] > img
 gamepro.de,gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
 ddl-warez.in##a[href^="https://share-online.biz/affiliate/"]
