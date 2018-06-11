@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201806081615
+! Version: 201806111607
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Jun 2018 16:15 UTC
+! Last modified: 11 Jun 2018 16:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7623,7 +7623,6 @@ plista.com##a[href^="http://click.plista.com/pets"]
 computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ! CSS property filters
-4players.de#?#:-abp-properties(/margin-left: -2[0-9][0-9]px;/)
 4players.de#?#:-abp-properties(margin-left: -9px;) > * > img
 4players.de#?#:-abp-properties(margin-left: 17.*px;) > img
 4players.de,eatsmarter.de#?#:-abp-properties(/margin-left: 9[0-9][0-9]px;/)
@@ -8322,4 +8321,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: ZR3pX4l5L+lORBX+QqMFgQ
+! Checksum: +X2R6c4tR7lWtgaO/hVakw
