@@ -3430,7 +3430,6 @@ plista.com##a[href^="http://click.plista.com/pets"]
 computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ! CSS property filters
-4players.de#?#:-abp-properties(/margin-left: -2[0-9][0-9]px;/)
 4players.de#?#:-abp-properties(margin-left: -9px;) > * > img
 4players.de#?#:-abp-properties(margin-left: 17.*px;) > img
 4players.de,eatsmarter.de#?#:-abp-properties(/margin-left: 9[0-9][0-9]px;/)
