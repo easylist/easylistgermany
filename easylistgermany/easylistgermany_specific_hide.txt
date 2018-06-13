@@ -2258,6 +2258,7 @@ xxx-blog.to##a[href="http://xxx-blog.to/poppen"]
 i-have-a-dreambox.com##a[href="https://www.satplace.de"]
 t-online.de##a[href="javascript:;"][target="_blank"][data-urlb]
 yourporn.ws##a[href="out.php"]
+t-online.de##a[href="t-online.de"][data-urlb] > img
 speedlounge.in##a[href="usenet"]
 t-online.de##a[href^="#"][data-urlb] > img
 landwirtschaftssimulator-mods.de##a[href^="./adclick.php?"]
