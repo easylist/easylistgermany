@@ -416,6 +416,8 @@
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||t-online.de/-/id_*/tid_cms-list-iam-adblocker-aktiv/vid_*/index$xmlhttprequest,domain=t-online.de
 @@||t-online.de/-/id_*/tid_json_actTempAndConditions/vid_*_/index$xmlhttprequest,domain=t-online.de
+@@||t-online.de/tv/id_*/tid_cms-list-iam-adblocker-aktiv/vid_*.html|$xmlhttprequest,domain=t-online.de
+@@||t-online.de/tv/id_*/tid_cms-list-iam-adblocker-aktiv/vid_*/index$xmlhttprequest,domain=t-online.de
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tamedia.ch/tl_files/content/Icons/Advertising_$domain=tamedia.ch
 @@||tamedia.ch^*/advertising-$subdocument,domain=tamedia.ch
