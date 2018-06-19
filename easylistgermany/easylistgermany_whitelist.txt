@@ -419,6 +419,7 @@
 @@||t-online.de/-/id_*/vid_*/city_*/index$xmlhttprequest,domain=t-online.de
 @@||t-online.de/tv/id_*/tid_cms-list-iam-adblocker-aktiv/vid_*.html|$xmlhttprequest,domain=t-online.de
 @@||t-online.de/tv/id_*/tid_cms-list-iam-adblocker-aktiv/vid_*/index$xmlhttprequest,domain=t-online.de
+@@||t-online.de/tv/news/id_$xmlhttprequest,domain=t-online.de
 @@||t-online.de/tv/webclips/$xmlhttprequest,domain=t-online.de
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tamedia.ch/tl_files/content/Icons/Advertising_$domain=tamedia.ch

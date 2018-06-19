@@ -2134,6 +2134,8 @@
 ||macwelt.de^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' data: *.apester.com *.accengage.net *.googleapis.com *.disqus.com *.spoods.io *.googletagservices.com *.googletagmanager.com *.outbrain.com *.onthe.io *.cloudflare.com *.youtube.com *.ytimg.com *.google-analytics.com *.ioam.de
 ||pcwelt.de^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' data: *.apester.com *.accengage.net *.googleapis.com *.disqus.com *.spoods.io *.googletagservices.com *.googletagmanager.com *.outbrain.com *.onthe.io *.cloudflare.com *.youtube.com *.ytimg.com *.google-analytics.com *.ioam.de *.neads.delivery
 ||spiele-umsonst.de^$csp=script-src 'self' * blob: 'unsafe-inline'
+||t-online.de/auto/$csp=img-src * data:
+||t-online.de/sport/$csp=img-src * data:
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
