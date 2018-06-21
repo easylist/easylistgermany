@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201806211635
+! Version: 201806211636
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Jun 2018 16:35 UTC
+! Last modified: 21 Jun 2018 16:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3894,7 +3894,6 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 @@||smartadserver.com/diff/251/divscripte/$subdocument,domain=transfermarkt.de
 @@||smartadserver.com/diff/251/partners/amazon.js$domain=autobild.de|transfermarkt.de
 @@||smartadserver.com/diff/251/verify.js$domain=transfermarkt.de
-@@||tellows.de^$genericblock,generichide
 @@||theadex.com/d/$image,script,domain=kabeleins.de
 @@||theadex.com^*/adex.js$domain=kabeleins.de|ran.de
 @@||transfermarkt.de^$genericblock,generichide
@@ -3913,18 +3912,16 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||2mdn.net^$domain=imasdk.googleapis.com|serving-sys.com
 ||3lift.com^$domain=focus.de
 ||7tv.de/xfiles/*/simad.min.js$domain=kabeleins.de|ran.de
-||ad-srv.net^$domain=focus.de|tellows.de
+||ad-srv.net^$domain=focus.de
 ||ad.71i.de^$domain=autobild.de|kabeleins.de|ran.de|transfermarkt.de
 ||ad4mat.de^$domain=googlesyndication.com
 ||adform.net^$domain=autobild.de|focus.de|googlesyndication.com
 ||adition.com^$domain=focus.de|g.doubleclick.net|transfermarkt.de
-||adnet.de^$domain=tellows.de
 ||adnxs.com^$domain=autobild.de|focus.de|transfermarkt.de|widgets.outbrain.com
 ||adrolays.de^$domain=autobild.de|transfermarkt.de
 ||adsafeprotected.com^$domain=imasdk.googleapis.com|transfermarkt.de
-||adscale.de^$domain=tellows.de
 ||adsnative.com^$domain=autobild.de
-||adtech.de^$domain=focus.de|tellows.de
+||adtech.de^$domain=focus.de
 ||advertising.com^$domain=focus.de
 ||advolution.de^$domain=focus.de
 ||amazon-adsystem.com^$domain=autobild.de|focus.de|transfermarkt.de
@@ -3937,18 +3934,16 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||conative.de^$domain=focus.de
 ||consumable.com^$domain=focus.de
 ||contextweb.com^$domain=focus.de
-||criteo.com^$domain=tellows.de
 ||criteo.net^$domain=transfermarkt.de
 ||flashtalking.com^$domain=focus.de|g.doubleclick.net|transfermarkt.de
-||g.doubleclick.net^$domain=focus.de|imasdk.googleapis.com|tellows.de|transfermarkt.de
+||g.doubleclick.net^$domain=focus.de|imasdk.googleapis.com|transfermarkt.de
 ||google.com/adsense/$domain=kabeleins.de
 ||google.com/adsense/search/ads.js$domain=focus.de
-||googleadservices.com^$domain=tellows.de
 ||googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
 ||googlesyndication.com/pagead$domain=g.doubleclick.net
 ||googlesyndication.com/pagead/$domain=g.doubleclick.net|googlesyndication.com
 ||googlesyndication.com/sadbundle/$domain=g.doubleclick.net
-||googlesyndication.com/safeframe/$domain=g.doubleclick.net|googlesyndication.com|tellows.de
+||googlesyndication.com/safeframe/$domain=g.doubleclick.net|googlesyndication.com
 ||googlesyndication.com/sodar/$domain=googlesyndication.com
 ||googlesyndication.com^$domain=focus.de
 ||inskinad.com^$domain=focus.de
@@ -8323,4 +8318,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: FqV3Gl/5O1W/bJjLmt9Qdg
+! Checksum: WONRMQVBzxvnVm83eWfV0g
