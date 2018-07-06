@@ -2128,7 +2128,6 @@
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! CSP filters
 ||macwelt.de^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' data: *.apester.com *.accengage.net *.googleapis.com *.disqus.com *.spoods.io *.googletagservices.com *.googletagmanager.com *.outbrain.com *.onthe.io *.cloudflare.com *.youtube.com *.ytimg.com *.google-analytics.com *.ioam.de
-||minecraft-serverlist.net^$csp=script-src 'self' 
 ||pcwelt.de^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' data: *.apester.com *.accengage.net *.googleapis.com *.disqus.com *.spoods.io *.googletagservices.com *.googletagmanager.com *.outbrain.com *.onthe.io *.cloudflare.com *.youtube.com *.ytimg.com *.google-analytics.com *.ioam.de *.neads.delivery
 ||spiele-umsonst.de^$csp=script-src 'self' * blob: 'unsafe-inline'
 ! Specific filters necessary for sites whitelisted with $genericblock filter option
