@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201807121614
+! Version: 201807121748
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 12 Jul 2018 16:14 UTC
+! Last modified: 12 Jul 2018 17:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -543,6 +543,7 @@ immobilienscout24.de#@#.has-ad
 gofeminin.de,guterhut.de,notebooksbilliger.de#@#.img_ad
 hochzeitswahn.de#@#.internal-ad
 frankenlist.de#@#.item-ad
+mietmobil-fuchs.ch#@#.jquery-script-ads
 suedtirolnews.it#@#.ligatus
 frankenlist.de#@#.list-ad
 styleranking.de#@#.medrect-ad
@@ -8322,4 +8323,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: dGQtGBWnXXPOrRAKD9iKvg
+! Checksum: f6ijI2ThpJsdeHiOrOC5YQ
