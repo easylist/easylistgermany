@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201807131845
+! Version: 201807171630
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 13 Jul 2018 18:45 UTC
+! Last modified: 17 Jul 2018 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4608,7 +4608,6 @@ agriaffaires.de###header_ban
 radio-teddy.de###header_banner
 falk.de###header_banner_wrapper
 falk.de###header_bservice_wrapper
-tomshardware.de###header_leaderboard
 klamm.de###header_main
 paules-pc-forum.de,wardriving-forum.de###header_right_cell
 20min.ch###homegate-teaser-small
@@ -4953,7 +4952,6 @@ psychic.de###righta
 psoriasis-netz.de###rightbanner
 grosseleute.de###rightboxcontent > :nth-child(n) a[href] div img[src^="image/"]
 grosseleute.de###rightboxcontent > :nth-child(n) div:first-child:last-child > a[href] > img[src^="image/"]
-tomshardware.de###rightcol_top_anchor
 golyr.de###ring
 dnewsvideo.de###roadblockHeader
 superfly.fm###rognerbadblumauhp_hype_container
@@ -8324,4 +8322,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: Fc4hFOR/UL0LbI5kCgI72w
+! Checksum: ZJU4/nsdBXgnd9By/hOelQ
