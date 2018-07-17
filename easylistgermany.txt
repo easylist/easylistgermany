@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201807171639
+! Version: 201807171640
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 17 Jul 2018 16:39 UTC
+! Last modified: 17 Jul 2018 16:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4792,6 +4792,7 @@ versicherungsjournal.at,versicherungsjournal.de###norm-skyscraper-box
 versicherungsjournal.de###oben-skyscraper-box
 finanz-notes.de###oc24_container_top
 yasni.de###offer
+stimme.de###oms_gpt_superbanner
 mixeryrawdeluxe.tv###outerBanner
 giga.de###outertop3 > .innertop
 giga.de###outertop3 > div > #hockeystick
@@ -8324,4 +8325,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: bXI25C5255Hpl1g4AMkkUw
+! Checksum: F5IallbKvVIEY0hMFr00Iw
