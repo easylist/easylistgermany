@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201807211424
+! Version: 201807211427
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 21 Jul 2018 14:24 UTC
+! Last modified: 21 Jul 2018 14:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5836,6 +5836,7 @@ games.ch##.layer
 hoh.de##.lb_skyscraper
 ichspiele.cc##.leader
 airgamer.de,auto-motor-und-sport.de,billig-flieger-vergleich.de,buffed.de,de.de,gamesaktuell.de,gamestar.de,gamezone.de,meteovista.de,pcgames.de,pcgameshardware.de,spielefilmetechnik.de,spielen.de,technic3d.com,trailerzone.info,videogameszone.de##.leaderboard
+rockantenne.de##.leaderboard-wrapper
 istream.ws##.leaderboard2
 lkz.de##.left > .content[style="min-height:100px"]
 narutoloads.org##.left-hand-global
@@ -8333,4 +8334,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: fwibnObORqVAmeEwh/dwKQ
+! Checksum: M18BofYznpZeSwI7THs/0g
