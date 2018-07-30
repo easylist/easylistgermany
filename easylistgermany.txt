@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201807302030
+! Version: 201807302035
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 30 Jul 2018 20:30 UTC
+! Last modified: 30 Jul 2018 20:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5572,6 +5572,7 @@ lesen.to##.clicky_log_outbound[style="color: rgb(255, 51, 0);  title="]
 golem.de##.cluster-header + div[style="margin:15px 0; min-height:103px;"]
 golem.de##.cluster-header + div[style="margin:15px 0; min-height:266px;"]
 pooltrax.com##.cmc2
+onlinekosten.de##.cms-widget_calculator_result_list_offer-tip
 cosmiq.de##.cmsbox_iq_qa_show_content_below_question
 quoka.de##.cnt > div[style="margin: 0px 0px 0px 0px; min-height:90px; padding: 5px 0;"]
 quoka.de##.cnt-rgt
@@ -8330,4 +8331,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: bWBjf8LDJ18w32XmQyeWbA
+! Checksum: 1gAt7l0d/vaNJFjFx8eYwA
