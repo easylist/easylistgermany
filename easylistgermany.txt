@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201807261602
+! Version: 201807302030
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 26 Jul 2018 16:02 UTC
+! Last modified: 30 Jul 2018 20:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2544,6 +2544,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||hardware-factory.com/banner/
 ||hardware-factory.com/images/01_ban/
 ||hardware-factory.com/images/banners/
+||hardwareluxx.de/images/stories/werbung/
 ||hardwaremax.net//images/banners/
 ||hardwaremax.net/images/banners/
 ||hartgeld.com/images/banners/
@@ -6773,6 +6774,7 @@ xxx-blog.to##a[href^="http://xxx-blog.to/poppen/"]
 hd-world.org##a[href^="http://zip5.de/"]
 livestreamfussball.org##a[href^="http://zolanis.com/landingpage"]
 freenet.de##a[href^="https://ad1.adfarm1.adition.com/redi?sid="]
+hardwareluxx.de##a[href^="https://adclick.g.doubleclick.net/"]
 macwelt.de,pcwelt.de##a[href^="https://aos.prf.hn/click/"]
 4fuckr.com##a[href^="https://bit.ly/"]
 t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
@@ -8328,4 +8330,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: P4/qkfAg1OcqBS+5/8Kglg
+! Checksum: qozQxKUUUBF1rt+TDuakeA
