@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201808081650
+! Version: 201808081653
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Aug 2018 16:50 UTC
+! Last modified: 08 Aug 2018 16:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4806,6 +4806,7 @@ unternehmerkarte.de###pageBannerRgt
 unternehmerkarte.de###pageBannerTop
 wetter.de###pageRelated > #pageHalfpage
 wetter.de###page_arranged_quicklink > .pageQuicklinks
+nordbayern.de###page_billboard
 dwdl.de###pagecontainer > .regular_LB
 ogame.de###pagefoldtarget
 amateurchess.com###pagenav_menu + .tborder[width="100%"][cellspacing="1"][cellpadding="7"][border="0"][align="center"] + br + table[border="1"]
@@ -8328,4 +8329,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: SzOjfngKFTqOK4bEphqg+w
+! Checksum: ACrfOgW1TUdGDhw4OHZusQ
