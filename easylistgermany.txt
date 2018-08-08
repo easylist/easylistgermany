@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201808021928
+! Version: 201808081643
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 02 Aug 2018 19:28 UTC
+! Last modified: 08 Aug 2018 16:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4331,7 +4331,10 @@ bos-fahrzeuge.info,xboxaktuell.de###banner3
 bos-fahrzeuge.info###banner5
 otr.datenkeller.at###bannerBlock
 aerzteblatt.de,koeln.de###bannerContainer
+1001spiele.de###bannerGameRectangle
+1001spiele.de###bannerGameSkyscraperRight
 bielertagblatt.ch###bannerLead
+1001spiele.de###bannerLeaderboardTop
 airgamer.de###bannerOben
 bielertagblatt.ch###bannerRight
 mixeryrawdeluxe.tv###bannerSky
@@ -8332,4 +8335,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: m7/Mh1o6xkmTmN/dUr1O5A
+! Checksum: cMERDV75C1ZL8J9o3nuIAg
