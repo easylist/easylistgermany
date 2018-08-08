@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Version: 201808081655
+! Version: 201808081657
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
-! Last modified: 08 Aug 2018 16:55 UTC
+! Last modified: 08 Aug 2018 16:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8222,6 +8222,7 @@ wetteronline.de##div[style*="display: block !important"]
 @@||static.classistatic.de/res/js/shared/advertising/*advertisingHeadPacked.js
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
+@@||stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tvmovie.de
 @@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=giga.de|gofeminin.de|spieletipps.de
 @@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|gofeminin.de|spieletipps.de
 @@||stroeermediabrands.de/dmp-tracking-min.js$domain=gamona.de|giga.de|gofeminin.de|spieletipps.de
@@ -8330,4 +8331,4 @@ kalender-365.de#@#.adsbygoogle
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||williamhill.com^$popup,domain=online-casino.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
-! Checksum: 3WK1JdepP2swD8esiO58jA
+! Checksum: mJ9Gj9qcG2sDHVlHIVIsJw
