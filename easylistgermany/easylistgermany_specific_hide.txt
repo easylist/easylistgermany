@@ -3252,6 +3252,7 @@ goldesel.to##li[url^="bit.ly/"]
 goldesel.to##li[url^="http://bit.ly/"]
 goldesel.to##li[url^="http://dereferer.org/?http%3A%2F%2Fbit.ly"]
 goldesel.to##li[url^="http://goo.gl/"]
+linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 movie-blog.org#?#.beitrag2:-abp-has(#beitrag2-895521)
 movie-blog.org#?#.beitrag2:-abp-has(#beitrag2-938569)
 movie-blog.org#?#.beitrag2:-abp-has(a[href^="http://www.movie-blog.org/2010/F"])
