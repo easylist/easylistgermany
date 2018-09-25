@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201809201852
+! Version: 201809252043
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -3541,6 +3541,8 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||symptomat.de/ama/
 ||synchronkartei.de/amazonproxy.php
 ||t-online.de/auto/id_$xmlhttprequest,domain=t-online.de
+||t-online.de/to/common/next/amazon?
+||t-online.de/to/common/next/billiger?
 ||t-online.de^*/-|$xmlhttprequest,domain=t-online.de
 ||tag-des-hundes.de/tl_files/images/banner/*_skyscraper.swf
 ||tagblatt.de/cms_media/module_wb/
