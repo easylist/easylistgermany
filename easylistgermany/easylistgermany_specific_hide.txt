@@ -3596,6 +3596,7 @@ shz.de#?#:-abp-properties(/margin-left: -7[0-9][0-9]{2}.*/)
 svz.de,nnn.de,prignitzer.de#?#:-abp-properties(/margin-left: 2[0-9][0-9].*px;/)
 svz.de,prignitzer.de,nnn.de#?#:-abp-properties(margin-left: 150.*px;)
 svz.de,prignitzer.de,nnn.de#?#:-abp-properties(margin-left: 151px;)
+synchronkartei.de##.ad-ho
 tagesspiegel.de#?#:-abp-properties(left: 100%; margin-left: 6px;) > img
 tagesspiegel.de#?#:-abp-properties(margin-left: 6.*px;) > img
 tiervermittlung.de#?#:-abp-properties(/left: 3[0-9][0-9]px;/) > img
