@@ -44,6 +44,7 @@ sgcoburg.de###PromoRight
 volksfreund.de###RectangleOMS
 rclineforum.de###RotBanner
 express.de###RotatingPartner
+wiesbaden.de###SP-commercials
 helles-koepfchen.de###Sky_left
 dfb.de###SkyscraperContainer
 bayer04.de###Sponsoren_Logo
@@ -437,6 +438,7 @@ paules-pc-forum.de,wardriving-forum.de###header_right_cell
 gratissoft.de,winfuture.de###homepage_rectangle
 hornoxe.com###horn
 falk.de###hotel_container
+amazon.de###huc-first-upsell-row
 mobile.de###huesgesReport
 wiwo.de###ibm-adv-experts-corner
 viamichelin.de###idHeaderGDH
@@ -881,6 +883,7 @@ dict.cc###snhb-listing_wide_skyscraper-0
 ddl-music.org,ddl-warez.in,pornlounge.org###so_ad
 magistrix.de###songtext > .visible-desktop
 amazon.de###sp_detail
+amazon.de###sp_detail2
 wuppertaler-rundschau.de###spalte_anzeigen_links
 wuppertaler-rundschau.de###spalte_anzeigen_rechts
 museumsdienst-hamburg.de###spb
@@ -971,6 +974,7 @@ willhaben.at###topbanners
 dotnetpro.de###topbar
 tecchannel.de###toplineBar
 queer.de###toplinks
+queer.de###toplinksw
 myfont.de###toplists
 gmx.net,home.1und1.de,web.de###topper
 spritmonitor.de###towe
@@ -1044,7 +1048,7 @@ pocketpc.ch###xxyyParentDivForWerbPostbit
 zelluloid.de###zTopBanner
 kimeta.de,vol.at##.Ad
 v-i-t-t-i.de##.AmazonSimpleAdmin_widget_inner
-finanz-notes.de,fr-online.de,unixboard.de,windows-7-forum.net##.Anzeige
+finanz-notes.de,fr-online.de,unixboard.de,vermieter-forum.com,windows-7-forum.net##.Anzeige
 stadtradio-goettingen.de##.Anzeigen
 bluray-disc.de##.AnzeigenBlock2
 schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##.AnzeigenHead
@@ -1133,7 +1137,7 @@ ak-kurier.de##.ad + #flashContent
 ak-kurier.de##.ad + .tdt
 ak-kurier.de##.ad + .uk-panel
 synchronkartei.de##.ad-box
-1und1.de,gmx.net,web.de##.ad-container
+1und1.de,gmx.net,heise.de,web.de##.ad-container
 vsport.at##.ad1
 vsport.at##.ad2
 med1.de,promiflash.de,stayfriends.de##.adContainer
@@ -1199,6 +1203,7 @@ bild.de##.affiliate.pm172
 rsa-sachsen.de##.affiliates
 tweakpc.de##.aflink
 tarnkappe.info##.after-entry > .wrap > #text-17
+heise.de##.akwa-ad-container
 oxygen-scene.com##.alert_green
 tchgdns.de##.alt-pub
 modernboard.de##.alt1[style="padding-top:0px"] > div[style="clear:both"] + ul[style="list-style-type:none; margin:0px; padding:0px"]
@@ -2163,6 +2168,9 @@ autoextrem.de,teccentral.de##.yui-sidebar li > a > img
 autoextrem.de,teccentral.de,winboard.org##.yui-sidebar li > span > a > img
 magistrix.de##.zeezee
 german-bash.org##.zitat > div[style="width:300px;"]
+<<<<<<< HEAD
+=======
+>>>>>>> 78098d0b0d70341ad9744daae1ee55f7d543f24d
 heise.de##A-PATERNOSTER
 suche.1und1.de,suche.gmx.net,suche.web.de##COMPONENTS-SHOPPING-ONEBOX-LIST.l-display-block
 verivox.de##NRG-RESULT-LIST > ul > .position-zero
@@ -3253,6 +3261,7 @@ goldesel.to##li[url^="bit.ly/"]
 goldesel.to##li[url^="http://bit.ly/"]
 goldesel.to##li[url^="http://dereferer.org/?http%3A%2F%2Fbit.ly"]
 goldesel.to##li[url^="http://goo.gl/"]
+linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 movie-blog.org#?#.beitrag2:-abp-has(#beitrag2-895521)
 movie-blog.org#?#.beitrag2:-abp-has(#beitrag2-938569)
 movie-blog.org#?#.beitrag2:-abp-has(a[href^="http://www.movie-blog.org/2010/F"])
