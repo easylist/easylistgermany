@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201811200722
+! Version: 201811200727
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -3092,6 +3092,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||paderborner-blatt.de/images/banners/
 ||paninicomics.de/pqcms/template/2008pc/img/*/ecke-
 ||paradies-oberpfalz.de/banners/
+||parcello.org/wp-content/uploads/*/amazon-$image
 ||partyamt.de/images/b/
 ||passwort-generator.com/assets/img/dropbox.gif
 ||paules-pc-forum.de/buch/
@@ -6046,6 +6047,7 @@ access.de##.promotionbox
 psvita-forum.de##.psads
 lingostudy.de##.psw_banner
 suedtirolnews.it##.pub
+parcello.org##.pull-right
 gameone.de##.q_teaser_wrapper
 quotenmeter.de##.qm-news-list-box
 quotenmeter.de##.qm-right-box[style="position:relative"]
@@ -6073,6 +6075,7 @@ notebookcheck.com##.reviewlisttable[width="100%"][border="0"][style="background-
 stefan-niggemeier.de##.right-content > .external-content + .region-info
 stefan-niggemeier.de##.right-content > .external-content + .region-info + a > img
 narutoloads.org##.right-hand-global
+parcello.org##.right-mo
 heute.at##.rightBanner
 notebookinfo.de##.rightColumn > .block-teaser-carousel
 tarifcheck24.com##.right_anzeige
