@@ -283,6 +283,7 @@
 ||mafia.to/popup.php
 ||mafia.to^*/popup.js$third-party
 ||marketing.gamesload.de^$third-party
+||media*.s24.com^$third-party
 ||media.alphaload.com^
 ||mediaplazza.com^*/topboxgames.php?$third-party
 ||medipreis.de/partner/$third-party
@@ -606,8 +607,7 @@
 ||wichsfleck.com/layer.html
 ||widget.kaufda.com^$third-party
 ||widget.marktjagd.de^$third-party
-||widget.s24.com/js/s24widgetv6.min.js$third-party
-||widget.s24.com^*/s24widget.min.js$third-party
+||widget.s24.com^$third-party
 ||widget.spoods.io/loader.js
 ||widgets.cam-content.com^$third-party
 ||widgets.goldankauf123.de^
