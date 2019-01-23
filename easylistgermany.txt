@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201901231746
+! Version: 201901231757
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -2051,6 +2051,10 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||computerhilfen.de^*/gt-banner-
 ||connect.de^*/partner.js
 ||connect.quoka.de^
+||connectiv.events/wp-content/uploads/*-banner.
+||connectiv.events/wp-content/uploads/*/banner_
+||connectiv.events/wp-content/uploads/*/wasserenergetisierer-traenkle-
+||connectiv.events/wp-content/uploads/*_banner_
 ||coretime.fm/banner/
 ||crackajack.de^*/_banner/$image
 ||crawli.net/com/
@@ -4515,6 +4519,7 @@ probefahrten.eu###dialog
 quoka.de###divBannerRESULTHEADER
 game-freaks.net,saugking.net,warez-load.com###div_flip
 arbeitstage.at,arbeitstage.de,joursouvres.ch###div_lfsp
+connectiv.events###divi_pb_widget-3
 g4u.me###dl-middle
 dmax.de###dni-sponsor-link
 schelian.de###dnn_dnnBANNER_lstBanners
@@ -6340,6 +6345,7 @@ netzkino.de##.wideSkyscraperRight
 rp-online.de##.wideheader
 ihk-berlin.de##.widesky
 orschlurch.net##.widget_57179
+wp-koenigin.de##.widget__image--banner
 orschlurch.net##.widget_amazon
 fxempire.de##.widget_banner
 fxempire.de##.widget_brokers
