@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201901231732
+! Version: 201901231742
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -519,6 +519,7 @@ oekobaustoffe.com#@#.ads1
 augsburg-stadtundland.de#@#.ads125-widget
 gwp-gronau.de#@#.ads_title
 schreibwerkstatt.de#@#.adsense-right
+rtl.de#@#.adslot
 giga.de#@#.adspace
 ebay.de#@#.adtile
 mercedesclubs.de,otelfingen.ch#@#.adtitle
@@ -544,7 +545,7 @@ delamar.de#@#.custom_ads
 autoscout24.de#@#.detail-ads
 di.fm,nowmusic.com#@#.firstload
 esvkticker.sports-stream.de#@#.google_adsense
-11freunde.de#@#.gujAd
+11freunde.de,rtl.de#@#.gujAd
 immobilienscout24.de#@#.has-ad
 gofeminin.de,guterhut.de,notebooksbilliger.de#@#.img_ad
 hochzeitswahn.de#@#.internal-ad
