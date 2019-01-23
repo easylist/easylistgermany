@@ -2048,7 +2048,6 @@ rheintaler.ch##.tbrprehtml
 hifi-forum.de##.td1[valign="top"] > div[style="float:left; width: 300px; height: 250px; margin-right: 10px; margin-bottom: 10px; padding:0;"]:first-child
 bild.de##.tea-rectangle
 swz.it##.teaser
-sprachnudel.de##.teaser > div[style="padding:5px 0 5px 0;"][align="center"]
 bento.de##.teaser-content.spns
 notebookinfo.de##.teaser-news-inline-anzeige
 bluewin.ch##.teaser-partnerlink
@@ -2226,7 +2225,6 @@ xp-antispy.org##a[href*="com_partner&link="]
 hd-vidz.net##a[href*="filesonthe.net"]
 t-online.de##a[href*="utm_campaign=bigfarm"]
 t-online.de##a[href="#"][data-urlb]
-t-online.de##a[href="#"][target="_blank"][data-urlb]
 t-online.de##a[href="#a"] > img
 arcor.de##a[href="/content/unterhaltung/lotto/"]
 smsgott.de##a[href="/d2freikarte.php"]
@@ -2466,7 +2464,6 @@ anonym.to##a[href^="http://partners.affiliace.com/"]
 au-ja.de,mydict.com,pcwelt.de##a[href^="http://partners.webmasterplan.com/"]
 songtexte.bz##a[href^="http://partners.webmasterplan.com/click.asp"]
 alle-autos-in.de,appcatalog.de##a[href^="http://partners.webmasterplan.com/click.asp?"]
-pcwelt.de##a[href^="http://partners.webmasterplan.com/click.asp?ref="]
 metacrawler.de##a[href^="http://performance-netzwerk.de"]
 mobilfunk-talk.de,usp-forum.de##a[href^="http://performance-netzwerk.de/"]
 funcloud.com##a[href^="http://pn.innogames.com/go.cgi?pid="] > img
