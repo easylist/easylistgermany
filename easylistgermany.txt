@@ -7680,12 +7680,11 @@ erdbeerlounge.de,giga.de,musikexpress.de,rollingstone.de,spieletipps.de,sportbil
 @@||sportbild.bild.de^$generichide
 @@||stylebook.de^$generichide
 @@||travelbook.de^$generichide
-@@||tvspielfilm.de^$generichide
 @@||welt.de^$generichide
 plista.com##a[href^="http://click.plista.com/pets"]
-sport.de,tvspielfilm.de##a[href^="https://ad.doubleclick.net/"]
+sport.de##a[href^="https://ad.doubleclick.net/"]
 computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
-computerbild.de,focus.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
+computerbild.de,focus.de,pcwelt.de,sport.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ! CSS property filters
 4players.de#?#:-abp-properties(margin-left: -9px;) > * > img
 4players.de#?#:-abp-properties(margin-left: 17.*px;) > img
