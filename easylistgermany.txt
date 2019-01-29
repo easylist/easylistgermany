@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201901282026
+! Version: 201901291703
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -7680,11 +7680,12 @@ erdbeerlounge.de,giga.de,musikexpress.de,rollingstone.de,spieletipps.de,sportbil
 @@||sportbild.bild.de^$generichide
 @@||stylebook.de^$generichide
 @@||travelbook.de^$generichide
+@@||tvspielfilm.de^$generichide
 @@||welt.de^$generichide
 plista.com##a[href^="http://click.plista.com/pets"]
-sport.de##a[href^="https://ad.doubleclick.net/"]
+sport.de,tvspielfilm.de##a[href^="https://ad.doubleclick.net/"]
 computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
-computerbild.de,focus.de,pcwelt.de,sport.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
+computerbild.de,focus.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ! CSS property filters
 4players.de#?#:-abp-properties(margin-left: -9px;) > * > img
 4players.de#?#:-abp-properties(margin-left: 17.*px;) > img
@@ -8263,8 +8264,8 @@ wetteronline.de##div[style*="display: block !important"]
 @@||smartadserver.com^*^tag=sas_3648^$script,domain=welt.de
 @@||smartadserver.com^*^tag=sas_3650^$script,domain=welt.de
 @@||smartadserver.de/wp-content/uploads/$image,domain=smartadserver.de
-@@||smartclip.net/?plc=$script,domain=energy.de
-@@||smartclip.net/ads?$script,domain=energy.de
+@@||smartclip.net/?plc=$script,domain=energy.de|spiele.rtl.de
+@@||smartclip.net/ads?$script,domain=energy.de|spiele.rtl.de
 @@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|podcast.de|radiobob.de
 @@||smartclip.net/inpage/inpage.js
 @@||smartclip.net/inpage/inpage.swf$object
