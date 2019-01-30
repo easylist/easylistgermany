@@ -94,6 +94,7 @@
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net|hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||angis-escort.com/angi/banner/$image,domain=searchx.ch
+@@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
 @@||ankerbrot.at/_ads/$~third-party
 @@||anonza.de^*/adonline.css
 @@||anonza.de^*/adonline.js
@@ -321,6 +322,8 @@
 @@||pixel.adsafeprotected.com/jspix?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||pixel.adsafeprotected.com^$image,script,domain=welect.de
 @@||playboy.de/files/html/Advertorials/$~third-party
+@@||player.aniview.com/script/*/aniview.js$domain=musikexpress.de|rollingstone.de
+@@||player.aniview.com/script/*/AVmanager.js$domain=musikexpress.de|rollingstone.de
 @@||player.newsnetz.tv/player/iframe.php?vid=*&adurl=$subdocument
 @@||promo.douglas.de^$subdocument,domain=facebook.com
 @@||prosieben.de^*/ad-managment/$script
