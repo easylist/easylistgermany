@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201901301827
+! Version: 201901301829
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -7692,6 +7692,7 @@ erdbeerlounge.de,giga.de,musikexpress.de,rollingstone.de,spieletipps.de,sportbil
 @@||welt.de^$generichide
 plista.com##a[href^="http://click.plista.com/pets"]
 sport.de,tvspielfilm.de##a[href^="https://ad.doubleclick.net/"]
+musikexpress.de##a[href^="https://popup.taboola.com/"]
 computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 computerbild.de,focus.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ! CSS property filters
@@ -7970,6 +7971,7 @@ wetteronline.de##div[style*="display: block !important"]
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net|hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||angis-escort.com/angi/banner/$image,domain=searchx.ch
+@@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
 @@||ankerbrot.at/_ads/$~third-party
 @@||anonza.de^*/adonline.css
 @@||anonza.de^*/adonline.js
@@ -8197,6 +8199,8 @@ wetteronline.de##div[style*="display: block !important"]
 @@||pixel.adsafeprotected.com/jspix?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||pixel.adsafeprotected.com^$image,script,domain=welect.de
 @@||playboy.de/files/html/Advertorials/$~third-party
+@@||player.aniview.com/script/*/aniview.js$domain=musikexpress.de|rollingstone.de
+@@||player.aniview.com/script/*/AVmanager.js$domain=musikexpress.de|rollingstone.de
 @@||player.newsnetz.tv/player/iframe.php?vid=*&adurl=$subdocument
 @@||promo.douglas.de^$subdocument,domain=facebook.com
 @@||prosieben.de^*/ad-managment/$script
