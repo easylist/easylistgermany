@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201901291705
+! Version: 201901301826
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -6089,6 +6089,7 @@ frag-mutti.de##.relcookiepopup
 pizza.de##.restaurant-item--premium
 pizza.de##.restaurant-item--prm
 quoka.de##.result a[href^="http://connect.quoka.de/qpa/click.php?url="]
+freenet.de##.result-container > .container-right
 quoka.de##.result-sml a[href^="http://connect.quoka.de/qpa/click.php?url="]
 verivox.de##.resultlist-position-zero
 gronkh.de##.revbig
