@@ -39,7 +39,6 @@ wunsch-otr.de#@##block_advert
 amsel.de#@##container_ad
 go-windows.de#@##goads
 eosd-forum.de#@##headerAd
-golem.de#@##iqadtile4gol
 zeit.de#@##ligatus
 der-postillon.com#@##middleads
 campusboard.at#@##my-ads
@@ -81,6 +80,7 @@ oekobaustoffe.com#@#.ads1
 augsburg-stadtundland.de#@#.ads125-widget
 gwp-gronau.de#@#.ads_title
 schreibwerkstatt.de#@#.adsense-right
+rtl.de#@#.adslot
 giga.de#@#.adspace
 ebay.de#@#.adtile
 mercedesclubs.de,otelfingen.ch#@#.adtitle
@@ -106,7 +106,7 @@ delamar.de#@#.custom_ads
 autoscout24.de#@#.detail-ads
 di.fm,nowmusic.com#@#.firstload
 esvkticker.sports-stream.de#@#.google_adsense
-11freunde.de#@#.gujAd
+11freunde.de,rtl.de#@#.gujAd
 immobilienscout24.de#@#.has-ad
 gofeminin.de,guterhut.de,notebooksbilliger.de#@#.img_ad
 hochzeitswahn.de#@#.internal-ad
@@ -126,6 +126,7 @@ wuv.de#@#.sticky-ad-wrapper
 blesius.de#@#.text_werbung
 xdate.ch#@#.top-ads
 christophhubrich.blogspot.co.uk,christophhubrich.blogspot.de,delamar.de,ews-markt.de,mediamarkt.de,paolo-film.de,transfermarkt.de#@#.werbung
+spiele.rtl.de#@#.wide-ad
 ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
 zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
 marketing-a.akamaihd.net#@#a[href^="http://adclick.g.doubleclick.net/"]
