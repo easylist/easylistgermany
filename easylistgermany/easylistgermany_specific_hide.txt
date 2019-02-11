@@ -1562,6 +1562,7 @@ cinema.de##.fswrapper
 lokalisten.de##.fullBanner
 bild.de,preussenspiegel-online.de,wirtschaftsblatt.at##.fullbanner
 airgamer.de##.fullbanner2
+raidrush.net##.funbox
 phpforum.de##.ga336
 quoka.de##.gad
 sinn-frei.com##.gadline
@@ -2322,6 +2323,7 @@ downloadstube.net##a[href^="/download-file.php?type="]
 titanic-magazin.de##a[href^="/fileadmin/core/scripts/link_external.php?url="][target="_blank"] > img
 bild.de##a[href^="/gewinnspiele/movieman/"]
 speedlounge.in##a[href^="/go/"]
+raidrush.net##a[href^="/go/?//www.amazon.de/"]
 speedlounge.in##a[href^="/goto/speedmirror"]
 berlinertageszeitung.de##a[href^="/index.php/component/banners/click/"]
 pctipp.ch##a[href^="/index.php?eID=idgprintad&data="]
