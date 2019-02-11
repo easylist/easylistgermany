@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201902111703
+! Version: 201902111704
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -7619,7 +7619,7 @@ computerbild.de,focus.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this
 @@||360yield.com/adj?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||6inserate.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||71iv.nuggad.net/crossdomain.xml$object-subrequest
-@@||a-ssl.ligatus.com/?ids=$script,domain=wetter.de|zeit.de
+@@||a-ssl.ligatus.com/?ids=$script,domain=stern.de|wetter.de|zeit.de
 @@||a.ligatus.com/?ids=$script,domain=wetter.de
 @@||ab-in-den-urlaub.de^*.popunder.js
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
@@ -8112,6 +8112,7 @@ kalender-365.de#@#.adsbygoogle
 @@||bueropartner24.de/out/pictures/generated/category/icon/728_90_$image,~third-party
 @@||campact.de^*_300x250.gif
 @@||ebaystatic.com/aw/pics/im/default_300x250.jpg$domain=millionenklick.web.de
+@@||eltern.de^*_300x250.$image,domain=eltern.de
 @@||files.videovalis.tv/artwork/posterframes/*_300_250_$image
 @@||gardenparc.ch/files/artikelbilder_
 @@||googleusercontent.com^*/300x250.$domain=googlewatchblog.de
