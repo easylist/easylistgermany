@@ -8,7 +8,7 @@
 @@||360yield.com/adj?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||6inserate.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||71iv.nuggad.net/crossdomain.xml$object-subrequest
-@@||a-ssl.ligatus.com/?ids=$script,domain=zeit.de
+@@||a-ssl.ligatus.com/?ids=$script,domain=stern.de|wetter.de|zeit.de
 @@||a.ligatus.com/?ids=$script,domain=wetter.de
 @@||ab-in-den-urlaub.de^*.popunder.js
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object-subrequest,domain=iam.t-online.de
@@ -86,7 +86,7 @@
 @@||afcdn.com/world/ads.js$domain=gofeminin.de
 @@||affilinet-inside.de^*/affilinet/$stylesheet
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
-@@||akamaihd.net/live/*/gujAd.js$domain=kochbar.de
+@@||akamaihd.net/live/*/gujAd.js$domain=kochbar.de|wetter.de
 @@||alfred-delp-schule.de/ads_$~third-party
 @@||am-display.com/display-ad/tag-set/$subdocument,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||am-display.com/display-ad/tag/$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
@@ -472,7 +472,7 @@
 @@||werbung.specials.de^$subdocument,domain=zentralreisen.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
-@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|chip.de|discounto.de|focus.de|hellweg.at|hellweg.de|koeln.de|netmoms.de|offerista.com|sparbaby.de|sparwelt.de|wize.life
+@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|chip.de|discounto.de|focus.de|hellweg.at|hellweg.de|koeln.de|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
 @@||willhaben.apa.net/mmo/logo/advert/$domain=willhaben.at
 @@||windowspro.de^$script,domain=windowspro.de
 @@||wm-druckarena.de/scripts/Werbebanner.
