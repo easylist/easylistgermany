@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201903072042
+! Version: 201903081826
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -6732,6 +6732,7 @@ opencannabis.net##a[href^="http://www.udopea.de/"][href*="?refid="]
 macwelt.de##a[href^="http://www.verleihshop.de/index.html?partner="]
 pcwelt.de##a[href^="http://www.verleihshop.de/pwindex.html?partner="]
 serialzz.us##a[href^="http://www.viagra-dienst.info"]
+t-online.de##a[href^="http://www.viversum.de/?pid="]
 t-online.de##a[href^="http://www.viversum.de/index.php?pid="]
 wz-newsline.de##a[href^="http://www.wz-werbewelt.de/proads/"]
 320k.in##a[href^="http://www.yellow-ducks.com/AF_"]
@@ -6781,6 +6782,7 @@ hd-world.org,movie-blog.org##a[href^="https://www.smoozed.com/p/"]
 atomload.to##a[href^="https://www.smoozed.rocks/landing/"]
 ddl-warez.to,goldesel.to##a[href^="https://www.spyoff.com/"]
 pcwelt.de##a[href^="https://www.verleihshop.de/pwindex.html?partner="]
+t-online.de##a[href^="https://www.viversum.de/gratisgespraech/"]
 arcor.de##a[href^="https://zuhauseplus.vodafone.de/"] > img
 angesagter.de##a[href^="out.php?bid="]
 sinn-frei.com##a[href^="out2_"]
