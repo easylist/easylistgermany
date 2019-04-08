@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201904062117
+! Version: 201904081942
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -1737,8 +1737,8 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ! -------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block.txt ***
 &campaignid=*&zoneid=$domain=technic3d.com
-/ii/d/*$xmlhttprequest,domain=regionalbraunschweig.de|regionalgifhorn.de|regionalgoslar.de|regionalhelmstedt.de|regionalheute.de|regionalhochzeit.de|regionalkulinarisch.de|regionalleben.de|regionalpeine.de|regionalsalzgitter.de|regionalsport.de|regionalwolfenbuettel.de|regionalwolfsburg.de
-/ncontent/ii/d/*$xmlhttprequest,domain=regionalbraunschweig.de|regionalgifhorn.de|regionalgoslar.de|regionalhelmstedt.de|regionalheute.de|regionalhochzeit.de|regionalkulinarisch.de|regionalleben.de|regionalpeine.de|regionalsalzgitter.de|regionalsport.de|regionalwolfenbuettel.de|regionalwolfsburg.de
+/a/d/*$xmlhttprequest,domain=regionalbraunschweig.de|regionalgifhorn.de|regionalgoslar.de|regionalhelmstedt.de|regionalheute.de|regionalhochzeit.de|regionalkulinarisch.de|regionalleben.de|regionalpeine.de|regionalsalzgitter.de|regionalsport.de|regionalwolfenbuettel.de|regionalwolfsburg.de
+/n2content/*$xmlhttprequest,domain=regionalbraunschweig.de|regionalgifhorn.de|regionalgoslar.de|regionalhelmstedt.de|regionalheute.de|regionalhochzeit.de|regionalkulinarisch.de|regionalleben.de|regionalpeine.de|regionalsalzgitter.de|regionalsport.de|regionalwolfenbuettel.de|regionalwolfsburg.de
 /oase_banner.jpg$domain=mysummit.wordpress.com
 /worker.php$domain=filmpalast.to
 /www/images/*$domain=technic3d.com
