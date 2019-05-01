@@ -108,7 +108,7 @@ di.fm,nowmusic.com#@#.firstload
 esvkticker.sports-stream.de#@#.google_adsense
 11freunde.de,rtl.de#@#.gujAd
 immobilienscout24.de#@#.has-ad
-gofeminin.de,guterhut.de,notebooksbilliger.de#@#.img_ad
+guterhut.de,notebooksbilliger.de#@#.img_ad
 hochzeitswahn.de#@#.internal-ad
 frankenlist.de#@#.item-ad
 mietmobil-fuchs.ch#@#.jquery-script-ads
@@ -141,7 +141,7 @@ schnittberichte.com#@#a[href^="http://bs.serving-sys.com/"]
 onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net,reisebine.de#@#a[href^="https://ad.doubleclick.net/"]
 telekom.de#@#a[href^="https://track.adform.net/"]
-daswetter.com,gofeminin.de#@#div[id^="div-gpt-ad"]
+daswetter.com#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
-11freunde.de,gofeminin.de,notebooksbilliger.de#@#div[id^="google_ads_iframe_"]
-11freunde.de,gofeminin.de,guterhut.de,notebooksbilliger.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
+11freunde.de,notebooksbilliger.de#@#div[id^="google_ads_iframe_"]
+11freunde.de,guterhut.de,notebooksbilliger.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]

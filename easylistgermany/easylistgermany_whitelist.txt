@@ -83,7 +83,6 @@
 @@||advertiser.wbtrk.net/js/advertiser.js$domain=heise.de
 @@||advertising.ingame.de/adframework/inAdFramework.min.js$domain=minecraft-serverlist.net
 @@||adwords.safi-gmbh.ch^$~third-party
-@@||afcdn.com/world/ads.js$domain=gofeminin.de
 @@||affilinet-inside.de^*/affilinet/$stylesheet
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
 @@||akamaihd.net/live/*/gujAd.js$domain=kochbar.de|wetter.de
@@ -202,12 +201,12 @@
 @@||fotoschloebe.de/Werbung/$~third-party
 @@||fotostudio-katikrueger.de/werbung/$~third-party
 @@||fussball.sv-kehlen.de/werbepartner.htm
-@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|zalando.de
+@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=guterhut.de|hardwareluxx.de|hbf-info.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/gampad/ads?*300x250^$script,domain=11freunde.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
 @@||g.doubleclick.net/gampad/ads?*^sz=970x250^$subdocument,domain=welt.de
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=7tv.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|gofeminin.de|guterhut.de|hardwareluxx.de|hbf-info.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|welt.de|zalando.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|guterhut.de|hardwareluxx.de|hbf-info.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|welt.de|zalando.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||galileo.tv/js/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
@@ -223,8 +222,8 @@
 @@||google.com/adsense/search/ads.js$domain=arcor.de|fewo-direkt.de|zoover.de
 @@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
-@@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|zalando.de
-@@||googlesyndication.com/simgad/$image,domain=gofeminin.de|notebooksbilliger.de
+@@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|zalando.de
+@@||googlesyndication.com/simgad/$image,domain=notebooksbilliger.de
 @@||googlesyndication.com/simgad/14155692645477451130$image,domain=guterhut.de
 @@||googlewatchblog.de/img/index-icons/$image
 @@||googlewatchblog.de^*/adsense.png
@@ -354,10 +353,8 @@
 @@||sascdn.com/diff/251/*/aktionen_191x108.jpg$image,domain=autobild.de
 @@||sascdn.com/diff/251/*/gebrauchtwagenmarkt.png$image,domain=autobild.de
 @@||sascdn.com/diff/251/*/kindersitze.png$image,domain=autobild.de
-@@||sascdn.com/diff/251/*650$image,domain=gofeminin.de
 @@||sascdn.com/diff/251/*970x250$image,domain=welt.de
-@@||sascdn.com/diff/251/5489376/500x305_ms_wei_.jpg$image,domain=gofeminin.de
-@@||sascdn.com/diff/251/pages/$script,domain=derwesten.de|gofeminin.de|hoerzu.de|transfermarkt.de
+@@||sascdn.com/diff/251/pages/$script,domain=derwesten.de|hoerzu.de|transfermarkt.de
 @@||sascdn.com/diff/251/pages/autobild.js$domain=autobild.de
 @@||sascdn.com/diff/251/smartad.js$domain=welt.de
 @@||sascdn.com/diff/251/templates/passback.js$domain=autobild.de|welt.de
@@ -387,8 +384,6 @@
 @@||smart.allocine.fr/call/pubx/*&video=$object-subrequest
 @@||smartadserver.com/2161/call^$xmlhttprequest,domain=metal-hammer.de
 @@||smartadserver.com/a/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
-@@||smartadserver.com/ac?*^tag=sas_33037^$script,domain=gofeminin.de
-@@||smartadserver.com/ac?nwid=251&siteid=75630&pgname=home*&tag=sas_$script,domain=gofeminin.de
 @@||smartadserver.com/ac?nwid=251&siteid=85145&*&fmtid=5419&$script,domain=welt.de
 @@||smartadserver.com/call/pubi/*/(bild/*/?format=.mp4$media,domain=bild.de
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
@@ -396,7 +391,6 @@
 @@||smartadserver.com/diff/*/smartad.js$domain=derwesten.de|hoerzu.de|sky.de
 @@||smartadserver.com/diff/251/2484653/show10.asp$script,domain=autobild.de
 @@||smartadserver.com/diff/251/pages/berlin.js$domain=welt.de
-@@||smartadserver.com/diff/251/smartad.js$domain=gofeminin.de
 @@||smartadserver.com/diff/251/templates/passback.js$domain=autobild.de|welt.de
 @@||smartadserver.com/diff/js/smartadserver.js$domain=freestream.nmdn.net
 @@||smartadserver.com/wp-content/uploads/$image,domain=smartadserver.de
@@ -433,9 +427,9 @@
 @@||static.liverail.com/libas3/$object-subrequest,domain=autoplenum.de
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
 @@||stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tvmovie.de
-@@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=giga.de|gofeminin.de|spieletipps.de
-@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|gofeminin.de|spieletipps.de
-@@||stroeermediabrands.de/dmp-tracking-min.js$domain=gamona.de|giga.de|gofeminin.de|spieletipps.de
+@@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=giga.de|spieletipps.de
+@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|spieletipps.de
+@@||stroeermediabrands.de/dmp-tracking-min.js$domain=gamona.de|giga.de|spieletipps.de
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tamedia.ch/tl_files/content/Icons/Advertising_$domain=tamedia.ch
