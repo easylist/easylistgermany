@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201905021723
+! Version: 201905061804
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -563,11 +563,11 @@ xdate.ch#@#.side-ads
 wuv.de#@#.sticky-ad-wrapper
 blesius.de#@#.text_werbung
 xdate.ch#@#.top-ads
-wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc-content-sponsored
+computerbild.de,wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc-content-sponsored
 wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox .syndicatedItem
 wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_border_elm .syndicatedItem
 wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_div .syndicatedItem
-wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_related_container div[data-item-syndicated="true"]
+computerbild.de,wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_related_container div[data-item-syndicated="true"]
 christophhubrich.blogspot.co.uk,christophhubrich.blogspot.de,delamar.de,ews-markt.de,mediamarkt.de,paolo-film.de,transfermarkt.de#@#.werbung
 spiele.rtl.de#@#.wide-ad
 ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
@@ -6192,6 +6192,7 @@ deraktionaer.de##.tradeOuterShell
 finanzen100.de##.tradernews
 finanzen.net##.tradingActions
 macnews.de##.transaction_box
+computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
 tagesspiegel.de##.ts-sptag
 www.google.de##.ts[style="margin:0 0 12px;height:92px;width:100%"]
 t-online.de##.tsc_www_p4p
