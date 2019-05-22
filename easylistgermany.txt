@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201905222024
+! Version: 201905222025
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -5849,6 +5849,8 @@ meinestadt.de##.ms-promo-teaser
 motor-talk.de##.mtbwrapper
 express.de##.nah_box_horizonal
 express.de##.nah_box_vertical
+spiegel.de##.nativead
+spiegel.de##.nativead + .headline-date
 hsgnordhorn-lingen.de##.navbar-fixed-bottom
 alle-autos-in.de##.naviP
 wetter.at##.nearestLocations ~ div
