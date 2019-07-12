@@ -3549,4 +3549,5 @@ sport.de,tvspielfilm.de##a[href^="https://ad.doubleclick.net/"]
 musikexpress.de##a[href^="https://popup.taboola.com/"]
 computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 computerbild.de,focus.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
-! CSS property filters
+! Advanced element hiding rules for Adblock Plus
+welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
