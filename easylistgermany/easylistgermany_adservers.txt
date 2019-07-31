@@ -1,4 +1,4 @@
-||2mdn.net^$object-subrequest,third-party,domain=anleger-fernsehen.de|blick.ch|fitforfun.de|focus.de|giga.de|golem.de|helpster.de|myspass.de|netzwelt.de|stol.it|sueddeutsche.de|tvtoday.de
+||2mdn.net^$object,third-party,domain=anleger-fernsehen.de|blick.ch|fitforfun.de|focus.de|giga.de|golem.de|helpster.de|myspass.de|netzwelt.de|stol.it|sueddeutsche.de|tvtoday.de
 ||4rm.de^$third-party
 ||85.114.133.62^$third-party
 ||a3h.de^$third-party
@@ -13,7 +13,7 @@
 ||ad-serving.de^$third-party
 ||ad-sun.de^$third-party
 ||ad-traffic.de^$third-party
-||ad.de.doubleclick.net^$~object-subrequest,third-party
+||ad.de.doubleclick.net^$~object,third-party
 ||ad.netzquadrat.de^$third-party
 ||ad2net.de^$third-party
 ||ad2web.net^$third-party
@@ -172,8 +172,8 @@
 ||doubleclick.net/pfadx/iqdsde/$third-party
 ||doubleclick.net/pfadx/kino-vorschau.com/$third-party
 ||doubleclick.net/pfadx/netzwelt/$third-party
-||doubleclick.net/pfadx/nick.de/$object-subrequest
-||doubleclick.net/pfadx/P5238.videos/$object-subrequest
+||doubleclick.net/pfadx/nick.de/$object
+||doubleclick.net/pfadx/P5238.videos/$object
 ||doubleclick.net/pfadx/rtlregional.de/$third-party
 ||doubleclick.net/pfadx/telewest.de/$third-party
 ||doubleclick.net/pfadx/toggo.de/$third-party
@@ -364,7 +364,7 @@
 ||siyl.net^$third-party
 ||siylvi.de^$third-party
 ||smartaffiliate.de^$third-party
-||smartclip.net^$~object-subrequest,third-party
+||smartclip.net^$~object,third-party
 ||smd.premiumpromotions.at^$third-party
 ||smd.premiumpromotions.com^$third-party
 ||smspartnerprogramm.com^$third-party
