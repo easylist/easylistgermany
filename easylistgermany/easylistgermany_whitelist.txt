@@ -1,3 +1,4 @@
+@@/gujAd.$domain=kochbar.de|vip.de|wetter.de
 @@|http://byte.to/js/javascript.js|
 @@|http://byte.to/js/wz_tooltip.js|
 @@||1000steine.de/img/ads/
@@ -70,6 +71,7 @@
 @@||adserver.gb4.motorpresse.de/www/delivery/ajs.php?zoneid=*&target=_blank&$script,domain=mountainbike-magazin.de
 @@||adserver2.clipkit.de/www/delivery/ajs.php?$script,domain=jam.fm|paradiso.de
 @@||adservice.google.*/adsid/integrator.js$domain=welect.de
+@@||adservice.google.*^adsid/integrator.$script,domain=vip.de
 @@||adsett.de/templates/ads/$~third-party
 @@||adshot.de/click/view.php$image,domain=thisload.de
 @@||adstyle.com^$~third-party
@@ -86,7 +88,6 @@
 @@||adwords.safi-gmbh.ch^$~third-party
 @@||affilinet-inside.de^*/affilinet/$stylesheet
 @@||akamai.net^*/preisspektakel_layer_*.swf?clicktag=$object,domain=rewe.de
-@@||akamaihd.net/live/*/gujAd.$domain=kochbar.de|wetter.de
 @@||alfred-delp-schule.de/ads_$~third-party
 @@||am-display.com/display-ad/tag-set/$subdocument,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||am-display.com/display-ad/tag/$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
@@ -209,12 +210,14 @@
 @@||fotoschloebe.de/Werbung/$~third-party
 @@||fotostudio-katikrueger.de/werbung/$~third-party
 @@||fussball.sv-kehlen.de/werbepartner.htm
+@@||g.doubleclick.net/gampad/$xmlhttprequest,domain=vip.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=guterhut.de|hardwareluxx.de|hbf-info.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
 @@||g.doubleclick.net/gampad/ads?*300x250^$script,domain=11freunde.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
 @@||g.doubleclick.net/gampad/ads?*^sz=970x250^$subdocument,domain=welt.de
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=7tv.de
+@@||g.doubleclick.net/gpt/$script,domain=vip.de
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|guterhut.de|hardwareluxx.de|hbf-info.de|kochbar.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|welt.de|zalando.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||galileo.tv/js/my_ad_integration.js
@@ -462,6 +465,7 @@
 @@||tkqlhce.com/click-$subdocument,domain=eule.de
 @@||toggo.de/js/advertise.js
 @@||toggo.de/xml/admeta.xml?$object
+@@||tpc.googlesyndication.com/pagead/imgad?$image,domain=vip.de
 @@||track.adform.net/C/?$subdocument,domain=abosgratis.de
 @@||track.adform.net/serving/scripts/trackpoint/$script,domain=mazda.de
 @@||track.adform.net^$image,domain=welect.de

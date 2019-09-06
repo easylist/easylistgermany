@@ -106,7 +106,7 @@ delamar.de#@#.custom_ads
 autoscout24.de#@#.detail-ads
 di.fm,nowmusic.com#@#.firstload
 esvkticker.sports-stream.de#@#.google_adsense
-11freunde.de,kochbar.de,rtl.de#@#.gujAd
+11freunde.de,kochbar.de,rtl.de,vip.de#@#.gujAd
 immobilienscout24.de#@#.has-ad
 guterhut.de,notebooksbilliger.de#@#.img_ad
 hochzeitswahn.de#@#.internal-ad
@@ -146,5 +146,5 @@ notebooksbilliger.de#@#a[href^="https://googleads.g.doubleclick.net/pcs/click"]
 telekom.de#@#a[href^="https://track.adform.net/"]
 daswetter.com#@#div[id^="div-gpt-ad"]
 guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
-11freunde.de,kochbar.de,notebooksbilliger.de#@#div[id^="google_ads_iframe_"]
-11freunde.de,guterhut.de,kochbar.de,notebooksbilliger.de,rtl.de,zalando.de#@#iframe[id^="google_ads_iframe"]
+11freunde.de,kochbar.de,notebooksbilliger.de,vip.de#@#div[id^="google_ads_iframe_"]
+11freunde.de,guterhut.de,kochbar.de,notebooksbilliger.de,rtl.de,vip.de,zalando.de#@#iframe[id^="google_ads_iframe"]
