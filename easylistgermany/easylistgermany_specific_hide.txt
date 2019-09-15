@@ -3538,8 +3538,8 @@ ariva.de,boote-forum.de,fanfiktion.de,notebookchat.com,notebookcheck.com,planets
 fitbook.de##.teaser--b > a[href^="https://secure.adnxs.com/"]
 computerbild.de,erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
 computerbild.de,erdbeerlounge.de,giga.de,metal-hammer.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
-computerbild.de,erdbeerlounge.de,fitbook.de,giga.de,musikexpress.de,noizz.de,rollingstone.de,spieletipps.de,sportbild.bild.de,stylebook.de,techbook.de,transfermarkt.de,travelbook.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
-metal-hammer.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
+computerbild.de,erdbeerlounge.de,fitbook.de,giga.de,musikexpress.de,noizz.de,spieletipps.de,sportbild.bild.de,stylebook.de,techbook.de,transfermarkt.de,travelbook.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
+metal-hammer.de,rollingstone.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
 @@||computerbild.de^$generichide
 @@||fitbook.de^$generichide
 @@||focus.de^$generichide
