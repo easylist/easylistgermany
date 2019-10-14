@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201910141606
+! Version: 201910141611
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -3251,6 +3251,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||quoka.de/partner/$subdocument
 ||quoka.de/services/get_json.js?*=$xmlhttprequest
 ||qvid.b-cdn.net^$domain=queer.de
+||qvid2.b-cdn.net^$domain=queer.de
 ||r3view.de/images/banners/
 ||radio-siam.de/banner/
 ||radio.de/banners/$~object
@@ -4270,6 +4271,7 @@ rtl-west.de,rtlnord.de###banner_wrapper
 haustechnikdialog.de###bannerdiv
 radiohamburg.de###bannerleiste
 queer.de,rp-online.de###banneroben
+queer.de###bannerrechts
 fremdwort.de###bannerright
 breakpoint.untergrund.net,eiskaltmacher.de###banners
 erotikforum.at###banners11608
@@ -6255,6 +6257,7 @@ mrstiff-deutsch.com##.videobereich_rechts
 tvmovie.de##.videoload
 queer.de##.vidkasten
 queer.de##.vidskasten
+queer.de##.vidzkasten
 technorocker.info##.vim
 vip.de##.vip-medium-rectangle
 vip.de##.vip-teaser
