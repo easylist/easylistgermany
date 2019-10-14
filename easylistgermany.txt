@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201910141729
+! Version: 201910141730
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -585,7 +585,7 @@ notebooksbilliger.de#@#a[href^="http://googleads.g.doubleclick.net/pcs/click"]
 11freunde.de,cnet.de,deals.chip.de#@#a[href^="http://pubads.g.doubleclick.net/"]
 onvista.de#@#a[href^="http://track.adform.net/"]
 gutefrage.net,reisebine.de#@#a[href^="https://ad.doubleclick.net/"]
-kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
+gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 notebooksbilliger.de#@#a[href^="https://googleads.g.doubleclick.net/pcs/click"]
 telekom.de#@#a[href^="https://track.adform.net/"]
 auto-motor-und-sport.de,daswetter.com,gofeminin.de#@#div[id^="div-gpt-ad"]
@@ -7655,6 +7655,8 @@ computerbild.de,focus.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this
 ! Advanced element hiding rules for Adblock Plus
 gamestar.de#?#.content-item-medium:-abp-has(data:-abp-contains(Anzeige))
 gamestar.de#?#.content-item-small:-abp-has(h3:-abp-contains(Anzeige))
+gofeminin.de#?#.af-block-native:-abp-contains(Anzeige)
+gofeminin.de#?#.af-block-native:-abp-contains(Sponsored Post)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist.txt ***
