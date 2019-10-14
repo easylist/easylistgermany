@@ -213,14 +213,17 @@
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=immonet.de|vip.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=guterhut.de|hardwareluxx.de|hbf-info.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|zalando.de
+@@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
 @@||g.doubleclick.net/gampad/ads?*300x250^$script,domain=11freunde.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
 @@||g.doubleclick.net/gampad/ads?*^sz=970x250^$subdocument,domain=welt.de
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=7tv.de
 @@||g.doubleclick.net/gpt/$script,domain=gofeminin.de|immonet.de|vip.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|guterhut.de|hardwareluxx.de|hbf-info.de|kochbar.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|welt.de|zalando.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|guterhut.de|hardwareluxx.de|hbf-info.de|kochbar.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|welt.de|zalando.de
+@@||g.doubleclick.net/pagead/js/rum.js$domain=auto-motor-und-sport.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
+@@||g.doubleclick.net/tag/js/gpt.js$domain=auto-motor-und-sport.de
 @@||galileo.tv/js/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
 @@||gamers.at/images/branding/*/header.
@@ -235,6 +238,7 @@
 @@||google.com/adsense/search/ads.js$domain=arcor.de|fewo-direkt.de|zoover.de
 @@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
+@@||googlesyndication.com/pagead/imgad?$image,domain=auto-motor-und-sport.de
 @@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|immonet.de|kochbar.de|notebooksbilliger.de|vip.de|zalando.de
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
 @@||googlesyndication.com/simgad/$image,domain=notebooksbilliger.de
@@ -445,6 +449,7 @@
 @@||static.classistatic.de/res/js/shared/advertising/*advertisingHeadPacked.js
 @@||static.liverail.com/libas3/$object,domain=autoplenum.de
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
+@@||stroeerdigitalgroup.de/metatag/live/AMS/metaTag.min.js$domain=auto-motor-und-sport.de
 @@||stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tvmovie.de
 @@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=giga.de|spieletipps.de
 @@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|spieletipps.de
