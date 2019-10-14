@@ -3569,4 +3569,6 @@ computerbild.de,focus.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this
 ! Advanced element hiding rules for Adblock Plus
 gamestar.de#?#.content-item-medium:-abp-has(data:-abp-contains(Anzeige))
 gamestar.de#?#.content-item-small:-abp-has(h3:-abp-contains(Anzeige))
+gofeminin.de#?#.af-block-native:-abp-contains(Anzeige)
+gofeminin.de#?#.af-block-native:-abp-contains(Sponsored Post)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
