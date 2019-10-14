@@ -149,7 +149,7 @@
 @@||connect.de/js/$script,domain=connect.de
 @@||cookex.amp.yahoo.com/v2/cexposer/SIG=*//ad.yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
-@@||creatives.sascdn.com/diff/*_Header-$image,domain=fitbook.de
+@@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||d3con.de/data1/$image,~third-party
 @@||damoh.giga.de^$script,domain=giga.de
 @@||damoh.golem.de^$script,domain=golem.de
