@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201911191852
+! Version: 201911251706
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -576,6 +576,7 @@ wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_div .syndicatedIt
 computerbild.de,wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_related_container div[data-item-syndicated="true"]
 christophhubrich.blogspot.co.uk,christophhubrich.blogspot.de,delamar.de,ews-markt.de,mediamarkt.de,paolo-film.de,transfermarkt.de#@#.werbung
 spiele.rtl.de#@#.wide-ad
+fitbook.de#@#a[href*=".smartadserver.com"]
 ebay.de#@#a[href^="http://ad-emea.doubleclick.net/"]
 zdnet.de#@#a[href^="http://ad.doubleclick.net/"]
 marketing-a.akamaihd.net#@#a[href^="http://adclick.g.doubleclick.net/"]
@@ -6346,6 +6347,7 @@ pi-news.net##a[href$="/werbung.pdf"]
 94.199.241.194##a[href$="_zalando"]
 pctipp.ch##a[href*="&utm_campaign="]
 metager.de##a[href*=".overture.com/"][href$="?plmg=1"]
+fitbook.de##a[href*=".smartadserver.com"][rel="noopener"]
 bild.de##a[href*=".smartadserver.com/"]
 lesen.to##a[href*="/?f="]
 windowspro.de##a[href*="/adclick."]
