@@ -181,6 +181,7 @@
 @@||ekitchen.de^$generichide
 @@||eltern.de^*_300x250px.$image,domain=eltern.de
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
+@@||emsservice.de^$image,xmlhttprequest,domain=kochbar.de
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object,domain=mobile.de
 @@||enjoykitz.tv/werbung.txt$object
 @@||event.mivitec.net/dist/js/$script,domain=event.mivitec.net
@@ -211,7 +212,7 @@
 @@||fotoschloebe.de/Werbung/$~third-party
 @@||fotostudio-katikrueger.de/werbung/$~third-party
 @@||fussball.sv-kehlen.de/werbepartner.htm
-@@||g.doubleclick.net/gampad/$xmlhttprequest,domain=immonet.de|vip.de
+@@||g.doubleclick.net/gampad/$xmlhttprequest,domain=immonet.de|kochbar.de|vip.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=guterhut.de|hardwareluxx.de|hbf-info.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|stern.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
