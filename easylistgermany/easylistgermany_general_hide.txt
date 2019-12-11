@@ -276,4 +276,5 @@
 ##a[href^="http://www.sendung-now.de/tick/click.php?id="]
 ##a[href^="http://www.top-of-software.de/"]
 ##a[href^="https://www.tipico.com/?affiliateId="]
+##a[href^="https://www.vavoo.tv/promo/"] > img
 ##input[onclick^="window.open('http://www.firstload.de/affiliate/"]
