@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201912111707
+! Version: 201912111714
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -440,6 +440,7 @@ _woz_banner_vote.
 ##a[href^="http://www.sendung-now.de/tick/click.php?id="]
 ##a[href^="http://www.top-of-software.de/"]
 ##a[href^="https://www.tipico.com/?affiliateId="]
+##a[href^="https://www.vavoo.tv/promo/"] > img
 ##input[onclick^="window.open('http://www.firstload.de/affiliate/"]
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist_general_hide.txt ***
 ping-timeout.de#@##Advertisements
@@ -3608,6 +3609,7 @@ guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[i
 ||tagseoblog.de/images/vpp-werben280x250.jpg
 ||tah.de^*&tx_sfbanners_
 ||taketv.net/bilder/backdell.jpg
+||tarnkappe.info/wp-content/uploads/ano-phone-neuer-banner.jpg
 ||taschenlampen-forum.de/images/fenix/
 ||taschenlampen-forum.de/images/imalent/
 ||taschenlampen-forum.de/images/jetbeam/
