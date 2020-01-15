@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202001151828
+! Version: 202001151834
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -5313,7 +5313,7 @@ morgenpost.de,thueringer-allgemeine.de##.advertising
 au-ja.de##.advframe
 n-mag.de,sein.de##.advs
 netluchs.de##.adw
-erf.de##.adwrapper
+erf.de,greenbyte.ch##.adwrapper
 stylebook.de##.afc
 bild.de##.affiliate.pm001
 bild.de##.affiliate.pm007
