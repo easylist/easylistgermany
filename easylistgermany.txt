@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202001051136
+! Version: 202001151823
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -5802,6 +5802,7 @@ antenne.de,rockantenne.de##.leaderboard-wrapper
 istream.ws##.leaderboard2
 rockpapershotgun.de##.leaderboards
 lkz.de##.left > .content[style="min-height:100px"]
+gmx.net,home.1und1.de,web.de##.left-col__bottom
 narutoloads.org##.left-hand-global
 au-ja.de##.leftADB
 au-ja.de##.leftADV
@@ -6976,6 +6977,7 @@ rtl.de,sport.de,vox.de##div[data-adformat="halfpage"]
 rtl.de##div[data-adformat="octopus_hr"]
 rtl.de##div[data-adformat="octopus_mr"]
 rtl.de,sport.de,vox.de##div[data-adformat="rectangle"]
+gmx.net,home.1und1.de,web.de##div[data-adservice-slot]
 chip.de##div[data-adzone="contentad-afc-main"]
 chip.de##div[data-adzone="contentad-storyad-afc"]
 t-online.de##div[data-dy*="Partner:"]
