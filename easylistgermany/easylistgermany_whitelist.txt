@@ -225,7 +225,7 @@
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|guterhut.de|hardwareluxx.de|hbf-info.de|kochbar.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|stern.de|welt.de|zalando.de
 @@||g.doubleclick.net/pagead/js/rum.js$domain=auto-motor-und-sport.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
-@@||g.doubleclick.net/tag/js/gpt.js$domain=auto-motor-und-sport.de
+@@||g.doubleclick.net^*/gpt.js$script,domain=auto-motor-und-sport.de|kochbar.de
 @@||galileo.tv/js/my_ad_integration.js
 @@||gamers.at/images/branding/*/gamers_at.jpg
 @@||gamers.at/images/branding/*/header.
