@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202001291732
+! Version: 202001291805
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -2108,6 +2108,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||cylex.de/images/cylex.de/credit-report-banner-
 ||daf.fm/templates/images/flatex_
 ||daf.fm/templates/images/vitrade_
+||damoh.$media,domain=chip.de|focus.de|n-tv.de|rtl.de|spiegel.de|spiegel.tv|spieletipps.de|tvnow.de|vip.de|winfuture.de
 ||dance-charts.de/images/banners/
 ||dancecore.fm/partner/
 ||das-bewegt-die-welt.de/images/banners/
@@ -2643,6 +2644,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||hl-live.de/aktuell/grafiken/banner/
 ||hl-live.de/aktuell/grafiken/vg/
 ||hl-live.de^*/banner.
+||hmediacdn.com^$media,domain=4players.de|golem.de
 ||hochzeitsplaner.de^*_200x600.
 ||hochzeitstage.de^*/200x600_
 ||hochzeitstage.de^*/728x90hochzeitsdrucksachen.gif
