@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202001261056
+! Version: 202001291718
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -515,6 +515,7 @@ dewezet.de#@#.ad_header
 willhaben.at#@#.ad_image
 rcanzeigen.de#@#.ad_links
 willhaben.at#@#.ad_space
+11freunde.de#@#.ad_wrap
 heise.de#@#.adbottom
 willhaben.at#@#.adbutton
 yanini.de#@#.adcol1
@@ -553,6 +554,7 @@ di.fm,nowmusic.com#@#.firstload
 esvkticker.sports-stream.de#@#.google_adsense
 11freunde.de,kochbar.de,rtl.de,vip.de#@#.gujAd
 immobilienscout24.de#@#.has-ad
+11freunde.de#@#.house-ad
 guterhut.de,notebooksbilliger.de#@#.img_ad
 hochzeitswahn.de#@#.internal-ad
 frankenlist.de#@#.item-ad
@@ -7690,6 +7692,7 @@ welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anze
 @@|http://byte.to/js/javascript.js|
 @@|http://byte.to/js/wz_tooltip.js|
 @@||1000steine.de/img/ads/
+@@||11freunde.de/assets/houseAds/$image,domain=11freunde.de
 @@||11freunde.de/sites/all/themes/elf/gujAd/gujAd.js$domain=11freunde.de
 @@||123people.us/trackads/display?zones=$script,domain=123people.de
 @@||2mdn.net/ads/studio/Enabler.js$domain=marketing-a.akamaihd.net
