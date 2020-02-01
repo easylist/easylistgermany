@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202002011122
+! Version: 202002011123
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -5247,7 +5247,6 @@ t-online.de##.Tssshopst
 t-online.de##.Ttsc.Ttsh65.Tmc4a
 aol.de##.WOL
 helles-koepfchen.de##.Wer
-wetter.com##.\[.rectangle-home.\]
 gullipics.com##.a-zone
 dexerto.de##.aON
 winfuture.de##.a_box
@@ -7640,7 +7639,6 @@ ddl-warez.in##tr[style="background:#D0F5A9"]
 radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Specific hiding filters necessary for sites whitelisted with $generichide filter option
-bz-berlin####.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
 focus.de##.adsBlock
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 boote-forum.de,golem.de,jetzt.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
@@ -7649,7 +7647,7 @@ ariva.de,boote-forum.de,fanfiktion.de,notebookchat.com,notebookcheck.com,planets
 bz-berlin.de,computerbild.de,erdbeerlounge.de,giga.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
 computerbild.de,erdbeerlounge.de,giga.de,metal-hammer.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
 computerbild.de,erdbeerlounge.de,fitbook.de,giga.de,noizz.de,spieletipps.de,sportbild.bild.de,stylebook.de,techbook.de,transfermarkt.de,travelbook.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
-metal-hammer.de,musikexpress.de,rollingstone.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
+bz-berlin,metal-hammer.de,musikexpress.de,rollingstone.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
 @@||bz-berlin.de^$generichide
 @@||computerbild.de^$generichide
 @@||fitbook.de^$generichide
