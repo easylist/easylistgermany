@@ -2690,6 +2690,7 @@ byte.to##a[href^="https://byte.to/linkifier.php"]
 chip.de##a[href^="https://click.hmavpn.com/aff_c?"]
 t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
 koeln.de##a[href^="https://ed.koeln.de/ad/"]
+stylebook.de##a[href^="https://fra1-ib.adnxs.com/click?"]:not([href*="stylebook" i])
 gload.cc##a[href^="https://gload.cc/strip"]
 stadt-bremerhaven.de##a[href^="https://instaffo.com/?utm_source="] > img
 gamepro.de,gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
