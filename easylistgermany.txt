@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202003021832
+! Version: 202003090730
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -544,6 +544,7 @@ macwelt.de#@#.advertisment
 reitbeteiligung.org#@#.adverts
 kalaydo.de#@#.adverttext
 web.de#@#.banner-728
+wetter.de#@#.base-ad-slot
 filmreporter.de#@#.boxadv
 kraftfuttermischwerk.de#@#.category-advertorial
 openlimit.com#@#.content_ad
@@ -564,10 +565,12 @@ frankenlist.de#@#.list-ad
 styleranking.de#@#.medrect-ad
 der-postillon.com#@#.middleads
 ebay-kleinanzeigen.de#@#.native-ad
+wetter.de#@#.outbrain-ad-slot
 tk.de#@#.pfad
 fanfiktion.de#@#.plistaList > .itemLinkPET
 tsv-thedinghausen.de#@#.postad
 quoka.de#@#.related-ads
+wetter.de#@#.showheroes-ad-slot
 xdate.ch#@#.side-ads
 wuv.de#@#.sticky-ad-wrapper
 blesius.de#@#.text_werbung
