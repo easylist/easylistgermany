@@ -53,6 +53,8 @@
 @@||admeld.com/ad/js/*/game-page?$script,domain=jetztspielen.de|spielen.com
 @@||admeld.com/meld128.js$domain=jetztspielen.de|spielen.com
 @@||admin.brightcove.com/viewer/*/advertisingmodule.swf$domain=dmax.de|morgenpost.de
+@@||adnxs.com/p/creative-image/$image,domain=autobild.de
+@@||adnxs.com/ut/v3|$xmlhttprequest,domain=autobild.de
 @@||adnxs.com^*/creative-image^$image,domain=bz-berlin.de
 @@||adonline.anonza.de^$~document,~third-party
 @@||adpartner.de^$~third-party
