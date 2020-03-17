@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202003171526
+! Version: 202003171541
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -6095,6 +6095,7 @@ digital-eliteboard.com##.samCodeUnit
 islamische-zeitung.de##.sb-widget
 gamepro.de##.sbpromotion
 schulterglatze.de##.schulterglatze_leaderboard
+sky.de##.sdc-site-au__leaderboard
 hotfrog.at,hotfrog.ch,hotfrog.de##.search-middle-adblock
 bildschirmarbeiter.com##.searchContainer + a + .sidebox
 mittelhessen.de##.sebo_advert
