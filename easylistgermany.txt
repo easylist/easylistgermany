@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202003211249
+! Version: 202003211250
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -7690,6 +7690,7 @@ ebay.de#?#.b-module:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.mfe-lex:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.s-item:-abp-has(span:-abp-contains(ANZEIGE))
 ebay.de#?#.sresult:-abp-has(div.promoted-lv)
+ebay.de#?#li.mfe-reco-ct:-abp-has(div.mfe-promoted-label)
 gamestar.de#?#.content-item-medium:-abp-has(data:-abp-contains(Anzeige))
 gamestar.de#?#.content-item-small:-abp-has(h3:-abp-contains(Anzeige))
 gofeminin.de#?#.af-block-native:-abp-contains(Anzeige)
