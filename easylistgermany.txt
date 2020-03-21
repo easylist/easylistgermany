@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202003171549
+! Version: 202003211249
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -6968,6 +6968,7 @@ acer-userforum.de##body > table[width="100%"][cellspacing="0"][cellpadding="0"][
 schoener-fernsehen.com##body[msallowfullscreen="true"][webkitallowfullscreen="true"][mozallowfullscreen="true"][allowfullscreen="true"][style="box-sizing: border-box; width: 100%; height: 100%; overflow: hidden;"] > iframe[id][class][frameborder="0"][allowtransparency="true"][scrolling="auto"][src^="http://schoener-fernsehen.com/"] + div[id][class]
 rtl.de##button[onclick^="verivox_go("]
 rsd-store.com##button[onclick^="visitPartner("]
+reichtmeinklopapier.de##center > a > img
 hornoxe.com##center > a[target="_blank"][href^="http://amzn.to/"] > img
 repage.de##center > br + table[style="background-color:FFFFCC;border:1px solid;border-color:;table-layout:visible;width:468px;height:60px;padding-top:0px;padding-left:5px;padding-right:5px;padding-bottom:0px;"]
 abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
