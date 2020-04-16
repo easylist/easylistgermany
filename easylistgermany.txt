@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202004151835
+! Version: 202004161606
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -6099,6 +6099,7 @@ playnation.de##.rl > .ca
 oberpfalznetz.de##.rotating-banner
 excitingcommerce.de##.row > .fourcol > #text-2
 magistrix.de##.row > div[style="text-align: right; padding: 0;"]
+netzwelt.de##.row-top
 boerse-online.de##.rsmodulanzeige
 rtl.de##.rtlde-medium-rectangle
 ebay.de##.rtmad
