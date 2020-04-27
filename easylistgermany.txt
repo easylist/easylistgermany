@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202004251409
+! Version: 202004271603
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -5048,6 +5048,7 @@ ddl-music.org,ddl-warez.in,pornlounge.org###so_ad
 magistrix.de###songtext > .visible-desktop
 amazon.de###sp_detail
 amazon.de###sp_detail2
+amazon.de###sp_detail_thematic
 wuppertaler-rundschau.de###spalte_anzeigen_links
 wuppertaler-rundschau.de###spalte_anzeigen_rechts
 museumsdienst-hamburg.de###spb
