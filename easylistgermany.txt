@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202005121907
+! Version: 202005161309
 ! Title: EasyList Germany
 ! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
@@ -4025,6 +4025,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||yieldlab.net^$domain=autobild.de
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block_popup.txt ***
 .gif|$popup,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
+/^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=xcine.tv
 ^utm_campaign^$popup,domain=jappy.de
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ||1kino.in/vload.php$popup
