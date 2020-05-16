@@ -1,4 +1,5 @@
 .gif|$popup,domain=autozeitung.de|formel1.de|fremdwort.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
+/^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=xcine.tv
 ^utm_campaign^$popup,domain=jappy.de
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ||1kino.in/vload.php$popup
