@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202006221933
+! Version: 202006221946
 ! Title: EasyList Germany
-! Last modified: 22 Jun 2020 19:33 UTC
+! Last modified: 22 Jun 2020 19:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -967,6 +967,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||schlauli.de^$third-party
 ||selsin-ltd.com^$third-party
 ||servertraffic.de^$third-party
+||servote.de^
 ||sexgoesmobile.com^$third-party
 ||shareifyoulike.com^$third-party
 ||shoplenaro.com^$third-party
@@ -1668,7 +1669,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||verticalnetwork.de/scripts/*/sky.js
 ||verticalnetwork.de/scripts/*/supb.js
 ||vetalio.de/partner/$third-party
-||vidapi.servote.de^
 ||videobuster.de^*?adid=$third-party
 ||vienna.at/banner/
 ||view.autoscout24.de^$third-party
