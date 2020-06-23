@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202006221946
+! Version: 202006231849
 ! Title: EasyList Germany
-! Last modified: 22 Jun 2020 19:46 UTC
+! Last modified: 23 Jun 2020 18:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7798,6 +7798,9 @@ wallstreet-online.de#?#.newsflash:-abp-has(span.suffix:-abp-contains(Anzeige))
 wallstreet-online.de#?#.shareToday:-abp-has(div.adHint)
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
+t-online.de###T-85628670
+t-online.de###T-86593348
+t-online.de###T-86926496
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_whitelist.txt ***
 @@/gujAd.$domain=11freunde.de|kochbar.de|stern.de|vip.de|wetter.de
