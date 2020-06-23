@@ -55,6 +55,9 @@ helles-koepfchen.de###Superbanner
 helles-koepfchen.de###Syscraper_left
 t-online.de###T-83718912
 t-online.de###T-83783312
+t-online.de###T-85628670
+t-online.de###T-86593348
+t-online.de###T-86926496
 fussball.de###TArtikel2 > img[height="95"][width="302"]:first-child
 mobile.de###TBANNER_SPACER
 unterwasserwelt.de###Tabelle671
@@ -3668,6 +3671,3 @@ wallstreet-online.de#?#.newsflash:-abp-has(span.suffix:-abp-contains(Anzeige))
 wallstreet-online.de#?#.shareToday:-abp-has(div.adHint)
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
-t-online.de###T-85628670
-t-online.de###T-86593348
-t-online.de###T-86926496
