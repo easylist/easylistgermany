@@ -3612,7 +3612,7 @@ gmd-music.com##tr[onclick^="window.open(\"http://gmd-music.com/mirror/"]
 ddl-warez.in##tr[style="background:#D0F5A9"]
 radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
-! Specific hiding filters necessary for sites whitelisted with $generichide filter option
+! Specific hiding filters necessary for sites using $generichide filter option
 focus.de##.adsBlock
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 boote-forum.de,golem.de,jetzt.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
@@ -3642,6 +3642,7 @@ computerbild.de,focus.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbr
 computerbild.de,focus.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Advanced element hiding rules for Adblock Plus
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
+finanznachrichten.de#?##artikeltextpuffer > table > tbody > tr > td > font[color="#000000"][face="Arial,Helvetica,sans-serif"][style="font-size:12px; line-height:16px;"]:-abp-contains(Werbung)
 chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEIGE)
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
@@ -3651,21 +3652,20 @@ ebay.de#?#.s-item:-abp-has(span:-abp-contains(ANZEIGE))
 ebay.de#?#.sresult:-abp-has(div.promoted-lv)
 ebay.de#?#li.mfe-reco-ct:-abp-has(div.mfe-promoted-label)
 finanzen.net#?#.mleft-10:-abp-contains(Werbung) + .box
-finanznachrichten.de#?##artikeltextpuffer > table > tbody > tr > td > font[color="#000000"][face="Arial,Helvetica,sans-serif"][style="font-size:12px; line-height:16px;"]:-abp-contains(Werbung)
 finanznachrichten.de#?#.table-alternating-rows > tr:-abp-has(span.hinweis-c)
 gamestar.de#?#.content-item-medium:-abp-has(data:-abp-contains(Anzeige))
 gamestar.de#?#.content-item-small:-abp-has(h3:-abp-contains(Anzeige))
 gofeminin.de#?#.af-block-native:-abp-contains(Anzeige)
 gofeminin.de#?#.af-block-native:-abp-contains(Sponsored Post)
 goldesel.to#?#:-abp-properties(height: 68px;*width: 958px;)
-goldesel.to#?#div[class^="d_"]:-abp-has(div:-abp-contains(Anonym & Sicher im Netz))
+goldesel.to#?#div[class^="d_"]:-abp-has(div:-abp-contains(Anonym & sicher im Netz))
 lieferheld.de#?#.restaurant-brief:-abp-has(div.restaurant__promo)
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 movie-blog.org#?#.beitrag2:-abp-has(#beitrag2-895521)
 movie-blog.org#?#.beitrag2:-abp-has(#beitrag2-938569)
 movie-blog.org#?#.beitrag2:-abp-has(a[href^="http://www.movie-blog.org/2010/F"])
-pcgameshardware.de#?#.item.noImg:-abp-contains([Anzeige])
-saechsische.de#?#article,div:-abp-has(> .landingpage > span:-abp-contains(Anzeige))
+pcgameshardware.de#?#.item.noImg:-abp-contains([anzeige])
+saechsische.de#?#article,div:-abp-has( > .landingpage > span:-abp-contains(Anzeige))
 t-online.de#?#div[id^="T-"][onfocus^="A('zid="]:-abp-has(a:-abp-contains(Anzeige))
 wallstreet-online.de#?#.newsflash:-abp-has(span.suffix:-abp-contains(Anzeige))
 wallstreet-online.de#?#.shareToday:-abp-has(div.adHint)
