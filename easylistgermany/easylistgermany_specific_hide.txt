@@ -3668,3 +3668,6 @@ wallstreet-online.de#?#.newsflash:-abp-has(span.suffix:-abp-contains(Anzeige))
 wallstreet-online.de#?#.shareToday:-abp-has(div.adHint)
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
+t-online.de###T-85628670
+t-online.de###T-86593348
+t-online.de###T-86926496
