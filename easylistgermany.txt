@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202006240642
+! Version: 202006292046
 ! Title: EasyList Germany
-! Last modified: 24 Jun 2020 06:42 UTC
+! Last modified: 29 Jun 2020 20:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6046,6 +6046,8 @@ quoka.de##.partnersmall
 picdumps.com##.pcd_mitte
 4players.de##.pcsponsor
 sunshine.it##.penci_list_banner_widget
+heise.de##.perf-cls-reduc-leaderboard
+heise.de##.perf-cls-reduc-rectangle
 rtl.de##.performanceRect
 20min.ch##.piazza
 gamingxp.com,mobilexp.com##.platform_index_bsb
