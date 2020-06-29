@@ -2259,6 +2259,7 @@ dastelefonbuch.de##.werbg
 russland.ru##.werbung_01[valign="top"][align="left"]
 russland.tv##.werbung_01[valign="top"][align="right"]
 webfail.com##.wf-sidebox + div > a > img
+winfuture-forum.de##.wf_gcsi
 forum.winload.de##.wgo_block
 digitalfernsehen.de##.white_anzeige
 netzkino.de##.wideSkyscraper
@@ -3673,3 +3674,4 @@ wallstreet-online.de#?#.newsflash:-abp-has(span.suffix:-abp-contains(Anzeige))
 wallstreet-online.de#?#.shareToday:-abp-has(div.adHint)
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
+winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige))
