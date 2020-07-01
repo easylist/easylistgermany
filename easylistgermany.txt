@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007012030
+! Version: 202007012111
 ! Title: EasyList Germany
-! Last modified: 01 Jul 2020 20:30 UTC
+! Last modified: 01 Jul 2020 21:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3668,6 +3668,9 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||teltarif.de/ad/
 ||testreich.com/layer*.html
 ||thinkpad-forum.de/banner/
+||thinkpad-forum.de/Neu/*-banner.
+||thinkpad-forum.de/Neu/*_banner.
+||thinkpad-forum.de/Neu/Banner-
 ||threepi.de^$media,domain=gamepro.de|gamestar.de
 ||ticket-leistung.de^*/banner/
 ||tinyurl.com^$domain=hardcoremetal.biz|hd-world.org|hoerbuch.us|kino24.to|kinox.tv|lesen.to|linkfarm.in|movie-blog.org|pornkino.to|rapidvideo.com|relink.us|smsit.me|xxx-blog.to
