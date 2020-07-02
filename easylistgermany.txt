@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007012111
+! Version: 202007021606
 ! Title: EasyList Germany
-! Last modified: 01 Jul 2020 21:11 UTC
+! Last modified: 02 Jul 2020 16:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1169,7 +1169,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||catsms.de/images/banner/
 ||cdn.kaisergames.de/www.*/images/wallpaper_
 ||cdn.lotto24.de/webshop/minisite/$subdocument,third-party
-||cdn.zomap.de^$xmlhttprequest
 ||cect-shop.com/CMBannerCECT-SHOP.gif
 ||ced.sascdn.com^
 ||china-gadgets.de^$subdocument,third-party
