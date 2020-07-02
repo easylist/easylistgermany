@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007021606
+! Version: 202007021607
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2020 16:06 UTC
+! Last modified: 02 Jul 2020 16:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5353,6 +5353,7 @@ yelp.de##.add-search-result
 sport1.de##.addPicture
 aero.de##.add_balken
 tes-5-skyrim.de##.addleft
+kochbar.de##.admanager__ems__dmofooter-1
 kochbar.de##.admanager__ems__teaser .emsTeaserContainer
 oxygen-scene.com##.adoxygen
 baronbuff.de##.adp_pls
@@ -8064,7 +8065,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||googlesyndication.com/pagead/imgad?$image,domain=auto-motor-und-sport.de
 @@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|immonet.de|kochbar.de|notebooksbilliger.de|vip.de|zalando.de
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
-@@||googlesyndication.com/simgad/$image,domain=notebooksbilliger.de
+@@||googlesyndication.com/simgad/$image,domain=kochbar.de|notebooksbilliger.de
 @@||googlesyndication.com/simgad/14155692645477451130$image,domain=guterhut.de
 @@||googletagservices.com/tag/js/gpt.js?$script,domain=stern.de
 @@||googlewatchblog.de/img/index-icons/$image
