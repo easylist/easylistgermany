@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007271817
+! Version: 202007271818
 ! Title: EasyList Germany
-! Last modified: 27 Jul 2020 18:17 UTC
+! Last modified: 27 Jul 2020 18:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7923,7 +7923,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||am-display.com/display-ad/tag/$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=gamona.de|giga.de|spielaffe.de|spieletipps.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamepro.de|gamestar.de
-@@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de
+@@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net|hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||ampproject.org/rtv/*/amp4ads-v*.js$domain=notebooksbilliger.de
 @@||angis-escort.com/angi/banner/$image,domain=searchx.ch
