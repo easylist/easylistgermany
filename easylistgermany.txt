@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007291832
+! Version: 202007291833
 ! Title: EasyList Germany
-! Last modified: 29 Jul 2020 18:32 UTC
+! Last modified: 29 Jul 2020 18:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7764,6 +7764,7 @@ radforum.de##ul[class^="ebayitems"]
 r-b-a.de##ul[style="padding: 0px; margin: 0px; border: 0px none;"]
 ! Specific hiding filters necessary for sites using $generichide filter option
 focus.de##.adsBlock
+finanzen.net##.adsbygoogle
 focus.de##.ob_container a[data-redirect^="http://paid.outbrain.com/network/redir?"]
 boote-forum.de,golem.de,jetzt.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
@@ -7774,6 +7775,7 @@ computerbild.de,erdbeerlounge.de,fitbook.de,giga.de,noizz.de,spieletipps.de,spor
 bz-berlin,metal-hammer.de,musikexpress.de,rollingstone.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
 @@||bz-berlin.de^$generichide
 @@||computerbild.de^$generichide
+@@||finanzen.net^$generichide
 @@||fitbook.de^$generichide
 @@||focus.de^$generichide
 @@||gamestar.de^$generichide
