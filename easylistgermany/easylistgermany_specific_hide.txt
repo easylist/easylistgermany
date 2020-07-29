@@ -3640,6 +3640,7 @@ bz-berlin,metal-hammer.de,musikexpress.de,rollingstone.de##.trc_related_containe
 @@||fitbook.de^$generichide
 @@||focus.de^$generichide
 @@||gamestar.de^$generichide
+@@||n-tv.de^$generichide
 @@||noizz.de^$generichide
 @@||pcwelt.de^$generichide
 @@||sport.de^$generichide
@@ -3649,25 +3650,25 @@ bz-berlin,metal-hammer.de,musikexpress.de,rollingstone.de##.trc_related_containe
 @@||travelbook.de^$generichide
 @@||tvspielfilm.de^$generichide
 @@||welt.de^$generichide
-gamestar.de##a[data-nvp*="'trafficUrl':'https://paid.outbrain.com/network/redir?"]
-gamestar.de##a[data-obtrack^="http://paid.outbrain.com/network/redir?"]
-gamestar.de##a[data-oburl^="http://paid.outbrain.com/network/redir?"]
-gamestar.de##a[data-oburl^="https://paid.outbrain.com/network/redir?"]
-gamestar.de##a[data-redirect^="http://paid.outbrain.com/network/redir?"]
-gamestar.de##a[data-redirect^="https://paid.outbrain.com/network/redir?"]
-gamestar.de##a[data-redirect^="this.href='http://paid.outbrain.com/network/redir?"]
-gamestar.de##a[data-url^="http://paid.outbrain.com/network/redir?"]
-gamestar.de##a[data-url^="http://paid.outbrain.com/network/redir?"] + .author
-gamestar.de##a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"]
+finanzen.net,gamestar.de,n-tv.de##a[data-nvp*="'trafficUrl':'https://paid.outbrain.com/network/redir?"]
+finanzen.net,gamestar.de,n-tv.de##a[data-obtrack^="http://paid.outbrain.com/network/redir?"]
+finanzen.net,gamestar.de,n-tv.de##a[data-oburl^="http://paid.outbrain.com/network/redir?"]
+finanzen.net,gamestar.de,n-tv.de##a[data-oburl^="https://paid.outbrain.com/network/redir?"]
+finanzen.net,gamestar.de,n-tv.de##a[data-redirect^="http://paid.outbrain.com/network/redir?"]
+finanzen.net,gamestar.de,n-tv.de##a[data-redirect^="https://paid.outbrain.com/network/redir?"]
+finanzen.net,gamestar.de,n-tv.de##a[data-redirect^="this.href='http://paid.outbrain.com/network/redir?"]
+finanzen.net,gamestar.de,n-tv.de##a[data-url^="http://paid.outbrain.com/network/redir?"]
+finanzen.net,gamestar.de,n-tv.de##a[data-url^="http://paid.outbrain.com/network/redir?"] + .author
+finanzen.net,gamestar.de,n-tv.de##a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"]
 plista.com##a[href^="http://click.plista.com/pets"]
-gamestar.de##a[href^="http://paid.outbrain.com/network/redir?"]
-sport.de,tvspielfilm.de##a[href^="https://ad.doubleclick.net/"]
-gamestar.de##a[href^="https://paid.outbrain.com/network/redir?"]
+finanzen.net,gamestar.de,n-tv.de##a[href^="http://paid.outbrain.com/network/redir?"]
+finanzen.net,n-tv.de,sport.de,tvspielfilm.de##a[href^="https://ad.doubleclick.net/"]
+finanzen.net,gamestar.de,n-tv.de##a[href^="https://paid.outbrain.com/network/redir?"]
 musikexpress.de##a[href^="https://popup.taboola.com/"]
-computerbild.de,focus.de,gamestar.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
-gamestar.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
-computerbild.de,focus.de,gamestar.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
-gamestar.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
+computerbild.de,finanzen.net,focus.de,gamestar.de,n-tv.de,pcwelt.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
+finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
+computerbild.de,finanzen.net,focus.de,gamestar.de,n-tv.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
+finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
 ! Advanced element hiding rules for Adblock Plus
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
 ariva.de#?#.postingarea:-abp-has(span[onmouseup*="smartbroker.de"])
