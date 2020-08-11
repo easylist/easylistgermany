@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202008111925
+! Version: 202008111937
 ! Title: EasyList Germany
-! Last modified: 11 Aug 2020 19:25 UTC
+! Last modified: 11 Aug 2020 19:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -686,8 +686,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||bacontent.de^$third-party
 ||bannerchange.net^$third-party
 ||bannerheld.de^$third-party
-||bannertrade.eu^$third-party
-||batilo.de^$third-party
 ||bauernative.com^$third-party
 ||biallo1.de^$third-party
 ||biallo2.de^$third-party
@@ -695,8 +693,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||bitcoinpara.de^$third-party
 ||blogads.de^$third-party
 ||blogpay.eu^$third-party
-||bonicity.de^$third-party
-||borrot.de^$third-party
 ||brandigo.net^$third-party
 ||bsheute.de^$third-party
 ||buywords.de^$third-party
