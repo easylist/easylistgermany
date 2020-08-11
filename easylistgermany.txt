@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202008111938
+! Version: 202008111945
 ! Title: EasyList Germany
-! Last modified: 11 Aug 2020 19:38 UTC
+! Last modified: 11 Aug 2020 19:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -693,22 +693,12 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||bitcoinpara.de^$third-party
 ||blogads.de^$third-party
 ||blogpay.eu^$third-party
-||brandigo.net^$third-party
 ||bsheute.de^$third-party
 ||buywords.de^$third-party
 ||bwads24.com^$third-party
 ||c-points.de^$third-party
-||cash4sky.de^$third-party
-||cash4traffic.eu^$third-party
-||cashconspiracy.net^$third-party
 ||cashdorado.de^$third-party
-||catchvid.info^$third-party
-||chatzoe.de^$third-party
-||chinon.tk^$third-party
 ||ci-marketing.de^$third-party
-||civvysi.de^$third-party
-||clayon.de^$third-party
-||cloverads.net^$third-party
 ||codes.wai.it^$third-party
 ||comads.de^$third-party
 ||compca.de^$third-party
