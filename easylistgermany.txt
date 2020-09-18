@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009082029
+! Version: 202009182313
 ! Title: EasyList Germany
-! Last modified: 08 Sep 2020 20:29 UTC
+! Last modified: 18 Sep 2020 23:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7736,7 +7736,9 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||71iv.nuggad.net/crossdomain.xml$object
 @@||a-ssl.ligatus.com/?ids=$script,domain=stern.de|wetter.de|zeit.de
 @@||a.ligatus.com/?ids=$script,domain=wetter.de
+@@||a.teads.tv/hb/bid-request|$xmlhttprequest,domain=finanzen.ch
 @@||ab-in-den-urlaub.de^*.popunder.js
+@@||acdn.adnxs.com/ast/ast.js$script,domain=finanzen.ch
 @@||ad-emea.doubleclick.net/ad/tonline.app.smartclip/$object,domain=iam.t-online.de
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-ipd.sxp.smartclip.net/select?*&sz=pre&$xmlhttprequest,domain=n-tv.de
@@ -7988,7 +7990,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||happybox24.ch/img/media/happybox24.ch_$image,domain=ameliatantra.jimdo.com
 @@||horizont.net/news/media/$image,domain=horizont.net
 @@||ib.adnxs.com/ut/v3^$xmlhttprequest,domain=stylebook.de
-@@||ib.adnxs.com^$xmlhttprequest,domain=bz-berlin.de
+@@||ib.adnxs.com^$xmlhttprequest,domain=bz-berlin.de|finanzen.ch
 @@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
 @@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
 @@||idowa.de^*/advertisement/$xmlhttprequest
