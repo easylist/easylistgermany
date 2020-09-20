@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009202036
+! Version: 202009202042
 ! Title: EasyList Germany
-! Last modified: 20 Sep 2020 20:36 UTC
+! Last modified: 20 Sep 2020 20:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3493,6 +3493,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||svwehen-wiesbaden.de/medium/Hermann_Sample.png
 ||swimnews.de^*_250x880.jpg
 ||swimnews.de^*_960x120.jpg
+||swz.it^*/pichler.gif
+||swz.it^*_Webbanner_
 ||symptomat.de/ama/
 ||synchronkartei.de/amazonproxy.php
 ||synchronkartei.de/img/ext/
@@ -6173,7 +6175,6 @@ rheintaler.ch##.tbrposthtml
 rheintaler.ch##.tbrprehtml
 hifi-forum.de##.td1[valign="top"] > div[style="float:left; width: 300px; height: 250px; margin-right: 10px; margin-bottom: 10px; padding:0;"]:first-child
 bild.de##.tea-rectangle
-swz.it##.teaser
 bento.de##.teaser-content.spns
 notebookinfo.de##.teaser-news-inline-anzeige
 bluewin.ch##.teaser-partnerlink
