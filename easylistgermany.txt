@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009202042
+! Version: 202009202046
 ! Title: EasyList Germany
-! Last modified: 20 Sep 2020 20:42 UTC
+! Last modified: 20 Sep 2020 20:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5119,7 +5119,7 @@ stadtradio-goettingen.de##.Anzeigen
 bluray-disc.de##.AnzeigenBlock2
 schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##.AnzeigenHead
 bluray-disc.de##.AnzeigenText
-haustechnikdialog.de##.BannerContainer
+fc-suedtirol.com,haustechnikdialog.de##.BannerContainer
 idowa.de##.BannerSeiteLinks
 ksta.de,rundschau-online.de##.BoxAnzeige
 rundschau-online.de##.BoxContentPosAnzeige
