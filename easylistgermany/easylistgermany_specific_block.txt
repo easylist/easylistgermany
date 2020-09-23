@@ -1806,8 +1806,6 @@
 ||stepstone.de^*/skyscraper/
 ||stern.de/bilder/stern_5/allgemein/extras_vermarktet/
 ||stilmagazin.com/banner/
-||stol.it/var/ezflow_site/storage/images/beilagen-archiv/
-||stol.it/var/ezflow_site/storage/images/werbung_intern/look4you/
 ||store51.de/banner.js
 ||store51.de/banner1.js
 ||stream-oase.tv/images/banners/
@@ -1857,6 +1855,8 @@
 ||svwehen-wiesbaden.de/medium/Hermann_Sample.png
 ||swimnews.de^*_250x880.jpg
 ||swimnews.de^*_960x120.jpg
+||swz.it^*/pichler.gif
+||swz.it^*_Webbanner_
 ||symptomat.de/ama/
 ||synchronkartei.de/amazonproxy.php
 ||synchronkartei.de/img/ext/
@@ -2186,7 +2186,6 @@
 ||zweinullig.de/wp-content/uploads/chaershop.jpg
 ! CSP filters
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagmanager.com *.google.com *.gstatic.com www.google-analytics.com *.googleapis.com *.cloudflare.com *.twitter.com connect.facebook.net cdn.hdfilme.net cdn.hdfilme.cx ssl.p.jwpcdn.com,domain=hdfilme.cc|hdfilme.cx
-||spiele-umsonst.de^$csp=script-src 'self' * blob: 'unsafe-inline'
 ||xcine.tv^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.cloudflare.com www.googletagmanager.com images.dmca.com *.google.com *.gstatic.com www.google-analytics.com *.twitter.com connect.facebook.net cdn.xcine.tv ssl.p.jwpcdn.com
 ! Specific filters necessary for sites using $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
