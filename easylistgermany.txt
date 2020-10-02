@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202010021017
+! Version: 202010021026
 ! Title: EasyList Germany
-! Last modified: 02 Oct 2020 10:17 UTC
+! Last modified: 02 Oct 2020 10:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2096,6 +2096,10 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||dvd-verleih.info/videobuster/
 ||dvd.bild.de^$subdocument
 ||dxtv.de/2spnsrs/
+||dxtv.de/3rdspon/
+||dxtv.de/octagon_sponsor_
+||dxtv.de^*/all-inkl.gif
+||dxtv.eu/spnsrs2/
 ||e-va.com^*/skyscraper/
 ||e110.de/images/abus_
 ||e110.de/images/leaderboard/
@@ -6470,6 +6474,7 @@ pornkino.to##a[href^="http://pornkino.to/milfs/"]
 pornkino.to##a[href^="http://pornkino.to/poppen/popUp/"]
 pornkino.to##a[href^="http://pornkino.to/usenet."]
 gulli.com,hubbahotel.cc##a[href^="http://rover.ebay.com/rover/"]
+dxtv.de##a[href^="http://satshop24.de/"]
 gesichtskirmes.net##a[href^="http://sau-billig.net/"]
 myvideo.de##a[href^="http://server.nitrado.net/deu/gameserver-mieten?"]
 drop-games.org,moviez.to##a[href^="http://share.cx/partner"]
@@ -6499,6 +6504,7 @@ tvtv.de##a[href^="http://www.TwinPlan.de/AF_"]
 mobilfunk-talk.de##a[href^="http://www.active-tracking.de/"]
 smsform.de##a[href^="http://www.adscads.de/sites/"]
 aktuell.ru##a[href^="http://www.aktuell.ru/inc/banners.php?"]
+dxtv.de##a[href^="http://www.all-inkl.com/index.php?partner="]
 livestreamfussball.org##a[href^="http://www.amazon.de/"]
 das-sternzeichen.de##a[href^="http://www.amazon.de/"][href*="&tag="]
 gamepro.de##a[href^="http://www.amazon.de/gp/"][href*="&tag="]
@@ -6638,6 +6644,7 @@ pcwelt.de##a[href^="https://www.kqzyfj.com/click-"]
 t-online.de##a[href^="https://www.lotto24.de/webshop/product/eurojackpot?partnerId="]
 t-online.de##a[href^="https://www.mobile.de/"][href*="utm_medium=affiliate"]
 atomload.to##a[href^="https://www.oboom.com/ref/"]
+dxtv.de##a[href^="https://www.octagon-germany.eu/"]
 hd-world.org,movie-blog.org##a[href^="https://www.smoozed.com/p/"]
 atomload.to##a[href^="https://www.smoozed.rocks/landing/"]
 ddl-warez.to,goldesel.to##a[href^="https://www.spyoff.com/"]
