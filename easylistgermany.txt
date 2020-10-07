@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202010070924
+! Version: 202010071000
 ! Title: EasyList Germany
-! Last modified: 07 Oct 2020 09:24 UTC
+! Last modified: 07 Oct 2020 10:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3173,6 +3173,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||speedlounge.in^*/highspeedmirror.jpg
 ||speedlounge.in^*/jspop.js
 ||speedlounge.in^*=highspeedmirror|
+||speedtorrent.com/usenet/
 ||spiegel.de/gutenb/img/hoeflich-schokolade.gif
 ||spiegel.de/gutenb/img/HuH-Banner.gif
 ||spiegelfechter.com/img/apotheke.gif
@@ -6263,6 +6264,7 @@ t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
 koeln.de##a[href^="https://ed.koeln.de/ad/"]
 stylebook.de##a[href^="https://fra1-ib.adnxs.com/click?"]:not([href*="stylebook" i])
 gload.cc##a[href^="https://gload.cc/strip"]
+speedtorrent.com##a[href^="https://goo.gl/"]
 stadt-bremerhaven.de##a[href^="https://instaffo.com/?utm_source="] > img
 gamepro.de,gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
 t-online.de##a[href^="https://jobsuche.t-online.de/to/jobs/search?"]
