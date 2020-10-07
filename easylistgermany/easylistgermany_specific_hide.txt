@@ -2512,6 +2512,7 @@ t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
 koeln.de##a[href^="https://ed.koeln.de/ad/"]
 stylebook.de##a[href^="https://fra1-ib.adnxs.com/click?"]:not([href*="stylebook" i])
 gload.cc##a[href^="https://gload.cc/strip"]
+speedtorrent.com##a[href^="https://goo.gl/"]
 stadt-bremerhaven.de##a[href^="https://instaffo.com/?utm_source="] > img
 gamepro.de,gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
 t-online.de##a[href^="https://jobsuche.t-online.de/to/jobs/search?"]
