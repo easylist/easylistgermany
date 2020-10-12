@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202010120548
+! Version: 202010120554
 ! Title: EasyList Germany
-! Last modified: 12 Oct 2020 05:48 UTC
+! Last modified: 12 Oct 2020 05:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -459,6 +459,7 @@ dipeo.de#@##adRight
 kunsthalle-tuebingen.de#@##ad_1
 kunsthalle-tuebingen.de#@##ad_2
 kunsthalle-tuebingen.de#@##ad_3
+az.com.na#@##ad_block_1
 systemrecordings.com#@##ad_box
 academics.de#@##ad_container
 ad-tuning.de#@##ad_footer
@@ -543,6 +544,7 @@ regman.de#@#.advertiseText
 e-valuate.de,wohnungsrechner.ch#@#.advertiser
 macwelt.de#@#.advertisment
 1und1.de,gmx.at,gmx.net,typischich.at,web.de#@#.advertorial
+az.com.na#@#.adverts
 kalaydo.de#@#.adverttext
 web.de#@#.banner-728
 wetter.de#@#.base-ad-slot
@@ -2832,6 +2834,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||nickles.de^*/ads.js
 ||niederschlagsradar.de/550x150.
 ||niederschlagsradar.de/bannerdetails.aspx?
+||nmh.my.na/main/products^$domain=az.com.na
 ||nnz-online.de/_banner/
 ||nnz-online.de^*/anzeige.gif
 ||nnz-tv.de/_Banner/
@@ -7143,6 +7146,7 @@ finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='https://paid.outbra
 20min.ch#?#.clusterTop:-abp-has(.teaser:-abp-has(h3:-abp-contains(Paid Post)))
 ariva.de#?#.postingarea:-abp-has(span[onmouseup*="smartbroker.de"])
 finanznachrichten.de#?##artikeltextpuffer > table > tbody > tr > td > font[color="#000000"][face="Arial,Helvetica,sans-serif"][style="font-size:12px; line-height:16px;"]:-abp-contains(Werbung)
+az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
 chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEIGE)
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
