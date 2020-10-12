@@ -434,6 +434,7 @@ triff-chemnitz.de###header > a[target="_blank"][href^="/redirect.php?cid="]
 mobilegeeks.de###header-container > #hs-l-4z
 winload.de###header-link-loadblog
 macnews.de###header-teaser
+diegrenzgaenger.lu###header-wrapper + div[class="row "]
 agriaffaires.de###header_ban
 radio-teddy.de###header_banner
 falk.de###header_banner_wrapper
@@ -1100,6 +1101,7 @@ ak-kurier.de##.ad + .tdt
 ak-kurier.de##.ad + .uk-panel
 synchronkartei.de##.ad-box
 1und1.de,gmx.net,heise.de,web.de##.ad-container
+diegrenzgaenger.lu##.ad-listing
 vsport.at##.ad1
 vsport.at##.ad2
 med1.de,promiflash.de,stayfriends.de##.adContainer
@@ -3385,6 +3387,7 @@ finanznachrichten.de#?##artikeltextpuffer > table > tbody > tr > td > font[color
 chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEIGE)
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
+diegrenzgaenger.lu#?#article[id^=post-]:-abp-has(.sponsored-indicator)
 ebay.de#?#.b-module:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.mfe-lex:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.s-item:-abp-has(span:-abp-contains(ANZEIGE))
