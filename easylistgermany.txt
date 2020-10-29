@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202010292256
+! Version: 202010292302
 ! Title: EasyList Germany
-! Last modified: 29 Oct 2020 22:56 UTC
+! Last modified: 29 Oct 2020 23:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -568,6 +568,7 @@ frankenlist.de#@#.list-ad
 styleranking.de#@#.medrect-ad
 der-postillon.com#@#.middleads
 ebay-kleinanzeigen.de#@#.native-ad
+finanzen.at,rtl.de,vip.de#@#.ob-smartfeed-wrapper
 wetter.de#@#.outbrain-ad-slot
 tk.de#@#.pfad
 fanfiktion.de#@#.plistaList > .itemLinkPET
