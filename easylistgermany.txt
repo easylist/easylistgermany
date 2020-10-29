@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202010272014
+! Version: 202010292201
 ! Title: EasyList Germany
-! Last modified: 27 Oct 2020 20:14 UTC
+! Last modified: 29 Oct 2020 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5885,6 +5885,7 @@ wallstreet-online.de##.werBox
 nydus.org##.werb
 diefussballecke.de##.werbe_eigen_rahmen
 eastcomp.de##.werbehinweis + table
+fernsehserien.de##.werbemittel
 sportnews.bz##.werbenbox
 dastelefonbuch.de##.werbg
 russland.ru##.werbung_01[valign="top"][align="left"]
