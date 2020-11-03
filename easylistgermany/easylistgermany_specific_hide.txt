@@ -1559,13 +1559,11 @@ goldesel.to##.header + ul + ul > li > a > img
 derwesten.de##.header > .g_1of1 > .box > .mod_pic > .hyph > .img
 downloadstube.net##.header > div:last-child > a[onclick]:first-child
 sunshine.it,videothek.cc##.header-banner
-lintorfer.eu##.header-widget
 blick.ch##.headerPartners
 kabel-blog.de##.header_top_banner
 livingathome.de##.heftBox[style="padding-left:0px;margin-left:0px;padding-bottom:8px;margin-top:1px;"]
 transfermarkt.at,transfermarkt.ch,transfermarkt.de##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
 deutsche-startups.de##.highlighted.squares
-moviebb.to##.highspeed_button
 stayfriends.de##.hint-adhint + .promoContainer + .cmsSlotContainer
 heise.de##.hinweis_anzeige
 fremdwort.de##.hinweisad
@@ -2235,7 +2233,6 @@ bild.de##a[href="http://finanzservice.bild.de/versicherungen"]
 gload.cc##a[href="http://gload.cc/2010"] > img
 bild.de##a[href="http://gutscheine.bild.de"]
 prad.de##a[href="http://links.prad.de/lgcurved"]
-livestreamfussball.org##a[href="http://livetv.ru/de/allupcomingsports/1/"]
 bild.de##a[href="http://magine.bild.de"]
 moviebox.to##a[href="http://moviebox.to/download/?"]
 bild.de##a[href="http://neuwagen.bild.de/"]
@@ -2291,7 +2288,6 @@ bild.de##a[href^="/spiele/goodgame/"] > img
 bild.de##a[href^="/spiele/innogames/"] > img
 bild.de##a[href^="/spiele/travian-games/"] > img
 20min.ch##a[href^="/sponsored/"]
-mykino.to##a[href^="/stream4/index.php?id="]
 1kino.in##a[href^="/te3/out.php?id="] > img
 speedlounge.in##a[href^="/to/"]
 rtl.de##a[href^="/tools/count/teaser_ext.php?url="][href*="altfarm.mediaplex.com"]
@@ -2341,7 +2337,7 @@ trendhure.com##a[href^="http://amzn.trendhure.com"]
 pdfs.us##a[href^="http://anonym.to/?http://ul.to/ref/"]
 smsform.de##a[href^="http://api.tapstream.com/lovoo/"]
 byte.to##a[href^="http://bit.do/"]
-4fuckr.com,derlacher.de,gamepro.de,gamestar.de,giga.de,goldesel.to,housebeats.cc,livestreamfussball.org,moviekk.net,musicstream.cc##a[href^="http://bit.ly/"]
+4fuckr.com,derlacher.de,gamepro.de,gamestar.de,giga.de,goldesel.to##a[href^="http://bit.ly/"]
 feiertage.net##a[href^="http://bit.ly/"] > img
 serienoldies.de##a[href^="http://click.jamba.de/click.asp?"]
 mytube-one.de##a[href^="http://clix.superclix.de/cgi-bin/clix.cgi?"]
@@ -2349,7 +2345,6 @@ profil.at,sat1.ch,sat1.de##a[href^="http://clk.atdmt.com/"]
 dbase.ws,dokujunkies.org##a[href^="http://cloudzer.net/ref/"]
 t-online.de,trax.de##a[href^="http://count.shopping.t-online.de/RE?ID="]
 hoerbuch.us##a[href^="http://dealdog.net/"]
-movie-stream.to##a[href^="http://download.movie-stream.to"]
 serienjunkies.org##a[href^="http://download.serienjunkies.org/md-"]
 trendhure.com##a[href^="http://ext.trendhure.com/"]
 trendhure.com##a[href^="http://extern.trendhure.com/"]
@@ -2380,7 +2375,6 @@ dokujunkies.org##a[href^="http://mirror."]
 pure-anime.biz##a[href^="http://mmotraffic.com/"]
 musicelster.net##a[href^="http://musicelster.net/premium"]
 myboerse.bz##a[href^="http://myboerse.bz/download/?ff="]
-mykino.to##a[href^="http://mykino.to/stream4/index.php?id="]
 gamingxp.com##a[href^="http://nemexia.de/?"]
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 dexerto.de##a[href^="http://ow.ly/"]
@@ -2402,7 +2396,7 @@ t-online.de##a[href^="http://stromvergleich.t-online.de/strom.php"]
 stylebook.de##a[href^="http://style.glossybox.de/?zanpid="]
 4fuckr.com##a[href^="http://sweetmichelle.net?ref="]
 dokujunkies.org,flp.to,istream.ws##a[href^="http://tinyurl.com"]
-dbase.ws,fantasiedaten.1x.biz,hopto.org,livestreamfussball.org,moviekk.net,querverweis.net,trendhure.com##a[href^="http://tinyurl.com/"]
+dbase.ws,fantasiedaten.1x.biz,hopto.org,querverweis.net,trendhure.com##a[href^="http://tinyurl.com/"]
 playboy.de##a[href^="http://track.adform.net/"]
 gulli.com##a[href^="http://tracking.vrtcl.de/aff_c?offer_id="]
 hd-streams.org##a[href^="http://trafficlord.net/"]
@@ -2421,7 +2415,6 @@ mobilfunk-talk.de##a[href^="http://www.active-tracking.de/"]
 smsform.de##a[href^="http://www.adscads.de/sites/"]
 aktuell.ru##a[href^="http://www.aktuell.ru/inc/banners.php?"]
 dxtv.de##a[href^="http://www.all-inkl.com/index.php?partner="]
-livestreamfussball.org##a[href^="http://www.amazon.de/"]
 das-sternzeichen.de##a[href^="http://www.amazon.de/"][href*="&tag="]
 gamepro.de##a[href^="http://www.amazon.de/gp/"][href*="&tag="]
 focus.de##a[href^="http://www.amazon.de/gp/angebote/"]
@@ -2454,7 +2447,6 @@ computerhilfen.de##a[href^="http://www.girls-time.com/"]
 emok.tv##a[href^="http://www.goo.gl/"]
 eierkraulen.net##a[href^="http://www.handytaxi.de"]
 picdumps.com##a[href^="http://www.handyz.de"]
-myfunlink.to##a[href^="http://www.haushaltsdeals.de/"]
 stadt-bremerhaven.de##a[href^="http://www.hihonor.com/de/products/mobile-phones/honor8/"] > img
 icubik.com##a[href^="http://www.icubik.com/catalog/redirect.php/action/banner/goto/"]
 2kino.net##a[href^="http://www.idownloadgalore.com/"]
@@ -2503,7 +2495,6 @@ gesetzliche-kuendigungsfrist.info##a[href^="http://www1.belboon.de/"]
 readmore.de##a[href^="http://www4.smartadserver.com/"]
 chip.de##a[href^="http://x.chip.de/fs24/io/?url="]
 chip.de##a[href^="http://x.chip.de/linktrack/teaser/?clickzone="][target="_blank"]
-livestreamfussball.org##a[href^="http://zolanis.com/landingpage"]
 freenet.de##a[href^="https://ad1.adfarm1.adition.com/redi?sid="]
 hardwareluxx.de##a[href^="https://adclick.g.doubleclick.net/"]
 fairytail-tube.org##a[href^="https://amzn.to/"]
@@ -2536,7 +2527,6 @@ wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
 gamiano.de,naruto-tube.org##a[href^="https://www.amazon.de/"][href*="?tag="]
 pcwelt.de##a[href^="https://www.amazon.de/gp/angebote/"]
 chip.de##a[href^="https://www.amazon.de/gp/video/primesignup?tag="]
-livestreamfussball.org##a[href^="https://www.bwin.com/de/registration?wm="]
 netzwelt.de##a[href^="https://www.cleverbridge.com/"]
 stadt-bremerhaven.de##a[href^="https://www.cyberport.de/?token="][target="_blank"] > img
 mix-dich-gluecklich.de##a[href^="https://www.do-easy-tuch.de"]
@@ -2630,7 +2620,6 @@ prad.de##a[target="_blank"][href^="http://www.mobilerproduktberater.de/"]
 sachsen-fernsehen.de##a[target="_blank"][href^="http://www.sachsen-fernsehen.de/loadBanner.aspx?id="]
 schwaebische.de##a[target="_blank"][href^="http://www.schwaebische.de/click.php?id="]
 vegpool.de##a[target="_blank"][href^="http://www.vegpool.de/go.php?id="]
-lintorfer.eu##a[target="_blank"][href^="https://bankingportal.sparkasse-hrv.de"] > img
 schachbund.de##a[target="_blank"][href^="system/modules/banner/public/conban_clicks.php?bid="] > img
 ak-kurier.de##a[target="_new"] > img[src^="http://www.ak-kurier.de/akkurier/www/pic/"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
@@ -3125,7 +3114,7 @@ gamefront.de##img[width="150"][height="563"]
 gamefront.de##img[width="150"][height="600"]
 fscklog.com##img[width="160"][height="160"]
 gamefront.de##img[width="160"][height="300"]
-dashitradio.de,der-postillon.com,gamefront.de,myfunlink.to,picdumps.com##img[width="160"][height="600"]
+dashitradio.de,der-postillon.com,gamefront.de,picdumps.com##img[width="160"][height="600"]
 gamefront.de##img[width="180"][height="350"]
 t-online.de##img[width="209"][usemap^="#immap"]
 t-online.de##img[width="297"][height="465"][usemap^="#immap"]
