@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202011051519
+! Version: 202011051526
 ! Title: EasyList Germany
-! Last modified: 05 Nov 2020 15:19 UTC
+! Last modified: 05 Nov 2020 15:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1821,6 +1821,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||campen.de/images/misc/ebay_logo.gif
 ||casecenter.net^*/werbung/
 ||casinowelt.com/banner/
+||cathkathcatt.ch^*/banner-
+||cathkathcatt.ch^*/banner_
 ||cdn.voodoovideo.com/dat/ebc/$domain=imgbox.de
 ||cdn1.anime-stream24.com^
 ||cdn11.anime-stream24.com^
@@ -3714,7 +3716,7 @@ rimparerhandballer.de###adv_matchDayPresenter
 rimparerhandballer.de###adv_partner
 pennercity.de###advert
 gloria.tv###advertisement
-loipenpark.de,traumpalast.de###advertising
+kath.ch,loipenpark.de,traumpalast.de###advertising
 quoka.de###advlft
 gofeminin.de###af_columnPubLabel
 apfeleimer.de###af_foot
