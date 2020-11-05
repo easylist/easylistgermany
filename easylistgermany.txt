@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202011051526
+! Version: 202011051551
 ! Title: EasyList Germany
-! Last modified: 05 Nov 2020 15:26 UTC
+! Last modified: 05 Nov 2020 15:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3036,6 +3036,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sevenmac.de/banner/
 ||sexeldorado.ch/banner/
 ||sexgeschichten.com/banner/
+||sexgeschichten.com/kosmonaut/
 ||sexuria.com/layer.js
 ||sexuria.com/layer_$script
 ||sexuria.com/muvi_to468.jpg
@@ -5200,6 +5201,8 @@ gamepro.de,gamestar.de##.js-countdown
 aachener-nachrichten.de##.kalaydo-container
 kochbar.de##.kb-has-rectangle
 kochbar.de##.kb-recipe-comment-container > .kb-recipe-comment-right-fix
+sexgeschichten.com##.kosmonaut_120x600
+sexgeschichten.com##.kosmonaut_300x250
 wortfilter.de##.kuriosbox
 1jux.net##.l-jux-post + .black
 1jux.net##.l-mod[style="height:250px"]
