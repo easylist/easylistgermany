@@ -2,8 +2,6 @@
 /^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=hdfilme.cc|hdfilme.cx|xcine.tv
 ^utm_campaign^$popup,domain=jappy.de
 ^utm_medium=popunder^$popup,domain=hilfreich.de
-||1kino.in/vload.php$popup
-||1kino.in^*/out.php$popup
 ||3dl.tv/redipo.php$popup
 ||5vor12.de/cgi-perl/adP?nr=$popup
 ||ad.netzquadrat.de^$popup,domain=sms.de
