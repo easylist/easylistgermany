@@ -1226,6 +1226,8 @@ moho.info,motorrad2000.de##.banner-box
 hsvhandball.com##.banner-container
 com-magazin.de,macnews.de##.banner-content
 macmagazin.de##.banner-detail
+wochenblatt.cc##.banner-header-left
+wochenblatt.cc##.banner-header-right
 macmagazin.de##.banner-home
 ebay-kleinanzeigen.de##.banner-leaderboard
 klassikradio.de##.banner-position
@@ -1730,6 +1732,7 @@ mikrocontroller.net##.noprint > div[style] + div[style] > script:first-child + d
 mikrocontroller.net##.noprint > div[style] > div[id]:last-child > div[style]
 versicherungsjournal.at,versicherungsjournal.de##.norm-lsp-wbox
 versicherungsjournal.at,versicherungsjournal.de##.norm-rsp-wbox1
+wochenblatt.cc##.normal-banner
 team.gamed.de##.normal_text[width="100%"][valign="top"][height="100"][align="left"][border="0"]
 lpgforum.de,pkw-forum.de##.notices + br + #vbseo_vhtml_1
 gmx.net##.notification-alert[data-notification-browser]
