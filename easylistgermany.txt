@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202011111922
+! Version: 202011131228
 ! Title: EasyList Germany
-! Last modified: 11 Nov 2020 19:22 UTC
+! Last modified: 13 Nov 2020 12:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3395,6 +3395,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wirtschaftsblatt.at^*=adsense
 ||witz.de/images/banners/
 ||woche.com.au/images/logos/werbung/
+||wochenblatt.pl^*/smuda.jpg
+||wochenblatt.pl^*/werbung.jpg
 ||wochenblitz.com/images/banners/
 ||woelfe-handball.de/uploads/tx_rlmpflashdetection/*.swf
 ||wohnmobilforum.de/anhaengerkupplungen.jpg
