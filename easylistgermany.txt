@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202011181344
+! Version: 202011181804
 ! Title: EasyList Germany
-! Last modified: 18 Nov 2020 13:44 UTC
+! Last modified: 18 Nov 2020 18:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3826,6 +3826,7 @@ autozeitung.de,computerbild.de,prad.de,volksfreund.de###billboard
 autozeitung.de###billboard + div
 computerbild.de###billboard + div a > img[width="1000"][height="250"]
 computerbild.de###billboard + div[style="margin-bottom: 20px;"]
+rtl.de###billboard_1
 prad.de###billboardbig
 4players.de###billiger-charts
 geizkragen.de###bl_top
