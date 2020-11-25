@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202011251841
+! Version: 202011251936
 ! Title: EasyList Germany
-! Last modified: 25 Nov 2020 18:41 UTC
+! Last modified: 25 Nov 2020 19:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6639,6 +6639,7 @@ rtl.de##form[id^="parshipform_"]
 rtl.de##form[id^="powerform_"]
 n-tv.de##form[onsubmit^="return c24_track_"]
 t-online.de##form[target="_blank"][action="http://im.banner.t-online.de/"]
+golem.de#?#li[class]:-abp-has(span.icon-addy:-abp-properties(content: "Anzeige";))
 rtl.de##h2[onclick^="verivox_go_"]
 rtl.de##h2[onclick^="xdot_go_trpix(document.getElementById('parshipform_"]
 heise.de##heisetext > .img[width="100%"]
