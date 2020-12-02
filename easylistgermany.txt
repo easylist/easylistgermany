@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012021522
+! Version: 202012021534
 ! Title: EasyList Germany
-! Last modified: 02 Dec 2020 15:22 UTC
+! Last modified: 02 Dec 2020 15:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1644,6 +1644,9 @@ campaignid=*&zoneid=$domain=technic3d.com
 ||affiliate-marketing.de/media/medienpartnerschaften/
 ||africa-live.de/!banner/
 ||afterbuy.de/images/*/minibanner_$domain=thinkpad-forum.de
+||ak-kurier.de/akkurier/www/images/
+||ak-kurier.de/akkurier/www/pic/
+||ak-kurier.de/akkurier/www/upload/
 ||akkuschlapp.de/images/asuv_leaderboard.jpg
 ||alatest.de/banner/
 ||alatest.de/banners.php?
@@ -4803,7 +4806,7 @@ tagblatt.ch##.artikel-detail-einspaltig-spalte-2 > .tbrprehtml
 saarbruecker-zeitung.de##.artikeldetail > .text > .teaserbox.hgray
 sport.de##.artikelrectangel
 bitreporter.de##.asa2_fbv_wrapper
-playm.de##.asa_async_containerl
+playm.de##.asa_async_container
 sachsen-fernsehen.de##.asidebar
 spiegel.de##.asset-affiliatebox
 amazon.de##.aw-campaigns
@@ -4896,6 +4899,7 @@ notebookinfo.de##.block-custom-teaser-news-right
 notebookinfo.de##.block-offering
 projektmagazin.de##.block-pm_bannerseiten
 notebookinfo.de##.block-sponsored-offer
+ak-kurier.de##.block-weather-link
 energie-fachberater.de##.blockBanner
 readmore.de##.block[href^="http://www.amazon.de/"][href*="tag=readmore-21"]
 1a-immobilienmarkt.de##.bmi_bottom_layer
@@ -4972,7 +4976,7 @@ bluewin.ch##.column-right > .column-right-right > .teaser-special > .ts-image + 
 tripadvisor.de##.commerce
 auto-motor-und-sport.de,azonline.de,getgoods.4teams.de,mv-online.de,promobil.de,wn.de##.commercial
 nordschleswiger.dk##.component-code-snippet
-nr-kurier.de,ww-kurier.de##.container-banner
+ak-kurier.de,nr-kurier.de,ww-kurier.de##.container-banner
 deutscherskiverband.de##.container-banner-2
 secured.in##.container-banner-image
 tarifagent.com##.container_fullbanner
