@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012021407
+! Version: 202012021416
 ! Title: EasyList Germany
-! Last modified: 02 Dec 2020 14:07 UTC
+! Last modified: 02 Dec 2020 14:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1561,7 +1561,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||vodafone.de^*&tsid=$popup,third-party
 ! -------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block.txt ***
-&campaignid=*&zoneid=$domain=technic3d.com
 /imasdk.googleapis.com/js/core/bridge*.html$domain=gamestar.de
 /monzta/*$xmlhttprequest,domain=regionalbraunschweig.de|regionalgifhorn.de|regionalgoslar.de|regionalhelmstedt.de|regionalheute.de|regionalhochzeit.de|regionalkulinarisch.de|regionalleben.de|regionalpeine.de|regionalsalzgitter.de|regionalsport.de|regionalwolfenbuettel.de|regionalwolfsburg.de
 /n2content/*$xmlhttprequest,domain=regionalbraunschweig.de|regionalgifhorn.de|regionalgoslar.de|regionalhelmstedt.de|regionalheute.de|regionalhochzeit.de|regionalkulinarisch.de|regionalleben.de|regionalpeine.de|regionalsalzgitter.de|regionalsport.de|regionalwolfenbuettel.de|regionalwolfsburg.de
@@ -1572,6 +1571,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 /wpcontent/*$xmlhttprequest,domain=regionalbraunschweig.de|regionalgifhorn.de|regionalgoslar.de|regionalhelmstedt.de|regionalheute.de|regionalhochzeit.de|regionalkulinarisch.de|regionalleben.de|regionalpeine.de|regionalsalzgitter.de|regionalsport.de|regionalwolfenbuettel.de|regionalwolfsburg.de
 /www/images/*$domain=technic3d.com
 ^what=zone^$domain=ww3.cad.de
+campaignid=*&zoneid=$domain=technic3d.com
 |blob:$domain=hdfilme.tv
 |http:/$third-party,xmlhttprequest,domain=hdfilme.tv
 |http://$subdocument,third-party,domain=bonimail.de
@@ -1619,6 +1619,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||access-im-unternehmen.de/fileadmin/php/layer.js
 ||achtzehn99.de/assets/banner/*x526
 ||achtzehn99.de/themes/hoffenheim/images/banner_
+||ad-hoc-news.de/js/aTraffic.js
 ||ad.dslr-forum.de^
 ||ad.games.ch^
 ||ad.main-netz.de^
@@ -4403,6 +4404,8 @@ elhabib.com###sitepromo
 wallstreet-online.de###siteteaser
 itmagazine.ch,local.ch,macprime.ch,mysmag.de,n-tv.de,teleboerse.de,tvheute.at###sky
 kalaydo.de###skyID
+ad-hoc-news.de###skyL_wrapper
+ad-hoc-news.de###skyR_wrapper
 aktionspreis.de###skyScraper
 apotheke-adhoc.de###skyWall
 t-online.de,wetter.info###sky_anz
