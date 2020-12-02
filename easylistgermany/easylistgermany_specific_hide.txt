@@ -1312,6 +1312,7 @@ notebookinfo.de##.block-custom-teaser-news-right
 notebookinfo.de##.block-offering
 projektmagazin.de##.block-pm_bannerseiten
 notebookinfo.de##.block-sponsored-offer
+ak-kurier.de##.block-weather-link
 energie-fachberater.de##.blockBanner
 readmore.de##.block[href^="http://www.amazon.de/"][href*="tag=readmore-21"]
 1a-immobilienmarkt.de##.bmi_bottom_layer
@@ -1388,7 +1389,7 @@ bluewin.ch##.column-right > .column-right-right > .teaser-special > .ts-image + 
 tripadvisor.de##.commerce
 auto-motor-und-sport.de,azonline.de,getgoods.4teams.de,mv-online.de,promobil.de,wn.de##.commercial
 nordschleswiger.dk##.component-code-snippet
-nr-kurier.de,ww-kurier.de##.container-banner
+ak-kurier.de,nr-kurier.de,ww-kurier.de##.container-banner
 deutscherskiverband.de##.container-banner-2
 secured.in##.container-banner-image
 tarifagent.com##.container_fullbanner
