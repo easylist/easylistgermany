@@ -25,7 +25,7 @@
 @@||ad.adworx.at/crossdomain.xml$object
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
-@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=erdbeerlounge.de|gamona.de|giga.de|kino.de|spielaffe.de|spieletipps.de
+@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=erdbeerlounge.de|giga.de|kino.de|spielaffe.de|spieletipps.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad.yieldlab.net/yp/$script,domain=dance-charts.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|gutscheindoktor.de|literatur-fast-pur.de|preismafia.com|preisvergleich.de
@@ -89,7 +89,7 @@
 @@||affilinet-inside.de^*/affilinet/$stylesheet
 @@||am-display.com/display-ad/tag-set/$subdocument,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||am-display.com/display-ad/tag/$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
-@@||amazon-adsystem.com/aax2/amzn_ads.js$domain=gamona.de|giga.de|spielaffe.de|spieletipps.de
+@@||amazon-adsystem.com/aax2/amzn_ads.js$domain=giga.de|spielaffe.de|spieletipps.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamepro.de|gamestar.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net|hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
@@ -307,8 +307,8 @@
 @@||oeko-komp.de/evoAds2/
 @@||openx.musotalk.de/crossdomain.xml
 @@||openx.musotalk.de/www/delivery/fc.php?script=bannertypehtml:vastinlinebannertypehtml:vastinlinehtml&$object
-@@||openx.net/w/1.0/acj?$script,domain=erdbeerlounge.de|gamona.de|giga.de|kino.de|spielaffe.de|spieletipps.de
-@@||openx.net/w/1.0/jstag?nc=$script,domain=erdbeerlounge.de|gamona.de|giga.de|kino.de|spielaffe.de|spieletipps.de
+@@||openx.net/w/1.0/acj?$script,domain=erdbeerlounge.de|giga.de|kino.de|spielaffe.de|spieletipps.de
+@@||openx.net/w/1.0/jstag?nc=$script,domain=erdbeerlounge.de|giga.de|kino.de|spielaffe.de|spieletipps.de
 @@||os1.tv/js/omsvc_externalad.js
 @@||osthessen-tv.de/werbebanner/$object
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
@@ -341,7 +341,6 @@
 @@||rlp-tennis.de/adserve/www/delivery/ai.php?filename=dunlopchoice160x600.gif$image
 @@||rlp-tennis.de/adserve/www/delivery/ajs.php?zoneid=16^$script
 @@||rosenheimjobs.de^*&ad_type_$xmlhttprequest
-@@||rtl.de^*/admeta.xml?$object
 @@||rtl.de^*/player_modul_onclick_300x250.jpg
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||s1.adform.net^$script,domain=rewe.de
@@ -429,8 +428,8 @@
 @@||stroeerdigitalgroup.de/metatag/live/AMS/metaTag.min.js$domain=auto-motor-und-sport.de
 @@||stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tvmovie.de
 @@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=giga.de|spieletipps.de
-@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=gamona.de|giga.de|spieletipps.de
-@@||stroeermediabrands.de/dmp-tracking-min.js$domain=gamona.de|giga.de|spieletipps.de
+@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=giga.de|spieletipps.de
+@@||stroeermediabrands.de/dmp-tracking-min.js$domain=giga.de|spieletipps.de
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tamedia.ch/tl_files/content/Icons/Advertising_$domain=tamedia.ch

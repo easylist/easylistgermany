@@ -13,7 +13,6 @@
 ||amazon.de/gp/*&tag=$popup,domain=chillmo.com
 ||amazon.de/s/*&tag=$popup,domain=bluray-disc.de
 ||amazon.de/s/?*&tag=$popup,domain=chillmo.com
-||amazon.de^*&tag=$popup,domain=gamona.de
 ||amazon.de^*&tag=bluray18-21&$popup,domain=bluray-disc.de
 ||amazon.de^*/B019C5LZX4/?tag=$popup,domain=netzwelt.de
 ||amazon.de^*/ref=*&tag=$popup,domain=bluray-disc.de
@@ -24,7 +23,7 @@
 ||damoh.sueddeutsche.de^$popup
 ||ddl-warez.to/_$popup
 ||dealbunny.de^$popup,domain=dokus4.me
-||doubleclick.net^$popup,domain=gamestar.de|gamona.de
+||doubleclick.net^$popup,domain=gamestar.de
 ||ebook-hell.to/ad/$popup
 ||ebook-hell.to/out.php$popup
 ||ebook-hell.to^*/out.php$popup
@@ -33,7 +32,7 @@
 ||green.ingame.de/www/delivery/inck.php?oaparams=*__bannerid=*__zoneid=*__oadest=$popup
 ||hifi-forum.de/forum/banner/$popup
 ||jokermovie.org/out.php$popup
-||ligatus.com^$popup,domain=gamona.de|n-tv.de
+||ligatus.com^$popup,domain=n-tv.de
 ||lovoo.net^$popup,domain=smsform.de
 ||lustich.de/img/$popup
 ||mafia.to/exit.cfm$popup
