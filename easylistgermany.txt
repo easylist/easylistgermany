@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012021416
+! Version: 202012021428
 ! Title: EasyList Germany
-! Last modified: 02 Dec 2020 14:16 UTC
+! Last modified: 02 Dec 2020 14:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3906,6 +3906,8 @@ spiele-zone.de###destra
 ebay.de###dfp-banner
 kalaydo.de###dfpBannerBapFrontpage
 probefahrten.eu###dialog
+nextpit.de###div-header
+nextpit.de###div-sidebar_right_extra
 quoka.de###divBannerRESULTHEADER
 arbeitstage.at,arbeitstage.de,joursouvres.ch###div_lfsp
 connectiv.events###divi_pb_widget-3
@@ -4403,6 +4405,7 @@ next-gamer.de###sitebrandingOpener
 elhabib.com###sitepromo
 wallstreet-online.de###siteteaser
 itmagazine.ch,local.ch,macprime.ch,mysmag.de,n-tv.de,teleboerse.de,tvheute.at###sky
+nextpit.de###sky-left-container
 kalaydo.de###skyID
 ad-hoc-news.de###skyL_wrapper
 ad-hoc-news.de###skyR_wrapper
@@ -5118,6 +5121,7 @@ ichspiele.cc##.google-box
 magistrix.de##.google-dfp
 pkv-private-krankenversicherung.net##.google2
 tecchannel.de##.google_block
+nextpit.de##.gptSlot
 wallstreet-online.de##.gspraemie
 my-homo.net##.gstsk
 pcgames.de##.gul300
