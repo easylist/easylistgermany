@@ -1,3 +1,4 @@
+&campaignid=*&zoneid=$domain=technic3d.com
 /imasdk.googleapis.com/js/core/bridge*.html$domain=gamestar.de
 /monzta/*$xmlhttprequest,domain=regionalbraunschweig.de|regionalgifhorn.de|regionalgoslar.de|regionalhelmstedt.de|regionalheute.de|regionalhochzeit.de|regionalkulinarisch.de|regionalleben.de|regionalpeine.de|regionalsalzgitter.de|regionalsport.de|regionalwolfenbuettel.de|regionalwolfsburg.de
 /n2content/*$xmlhttprequest,domain=regionalbraunschweig.de|regionalgifhorn.de|regionalgoslar.de|regionalhelmstedt.de|regionalheute.de|regionalhochzeit.de|regionalkulinarisch.de|regionalleben.de|regionalpeine.de|regionalsalzgitter.de|regionalsport.de|regionalwolfenbuettel.de|regionalwolfsburg.de
@@ -8,7 +9,6 @@
 /wpcontent/*$xmlhttprequest,domain=regionalbraunschweig.de|regionalgifhorn.de|regionalgoslar.de|regionalhelmstedt.de|regionalheute.de|regionalhochzeit.de|regionalkulinarisch.de|regionalleben.de|regionalpeine.de|regionalsalzgitter.de|regionalsport.de|regionalwolfenbuettel.de|regionalwolfsburg.de
 /www/images/*$domain=technic3d.com
 ^what=zone^$domain=ww3.cad.de
-campaignid=*&zoneid=$domain=technic3d.com
 |blob:$domain=hdfilme.tv
 |http:/$third-party,xmlhttprequest,domain=hdfilme.tv
 |http://$subdocument,third-party,domain=bonimail.de
