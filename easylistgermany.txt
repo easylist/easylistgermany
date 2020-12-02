@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012022331
+! Version: 202012022348
 ! Title: EasyList Germany
-! Last modified: 02 Dec 2020 23:31 UTC
+! Last modified: 02 Dec 2020 23:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2424,6 +2424,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||konsolenschnaeppchen.de/content/plugins/background-manager/
 ||kopp-medien.websale.net^$domain=buergerstimme.com
 ||krankenkassentarife.de/images/anzeige_
+||kriminalpolizei.de/fileadmin/user_upload/*-Skyscraper_
+||kriminalpolizei.de/fileadmin/user_upload/*_728x100.
 ||krone.at^*/ad_stylesheet/
 ||kronehit.at/assets/banner/
 ||kurier.at^*/dynamicads-$script
@@ -3659,6 +3661,8 @@ deutsche-wirtschafts-nachrichten.de,doppelpunkt.de###banner-right
 annos.de,chefkoch.de,dasoertliche.de,dastelefonbuch.de###banner-top
 dastelefonbuch.de###banner-top-wp
 maclife.de###banner-wrapper-lead
+kriminalpolizei.de###banner-wrapper-right-v3
+kriminalpolizei.de###banner-wrapper-top-v1
 npd-blog.info,teachersnews.net###banner1
 dasbiber.at,kulturmarken.de,scdhfk-handball.de###banner2
 otr.datenkeller.at###bannerBlock
