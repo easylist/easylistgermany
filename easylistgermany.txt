@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012022139
+! Version: 202012022156
 ! Title: EasyList Germany
-! Last modified: 02 Dec 2020 21:39 UTC
+! Last modified: 02 Dec 2020 21:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2862,6 +2862,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||ruhrbarone.de^*/msbannerl_
 ||rummeldumm.de^*/werbefrei.gif
 ||runnersworld.de/sixcms/detail.php?id=
+||russland.capital/wp-content/uploads/*/CeMAT20.gif
+||russland.news/wp-content/uploads/*/futur2-banner.png
 ||rv-news.de/siggi_neu09.jpg
 ||s24.com^$domain=quoka.de
 ||saarbruecker-zeitung.de/storage/med/finerio/
@@ -4823,6 +4825,7 @@ readmore.de##.block[href^="http://www.amazon.de/"][href*="tag=readmore-21"]
 1a-immobilienmarkt.de##.bmi_bottom_layer
 share-tube.eu##.bn_red_message
 quoka.de##.bnr-wrp
+russland.news##.bodShopWidget
 echo-online.de##.bottom-buttons
 aerzteblatt.de##.bottomBanner
 pcwelt.de##.box .holder[target="_blank"][href^="http://rover.ebay.com/rover/"]
