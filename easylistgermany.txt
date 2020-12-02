@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012021510
+! Version: 202012021522
 ! Title: EasyList Germany
-! Last modified: 02 Dec 2020 15:10 UTC
+! Last modified: 02 Dec 2020 15:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2720,6 +2720,7 @@ campaignid=*&zoneid=$domain=technic3d.com
 ||notebooksbilliger.de/images/banner/
 ||novalja-zrce.de/wp-content/uploads/*/novalja12.jpg
 ||nox.to/static/images/sky/
+||nr-kurier.de/images/mankwetter.png
 ||nrhz.de/flyer/media/banner/
 ||nullrefer.com^$subdocument,domain=anime-loads.org
 ||oe-static.de/js/rmif.js
@@ -4971,7 +4972,7 @@ bluewin.ch##.column-right > .column-right-right > .teaser-special > .ts-image + 
 tripadvisor.de##.commerce
 auto-motor-und-sport.de,azonline.de,getgoods.4teams.de,mv-online.de,promobil.de,wn.de##.commercial
 nordschleswiger.dk##.component-code-snippet
-ww-kurier.de##.container-banner
+nr-kurier.de,ww-kurier.de##.container-banner
 deutscherskiverband.de##.container-banner-2
 secured.in##.container-banner-image
 tarifagent.com##.container_fullbanner
