@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012031614
+! Version: 202012031618
 ! Title: EasyList Germany
-! Last modified: 03 Dec 2020 16:14 UTC
+! Last modified: 03 Dec 2020 16:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4665,7 +4665,7 @@ detektor.fm##.advarea
 animania.de,check24.de,eurogamer.de,hcelb.de,morningstar.de,mrn-news.de,n-tv.de,suedkurier.de,teleboerse.de,tvtv.at,tvtv.ch,tvtv.de,weser-kurier.de##.advert
 filsh.net##.advert + .notification
 onvista.de##.advertisedFund
-veeseo.com##.advertisement
+extremnews.com,veeseo.com##.advertisement
 morgenpost.de,thueringer-allgemeine.de##.advertising
 au-ja.de##.advframe
 n-mag.de,sein.de##.advs
