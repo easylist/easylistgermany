@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012022355
+! Version: 202012030119
 ! Title: EasyList Germany
-! Last modified: 02 Dec 2020 23:55 UTC
+! Last modified: 03 Dec 2020 01:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2171,6 +2171,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||gelbeseiten.de/yp/rechte_spalte.yp?
 ||gelbeseiten.de^*/marginale_advt.yp
 ||gelbeseiten.de^*/regioframe.yp
+||gentleman-blog.de/wp-content/uploads/270x191.jpg
+||gentleman-blog.de/wp-content/uploads/870x150.jpg
 ||gepostet.com/templates/desktop/images/banner/
 ||gepostet.com^*/layer.js
 ||germanscooterforum.de/bannermanagement/
@@ -5418,6 +5420,8 @@ quoka.de##.sem > li > #ContentPoleposition_Result
 bild.de##.servicelinks
 hoerzu.de##.shades-of-grey-banner
 wallstreet-online.de##.shareInFocus
+gentleman-blog.de##.shoepassion_content_banner
+gentleman-blog.de##.shoepassion_sidebar_banner
 nasen-ratgeber.de##.show-on-desktop-480
 kleinezeitung.at##.si_adv_win2day
 kleinezeitung.at##.si_topli
