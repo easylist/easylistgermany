@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012031618
+! Version: 202012031942
 ! Title: EasyList Germany
-! Last modified: 03 Dec 2020 16:18 UTC
+! Last modified: 03 Dec 2020 19:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4134,6 +4134,8 @@ lexas.biz###mypop2_b
 meetingpoint-brandenburg.de###myspacerinner
 meetingpoint-brandenburg.de###myspacerright
 send4free.de###n8f880e
+boersennews.de###nativendo-articlemiddle
+boersennews.de###nativendo-articletop
 balaton-zeitung.info###nav_menu-2
 hifitest.de###navigation + div[style="margin-top:10px;"]
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
