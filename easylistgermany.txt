@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012032305
+! Version: 202012032306
 ! Title: EasyList Germany
-! Last modified: 03 Dec 2020 23:05 UTC
+! Last modified: 03 Dec 2020 23:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3133,6 +3133,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||triff-chemnitz.de/genbanner.php
 ||trophies-ps3.de/forenheader/amazon-
 ||tsv-friedberg.de/images/Scroller/
+||tsv1860.de/_m/partner/
 ||tsvbodnegg.de/wp-content/uploads/*/altherr.png
 ||tt.com/csp/cms/sites/tt/resources/sidebar/module145/images/
 ||tus-n-luebbecke.de/wp-content/uploads/*-Webbanner-
@@ -5451,6 +5452,7 @@ nowtv.de,tvnow.de##.sponsorbanner
 ehrensenf.com##.sponsorcenter
 ariva.de,bento.de,cnet.de,macwelt.de,renego.de,zdnet.de##.sponsored
 seo-united.de##.sponsoren
+tsv1860.de##.sponsorftr
 yigg.de,zeit.de##.sponsoring
 eblogx.com##.sponsorleft
 svm-fan.net##.sponsorlogo
