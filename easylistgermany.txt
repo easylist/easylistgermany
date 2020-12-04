@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012040037
+! Version: 202012040040
 ! Title: EasyList Germany
-! Last modified: 04 Dec 2020 00:37 UTC
+! Last modified: 04 Dec 2020 00:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4153,6 +4153,7 @@ buffed.de,gamezone.de###plakatinhalttag_1
 pcgameshardware.de###plakatskyscraper
 businessxp.at,mobilexp.com###platform_skyscraper
 immobilienscout24.de###platzhirsch-container
+regionalleben.de###platzierung
 myspass.de###playerData > div[style="height: 250px; overflow: hidden;"]
 gulli.com###plista1_belowArticle > .TeaserBox:first-child + .TeaserBox
 serienjunkies.de###plista_widget_slide
@@ -5451,6 +5452,7 @@ ehv-aue.org##.spons_div
 20min.ch,europages.de,heise.de,lehrerfreund.de,lounge.fm,sueddeutsche.de##.sponsor
 svwehen-wiesbaden.de##.sponsorLeiste
 bz-berlin.de##.sponsorTop
+asv-hamm-westfalen.de##.sponsor_col
 nowtv.de,tvnow.de##.sponsorbanner
 ehrensenf.com##.sponsorcenter
 ariva.de,bento.de,cnet.de,macwelt.de,renego.de,zdnet.de##.sponsored
