@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012091131
+! Version: 202012091137
 ! Title: EasyList Germany
-! Last modified: 09 Dec 2020 11:31 UTC
+! Last modified: 09 Dec 2020 11:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2001,7 +2001,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||familytv.de/images/sonnenklar.jpg
 ||familytv.de/images/visitx-banner.jpg
 ||famousfm.de/images/partner/
-||fap-tastic.com^$subdocument,domain=trendhure.com
 ||farmarbeit.de/uploads/images/taxback-rec.jpg
 ||farmarbeit.de/uploads/images/wt_kanda10_
 ||faz.net/f6/ad/
@@ -2697,7 +2696,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||phpforum.de/jbar/js/jbar.min.js
 ||phytodoc.de^*/phytodoc-banner.js
 ||pi-news.net^*/paz-banner.gif
-||picdump.tv^$subdocument,domain=trendhure.com
 ||picdumps.com/thumbs/monsters-army.jpg
 ||picdumps.com/thumbs/nemexia.jpg
 ||picdumps.com/thumbs/rotkaeppchen.jpg
@@ -3104,11 +3102,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||treffseiten.de^*/logo_anzeige.$image
 ||treffseiten.de^*/logo_anzeige_$image
 ||treffy.de/images/preisbringer.jpg
-||trendhure.com/gadgets/
-||trendhure.com^$subdocument
-||trendhure.com^*/gadgets.php
-||trendhure.tv^$subdocument,domain=trendhure.com
 ||trendmile.de/gedichte.htm
+||trendmutti.com/hundefutter_gratis.jpg
 ||triff-chemnitz.de/genbanner.php
 ||trophies-ps3.de/forenheader/amazon-
 ||tsv-friedberg.de/images/Scroller/
@@ -3746,7 +3741,6 @@ hoerbuch.us###content > .entry-content:first-child
 hoerbuch.us###content > font[color="red"] > h2
 onlinereports.ch###content-banner1
 onlinereports.ch###content-banner3
-trendhure.com###content-left > a[target] > img
 sprachnudel.de###content-wrapper > #content > span[id^="viewcontent"]:first-child
 sprachnudel.de###content-wrapper > #content:last-child > #viewcontent:first-child > ul:first-child:last-child
 matheboard.de###content2_rect2_div
@@ -4324,8 +4318,6 @@ pressetext.com###sponsoredLinkPortletId
 frischauf-gp.de,fvillertissen.de,gwd-minden.de,h-bw.de,hg-saarlouis.de,hsc-bad-neustadt.de,s15815331.onlinehome-server.info,tbv-lemgo.de###sponsoren
 hg-saarlouis.de,studententage.tu-freiberg.de###sponsoren2
 achtzehn99.de,hsc2000.de###sponsors
-trendhure.com###sprite-content-title-buchtipp
-trendhure.com###sprite-content-title-sexy
 ifun.de###squarebutton_125x125_left
 ifun.de###squarebutton_125x125_right
 scifi-forum.de###starfox1
@@ -5759,10 +5751,9 @@ mobilfunk-talk.de##a[href^="http://adt.traffictrack.de/go.cgi?"]
 chip.de,~deals.chip.de##a[href^="http://adx.chip.de/www/delivery/ck.php?"]
 serienjunkies.org##a[href^="http://alternads.info/"]
 arcor.de,welt.de,weltwoche.ch##a[href^="http://altfarm.mediaplex.com/ad/ck/"]
-derlacher.de,sinn-frei.com,trendhure.com##a[href^="http://amzn.to/"]
+derlacher.de,sinn-frei.com##a[href^="http://amzn.to/"]
 beichthaus.com##a[href^="http://amzn.to/"] > img
 hornoxe.com##a[href^="http://amzn.to/"] > img[width="480"][height="400"]
-trendhure.com##a[href^="http://amzn.trendhure.com"]
 pdfs.us##a[href^="http://anonym.to/?http://ul.to/ref/"]
 smsform.de##a[href^="http://api.tapstream.com/lovoo/"]
 4fuckr.com,derlacher.de,gamepro.de,gamestar.de,giga.de,goldesel.to##a[href^="http://bit.ly/"]
@@ -5773,13 +5764,11 @@ dbase.ws,dokujunkies.org##a[href^="http://cloudzer.net/ref/"]
 t-online.de,trax.de##a[href^="http://count.shopping.t-online.de/RE?ID="]
 hoerbuch.us##a[href^="http://dealdog.net/"]
 serienjunkies.org##a[href^="http://download.serienjunkies.org/md-"]
-trendhure.com##a[href^="http://ext.trendhure.com/"]
-trendhure.com##a[href^="http://extern.trendhure.com/"]
 fettrap.com##a[href^="http://fettrap.com/highspeed/"]
 finanzen.net##a[href^="http://g.finanzen.net/hsbc-startseite-top-flop?id="]
 gload.cc##a[href^="http://gload.cc/images/freeuser"]
 gload.cc##a[href^="http://gload.cc/un/dl."]
-goldesel.to,hornoxe.com,leave.to,prad.de,trendhure.com##a[href^="http://goo.gl/"]
+goldesel.to,hornoxe.com,leave.to,prad.de##a[href^="http://goo.gl/"]
 ingame.de##a[href^="http://green.ingame.de/www/delivery/inck.php?"]
 hoerbuch.us##a[href^="http://hoerbuch.us/dddl"]
 hoerbuch.us##a[href^="http://hoerbuch.us/ddl/?f="]
@@ -5822,7 +5811,7 @@ t-online.de##a[href^="http://stromvergleich.t-online.de/strom.php"]
 stylebook.de##a[href^="http://style.glossybox.de/?zanpid="]
 4fuckr.com##a[href^="http://sweetmichelle.net?ref="]
 dokujunkies.org,istream.ws##a[href^="http://tinyurl.com"]
-dbase.ws,fantasiedaten.1x.biz,hopto.org,querverweis.net,trendhure.com##a[href^="http://tinyurl.com/"]
+dbase.ws,fantasiedaten.1x.biz,hopto.org,querverweis.net##a[href^="http://tinyurl.com/"]
 playboy.de##a[href^="http://track.adform.net/"]
 gulli.com##a[href^="http://tracking.vrtcl.de/aff_c?offer_id="]
 brigitte.de,news.at##a[href^="http://trf.greatviews.de/"]
@@ -5902,7 +5891,6 @@ goldesel.to##a[href^="http://www.spyoff.com/"]
 lavendel.net##a[href^="http://www.sunday.de?utm_"]
 unixboard.de##a[href^="http://www.terrashop.de/"]
 shortnews.de##a[href^="http://www.tickntalk.com/?af="]
-trendhure.com##a[href^="http://www.trendhure.tv/"]
 tweakpc.de##a[href^="http://www.tweakpc.de/rev3/www/delivery/"]
 web.de##a[href^="http://www.twinplan.com/"]
 4players.de##a[href^="http://www.ultraforce.de/?refID="]
@@ -5953,6 +5941,7 @@ mix-dich-gluecklich.de##a[href^="https://www.do-easy-tuch.de"]
 chip.de##a[href^="https://www.expertiger.de/partner/"]
 t-online.de##a[href^="https://www.jackpot.de/lp/"]
 pcwelt.de##a[href^="https://www.kqzyfj.com/click-"]
+trendmutti.com##a[href^="https://www.krokodeal.net/"]
 t-online.de##a[href^="https://www.lotto24.de/webshop/product/eurojackpot?partnerId="]
 t-online.de##a[href^="https://www.mobile.de/"][href*="utm_medium=affiliate"]
 dxtv.de##a[href^="https://www.octagon-germany.eu/"]
