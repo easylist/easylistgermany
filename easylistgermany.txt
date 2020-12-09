@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012091104
+! Version: 202012091109
 ! Title: EasyList Germany
-! Last modified: 09 Dec 2020 11:04 UTC
+! Last modified: 09 Dec 2020 11:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1148,6 +1148,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||ideecon.com^*/iphone4-ohne-vertrag-ratenkauf.gif
 ||igijon.com/personales/cyonix/$third-party
 ||imgimg.de/popit/
+||imgload.org/images/jpbannerfb8d0.jpg$domain=myboerse.bz
 ||immoversum.com/index/wb_suchform$third-party
 ||inlinks.com^*/banners/$third-party
 ||innova-zivilschutz.com/banner/$third-party
@@ -2552,9 +2553,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||muskelschmiede.de/images/banners/
 ||mvv-muenchen.de/web4archiv/objects/pictures/homepage/banner/
 ||myanimes.net/layer.js
-||myboerse.bz/annedpromo.php
-||myboerse.bz/popups.php
-||myboerse.bz^*.php$subdocument
 ||myconsol.net/uploads/brandings/bg_
 ||myconsol.net/uploads/brandings/headerbg_
 ||mycsharp.de/wbb2/images/community_index/events/*_140x100.gif
@@ -3544,7 +3542,7 @@ handballworld.com###absolute > .bannergroup
 20min.ch,anime-loads.org,doku.to,german-foreign-policy.com,hardwarelabs.de,otrkey.com,otrking.com,radiolisten.de,webos-blog.de###ad
 stadt-bremerhaven.de###ad-adsensesidebarjuli2017
 radiolisten.de###ad3
-carpassion.com,high-minded.us,messerforum.net,mmorpg-core.com,schachburg.de,szenebox.org,thinkpad-forum.de,unixboard.de###ad_global_below_navbar
+carpassion.com,high-minded.us,messerforum.net,mmorpg-core.com,myboerse.bz,schachburg.de,szenebox.org,thinkpad-forum.de,unixboard.de###ad_global_below_navbar
 musicelster.net###ad_global_below_navbar > center > div[style="float:right; width:50%;"]
 motorsport-xl.de###adala
 motorsport-xl.de###adala_bgholder
@@ -4159,7 +4157,6 @@ handy-hilfeforum.de,usp-forum.de###post_218944
 pocketpc.ch###post_99_Ad_Second
 pcgames.de###post_rec
 wow-forum.com###posts #wow_ros_postbit
-myboerse.bz###posts > li[id^="yui-gen"]
 mobilfunk-talk.de###posts > li[id^="yui-gen"].postcontainer
 unixboard.de###posts > table[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][style="page-break-before: always"]
 gutefrage.net###poweredBy
@@ -5802,7 +5799,6 @@ eierkraulen.net,serienjunkies.org##a[href^="http://mein-deal.com/"]
 dokujunkies.org##a[href^="http://mirror."]
 pure-anime.biz##a[href^="http://mmotraffic.com/"]
 musicelster.net##a[href^="http://musicelster.net/premium"]
-myboerse.bz##a[href^="http://myboerse.bz/download/?ff="]
 gamingxp.com##a[href^="http://nemexia.de/?"]
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 dexerto.de##a[href^="http://ow.ly/"]
