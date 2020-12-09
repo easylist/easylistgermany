@@ -83,7 +83,6 @@ oekobaustoffe.com#@#.ads1
 gwp-gronau.de#@#.ads_title
 schreibwerkstatt.de#@#.adsense-right
 ebay-kleinanzeigen.de,rtl.de#@#.adslot
-giga.de#@#.adspace
 ebay.de#@#.adtile
 mercedesclubs.de,otelfingen.ch#@#.adtitle
 bluewin.ch#@#.advert-content
@@ -119,11 +118,9 @@ mietmobil-fuchs.ch#@#.jquery-script-ads
 suedtirolnews.it#@#.ligatus
 frankenlist.de#@#.list-ad
 styleranking.de#@#.medrect-ad
-der-postillon.com#@#.middleads
 ebay-kleinanzeigen.de#@#.native-ad
 finanzen.at,rtl.de,vip.de#@#.ob-smartfeed-wrapper
 wetter.de#@#.outbrain-ad-slot
-tk.de#@#.pfad
 fanfiktion.de#@#.plistaList > .itemLinkPET
 tsv-thedinghausen.de#@#.postad
 quoka.de#@#.related-ads
@@ -152,8 +149,7 @@ gutefrage.net,reisebine.de#@#a[href^="https://ad.doubleclick.net/"]
 gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 notebooksbilliger.de#@#a[href^="https://googleads.g.doubleclick.net/pcs/click"]
 telekom.de#@#a[href^="https://track.adform.net/"]
-auto-motor-und-sport.de,daswetter.com,gofeminin.de,wetter.com#@#div[id^="div-gpt-ad"]
-guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,zalando.de#@#div[id^="div-gpt-ad-"]
+auto-motor-und-sport.de,daswetter.com,gofeminin.de,guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,wetter.com,zalando.de#@#div[id^="div-gpt-ad"]
 11freunde.de,auto-motor-und-sport.de,gofeminin.de,immonet.de,kochbar.de,notebooksbilliger.de,vip.de#@#div[id^="google_ads_iframe_"]
 11freunde.de,auto-motor-und-sport.de,guterhut.de,immonet.de,kochbar.de,notebooksbilliger.de,rtl.de,vip.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 kochbar.de#@#iframe[name^="google_ads_iframe"]
