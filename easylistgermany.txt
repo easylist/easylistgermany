@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012091137
+! Version: 202012091141
 ! Title: EasyList Germany
-! Last modified: 09 Dec 2020 11:37 UTC
+! Last modified: 09 Dec 2020 11:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5442,6 +5442,7 @@ serienjunkies.org##.streams + #content > .post:first-child > .post-title:first-c
 deine-tierwelt.de##.stroeer
 fernsehserien.de##.stroeer-container
 womenshealth.de##.stuff
+sinn-frei.com##.stx
 stadtradio-goettingen.de##.subfoot
 winfuture.de##.success_box
 fuw.ch##.suche_sponsor
@@ -5922,7 +5923,7 @@ gamepro.de,gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
 t-online.de##a[href^="https://jobsuche.t-online.de/to/jobs/search?"]
 chip.de##a[href^="https://lt45.net/c/?si="]
 t-online.de##a[href^="https://pt.t-online.de/dl/storytelling/"]
-pcwelt.de##a[href^="https://rover.ebay.com/"]
+pcwelt.de,sinn-frei.com##a[href^="https://rover.ebay.com/"]
 merkur.de##a[href^="https://shop.mondly.com/affiliate.php"]
 ariva.de,wallstreet-online.de##a[href^="https://smartbroker.de/?utm_source="]
 wallstreet-online.de##a[href^="https://smartbroker.de/sparplan/?utm_source="]
