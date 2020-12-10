@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012091141
+! Version: 202012101409
 ! Title: EasyList Germany
-! Last modified: 09 Dec 2020 11:41 UTC
+! Last modified: 10 Dec 2020 14:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -181,6 +181,8 @@ _woz_banner_vote.
 ###ad-bereich1-superbanner
 ###ad-bereich2-08
 ###ad-bereich2-skyscrapper
+###ad-qm-sidebar-oben
+###ad-qm-sidebar-unten
 ###ad-rechts-block
 ###ad-rechts-sky
 ###ad_gross
@@ -4527,6 +4529,7 @@ gullipics.com##.a-zone
 dexerto.de##.aON
 winfuture.de##.a_box
 4cheaters.de##.aab-box
+stadt-bremerhaven.de##.aawp
 blogg.de##.ab-item[tabindex="10"]
 diaware.de##.abcde_link
 diaware.de##.abcde_text
@@ -5020,6 +5023,7 @@ gamestar.de##.homeContRegCol3 > .elemCont + .elemCont + .elemCont + .elemCont[st
 netzkino.de##.horizontalBanner
 boerse-online.de##.hsbc_homepage_topflop
 heinertown.de##.htown_anzeige
+stadt-bremerhaven.de##.huawei-hub
 news.de##.ialayer-container
 news.de##.ialayerContainer
 gmx.net,web.de##.iba-uncertain
