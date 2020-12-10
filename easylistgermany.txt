@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012101515
+! Version: 202012101525
 ! Title: EasyList Germany
-! Last modified: 10 Dec 2020 15:15 UTC
+! Last modified: 10 Dec 2020 15:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5502,6 +5502,7 @@ teltarif.de##.tgtLink[style="width:100%;text-align:left;border-spacing:0;margin-
 heise.de##.themenseite_preisvergleich.meldung__box--right
 dhb.de##.three.columns > #c22 + .pslider
 promipool.de##.timeframe_banner
+rro.ch##.tisement
 t-online.de##.tl_anz-pos1
 gload.cc##.tm-content > .toptitel
 t-online.de##.toi-sh-breaker
