@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012101448
+! Version: 202012101458
 ! Title: EasyList Germany
-! Last modified: 10 Dec 2020 14:48 UTC
+! Last modified: 10 Dec 2020 14:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5294,6 +5294,7 @@ heise.de##.pvg-widget
 gameone.de##.q_teaser_wrapper
 quotenmeter.de##.qm-news-list-box
 quotenmeter.de##.qm-right-box[style="position:relative"]
+jamesfm.ch##.qt-sponsor
 au-ja.de##.rechtsADV
 reimemaschine.de##.rechts_neu > table[border="0"][align="center"][width="150"]:first-child:last-child
 gmx.de,web.de##.record-layer
@@ -5542,6 +5543,8 @@ excitingcommerce.de##.typelist-note > a > img[style="margin: 5px 5px 5px 0px; bo
 heise.de##.us-ad
 heise.de##.us_ad
 vfl.de##.vc_custom_1544363997968
+jamesfm.ch##.vc_custom_1573249810443
+jamesfm.ch##.vc_custom_1573249970561
 tagblatt.ch##.vermarktungsflaeche
 schuelerzeitung-tbb.de##.vertical
 ebay.de##.vi-as
