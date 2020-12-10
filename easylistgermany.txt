@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012101409
+! Version: 202012101413
 ! Title: EasyList Germany
-! Last modified: 10 Dec 2020 14:09 UTC
+! Last modified: 10 Dec 2020 14:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5240,6 +5240,7 @@ heise.de##.perf-cls-reduc-leaderboard
 heise.de##.perf-cls-reduc-rectangle
 rtl.de##.performanceRect
 20min.ch##.piazza
+blick.ch##.placement-leaderboard
 gamingxp.com,mobilexp.com##.platform_index_bsb
 lounge.fm##.player-sponsor
 bluewin.ch##.plinks2
