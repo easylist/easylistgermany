@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012121625
+! Version: 202012121629
 ! Title: EasyList Germany
-! Last modified: 12 Dec 2020 16:25 UTC
+! Last modified: 12 Dec 2020 16:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4093,7 +4093,8 @@ uhrforum.de###oc24-div-inner
 uhrforum.de###oc24-inside-bottom
 finanz-notes.de###oc24_container_top
 yasni.de###offer
-thueringer-allgemeine.de###oms_gpt_rectangle
+rockland.fm,thueringer-allgemeine.de###oms_gpt_rectangle
+rockland.fm###oms_gpt_rectanglesidebar
 stimme.de###oms_gpt_superbanner
 mixeryrawdeluxe.tv###outerBanner
 giga.de###outertop3 > .innertop
