@@ -100,7 +100,6 @@
 ||areamobile.de/service/gads/
 ||argovia.ch/promotion/
 ||artikelpedia.com/js/*-*.js|
-||astronews.com^*_3.js
 ||ate.spritmonitor.de^
 ||atv.at/adonly?
 ||au-ja.de/banner/
@@ -147,10 +146,6 @@
 ||beichthaus.com.s3.amazonaws.com/meineticks.jpg
 ||beihilferecht.de/media/banner/
 ||beisammen.de^*/banner/
-||benzinpreis.de/140_x_160.gif
-||benzinpreis.de/gfx/rc_banner.jpg
-||benzinpreis.de/zahn.gif
-||berlinertageszeitung.com/images/banners/
 ||bestboyz.de/wp-content/uploads/*-300x600_
 ||bestboyz.de/wp-content/uploads/*/ggsim_banner_blog_
 ||bgstatic.de/images/was/campagnes/*/wallpaper/$domain=browsergames.de
@@ -311,7 +306,6 @@
 ||dexgo.com/sponsoren/banner/
 ||dforum.net/banner/
 ||dforum.net/ebay/
-||dforum.net^*/df_blitzbuch.gif
 ||die-beihilfe.de/media/banner/
 ||die-eulen.de/img/index/boxes/lotto_rlp.jpg
 ||die-eulen.de/img/intro/freiberger.png
@@ -409,7 +403,6 @@
 ||ems-tv.de/banner/
 ||englische-briefe.de/images/maennergeschenke.jpg
 ||enjoykitz.tv/banner1.png
-||eot-clan.net/images/banners/
 ||epochtimes.de/js/businessad.js
 ||erdbeerlounge.de/addons/common/pics/coop/
 ||erotikforum.at/images/banner/
@@ -710,12 +703,6 @@
 ||homad2.spiegel.tv^$object,domain=spiegel.tv
 ||homepage-anleitung.de/wp-content/uploads/*/sky2.png
 ||hopto.org^*/banner.html
-||hornoxe.com/ddpd.js
-||hornoxe.com/plp_
-||hornoxe.com/pup_plaer.js
-||hornoxe.com^*.php$subdocument
-||hornoxe.com^*.php|$script,domain=hornoxe.com
-||hornoxe.com^*/BannerDuckyPoker_
 ||horseweb.de^*/blink/
 ||hosteurope.de/goloci/$domain=goloci.de
 ||hotel-tip-thailand.de/images/villa_rental_deals.jpg
@@ -840,7 +827,6 @@
 ||laola1.at/fileadmin/sp10/img/presentings/
 ||latina-press.com/media/brasilianisch-lernen-180.jpg
 ||layer.lima-city.de^
-||lesben.org/images/banners/
 ||lightningcast.net^*/getplaylist?$domain=buffed.de|gamesaktuell.de|kicker.de|pcgames.de|shape.de
 ||linguee.de/banner/
 ||linkbase.in/l.js
@@ -906,7 +892,6 @@
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Pub_CPE_01.jpg
 ||lvz-online.de/includes/flash_sachsendeal/
 ||maclife.de/sites/all/modules/fm_imageslider/slider.html
-||macnews.de^*/musicstar-teaser.gif
 ||maerkischeallgemeine.de/widget_meinprospekt.html
 ||maerkte.sueddeutsche.de^$subdocument
 ||mafia-linkz.to/tmp/fl_$image
@@ -959,14 +944,11 @@
 ||mmnews.de^*/bocker_gold.gif
 ||mobiflip.de^*/160er.html
 ||mobiflip.de^*/728er.html
-||mobilegeeks.de/wp-content/uploads/2017/03/mobilegeeks_koop_banner_1600x900.jpg
-||mobilfunk-talk.de/banner_rechts.php
 ||moddingtech.de^*/banners/
 ||modified-shop.org/images/banner/
 ||momo-net.com/tf/
 ||moneyspecial.de/ms/media/sponsor/
 ||moonsault.de/templates/
-||moonwalk.ch^*/promobox_$subdocument
 ||morgenpost.de/adv/
 ||morgenweb.de^*/banner/
 ||morgfx.de/banner/
@@ -1035,7 +1017,6 @@
 ||netzwelt.de^*/netzweltde-deals*.jpg
 ||netzwelt.de^*/netzweltde-sparberater-$image
 ||netzwerktotal.de^*/werbung/
-||neue-braunschweiger.de/images/banners/
 ||neumarkt-tv.de/Media/5/Banner%20NEU/jubilaeum_button_100x100.jpg
 ||neuwagen.bild.de^$subdocument
 ||neuwagen.welt.de^$subdocument
@@ -1043,7 +1024,6 @@
 ||news.de/resources/banner/
 ||news.de^*/ads/
 ||nfos.de^*/h4u_banner_
-||nh24.de/images/banners/
 ||nibelungenkurier.de/upload/banner/
 ||nichtlustig.de^*/adv/
 ||nichtlustig.de^*/sponsor/
@@ -1130,9 +1110,7 @@
 ||pc-experience.de/iFrame/iframe_pce.html
 ||pc-magazin.de^*/partner.js
 ||pc-max.de^*/banners/
-||pcgameshardware.de^*/miniteaser/
 ||pcmasters.de/forum/pcm-werbefrei.$image
-||pcpraxis.de/images/banners/
 ||pctipp.ch/fileadmin/media/wallpaper/
 ||pdfzone.de^*_banner_800x120.
 ||pfaffenhofen-today.de/images/banners/
@@ -1179,11 +1157,6 @@
 ||pressemeldungen.at/hinweis.jpg
 ||pressemeldungen.at/info.png
 ||presseportal.de/images/eyecatcher/
-||primavera24.de/images/banners/
-||primavera24.de/wp-content/themes/primavera/images/spezialBanner/
-||primavera24.de/wp-content/uploads/*_Banner_600x124.gif
-||primavera24.de/wp-content/uploads/banner_
-||primavera24.de/wp-content/uploads/primavera_giro_premium_600x.png
 ||privacybox.net/images/vpn.gif
 ||pro-linux.de/images/forum/w0.png
 ||pro-linux.de^*/action/
@@ -1282,11 +1255,6 @@
 ||schambereich.net/js/mdhsbexit.js
 ||schambereich.net/js/mdhsbexit_adplib.js
 ||schnaeppchenfuchs.com/eol2.png
-||schnelle-online.info/amazon/$image
-||schnelle-online.info/ban/
-||schnelle-online.info/banner/
-||schnelle-online.info/fruehbucher-banner_$image
-||schnelle-online.info/pictures/banner/
 ||schnittberichte.com/pics/*_banner.jpg
 ||schnittberichte.com/pics/*_Siteskin_
 ||schnittberichte.com/pics/banner_bond.jpg
@@ -1457,7 +1425,6 @@
 ||suedtiroltv.it^*/banner
 ||sunshine.ch/files/banner
 ||sunshine.it^*/raika.
-||superfly.fm/images/banners/
 ||superfunblog.com^*/layer.js
 ||supertipp-online.de/uploads/tx_macinabanners/
 ||surfmusik.de/anz1.gif
@@ -1522,8 +1489,6 @@
 ||threepi.de^$media,domain=gamepro.de|gamestar.de
 ||ticket-leistung.de^*/banner/
 ||tinyurl.com^$domain=hoerbuch.us
-||titanic-magazin.de/fileadmin/content/anz/
-||titanic-magazin.de/fileadmin/content/anzeigen/
 ||tobitech.de/images/banners/
 ||tollesthueringen.de/img_proximus/anzeigen/
 ||top-fm.de/images/partner/
@@ -1614,8 +1579,6 @@
 ||vsport.at/fileadmin/sponsoren/
 ||vsport.at/uploads/tx_macinabanners/
 ||w.online-verlag-freiburg.de^
-||waldecker-tagblatt.de/images/banners/
-||waldecker-tagblatt.de/images/lichtenfels1.jpg
 ||wallis24.it/images/banner/
 ||wallis24.it/images/banners/
 ||wallis24.it/images/CAVE_GIOVANNA_GABBIONI.jpg
@@ -1680,7 +1643,6 @@
 ||wintergarten-ratgeber.de/uploads/tx_macinabanners/
 ||wirsiegen.de/wp-content/plugins/wordpress-popup/popoverincludes/
 ||wirtschaftsblatt.at^*=adsense
-||witz.de/images/banners/
 ||woche.com.au/images/logos/werbung/
 ||wochenblatt.cc^*/elehogkl.jpg
 ||wochenblatt.cc^*/shadow-forces-security-
