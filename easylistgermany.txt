@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012241314
+! Version: 202012241316
 ! Title: EasyList Germany
-! Last modified: 24 Dec 2020 13:14 UTC
+! Last modified: 24 Dec 2020 13:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3508,7 +3508,7 @@ t-online.de###Tcontboxi + #Tgboxf
 t-online.de###Tcontboxi > .Tagbox > .Tart > #Ttub2
 t-online.de###Tlibelle
 cio.de###TopBanner
-mazda-forum.info###TopRectangle
+mazda-forum.info,vermieter-forum.com###TopRectangle
 freiepresse.de###TopWrapper
 onvista-bank.de###WALLPAPER
 neumarktaktuell.de###Werbung
@@ -3929,6 +3929,7 @@ abload.de###layerright
 wetter.de###lbs-offers-container
 pooltrax.com###lcontainer2
 nickles.de###leader
+vermieter-forum.com###leader_top_desk
 persoenlich.com###leaderbanner
 boomerangtv.de,channelpartner.de,ebay.at,ebay.ch,ebay.de,ircgalerie.net,laut.de,ringrocker.com,schweizamsonntag.ch,skiinfo.ch,skiinfo.com,skiinfo.de,sky.de,spieletipps.de,teccommunity.de,xboxfront.de###leaderboard
 silicon.de###leaderboard-top
