@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012241500
+! Version: 202012241501
 ! Title: EasyList Germany
-! Last modified: 24 Dec 2020 15:00 UTC
+! Last modified: 24 Dec 2020 15:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3707,7 +3707,7 @@ softonic.de###content_list_leaderboard
 matheboard.de###content_rect2_div
 matheboard.de###content_rect_div
 data-travelers.de###contentas
-motorline.cc###contentbanner
+motorline.cc,rund-magazin.de###contentbanner
 pixelio.de###contentcontainer > div[align="left"][style="margin-top: 10px; margin-left: 20px"]
 antenne.de###crBanner
 crn.de###crn_adbox
