@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012271731
+! Version: 202012271737
 ! Title: EasyList Germany
-! Last modified: 27 Dec 2020 17:31 UTC
+! Last modified: 27 Dec 2020 17:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -370,6 +370,7 @@ _woz_banner_vote.
 ##.rahmen_ad
 ##.reklame
 ##.right-content-werbung
+##.schnaeppchenScrollAd
 ##.seitenleiste_werbung
 ##.shift-widget > .cm-article
 ##.sidebarwerbung
@@ -4438,6 +4439,7 @@ tagblatt.ch##.artikel-detail-einspaltig-spalte-2 > .tbrprehtml
 saarbruecker-zeitung.de##.artikeldetail > .text > .teaserbox.hgray
 sport.de##.artikelrectangel
 neue-braunschweiger.de##.as-frame-center
+apfeleimer.de##.asa1_fbh
 bitreporter.de##.asa2_fbv_wrapper
 playm.de##.asa_async_container
 sachsen-fernsehen.de##.asidebar
@@ -5064,6 +5066,7 @@ insidegames.ch##.right_top_banner
 abload.de,taketv.net##.rightbanner
 playnation.de##.rl > .ca
 oberpfalznetz.de##.rotating-banner
+apfeleimer.de##.rotslide-wrap
 excitingcommerce.de##.row > .fourcol > #text-2
 magistrix.de##.row > div[style="text-align: right; padding: 0;"]
 netzwelt.de##.row-top
@@ -6678,7 +6681,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
 @@||imasdk.googleapis.com/js/core/bridge$document,subdocument,domain=welect.de
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=heise.de
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chip.de|event.mivitec.net|musikexpress.de|rollingstone.de|welect.de
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=atv.at|chip.de|event.mivitec.net|musikexpress.de|rollingstone.de|welect.de
 @@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||insel-usedom-wollin.de/ads/$script,stylesheet
