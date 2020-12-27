@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012271718
+! Version: 202012271722
 ! Title: EasyList Germany
-! Last modified: 27 Dec 2020 17:18 UTC
+! Last modified: 27 Dec 2020 17:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1600,6 +1600,9 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||bbszene.de/images/banner/
 ||beamten-informationen.de/media/banner/
 ||beihilferecht.de/media/banner/
+||beihilferecht.de/media/img/b_
+||beihilferecht.de/media/img/partner_
+||beihilferecht.de/media/img/partnerschaft_
 ||beisammen.de^*/banner/
 ||bestboyz.de/wp-content/uploads/*-300x600_
 ||bestboyz.de/wp-content/uploads/*/ggsim_banner_blog_
@@ -1760,6 +1763,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||dforum.net/banner/
 ||dforum.net/ebay/
 ||die-beihilfe.de/media/banner/
+||die-beihilfe.de/media/img/Banner_
 ||die-eulen.de/img/index/boxes/lotto_rlp.jpg
 ||die-eulen.de/img/intro/freiberger.png
 ||die-eulen.de/img/intro/sparkasse.png
