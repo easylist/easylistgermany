@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012271743
+! Version: 202012271745
 ! Title: EasyList Germany
-! Last modified: 27 Dec 2020 17:43 UTC
+! Last modified: 27 Dec 2020 17:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -609,6 +609,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
 ||2mdn.net^$object,third-party,domain=blick.ch|fitforfun.de|focus.de|giga.de|golem.de|helpster.de|myspass.de|netzwelt.de|sueddeutsche.de|tvtoday.de
 ||4rm.de^$third-party
+||4strokemedia.com^$third-party
 ||85.114.133.62^$third-party
 ||a3h.de^$third-party
 ||ablida-rotation.com^$third-party
@@ -4451,6 +4452,8 @@ bitreporter.de##.asa2_fbv_wrapper
 playm.de##.asa_async_container
 sachsen-fernsehen.de##.asidebar
 spiegel.de##.asset-affiliatebox
+hsc2000.de##.av-partner-fake-img
+hsc2000.de##.avia-slideshow-1
 amazon.de##.aw-campaigns
 alternative-zu.de##.azuitem_googleAdSense
 walliserbote.ch##.ban-img
