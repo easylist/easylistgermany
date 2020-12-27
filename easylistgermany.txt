@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012271740
+! Version: 202012271743
 ! Title: EasyList Germany
-! Last modified: 27 Dec 2020 17:40 UTC
+! Last modified: 27 Dec 2020 17:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3568,6 +3568,7 @@ tageblatt.de###container_banner_medium
 goslarsche.de,schwaebische.de,szon.de,tagblatt.de,teckbote.de###container_banner_wallpaper
 schwaebische.de###container_banner_wallpaper_placeholder
 neckar-chronik.de###container_bottom
+insidegames.ch###container_rect
 biothemen.de###content + #right
 fernsehkritik.tv###content > #rclm[style="width:224px;"]:last-child
 wgvdl.com###content > #seitenblock > #seitenblockinhalt > #seitenblockzeilen
@@ -5034,7 +5035,7 @@ quotenmeter.de##.qm-right-box[style="position:relative"]
 jamesfm.ch##.qt-sponsor
 reimemaschine.de##.rechts_neu > table[border="0"][align="center"][width="150"]:first-child:last-child
 gmx.de,web.de##.record-layer
-hamm2night.de##.rect
+games.ch,hamm2night.de##.rect
 hamm2night.de##.rectBox
 anisearch.de##.rect_sidebar
 kochbar.de,rtl.de,sport.de,vip.de,vox.de##.rectangel
