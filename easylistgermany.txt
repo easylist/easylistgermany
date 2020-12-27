@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012271727
+! Version: 202012271728
 ! Title: EasyList Germany
-! Last modified: 27 Dec 2020 17:27 UTC
+! Last modified: 27 Dec 2020 17:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1596,6 +1596,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||azureedge.net/pickerimages/Lokalfreunde_$domain=bayer04.de
 ||balaton-zeitung.info/wp-content/uploads/*-banner.jpg
 ||banner.click-tt.de^
+||basicthinking.de/blog/wp-content/uploads/*/mittwald.jpg
 ||bastel-elfe.de/banner/
 ||bbc-magazin.com/wp-content/uploads/*/bbc-coburg-barmer-banner.jpg
 ||bbc-magazin.com/wp-content/uploads/*/bbc-coburg-brose-web24.png
@@ -3837,6 +3838,7 @@ startxxl.com###mcebox
 linkbase.in###mdh
 t-online.de###med_anz
 klicktel.de###mediaBanner
+basicthinking.de###media_image-3
 rundschau.info###media_image-37
 rundschau.info###media_image-38
 rundschau.info###media_image-39
