@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012271737
+! Version: 202012271740
 ! Title: EasyList Germany
-! Last modified: 27 Dec 2020 17:37 UTC
+! Last modified: 27 Dec 2020 17:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2258,6 +2258,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||kinokiste.com/assets/img/leaderboard_s.gif
 ||kinokiste.com^*/sofadeals_sky.
 ||kinoprogramm.bild.de^
+||kitzanzeiger.at^*/sponsoren/
 ||klamm.de^*/wms_show_frame.php
 ||kleiner-kalender.de/static/aablock/
 ||kleinreport.ch/uploads/banner/
@@ -2331,6 +2332,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||live-stream.tv/images/savetv.gif
 ||loaderz.org^*/layer.php
 ||lohn-info.de/banner_meritum.gif
+||loipenpark.de/images/banners/
 ||lokalanzeiger.de/images/banner/
 ||lokalisten.de/eggs/cpi.php?acc=$script
 ||lokalisten.de/lokiimg/kunden/$image
@@ -4926,6 +4928,7 @@ glocalist.com##.news-single-content > a + div[style="text-align:center;"]
 netmoms.de##.news-sponsor--brand
 wallstreet-online.de##.newsFlagDesktopSlider
 wallstreet-online.de##.newsFlagSlider
+kitzanzeiger.at##.news_sponsoren_banner
 ariva.de##.news_top_banner
 urlauburlaub.at##.newsitem
 pc-magazin.de##.newsletterTeaser
