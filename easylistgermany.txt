@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012271729
+! Version: 202012271730
 ! Title: EasyList Germany
-! Last modified: 27 Dec 2020 17:29 UTC
+! Last modified: 27 Dec 2020 17:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5101,6 +5101,7 @@ ploetzblog.de##.sidebar > .imglinks
 queer.de##.sidebar > .liste
 hc-empor.de##.sidebar > ul > #text-6 + #text-13 + #text-9
 stadt-bremerhaven.de##.sidebar a[href^="https://www.amazon.de/"][href*="&tag="] > img
+austriansoccerboard.at##.sidebar-partner
 berriesandpassion.com,kreativfieber.de##.sidebar-right > #text-11
 kreativfieber.de##.sidebar-right > #text-6
 berriesandpassion.com##.sidebar-right > #text-9
