@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012271728
+! Version: 202012271729
 ! Title: EasyList Germany
-! Last modified: 27 Dec 2020 17:28 UTC
+! Last modified: 27 Dec 2020 17:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1581,6 +1581,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||ak-kurier.de/akkurier/www/images/
 ||ak-kurier.de/akkurier/www/pic/
 ||ak-kurier.de/akkurier/www/upload/
+||aktuell-kl.de/images/banners/
 ||altesrad.net/phpBB3/images/banner/
 ||amazon.de/aan/$subdocument
 ||amazonaws.com/bnp_657x209_$domain=finanzen.net
@@ -4492,7 +4493,7 @@ pixelio.de##.banner_top
 handy-player.de,maclife.de##.bannerbox
 boerse.de##.bannerbox_container
 was-verdient-ein.de##.bannerga
-hardware-factory.com,pc-experience.de##.bannergroup
+hardware-factory.com,kl-aktuell.de,pc-experience.de##.bannergroup
 kulturmarken.de##.bannergroup-part2
 flashmob.de,minibhkw.de##.bannergroup_text
 preussenspiegel-online.de##.bannerright
