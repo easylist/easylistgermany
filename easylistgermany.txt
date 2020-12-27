@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012271723
+! Version: 202012271724
 ! Title: EasyList Germany
-! Last modified: 27 Dec 2020 17:23 UTC
+! Last modified: 27 Dec 2020 17:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1597,7 +1597,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||banner.click-tt.de^
 ||bastel-elfe.de/banner/
 ||bbszene.de/ane/bbszene/iframe.php
-||bbszene.de/images/banner/
+||bbszene.de^*/banner/
 ||beamten-informationen.de/media/banner/
 ||beamten-informationen.de/media/img/b_
 ||beamten-informationen.de/media/img/partnerschaft_
@@ -5507,7 +5507,7 @@ gamingxp.com##a[href^="http://nemexia.de/?"]
 gofeminin.de##a[href^="http://network.gofeminin.de/call/"]
 dexerto.de##a[href^="http://ow.ly/"]
 schambereich.net##a[href^="http://partners.adklick.de/"]
-pcwelt.de##a[href^="http://partners.webmasterplan.com/"]
+bbszene.de,pcwelt.de##a[href^="http://partners.webmasterplan.com/"]
 metacrawler.de##a[href^="http://performance-netzwerk.de"]
 funcloud.com##a[href^="http://pn.innogames.com/go.cgi?pid="] > img
 gulli.com,hubbahotel.cc##a[href^="http://rover.ebay.com/rover/"]
