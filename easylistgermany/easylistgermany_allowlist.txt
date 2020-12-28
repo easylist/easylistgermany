@@ -18,14 +18,13 @@
 @@||ad-ipd.sxp.smartclip.net/select?*&sz=pre&$xmlhttprequest,domain=n-tv.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
 @@||ad.71i.de/global_js/globalV6.js$domain=7tv.de
-@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|bundesliga.de|myvideo.de|n24.de|netzwelt.de|sport1.fm
+@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|myvideo.de|n24.de|netzwelt.de|sport1.fm
 @@||ad.71i.de/global_js/Sites/$script,domain=7tv.de|n24.de|sport1.fm
 @@||ad.adworx.at/crossdomain.xml$object
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
 @@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=erdbeerlounge.de|giga.de|kino.de|spielaffe.de|spieletipps.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
-@@||ad.yieldlab.net/yp/$script,domain=dance-charts.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|gutscheindoktor.de|literatur-fast-pur.de|preismafia.com|preisvergleich.de
 @@||adback.de^$~third-party
 @@||adcell.de/click.php?bid=$subdocument,domain=gutscheindoktor.de|mein-rabatt.com
@@ -123,7 +122,6 @@
 @@||bluelithium.com/imp?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||bluelithium.com/st?$script,domain=girlsgogames.de|jetztspielen.de|spielen.com
 @@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
-@@||bundesliga.de/js/my_ad_integration.js
 @@||camerartist.de/wp-content/plugins/adrotate/$~third-party
 @@||campaign.adindex.de^*?idPartner=$subdocument,domain=gutscheindoktor.de
 @@||canoo.net/services/wordformationdictionary/gifs/
