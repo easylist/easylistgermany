@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012281526
+! Version: 202012281527
 ! Title: EasyList Germany
-! Last modified: 28 Dec 2020 15:26 UTC
+! Last modified: 28 Dec 2020 15:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -822,6 +822,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||mupads.de^$third-party
 ||murcs.org^$third-party
 ||myad24.de^$third-party
+||native-commerce.com^$third-party
 ||nativendo.de^$third-party
 ||netbizzer.net^$third-party
 ||netwayer.de^
@@ -4989,6 +4990,7 @@ computerbild.de##.teaserblock a[href="http://www.evivam.de"]
 computerbild.de##.teaserblock a[href^="http://k.ilius.net/?"]
 computerbild.de##.teaserblock.pricetrend .priceblock .amazon
 computerbild.de##.teaserblock.pricetrend .priceblock .idealo
+quoka.de##.tef-box-product
 teltarif.de##.tetable:first-child + .tetable[width="100%"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#E3D470"]
 sinn-frei.com##.text > div[style="margin: 3px 0 1px 0;"]
 oberberg-aktuell.de##.text_anzeige
