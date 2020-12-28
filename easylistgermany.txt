@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012281533
+! Version: 202012281536
 ! Title: EasyList Germany
-! Last modified: 28 Dec 2020 15:33 UTC
+! Last modified: 28 Dec 2020 15:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5718,6 +5718,7 @@ meintomtom.de##div[style="float:left;width:160px;padding:6px;margin:0 0 18px 0;b
 it-production.com##div[style="float:right;  width:200px; height:610px;margin-top:100px;"]
 xboxdome.de##div[style="float:right; height:607px; width:120px;  margin-top: 15px;"]
 breakpoint.untergrund.net##div[style="float:right; width: 110px; margin-left: 15px; margin-top: 12px; margin-bottom: 15px; padding: 2px 6px; text-align: center; border: 1px solid black; background:white; line-height: 2em; color: black;"]
+pixelio.de##div[style="float:right; width: 300px; height: 250px"]
 ego4u.de##div[style="float:right; width:251px; padding:5px; margin-left:5px; border:1px solid silver;"]
 kapstadt-forum.de##div[style="float:right;height:250px;margin-bottom:18px;width:250px;"]
 e-recht24.de##div[style="float:right;text-align:right;padding:0 0 0.5em 0.5em;margin:0 0 0 1em;"]
