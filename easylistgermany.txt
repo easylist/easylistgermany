@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012281128
+! Version: 202012281129
 ! Title: EasyList Germany
-! Last modified: 28 Dec 2020 11:28 UTC
+! Last modified: 28 Dec 2020 11:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1630,6 +1630,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||bitcoinnews.ch/wp-content/uploads/*-300x250px-MediumRectangle.jpg
 ||bitcoinnews.ch/wp-content/uploads/*/1xbit.jpg
 ||blaue-blume.tv^*/banner/
+||blogprojekt.de/Bilder/affiliate-banner/
+||blogprojekt.de/Bilder/Profi/
 ||boersennews.de/images/smartbroker/
 ||boris-becker.tv^*/presenting/
 ||borncity.com/blog/wp-content/uploads/*/Amazon03b.jpg
@@ -4105,6 +4107,7 @@ chefkoch.de###teaser-top-partner
 wetter.de###teaser_hotelde_suche
 computerbild.de###teaser_right a[target="_blank"][href^="http://ww251.smartadserver.com/h/cc?imgid="]
 spieletipps.de###teaserheld-header
+blogprojekt.de###text-18
 bitcoinnews.ch###text-24
 spielesnacks.de###text-27
 bitcoinnews.ch,spielesnacks.de###text-28
@@ -4489,6 +4492,8 @@ notebookinfo.de##.block-sponsored-offer
 ak-kurier.de##.block-weather-link
 energie-fachberater.de##.blockBanner
 readmore.de##.block[href^="http://www.amazon.de/"][href*="tag=readmore-21"]
+blogprojekt.de##.blogp-startseite
+blogprojekt.de##.blogp-werbung-oben-in-artikeln
 1a-immobilienmarkt.de##.bmi_bottom_layer
 share-tube.eu##.bn_red_message
 quoka.de##.bnr-wrp
@@ -5395,6 +5400,7 @@ querverweis.net##a[href="http://www.intimvideos.com"]
 n-tv.de##a[href="http://www.n-tv.de/marktplatz/lotto/"]
 soft-ware.net##a[href="http://www.soft-ware.net/pics/gewinnspiel.jpg"]
 unwetterzentrale.de##a[href="http://www.wetter.info"] > img
+blogprojekt.de##a[href="https://all-inkl.com/?partner="]
 t-online.de##a[href="https://gebrauchtwagen-suche.t-online.de/marke-skoda/modell-superb"]
 i-have-a-dreambox.com##a[href="https://www.satplace.de"]
 t-online.de##a[href="javascript:;"][target="_blank"][data-urlb]
