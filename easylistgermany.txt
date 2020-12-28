@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012281122
+! Version: 202012281124
 ! Title: EasyList Germany
-! Last modified: 28 Dec 2020 11:22 UTC
+! Last modified: 28 Dec 2020 11:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1624,7 +1624,11 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||bildschirmarbeiter.com/content/plugs/thumbs2/cache/
 ||bildschirmarbeiter.com/content/upload2/
 ||bildwl.mobile.de^
+||bitcoinnews.ch/bitcoin_mit_kreditkarte_kaufen.jpg
 ||bitcoinnews.ch/coinbase.png
+||bitcoinnews.ch/Fairspin_Ad.jpg
+||bitcoinnews.ch/wp-content/uploads/*-300x250px-MediumRectangle.jpg
+||bitcoinnews.ch/wp-content/uploads/*/1xbit.jpg
 ||blaue-blume.tv^*/banner/
 ||boersennews.de/images/smartbroker/
 ||boris-becker.tv^*/presenting/
@@ -4103,8 +4107,11 @@ computerbild.de###teaser_right a[target="_blank"][href^="http://ww251.smartadser
 spieletipps.de###teaserheld-header
 bitcoinnews.ch###text-24
 spielesnacks.de###text-27
-spielesnacks.de###text-28
+bitcoinnews.ch,spielesnacks.de###text-28
+bitcoinnews.ch###text-29
 bitcoinnews.ch###text-3
+bitcoinnews.ch###text-30
+bitcoinnews.ch###text-31
 tsvbodnegg.de###text-5
 mtb-news.de###text-6 > div > div > img
 namibia-hunter.at###text-9.footer-box
