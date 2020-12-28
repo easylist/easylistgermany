@@ -85,12 +85,10 @@
 @@||advertising.ingame.de/adframework/inAdFramework.min.js$domain=minecraft-serverlist.net
 @@||adwords.safi-gmbh.ch^$~third-party
 @@||affilinet-inside.de^*/affilinet/$stylesheet
-@@||am-display.com/display-ad/tag-set/$subdocument,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
-@@||am-display.com/display-ad/tag/$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=giga.de|spielaffe.de|spieletipps.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamepro.de|gamestar.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
-@@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net|hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
+@@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net
 @@||ampproject.org/rtv/*/amp4ads-v*.js$domain=notebooksbilliger.de
 @@||angis-escort.com/angi/banner/$image,domain=searchx.ch
 @@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
@@ -158,7 +156,6 @@
 @@||doubleclick.net/adi/bluewin.sub.de.ch/$subdocument,domain=bluewin.ch
 @@||doubleclick.net/adj/*;sz=1x2;$script,domain=moviemaze.de
 @@||doubleclick.net/adj/oms.szon.de/homepage;oms=homepage;*;sz=10x10;$script,domain=schwaebische.de
-@@||doubleclick.net/adj/pn.*/webradio;$script,domain=hardbase.fm|housetime.fm|techno4ever.fm|technobase.fm
 @@||doubleclick.net/adj/wilmaa.ch/$object,domain=wilmaa.com
 @@||doubleclick.net/ddm/pfadx/N1203.IPNetzwerk/*;sz=0x0;*;dc_rfl=0,https%3A%2F%2Fevent.mivitec.net$xmlhttprequest,domain=imasdk.googleapis.com
 @@||doubleclick.net^*/ad/nacamar.ads.de.smartclip/$xmlhttprequest,domain=freestream.nmdn.net
