@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012281129
+! Version: 202012281130
 ! Title: EasyList Germany
-! Last modified: 28 Dec 2020 11:29 UTC
+! Last modified: 28 Dec 2020 11:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4763,6 +4763,7 @@ derwesten.de##.img[href^="http://www.albelli.de/angebote/"]
 autoline-eu.at,autoline-eu.ch,autoline.de##.index-center-banners-1
 autoline-eu.at,autoline-eu.ch,autoline.de##.index-main-banners
 finanztreff.de##.indizes_dbx_trackers
+bluray-disc.de##.infobox
 quoka.de##.inner > #RelatedAdsList + .yui3-g
 hcelb.de##.intpartner
 verkehrsportal.de##.ipbtable .catend
