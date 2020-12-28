@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012281530
+! Version: 202012281532
 ! Title: EasyList Germany
-! Last modified: 28 Dec 2020 15:30 UTC
+! Last modified: 28 Dec 2020 15:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2874,6 +2874,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||visions.de/assets/visions_300x150_
 ||viviano.de/teaser
 ||viviano.de^*/ad_anzeige_
+||volleyball-bundesliga.de^*/partner/
 ||voltiforum.de/images/banner2.jpg
 ||voltigierforum.de/images/banner2.jpg
 ||voltigierzirkel.de^*/banner/
@@ -3728,6 +3729,7 @@ rheinforum.com###pagenav_menu + table[width="100%"][border="0"]
 climbing.de###pane-werbung
 fundresearch.de###partnerCentersLogoBar
 wirtschaftslexikon.gabler.de###partnerContainer
+volleyball-bundesliga.de###partnerLinks
 spielechat.de,spieleportal.de###partner_box
 schoener-fernsehen.com###partnerbottom
 schoener-fernsehen.com###partnerright
