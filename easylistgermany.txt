@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012281517
+! Version: 202012281518
 ! Title: EasyList Germany
-! Last modified: 28 Dec 2020 15:17 UTC
+! Last modified: 28 Dec 2020 15:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4711,6 +4711,7 @@ gmx.net##.notification-alert[data-notification-browser]
 hamburg.de##.nscout[target="_blank"][href^="http://de.sitestat.com/"]
 gmx.net,web.de##.offers
 readmore.de##.ofhidden > div[style="width:520px; height:50px;"]
+onmeda.de##.on-top-banner-wrapper
 heise.de##.online-markt
 hsc-bad-neustadt.de##.onlinepartner
 rp-online.de##.orange
