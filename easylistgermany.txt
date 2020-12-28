@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012281520
+! Version: 202012281521
 ! Title: EasyList Germany
-! Last modified: 28 Dec 2020 15:20 UTC
+! Last modified: 28 Dec 2020 15:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1645,6 +1645,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||connectiv.events/wp-content/uploads/*/banner_
 ||crosswater-job-guide.com/pics/banner_
 ||damoh.$media,domain=chip.de|focus.de|n-tv.de|rtl.de|rtl2.de|spiegel.de|spiegel.tv|spieletipps.de|tvnow.de|vip.de|winfuture.de
+||delamar.de/wp-content/uploads/__aktionen/plakat/plakat_billb.jpg
 ||derkleinegarten.de/images/kiste/
 ||designtagebuch.de/wp-content/uploads/anzeigen/
 ||deutsche-versicherungsboerse.de/download/banner/
@@ -5084,6 +5085,7 @@ fxempire.de##.widget_top_brokers
 ftd.de##.wimeContentAd
 zitate-online.de##.witz > .bewertung + .detaillink + p:last-child
 zitate-online.de##.witz > .bewertung + p:last-child
+delamar.de##.wk
 wn.de##.wn_sp_banner
 azonline.de,mv-online.de,wn.de##.wn_spo_banner
 ariva.de##.wo_news_top_banner
