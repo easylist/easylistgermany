@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012281536
+! Version: 202012281537
 ! Title: EasyList Germany
-! Last modified: 28 Dec 2020 15:36 UTC
+! Last modified: 28 Dec 2020 15:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -824,6 +824,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||myad24.de^$third-party
 ||native-commerce.com^$third-party
 ||nativendo.de^$third-party
+||neqty.net^$third-party
 ||netbizzer.net^$third-party
 ||netwayer.de^
 ||network-marketing24.com^$third-party
@@ -3350,6 +3351,7 @@ duden.de###block-leaderboard2ndslot
 duden.de###block-lexemleaderboardunten
 getgaming.de###block-views-getgaming-empfehlungen-block
 holzwerken.net###blub
+boersennews.de###bnBannerContent
 1001spiele.de,nailfreaks.com###bottomBanner
 wonnemar.de###box-banner
 futurezone.at###box-karriereat
@@ -4438,6 +4440,7 @@ heise.de##.contentbanner
 bild.de##.contentbar
 chip.de##.cs-widget[data-cloudsider="vod"]
 rimparerhandballer.de##.custom > .adv_slideshowTable
+boerse-express.com##.custom-bexad
 derkleinegarten.de##.custom-inhoadd
 lounge.fm##.custom-sponsor
 mobile.de##.d-05-opromo_de
