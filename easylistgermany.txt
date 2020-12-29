@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012291941
+! Version: 202012291945
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2020 19:41 UTC
+! Last modified: 29 Dec 2020 19:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4735,6 +4735,8 @@ rundschau.info##.runds-expert
 sport1.de##.s1-dashboard-row > a[title="Shop"]
 com-magazin.de##.s2teaserboxes-typ-4
 com-magazin.de##.s2teaserboxes-typ-6
+desired.de##.sad_banner
+desired.de##.sad_out-of-page
 digital-eliteboard.com##.samBannerUnit
 digital-eliteboard.com##.samCodeUnit
 gamepro.de##.sbpromotion
