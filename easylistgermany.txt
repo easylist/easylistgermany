@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012291952
+! Version: 202012291954
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2020 19:52 UTC
+! Last modified: 29 Dec 2020 19:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1689,6 +1689,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||fahrzeugseiten.de/autoteiledirekt_
 ||fahrzeugseiten.de/Ersatzteilekauf24.jpg
 ||fahrzeugseiten.de/reifen-com-gutscheine-stern.jpg
+||fairytail-tube.org^*/amz/
+||fairytail-tube.org^*/amzb2/
 ||farmarbeit.de/uploads/images/taxback-rec.jpg
 ||farmarbeit.de/uploads/images/wt_kanda10_
 ||faz.net/f6/ad/
@@ -4096,7 +4098,7 @@ pagewizz.com##.amazon_module
 pagewizz.com##.amazon_module + span
 winfuture.de##.amazon_top_deal_box
 pcwelt.de##.amazonteaser
-gamepro.de,gamestar.de##.amz
+fairytail-tube.org,gamepro.de,gamestar.de##.amz
 andreziegler.de##.amz_main
 winfuture.de##.amzwgt
 bauexpertenforum.de,biallo.de,fremdwort.de,gesetzlichekrankenkassen.de,heinertown.de,heise.de,juedische-allgemeine.de,lehrerfreund.de,medizin-netz.de,motorsport-total.com,moviejones.de,nwzonline.de,oktoberfestportal.de,projektmagazin.de,rtl.de,saarbruecker-zeitung.de,sportal.de,telemedicus.info,tweakpc.de,wetter.com,winboard.org,zeit.de##.anzeige
