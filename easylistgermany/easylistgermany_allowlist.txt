@@ -23,7 +23,7 @@
 @@||ad.adworx.at/crossdomain.xml$object
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
-@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=erdbeerlounge.de|giga.de|kino.de|spielaffe.de|spieletipps.de
+@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=giga.de|kino.de|spielaffe.de|spieletipps.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|gutscheindoktor.de|literatur-fast-pur.de|preismafia.com|preisvergleich.de
 @@||adback.de^$~third-party
@@ -60,8 +60,8 @@
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
 @@||ads.radioffn.c.nmdn.net/ps-radioffn/livestream.mp3$object,domain=radio.de
 @@||ads.smartfeedads.com^$domain=motorrad2000.de
-@@||adserv.quality-channel.de/crossdomain.xml$object,domain=glamour.de|gq-magazin.de|myself.de|vogue.de
-@@||adserv.quality-channel.de/realmedia/ads/*?videoad$object,domain=glamour.de|gq-magazin.de|myself.de|vogue.de
+@@||adserv.quality-channel.de/crossdomain.xml$object,domain=glamour.de|gq-magazin.de|myself.de
+@@||adserv.quality-channel.de/realmedia/ads/*?videoad$object,domain=glamour.de|gq-magazin.de|myself.de
 @@||adserver.adtech.de/addyn/3.0/1135.1/2945580/390564/$script,domain=nzz.ch
 @@||adserver.bigwigmedia.com/adfetch2.php?$object,domain=spielefuerdich.de
 @@||adserver.bigwigmedia.com/ingamead2_$object,domain=spielaffe.de
@@ -142,7 +142,7 @@
 @@||d3con.de/data1/$image,~third-party
 @@||damoh.giga.de^$script,domain=giga.de
 @@||damoh.golem.de^$script,domain=golem.de
-@@||damoh.schneevonmorgen.com^$script,domain=chip.de|erdbeerlounge.de|giga.de|golem.de|kino.de|spieletipps.de
+@@||damoh.schneevonmorgen.com^$script,domain=chip.de|giga.de|golem.de|kino.de|spieletipps.de
 @@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
 @@||de.ebayobjects.com/1ai/mobile.homepage/superteaser;$subdocument,domain=mobile.de
@@ -171,7 +171,6 @@
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
 @@||emsservice.de^$image,xmlhttprequest,domain=kochbar.de
 @@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object,domain=mobile.de
-@@||enjoykitz.tv/werbung.txt$object
 @@||event.mivitec.net/dist/js/$script,domain=event.mivitec.net
 @@||eventim.de^*?affiliate=$subdocument
 @@||eventus-design.com^$~third-party
@@ -298,10 +297,8 @@
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|schwaebische.de|sky.de|studis-online.de|vox.de
 @@||nutte.ch/banner_fuer_werbung/nutte_$image,domain=ameliatantra.jimdo.com
 @@||oeko-komp.de/evoAds2/
-@@||openx.musotalk.de/crossdomain.xml
-@@||openx.musotalk.de/www/delivery/fc.php?script=bannertypehtml:vastinlinebannertypehtml:vastinlinehtml&$object
-@@||openx.net/w/1.0/acj?$script,domain=erdbeerlounge.de|giga.de|kino.de|spielaffe.de|spieletipps.de
-@@||openx.net/w/1.0/jstag?nc=$script,domain=erdbeerlounge.de|giga.de|kino.de|spielaffe.de|spieletipps.de
+@@||openx.net/w/1.0/acj?$script,domain=giga.de|kino.de|spielaffe.de|spieletipps.de
+@@||openx.net/w/1.0/jstag?nc=$script,domain=giga.de|kino.de|spielaffe.de|spieletipps.de
 @@||os1.tv/js/omsvc_externalad.js
 @@||osthessen-tv.de/werbebanner/$object
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
