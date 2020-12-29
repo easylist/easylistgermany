@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012291930
+! Version: 202012291933
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2020 19:30 UTC
+! Last modified: 29 Dec 2020 19:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1671,6 +1671,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||egun.de/market/images/banner/
 ||eihi.de/wp-content/uploads/*/erima.jpg
 ||einrichtungsbeispiele.de/revive/
+||eintracht.com/fileadmin/Sponsoren/
 ||eisenbahn-kurier.de/images/banners/
 ||eltee.de/img/broker/
 ||etcg.de/images/sponsoren/
@@ -4629,6 +4630,7 @@ finanzen.net##.part_boestu
 1000ps.at,1000ps.ch,1000ps.de,dvd-forum.at,dwdl.de,eulen-ludwigshafen.de,fc-suedtirol.com,finanzen.net,ibash.de,leinehertz.net,multipic.de,plattentests.de##.partner
 tvemsdetten.com##.partner-slider
 bhc06.de##.partner-teaser
+eintracht.com##.partner-wrapper
 wallstreet-online.de##.partnerNews > a[target="_blank"]
 picdumps.com##.pcd_mitte
 heise.de##.perf-cls-reduc-leaderboard
