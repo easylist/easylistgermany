@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012291937
+! Version: 202012291938
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2020 19:37 UTC
+! Last modified: 29 Dec 2020 19:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1673,6 +1673,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||einrichtungsbeispiele.de/revive/
 ||eintracht-basketball.com^*/Sponsoren/
 ||eintracht.com/fileadmin/Sponsoren/
+||eisbaeren.de/assets/img/sponsorenbox_
 ||eisenbahn-kurier.de/images/banners/
 ||eltee.de/img/broker/
 ||etcg.de/images/sponsoren/
@@ -4810,6 +4811,7 @@ europages.de,heise.de,lounge.fm,sueddeutsche.de##.sponsor
 svwehen-wiesbaden.de##.sponsorLeiste
 bz-berlin.de##.sponsorTop
 asv-hamm-westfalen.de##.sponsor_col
+eisbaeren.de##.sponsor_wrapper
 nowtv.de,tvnow.de##.sponsorbanner
 ehrensenf.com##.sponsorcenter
 ariva.de,bento.de,macwelt.de,renego.de,zdnet.de##.sponsored
