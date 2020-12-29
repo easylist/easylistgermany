@@ -633,6 +633,7 @@ psychic.de###righta
 psoriasis-netz.de###rightbanner
 grosseleute.de###rightboxcontent > :nth-child(n) a[href] div img[src^="image/"]
 grosseleute.de###rightboxcontent > :nth-child(n) div:first-child:last-child > a[href] > img[src^="image/"]
+einrichtungsbeispiele.de###rightcolumndiv
 golyr.de###ring
 dnewsvideo.de###roadblockHeader
 wz-newsline.de###rollout
@@ -947,7 +948,7 @@ fairytail-tube.org,naruto-tube.org##.adb
 t3n.de##.adbContentAd1
 knuddels.de##.adbg
 magistrix.de,wuv.de##.adblock
-derwesten.de,gevestor.de,latina-press.com,sueddeutsche.de,wetter.com##.adbox
+derwesten.de,einrichtungsbeispiele.de,gevestor.de,latina-press.com,sueddeutsche.de,wetter.com##.adbox
 dasoertliche.de,vaterland.li##.adcontainer
 paradisi.de,psychic.de##.adcontent
 paradisi.de##.adcontenttext
