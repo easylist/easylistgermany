@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012291927
+! Version: 202012291930
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2020 19:27 UTC
+! Last modified: 29 Dec 2020 19:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1669,6 +1669,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||dxtv.eu/spnsrs2/
 ||e110.de/wp-content/uploads/*_Webbanner_
 ||egun.de/market/images/banner/
+||einrichtungsbeispiele.de/revive/
 ||eisenbahn-kurier.de/images/banners/
 ||eltee.de/img/broker/
 ||etcg.de/images/sponsoren/
@@ -3693,6 +3694,7 @@ psychic.de###righta
 psoriasis-netz.de###rightbanner
 grosseleute.de###rightboxcontent > :nth-child(n) a[href] div img[src^="image/"]
 grosseleute.de###rightboxcontent > :nth-child(n) div:first-child:last-child > a[href] > img[src^="image/"]
+einrichtungsbeispiele.de###rightcolumndiv
 golyr.de###ring
 dnewsvideo.de###roadblockHeader
 wz-newsline.de###rollout
@@ -4007,7 +4009,7 @@ fairytail-tube.org,naruto-tube.org##.adb
 t3n.de##.adbContentAd1
 knuddels.de##.adbg
 magistrix.de,wuv.de##.adblock
-derwesten.de,gevestor.de,latina-press.com,sueddeutsche.de,wetter.com##.adbox
+derwesten.de,einrichtungsbeispiele.de,gevestor.de,latina-press.com,sueddeutsche.de,wetter.com##.adbox
 dasoertliche.de,vaterland.li##.adcontainer
 paradisi.de,psychic.de##.adcontent
 paradisi.de##.adcontenttext
