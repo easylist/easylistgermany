@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012300931
+! Version: 202012300936
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 09:31 UTC
+! Last modified: 30 Dec 2020 09:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1923,6 +1923,13 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||hcb.net^*/sued-badge_
 ||hcb.net^*/wuerth-
 ||hcempor.de/images/content/sponsors/
+||hcinnsbruck.at/images/Alpquell.png
+||hcinnsbruck.at/images/bah_logo.png
+||hcinnsbruck.at/images/Bauer.png
+||hcinnsbruck.at/images/NewDosenberger.png
+||hcinnsbruck.at/images/STMS.png
+||hcinnsbruck.at/images/tiwag_logo.png
+||hcinnsbruck.at/images/tt_logo.png
 ||heddesheimblog.de^*/anzeige-
 ||heddesheimblog.de^*/bds-anzeige-
 ||heidoc.net/amazon/
@@ -4658,7 +4665,7 @@ paradiso.de##.paradiso-hp-ads-horizontal
 spiegelfechter.com##.parship
 finanzen.net##.partBoeStu
 finanzen.net##.part_boestu
-1000ps.at,1000ps.ch,1000ps.de,dvd-forum.at,dwdl.de,eulen-ludwigshafen.de,fc-suedtirol.com,finanzen.net,ibash.de,leinehertz.net,multipic.de,plattentests.de##.partner
+1000ps.at,1000ps.ch,1000ps.de,dvd-forum.at,dwdl.de,eulen-ludwigshafen.de,fc-suedtirol.com,finanzen.net,hcinnsbruck.at,ibash.de,leinehertz.net,multipic.de,plattentests.de##.partner
 tvemsdetten.com##.partner-slider
 bhc06.de##.partner-teaser
 eintracht.com##.partner-wrapper
