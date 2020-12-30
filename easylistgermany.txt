@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012301004
+! Version: 202012301011
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 10:04 UTC
+! Last modified: 30 Dec 2020 10:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1935,6 +1935,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||hcinnsbruck.at/images/STMS.png
 ||hcinnsbruck.at/images/tiwag_logo.png
 ||hcinnsbruck.at/images/tt_logo.png
+||hcpustertal.com^*/sponsors/
 ||heddesheimblog.de^*/anzeige-
 ||heddesheimblog.de^*/bds-anzeige-
 ||heidoc.net/amazon/
@@ -4869,7 +4870,7 @@ tsv1860.de##.sponsorftr
 yigg.de,zeit.de##.sponsoring
 eblogx.com##.sponsorleft
 svm-fan.net##.sponsorlogo
-bayer04.de,svhu-frogs.de##.sponsors
+bayer04.de,hcpustertal.com,svhu-frogs.de##.sponsors
 tsg-hoffenheim.de##.sponsors-slider
 fcbayern.de##.sponsors-wrapper
 ssv-jahn.de##.sponsorsFull
