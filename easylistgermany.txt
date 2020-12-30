@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012301146
+! Version: 202012301147
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 11:46 UTC
+! Last modified: 30 Dec 2020 11:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2862,18 +2862,23 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wochenblatt.pl^*/smuda.jpg
 ||wochenblatt.pl^*/werbung.jpg
 ||wochenblitz.com/images/banners/
+||wohnmobilforum.de/anhaengerkupplung.jpg
 ||wohnmobilforum.de/anhaengerkupplungen.jpg
 ||wohnmobilforum.de/aqua.jpg
 ||wohnmobilforum.de/basba.jpg
 ||wohnmobilforum.de/camping-preisbrecher_header.jpg
 ||wohnmobilforum.de/caravantechnik.jpg
+||wohnmobilforum.de/dometic-kw.jpg
 ||wohnmobilforum.de/fleig.jpg
+||wohnmobilforum.de/hubstuetzen.jpg
 ||wohnmobilforum.de/kro.png
 ||wohnmobilforum.de/luftfederung.jpg
 ||wohnmobilforum.de/motorradtraeger.jpg
 ||wohnmobilforum.de/ott.jpg
 ||wohnmobilforum.de/safety.jpg
+||wohnmobilforum.de/trigas.jpg
 ||wohnmobilforum.de/waeco.jpg
+||wohnmobilforum.de/wasserhy.jpg
 ||wohnmobilforum.de/wget/ebay.php
 ||wohnungswirtschaft-heute.de/dokumente/banners/
 ||wohnwagen.net/forum/wget/get_xml.php
