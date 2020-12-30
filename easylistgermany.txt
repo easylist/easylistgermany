@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012301147
+! Version: 202012301150
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 11:47 UTC
+! Last modified: 30 Dec 2020 11:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1536,6 +1536,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 /webservices/hitAlert.cfc?$domain=gamesaktuell.de|gamezone.de|pcgames.de|pcgameshardware.de|videogameszone.de
 ^what=zone^$domain=ww3.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
+||112-magazin.de/images/banners/
 ||149.13.77.20^$domain=ww3.cad.de
 ||193.107.16.142/f.php
 ||1und1.de/movein_$xmlhttprequest
@@ -4086,7 +4087,7 @@ pcwelt.de##.amazonteaser
 fairytail-tube.org,gamepro.de,gamestar.de##.amz
 andreziegler.de##.amz_main
 winfuture.de##.amzwgt
-bauexpertenforum.de,biallo.de,fremdwort.de,gesetzlichekrankenkassen.de,heinertown.de,heise.de,juedische-allgemeine.de,lehrerfreund.de,medizin-netz.de,motorsport-total.com,moviejones.de,nwzonline.de,oktoberfestportal.de,projektmagazin.de,rtl.de,saarbruecker-zeitung.de,sportal.de,telemedicus.info,tweakpc.de,wetter.com,winboard.org,zeit.de##.anzeige
+112-magazin.de,bauexpertenforum.de,biallo.de,fremdwort.de,gesetzlichekrankenkassen.de,heinertown.de,heise.de,juedische-allgemeine.de,lehrerfreund.de,medizin-netz.de,motorsport-total.com,moviejones.de,nwzonline.de,oktoberfestportal.de,projektmagazin.de,rtl.de,saarbruecker-zeitung.de,sportal.de,telemedicus.info,tweakpc.de,wetter.com,winboard.org,zeit.de##.anzeige
 designtagebuch.de##.anzeige-links
 designtagebuch.de##.anzeige-mittig
 tbv-lemgo.de##.anzeige2
@@ -4174,7 +4175,7 @@ fruchthandel.de##.banner_squarebuttongroup
 fruchthandel.de##.banner_squarebuttonxs1
 handy-player.de,maclife.de##.bannerbox
 boerse.de##.bannerbox_container
-hardware-factory.com,kl-aktuell.de,pc-experience.de##.bannergroup
+112-magazin.de,hardware-factory.com,kl-aktuell.de,pc-experience.de##.bannergroup
 preussenspiegel-online.de##.bannerright
 itopnews.de,pinfy.de##.banners
 rockantenne.de##.bannertop
