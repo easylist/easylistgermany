@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012301018
+! Version: 202012301024
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 10:18 UTC
+! Last modified: 30 Dec 2020 10:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1673,6 +1673,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||ecrbs.redbulls.com^*/partner_
 ||egofm.de/content/images/egoFMad/
 ||egun.de/market/images/banner/
+||ehc-lustenau.at/EHC/images/sponsorenlogos/
 ||eihi.de/wp-content/uploads/*/erima.jpg
 ||einrichtungsbeispiele.de/revive/
 ||eintracht-basketball.com^*/Sponsoren/
@@ -3375,6 +3376,8 @@ nextpit.de###div-header
 nextpit.de###div-sidebar_right_extra
 arbeitstage.at,arbeitstage.de,joursouvres.ch###div_lfsp
 connectiv.events###divi_pb_widget-3
+ehc-lustenau.at###djslider-loader227
+ehc-lustenau.at###djslider-loader229
 g4u.me###dl-middle
 schelian.de###dnn_dnnBANNER_lstBanners
 seamonkey.at###donor
