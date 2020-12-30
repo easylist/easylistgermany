@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012300926
+! Version: 202012300929
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 09:26 UTC
+! Last modified: 30 Dec 2020 09:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2806,6 +2806,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||via-ferrata.de/images/300x120px_
 ||via-ferrata.de/images/verticalextreme.jpg
 ||via-ferrata.de/templates/forum/banner/
+||vienna-capitals.at/tl_files/capitals/banner/
+||vienna-capitals.at/tl_files/capitals/partner/
 ||vipbilder.net^*/layer.js
 ||visions.de/assets/visions_300x150_
 ||viviano.de/teaser
@@ -4551,6 +4553,7 @@ orschlurch.net##.main > div > div:first-child + div[id]
 goldesel.to##.main a[href^="apps/windows/"]
 wunschkennzeichen.de##.main-banner
 auto-online.ch##.main-leaderboard
+vienna-capitals.at##.main-sponsorlogo
 xc.dhv.de##.mainBodyTable2 > tbody > tr > td[style="vertical-align: top; padding-top: 30px; padding-right: 20px; text-align: right;"]:first-child
 linkbase.in##.mainContentBoxLast[style="-moz-border-radius:5px 5px 0px 0px;"]
 linkbase.in##.mainContentBox[style="-moz-border-radius:5px 5px 0px 0px;"]
