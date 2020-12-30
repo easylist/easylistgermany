@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012300947
+! Version: 202012300951
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 09:47 UTC
+! Last modified: 30 Dec 2020 09:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1926,6 +1926,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||hcb.net^*/sued-badge_
 ||hcb.net^*/wuerth-
 ||hcempor.de/images/content/sponsors/
+||hcgherdeina.com/img/db/s/20160422164221.png
+||hcgherdeina.com/img/db/sponsor/
 ||hcinnsbruck.at/images/Alpquell.png
 ||hcinnsbruck.at/images/bah_logo.png
 ||hcinnsbruck.at/images/Bauer.png
@@ -3888,6 +3890,7 @@ kreisanzeiger-online.de###top_ad_topb
 wavetv.de###top_advertisement
 jobanova.de###top_afs_container
 allround-pc.com###top_banner
+hcgherdeina.com###top_sponsor_inner
 wintotal.de###topads
 am-ende-des-tages.de,bitsundso.de,motor-talk.de,newsclick.de,wohnungswirtschaft-heute.de###topbanner
 willhaben.at###topbanners
