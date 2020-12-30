@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012301156
+! Version: 202012301159
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 11:56 UTC
+! Last modified: 30 Dec 2020 11:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4553,6 +4553,7 @@ aol.de##.mnid-marketplace3-2line-ad_evergreen
 aol.de##.mnid-qnav-quick-nav-amazon_quick-nav-global
 aol.de##.mnid-qnav-quick-nav-ebay_quick-nav-global
 myvideo.de##.mobLiveHeaderLogo
+fc.de##.mod-sponsor-icon
 blaue-blume.tv,goldstar-tv.de,kremser-sc.at,romance-tv.de##.mod_banner
 sportal.de##.moduleArticleAnzeigeTnt
 mmnews.de##.moduletable > div > p[style="text-align: center;"]
