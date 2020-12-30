@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012300951
+! Version: 202012300954
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 09:51 UTC
+! Last modified: 30 Dec 2020 09:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4574,6 +4574,7 @@ xc.dhv.de##.mainBodyTable2 > tbody > tr > td[style="vertical-align: top; padding
 linkbase.in##.mainContentBoxLast[style="-moz-border-radius:5px 5px 0px 0px;"]
 linkbase.in##.mainContentBox[style="-moz-border-radius:5px 5px 0px 0px;"]
 forexpros.de##.mainLightBoxFilter
+hceppan.it##.mainSponsor
 bloodchamber.de##.main_banner
 spiele-umsonst.de##.main_gamebox_mid2
 svs-seligenporten.de##.main_sponsor
@@ -4870,6 +4871,7 @@ bayer04.de,svhu-frogs.de##.sponsors
 tsg-hoffenheim.de##.sponsors-slider
 fcbayern.de##.sponsors-wrapper
 ssv-jahn.de##.sponsorsFull
+hceppan.it##.sportnews
 frauporn.com##.spot
 frauporn.com##.spot_bottom
 auto-motor-und-sport.de##.spritpreisvergleich_sideteaser
