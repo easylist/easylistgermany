@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012300942
+! Version: 202012300947
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 09:42 UTC
+! Last modified: 30 Dec 2020 09:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1916,6 +1916,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||haustechnikdialog.de/banner/
 ||hc-empor.de/images/content/sponsors/
 ||hc-erlangen.de/fileadmin/user_upload/bundesliga/sponsoren/
+||hc-neumarkt.com/images/partner/
 ||hcb.net^*/elpo-
 ||hcb.net^*/forst.png
 ||hcb.net^*/knoma-
@@ -3897,6 +3898,7 @@ queer.de###toplinksw
 myfont.de###toplists
 gmx.net,home.1und1.de,web.de###topper
 willhaben.at###tower
+hc-neumarkt.com###tr-contentbottom
 kinofilme.ucoz.com###trade
 n-tv.de,urlaubspiraten.de,wetter.de###trivago_dealform
 t-online.de###tsc_skyscraper
@@ -5823,6 +5825,7 @@ topmodels.de##img[width="120"][height="600"]
 e-bol.net##img[width="121"][height="601"]
 usa-kulinarisch.de##img[width="125"][height="125"]
 nh24.de##img[width="140"][height="140"]
+hc-neumarkt.com##img[width="140"][height="68"]
 t-online.de##img[width="145"][height="225"]
 fscklog.com##img[width="160"][height="160"]
 dashitradio.de,der-postillon.com,picdumps.com##img[width="160"][height="600"]
