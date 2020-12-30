@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012301150
+! Version: 202012301153
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 11:50 UTC
+! Last modified: 30 Dec 2020 11:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3987,7 +3987,7 @@ helles-koepfchen.de##.Wer
 gullipics.com##.a-zone
 winfuture.de##.a_box
 4cheaters.de##.aab-box
-stadt-bremerhaven.de##.aawp
+automatentest.de,stadt-bremerhaven.de##.aawp
 blogg.de##.ab-item[tabindex="10"]
 diaware.de##.abcde_link
 diaware.de##.abcde_text
@@ -4758,6 +4758,7 @@ rpc-germany.de##.sidebar_banner_bg
 n-tv.de##.sidebar_block[style="width:300px;height:163px"]
 n-tv.de##.sidebar_block_dark[style="padding-left: 40px; height: 200px;"]
 mimikama.at##.sidebar_right
+automatentest.de##.sideinfo
 indeed.ch##.sjlast
 my-homo.net##.sksc160
 my-homo.net##.sksc300
