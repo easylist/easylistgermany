@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012301159
+! Version: 202012301200
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 11:59 UTC
+! Last modified: 30 Dec 2020 12:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1696,6 +1696,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||fairytail-tube.org^*/amz/
 ||fairytail-tube.org^*/amzb2/
 ||faz.net/f6/ad/
+||fck.de^*/partner_
 ||feierabend.de/gta/
 ||fernsehserien.de/gfx/anzeige.gif
 ||ff-bz.com^*/banner-
@@ -4625,7 +4626,7 @@ paradiso.de##.paradiso-hp-ads-horizontal
 spiegelfechter.com##.parship
 finanzen.net##.partBoeStu
 finanzen.net##.part_boestu
-1000ps.at,1000ps.ch,1000ps.de,broncos.it,dvd-forum.at,dwdl.de,eulen-ludwigshafen.de,fc-suedtirol.com,finanzen.net,hcinnsbruck.at,ibash.de,leinehertz.net,multipic.de,plattentests.de,veu-feldkirch.at##.partner
+1000ps.at,1000ps.ch,1000ps.de,broncos.it,dvd-forum.at,dwdl.de,eulen-ludwigshafen.de,fc-suedtirol.com,fck.de,finanzen.net,hcinnsbruck.at,ibash.de,leinehertz.net,multipic.de,plattentests.de,veu-feldkirch.at##.partner
 tvemsdetten.com##.partner-slider
 bhc06.de##.partner-teaser
 eintracht.com##.partner-wrapper
