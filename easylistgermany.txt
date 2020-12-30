@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012300939
+! Version: 202012300940
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2020 09:39 UTC
+! Last modified: 30 Dec 2020 09:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4873,6 +4873,7 @@ biallo.de##.stdanzeige
 tixuma.de##.stdfont[bgcolor="#ecf5fa"]
 biallo.de##.stdspezialteaseranzeige
 spieletipps.de##.stiSkyscraperRgt
+ecvsv.at##.stream-item-top-wrapper
 deine-tierwelt.de##.stroeer
 fernsehserien.de##.stroeer-container
 womenshealth.de##.stuff
