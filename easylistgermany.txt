@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012311534
+! Version: 202012311536
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2020 15:34 UTC
+! Last modified: 31 Dec 2020 15:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1716,7 +1716,10 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||freenet.de^*/mail/ads/
 ||freizeitparks.de/fileadmin/user_upload/*_Anz_
 ||freizeitparks.de/fileadmin/user_upload/Bildschirmfoto_2020-11-09_um_09.53.39.png
+||frischauf-gp.de/fileadmin/drehbande/
 ||frischauf-gp.de/fileadmin/images/banner-extern/
+||frischauf-gp.de/fileadmin/images/footer/sponsor
+||frischauf-gp.de/fileadmin/user_upload/*_Banner_
 ||fruchthandel.de/uploads/elements/*_140x140_
 ||fruchthandel.de/uploads/elements/*_ab_
 ||fruchthandel.de/uploads/elements/468x100_
@@ -4015,7 +4018,7 @@ boerse.de##.bannerbox_container
 112-magazin.de,hardware-factory.com,kl-aktuell.de,pc-experience.de##.bannergroup
 preussenspiegel-online.de##.bannerright
 itopnews.de,pinfy.de##.banners
-rockantenne.de##.bannertop
+frischauf-gp.de,rockantenne.de##.bannertop
 pcgames.de##.bargain
 heise.de##.bcadv
 bildderfrau.de##.bdf_megabannerBack
@@ -4325,6 +4328,7 @@ narutoloads.org##.left-hand-global
 taketv.net##.leftbanner
 queer.de##.leistenbanner
 bunte.de##.li_imageteaser_row_typ3
+frischauf-gp.de##.ligaadd
 liliput-lounge.de##.lilip-in-content
 liliput-lounge.de##.lilip-nach-dem-inhalt_2
 liliput-lounge.de##.lilip-top-ueber-artikelueberschrift
@@ -4471,6 +4475,7 @@ iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:cent
 radio1.ch##.post-box-middle-anzeige
 wallstreet-online.de##.posting + div[style="width:860px;"]
 digitalfernsehen.de##.preisvergleich_search
+frischauf-gp.de##.premiumPartner
 scm-gladiators.de##.presenter
 wetter.de##.presenter-image
 digitalfernsehen.de##.pricerunner_search
@@ -4577,6 +4582,7 @@ my-homo.net##.sksc160
 my-homo.net##.sksc300
 stadtbranchenbuch.at,stadtbranchenbuch.com##.sky
 lokalisten.de##.skyScraper
+frischauf-gp.de##.skyadd
 t-online.de##.skybannerWrapper
 internet-sms.com##.skybg
 spiele-kostenlos-online.de##.skycraper
@@ -4612,7 +4618,7 @@ filme-anschauen-kostenlos.de##.spidd
 lhc-cottbus.de##.spon
 fuldaerzeitung.de##.spon_318_2_2
 ehv-aue.org##.spons_div
-europages.de,heise.de,lounge.fm,sueddeutsche.de##.sponsor
+europages.de,frischauf-gp.de,heise.de,lounge.fm,sueddeutsche.de##.sponsor
 fcz.ch##.sponsor--margin
 rittnerbuam.com##.sponsor-section
 svwehen-wiesbaden.de##.sponsorLeiste
