@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012311515
+! Version: 202012311519
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2020 15:15 UTC
+! Last modified: 31 Dec 2020 15:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5716,6 +5716,7 @@ gamestar.de#?#.content-item-medium:-abp-has(data:-abp-contains(Anzeige))
 gamestar.de#?#.content-item-small:-abp-has(h3:-abp-contains(Anzeige))
 gofeminin.de#?#.af-block-native:-abp-contains(Anzeige)
 gofeminin.de#?#.af-block-native:-abp-contains(Sponsored Post)
+guenstiger.de#?#.productCard:-abp-has(div.premiumProductCaption)
 lieferheld.de#?#.restaurant-brief:-abp-has(div.restaurant__promo)
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 saechsische.de#?#article,div:-abp-has( > .article-fill__section > span:-abp-contains(Anzeige))
