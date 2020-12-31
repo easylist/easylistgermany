@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012311519
+! Version: 202012311521
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2020 15:19 UTC
+! Last modified: 31 Dec 2020 15:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3227,6 +3227,7 @@ endstation-rechts.de###foo-r
 endstation-rechts.de###foo-t
 gmx.net,web.de###footer-icons
 crescendo.de###footer-partners-wrapper
+kremser-sc.at###footer-widgets
 wohintipp.at###footerBanner
 maniac.de###footeradd_xbox_frame
 forum.stilmagazin.com###footerleader
@@ -3380,7 +3381,12 @@ basicthinking.de###media_image-3
 rundschau.info###media_image-37
 rundschau.info###media_image-38
 rundschau.info###media_image-39
-rundschau.info###media_image-6
+kremser-sc.at###media_image-4
+kremser-sc.at###media_image-5
+kremser-sc.at,rundschau.info###media_image-6
+kremser-sc.at###media_image-7
+kremser-sc.at###media_image-8
+kremser-sc.at###media_image-9
 rundschau.info###media_image-91
 cosmiq.de###medium_rectangle_container
 pollenflug.de###mega-banner
@@ -4041,6 +4047,7 @@ xink.it##.buttonMirror
 lounge.fm##.buy
 magistrix.de##.buy_song
 heise.de##.buytable
+kremser-sc.at##.bx-viewport
 premiumpresse.de##.cBannerTop
 playmassive.de,playnation.de##.cad
 ka-news.de##.cad_box
