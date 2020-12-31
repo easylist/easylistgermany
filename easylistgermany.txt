@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012311503
+! Version: 202012311511
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2020 15:03 UTC
+! Last modified: 31 Dec 2020 15:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1551,6 +1551,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||adhocnews.de/theme/classic/img/billboard-
 ||aerger.tv/images/03-1.gif
 ||aerger.tv/images/a.gif
+||drachenbootfestival-hannover.de/grafik/partner/
 ||aerger.tv/images/b.gif
 ||aerger.tv/images/c.gif
 ||aerger.tv/images/d.gif
@@ -1741,6 +1742,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||grower.ch/partner/
 ||gwars.de/index.php?page=advertisingpage
 ||hamburg-pride.de/fileadmin/banner/
+||hannover96.de^*/sprite-footer-partners.gif
 ||hardware-academy.org/images/banners/
 ||hardware-experten.de/images/banner/
 ||hardware-factory.com/banner/
@@ -2950,6 +2952,7 @@ pocketpc.ch###PPCAdLeaderBoard_Filler
 sgcoburg.de###PromoHead
 sgcoburg.de###PromoRight
 rclineforum.de###RotBanner
+http://www.drachenbootfestival-hannover.de/
 onvista.de###SMART_BILLBOARD
 wiesbaden.de###SP-commercials
 helles-koepfchen.de###Sky_left
@@ -4413,6 +4416,7 @@ tvemsdetten.com##.partner-slider
 bhc06.de##.partner-teaser
 eintracht.com##.partner-wrapper
 wallstreet-online.de##.partnerNews > a[target="_blank"]
+hannover96.de##.partners
 picdumps.com##.pcd_mitte
 heise.de##.perf-cls-reduc-leaderboard
 heise.de##.perf-cls-reduc-rectangle
