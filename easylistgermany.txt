@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012311511
+! Version: 202012311512
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2020 15:11 UTC
+! Last modified: 31 Dec 2020 15:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1551,7 +1551,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||adhocnews.de/theme/classic/img/billboard-
 ||aerger.tv/images/03-1.gif
 ||aerger.tv/images/a.gif
-||drachenbootfestival-hannover.de/grafik/partner/
 ||aerger.tv/images/b.gif
 ||aerger.tv/images/c.gif
 ||aerger.tv/images/d.gif
@@ -1656,6 +1655,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||dieantenne.it^*/Viropa.png
 ||diebrennstoffzelle.de/images/banner/
 ||digitaledienste.web.de/freemail/browser_decide/?$subdocument
+||drachenbootfestival-hannover.de/grafik/partner/
 ||dreambox.info/banner/
 ||drehscheibe-online.de/ds_cms/banner/
 ||dslr-forum.de/banner.
@@ -2952,7 +2952,6 @@ pocketpc.ch###PPCAdLeaderBoard_Filler
 sgcoburg.de###PromoHead
 sgcoburg.de###PromoRight
 rclineforum.de###RotBanner
-http://www.drachenbootfestival-hannover.de/
 onvista.de###SMART_BILLBOARD
 wiesbaden.de###SP-commercials
 helles-koepfchen.de###Sky_left
