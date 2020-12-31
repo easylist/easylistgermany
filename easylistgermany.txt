@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012311533
+! Version: 202012311534
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2020 15:33 UTC
+! Last modified: 31 Dec 2020 15:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1717,6 +1717,9 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||freizeitparks.de/fileadmin/user_upload/*_Anz_
 ||freizeitparks.de/fileadmin/user_upload/Bildschirmfoto_2020-11-09_um_09.53.39.png
 ||frischauf-gp.de/fileadmin/images/banner-extern/
+||fruchthandel.de/uploads/elements/*_140x140_
+||fruchthandel.de/uploads/elements/*_ab_
+||fruchthandel.de/uploads/elements/468x100_
 ||fsv-frankfurt.de^*/Sponsoren/
 ||fuechse.berlin^*-skybannerxber.jpg
 ||fuechse.berlin^*/modul-hauptsponsoren/
@@ -4180,6 +4183,7 @@ abacho.de##.econa_editorial_tips_header
 eintracht.de##.ef-footer__section--partners
 hoerbuch.us##.eintrag_dowload0_link
 hildesheimer-allgemeine.de##.einzelbanner
+fruchthandel.de##.element_squarebuttongroup
 report-k.de##.empfanzeige
 xdate.ch##.empfehlung
 ecommerce-vision.de##.entry > div[style="float: right; padding: 0 0 10px 10px;"]
@@ -4388,6 +4392,7 @@ hsgnordhorn-lingen.de##.navbar-fixed-bottom
 alle-autos-in.de##.naviP
 wetter.at##.nearestLocations ~ div
 codecheck.info##.news-adv
+fruchthandel.de##.news-item-wbg
 digitalvideoschnitt.de##.news-list-container + div[style="text-align:center; padding-top:20px; width:160px; margin:auto;"]
 digitalvideoschnitt.de##.news-list-container > .news[style="height:80px;"]
 glocalist.com##.news-single-content > a + div[style="text-align:center;"]
