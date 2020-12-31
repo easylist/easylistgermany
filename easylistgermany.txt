@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012311529
+! Version: 202012311530
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2020 15:29 UTC
+! Last modified: 31 Dec 2020 15:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1719,6 +1719,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||frischauf-gp.de/fileadmin/images/banner-extern/
 ||fundresearch.de^*/partnercenter/
 ||gamekeyfinder.de/img/rot/
+||gamemovieportal.ch/_partner/
 ||gameothek.com/wp-content/uploads/buttons/
 ||gamestar.de/_misc/cntdwn/
 ||gamestar.de/_misc/countdown/
@@ -4943,6 +4944,7 @@ spielaffe.de##a[href^="http://sp.spielaffe.de/"]
 t-online.de##a[href^="http://stromvergleich.t-online.de/strom.php"]
 stylebook.de##a[href^="http://style.glossybox.de/?zanpid="]
 4fuckr.com##a[href^="http://sweetmichelle.net?ref="]
+gamemovieportal.ch##a[href^="http://tidd.ly/"]
 hopto.org,querverweis.net##a[href^="http://tinyurl.com/"]
 playboy.de##a[href^="http://track.adform.net/"]
 brigitte.de,news.at##a[href^="http://trf.greatviews.de/"]
