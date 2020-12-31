@@ -81,7 +81,6 @@
 @@||adtech.de/dt/common/DAC.js$domain=nzz.ch
 @@||adtech.de/dt/common/postscribe.js$domain=nzz.ch
 @@||advertiser.wbtrk.net/js/advertiser.js$domain=heise.de
-@@||advertising.ingame.de/adframework/inAdFramework.min.js$domain=minecraft-serverlist.net
 @@||adwords.safi-gmbh.ch^$~third-party
 @@||affilinet-inside.de^*/affilinet/$stylesheet
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=giga.de|spielaffe.de|spieletipps.de
@@ -210,10 +209,6 @@
 @@||g.doubleclick.net/tag/js/gpt.js$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|n-tv.de
 @@||g.doubleclick.net^*/gpt.js$script,domain=auto-motor-und-sport.de|kochbar.de
 @@||galileo.tv/js/my_ad_integration.js
-@@||gamers.at/images/branding/*/gamers_at.jpg
-@@||gamers.at/images/branding/*/header.
-@@||gamers.at/images/branding/*/header_
-@@||gamers.at/images/branding/*_header.
 @@||games.tfag.de^$domain=fitforfun.de
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
 @@||gmx.net^*/video-adserver-config.xml$object
