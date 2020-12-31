@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012311512
+! Version: 202012311515
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2020 15:12 UTC
+! Last modified: 31 Dec 2020 15:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1741,6 +1741,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||googlewatchblog.de/wp-content/uploads/amazon-music-hd-stream.jpg
 ||grower.ch/partner/
 ||gwars.de/index.php?page=advertisingpage
+||hallelife.de/files/hallelife/banner/
 ||hamburg-pride.de/fileadmin/banner/
 ||hannover96.de^*/sprite-footer-partners.gif
 ||hardware-academy.org/images/banners/
@@ -3974,6 +3975,7 @@ canoo.net,gq-magazin.de##.banner_container
 rtl-hessen.de##.banner_fullsize
 goloci.de##.banner_gallery
 echo-online.de##.banner_horizontal
+hallelife.de##.banner_image
 notebooksbilliger.de##.banner_left
 goloci.de##.banner_main
 goloci.de##.banner_online_1
