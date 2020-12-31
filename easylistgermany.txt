@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012311527
+! Version: 202012311528
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2020 15:27 UTC
+! Last modified: 31 Dec 2020 15:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2133,6 +2133,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||nh24.de/wp-content/uploads/*/Haemel-2012-247.gif
 ||nh24.de/wp-content/uploads/*/hephanta_kw-49.jpg
 ||nh24.de/wp-content/uploads/*/tejos_KW50.gif
+||nibelungen-kurier.de/banner/
 ||nichtlustig.de^*/adv/
 ||nichtlustig.de^*/sponsor/
 ||nickles.de^*/ads.js
@@ -3279,6 +3280,7 @@ radio-teddy.de###header_banner
 klamm.de###header_main
 paules-pc-forum.de,wardriving-forum.de###header_right_cell
 amazon.de###heroQuickPromo_feature_div
+nibelungen-kurier.de###homeDisplay
 gratissoft.de,winfuture.de###homepage_rectangle
 chip.de###hp-aquamarin
 chip.de###hp-aquamarin-1
@@ -4755,6 +4757,7 @@ wp-koenigin.de##.widget__image--banner
 orschlurch.net##.widget_amazon
 fxempire.de##.widget_banner
 fxempire.de##.widget_brokers
+nibelungen-kurier.de##.widget_dkge_wrapper
 orschlurch.net##.widget_facebook + div
 fxempire.de##.widget_latest_promotions_right
 fxempire.de##.widget_recommended_brokers
