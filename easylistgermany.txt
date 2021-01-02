@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101021629
+! Version: 202101021631
 ! Title: EasyList Germany
-! Last modified: 02 Jan 2021 16:29 UTC
+! Last modified: 02 Jan 2021 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5429,6 +5429,7 @@ t-online.de##img[width="797"][usemap^="#immap"]
 t-online.de##img[width="920"][usemap^="#imgmap"]
 t-online.de##img[width="920"][usemap^="#immap"]
 rnf.de##img[width="960"][height="200"]
+heimspiel-online.de##imgwidth="150"][height="111"]
 pornlounge.org##input[onclick^="javascript:window.open('http://www.FriendlyDuck.com/AF_"]
 fettrap.com##input[onclick^="window.open('http://fettrap.com/highspeed/"]
 stealth.to##input[value="Mirror"]
