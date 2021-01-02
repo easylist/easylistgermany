@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101021645
+! Version: 202101021646
 ! Title: EasyList Germany
-! Last modified: 02 Jan 2021 16:45 UTC
+! Last modified: 02 Jan 2021 16:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1805,6 +1805,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||hl-live.de/aktuell/grafiken/vg/
 ||hl-live.de/banner/
 ||hmediacdn.com^$media,domain=golem.de
+||hoerbuch.us/download.png
 ||homad1.spiegel.tv^$object,domain=spiegel.tv
 ||homad2.spiegel.tv^$object,domain=spiegel.tv
 ||ibash.de^*.html$subdocument
@@ -4939,9 +4940,11 @@ t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
 koeln.de##a[href^="https://ed.koeln.de/ad/"]
 stylebook.de##a[href^="https://fra1-ib.adnxs.com/click?"]:not([href*="stylebook" i])
 speedtorrent.com##a[href^="https://goo.gl/"]
+hoerbuch.us##a[href^="https://hoerbuch.us/dll/"]
 stadt-bremerhaven.de##a[href^="https://instaffo.com/?utm_source="] > img
 gamepro.de,gamestar.de##a[href^="https://itunes.apple.com/"][href*="&affId="]
 t-online.de##a[href^="https://jobsuche.t-online.de/to/jobs/search?"]
+hoerbuch.us##a[href^="https://linksnappy.com/?ref="]
 chip.de##a[href^="https://lt45.net/c/?si="]
 t-online.de##a[href^="https://pt.t-online.de/dl/storytelling/"]
 pcwelt.de,sinn-frei.com##a[href^="https://rover.ebay.com/"]
@@ -4966,6 +4969,7 @@ trendmutti.com##a[href^="https://www.krokodeal.net/"]
 t-online.de##a[href^="https://www.lotto24.de/webshop/product/eurojackpot?partnerId="]
 t-online.de##a[href^="https://www.mobile.de/"][href*="utm_medium=affiliate"]
 dxtv.de##a[href^="https://www.octagon-germany.eu/"]
+hoerbuch.us##a[href^="https://www.purevpn.com/?aff="]
 pcwelt.de##a[href^="https://www.verleihshop.de/pwindex.html?partner="]
 t-online.de##a[href^="https://www.viversum.de/gratisgespraech/"]
 arcor.de##a[href^="https://zuhauseplus.vodafone.de/"] > img
