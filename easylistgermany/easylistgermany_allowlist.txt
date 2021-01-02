@@ -236,8 +236,6 @@
 @@||ib.adnxs.com/ut/v3^$xmlhttprequest,domain=stylebook.de
 @@||ib.adnxs.com^$xmlhttprequest,domain=bz-berlin.de|finanzen.ch
 @@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
-@@||idowa.de/rest/db/frontend/content/ad/incrementviews$xmlhttprequest
-@@||idowa.de^*/advertisement/$xmlhttprequest
 @@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
 @@||imasdk.googleapis.com/js/core/bridge$document,subdocument,domain=welect.de
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=heise.de
