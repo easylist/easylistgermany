@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101021646
+! Version: 202101021652
 ! Title: EasyList Germany
-! Last modified: 02 Jan 2021 16:46 UTC
+! Last modified: 02 Jan 2021 16:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4209,6 +4209,7 @@ kochbar.de##.kb-home-medrec-halfpage
 kochbar.de##.kb-recipe-comment-container > .kb-recipe-comment-right-fix
 sexgeschichten.com##.kosmonaut_120x600
 sexgeschichten.com##.kosmonaut_300x250
+holstein-kiel.de##.ksv-sponsoren-footer
 wortfilter.de##.kuriosbox
 123people.de##.l_banner
 pi-news.net##.l_pics > a:not([href*=".pi-news.net/"])
