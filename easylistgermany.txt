@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101021622
+! Version: 202101021626
 ! Title: EasyList Germany
-! Last modified: 02 Jan 2021 16:22 UTC
+! Last modified: 02 Jan 2021 16:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3294,6 +3294,7 @@ abendblatt.de###main > .column-1 > .widget > #lt_Wrap
 esbgforum.de###main > .pageOptions + .info + div[align="center"]
 iphone-tricks.de###main-area > script + div > div > img
 yasni.at,yasni.ch,yasni.de###main-content-ac1
+hc-erlangen.de###main-sponsor
 skodacommunity.de###mainContainer > div[align="center"]:first-child
 forexpros.de###mainPopUpContainer
 podster.de###main_container > div[style="height: 100px; text-align: center;"]:first-child
@@ -4510,6 +4511,7 @@ ariva.de,bento.de,macwelt.de,renego.de,zdnet.de##.sponsored
 seo-united.de##.sponsoren
 tsv1860.de##.sponsorftr
 yigg.de,zeit.de##.sponsoring
+hc-erlangen.de##.sponsoring-footer
 eblogx.com##.sponsorleft
 svm-fan.net##.sponsorlogo
 bayer04.de,hcpustertal.com,svhu-frogs.de##.sponsors
