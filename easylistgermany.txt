@@ -1803,6 +1803,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||hintergrundfakten.de/hint_data/y_chck2_4.jpg
 ||hintergrundfakten.de/hint_data/yt2_4.jpg
 ||hl-live.de/aktuell/grafiken/vg/
+||hl-live.de/banner/
 ||hmediacdn.com^$media,domain=golem.de
 ||homad1.spiegel.tv^$object,domain=spiegel.tv
 ||homad2.spiegel.tv^$object,domain=spiegel.tv
@@ -2962,6 +2963,7 @@ excitingcommerce.de###alpha-inner > .module-typelist:first-child + .module-typel
 excitingcommerce.de###alpha-inner > .module-typelist:first-child + .module-typelist + .module-typelist
 hartware.de###anzeige
 tagesspiegel.de###anzeige_schnippsel
+hl-live.de###anzeiged2
 justpay.de###anzeigen_left
 wuppertaler-rundschau.de###anzeigen_oben
 apomio.de###anzeigen_wrapper
