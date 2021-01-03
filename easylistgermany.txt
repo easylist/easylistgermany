@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101031648
+! Version: 202101031655
 ! Title: EasyList Germany
-! Last modified: 03 Jan 2021 16:48 UTC
+! Last modified: 03 Jan 2021 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1571,6 +1571,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||api.heise.de/svc/pvg-widget/
 ||appsundco.de^$domain=schulterglatze.de
 ||arbeitstage.at/pub_
+||arbeitstage.ch/pub_
 ||arbeitstage.de/pub_
 ||auto-bild.de/js/rd/google.js
 ||autobild.de/js/rd/google.js
@@ -2844,7 +2845,6 @@ teltarif.de###LxShop
 mopo.de###MOPO-ad-uap-super-banner
 windows-7-forum.net###MidRectangle
 werkzeug-news.de###MitteRechts > .infoblock
-journalonko.de##.adContainer
 abacho.de###MomondoWidgetSidebar
 pocketpc.ch###PPCAdLeaderBoard_Filler
 sgcoburg.de###PromoHead
@@ -3688,7 +3688,7 @@ synchronkartei.de##.ad-box
 diegrenzgaenger.lu##.ad-listing
 vsport.at##.ad1
 vsport.at##.ad2
-kress.de,med1.de,promiflash.de,stayfriends.de##.adContainer
+journalonko.de,kress.de,med1.de,promiflash.de,stayfriends.de##.adContainer
 wz-newsline.de##.adDisclaimerLight
 webfail.at##.adMR
 11freunde.de##.ad_below-nav
