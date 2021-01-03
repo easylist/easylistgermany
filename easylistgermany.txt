@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101031628
+! Version: 202101031639
 ! Title: EasyList Germany
-! Last modified: 03 Jan 2021 16:28 UTC
+! Last modified: 03 Jan 2021 16:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15,6 +15,7 @@
 ! ----------------Allgemeine Regeln zum Blockieren von Werbung-----------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_general_block.txt ***
 &werbemittel=
+-Bannerwerbung-
 -werb_hori.
 -werb_vert.
 -werbebanner.$domain=~merkur-werbebanner.de
@@ -831,6 +832,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||nonstoppartner.net^$third-party
 ||notenpartner.de^$third-party
 ||nwave.de^$third-party
+||onlymega.com^$third-party
 ||paidlinkz.net^$third-party
 ||paidsolution.de^$third-party
 ||payclick.it^$third-party
@@ -1457,6 +1459,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||webspace.webhoster.de^$third-party
 ||weekli.de/widget-loader?$third-party
 ||werbemittel.adisfaction.de^$third-party
+||wgfreiheit.de/fileadmin/web_banner/$third-party
 ||widget.kaufda.com^$third-party
 ||widget.marktjagd.de^$third-party
 ||widget.s24.com^$third-party
@@ -1656,6 +1659,9 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||dreambox.info/banner/
 ||drehscheibe-online.de/ds_cms/banner/
 ||dslr-forum.de/banner.
+||dubisthalle.de/wp-content/uploads/*/loezius.png
+||dubisthalle.de/wp-content/uploads/*_300x300_
+||dubisthalle.de/wp-content/uploads/*_banner_
 ||dvd.bild.de^$subdocument
 ||dxtv.de/2spnsrs/
 ||dxtv.de/3rdspon/
@@ -3976,6 +3982,7 @@ derkleinegarten.de##.custom-inhoadd
 lounge.fm##.custom-sponsor
 mobile.de##.d-05-opromo_de
 winload.de##.darklayer
+dubisthalle.de##.dbh-widget
 3dl.tv##.ddl-mirnor-box.button[href*="="]
 3dl.tv##.ddl-mirror-box[target="blank_"]
 wetter.com##.desk-one-third a[id][href] > img[src]
