@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101031640
+! Version: 202101031648
 ! Title: EasyList Germany
-! Last modified: 03 Jan 2021 16:40 UTC
+! Last modified: 03 Jan 2021 16:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -869,6 +869,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||siyl.net^$third-party
 ||smartaffiliate.de^$third-party
 ||software-archiv.com^$third-party
+||solads.media^$third-party
 ||sparkads.ws^$third-party
 ||sparkassen-partner.de^$third-party
 ||special-sponsor.de^$third-party
@@ -4100,6 +4101,7 @@ gamestar.de##.homeContReg > .homeContRegCol1 > .elemCont > a > img
 gamestar.de##.homeContReg > .homeContRegCol1 > div[style] > a > img
 gamestar.de##.homeContRegCol3 > .elemCont + .elemCont + .elemCont + .elemCont[style="position:relative;"] + .elemCont + .elemCont > .titleHead + .article
 gamestar.de##.homeContRegCol3 > .elemCont + .elemCont + .elemCont + .elemCont[style="position:relative;"] + .elemCont[style="position: relative;"] > .titleHead + .article
+intimesrevier.com##.home_rennab
 boerse-online.de##.hsbc_homepage_topflop
 news.de##.ialayer-container
 news.de##.ialayerContainer
@@ -4142,6 +4144,7 @@ indeed.ch##.lastRow + div + div[class] > div[class]:first-child + .row
 indeed.ch##.lastRow + div + div[class] > div[class]:first-child + .row + .row
 chemnitzerfc.de##.lay_banner_teaser2
 hoh.de##.lb_skyscraper
+intimesrevier.com##.lead_rennab
 airgamer.de,auto-motor-und-sport.de,billig-flieger-vergleich.de,de.de,gamesaktuell.de,gamestar.de,gamezone.de,meteovista.de,pcgames.de,spielefilmetechnik.de,spielen.de,trailerzone.info,videogameszone.de##.leaderboard
 antenne.de,rockantenne.de##.leaderboard-wrapper
 rockpapershotgun.de##.leaderboards
@@ -4196,6 +4199,7 @@ ebay.de##.mfe-promo
 wetter.com##.middle > div[id][class]:first-child > a[href]:last-child > img[src]:first-child:last-child
 wetterspiegel.de##.mir-wallpaper-background[align="right"][style="height: 250px"]
 wetterspiegel.de##.mir-wallpaper-background[height="90"][align="right"]
+intimesrevier.com##.miragobox
 finanzen.net##.mleft-10 + .table-quotes
 myvideo.de##.mobLiveHeaderLogo
 fc.de##.mod-sponsor-icon
