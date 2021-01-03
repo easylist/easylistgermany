@@ -23,7 +23,7 @@
 @@||ad.adworx.at/crossdomain.xml$object
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
-@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=giga.de|kino.de|spielaffe.de|spieletipps.de
+@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=giga.de|spielaffe.de|spieletipps.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|gutscheindoktor.de|literatur-fast-pur.de|preismafia.com|preisvergleich.de
 @@||adback.de^$~third-party
@@ -103,7 +103,6 @@
 @@||atwola.com/crossdomain.xml$object,domain=player.nowonscreen.com
 @@||auditude.com/player/js/lib/pdk/50/1.0/AuditudePDKPlugin.js$domain=fandango.com
 @@||auditude.com/player/js/lib/plugin/1.3/aud.html5player.js$domain=fandango.com
-@@||aus.laola1.tv/realmedia/ads/adstream_sx.ads/www.laola1.at/$object
 @@||azillo.de/pages/banner/$image,~third-party
 @@||baby-walz.de^*/Affilinet/$subdocument
 @@||banner.edll-fir.de^$image
@@ -141,13 +140,11 @@
 @@||d3con.de/data1/$image,~third-party
 @@||damoh.giga.de^$script,domain=giga.de
 @@||damoh.golem.de^$script,domain=golem.de
-@@||damoh.schneevonmorgen.com^$script,domain=chip.de|giga.de|golem.de|kino.de|spieletipps.de
+@@||damoh.schneevonmorgen.com^$script,domain=chip.de|giga.de|golem.de|spieletipps.de
 @@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
 @@||de.ebayobjects.com/1ai/mobile.homepage/superteaser;$subdocument,domain=mobile.de
 @@||derstandard.at/adserver/t.gif$domain=videoservice.apa.at
-@@||devaki.ch/www/delivery/ajs.php?$script,domain=tagesanzeiger.ch
-@@||devaki.ch/www/delivery/lg.php?$image,domain=tagesanzeiger.ch
 @@||docs.google.com/viewer?url=http://goerge-markt.de/fileadmin/werbung/$subdocument,domain=goerge-markt.de
 @@||doubleclick.net/ad/kostenlosspielen.de.smartclip/$object,domain=kostenlosspielen.net
 @@||doubleclick.net/adi/bluewin.sub.de.ch/$subdocument,domain=bluewin.ch
@@ -250,7 +247,6 @@
 @@||kalaydo.de/mmo/logo/advert/$domain=kalaydo.de
 @@||klick.affiliwelt.net/klick.php?bannerid=$subdocument,domain=gutscheindoktor.de
 @@||kmelektronik.de/shop/images/advertising/$image
-@@||kurier.at^*/ac_oetags_clone.js
 @@||landwirt.com/commercials/$object
 @@||lead-alliance.net^*/advertiser/$~third-party
 @@||madamecuisine.de/detroitchicago/dayton.js$script,~third-party
@@ -290,8 +286,8 @@
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|schwaebische.de|sky.de|studis-online.de|vox.de
 @@||nutte.ch/banner_fuer_werbung/nutte_$image,domain=ameliatantra.jimdo.com
 @@||oeko-komp.de/evoAds2/
-@@||openx.net/w/1.0/acj?$script,domain=giga.de|kino.de|spielaffe.de|spieletipps.de
-@@||openx.net/w/1.0/jstag?nc=$script,domain=giga.de|kino.de|spielaffe.de|spieletipps.de
+@@||openx.net/w/1.0/acj?$script,domain=giga.de|spielaffe.de|spieletipps.de
+@@||openx.net/w/1.0/jstag?nc=$script,domain=giga.de|spielaffe.de|spieletipps.de
 @@||os1.tv/js/omsvc_externalad.js
 @@||osthessen-tv.de/werbebanner/$object
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
