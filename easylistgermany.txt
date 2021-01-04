@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101042048
+! Version: 202101042050
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 20:48 UTC
+! Last modified: 04 Jan 2021 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1855,6 +1855,9 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||linkr.top/images/rso.js
 ||linkr.top/images/ruse.js
 ||lintorfer.eu/wp-content/uploads/*/150219fleermann-300x250.jpg
+||lintorfer.eu/wp-content/uploads/*/BU-Sylvester-2020-2021-II-1024x684.jpg
+||lintorfer.eu/wp-content/uploads/*/fleermann_facebook-Kopie.jpg
+||lintorfer.eu/wp-content/uploads/*/tuslintorf_weihnachten_neu.png
 ||lintorfer.eu^*/160316sparkasse.gif
 ||lintorfer.eu^*/160329assro.jpg
 ||lintorfer.eu^*/161224leibrebelogo.jpg
