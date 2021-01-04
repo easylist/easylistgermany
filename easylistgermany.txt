@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101042149
+! Version: 202101042151
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 21:49 UTC
+! Last modified: 04 Jan 2021 21:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4029,7 +4029,7 @@ indeed.ch##.lastRow + div + div[class] > div[class]:first-child + .row + .row
 chemnitzerfc.de##.lay_banner_teaser2
 hoh.de##.lb_skyscraper
 intimesrevier.com##.lead_rennab
-airgamer.de,auto-motor-und-sport.de,billig-flieger-vergleich.de,de.de,gamesaktuell.de,gamestar.de,gamezone.de,meteovista.de,pcgames.de,spielefilmetechnik.de,spielen.de,trailerzone.info,videogameszone.de##.leaderboard
+airgamer.de,auto-motor-und-sport.de,billig-flieger-vergleich.de,boomerangtv.de,de.de,gamesaktuell.de,gamestar.de,gamezone.de,meteovista.de,pcgames.de,spielefilmetechnik.de,spielen.de,trailerzone.info,videogameszone.de##.leaderboard
 antenne.de,rockantenne.de##.leaderboard-wrapper
 rockpapershotgun.de##.leaderboards
 lkz.de##.left > .content[style="min-height:100px"]
