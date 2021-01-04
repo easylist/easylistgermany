@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101041836
+! Version: 202101041837
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 18:36 UTC
+! Last modified: 04 Jan 2021 18:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1871,6 +1871,12 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||mediaforum.ch/banner_
 ||meetingpoint-brandenburg.de/bilder/*/kunden/
 ||meetingpoint-brandenburg.de/bilder/*/werbung/
+||messweb.de/media/img/Caemax.gif
+||messweb.de/media/img/icHaus_integrate_Circuits.gif
+||messweb.de/media/img/imc_produktiv_Messen.jpg
+||messweb.de/media/img/iotmaxx_250x210.gif
+||messweb.de/media/img/Jaeger_Adwin.gif
+||messweb.de/media/img/zse_250x210.gif
 ||miba.de/bilder/banner/
 ||michas-spielmitmir.de^*/anzeige.gif
 ||mistershoplister.de/mips.php
@@ -5170,6 +5176,7 @@ t-online.de##img[width="145"][height="225"]
 fscklog.com##img[width="160"][height="160"]
 dashitradio.de,der-postillon.com,picdumps.com##img[width="160"][height="600"]
 t-online.de##img[width="209"][usemap^="#immap"]
+messweb.de##img[width="250"]
 fcschweinfurt1905.de##img[width="280"][height="160"]
 t-online.de##img[width="297"][height="465"][usemap^="#immap"]
 kraftfuttermischwerk.de##img[width="300"][height="200"]
