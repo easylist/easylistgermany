@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101041945
+! Version: 202101042015
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 19:45 UTC
+! Last modified: 04 Jan 2021 20:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2561,6 +2561,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wohnmobilforum.de/waeco.jpg
 ||wohnmobilforum.de/wasserhy.jpg
 ||wohnmobilforum.de/wget/ebay.php
+||wohnungswirtschaft-heute.de/wp-content/uploads/banner/
 ||wohnwagen.net/forum/wget/get_xml.php
 ||wolfenbuettelheute.de/platzierungen/
 ||wortfilter.de^*/4sellers.gif
@@ -3823,6 +3824,7 @@ finanzen.net##.coW[style="background-color: #009DE0;"]
 finanzen.ch##.coba_homepage_topflop
 borncity.com##.code-block-1
 borncity.com##.code-block-10
+wohnungswirtschaft-heute.de##.code-block-13
 borncity.com##.code-block-16
 borncity.com##.code-block-2
 borncity.com##.code-block-3
