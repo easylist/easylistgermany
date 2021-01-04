@@ -1,4 +1,4 @@
-.gif|$popup,domain=formel1.de|inside-handy.de|motorsport-total.com|news.de|seniorbook.de
+.gif|$popup,domain=formel1.de|inside-handy.de|news.de|seniorbook.de
 /^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=hdfilme.cc|hdfilme.cx|xcine.tv
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ||3dl.tv/redipo.php$popup
