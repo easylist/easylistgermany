@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101041739
+! Version: 202101041834
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 17:39 UTC
+! Last modified: 04 Jan 2021 18:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1872,6 +1872,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||miba.de/bilder/banner/
 ||michas-spielmitmir.de^*/anzeige.gif
 ||mistershoplister.de/mips.php
+||moonsault.de/menu/amazon_
 ||motorsport-total.com/i/banner/
 ||motorsport-total.com/i/dunlop_flash.gif
 ||motorsport-total.com/image/
@@ -2804,7 +2805,7 @@ computerbase.de###afc-box
 ariva.de###aktieImFokus
 excitingcommerce.de###alpha-inner > .module-typelist:first-child + .module-typelist
 excitingcommerce.de###alpha-inner > .module-typelist:first-child + .module-typelist + .module-typelist
-hartware.de###anzeige
+hartware.de,moonsault.de###anzeige
 tagesspiegel.de###anzeige_schnippsel
 hl-live.de###anzeiged2
 wuppertaler-rundschau.de###anzeigen_oben
