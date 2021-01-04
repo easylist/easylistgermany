@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101042015
+! Version: 202101042016
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 20:15 UTC
+! Last modified: 04 Jan 2021 20:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1644,6 +1644,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||connect.de^*/partner.js
 ||connectiv.events/wp-content/uploads/*/banner_
 ||crosswater-job-guide.com/pics/banner_
+||daily-pia.de/wp-content/uploads/*/manitu_hostedby-
 ||damoh.$media,domain=chip.de|focus.de|n-tv.de|rtl.de|rtl2.de|spiegel.de|spiegel.tv|spieletipps.de|tvnow.de|vip.de|winfuture.de
 ||dasbewegtdiewelt.de/wp-content/banner/
 ||delamar.de/wp-content/uploads/__aktionen/plakat/plakat_billb.jpg
@@ -2966,7 +2967,7 @@ matheboard.de###content_rect_div
 rund-magazin.de###contentbanner
 antenne.de###crBanner
 crn.de###crn_adbox
-fitnessrezepte.de###custom_html-3
+daily-pia.de,fitnessrezepte.de###custom_html-3
 primavera24.de###custom_html-5
 wallstreet-online.de###dbFaktor
 wallstreet-online.de###dban1
@@ -4754,6 +4755,7 @@ t-online.de##a[href^="https://www.jackpot.de/lp/"]
 pcwelt.de##a[href^="https://www.kqzyfj.com/click-"]
 trendmutti.com##a[href^="https://www.krokodeal.net/"]
 t-online.de##a[href^="https://www.lotto24.de/webshop/product/eurojackpot?partnerId="]
+daily-pia.de##a[href^="https://www.manitu.de/?partner="]
 t-online.de##a[href^="https://www.mobile.de/"][href*="utm_medium=affiliate"]
 dxtv.de##a[href^="https://www.octagon-germany.eu/"]
 hoerbuch.us##a[href^="https://www.purevpn.com/?aff="]
