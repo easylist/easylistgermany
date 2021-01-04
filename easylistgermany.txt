@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101042118
+! Version: 202101042120
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 21:18 UTC
+! Last modified: 04 Jan 2021 21:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4093,6 +4093,7 @@ motorradonline.de##.mps-banner
 jetztspielen.de##.mpu
 ebay.de##.mrec
 meinestadt.de##.ms-promo-teaser
+mtb-news.de##.mtbnewsAdBillboardContainer
 finanznachrichten.de##.nadT
 spiegel.de##.nativead
 spiegel.de##.nativead + .headline-date
@@ -4853,6 +4854,7 @@ t-online.de##div[class^="Tsshopst"]
 bild.de##div[class^="adspecial"]
 cannabis-special.com##div[class^="asa2_"]
 erbrecht-ratgeber.de##div[class^="b_336x280_"]
+mtb-news.de##div[class^="mtbnews-ad-container"]
 1fcm.de,fc-magdeburg.de##div[class^="reklame_"]
 rundschau.info##div[class^="runds-werbung-"]
 bildderfrau.de,gofeminin.de##div[class^="sas_FormatID_"]
