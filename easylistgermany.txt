@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101042151
+! Version: 202101042221
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 21:51 UTC
+! Last modified: 04 Jan 2021 22:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -324,6 +324,7 @@ _woz_banner_vote.
 ##._werbung
 ##.ad_mitte
 ##.adguru-content-html
+##.ads-anzeige
 ##.ads-artikel-contentAd-medium
 ##.ads-artikel-contentAd-top
 ##.ads_bueroklammer
@@ -3668,6 +3669,8 @@ tbv-lemgo.de##.anzeige3
 tbv-lemgo.de##.anzeige4
 energie-fachberater.de##.anzeigeRight
 ariva.de##.anzeigeText
+motorsport-total.com##.anzeige_teas_rect
+motorsport-total.com##.anzeige_teas_rect_ax
 inselradio.com,partyamt.de##.anzeigen
 diaware.de##.anzeigen_link
 unitymedia.de##.anzeigetag
