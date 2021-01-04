@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101042016
+! Version: 202101042018
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 20:16 UTC
+! Last modified: 04 Jan 2021 20:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1871,6 +1871,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Guav-Banner.png
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Pub_CPE_01.jpg
 ||mailcdn.de/w.php?$domain=mail.de
+||mainz05.de/fileadmin/_processed_/*-Sponsorenlogos_
 ||media.outnow.ch/Site/Waerbig/
 ||mediaforum.ch/banner/
 ||mediaforum.ch/banner_
@@ -4058,6 +4059,7 @@ queer.de##.listenbannerlinks
 myvideo.de##.liveHeaderSponsor
 l-iz.de##.liz_Ad_468_60
 l-iz.de##.liz_Ad_sky
+mainz05.de##.logo-footer-module
 zfans.de##.logo_rechts_mitte
 web.de##.lottoJackpot
 abendzeitung-muenchen.de##.lp_standard_rectangle
