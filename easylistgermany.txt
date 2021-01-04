@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101041943
+! Version: 202101041945
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 19:43 UTC
+! Last modified: 04 Jan 2021 19:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -82,6 +82,7 @@
 /pic/werbung/*
 /pic/werbung_
 /sidebar_werbung/*
+/sportson/ads/*
 /styles/*/werbung/*
 /styles/werbung_
 /upload/werbung/*
@@ -3369,6 +3370,7 @@ carookee.net###sm[align="right"]
 bigfm.de###smartclip-overlay
 dict.cc###snhb-listing_wide_skyscraper-0
 pornlounge.org###so_ad
+wochenblitz.com###sp-sidebar1
 wuppertaler-rundschau.de###spalte_anzeigen_links
 wuppertaler-rundschau.de###spalte_anzeigen_rechts
 museumsdienst-hamburg.de###spb
