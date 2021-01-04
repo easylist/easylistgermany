@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101041834
+! Version: 202101041835
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 18:34 UTC
+! Last modified: 04 Jan 2021 18:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -602,6 +602,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ! ---------------------------Third-party Werbeserver---------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
 ||2mdn.net^$object,third-party,domain=blick.ch|fitforfun.de|focus.de|giga.de|golem.de|helpster.de|myspass.de|netzwelt.de|sueddeutsche.de|tvtoday.de
+||4adtf.com^$third-party
 ||4rm.de^$third-party
 ||4strokemedia.com^$third-party
 ||85.114.133.62^$third-party
@@ -883,6 +884,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||td-tracker.com^$third-party
 ||textklicks.de^$third-party
 ||textswap.de^$third-party
+||tfppp.com^$third-party
 ||tip-ads.de^$third-party
 ||topiaserv.net^$third-party
 ||trabro.com^$third-party
@@ -1872,6 +1874,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||miba.de/bilder/banner/
 ||michas-spielmitmir.de^*/anzeige.gif
 ||mistershoplister.de/mips.php
+||momo-net.com/asd?
 ||moonsault.de/menu/amazon_
 ||motorsport-total.com/i/banner/
 ||motorsport-total.com/i/dunlop_flash.gif
