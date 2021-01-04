@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101042047
+! Version: 202101042048
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2021 20:47 UTC
+! Last modified: 04 Jan 2021 20:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1864,6 +1864,11 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||lintorfer.eu^*/bauconceptneu.jpg
 ||lintorfer.eu^*/simons_klein.jpg
 ||lintorfer.eu^*/Zander-Immobilien.jpg
+||lite-magazin.de/wp-content/uploads/*-Banner-
+||lite-magazin.de/wp-content/uploads/*/276x200.
+||lite-magazin.de/wp-content/uploads/*/276x220px-
+||lite-magazin.de/wp-content/uploads/*/629x220.
+||lite-magazin.de/wp-content/uploads/*_276x600-
 ||loipenpark.de/images/banners/
 ||lounge.fm^*/auto-doc.
 ||lounge.fm^*/topersatzteile.
@@ -3951,6 +3956,7 @@ airgamer.de##.fullbanner2
 raidrush.net##.funbox
 99ers.at##.fusion-builder-row-14
 fcschweinfurt1905.de##.fusion-builder-row-3
+lite-magazin.de##.g
 phpforum.de##.ga336
 sinn-frei.com##.gadline
 markt.de,preisgenau.de##.gads
@@ -4089,6 +4095,7 @@ teleboerse.de##.medrect
 heise.de##.meldung_preisvergleich
 sinn-frei.com##.menu_feat
 wasserurlaub.info##.message > .container-2.guestPost
+lite-magazin.de##.metaslider
 ebay.de##.mfe-promo
 wetter.com##.middle > div[id][class]:first-child > a[href]:last-child > img[src]:first-child:last-child
 wetterspiegel.de##.mir-wallpaper-background[align="right"][style="height: 250px"]
