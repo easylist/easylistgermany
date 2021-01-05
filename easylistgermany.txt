@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101051803
+! Version: 202101051804
 ! Title: EasyList Germany
-! Last modified: 05 Jan 2021 18:03 UTC
+! Last modified: 05 Jan 2021 18:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1905,6 +1905,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||my105.ch/fileadmin/sponsoren/
 ||n-tv.de/img/*_290_advogarant-
 ||nachrichtenamort.de/cms/wp-content/images/ANZ_
+||namibia-forum.ch/images/gsdu/
 ||netheweb.de/images/a-
 ||netheweb.de/images/trigami.png
 ||network.gofeminin.de^
@@ -3156,6 +3157,8 @@ chilly-vanilly.net###netzclubLayer
 pchilfe.org###new_sponsor
 presseecho.de###newsbanner
 wiiunews.at###newupcoming
+namibia-forum.ch###nfad-inner
+namibia-forum.ch###nfad-top
 versicherungsjournal.at,versicherungsjournal.de###norm-skyscraper-box
 versicherungsjournal.de###oben-skyscraper-box
 autoexperience.de,flugzeugforum.de,xbox-passion.de###oc24-div
@@ -3685,7 +3688,7 @@ deutschepost.de##.banner_right_resultpage_middle
 fohlen.tv##.banner_sky
 handy-player.de##.bannerbox
 boerse.de##.bannerbox_container
-112-magazin.de,highway-magazin.de,kl-aktuell.de,pc-experience.de##.bannergroup
+112-magazin.de,highway-magazin.de,kl-aktuell.de,namibia-forum.ch,pc-experience.de##.bannergroup
 itopnews.de,pinfy.de##.banners
 sportal.ch##.bannerspot
 frischauf-gp.de,rockantenne.de##.bannertop
