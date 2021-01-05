@@ -18,7 +18,7 @@
 @@||ad-ipd.sxp.smartclip.net/select?*&sz=pre&$xmlhttprequest,domain=n-tv.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
 @@||ad.71i.de/global_js/globalV6.js$domain=7tv.de
-@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|myvideo.de|n24.de|netzwelt.de|sport1.fm
+@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|myvideo.de|n24.de|sport1.fm
 @@||ad.71i.de/global_js/Sites/$script,domain=7tv.de|n24.de|sport1.fm
 @@||ad.adworx.at/crossdomain.xml$object
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
@@ -86,7 +86,6 @@
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamepro.de|gamestar.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net
-@@||ampproject.org/rtv/*/amp4ads-v*.js$domain=notebooksbilliger.de
 @@||angis-escort.com/angi/banner/$image,domain=searchx.ch
 @@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
 @@||anrdoezrs.net/click-$subdocument,domain=gutscheindoktor.de
@@ -189,7 +188,7 @@
 @@||forum.froxlor.org^*/adsense.css
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=immonet.de|kochbar.de|vip.de
-@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|guterhut.de|hardwareluxx.de|hbf-info.de|n-tv.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|zalando.de
+@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|guterhut.de|hardwareluxx.de|hbf-info.de|n-tv.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|geo.de|stern.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
@@ -199,7 +198,7 @@
 @@||g.doubleclick.net/gampad/adx?*/sparta/*&t=ad_type%3Dtoolbar%26$document,subdocument,domain=wetter.com
 @@||g.doubleclick.net/gpt/$script,domain=gofeminin.de|immonet.de|vip.de
 @@||g.doubleclick.net/gpt/pubads_$script,domain=wetter.com
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|brigitte.de|eltern.de|gala.de|geo.de|guterhut.de|hardwareluxx.de|hbf-info.de|kochbar.de|n-tv.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|stern.de|welt.de|zalando.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|brigitte.de|eltern.de|gala.de|geo.de|guterhut.de|hardwareluxx.de|hbf-info.de|kochbar.de|n-tv.de|rakuten.at|rakuten.de|rtl.de|stern.de|welt.de|zalando.de
 @@||g.doubleclick.net/pagead/js/rum.js$domain=auto-motor-und-sport.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||g.doubleclick.net/tag/js/gpt.js$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|n-tv.de
@@ -215,9 +214,9 @@
 @@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
 @@||googlesyndication.com/pagead/imgad?$image,domain=auto-motor-und-sport.de
-@@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|immonet.de|kochbar.de|notebooksbilliger.de|vip.de|zalando.de
+@@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|immonet.de|kochbar.de|vip.de|zalando.de
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
-@@||googlesyndication.com/simgad/$image,domain=kochbar.de|notebooksbilliger.de
+@@||googlesyndication.com/simgad/$image,domain=kochbar.de
 @@||googlesyndication.com/simgad/14155692645477451130$image,domain=guterhut.de
 @@||googletagservices.com/tag/js/gpt.js?$script,domain=stern.de
 @@||googlewatchblog.de/img/index-icons/$image
@@ -282,7 +281,7 @@
 @@||notebookcheck.com^$generichide
 @@||nuggad.net/bk?nuggn=$object,domain=edge.download.newmedia.nacamar.net
 @@||nuggad.net/bk?nuggn=$script,domain=podcast.de
-@@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|schwaebische.de|sky.de|studis-online.de|vox.de
+@@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|schwaebische.de|studis-online.de|vox.de
 @@||nutte.ch/banner_fuer_werbung/nutte_$image,domain=ameliatantra.jimdo.com
 @@||oeko-komp.de/evoAds2/
 @@||openx.net/w/1.0/acj?$script,domain=giga.de|spielaffe.de|spieletipps.de
@@ -367,7 +366,7 @@
 @@||smartadserver.com/call/pubi/*/(bild/*/?format=.mp4$media,domain=bild.de
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
-@@||smartadserver.com/diff/*/smartad.js$domain=derwesten.de|hoerzu.de|sky.de
+@@||smartadserver.com/diff/*/smartad.js$domain=derwesten.de|hoerzu.de
 @@||smartadserver.com/diff/251/2484653/show10.asp$script,domain=autobild.de
 @@||smartadserver.com/diff/251/pages/berlin.js$domain=welt.de
 @@||smartadserver.com/diff/251/templates/passback.js$domain=autobild.de|welt.de

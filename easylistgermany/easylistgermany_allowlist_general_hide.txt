@@ -104,7 +104,7 @@ esvkticker.sports-stream.de#@#.google_adsense
 11freunde.de,gala.de,geo.de,kochbar.de,rtl.de,vip.de#@#.gujAd
 immobilienscout24.de#@#.has-ad
 11freunde.de#@#.house-ad
-guterhut.de,notebooksbilliger.de#@#.img_ad
+guterhut.de#@#.img_ad
 hochzeitswahn.de#@#.internal-ad
 frankenlist.de#@#.item-ad
 mietmobil-fuchs.ch#@#.jquery-script-ads
@@ -139,9 +139,8 @@ notebooksbilliger.de#@#a[href^="http://googleads.g.doubleclick.net/pcs/click"]
 onvista.de#@#a[href^="http://track.adform.net/"]
 reisebine.de#@#a[href^="https://ad.doubleclick.net/"]
 gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
-notebooksbilliger.de#@#a[href^="https://googleads.g.doubleclick.net/pcs/click"]
 telekom.de#@#a[href^="https://track.adform.net/"]
 auto-motor-und-sport.de,daswetter.com,gofeminin.de,guterhut.de,hardwareluxx.de,hbf-info.de,rakuten.at,rakuten.de,wetter.com,zalando.de#@#div[id^="div-gpt-ad"]
-11freunde.de,auto-motor-und-sport.de,gofeminin.de,immonet.de,kochbar.de,notebooksbilliger.de,vip.de#@#div[id^="google_ads_iframe_"]
-11freunde.de,auto-motor-und-sport.de,guterhut.de,immonet.de,kochbar.de,notebooksbilliger.de,rtl.de,vip.de,zalando.de#@#iframe[id^="google_ads_iframe"]
+11freunde.de,auto-motor-und-sport.de,gofeminin.de,immonet.de,kochbar.de,vip.de#@#div[id^="google_ads_iframe_"]
+11freunde.de,auto-motor-und-sport.de,guterhut.de,immonet.de,kochbar.de,rtl.de,vip.de,zalando.de#@#iframe[id^="google_ads_iframe"]
 kochbar.de#@#iframe[name^="google_ads_iframe"]
