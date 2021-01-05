@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101051708
+! Version: 202101051803
 ! Title: EasyList Germany
-! Last modified: 05 Jan 2021 17:08 UTC
+! Last modified: 05 Jan 2021 18:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1071,6 +1071,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||emion-gmbh.de/banner/$third-party
 ||emoluder.com/index.php?ref=$third-party
 ||enforcer-shop.de/banner/
+||erlebnis.alsfeld.de/ifrm/*-330x200px-$third-party
 ||erotik1.de^*.php?$subdocument,third-party
 ||escortkartei.com/banner/$third-party
 ||eteleon.de/partner/$third-party,domain=~facebook.com
@@ -2518,8 +2519,10 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wp.com/nh24.de/wp-content/uploads/*/banner_
 ||wp.com/nh24.de/wp-content/uploads/*/joneleit.gif
 ||wp.com/nh24.de/wp-content/uploads/*/Joneleit_Lockdown.gif
+||wp.com/nh24.de/wp-content/uploads/*/KW-1.gif
 ||wp.com/nh24.de/wp-content/uploads/*/KW-52_53.gif
 ||wp.com/nh24.de/wp-content/uploads/*/lbh_330x240_endlos.gif
+||wp.com/nh24.de/wp-content/uploads/*/nh24_330x200_vrbank.gif
 ||wp.com/nh24.de/wp-content/uploads/*/Plag_Telefon.gif
 ||wp.com/nh24.de/wp-content/uploads/*/Siewa_20.gif
 ||wp.com/nh24.de/wp-content/uploads/*/vitos_neu_19.jpg
@@ -2902,6 +2905,7 @@ matheboard.de###content_rect_div
 rund-magazin.de###contentbanner
 antenne.de###crBanner
 crn.de###crn_adbox
+nh24.de###custom_html-2
 daily-pia.de,fitnessrezepte.de###custom_html-3
 primavera24.de###custom_html-5
 wallstreet-online.de###dbFaktor
@@ -3350,16 +3354,24 @@ boote-forum.de###td_threadstatusicon_AD + td[align="center"]
 wetter.de###teaser_hotelde_suche
 computerbild.de###teaser_right a[target="_blank"][href^="http://ww251.smartadserver.com/h/cc?imgid="]
 spieletipps.de###teaserheld-header
+nh24.de###text-11
+nh24.de###text-13
 blogprojekt.de###text-18
+nh24.de###text-2
+nh24.de###text-21
 bitcoinnews.ch###text-24
+nh24.de###text-26
 spielesnacks.de###text-27
-bitcoinnews.ch,spielesnacks.de###text-28
+bitcoinnews.ch,nh24.de,spielesnacks.de###text-28
 bitcoinnews.ch###text-29
-bitcoinnews.ch,blog-der-republik.de###text-3
+bitcoinnews.ch,blog-der-republik.de,nh24.de###text-3
 bitcoinnews.ch###text-30
 bitcoinnews.ch###text-31
 fahrzeuglackiererforum.de###text-4
+nh24.de###text-48
 tsvbodnegg.de###text-5
+nh24.de###text-54
+nh24.de###text-59
 namibia-hunter.at###text-9.footer-box
 wirtschaftslexikon.gabler.de###textBannerContainer
 fremdwort.de###thgirrennab
