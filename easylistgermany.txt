@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101071004
+! Version: 202101071005
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2021 10:04 UTC
+! Last modified: 07 Jan 2021 10:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1943,6 +1943,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||oekoportal.de/sites/default/files/pelletheizung-info.jpg
 ||oekoportal.de/sites/default/files/stromvergleich.png
 ||oekoportal.de/sites/default/files/verbraucher_eu_4.png
+||ofc.de/media/*_banner-
+||ofc.de/media/*_landing_
 ||oktoberfestportal.de/pics_banner/
 ||onepiece-tube.com/templates/Grafiken/amazon.svg
 ||onepiece-tube.com^*/amzb/
@@ -3969,6 +3971,7 @@ prozentrechner.net##.lxButton[target="_blank"]
 juedische-allgemeine.de##.magazinteaser
 hsg-gensungen-felsberg.de##.main > .inner > #ja-hl
 wunschkennzeichen.de##.main-banner
+ofc.de##.main-club-partner
 auto-online.ch##.main-leaderboard
 vienna-capitals.at##.main-sponsorlogo
 xc.dhv.de##.mainBodyTable2 > tbody > tr > td[style="vertical-align: top; padding-top: 30px; padding-right: 20px; text-align: right;"]:first-child
@@ -4237,7 +4240,7 @@ yigg.de,zeit.de##.sponsoring
 hc-erlangen.de##.sponsoring-footer
 eblogx.com##.sponsorleft
 svm-fan.net##.sponsorlogo
-bayer04.de,hcpustertal.com,svhu-frogs.de##.sponsors
+bayer04.de,hcpustertal.com,ofc.de,svhu-frogs.de##.sponsors
 tsg-hoffenheim.de##.sponsors-slider
 fcbayern.de##.sponsors-wrapper
 ssv-jahn.de##.sponsorsFull
