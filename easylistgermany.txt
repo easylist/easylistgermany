@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101070937
+! Version: 202101070949
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2021 09:37 UTC
+! Last modified: 07 Jan 2021 09:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1617,6 +1617,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||blogprojekt.de/Bilder/Profi/
 ||bluray-disc.de/images/background/
 ||boersennews.de/images/smartbroker/
+||bolzano-bozen.it/images/banner/
+||bolzano-bozen.it/images/logo/
 ||borncity.com/blog/wp-content/uploads/*/Amazon03b.jpg
 ||borncity.com/blog/wp-content/uploads/*/Book04.jpg
 ||borncity.com/blog/wp-content/uploads/*/HostEurope_
@@ -3796,6 +3798,7 @@ gload.cc##.dl2019main
 gamestar.de##.dlightboxContainerBody > div[style="color: #5D5D5D; font-size: 18px; margin: 10px 10px 10px 20px; text-align: left;"] + .standardcontent > [type="text/css"] + .articlelb > table
 cyonix.to##.dllink
 activevb.de##.dontprint[cellpadding="1"][bgcolor="#c0c0c0"][align="center"]
+bolzano-bozen.it##.dt
 vip.de##.eTeaser
 metropolico.org##.e_adv
 euractiv.de##.ea-gat-slot-wrapper
@@ -4210,7 +4213,7 @@ filme-anschauen-kostenlos.de##.spidd
 lhc-cottbus.de##.spon
 fuldaerzeitung.de##.spon_318_2_2
 ehv-aue.org##.spons_div
-europages.de,frischauf-gp.de,heise.de,sueddeutsche.de##.sponsor
+bolzano-bozen.it,europages.de,frischauf-gp.de,heise.de,sueddeutsche.de##.sponsor
 fcz.ch##.sponsor--margin
 rittnerbuam.com##.sponsor-section
 svwehen-wiesbaden.de##.sponsorLeiste
