@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101071005
+! Version: 202101071007
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2021 10:05 UTC
+! Last modified: 07 Jan 2021 10:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -450,7 +450,6 @@ _woz_banner_vote.
 ##a[href^="http://www.eis.de/index.phtml?refid="]
 ##a[href^="http://www.firstload.de/index.php?set_lang=de&log="]
 ##a[href^="http://www.sendung-now.de/tick/click.php?id="]
-##a[href^="https://wazazu.com/"]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
 ##input[onclick^="window.open('http://www.firstload.de/affiliate/"]
