@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101070958
+! Version: 202101070959
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2021 09:58 UTC
+! Last modified: 07 Jan 2021 09:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1937,6 +1937,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||notebookcheck.com/fileadmin/templates/wbg/
 ||nr-kurier.de/images/mankwetter.png
 ||nrhz.de/flyer/media/banner/
+||o-sport.de/assets/sponsors/
 ||oe-static.de/js/rmif.js
 ||oeffentlichen-dienst.de/images/banners/
 ||oekoportal.de/sites/default/files/pelletheizung-info.jpg
@@ -5272,6 +5273,7 @@ gofeminin.de#?#.af-block-native:-abp-contains(Sponsored Post)
 guenstiger.de#?#.productCard:-abp-has(div.premiumProductCaption)
 lieferheld.de#?#.restaurant-brief:-abp-has(div.restaurant__promo)
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
+o-sport.de#?#.card-body:-abp-contains(Sponsoren)
 saechsische.de#?#article,div:-abp-has( > .article-fill__section > span:-abp-contains(Anzeige))
 t-online.de#?#div[id^="T-"][onfocus^="A('zid="]:-abp-has(a:-abp-contains(Anzeige))
 wallstreet-online.de#?#.newsflash:-abp-has(span.suffix:-abp-contains(Anzeige))
