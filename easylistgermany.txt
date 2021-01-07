@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101070957
+! Version: 202101070958
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2021 09:57 UTC
+! Last modified: 07 Jan 2021 09:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3564,6 +3564,7 @@ computerbase.de##.amazon-links
 computerbase.de##.amazon-links-2
 ratgeber-hausmittel.info##.amazon-product-table
 forum.worldofplayers.de##.amazon-search
+orschlurch.net##.amazon-wrapper
 tecchannel.de##.amazonLinkButton
 gamesaktuell.de,gamezone.de,pcgames.de##.amazonTopList
 winfuture.de##.amazon_deal
