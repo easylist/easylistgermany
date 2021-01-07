@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101071003
+! Version: 202101071004
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2021 10:03 UTC
+! Last modified: 07 Jan 2021 10:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4616,7 +4616,7 @@ freenet.de##a[href^="https://ad1.adfarm1.adition.com/redi?sid="]
 anderes-wort.de,fairytail-tube.org,onepiece-tube.com##a[href^="https://amzn.to/"]
 googlewatchblog.de##a[href^="https://amzn.to/"] > img
 macwelt.de,pcwelt.de##a[href^="https://aos.prf.hn/click/"]
-4fuckr.com,gamestar.de##a[href^="https://bit.ly/"]
+4fuckr.com,gamestar.de,ofdb.de##a[href^="https://bit.ly/"]
 cannabis-special.com##a[href^="https://cannabis-special.com/linkout/"]
 chip.de##a[href^="https://click.hmavpn.com/aff_c?"]
 meintomtom.de##a[href^="https://clk.tradedoubler.com/"]
