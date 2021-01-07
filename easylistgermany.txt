@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101070953
+! Version: 202101070957
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2021 09:53 UTC
+! Last modified: 07 Jan 2021 09:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -450,6 +450,7 @@ _woz_banner_vote.
 ##a[href^="http://www.eis.de/index.phtml?refid="]
 ##a[href^="http://www.firstload.de/index.php?set_lang=de&log="]
 ##a[href^="http://www.sendung-now.de/tick/click.php?id="]
+##a[href^="https://wazazu.com/"]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
 ##input[onclick^="window.open('http://www.firstload.de/affiliate/"]
@@ -688,6 +689,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||biallo1.de^$third-party
 ||biallo2.de^$third-party
 ||biallo3.de^$third-party
+||big7.com^$third-party
 ||bitcoinpara.de^$third-party
 ||blogads.de^$third-party
 ||blogpay.eu^$third-party
@@ -1652,6 +1654,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||derkleinegarten.de/images/kiste/
 ||designtagebuch.de/wp-content/uploads/anzeigen/
 ||deutsche-versicherungsboerse.de/download/banner/
+||deutscher-sex.com/assets/img/
 ||deutschland.fm^*/leaseweb.gif
 ||dforum.net/banner/
 ||dforum.net/ebay/
@@ -4420,6 +4423,7 @@ pi-news.net##a[href$="/werbung.pdf"]
 pctipp.ch##a[href*="&utm_campaign="]
 bild.de##a[href*=".smartadserver.com/"]
 windowspro.de##a[href*="/adclick."]
+deutscher-sex.com##a[href*="/f.php?a=vpn"]
 bild.de##a[href*="/partner/"]
 emfis.de##a[href*="/uebersicht.html?tx_ricrotation_"]
 auswandererforum.de##a[href*="affiliate.php?"]
