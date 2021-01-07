@@ -204,7 +204,6 @@
 @@||g.doubleclick.net/tag/js/gpt.js$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|n-tv.de
 @@||g.doubleclick.net^*/gpt.js$script,domain=auto-motor-und-sport.de|kochbar.de
 @@||galileo.tv/js/my_ad_integration.js
-@@||games.tfag.de^$domain=fitforfun.de
 @@||general-anzeiger-bonn.de/oa/www/delivery/spcjs.php?id=*&block=$script
 @@||gmx.net^*/video-adserver-config.xml$object
 @@||go-parc-hf.de^*.php?ad=$subdocument
@@ -294,7 +293,6 @@
 @@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.at|rakuten.de
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|zalando.de
 @@||partners.webmasterplan.com/click*.asp$subdocument,domain=eule.de|gutscheindoktor.de
-@@||pc-magazin.de/js/$script,domain=pc-magazin.de
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
 @@||photo.knuddels.de/kde/ad2/$image
@@ -452,7 +450,6 @@
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
 @@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|chip.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|kleinezeitung.at|koeln.de|maxizoo.ch|meinestadt.de|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
 @@||willhaben.apa.net/mmo/logo/advert/$domain=willhaben.at
-@@||windowspro.de^$script,domain=windowspro.de
 @@||wm-druckarena.de/scripts/Werbebanner.
 @@||wn-jobs.de/search.html?adType=$xmlhttprequest
 @@||wn-markt.de/search.html?adType=$xmlhttprequest
