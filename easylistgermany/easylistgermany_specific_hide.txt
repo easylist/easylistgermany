@@ -321,7 +321,6 @@ diegrenzgaenger.lu###header-wrapper + div[class="row "]
 agriaffaires.de###header_ban
 radio-teddy.de###header_banner
 klamm.de###header_main
-paules-pc-forum.de,wardriving-forum.de###header_right_cell
 amazon.de###heroQuickPromo_feature_div
 nibelungen-kurier.de###homeDisplay
 gratissoft.de,winfuture.de###homepage_rectangle
@@ -494,6 +493,7 @@ amateurchess.com###pagenav_menu + .tborder[width="100%"][cellspacing="1"][cellpa
 amateurchess.com###pagenav_menu + .tborder[width="100%"][cellspacing="1"][cellpadding="7"][border="0"][align="center"] + br + table[border="1"] + br + table[border="1"]
 rheinforum.com###pagenav_menu + table[width="100%"][border="0"]
 climbing.de###pane-werbung
+parcello.org###parcello-mo
 fundresearch.de###partnerCentersLogoBar
 wirtschaftslexikon.gabler.de###partnerContainer
 volleyball-bundesliga.de###partnerLinks
@@ -923,7 +923,7 @@ energie-fachberater.de##.anzeigeRight
 ariva.de##.anzeigeText
 motorsport-total.com##.anzeige_teas_rect
 motorsport-total.com##.anzeige_teas_rect_ax
-inselradio.com,partyamt.de##.anzeigen
+partyamt.de##.anzeigen
 diaware.de##.anzeigen_link
 unitymedia.de##.anzeigetag
 willhaben.at##.apn-leaderboard-wrapper
@@ -1443,7 +1443,6 @@ access.de##.promotionbox
 psvita-forum.de##.psads
 lingostudy.de##.psw_banner
 suedtirolnews.it##.pub
-parcello.org##.pull-right
 heise.de##.pvg-widget
 quotenmeter.de##.qm-news-list-box
 quotenmeter.de##.qm-right-box[style="position:relative"]
@@ -1470,7 +1469,6 @@ nydus.org##.right > .widgetbox2
 stefan-niggemeier.de##.right-content > .external-content + .region-info
 stefan-niggemeier.de##.right-content > .external-content + .region-info + a > img
 narutoloads.org##.right-hand-global
-parcello.org##.right-mo
 heute.at##.rightBanner
 notebookinfo.de##.rightColumn > .block-teaser-carousel
 tarifcheck24.com##.right_anzeige
