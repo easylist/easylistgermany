@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081418
+! Version: 202101081419
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:18 UTC
+! Last modified: 08 Jan 2021 14:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3711,6 +3711,7 @@ sinn-frei.com##.gline
 nydus.org##.googl
 pkv-private-krankenversicherung.net##.google2
 tecchannel.de##.google_block
+handball-deutschland.tv,sportdeutschland.tv,tischtennis-deutschland.tv##.gothaer-sponsoring-container
 nextpit.de##.gptSlot
 wallstreet-online.de##.gspraemie
 my-homo.net##.gstsk
