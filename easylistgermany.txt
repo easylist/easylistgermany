@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081432
+! Version: 202101081433
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:32 UTC
+! Last modified: 08 Jan 2021 14:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1972,6 +1972,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pokerfirma.com^*/banner_
 ||pornohexen.com/js/a9k3jf823m4.js
 ||pornos-kostenlos.com/js/a9k3jf823m4.js
+||pragerzeitung.cz/wp-content/uploads/*_300x450px_
 ||quoka.de/cdn/qrb/91/06/66/109660691.jpg
 ||quoka.de/fif.html
 ||quoka.de/partner/$subdocument
@@ -3785,6 +3786,7 @@ immobilienscout24.de##.is24-banner
 immobilienscout24.de##.is24-map-addressContainer a[href^="//servedby.flashtalking.com/click/"]
 kochbar.de,rtl.de##.isAdVisible + .halfpage
 ariva.de,onvista.de##.isSponsored
+pragerzeitung.cz##.item-advert
 bild.de##.jetzt_aufnehmen
 kulturmanagement.net##.joboffer_banner_wrapper
 heise.de##.jobtv24
