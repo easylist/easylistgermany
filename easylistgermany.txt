@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081424
+! Version: 202101081425
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:24 UTC
+! Last modified: 08 Jan 2021 14:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1343,6 +1343,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||server.nitrado.net/img.nitrado/nitrado_$third-party
 ||server.nitrado.net/img.nitrado/nitrado_minecraft1_
 ||server4.pro/images/banner_$third-party
+||sex-box.ch/neu/ads/
 ||sexei.net/com/
 ||sexeldorado.ch/banner/$third-party
 ||shopfacer.de/images/banner/
@@ -1452,6 +1453,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||warumzahlen.de/images/banner/$third-party
 ||watchever.de^*^ifw^*^ifh^$third-party
 ||watercool.de/images/wc_banner_
+||wazazu.com/pimage/visit-x/$third-party
 ||webguidez.de/test/images/
 ||webme.com/pic/a/airbagmodul/$third-party
 ||webme.com/show.php?
