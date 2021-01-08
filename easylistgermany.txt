@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081430
+! Version: 202101081432
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:30 UTC
+! Last modified: 08 Jan 2021 14:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -660,6 +660,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||advolution.de^$third-party
 ||adwelt.com^$third-party
 ||adworx.at^$third-party
+||aff-handler.com^$third-party
 ||affiliando.com^$third-party
 ||affiliate-premium-club.com^$third-party
 ||affiliates.de^$third-party
@@ -1967,6 +1968,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pi-news.net/wp-content/uploads/ad-
 ||picdumps.com/ddeal
 ||pixelio.de/resources/widgets/clipdealer_
+||pokerfirma.com^*-banner.
+||pokerfirma.com^*/banner_
 ||pornohexen.com/js/a9k3jf823m4.js
 ||pornos-kostenlos.com/js/a9k3jf823m4.js
 ||quoka.de/cdn/qrb/91/06/66/109660691.jpg
@@ -3494,6 +3497,7 @@ magistrix.de,moviepilot.de##.banner-skyscraper
 ebay-kleinanzeigen.de##.banner-supersize
 donnerwetter.de,xaver.de##.banner-top
 immobilienscout24.de##.banner-top-placeholder
+pokerfirma.com##.banner-top-section
 outdoor-magazin.com##.banner1
 sims4ever.de##.bannerBox
 erotikforum.at##.bannerWrapper
