@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081417
+! Version: 202101081418
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:17 UTC
+! Last modified: 08 Jan 2021 14:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1976,6 +1976,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||rocketcdn.me/wp-content/uploads/*/3Dmensionals-3druckcom3.jpg$domain=3druck.com
 ||rocketcdn.me/wp-content/uploads/*/craftbot.jpg$domain=3druck.com
 ||rocketcdn.me/wp-content/uploads/*/doku-dez-2020.jpg$domain=3druck.com
+||rot-weiss-erfurt.de/pictures/Banner-
 ||rot-weiss-essen.de/fileadmin/*_Wettbasis_
 ||rot-weiss-essen.de/uploads/tx_sfbanners/
 ||rro.ch/cms/topbanner/
@@ -4047,7 +4048,7 @@ eisbaeren.de##.sponsor_wrapper
 nowtv.de,tvnow.de##.sponsorbanner
 ehrensenf.com##.sponsorcenter
 ariva.de,bento.de,macwelt.de,renego.de,zdnet.de##.sponsored
-seo-united.de##.sponsoren
+rot-weiss-erfurt.de,seo-united.de##.sponsoren
 tsv1860.de##.sponsorftr
 yigg.de,zeit.de##.sponsoring
 hc-erlangen.de##.sponsoring-footer
