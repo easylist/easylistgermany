@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081409
+! Version: 202101081412
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:09 UTC
+! Last modified: 08 Jan 2021 14:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -952,6 +952,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||24level.com/banner/$third-party
 ||251814110.rsc.cdn77.org/sources/Deutsche/
 ||62.146.108.97/banner/$third-party,domain=~arsmedium.de.ip
+||6profis.de^*/banner_
 ||6scout.de/api/clients/*/banner_$third-party
 ||85.17.77.38/*.png|$third-party
 ||88.198.13.8/publisher/$third-party,domain=~zadane.pl.or.sale-broker.com.ip
@@ -1963,6 +1964,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||redensarten-index.de/bnnr/
 ||reiseangebote.sueddeutsche.de/products/iframe/
 ||rhein-zeitung.de/cms_media/module_wb/
+||rheinforum.com^*/banner/
 ||rittnerbuam.com/images/sponsor_
 ||rocketcdn.me/wp-content/uploads/*/3Dmensionals-3druckcom3.jpg$domain=3druck.com
 ||rocketcdn.me/wp-content/uploads/*/craftbot.jpg$domain=3druck.com
