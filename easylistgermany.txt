@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081439
+! Version: 202101081440
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:39 UTC
+! Last modified: 08 Jan 2021 14:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3362,6 +3362,7 @@ diaware.de##.abcde_text
 tutorials.de##.above_body > #header + #navbar + table:last-child
 rc-network.de##.above_body:first-child + table[cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 die-schnelle-kuh.de##.abp
+salue.de##.action-item > * > .ad
 abendblatt.de,adz.ro,ak-kurier.de,alle-immobilien.ch,azonline.de,bazonline.ch,bernerzeitung.ch,bildderfrau.de,billig-flieger-vergleich.de,bos-fahrzeuge.info,computerbase.de,crn.de,derbund.ch,echo-online.de,erf.de,glamour.de,gmx.net,gq-magazin.de,hardwareclips.com,inside-handy.de,ircgalerie.net,juedische-allgemeine.de,kalenderwoche.net,klassikradio.de,macwelt.de,mann.tv,metager.de,modhoster.de,newscomm.de,nordbayerischer-kurier.de,oberhessische-zeitung.de,pcwelt.de,pfaffenhofen-today.de,phonostar.de,podcast.de,prisma.de,radiokoeln.de,raidrush.org,rhein-neckar-loewen.de,sachsen-fernsehen.de,shopbetreiber-blog.de,spektrum.de,stadtradio-goettingen.de,sueddeutsche.de,suite101.de,wallstreet-online.de,web.de,wissen.de,wn.de,yellingnews.com,zeit.de##.ad
 ak-kurier.de##.ad + #flashContent
 ak-kurier.de##.ad + .tdt
@@ -3487,7 +3488,7 @@ hsc2000.de##.avia-slideshow-1
 amazon.de##.aw-campaigns
 alternative-zu.de##.azuitem_googleAdSense
 walliserbote.ch##.ban-img
-1000ps.at,1001spiele.de,absolutradio.de,absolutrelax.de,anixehd.tv,antenne.de,bsdforen.de,buchmarkt.de,dbna.de,emfis.de,giga.de,goolive.de,hc-erlangen-ev.de,hcb.net,jetztspielen.de,juve.de,kle-point.de,komoedie-steinstrasse.de,macerkopf.de,modhoster.de,naturundtherapie.at,pfaffenhofen-today.de,pixelio.de,produkt.at,sgbbm.de,sonntagszeitung.ch,spielkarussell.de,sunshine-live.de,talkteria.de,tu-berlin.de,voltigierzirkel.de,wein-plus.de,zmk-aktuell.de##.banner
+1000ps.at,1001spiele.de,absolutradio.de,absolutrelax.de,anixehd.tv,antenne.de,bsdforen.de,buchmarkt.de,dbna.de,emfis.de,giga.de,goolive.de,hc-erlangen-ev.de,hcb.net,jetztspielen.de,juve.de,kle-point.de,komoedie-steinstrasse.de,macerkopf.de,modhoster.de,naturundtherapie.at,pfaffenhofen-today.de,pixelio.de,produkt.at,salue.de,sgbbm.de,sonntagszeitung.ch,spielkarussell.de,sunshine-live.de,talkteria.de,tu-berlin.de,voltigierzirkel.de,wein-plus.de,zmk-aktuell.de##.banner
 ebay.de##.banner-billboard
 com-magazin.de##.banner-content
 wochenblatt.cc##.banner-header-left
