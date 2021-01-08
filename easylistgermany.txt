@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081423
+! Version: 202101081424
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:23 UTC
+! Last modified: 08 Jan 2021 14:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1826,6 +1826,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||homepage-anleitung.de/wp-content/uploads/*/gsl_b_sky.jpg
 ||horseweb.de/wp-content/uploads/*/Spuckschutz-Glaskeil.jpg
 ||horseweb.de/wp-content/uploads/*/stx-germany.jpg
+||hottime.ch/images/Banner/
 ||hsg-wetzlar.de/fileadmin/media/business/sponsoren/
 ||hsgnordhorn-lingen.de/images/spon_
 ||hsvhandball.com/wp-content/uploads/*/1_AOK.png
@@ -3465,6 +3466,7 @@ sport.de##.artikelrectangel
 neue-braunschweiger.de##.as-frame-center
 apfeleimer.de##.asa1_fbh
 playm.de##.asa_async_container
+hottime.ch##.asideBoxB
 sachsen-fernsehen.de##.asidebar
 spiegel.de##.asset-affiliatebox
 hsc2000.de##.av-partner-fake-img
@@ -3689,6 +3691,7 @@ tvinfo.de##.floatLeft[style="padding:10px;"]
 one2stream.com##.floater
 computerwissen.de##.floater[style="display: block;"]
 hoerzu.de##.footer-banner-program
+hottime.ch##.footer-grey
 ecrbs.redbulls.com,fussball.de##.footer-partner
 tchgdns.de##.footer-pub
 scene-gamers.g-portal.de##.footer-widget
