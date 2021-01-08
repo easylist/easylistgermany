@@ -147,7 +147,6 @@
 @@||doubleclick.net/ad/kostenlosspielen.de.smartclip/$object,domain=kostenlosspielen.net
 @@||doubleclick.net/adi/bluewin.sub.de.ch/$subdocument,domain=bluewin.ch
 @@||doubleclick.net/adj/*;sz=1x2;$script,domain=moviemaze.de
-@@||doubleclick.net/adj/oms.szon.de/homepage;oms=homepage;*;sz=10x10;$script,domain=schwaebische.de
 @@||doubleclick.net/adj/wilmaa.ch/$object,domain=wilmaa.com
 @@||doubleclick.net/ddm/pfadx/N1203.IPNetzwerk/*;sz=0x0;*;dc_rfl=0,https%3A%2F%2Fevent.mivitec.net$xmlhttprequest,domain=imasdk.googleapis.com
 @@||doubleclick.net^*/ad/nacamar.ads.de.smartclip/$xmlhttprequest,domain=freestream.nmdn.net
@@ -279,7 +278,7 @@
 @@||notebookcheck.com^$generichide
 @@||nuggad.net/bk?nuggn=$object,domain=edge.download.newmedia.nacamar.net
 @@||nuggad.net/bk?nuggn=$script,domain=podcast.de
-@@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|schwaebische.de|studis-online.de|vox.de
+@@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|studis-online.de|vox.de
 @@||nutte.ch/banner_fuer_werbung/nutte_$image,domain=ameliatantra.jimdo.com
 @@||oeko-komp.de/evoAds2/
 @@||openx.net/w/1.0/acj?$script,domain=giga.de|spielaffe.de|spieletipps.de
