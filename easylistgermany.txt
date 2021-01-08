@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081438
+! Version: 202101081439
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:38 UTC
+! Last modified: 08 Jan 2021 14:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1999,6 +1999,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||rot-weiss-essen.de/fileadmin/*_Wettbasis_
 ||rot-weiss-essen.de/uploads/tx_sfbanners/
 ||rro.ch/cms/topbanner/
+||ruhrbarone.de^*/bang.gif
 ||russland.capital/wp-content/uploads/*/CeMAT20.gif
 ||russland.news/wp-content/uploads/*/futur2-banner.png
 ||s24.com^$domain=quoka.de
@@ -4457,7 +4458,7 @@ ariva.de,wallstreet-online.de##a[href^="https://smartbroker.de/?utm_source="]
 wallstreet-online.de##a[href^="https://smartbroker.de/sparplan/?utm_source="]
 t-online.de##a[href^="https://track.adform.net/C/?bn="]
 spiele-umsonst.de##a[href^="https://wgaffiliate.com/?a="]
-bildschirmarbeiter.com,nickles.de,onepiece-tube.com,pi-news.net,wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
+bildschirmarbeiter.com,nickles.de,onepiece-tube.com,pi-news.net,ruhrbarone.de,wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
 16bars.de,chip.de,pcwelt.de##a[href^="https://www.amazon.de/"][href*="&tag="]
 gamiano.de,naruto-tube.org##a[href^="https://www.amazon.de/"][href*="?tag="]
 pcwelt.de##a[href^="https://www.amazon.de/gp/angebote/"]
