@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081437
+! Version: 202101081438
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:37 UTC
+! Last modified: 08 Jan 2021 14:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2763,7 +2763,7 @@ winfuture.de###comments_box > div[style="height:60px;margin-top:1.3em;"]
 rp-online.de###container > div[style="position:absolute;top:9px;left:9px;"]:first-child
 spielen.com###container > iframe + #overlay
 spielen.com###container > iframe + #overlay + #overlay_bg
-dtoday.de,goslarsche.de,lkz.de,mittelhessen.de,neckar-chronik.de,pz-news.de,schwaebische.de,tagblatt.de,weser-kurier.de###container_banner
+dtoday.de,goslarsche.de,lkz.de,mittelhessen.de,neckar-chronik.de,pz-news.de,schwaebische.de,tagblatt.de,tageblatt.de,weser-kurier.de###container_banner
 tageblatt.de###container_banner_medium
 goslarsche.de,schwaebische.de,szon.de,tagblatt.de,teckbote.de###container_banner_wallpaper
 schwaebische.de###container_banner_wallpaper_placeholder
