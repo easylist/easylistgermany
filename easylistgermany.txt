@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101081416
+! Version: 202101081417
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2021 14:16 UTC
+! Last modified: 08 Jan 2021 14:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1705,6 +1705,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||fairytail-tube.org^*/amz/
 ||fairytail-tube.org^*/amzb2/
 ||faz.net/f6/ad/
+||fc-carlzeiss-jena.de/fileadmin/fcc-daten/*-partner-
+||fc-carlzeiss-jena.de/fileadmin/images/sponsoren/
 ||fck.de^*/partner_
 ||fcz.ch/media/images/*/994x250px-
 ||feierabend.de/gta/
