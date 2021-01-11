@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101102008
+! Version: 202101110921
 ! Title: EasyList Germany
-! Last modified: 10 Jan 2021 20:08 UTC
+! Last modified: 11 Jan 2021 09:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2002,6 +2002,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sapi.edelight.biz/api/$domain=gala.de
 ||sat-erotik.de/videot.gif
 ||schnittberichte.com^*/werbung/
+||selbstaendig-im-netz.de/Bilder/affiliate-banner/
+||selbstaendig-im-netz.de/Bilder/Profi/
 ||sensor-test.de/assets/Banner/
 ||seo-united.de/images/sponsoren_
 ||sevac.com/images/bmain-
@@ -3187,6 +3189,7 @@ jobanova.de###top_afs_container
 allround-pc.com###top_banner
 hcgherdeina.com###top_sponsor_inner
 wintotal.de###topads
+selbstaendig-im-netz.de###topb
 bitsundso.de###topbanner
 willhaben.at###topbanners
 dotnetpro.de###topbar
@@ -3942,6 +3945,8 @@ sport.sky.de##.sdc-site-au__leaderboard
 hotfrog.at,hotfrog.ch,hotfrog.de##.search-middle-adblock
 mittelhessen.de##.sebo_advert
 regensburg-digital.de##.seitenanzeige
+selbstaendig-im-netz.de##.selbs-blog-startseite-und-kategorien
+selbstaendig-im-netz.de##.selbs-unter-artikeln
 bild.de##.servicelinks
 hoerzu.de##.shades-of-grey-banner
 wallstreet-online.de##.shareInFocus
@@ -4048,6 +4053,7 @@ berlin.de##.t_a_vert
 berlinonline.de##.t_special
 n-tv.de##.table-cellwidth-220 > .table-row > .table-cell > .teaser-220
 duden.de##.tabloid__side-column-top
+selbstaendig-im-netz.de##.tad1
 golem.de##.tags
 verivox.de##.tarif-tipp
 rheintaler.ch##.tbrposthtml
