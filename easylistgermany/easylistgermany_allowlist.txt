@@ -107,7 +107,6 @@
 @@||banner.electronic-arts.de/www/images/*.jpg$domain=ea.com
 @@||banner.t-online.de/?advideo/*;vidas=pre_roll;$object,domain=iam.t-online.de|mahjonggwelt.de
 @@||banner.t-online.de/crossdomain.xml$object,domain=mahjonggwelt.de
-@@||banners.webmasterplan.com/view.asp?ref=$image,domain=sms-box.de
 @@||banners.webmasterplan.com/view.asp?ref=*&site=10830&$script
 @@||banners.webmasterplan.com/view.asp?ref=*&site=15264&$script
 @@||bauer-plus.de^*?advertiser=$subdocument,domain=abosgratis.de
@@ -231,7 +230,6 @@
 @@||imasdk.googleapis.com/js/core/bridge$document,subdocument,domain=welect.de
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=heise.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=atv.at|chip.de|event.mivitec.net|musikexpress.de|rollingstone.de|welect.de
-@@||impde.tradedoubler.com/imp?type(img)$image,domain=sms-box.de|smsgott.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||insel-usedom-wollin.de/ads/$script,stylesheet
 @@||interhome.at/javascript/ad-gallery.js
@@ -381,7 +379,6 @@
 @@||softwareload.kpcustomer.de/voting/public/flash/300x250_widget_$object
 @@||sparfoto.de/article_designer/ad.php?$object
 @@||spielen.de/bundles/mediatrustfrontend/js/javascript.js?
-@@||spielesite.com^$script,domain=spielesite.com
 @@||spielkarussell.de^*/ads_loader_new.js
 @@||sport.de/autoimg/*/300x250/$image,~third-party
 @@||sport1.fm/ad/my_ad_iframe.html?ad_id=performance*&start=$subdocument
