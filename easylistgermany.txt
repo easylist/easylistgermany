@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101110934
+! Version: 202101110936
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2021 09:34 UTC
+! Last modified: 11 Jan 2021 09:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4427,6 +4427,7 @@ chip.de##a[href^="https://www.expertiger.de/partner/"]
 t-online.de##a[href^="https://www.jackpot.de/lp/"]
 pcwelt.de##a[href^="https://www.kqzyfj.com/click-"]
 trendmutti.com##a[href^="https://www.krokodeal.net/"]
+schwedenstube.de##a[href^="https://www.lead-alliance.net/tc.php"]
 t-online.de##a[href^="https://www.lotto24.de/webshop/product/eurojackpot?partnerId="]
 daily-pia.de##a[href^="https://www.manitu.de/?partner="]
 t-online.de##a[href^="https://www.mobile.de/"][href*="utm_medium=affiliate"]
