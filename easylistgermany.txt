@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101110923
+! Version: 202101110925
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2021 09:23 UTC
+! Last modified: 11 Jan 2021 09:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2010,6 +2010,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sexeldorado.ch/banner/
 ||sexgeschichten.com/kosmonaut/
 ||sexuria.com/poup.js
+||sg-flensburg-handewitt.de^*/Online_Banner/
+||sg-flensburg-handewitt.de^*/Sponsors/
 ||sgleutershausen.de/wp-content/uploads/*/bwt-logo-neu.jpg
 ||shopanbieter.de/SponsorLogos/
 ||silbernews.com^*/banner/
@@ -3445,6 +3447,7 @@ immobilienscout24.de##.banner-top-placeholder
 pokerfirma.com##.banner-top-section
 outdoor-magazin.com##.banner1
 sims4ever.de##.bannerBox
+sg-flensburg-handewitt.de##.bannerWrap
 erotikforum.at##.bannerWrapper
 radio24.ch##.banner[style="height:90px;text-align:center;background:none;"]
 sexgeschichten.com##.banner_120x240
@@ -4024,6 +4027,7 @@ hc-erlangen.de##.sponsoring-footer
 eblogx.com##.sponsorleft
 svm-fan.net##.sponsorlogo
 bayer04.de,hcpustertal.com,ofc.de,svhu-frogs.de##.sponsors
+sg-flensburg-handewitt.de##.sponsors-col
 tsg-hoffenheim.de##.sponsors-slider
 fcbayern.de##.sponsors-wrapper
 ssv-jahn.de##.sponsorsFull
