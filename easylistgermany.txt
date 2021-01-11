@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101110926
+! Version: 202101110928
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2021 09:26 UTC
+! Last modified: 11 Jan 2021 09:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2384,6 +2384,17 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||x.technic3d.biz^
 ||xdate.ch/banners/
 ||xlust.ch/banner/
+||xmassagen.ch/banner/
+||xmassagen.ch/wp-content/uploads/*/beauty-latinas-1.jpg
+||xmassagen.ch/wp-content/uploads/*/immolady.jpg
+||xmassagen.ch/wp-content/uploads/*/m27a.png
+||xmassagen.ch/wp-content/uploads/*/ohlala.jpg
+||xmassagen.ch/wp-content/uploads/*/swiss6.jpg
+||xmassagen.ch/wp-content/uploads/*/vida6.jpg
+||xmassagen.ch/wp-content/uploads/*/villa-venus.jpg
+||xmassagen.ch/wp-content/uploads/*/xm.jpg
+||xmassagen.ch/wp-content/uploads/*/xmassagen.jpg
+||xmassagen.ch/wp-content/uploads/*/z6.jpg
 ||xn--zri6-0ra.ch/banner/
 ||xup.in/com/pop.
 ||yasni.de^*/partner/
