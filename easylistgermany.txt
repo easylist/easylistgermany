@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101121510
+! Version: 202101121513
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 15:10 UTC
+! Last modified: 12 Jan 2021 15:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2000,6 +2000,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||schule-studium.de/buhv-Unterrichtsmaterial/Banner/
 ||schule-studium.de/images/Head-Dateien-jpgs/Thalia-Startseite.jpg
 ||scm-handball.de^*/Sponsoren/
+||searchx.ch/img/customerupload/banner/
 ||selbstaendig-im-netz.de/Bilder/affiliate-banner/
 ||selbstaendig-im-netz.de/Bilder/Profi/
 ||sensor-test.de/assets/Banner/
@@ -4132,6 +4133,7 @@ arcor.de##a[href^="https://zuhauseplus.vodafone.de/"] > img
 angesagter.de##a[href^="out.php?bid="]
 sinn-frei.com##a[href^="out2_"]
 maxrev.de##a[href^="redirect,banner_id,"]
+searchx.ch##a[name="banner"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=")"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=");"] > img[src^="/"]
 wallstreet-online.de##a[onclick*="'tableAd'"]
