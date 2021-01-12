@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101120931
+! Version: 202101120932
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 09:31 UTC
+! Last modified: 12 Jan 2021 09:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2060,6 +2060,9 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||svs-passau.de/wp-content/uploads/*/wimmer-1.png
 ||svs-passau.de/wp-content/uploads/*/wolfgang-1.png
 ||svs-passau.de/wp-content/uploads/*/wolfhaus-3.png
+||svs1916.de/fileadmin/_processed_/*_Footer_
+||svs1916.de/fileadmin/svs1916de/footer_Logos/
+||svs1916.de/fileadmin/user_upload/sky_
 ||swz.it^*/pichler.gif
 ||swz.it^*_Webbanner_
 ||synchronkartei.de/img/ext/
@@ -3264,7 +3267,7 @@ hsc2000.de##.avia-slideshow-1
 amazon.de##.aw-campaigns
 alternative-zu.de##.azuitem_googleAdSense
 walliserbote.ch##.ban-img
-1000ps.at,1001spiele.de,absolutradio.de,absolutrelax.de,anixehd.tv,antenne.de,bsdforen.de,buchmarkt.de,dbna.de,emfis.de,giga.de,goolive.de,hc-erlangen-ev.de,hcb.net,jetztspielen.de,juve.de,kle-point.de,komoedie-steinstrasse.de,macerkopf.de,modhoster.de,naturundtherapie.at,pfaffenhofen-today.de,pixelio.de,produkt.at,salue.de,sgbbm.de,sonntagszeitung.ch,spielkarussell.de,sunshine-live.de,talkteria.de,tu-berlin.de,voltigierzirkel.de,wein-plus.de,zmk-aktuell.de##.banner
+1000ps.at,1001spiele.de,absolutradio.de,absolutrelax.de,anixehd.tv,antenne.de,bsdforen.de,buchmarkt.de,dbna.de,emfis.de,giga.de,goolive.de,hc-erlangen-ev.de,hcb.net,jetztspielen.de,juve.de,kle-point.de,komoedie-steinstrasse.de,macerkopf.de,modhoster.de,naturundtherapie.at,pfaffenhofen-today.de,pixelio.de,produkt.at,salue.de,sgbbm.de,sonntagszeitung.ch,spielkarussell.de,sunshine-live.de,svs1916.de,talkteria.de,tu-berlin.de,voltigierzirkel.de,wein-plus.de,zmk-aktuell.de##.banner
 ebay.de##.banner-billboard
 wochenblatt.cc##.banner-header-left
 wochenblatt.cc##.banner-header-right
