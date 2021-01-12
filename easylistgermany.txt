@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101120953
+! Version: 202101120955
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 09:53 UTC
+! Last modified: 12 Jan 2021 09:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2050,6 +2050,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||stadt-bremerhaven.de^*/psw.jpg
 ||stadtradio-goettingen.de/apool/srg/content/ads
 ||static-fra.de/wetterv3/css/images/map/icons/knorr.png$domain=wetter.de
+||stb-web.de/content/images/banner/
 ||stern.de/bilder/stern_5/allgemein/extras_vermarktet/
 ||stream-oase.tv/images/banners/
 ||suche.1und1.de/uns/affilinet?$xmlhttprequest
@@ -3269,7 +3270,7 @@ pcwelt.de##.amazonteaser
 fairytail-tube.org,gamepro.de,gamestar.de##.amz
 andreziegler.de##.amz_main
 winfuture.de##.amzwgt
-112-magazin.de,bauexpertenforum.de,biallo.de,gesetzlichekrankenkassen.de,heise.de,juedische-allgemeine.de,lehrerfreund.de,medizin-netz.de,moviejones.de,nwzonline.de,oktoberfestportal.de,projektmagazin.de,rtl.de,slashcam.de,sportal.de,telemedicus.info,tweakpc.de,vhs-ol.de,wetter.com,winboard.org,zeit.de##.anzeige
+112-magazin.de,bauexpertenforum.de,biallo.de,gesetzlichekrankenkassen.de,heise.de,juedische-allgemeine.de,lehrerfreund.de,medizin-netz.de,moviejones.de,nwzonline.de,oktoberfestportal.de,projektmagazin.de,rtl.de,slashcam.de,sportal.de,stb-web.de,telemedicus.info,tweakpc.de,vhs-ol.de,wetter.com,winboard.org,zeit.de##.anzeige
 designtagebuch.de##.anzeige-links
 designtagebuch.de##.anzeige-mittig
 tbv-lemgo.de##.anzeige2
