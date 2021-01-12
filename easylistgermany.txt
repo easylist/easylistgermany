@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101121534
+! Version: 202101121535
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 15:34 UTC
+! Last modified: 12 Jan 2021 15:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3242,6 +3242,8 @@ deutschepost.de##.banner_right_resultpage_middle
 fohlen.tv##.banner_sky
 handy-player.de##.bannerbox
 boerse.de##.bannerbox_container
+xxxjob.ch##.bannerboxlinks-klein
+xxxjob.ch##.bannerboxrechts
 112-magazin.de,highway-magazin.de,kl-aktuell.de,namibia-forum.ch,pc-experience.de,spielbox.de##.bannergroup
 itopnews.de,pinfy.de##.banners
 sportal.ch##.bannerspot
