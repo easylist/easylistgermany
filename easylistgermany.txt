@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101121517
+! Version: 202101121518
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 15:17 UTC
+! Last modified: 12 Jan 2021 15:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1626,6 +1626,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||cathkathcatt.ch^*/banner_
 ||cgames.de/images/*/metro-countdown-$domain=gamepro.de|gamestar.de
 ||cgames.de/images/*/promobox-$domain=gamestar.de
+||cherry.ch/images/banner/
 ||china.ahk.de/uploads/tx_bannermanagement/
 ||chip.de/embed/bc10.js
 ||chip.de/hphdas2/
@@ -3213,7 +3214,8 @@ immobilienscout24.de##.banner-top-placeholder
 pokerfirma.com##.banner-top-section
 outdoor-magazin.com##.banner1
 sims4ever.de##.bannerBox
-lust24.ch##.bannerListPremium
+cherry.ch,lust24.ch##.bannerListPremium
+cherry.ch##.bannerListPremiumTop
 sg-flensburg-handewitt.de##.bannerWrap
 erotikforum.at##.bannerWrapper
 radio24.ch##.banner[style="height:90px;text-align:center;background:none;"]
