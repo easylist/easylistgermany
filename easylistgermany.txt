@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101120957
+! Version: 202101120958
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 09:57 UTC
+! Last modified: 12 Jan 2021 09:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4079,7 +4079,7 @@ t-online.de##a[data-url^="http://m.exactag.com/"]
 t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bild.de##a[href*=".smartadserver.com/"]
 deutscher-sex.com##a[href*="/f.php?a=vpn"]
-supertipp-online.de##a[href*="/linkout/"]
+cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
 bild.de##a[href*="/partner/"]
 emfis.de##a[href*="/uebersicht.html?tx_ricrotation_"]
 auswandererforum.de##a[href*="affiliate.php?"]
@@ -4244,7 +4244,6 @@ anderes-wort.de,fairytail-tube.org,onepiece-tube.com,picdumps.com##a[href^="http
 googlewatchblog.de##a[href^="https://amzn.to/"] > img
 macwelt.de,pcwelt.de##a[href^="https://aos.prf.hn/click/"]
 4fuckr.com,gamestar.de,ofdb.de,picdumps.com##a[href^="https://bit.ly/"]
-cannabis-special.com##a[href^="https://cannabis-special.com/linkout/"]
 chip.de##a[href^="https://click.hmavpn.com/aff_c?"]
 meintomtom.de##a[href^="https://clk.tradedoubler.com/"]
 t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
