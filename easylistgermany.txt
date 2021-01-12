@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101120945
+! Version: 202101120947
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 09:45 UTC
+! Last modified: 12 Jan 2021 09:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2028,6 +2028,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||speedtorrent.com/usenet/
 ||spiegel.de/gutenb/img/hoeflich-schokolade.gif
 ||spiegel.de/gutenb/img/HuH-Banner.gif
+||spielbox.de/images/banners/
 ||spiele-for-free.de/wp-content/uploads/*_1920x1200_$domain=spiele-for-free.de
 ||spielesnacks.de/wp-content/uploads/*-wallpaper.jpg
 ||spielesnacks.de/wp-content/uploads/*/Banner-
@@ -3329,7 +3330,7 @@ deutschepost.de##.banner_right_resultpage_middle
 fohlen.tv##.banner_sky
 handy-player.de##.bannerbox
 boerse.de##.bannerbox_container
-112-magazin.de,highway-magazin.de,kl-aktuell.de,namibia-forum.ch,pc-experience.de##.bannergroup
+112-magazin.de,highway-magazin.de,kl-aktuell.de,namibia-forum.ch,pc-experience.de,spielbox.de##.bannergroup
 itopnews.de,pinfy.de##.banners
 sportal.ch##.bannerspot
 frischauf-gp.de,rockantenne.de##.bannertop
