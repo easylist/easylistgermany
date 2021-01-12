@@ -1,5 +1,5 @@
 .gif|$popup,domain=formel1.de|inside-handy.de|news.de|seniorbook.de
-/^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=hdfilme.cc|hdfilme.cx|xcine.tv
+/^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=hdfilme.cx
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ||3dl.tv/redipo.php$popup
 ||4fuckr.com/api.php$popup
@@ -30,4 +30,3 @@
 ||usenext.de^$popup,domain=5vor12.de
 ||williamhill.com^$popup,domain=trailerzone.info
 ||williamhillcasino.com^$popup,domain=trailerzone.info
-||yasni.de/ad_pop.php$popup
