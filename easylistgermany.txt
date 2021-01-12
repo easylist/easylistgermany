@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101120947
+! Version: 202101120948
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 09:47 UTC
+! Last modified: 12 Jan 2021 09:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2030,6 +2030,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||spiegel.de/gutenb/img/HuH-Banner.gif
 ||spielbox.de/images/banners/
 ||spiele-for-free.de/wp-content/uploads/*_1920x1200_$domain=spiele-for-free.de
+||spielesite.com/am/$subdocument
 ||spielesnacks.de/wp-content/uploads/*-wallpaper.jpg
 ||spielesnacks.de/wp-content/uploads/*/Banner-
 ||spielesnacks.de/wp-content/uploads/*/banner.
@@ -2459,6 +2460,7 @@ ww3.cad.de###WzTtDiV + table[width="100%"][border="0"]
 woxikon.de###aContentBottom2
 abacho.de###abacho_leader
 abacho.de###abacho_sky
+spielesite.com###acTop
 myboerse.bz,thinkpad-forum.de###ad_global_below_navbar
 fem.com###add_square
 verkehrsmittelvergleich.de###adhs
