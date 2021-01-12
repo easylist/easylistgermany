@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101120933
+! Version: 202101120934
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 09:33 UTC
+! Last modified: 12 Jan 2021 09:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2018,6 +2018,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sgleutershausen.de/wp-content/uploads/*/bwt-logo-neu.jpg
 ||shopanbieter.de/SponsorLogos/
 ||silbernews.com^*/banner/
+||simnews.de/images/omsi_ad.jpg
+||simnews.de/img/werbung_
 ||sissymag.de/wp-content/uploads/*/ottinger_salzgeber_club_1.jpg
 ||sissymag.de/wp-content/uploads/*/qfn01-
 ||sissymag.de/wp-content/uploads/*/tanzten_kaufen.jpg
@@ -3978,6 +3980,7 @@ diefussballecke.de##.werbe_eigen_rahmen
 eastcomp.de##.werbehinweis + table
 fernsehserien.de##.werbemittel
 sportnews.bz##.werbenbox
+simnews.de##.werbung_728
 webfail.com##.wf-sidebox + div > a > img
 winfuture-forum.de##.wf_gcsi
 forum.winload.de##.wgo_block
