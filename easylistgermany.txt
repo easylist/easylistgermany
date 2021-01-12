@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101121504
+! Version: 202101121510
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 15:04 UTC
+! Last modified: 12 Jan 2021 15:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1178,6 +1178,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||logiprint.com/partner/$third-party
 ||lotto24.de/?partner=$subdocument,third-party
 ||lpsoldier.de/banner_$third-party
+||lustgate.org/images/cbanner/$third-party
 ||mafia-banner.myftp.org^
 ||mafia-losebank.de/bilder/banner
 ||marketing.gamesload.de^$third-party
@@ -1875,6 +1876,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||loipenpark.de/images/banners/
 ||lounge.fm^*/auto-doc.
 ||lounge.fm^*/topersatzteile.
+||lust24.ch/images/banner/
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Elecars_Weblink_bouton.jpg
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Guav-Banner.png
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Pub_CPE_01.jpg
@@ -2964,6 +2966,7 @@ bluray-disc.de###top-angebote-box
 fnweb.de###top-bannerrow
 1001spiele.de,php-resource.de###topBanner
 sm.de###topBlock
+lust24.ch###topCustomers
 suchen.de###topPPC
 kreisanzeiger-online.de###top_ad_topb
 wavetv.de###top_advertisement
@@ -3208,6 +3211,7 @@ immobilienscout24.de##.banner-top-placeholder
 pokerfirma.com##.banner-top-section
 outdoor-magazin.com##.banner1
 sims4ever.de##.bannerBox
+lust24.ch##.bannerListPremium
 sg-flensburg-handewitt.de##.bannerWrap
 erotikforum.at##.bannerWrapper
 radio24.ch##.banner[style="height:90px;text-align:center;background:none;"]
