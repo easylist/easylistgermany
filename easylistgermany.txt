@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101121528
+! Version: 202101121531
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 15:28 UTC
+! Last modified: 12 Jan 2021 15:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1690,6 +1690,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||englische-briefe.de/images/email-english-flashbooks.jpg
 ||englische-briefe.de/images/gummibaerchen-at-
 ||erotikforum.at/data/siropu/
+||erotikinserate.ch/banner/
 ||etcg.de/images/sponsoren/
 ||etcg.de/sponsor/
 ||evz.ch/fileadmin/EVZ/Sponsoren/
@@ -3486,6 +3487,7 @@ heise.de##.img-ad
 derwesten.de##.img[href^="http://www.albelli.de/angebote/"]
 autoline-eu.at,autoline-eu.ch,autoline.de##.index-center-banners-1
 autoline-eu.at,autoline-eu.ch,autoline.de##.index-main-banners
+erotikinserate.ch##.inner
 hcelb.de##.intpartner
 verkehrsportal.de##.ipbtable .catend
 sueddeutsche.de##.iqad
