@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101120932
+! Version: 202101120933
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 09:32 UTC
+! Last modified: 12 Jan 2021 09:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -450,6 +450,7 @@ _woz_banner_vote.
 ##a[href^="http://www.eis.de/index.phtml?refid="]
 ##a[href^="http://www.firstload.de/index.php?set_lang=de&log="]
 ##a[href^="http://www.sendung-now.de/tick/click.php?id="]
+##a[href^="https://ads.sunmaker.com/tracking.php?"]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
 ##input[onclick^="window.open('http://www.firstload.de/affiliate/"]
@@ -2063,6 +2064,9 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||svs1916.de/fileadmin/_processed_/*_Footer_
 ||svs1916.de/fileadmin/svs1916de/footer_Logos/
 ||svs1916.de/fileadmin/user_upload/sky_
+||svww.de/fileadmin/media/*-970x250.jpg
+||svww.de/fileadmin/media/*-banner.jpg
+||svww.de/fileadmin/media/Sponsoren/
 ||swz.it^*/pichler.gif
 ||swz.it^*_Webbanner_
 ||synchronkartei.de/img/ext/
@@ -3833,7 +3837,7 @@ filme-anschauen-kostenlos.de##.spidd
 lhc-cottbus.de##.spon
 fuldaerzeitung.de##.spon_318_2_2
 ehv-aue.org##.spons_div
-bolzano-bozen.it,europages.de,frischauf-gp.de,heise.de,scfreiburg.com,sueddeutsche.de##.sponsor
+bolzano-bozen.it,europages.de,frischauf-gp.de,heise.de,scfreiburg.com,sueddeutsche.de,svww.de##.sponsor
 fcz.ch##.sponsor--margin
 rittnerbuam.com##.sponsor-section
 bz-berlin.de##.sponsorTop
