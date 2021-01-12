@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101121524
+! Version: 202101121528
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 15:24 UTC
+! Last modified: 12 Jan 2021 15:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2011,6 +2011,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sensor-test.de/assets/Uploads/*-Banner-
 ||seo-united.de/images/sponsoren_
 ||sevac.com/images/bmain-
+||sexabc.ch/js/rotator.js
 ||sexeldorado.ch/banner/
 ||sexforum.ch/ForumPics/Banners/
 ||sexgeschichten.com/kosmonaut/
@@ -3508,6 +3509,7 @@ indeed.ch##.lastRow + div + div[class] > div[class]:first-child + .row
 indeed.ch##.lastRow + div + div[class] > div[class]:first-child + .row + .row
 chemnitzerfc.de##.lay_banner_teaser2
 hoh.de##.lb_skyscraper
+sexabc.ch##.lead-col
 intimesrevier.com##.lead_rennab
 airgamer.de,auto-motor-und-sport.de,billig-flieger-vergleich.de,boomerangtv.de,de.de,gamesaktuell.de,gamestar.de,gamezone.de,meteovista.de,pcgames.de,spielefilmetechnik.de,spielen.de,trailerzone.info,videogameszone.de##.leaderboard
 antenne.de,rockantenne.de,schwaebische.de##.leaderboard-wrapper
