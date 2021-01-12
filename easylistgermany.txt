@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101120951
+! Version: 202101120952
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 09:51 UTC
+! Last modified: 12 Jan 2021 09:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2041,6 +2041,12 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||spreeblick.com/wp-content/themes/*/hosteurope.gif
 ||spreeblick.com/wp-content/themes/*/netzgemuese_banner.png
 ||spreeblick.com/wp-content/themes/*/thomann.png
+||spvggunterhaching.de^*/Big-Cube.png
+||spvggunterhaching.de^*/logo_adidas.png
+||spvggunterhaching.de^*/logo_anzeiger_roll.png
+||spvggunterhaching.de^*/logo_lupse.png
+||spvggunterhaching.de^*/logo_saatgut.png
+||spvggunterhaching.de^*/partner-
 ||stadt-bremerhaven.de^*/psw.jpg
 ||stadtradio-goettingen.de/apool/srg/content/ads
 ||static-fra.de/wetterv3/css/images/map/icons/knorr.png$domain=wetter.de
