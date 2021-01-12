@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101120942
+! Version: 202101120944
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 09:42 UTC
+! Last modified: 12 Jan 2021 09:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2111,6 +2111,10 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||tweakpc.de/wpimages/PowerUP11-
 ||uhrforum.de/styles/uhrforum/sponsored/
 ||unmoralische.de/bilder/am-banner.gif
+||unterwasserwelt.de/wp-content/uploads/*/Bauer-Premiumsite-
+||unterwasserwelt.de/wp-content/uploads/*/Cressi-premiumsite-
+||unterwasserwelt.de/wp-content/uploads/*/Footer-Premiumsite-
+||unterwasserwelt.de/wp-content/uploads/*/hamatamangroves-banner_footer-premiumsite-
 ||vfb.de^*/sponsoren/
 ||vfl.de/sportmedia/assets/sunmaker_logo.svg
 ||vfl.de^*-banner_
@@ -3647,6 +3651,7 @@ sinn-frei.com##.menu_feat
 wasserurlaub.info##.message > .container-2.guestPost
 lite-magazin.de##.metaslider
 ebay.de##.mfe-promo
+unterwasserwelt.de##.mh-footer
 wetter.com##.middle > div[id][class]:first-child > a[href]:last-child > img[src]:first-child:last-child
 wetterspiegel.de##.mir-wallpaper-background[align="right"][style="height: 250px"]
 wetterspiegel.de##.mir-wallpaper-background[height="90"][align="right"]
