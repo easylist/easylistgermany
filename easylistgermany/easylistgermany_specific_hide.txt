@@ -1797,6 +1797,7 @@ arcor.de##a[href^="https://zuhauseplus.vodafone.de/"] > img
 angesagter.de##a[href^="out.php?bid="]
 sinn-frei.com##a[href^="out2_"]
 maxrev.de##a[href^="redirect,banner_id,"]
+searchx.ch##a[name="banner"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=")"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=");"] > img[src^="/"]
 wallstreet-online.de##a[onclick*="'tableAd'"]
