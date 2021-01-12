@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101120956
+! Version: 202101120957
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2021 09:56 UTC
+! Last modified: 12 Jan 2021 09:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2067,6 +2067,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||suedpfalz-verlag.de/uploads/pics/DK-Grafik.png
 ||suedtiroltv.it^*/banner
 ||sunshine.it^*/raika.
+||supertipp-online.de/wp-content/uploads/*/Gottfried_schultz.gif
 ||surfmusik.de/anz1.gif
 ||svs-passau.de/wp-content/uploads/*/bkkzfundpartner300x108.png
 ||svs-passau.de/wp-content/uploads/*/friedl-1.png
@@ -4078,6 +4079,7 @@ t-online.de##a[data-url^="http://m.exactag.com/"]
 t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bild.de##a[href*=".smartadserver.com/"]
 deutscher-sex.com##a[href*="/f.php?a=vpn"]
+supertipp-online.de##a[href*="/linkout/"]
 bild.de##a[href*="/partner/"]
 emfis.de##a[href*="/uebersicht.html?tx_ricrotation_"]
 auswandererforum.de##a[href*="affiliate.php?"]
