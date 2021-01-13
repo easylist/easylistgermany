@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101131753
+! Version: 202101131802
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2021 17:53 UTC
+! Last modified: 13 Jan 2021 18:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3397,7 +3397,7 @@ svs-seligenporten.de##.main_sponsor
 aerotelegraph.com##.marcopolo
 gamepro.de##.marketbox_brace
 macwelt.de,pcwelt.de##.marketplace
-winfuture.de##.mb25
+winfuture.de##.mb25[style="min-height:261px"]
 t-online.de##.med_anz
 myvideo.de##.med_reg_box
 wetter.com##.media__body[style="position: relative;"] > a
