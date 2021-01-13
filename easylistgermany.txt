@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101131505
+! Version: 202101131514
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2021 15:05 UTC
+! Last modified: 13 Jan 2021 15:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -826,6 +826,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||onlymega.com^$third-party
 ||paidlinkz.net^$third-party
 ||paidsolution.de^$third-party
+||partner-versicherung.de^$third-party
 ||payclick.it^$third-party
 ||performance-netzwerk.de^$third-party
 ||performanceanalyser.net^$third-party
