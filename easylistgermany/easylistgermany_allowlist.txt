@@ -125,7 +125,6 @@
 @@||cdn.spotxcdn.com^$domain=welect.de
 @@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de|rtl2.de
 @@||classic-motorrad.de/anzeigen/layout_images/new/top_ads_icon.gif
-@@||classistatic.de^*/advertising/*advertisingpacked.js$domain=mobile.de
 @@||comdirect.de^*.html&ad=$subdocument
 @@||comdirect.de^*.html?ad=$subdocument
 @@||comdirect.de^*/advertising.do?$subdocument
@@ -139,7 +138,6 @@
 @@||damoh.schneevonmorgen.com^$script,domain=chip.de|giga.de|golem.de|spieletipps.de
 @@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
-@@||de.ebayobjects.com/1ai/mobile.homepage/superteaser;$subdocument,domain=mobile.de
 @@||derstandard.at/adserver/t.gif$domain=videoservice.apa.at
 @@||docs.google.com/viewer?url=http://goerge-markt.de/fileadmin/werbung/$subdocument,domain=goerge-markt.de
 @@||doubleclick.net/ad/kostenlosspielen.de.smartclip/$object,domain=kostenlosspielen.net
@@ -160,7 +158,6 @@
 @@||eltern.de^*_300x250px.$image,domain=eltern.de
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
 @@||emsservice.de^$image,xmlhttprequest,domain=kochbar.de
-@@||engine.spotrails.com/delivery/pls.php?oasid=*&mediaurl=http%3a//vdn-mobile.oas-limited.com/ad/video.flv$object,domain=mobile.de
 @@||event.mivitec.net/dist/js/$script,domain=event.mivitec.net
 @@||eventim.de^*?affiliate=$subdocument
 @@||eventus-design.com^$~third-party
@@ -381,7 +378,6 @@
 @@||sport.de/autoimg/*/300x250/$image,~third-party
 @@||sport1.fm/ad/my_ad_iframe.html?ad_id=performance*&start=$subdocument
 @@||sport1.fm/ad/my_ad_integration.js
-@@||spotrails.com/video/$object,domain=mobile.de
 @@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=pages.ebay.de
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
@@ -426,7 +422,6 @@
 @@||uicdn.com^*/video-adserver-config.xml$object
 @@||v.fwmrm.net/ad/p/1?$object,domain=southpark.de
 @@||vcdn.adnxs.com/p/creative-image^$image,domain=stylebook.de
-@@||vdn-mobile.oas-limited.com/ad/$object,domain=mobile.de
 @@||videoservice.apa.at/Vast/GetProxy/?*?videotype=preroll1&$xmlhttprequest
 @@||videostream4u.com^*/ac_oetags_clone.js
 @@||vox.de^$generichide
