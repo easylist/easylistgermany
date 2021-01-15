@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101151236
+! Version: 202101151239
 ! Title: EasyList Germany
-! Last modified: 15 Jan 2021 12:36 UTC
+! Last modified: 15 Jan 2021 12:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2484,6 +2484,7 @@ bitreporter.de##.asa2_fbva_wrapper
 laufen.de##.banner
 dastelefonbuch.de##.banner_top
 wolfsrevier.de##.client_wrapper
+scp07.de##.dp-sponsorenfooter
 gailtal.news,gitschtal.news,greifenburg.news,hermagor.news,klagenfurt.news,radenthein.news,spittal.news,steinfeld.news,troepolach.news,via-ferrata.de,villacher.news,weissensee.news##.g
 dasoertliche.de##.premiumtreffer
 ebay.de##.srp-1p__banner
@@ -2491,6 +2492,7 @@ zeno.org##.zenoLSInnerProductTableRightAmazon
 via-ferrata.de##a[href^="https://bit.ly/"]
 bitreporter.de##div[class$="-adlabel"]
 via-ferrata.de##div[class^="overlay-"]
+formel1.de##div[id="outer_sas_"]
 wirsiegen.de##img[width="140"][height="180"]
 via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
 websingles.at##table[width="306"]
