@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101151208
+! Version: 202101151209
 ! Title: EasyList Germany
-! Last modified: 15 Jan 2021 12:08 UTC
+! Last modified: 15 Jan 2021 12:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1657,6 +1657,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||drachenbootfestival-hannover.de/grafik/partner/
 ||dreambox.info/banner/
 ||drehscheibe-online.de/ds_cms/banner/
+||druckerchannel.de/script/dc/ofr_single.php
 ||dslr-forum.de/banner.
 ||dubisthalle.de/wp-content/uploads/*/loezius.png
 ||dubisthalle.de/wp-content/uploads/*_300x300_
@@ -2343,6 +2344,8 @@ privatmarkt.ch###ContentFooterPartner
 amazon.de###DAcrs1
 amazon.de###DAi
 amazon.de###DAr2
+druckerchannel.de###DCA_TOP
+druckerchannel.de###DCGA_CONTAINER
 druckkosten.de###DKGA_LEAD
 druckkosten.de###DKGA_SKY
 eatsmarter.de###EAT_D_Index_Top_Wrapper
