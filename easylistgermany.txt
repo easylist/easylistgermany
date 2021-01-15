@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101151219
+! Version: 202101151220
 ! Title: EasyList Germany
-! Last modified: 15 Jan 2021 12:19 UTC
+! Last modified: 15 Jan 2021 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2153,6 +2153,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wallis24.it/images/wallis24%20achilli%20ottobre20.jpg
 ||wbbanner.mrn-news.de^
 ||wcm.at/images/attingo.gif
+||websingles.at/pages/site/de/images/logos/
 ||webwork-magazin.net/wp-content/uploads/*/sul-banner-
 ||webwork-magazin.net/wp-content/uploads/*/webdesign-printdesign.gif
 ||weekli.systems/media/banner/
@@ -2464,6 +2465,7 @@ ebay.de##.srp-1p__banner
 bitreporter.de##div[class$="-adlabel"]
 wirsiegen.de##img[width="140"][height="180"]
 wirsiegen.de##img[width="300"][height="250"]
+websingles.at##table[width="306"]
 ! 
 symptome.ch###collapseobj_sidebar > div[style="height:600px;"]
 ogame.de,ogame.org###combox_container
