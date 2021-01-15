@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101151214
+! Version: 202101151215
 ! Title: EasyList Germany
-! Last modified: 15 Jan 2021 12:14 UTC
+! Last modified: 15 Jan 2021 12:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2155,6 +2155,24 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wcm.at/images/attingo.gif
 ||weekli.systems/media/banner/
 ||wetter.com/cooperation/$~third-party
+||wirsiegen.de/Altfahrzeugannahme.png
+||wirsiegen.de/Calabria-Lieferservice.jpg
+||wirsiegen.de/wp-content/uploads/*/Anwalt-Baranowski.jpg
+||wirsiegen.de/wp-content/uploads/*/B%C3%BCdenbenderb%C3%B6den.jpg
+||wirsiegen.de/wp-content/uploads/*/bueboden300_250.jpg
+||wirsiegen.de/wp-content/uploads/*/elements-show-Schedler-140-180.jpg
+||wirsiegen.de/wp-content/uploads/*/hoffman_bau300_250.jpg
+||wirsiegen.de/wp-content/uploads/*/hoffmann_bau_140_180.jpg
+||wirsiegen.de/wp-content/uploads/*/Kreuztal-Taxi-1.jpg
+||wirsiegen.de/wp-content/uploads/*/Los-Gyros-Fellinghausen.jpg
+||wirsiegen.de/wp-content/uploads/*/LosGyrosKreuztal-300.jpg
+||wirsiegen.de/wp-content/uploads/*/Pizzablech-Siegen-Don_Camillo.jpg
+||wirsiegen.de/wp-content/uploads/*/Siwi-aktiv-Facebook.jpg
+||wirsiegen.de/wp-content/uploads/*/steinmetz300.jpg
+||wirsiegen.de/wp-content/uploads/*/TUI-Kreuztal-180.jpg
+||wirsiegen.de/wp-content/uploads/*/Walter-Schneider_VW_Juli-2016_300x60.gif
+||wirsiegen.de/wp-content/uploads/*/Werbeagentur-Siegerland-Werbung.jpg
+||wirsiegen.de/wp-content/uploads/*_DonCamillo_
 ||woche.com.au/images/logos/werbung/
 ||wochenanzeiger.de/graphic/w/
 ||wochenblatt.cc^*/shadow-forces-security-
@@ -2439,6 +2457,8 @@ wein.plus###premium-partners
 bitreporter.de##.asa2_fbva_wrapper
 ebay.de##.srp-1p__banner
 bitreporter.de##div[class$="-adlabel"]
+wirsiegen.de##img[width="140"][height="180"]
+wirsiegen.de##img[width="300"][height="250"]
 ! 
 symptome.ch###collapseobj_sidebar > div[style="height:600px;"]
 ogame.de,ogame.org###combox_container
