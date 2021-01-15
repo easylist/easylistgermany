@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101151209
+! Version: 202101151212
 ! Title: EasyList Germany
-! Last modified: 15 Jan 2021 12:09 UTC
+! Last modified: 15 Jan 2021 12:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1646,6 +1646,9 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||deutsche-versicherungsboerse.de/download/banner/
 ||deutscher-sex.com/assets/img/
 ||deutschland.fm^*/leaseweb.gif
+||dfb.de/img/partner-logos/
+||dfb.de/uploads/*/original_exasol_index.png
+||dfb.de/uploads/*_Partnerlogo_
 ||dforum.net/banner/
 ||dforum.net/ebay/
 ||die-beihilfe.de/media/banner/
