@@ -1,7 +1,6 @@
 .gif|$popup,domain=inside-handy.de|seniorbook.de
 /^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=hdfilme.cx
 ^utm_medium=popunder^$popup,domain=hilfreich.de
-||3dl.tv/redipo.php$popup
 ||4fuckr.com/api.php$popup
 ||5vor12.de/cgi-perl/adP?nr=$popup
 ||ad.netzquadrat.de^$popup,domain=sms.de
