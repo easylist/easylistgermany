@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101161359
+! Version: 202101161401
 ! Title: EasyList Germany
-! Last modified: 16 Jan 2021 13:59 UTC
+! Last modified: 16 Jan 2021 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1120,6 +1120,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||hitfox.com/widget-$subdocument,third-party
 ||hm-sat.de/b.php$third-party
 ||hmsat.de/banner/
+||hofmann.info^$subdocument,domain=sgf1903.de
 ||hot-wire.de/hwbanner.php$third-party
 ||hurenkartei.com/teaser-$third-party
 ||hypnoseakademie.de/banner/$third-party
@@ -2026,6 +2027,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sexuria.com/poup.js
 ||sg-flensburg-handewitt.de^*/Online_Banner/
 ||sg-flensburg-handewitt.de^*/Sponsors/
+||sgf1903.de^*/Sponsoring/
 ||sgleutershausen.de/wp-content/uploads/*/bwt-logo-neu.jpg
 ||shopanbieter.de/SponsorLogos/
 ||silbernews.com^*/banner/
