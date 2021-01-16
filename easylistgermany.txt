@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101161406
+! Version: 202101161408
 ! Title: EasyList Germany
-! Last modified: 16 Jan 2021 14:06 UTC
+! Last modified: 16 Jan 2021 14:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2210,6 +2210,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wohnmobilforum.de/camping-preisbrecher_header.jpg
 ||wohnmobilforum.de/caravantechnik.jpg
 ||wohnmobilforum.de/dometic-kw.jpg
+||wohnmobilforum.de/ebay.php
 ||wohnmobilforum.de/fleig.jpg
 ||wohnmobilforum.de/hubstuetzen.jpg
 ||wohnmobilforum.de/kro.png
