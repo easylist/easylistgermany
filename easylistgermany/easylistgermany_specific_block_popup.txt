@@ -1,4 +1,4 @@
-.gif|$popup,domain=inside-handy.de|seniorbook.de
+.gif|$popup,domain=seniorbook.de
 /^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=hdfilme.cx
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ||4fuckr.com/api.php$popup

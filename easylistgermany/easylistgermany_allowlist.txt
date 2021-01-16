@@ -5,7 +5,7 @@
 @@||123people.us/trackads/display?zones=$script,domain=123people.de
 @@||2mdn.net/ads/studio/Enabler.js$domain=marketing-a.akamaihd.net
 @@||2mdn.net/instream/video/client.js$domain=welect.de
-@@||360yield.com/adj?$script,domain=girlsgogames.de|jetztspielen.de
+@@||360yield.com/adj?$script,domain=girlsgogames.de
 @@||6inserate.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||71iv.nuggad.net/crossdomain.xml$object
 @@||a-ssl.ligatus.com/?ids=$script,domain=stern.de|wetter.de|zeit.de
@@ -23,7 +23,7 @@
 @@||ad.adworx.at/crossdomain.xml$object
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
-@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=giga.de|spielaffe.de|spieletipps.de
+@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=spielaffe.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|literatur-fast-pur.de|preismafia.com|preisvergleich.de
 @@||adback.de^$~third-party
@@ -47,8 +47,6 @@
 @@||adition.com/track?$object,domain=hd-plus.de
 @@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
 @@||admedia.adgemini.de^$~third-party
-@@||admeld.com/ad/js/*/game-page?$script,domain=jetztspielen.de
-@@||admeld.com/meld128.js$domain=jetztspielen.de
 @@||adnxs.com/p/creative-image/$image,domain=autobild.de
 @@||adnxs.com/ut/v3|$xmlhttprequest,domain=autobild.de
 @@||adnxs.com^*/creative-image^$image,domain=bz-berlin.de
@@ -73,15 +71,14 @@
 @@||adstyle.com^$~third-party
 @@||adtech.de/?adrawdata/$object,domain=login.audimark.de|player.nowonscreen.com
 @@||adtech.de/?advideo/*;vidAS=pre_roll;$object,domain=t-online.de
-@@||adtech.de/addyn/*/ADTECH;$script,domain=girlsgogames.de|jetztspielen.de
-@@||adtech.de/adperf/$script,domain=jetztspielen.de
+@@||adtech.de/addyn/*/ADTECH;$script,domain=girlsgogames.de
 @@||adtech.de/adrawdata$object,domain=player.nowonscreen.com
 @@||adtech.de/dt/common/DAC.js$domain=nzz.ch
 @@||adtech.de/dt/common/postscribe.js$domain=nzz.ch
 @@||advertiser.wbtrk.net/js/advertiser.js$domain=heise.de
 @@||adwords.safi-gmbh.ch^$~third-party
 @@||affilinet-inside.de^*/affilinet/$stylesheet
-@@||amazon-adsystem.com/aax2/amzn_ads.js$domain=giga.de|spielaffe.de|spieletipps.de
+@@||amazon-adsystem.com/aax2/amzn_ads.js$domain=spielaffe.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamepro.de|gamestar.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net
@@ -111,8 +108,8 @@
 @@||berufsstart.de^*/anzeigeshowframeset.php?$subdocument
 @@||berufsstart.de^*/show-advert-info.html?$subdocument
 @@||binarus.de/sonderangebote/adlink-$image,domain=binarus.de
-@@||bluelithium.com/imp?$script,domain=girlsgogames.de|jetztspielen.de
-@@||bluelithium.com/st?$script,domain=girlsgogames.de|jetztspielen.de
+@@||bluelithium.com/imp?$script,domain=girlsgogames.de
+@@||bluelithium.com/st?$script,domain=girlsgogames.de
 @@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
 @@||camerartist.de/wp-content/plugins/adrotate/$~third-party
 @@||canoo.net/services/wordformationdictionary/gifs/
@@ -125,13 +122,12 @@
 @@||comdirect.de^*.html?ad=$subdocument
 @@||comdirect.de^*/advertising.do?$subdocument
 @@||commundia.de^*/affilinet/$~third-party
-@@||cookex.amp.yahoo.com/v2/cexposer/SIG=*//ad.yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de
+@@||cookex.amp.yahoo.com/v2/cexposer/SIG=*//ad.yieldmanager.com/imp?$script,domain=girlsgogames.de
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||d3con.de/data1/$image,~third-party
-@@||damoh.giga.de^$script,domain=giga.de
 @@||damoh.golem.de^$script,domain=golem.de
-@@||damoh.schneevonmorgen.com^$script,domain=chip.de|giga.de|golem.de|spieletipps.de
+@@||damoh.schneevonmorgen.com^$script,domain=chip.de|golem.de
 @@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
 @@||derstandard.at/adserver/t.gif$domain=videoservice.apa.at
@@ -175,7 +171,7 @@
 @@||forum-duewupp.de/images/ad-gallery/$~third-party
 @@||forum.froxlor.org^*/adsense.css
 @@||fussball.sv-kehlen.de/werbepartner.htm
-@@||g.doubleclick.net/gampad/$xmlhttprequest,domain=immonet.de|kochbar.de|vip.de
+@@||g.doubleclick.net/gampad/$xmlhttprequest,domain=kochbar.de|vip.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|guterhut.de|hardwareluxx.de|hbf-info.de|n-tv.de|rakuten.at|rakuten.de|rtl.de|zalando.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|geo.de|stern.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
@@ -184,7 +180,7 @@
 @@||g.doubleclick.net/gampad/adx?$script,domain=gala.de
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=7tv.de
 @@||g.doubleclick.net/gampad/adx?*/sparta/*&t=ad_type%3Dtoolbar%26$document,subdocument,domain=wetter.com
-@@||g.doubleclick.net/gpt/$script,domain=gofeminin.de|immonet.de|vip.de
+@@||g.doubleclick.net/gpt/$script,domain=gofeminin.de|vip.de
 @@||g.doubleclick.net/gpt/pubads_$script,domain=wetter.com
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|brigitte.de|eltern.de|gala.de|geo.de|guterhut.de|hardwareluxx.de|hbf-info.de|kochbar.de|n-tv.de|rakuten.at|rakuten.de|rtl.de|stern.de|welt.de|zalando.de
 @@||g.doubleclick.net/pagead/js/rum.js$domain=auto-motor-und-sport.de
@@ -200,7 +196,7 @@
 @@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
 @@||googlesyndication.com/pagead/imgad?$image,domain=auto-motor-und-sport.de
-@@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|immonet.de|kochbar.de|vip.de|zalando.de
+@@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|kochbar.de|vip.de|zalando.de
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
 @@||googlesyndication.com/simgad/$image,domain=kochbar.de
 @@||googlesyndication.com/simgad/14155692645477451130$image,domain=guterhut.de
@@ -212,7 +208,6 @@
 @@||gynny.de/img/affilinet/
 @@||gynny.de/shopframe/$document,subdocument
 @@||happybox24.ch/img/media/happybox24.ch_$image,domain=ameliatantra.jimdo.com
-@@||horizont.net/news/media/$image,domain=horizont.net
 @@||ib.adnxs.com/ut/v3^$xmlhttprequest,domain=stylebook.de
 @@||ib.adnxs.com^$xmlhttprequest,domain=bz-berlin.de|finanzen.ch
 @@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
@@ -264,8 +259,8 @@
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|n-tv.de|studis-online.de|vox.de
 @@||nutte.ch/banner_fuer_werbung/nutte_$image,domain=ameliatantra.jimdo.com
 @@||oeko-komp.de/evoAds2/
-@@||openx.net/w/1.0/acj?$script,domain=giga.de|spielaffe.de|spieletipps.de
-@@||openx.net/w/1.0/jstag?nc=$script,domain=giga.de|spielaffe.de|spieletipps.de
+@@||openx.net/w/1.0/acj?$script,domain=spielaffe.de
+@@||openx.net/w/1.0/jstag?nc=$script,domain=spielaffe.de
 @@||os1.tv/js/omsvc_externalad.js
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=oroma.net|speedweek.com
@@ -276,7 +271,7 @@
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
 @@||photo.knuddels.de/kde/ad2/$image
-@@||pixel.adsafeprotected.com/jspix?$script,domain=girlsgogames.de|jetztspielen.de
+@@||pixel.adsafeprotected.com/jspix?$script,domain=girlsgogames.de
 @@||pixel.adsafeprotected.com^$image,script,domain=welect.de
 @@||playboy.de/files/html/Advertorials/$~third-party
 @@||player.aniview.com/script/*/aniview.js$domain=musikexpress.de|rollingstone.de
@@ -308,7 +303,7 @@
 @@||sascdn.com/diff/251/*/gebrauchtwagenmarkt.png$image,domain=autobild.de
 @@||sascdn.com/diff/251/*/kindersitze.png$image,domain=autobild.de
 @@||sascdn.com/diff/251/*970x250$image,domain=welt.de
-@@||sascdn.com/diff/251/pages/$script,domain=derwesten.de|hoerzu.de|transfermarkt.de
+@@||sascdn.com/diff/251/pages/$script,domain=hoerzu.de|transfermarkt.de
 @@||sascdn.com/diff/251/pages/autobild.js$domain=autobild.de
 @@||sascdn.com/diff/251/smartad.js$domain=welt.de
 @@||sascdn.com/diff/251/templates/passback.js$domain=autobild.de|welt.de
@@ -343,7 +338,7 @@
 @@||smartadserver.com/call/pubi/*/(bild/*/?format=.mp4$media,domain=bild.de
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
-@@||smartadserver.com/diff/*/smartad.js$domain=derwesten.de|hoerzu.de
+@@||smartadserver.com/diff/*/smartad.js$domain=hoerzu.de
 @@||smartadserver.com/diff/251/2484653/show10.asp$script,domain=autobild.de
 @@||smartadserver.com/diff/251/pages/berlin.js$domain=welt.de
 @@||smartadserver.com/diff/251/templates/passback.js$domain=autobild.de|welt.de
@@ -380,17 +375,12 @@
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
 @@||stroeerdigitalgroup.de/metatag/live/AMS/metaTag.min.js$domain=auto-motor-und-sport.de
 @@||stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tvmovie.de
-@@||stroeerdigitalmedia.de/dynback/gpt_call.$script,domain=giga.de|spieletipps.de
-@@||stroeerdigitalmedia.de/praeludium/praeludium_*.min.js$domain=giga.de|spieletipps.de
-@@||stroeermediabrands.de/dmp-tracking-min.js$domain=giga.de|spieletipps.de
 @@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tamedia.ch/tl_files/content/Icons/Advertising_$domain=tamedia.ch
 @@||tamedia.ch^*/advertising-$subdocument,domain=tamedia.ch
 @@||teufel-media.de/www/delivery/avw.php?zoneid=$image,domain=gewinnspiele.freenet.de
 @@||tfag.de/img/$domain=focus.de
-@@||tfag.de/js_ng/js_ng_huffpost_$script,domain=huffingtonpost.de
-@@||tfag.de/js_ng/js_ng_msg_0300.js$domain=mein-schoener-garten.de
 @@||thangkas.com/thangkas/thangkas/$image,~third-party
 @@||theplatform.com^*/doubleclick.js$domain=zeit.de
 @@||thomann.de^*/adv/adv_$image,~third-party
@@ -423,7 +413,7 @@
 @@||werbung.specials.de^$subdocument,domain=zentralreisen.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
-@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|chip.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|kleinezeitung.at|koeln.de|maxizoo.ch|meinestadt.de|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
+@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|chip.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|kleinezeitung.at|maxizoo.ch|meinestadt.de|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
 @@||wm-druckarena.de/scripts/Werbebanner.
 @@||wn-jobs.de/search.html?adType=$xmlhttprequest
 @@||wn-markt.de/search.html?adType=$xmlhttprequest
@@ -437,7 +427,7 @@
 @@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch
 @@||xfind.de/banner/$image,domain=searchx.ch
 @@||xn--figg-ooa.ch/sites/default/files/ms_ads/banner$domain=ameliatantra.jimdo.com
-@@||yieldmanager.com/imp?$script,domain=girlsgogames.de|jetztspielen.de
+@@||yieldmanager.com/imp?$script,domain=girlsgogames.de
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|notenbuch24.de|preismafia.com
 ! "Matched Content" by Google (https://support.google.com/adsense/answer/6111336)
 @@||g.doubleclick.net/pagead/ads?*^slotname=3722556080^$document,subdocument,domain=kalender-365.de
