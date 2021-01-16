@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101161355
+! Version: 202101161359
 ! Title: EasyList Germany
-! Last modified: 16 Jan 2021 13:55 UTC
+! Last modified: 16 Jan 2021 13:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1910,6 +1910,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||motorrad2000.de/wp-content/uploads/*/0801_motorrad2000_bueffel_animation.gif
 ||motorrad2000.de/wp-content/uploads/*/8fa952cba73b0d4fbf043e9be45cb366.gif
 ||motorrad2000.de/wp-content/uploads/*/b67500ab7a18a07b9ef79e89bd077568.gif
+||mtb-news.de/news/wp-content/plugins/mtbn-ads/
+||mtb-news.de/news/wp-content/uploads/*/Takeover_
 ||multilingual.de^*/banner/
 ||multilingual.de^*/sprachreisen_0.gif
 ||multilingual.de^*/sprachschule-malta.gif
@@ -2577,6 +2579,7 @@ ebay.de##.srp-1p__banner
 primavera24.de##.td-header-container
 hallescherfc.de##.vc_carousel-inner
 zeno.org##.zenoLSInnerProductTableRightAmazon
+mtb-news.de##a[href*="/redirect/takeover/"]
 via-ferrata.de##a[href^="https://bit.ly/"]
 wallstreet-online.de##a[href^="https://smartbroker.de/?utm_source="]
 daily-pia.de##a[href^="https://www.manitu.de/?partner="]
