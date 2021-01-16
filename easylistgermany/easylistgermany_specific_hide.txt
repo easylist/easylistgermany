@@ -568,6 +568,7 @@ tutorials.de##.above_body > #header + #navbar + table:last-child
 rc-network.de##.above_body:first-child + table[cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 die-schnelle-kuh.de##.abp
 salue.de##.action-item > * > .ad
+adz.ro,ak-kurier.de,alle-immobilien.ch,azonline.de,bernerzeitung.ch,bildderfrau.de,billig-flieger-vergleich.de,bos-fahrzeuge.info,derbund.ch,echo-online.de,erf.de,glamour.de,gmx.net,gq-magazin.de,hardwareclips.com,juedische-allgemeine.de,kalenderwoche.net,klassikradio.de,macwelt.de,mann.tv,metager.de,modhoster.de,newscomm.de,oberhessische-zeitung.de,pcwelt.de,pfaffenhofen-today.de,phonostar.de,podcast.de,prisma.de,radiokoeln.de,raidrush.org,rhein-neckar-loewen.de,sachsen-fernsehen.de,shopbetreiber-blog.de,spektrum.de,stadtradio-goettingen.de,sueddeutsche.de,suite101.de,web.de,wissen.de,wn.de,yellingnews.com,zeit.de##.ad
 ak-kurier.de##.ad + #flashContent
 ak-kurier.de##.ad + .tdt
 ak-kurier.de##.ad + .uk-panel
@@ -1114,6 +1115,7 @@ stadtbranchenbuch.at,stadtbranchenbuch.com##.sky
 t-online.de##.skybannerWrapper
 internet-sms.com##.skybg
 spiele-kostenlos-online.de##.skycraper
+11freunde.de,ak-kurier.de,auto-motor-und-sport.de,chat4free.de,dialo.de,dynamo-dresden.de,erotikchat4free.de,freechat.de,gamesaktuell.de,kanu.de,ligaportal.at,nonstopnews.de,nr-kurier.de,pcgames.de,spielefilmetechnik.de,spielen.de,swoodoo.com,videogameszone.de,ww-kurier.de##.skyscraper
 b2run.de##.skyscraperContainer
 aedt.de##.slide-box
 fussball.de##.slider-shop-carousel-container
@@ -1274,7 +1276,6 @@ yelp.at,yelp.ch,yelp.de##.yloca-search-result-exp
 autoextrem.de,teccentral.de##.yui-sidebar li > a > img
 autoextrem.de,teccentral.de,winboard.org##.yui-sidebar li > span > a > img
 german-bash.org##.zitat > div[style="width:300px;"]
-11freunde.de,ak-kurier.de,auto-motor-und-sport.de,chat4free.de,dialo.de,dynamo-dresden.de,erotikchat4free.de,freechat.de,gamesaktuell.de,kanu.de,ligaportal.at,nonstopnews.de,nr-kurier.de,pcgames.de,spielefilmetechnik.de,spielen.de,swoodoo.com,videogameszone.de,ww-kurier.de
 heise.de##A-PATERNOSTER
 suche.1und1.de,suche.gmx.net,suche.web.de##COMPONENTS-SHOPPING-ONEBOX-LIST.l-display-block
 verivox.de##NRG-RESULT-LIST > ul > .position-zero
@@ -1512,7 +1513,6 @@ chip.de##a[title="Bundesliga im Eurosport Player: Spiele der Top-Teams live bei 
 fc-hansa.de##a[title="DKB-Familienblock"]
 chip.de##a[title="FriendScout24"][target="_blank"]
 chip.de##a[title="Windows 10 Professional mit starkem Rabatt! "]
-adz.ro,ak-kurier.de,alle-immobilien.ch,azonline.de,bernerzeitung.ch,bildderfrau.de,billig-flieger-vergleich.de,bos-fahrzeuge.info,derbund.ch,echo-online.de,erf.de,glamour.de,gmx.net,gq-magazin.de,hardwareclips.com,juedische-allgemeine.de,kalenderwoche.net,klassikradio.de,macwelt.de,mann.tv,metager.de,modhoster.de,newscomm.de,oberhessische-zeitung.de,pcwelt.de,pfaffenhofen-today.de,phonostar.de,podcast.de,prisma.de,radiokoeln.de,raidrush.org,rhein-neckar-loewen.de,sachsen-fernsehen.de,shopbetreiber-blog.de,spektrum.de,stadtradio-goettingen.de,sueddeutsche.de,suite101.de,web.de,wissen.de,wn.de,yellingnews.com,zeit.de
 yellingnews.com##article > .teaser + .related.tm
 schulzeux.de##article > .vi_a_79
 maxwireless.de##aside a[target="_blank"][onclick^="javascript:_gaq.push(['_trackEvent','outbound-widget',"]
