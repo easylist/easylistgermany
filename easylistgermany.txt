@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101161408
+! Version: 202101161410
 ! Title: EasyList Germany
-! Last modified: 16 Jan 2021 14:08 UTC
+! Last modified: 16 Jan 2021 14:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1591,6 +1591,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||bilder.static-fra.de/wetter11/images/offer/$domain=wetter.de
 ||bildschirmarbeiter.com/content/upload2/
 ||bitcoinnews.ch/bitcoin_mit_kreditkarte_kaufen.jpg
+||bitcoinnews.ch/bitwala-bitcoin.jpg
 ||bitcoinnews.ch/coinbase.png
 ||bitcoinnews.ch/Fairspin_Ad.jpg
 ||bitcoinnews.ch/wp-content/uploads/*-300x250px-MediumRectangle.jpg
@@ -2540,6 +2541,7 @@ bitcoinnews.ch,nh24.de###text-28
 bitcoinnews.ch,via-ferrata.de###text-29
 bitcoinnews.ch,blog-der-republik.de,nh24.de###text-3
 bitcoinnews.ch###text-31
+bitcoinnews.ch###text-32
 nh24.de###text-48
 nh24.de###text-54
 nh24.de###text-59
