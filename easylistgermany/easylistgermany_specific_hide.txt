@@ -2017,6 +2017,7 @@ chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEI
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
 diegrenzgaenger.lu#?#article[id^=post-]:-abp-has(.sponsored-indicator)
+ebay.at#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 ebay.de#?#.b-module:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.mfe-lex:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
