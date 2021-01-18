@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101181419
+! Version: 202101181425
 ! Title: EasyList Germany
-! Last modified: 18 Jan 2021 14:19 UTC
+! Last modified: 18 Jan 2021 14:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1646,6 +1646,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||daily-pia.de/wp-content/uploads/*/manitu_hostedby-
 ||damoh.$media,domain=chip.de|focus.de|n-tv.de|rtl.de|rtl2.de|spiegel.de|spiegel.tv|tvnow.de|vip.de
 ||dasbewegtdiewelt.de/wp-content/banner/
+||deinesexfilme.com/img/linklist/
 ||delamar.de/wp-content/uploads/__aktionen/plakat/plakat_billb.jpg
 ||derkleinegarten.de/images/kiste/
 ||designtagebuch.de/wp-content/uploads/anzeigen/
@@ -1986,6 +1987,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pornoaffe.com/cpanel/f.php
 ||pornoaffe.com/img/linklist/
 ||pornohexen.com/js/a9k3jf823m4.js
+||pornoklinge.com/cpanel/f.php
+||pornoklinge.com/img/linklist/
 ||pornos-kostenlos.com/js/a9k3jf823m4.js
 ||pragerzeitung.cz/wp-content/uploads/*_300x450px_
 ||quoka.de/cdn/qrb/91/06/66/109660691.jpg
@@ -2279,7 +2282,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ! CSP filters
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagmanager.com *.google.com *.gstatic.com www.google-analytics.com *.googleapis.com *.cloudflare.com *.twitter.com connect.facebook.net cdn.hdfilme.net cdn.hdfilme.cx ssl.p.jwpcdn.com,domain=hdfilme.cx
 ! 
-/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=einfachtitten.com|pornoaffe.com|reifporn.de
+/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=deinesexfilme.com|einfachtitten.com|pornoaffe.com|pornoklinge.com|reifporn.de
 ! Specific filters necessary for sites using $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
@@ -2690,7 +2693,7 @@ via-ferrata.de##a[href^="https://bit.ly/"]
 xhamsterde.com##a[href^="https://goo.gl/"]
 wallstreet-online.de##a[href^="https://smartbroker.de/?utm_source="]
 wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
-einfachtitten.com,pornoaffe.com##a[href^="https://www.handy-sextreff.info/?c="]
+deinesexfilme.com,einfachtitten.com,pornoaffe.com,pornoklinge.com##a[href^="https://www.handy-sextreff.info/?c="]
 daily-pia.de##a[href^="https://www.manitu.de/?partner="]
 pornhubdeutsch.info,xhamsterde.com##a[href^="https://www.wazazu.com/LA/Landingpage?"]
 xhamsterde.com##a[href^="https://www.zononi.com/LA/LP/Finder?"]
