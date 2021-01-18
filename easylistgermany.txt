@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101181350
+! Version: 202101181401
 ! Title: EasyList Germany
-! Last modified: 18 Jan 2021 13:50 UTC
+! Last modified: 18 Jan 2021 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -674,6 +674,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||bannerchange.net^$third-party
 ||bannerheld.de^$third-party
 ||bauernative.com^$third-party
+||bb2022.info^$third-party
 ||biallo1.de^$third-party
 ||biallo2.de^$third-party
 ||biallo3.de^$third-party
@@ -1439,6 +1440,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||warumzahlen.de/images/banner/$third-party
 ||watchever.de^*^ifw^*^ifh^$third-party
 ||watercool.de/images/wc_banner_
+||wazazu.com/iframe/$third-party
+||wazazu.com/js/pu_$third-party
 ||wazazu.com/pimage/visit-x/$third-party
 ||webguidez.de/test/images/
 ||webspace.webhoster.de^$third-party
