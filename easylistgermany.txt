@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101181445
+! Version: 202101181447
 ! Title: EasyList Germany
-! Last modified: 18 Jan 2021 14:45 UTC
+! Last modified: 18 Jan 2021 14:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -591,6 +591,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ! ---------------------------Third-party Werbeserver---------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
 ||2mdn.net^$object,third-party,domain=focus.de|golem.de|helpster.de|sueddeutsche.de
+||4adtf.com.^$third-party
 ||4adtf.com^$third-party
 ||4rm.de^$third-party
 ||4strokemedia.com^$third-party
@@ -698,6 +699,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||crmpilot.it^$third-party
 ||cuiron.de^$third-party
 ||cussixia.de^$third-party
+||data-analyst.biz^$third-party
 ||data-slimspots.com^$third-party
 ||de-ads.de^$third-party
 ||def-platform.com^$third-party
