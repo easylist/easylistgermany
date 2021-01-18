@@ -130,6 +130,7 @@
 ||daily-pia.de/wp-content/uploads/*/manitu_hostedby-
 ||damoh.$media,domain=chip.de|focus.de|n-tv.de|rtl.de|rtl2.de|spiegel.de|spiegel.tv|tvnow.de|vip.de
 ||dasbewegtdiewelt.de/wp-content/banner/
+||deinesexfilme.com/img/linklist/
 ||delamar.de/wp-content/uploads/__aktionen/plakat/plakat_billb.jpg
 ||derkleinegarten.de/images/kiste/
 ||designtagebuch.de/wp-content/uploads/anzeigen/
@@ -470,6 +471,8 @@
 ||pornoaffe.com/cpanel/f.php
 ||pornoaffe.com/img/linklist/
 ||pornohexen.com/js/a9k3jf823m4.js
+||pornoklinge.com/cpanel/f.php
+||pornoklinge.com/img/linklist/
 ||pornos-kostenlos.com/js/a9k3jf823m4.js
 ||pragerzeitung.cz/wp-content/uploads/*_300x450px_
 ||quoka.de/cdn/qrb/91/06/66/109660691.jpg
@@ -763,7 +766,7 @@
 ! CSP filters
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagmanager.com *.google.com *.gstatic.com www.google-analytics.com *.googleapis.com *.cloudflare.com *.twitter.com connect.facebook.net cdn.hdfilme.net cdn.hdfilme.cx ssl.p.jwpcdn.com,domain=hdfilme.cx
 !
-/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=einfachtitten.com|pornoaffe.com|reifporn.de
+/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=deinesexfilme.com|einfachtitten.com|pornoaffe.com|pornoklinge.com|reifporn.de
 ! Specific filters necessary for sites using $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
