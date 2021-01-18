@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101181347
+! Version: 202101181350
 ! Title: EasyList Germany
-! Last modified: 18 Jan 2021 13:47 UTC
+! Last modified: 18 Jan 2021 13:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2041,6 +2041,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sissymag.de/wp-content/uploads/*/ottinger_salzgeber_club_1.jpg
 ||sissymag.de/wp-content/uploads/*/qfn01-
 ||sissymag.de/wp-content/uploads/*/tanzten_kaufen.jpg
+||spanienlive.com^*/Werbung/
 ||speedtorrent.com/usenet/
 ||spiegel.de/gutenb/img/hoeflich-schokolade.gif
 ||spiegel.de/gutenb/img/HuH-Banner.gif
@@ -2674,6 +2675,7 @@ winfuture-forum.de##.wf_gcsi
 nibelungen-kurier.de##.widget_dkge_wrapper
 zeno.org##.zenoLSInnerProductTableRightAmazon
 mtb-news.de##a[href*="/redirect/takeover/"]
+spanienlive.com##a[href^="https://airbnb.com/rooms/"]
 via-ferrata.de##a[href^="https://bit.ly/"]
 wallstreet-online.de##a[href^="https://smartbroker.de/?utm_source="]
 wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
