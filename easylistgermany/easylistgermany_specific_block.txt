@@ -167,6 +167,8 @@
 ||egun.de/market/images/banner/
 ||ehc-lustenau.at/EHC/images/sponsorenlogos/
 ||eihi.de/wp-content/uploads/*/erima.jpg
+||einfachtitten.com/cpanel/f.php
+||einfachtitten.com/img/linklist/
 ||einrichtungsbeispiele.de/revive/
 ||eintracht-basketball.com^*/Sponsoren/
 ||eintracht.com/fileadmin/Sponsoren/
@@ -761,7 +763,7 @@
 ! CSP filters
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagmanager.com *.google.com *.gstatic.com www.google-analytics.com *.googleapis.com *.cloudflare.com *.twitter.com connect.facebook.net cdn.hdfilme.net cdn.hdfilme.cx ssl.p.jwpcdn.com,domain=hdfilme.cx
 !
-/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=pornoaffe.com|reifporn.de
+/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=einfachtitten.com|pornoaffe.com|reifporn.de
 ! Specific filters necessary for sites using $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
