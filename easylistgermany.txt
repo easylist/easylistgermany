@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101181127
+! Version: 202101181132
 ! Title: EasyList Germany
-! Last modified: 18 Jan 2021 11:27 UTC
+! Last modified: 18 Jan 2021 11:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2647,6 +2647,7 @@ jetztspielen.de##.skyscraper
 finanznachrichten.de##.smartbroker--text
 finanznachrichten.de##.smartbroker-logo
 finanznachrichten.de##.smartbroker1
+giga.de##.smb-affiliate-link
 meetingpoint-brandenburg.de##.span > .white_bg[style="width: 100%; padding-right: 5px;"]
 meetingpoint-brandenburg.de##.span.white_bg[style="padding: 7px 2px; margin-left: 5px;"]
 meetingpoint-brandenburg.de##.span[style="width: 160px; margin-left: 5px;"]
