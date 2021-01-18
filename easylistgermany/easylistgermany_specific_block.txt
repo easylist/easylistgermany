@@ -265,6 +265,7 @@
 ||googlewatchblog.de/wp-content/uploads/amazon-music-hd-stream.jpg
 ||gota.ch/images/pbanner/
 ||grower.ch/partner/
+||gutesexfilme.com/cpanel/f.php
 ||gwars.de/index.php?page=advertisingpage
 ||gwd-minden.de/inc/*/Melitta-Banner-Karriere-GWD.jpg
 ||gwd-minden.de/media/*/Harting_257x180.jpg
@@ -787,7 +788,7 @@
 ! CSP filters
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagmanager.com *.google.com *.gstatic.com www.google-analytics.com *.googleapis.com *.cloudflare.com *.twitter.com connect.facebook.net cdn.hdfilme.net cdn.hdfilme.cx ssl.p.jwpcdn.com,domain=hdfilme.cx
 !
-/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=deinesexfilme.com|einfachtitten.com|hd-sexfilme.com|meinyouporn.com|pornoaffe.com|pornohans.com|pornohirsch.net|pornojenny.com|pornoklinge.com|pornotom.com|pornotommy.com|pornozebra.com|reifporn.de|sexente.com|sexvideos-hd.com|xhamster-sexvideos.com|xnxx-porno.com
+/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=deinesexfilme.com|einfachtitten.com|gutesexfilme.com|hd-sexfilme.com|meinyouporn.com|pornoaffe.com|pornohans.com|pornohirsch.net|pornojenny.com|pornoklinge.com|pornotom.com|pornotommy.com|pornozebra.com|reifporn.de|sexente.com|sexvideos-hd.com|xhamster-sexvideos.com|xnxx-porno.com
 ! Specific filters necessary for sites using $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
