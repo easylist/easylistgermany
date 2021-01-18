@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101181447
+! Version: 202101181449
 ! Title: EasyList Germany
-! Last modified: 18 Jan 2021 14:47 UTC
+! Last modified: 18 Jan 2021 14:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1990,6 +1990,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pornoaffe.com/cpanel/f.php
 ||pornoaffe.com/img/linklist/
 ||pornohexen.com/js/a9k3jf823m4.js
+||pornohirsch.net/cpanel/f.php
+||pornohirsch.net/img/linklist/
 ||pornojenny.com/cpanel/f.php
 ||pornojenny.com/img/linklist/
 ||pornoklinge.com/cpanel/f.php
@@ -2293,7 +2295,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ! CSP filters
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagmanager.com *.google.com *.gstatic.com www.google-analytics.com *.googleapis.com *.cloudflare.com *.twitter.com connect.facebook.net cdn.hdfilme.net cdn.hdfilme.cx ssl.p.jwpcdn.com,domain=hdfilme.cx
 ! 
-/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=deinesexfilme.com|einfachtitten.com|meinyouporn.com|pornoaffe.com|pornojenny.com|pornoklinge.com|pornozebra.com|reifporn.de|sexente.com|xhamster-sexvideos.com|xnxx-porno.com
+/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=deinesexfilme.com|einfachtitten.com|meinyouporn.com|pornoaffe.com|pornohirsch.net|pornojenny.com|pornoklinge.com|pornozebra.com|reifporn.de|sexente.com|xhamster-sexvideos.com|xnxx-porno.com
 ! Specific filters necessary for sites using $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
@@ -2704,9 +2706,10 @@ via-ferrata.de##a[href^="https://bit.ly/"]
 xhamsterde.com##a[href^="https://goo.gl/"]
 wallstreet-online.de##a[href^="https://smartbroker.de/?utm_source="]
 wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
-deinesexfilme.com,einfachtitten.com,meinyouporn.com,pornoaffe.com,pornojenny.com,pornoklinge.com,pornozebra.com,sexente.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.erocom.tv/?utm_"]
-deinesexfilme.com,einfachtitten.com,meinyouporn.com,pornoaffe.com,pornojenny.com,pornoklinge.com,pornozebra.com,sexente.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.erotik-von-nebenan.com/?utm_"]
-deinesexfilme.com,einfachtitten.com,meinyouporn.com,pornoaffe.com,pornojenny.com,pornoklinge.com,pornozebra.com,sexente.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.handy-sextreff.info/?c="]
+deinesexfilme.com,einfachtitten.com,meinyouporn.com,pornoaffe.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornozebra.com,sexente.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.erocom.tv/?utm_"]
+deinesexfilme.com,einfachtitten.com,meinyouporn.com,pornoaffe.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornozebra.com,sexente.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.erotik-von-nebenan.com/?utm_"]
+deinesexfilme.com,einfachtitten.com,meinyouporn.com,pornoaffe.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornozebra.com,sexente.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.handy-sextreff.info/?c="]
+deinesexfilme.com,einfachtitten.com,meinyouporn.com,pornoaffe.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornozebra.com,sexente.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.julia-reaves.com/?bicc="]
 daily-pia.de##a[href^="https://www.manitu.de/?partner="]
 pornhubdeutsch.info,xhamsterde.com##a[href^="https://www.wazazu.com/LA/Landingpage?"]
 xhamsterde.com##a[href^="https://www.zononi.com/LA/LP/Finder?"]
