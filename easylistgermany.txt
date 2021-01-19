@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101190926
+! Version: 202101190928
 ! Title: EasyList Germany
-! Last modified: 19 Jan 2021 09:26 UTC
+! Last modified: 19 Jan 2021 09:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2694,6 +2694,7 @@ nextpit.de##.gptSlot
 blickpunkt-brandenburg.de,nh24.de,sunshine.it##.header-banner
 fremdwort.de##.hinweisad
 hallescherfc.de##.home_sponsor_slider
+channelpartner.de##.idgWebcastsCarousel
 antenne.de,rockantenne.de,schwaebische.de##.leaderboard-wrapper
 home.1und1.de,web.de##.left-col__bottom
 queer.de##.leistenbanner
