@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101181754
+! Version: 202101190900
 ! Title: EasyList Germany
-! Last modified: 18 Jan 2021 17:54 UTC
+! Last modified: 19 Jan 2021 09:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2585,6 +2585,8 @@ juraforum.de###jf-stroer-superbanner
 laborjournal.de###kratzer
 1erforum.de,bauexpertenforum.de,dasheimwerkerforum.de,fitness-foren.de,lpgforum.de,mazda-forum.info,mercedes-forum.com,notebookforum.at,pkw-forum.de,toyota-forum.de,vermieter-forum.com,windows-7-forum.net###leader_top_desk
 skiinfo.ch,skiinfo.com,skiinfo.de,spieletipps.de###leaderboard
+ebay-kleinanzeigen.de###liberty-zsrp-bottom
+ebay-kleinanzeigen.de###liberty-zsrp-top-banner
 lmdfdg.com###link_placeholder
 bbc-magazin.com###logo-right-widget
 filmz.de###m > div[style="left:16px;width:468px;overflow:hidden"] + .p[style="left:4px;width:492px;height:262px"]:last-child
