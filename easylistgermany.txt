@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101190935
+! Version: 202101191017
 ! Title: EasyList Germany
-! Last modified: 19 Jan 2021 09:35 UTC
+! Last modified: 19 Jan 2021 10:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2075,7 +2075,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||schule-studium.de/buhv-Unterrichtsmaterial/Banner/
 ||schule-studium.de/images/Head-Dateien-jpgs/Thalia-Startseite.jpg
 ||scm-handball.de^*/Sponsoren/
-||searchx.ch/img/customerupload/banner/
 ||selbstaendig-im-netz.de/Bilder/affiliate-banner/
 ||selbstaendig-im-netz.de/Bilder/Profi/
 ||sensor-test.de/assets/Banner/
@@ -3955,7 +3954,6 @@ arcor.de##a[href^="https://zuhauseplus.vodafone.de/"] > img
 angesagter.de##a[href^="out.php?bid="]
 sinn-frei.com##a[href^="out2_"]
 maxrev.de##a[href^="redirect,banner_id,"]
-searchx.ch##a[name="banner"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=")"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=");"] > img[src^="/"]
 chip.de##a[onclick*="Ly9hcGkuY2hpcC1zZWN1cmVkLWRvd25sb2FkLmRlL3BheXBlcmRvd25sb2FkL2NsaWNrP2lkP"]
@@ -4515,7 +4513,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamepro.de|gamestar.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net
-@@||angis-escort.com/angi/banner/$image,domain=searchx.ch
 @@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
 @@||apsrv.de/javascripts/my_ad_integration.js?$domain=autoplenum.de
 @@||asadcdn.com/adlib/adlib_seq.js$script,domain=bz-berlin.de|stylebook.de
@@ -4745,9 +4742,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||sascdn.com/video/$script,domain=kleinezeitung.at
 @@||schluetersche.de/adwords/$~third-party
 @@||search.spotxchange.com^$image,domain=welect.de
-@@||searchx.ch/img/Banner$image,domain=searchx.ch
 @@||searchx.ch/img/Banner_$image,domain=ameliatantra.jimdo.com
-@@||searchx.ch/img/links/$domain=searchx.ch
 @@||secserv.adtech.de/adiframe/3.0/1135/5281906/0/3055/ADTECH;target=_blank$document,subdocument,domain=nzz.at
 @@||secserv.adtech.de/adiframe/3.0/1135/5281908/0/170/ADTECH;target=_blank$document,subdocument,domain=nzz.at
 @@||secserv.adtech.de/adiframe/3.0/1135/5787749/0/2466/ADTECH;target=_blank$document,subdocument,domain=nzz.at
@@ -4858,7 +4853,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||wuv.de/var/wuv/storage/images/werben_verkaufen/dossier/$image,domain=wuv.de
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 @@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch
-@@||xfind.de/banner/$image,domain=searchx.ch
 @@||xn--figg-ooa.ch/sites/default/files/ms_ads/banner$domain=ameliatantra.jimdo.com
 @@||yieldmanager.com/imp?$script,domain=girlsgogames.de
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|notenbuch24.de|preismafia.com
@@ -4879,7 +4873,6 @@ kalender-365.de#@#.adsbygoogle
 @@||media.meinestadt.de/image/*_300x250px.$image,domain=meinestadt.de
 @@||musikexpress.de/wp-content/uploads/*_musikexpressstyle_adbundle_mediumrectangle_300x250.gif$domain=musikexpress.de
 @@||rollingstone.de/wp-content/uploads/*_musikexpressstyle_adbundle_mediumrectangle_300x250.gif$domain=rollingstone.de
-@@||searchx.ch/img/BannerFreeRegister_728_90.jpg$domain=searchx.ch
 @@||smallapps.stroeerdp.de/podigee/*_300x250.$image,domain=cdn.podigee.com
 @@||social-media-hosting.com^*_120x60.jpg
 @@||stern.de/producing/paid/sternplus_$image,domain=stern.de
