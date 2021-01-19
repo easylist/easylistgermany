@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101191036
+! Version: 202101191305
 ! Title: EasyList Germany
-! Last modified: 19 Jan 2021 10:36 UTC
+! Last modified: 19 Jan 2021 13:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2699,6 +2699,8 @@ btc-echo.de##.btc-sponsored
 kremser-sc.at,sgleutershausen.de##.bx-viewport
 ka-news.de##.cad_box
 wolfsrevier.de##.client_wrapper
+markt.de##.clsy-adv-item
+markt.de##.clsy-c-advsection
 goslarsche.de##.container_skyscraper
 koeln.de##.contentRect
 scp07.de##.dp-sponsorenfooter
