@@ -1,5 +1,5 @@
 /imasdk.googleapis.com/js/core/bridge*.html$domain=gamestar.de
-/webservices/hitAlert.cfc?$domain=gamesaktuell.de|gamezone.de|pcgames.de|pcgameshardware.de|videogameszone.de
+/webservices/hitAlert.cfc?$domain=gamesaktuell.de|pcgameshardware.de|videogameszone.de
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
 ||112-magazin.de/images/banners/
@@ -60,8 +60,6 @@
 ||bastel-elfe.de/banner/
 ||bbc-magazin.com/wp-content/uploads/*/bbc-coburg-barmer-banner.jpg
 ||bbc-magazin.com/wp-content/uploads/*/bbc-coburg-brose-web24.png
-||bbszene.de/ane/bbszene/iframe.php
-||bbszene.de^*/banner/
 ||beamten-informationen.de/media/banner/
 ||beamten-informationen.de/media/img/b_
 ||beamten-informationen.de/media/img/partnerschaft_
@@ -368,7 +366,7 @@
 ||latina-press.com/media/spanisch-lernen-160.png
 ||lesbenhd.com/cpanel/f.php
 ||lesbenhd.com/img/linklist/
-||lightningcast.net^*/getplaylist?$domain=gamesaktuell.de|pcgames.de
+||lightningcast.net^*/getplaylist?$domain=gamesaktuell.de
 ||linkr.top/images/gutschein.gif
 ||linkr.top/images/rso.js
 ||linkr.top/images/ruse.js
