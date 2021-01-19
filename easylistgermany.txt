@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101190931
+! Version: 202101190933
 ! Title: EasyList Germany
-! Last modified: 19 Jan 2021 09:31 UTC
+! Last modified: 19 Jan 2021 09:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1800,6 +1800,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||gwd-minden.de/media/*/sky_1911_banner_257x180_gwd.jpg
 ||gwd-minden.de/media/*/Wohnhaus_Anzeige.jpg
 ||gwd-minden.de/media/sponsoren/
+||h-bw.de/fileadmin/*-banner-
+||h-bw.de^*/sponsoren/
 ||hallelife.de/files/hallelife/banner/
 ||hamburg-pride.de/fileadmin/banner/
 ||hannover96.de^*/sprite-footer-partners.gif
@@ -2219,6 +2221,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||vfl.de/sportmedia/assets/sunmaker_logo.svg
 ||vfl.de^*-banner_
 ||vhs-ol.de/lib/banner/
+||viamichelin.de/static/*/adblocker/advertising.js
 ||vienna-capitals.at/tl_files/capitals/banner/
 ||vienna-capitals.at/tl_files/capitals/partner/
 ||volleyball-bundesliga.de^*/partner/
@@ -2630,10 +2633,12 @@ rockland.fm###oms_gpt_rectangle
 rockland.fm###oms_gpt_rectanglesidebar
 hstt.net###page-header + br + .forabg
 nordbayern.de###page_billboard
+h-bw.de###partner
 tiervermittlung.de###petsexpert
 belgieninfo.net###pis_posts_in_sidebar-6
 wein.plus###premium-partners
 bluray-disc.de###pricechange-box
+h-bw.de###rothaus-aktion
 uhrforum.de###shuffled-sponsored
 uhrforum.de###sidebar_container
 finanznachrichten.de###sideteaser
