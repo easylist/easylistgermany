@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101190922
+! Version: 202101190923
 ! Title: EasyList Germany
-! Last modified: 19 Jan 2021 09:22 UTC
+! Last modified: 19 Jan 2021 09:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4404,6 +4404,7 @@ guenstiger.de#?#.productCard:-abp-has(div.premiumProductCaption)
 lieferheld.de#?#.restaurant-brief:-abp-has(div.restaurant__promo)
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 o-sport.de#?#.card-body:-abp-contains(Sponsoren)
+pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
 saechsische.de#?#article,div:-abp-has( > .article-fill__section > span:-abp-contains(Anzeige))
 t-online.de#?#div[id^="T-"][onfocus^="A('zid="]:-abp-has(a:-abp-contains(Anzeige))
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
