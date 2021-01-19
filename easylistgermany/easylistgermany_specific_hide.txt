@@ -1492,7 +1492,6 @@ arcor.de##a[href^="https://zuhauseplus.vodafone.de/"] > img
 angesagter.de##a[href^="out.php?bid="]
 sinn-frei.com##a[href^="out2_"]
 maxrev.de##a[href^="redirect,banner_id,"]
-searchx.ch##a[name="banner"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=")"] > img[src^="/"]
 npage.at,npage.ch,npage.de,~www.npage.at,~www.npage.ch,~www.npage.de##a[onclick$=");"] > img[src^="/"]
 chip.de##a[onclick*="Ly9hcGkuY2hpcC1zZWN1cmVkLWRvd25sb2FkLmRlL3BheXBlcmRvd25sb2FkL2NsaWNrP2lkP"]
