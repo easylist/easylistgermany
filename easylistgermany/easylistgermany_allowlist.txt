@@ -8,7 +8,7 @@
 @@||360yield.com/adj?$script,domain=girlsgogames.de
 @@||6inserate.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||71iv.nuggad.net/crossdomain.xml$object
-@@||a-ssl.ligatus.com/?ids=$script,domain=stern.de|wetter.de|zeit.de
+@@||a-ssl.ligatus.com/?ids=$script,domain=stern.de|wetter.de
 @@||a.ligatus.com/?ids=$script,domain=wetter.de
 @@||a.teads.tv/hb/bid-request|$xmlhttprequest,domain=finanzen.ch
 @@||ab-in-den-urlaub.de^*.popunder.js
@@ -259,7 +259,6 @@
 @@||partners.webmasterplan.com/click*.asp$subdocument,domain=eule.de
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
-@@||photo.knuddels.de/kde/ad2/$image
 @@||pixel.adsafeprotected.com/jspix?$script,domain=girlsgogames.de
 @@||pixel.adsafeprotected.com^$image,script,domain=welect.de
 @@||playboy.de/files/html/Advertorials/$~third-party
@@ -367,7 +366,6 @@
 @@||teufel-media.de/www/delivery/avw.php?zoneid=$image,domain=gewinnspiele.freenet.de
 @@||tfag.de/img/$domain=focus.de
 @@||thangkas.com/thangkas/thangkas/$image,~third-party
-@@||theplatform.com^*/doubleclick.js$domain=zeit.de
 @@||thomann.de^*/adv/adv_$image,~third-party
 @@||ticketonline.de/tickets.html?affiliate=$subdocument
 @@||ticketonline.de^*/?affiliate=
@@ -403,11 +401,9 @@
 @@||wn-jobs.de/search.html?adType=$xmlhttprequest
 @@||wn-markt.de/search.html?adType=$xmlhttprequest
 @@||wn-mobil.de/search.html?adType=$xmlhttprequest
-@@||wn.de/var/storage/images/*_300_250.$image,~third-party
 @@||wohnungsrechner.ch/Advert-$xmlhttprequest,domain=wohnungsrechner.ch
 @@||wohnungsrechner.ch/js/advert.js$domain=wohnungsrechner.ch
 @@||wp.com/stadt-bremerhaven.de/wp-content/uploads/*?resize=$image,domain=stadt-bremerhaven.de
-@@||wuv.de/var/wuv/storage/images/werben_verkaufen/dossier/$image,domain=wuv.de
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 @@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch
 @@||xn--figg-ooa.ch/sites/default/files/ms_ads/banner$domain=ameliatantra.jimdo.com
