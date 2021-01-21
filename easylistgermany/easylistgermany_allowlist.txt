@@ -125,7 +125,7 @@
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||d3con.de/data1/$image,~third-party
 @@||damoh.golem.de^$script,domain=golem.de
-@@||damoh.schneevonmorgen.com^$script,domain=chip.de|golem.de
+@@||damoh.schneevonmorgen.com^$script,domain=golem.de
 @@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
 @@||derstandard.at/adserver/t.gif$domain=videoservice.apa.at
@@ -404,7 +404,7 @@
 @@||werbung.specials.de^$subdocument,domain=zentralreisen.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
-@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|chip.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|kleinezeitung.at|maxizoo.ch|meinestadt.de|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
+@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|kleinezeitung.at|maxizoo.ch|meinestadt.de|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
 @@||wm-druckarena.de/scripts/Werbebanner.
 @@||wn-jobs.de/search.html?adType=$xmlhttprequest
 @@||wn-markt.de/search.html?adType=$xmlhttprequest
