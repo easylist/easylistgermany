@@ -17,8 +17,8 @@
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
 @@||ad.71i.de/global_js/globalV6.js$domain=7tv.de
-@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|myvideo.de|n24.de|sport1.fm
-@@||ad.71i.de/global_js/Sites/$script,domain=7tv.de|n24.de|sport1.fm
+@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|myvideo.de
+@@||ad.71i.de/global_js/Sites/$script,domain=7tv.de
 @@||ad.adworx.at/crossdomain.xml$object
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
@@ -51,12 +51,11 @@
 @@||adnxs.com^*/creative-image^$image,domain=bz-berlin.de
 @@||adpartner.de^$~third-party
 @@||ads.autoscout24.com/adserver/*&elementid=ctl00_ctl00_decoratedarea_contentarea_fsbox0&$script,domain=autoscout24.de
-@@||ads.heias.com/x/heias.smartclip/?$script,domain=podcast.de
 @@||ads.heias.com^*/heias.stream/$object,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
 @@||ads.radioffn.c.nmdn.net/ps-radioffn/livestream.mp3$object,domain=radio.de
-@@||adserv.quality-channel.de/crossdomain.xml$object,domain=glamour.de|gq-magazin.de|myself.de
-@@||adserv.quality-channel.de/realmedia/ads/*?videoad$object,domain=glamour.de|gq-magazin.de|myself.de
+@@||adserv.quality-channel.de/crossdomain.xml$object,domain=myself.de
+@@||adserv.quality-channel.de/realmedia/ads/*?videoad$object,domain=myself.de
 @@||adserver.adtech.de/addyn/3.0/1135.1/2945580/390564/$script,domain=nzz.ch
 @@||adserver.bigwigmedia.com/adfetch2.php?$object,domain=spielefuerdich.de
 @@||adserver.bigwigmedia.com/ingamead2_$object,domain=spielaffe.de
@@ -138,7 +137,6 @@
 @@||doubleclick.net^*/bob.tech.de.smartclip/*;ord=$script,domain=radiobob.de
 @@||doubleclick.net^*/nacamar.ads.de.smartclip/*;ord=$object,domain=edge.download.newmedia.nacamar.net
 @@||doubleclick.net^*/nacamar.de.smartclip/*;ord=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
-@@||doubleclick.net^*/podcast.de.smartclip/*;sz=400x320;$script,domain=podcast.de
 @@||drei.at/moma/adserver/adview.php?$image
 @@||dt.adsafeprotected.com^$image,domain=welect.de
 @@||dtb-gymnet.de^*^admID^
@@ -242,13 +240,11 @@
 @@||mstat.freent.de^*/sms_advertising/sms_teaser_$image,domain=webmail.freenet.de
 @@||mybitch.ch/banner/mb_banner$image,domain=ameliatantra.jimdo.com
 @@||myfreefarm.de/city/ajax/buyad.php?
-@@||n24.de^*/my_ad_integration.js
 @@||nadann.de/small_ads/$~third-party
 @@||netzathleten-media.de^*/naMediaAd.js$domain=kino-vorschau.com
 @@||nordclick.de/js/colors/adsense_colors.js
 @@||notebookcheck.com^$generichide
 @@||nuggad.net/bk?nuggn=$object,domain=edge.download.newmedia.nacamar.net
-@@||nuggad.net/bk?nuggn=$script,domain=podcast.de
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|studis-online.de|vox.de
 @@||nutte.ch/banner_fuer_werbung/nutte_$image,domain=ameliatantra.jimdo.com
 @@||oeko-komp.de/evoAds2/
@@ -340,7 +336,7 @@
 @@||smartadserver.de/wp-content/uploads/$image,domain=smartadserver.de
 @@||smartclip.net/?plc=$script,domain=energy.de|spiele.rtl.de
 @@||smartclip.net/ads?$script,domain=energy.de|spiele.rtl.de
-@@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|podcast.de|radiobob.de
+@@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|radiobob.de
 @@||smartclip.net/inpage/inpage.js
 @@||smartclip.net/inpage/inpage.swf$object
 @@||smartclip.net/inpage2/inpage-*.swf$object
@@ -351,8 +347,6 @@
 @@||spielen.de/bundles/mediatrustfrontend/js/javascript.js?
 @@||spielkarussell.de^*/ads_loader_new.js
 @@||sport.de/autoimg/*/300x250/$image,~third-party
-@@||sport1.fm/ad/my_ad_iframe.html?ad_id=performance*&start=$subdocument
-@@||sport1.fm/ad/my_ad_integration.js
 @@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=pages.ebay.de
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
