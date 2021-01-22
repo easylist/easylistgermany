@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101221033
+! Version: 202101221035
 ! Title: EasyList Germany
-! Last modified: 22 Jan 2021 10:33 UTC
+! Last modified: 22 Jan 2021 10:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1814,6 +1814,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||hcempor.de/wp-content/uploads/*/Logoleiste-Sponsoren
 ||hcgherdeina.com/img/db/s/20160422164221.png
 ||hcgherdeina.com/img/db/sponsor/
+||hcgherdeina.com/img/layout/squadra_sponsor_
 ||hcinnsbruck.at/images/Alpquell.png
 ||hcinnsbruck.at/images/bah_logo.png
 ||hcinnsbruck.at/images/Bauer.png
