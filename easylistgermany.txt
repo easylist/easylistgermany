@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101220925
+! Version: 202101220941
 ! Title: EasyList Germany
-! Last modified: 22 Jan 2021 09:25 UTC
+! Last modified: 22 Jan 2021 09:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2172,6 +2172,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||taschenlampen-forum.de/images/imalent/
 ||taschenlampen-forum.de/images/olight/
 ||taschenlampen-forum.de/images/wubenlight/
+||tbv-lemgo-lippe.de/fileadmin/_processed_/*_banner_
+||tbv-lemgo-lippe.de^*/sponsoren/
 ||telefonsexmitcam.com/images/
 ||telefonsexwebcam.com/images/livestrip-
 ||thinkpad-forum.de/banner/
