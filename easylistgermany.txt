@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101221057
+! Version: 202101221111
 ! Title: EasyList Germany
-! Last modified: 22 Jan 2021 10:57 UTC
+! Last modified: 22 Jan 2021 11:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2827,6 +2827,7 @@ juedische-allgemeine.de##.magazinteaser
 ofc.de##.main-club-partner
 winfuture.de##.mb25[style="min-height:261px"]
 lite-magazin.de##.metaslider
+goolive.de##.mgawerbungbase
 jetztspielen.de##.mpu
 mtb-news.de##.mtbnewsAdBillboardContainer
 finanznachrichten.de##.nadT
