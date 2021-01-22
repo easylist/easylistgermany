@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101221111
+! Version: 202101221114
 ! Title: EasyList Germany
-! Last modified: 22 Jan 2021 11:11 UTC
+! Last modified: 22 Jan 2021 11:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2848,6 +2848,7 @@ aktionspreis.de##.produkt_uebersicht > div > br.clear
 endstation-rechts.de##.promo
 games.ch##.rect
 fussballdaten.de,modhoster.de##.rectangle
+sport1.de##.s1-ad
 selbstaendig-im-netz.de##.selbs-blog-startseite-und-kategorien
 selbstaendig-im-netz.de##.selbs-unter-artikeln
 wallstreet-online.de##.shareInFocus
