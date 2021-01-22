@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101221019
+! Version: 202101221033
 ! Title: EasyList Germany
-! Last modified: 22 Jan 2021 10:19 UTC
+! Last modified: 22 Jan 2021 10:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2777,7 +2777,7 @@ bluray-disc.de##.banner_container
 dastelefonbuch.de##.banner_top
 frischauf-gp.de##.bannertop
 laborjournal.de##.bb_top
-laborjournal.de,winfuture.de##.billboard
+fnweb.de,laborjournal.de,winfuture.de##.billboard
 ak-kurier.de##.block-weather-link
 blogprojekt.de##.blogp-startseite
 blogprojekt.de##.blogp-werbung-oben-in-artikeln
