@@ -458,6 +458,7 @@ xhamsterde.com##a[href^="https://www.zononi.com/LA/LP/Finder?"]
 xhamsterde.com##a[href^="https://www.zononi.com/VX/LP/Roulette?"]
 wallstreet-online.de##a[onclick*="'tableAd'"]
 wallstreet-online.de##a[onclick*="'tableAd'"] + img
+kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 bitreporter.de##div[class$="-adlabel"]
 mtb-news.de##div[class^="mtbnews-ad-container"]
