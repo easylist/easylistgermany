@@ -8,8 +8,6 @@
 @@||360yield.com/adj?$script,domain=girlsgogames.de
 @@||6inserate.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||71iv.nuggad.net/crossdomain.xml$object
-@@||a-ssl.ligatus.com/?ids=$script,domain=stern.de|wetter.de
-@@||a.ligatus.com/?ids=$script,domain=wetter.de
 @@||a.teads.tv/hb/bid-request|$xmlhttprequest,domain=finanzen.ch
 @@||ab-in-den-urlaub.de^*.popunder.js
 @@||acdn.adnxs.com/ast/ast.js$script,domain=finanzen.ch
@@ -24,7 +22,7 @@
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
 @@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=spielaffe.de
 @@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
-@@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|literatur-fast-pur.de|preismafia.com|preisvergleich.de
+@@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|literatur-fast-pur.de|preismafia.com
 @@||adback.de^$~third-party
 @@||adcell.de/click.php?bid=$subdocument,domain=mein-rabatt.com
 @@||adclient.uimserv.net/banner?$script,domain=millionenklick.web.de
@@ -130,7 +128,6 @@
 @@||derstandard.at/adserver/t.gif$domain=videoservice.apa.at
 @@||docs.google.com/viewer?url=http://goerge-markt.de/fileadmin/werbung/$subdocument,domain=goerge-markt.de
 @@||doubleclick.net/ad/kostenlosspielen.de.smartclip/$object,domain=kostenlosspielen.net
-@@||doubleclick.net/adi/bluewin.sub.de.ch/$subdocument,domain=bluewin.ch
 @@||doubleclick.net/adj/*;sz=1x2;$script,domain=moviemaze.de
 @@||doubleclick.net/ddm/pfadx/N1203.IPNetzwerk/*;sz=0x0;*;dc_rfl=0,https%3A%2F%2Fevent.mivitec.net$xmlhttprequest,domain=imasdk.googleapis.com
 @@||doubleclick.net^*/ad/nacamar.ads.de.smartclip/$xmlhttprequest,domain=freestream.nmdn.net
@@ -185,9 +182,9 @@
 @@||galileo.tv/js/my_ad_integration.js
 @@||gmx.net^*/video-adserver-config.xml$object
 @@||go-parc-hf.de^*.php?ad=$subdocument
-@@||google.com/ads/search/module/ads/*/search.js$domain=arcor.de|fewo-direkt.de|zoover.de
+@@||google.com/ads/search/module/ads/*/search.js$domain=fewo-direkt.de|zoover.de
 @@||google.com/adsense/$subdocument,domain=sedo.de
-@@||google.com/adsense/search/ads.js$domain=arcor.de|fewo-direkt.de|zoover.de
+@@||google.com/adsense/search/ads.js$domain=fewo-direkt.de|zoover.de
 @@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
 @@||googlesyndication.com/pagead/imgad?$image,domain=auto-motor-und-sport.de
@@ -296,8 +293,6 @@
 @@||sascdn.com/diff/251/smartad.js$domain=welt.de
 @@||sascdn.com/diff/251/templates/passback.js$domain=autobild.de|welt.de
 @@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=fitbook.de
-@@||sascdn.com/diff/video/$script,domain=kleinezeitung.at
-@@||sascdn.com/video/$script,domain=kleinezeitung.at
 @@||schluetersche.de/adwords/$~third-party
 @@||search.spotxchange.com^$image,domain=welect.de
 @@||searchx.ch/img/Banner_$image,domain=ameliatantra.jimdo.com
@@ -359,7 +354,6 @@
 @@||storm-chasing.de^*/ad-gallery/$image,~third-party
 @@||stroeerdigitalgroup.de/metatag/live/AMS/metaTag.min.js$domain=auto-motor-und-sport.de
 @@||stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tvmovie.de
-@@||styria-digital.com/diff/js/smartads.js$domain=kleinezeitung.at
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tamedia.ch/tl_files/content/Icons/Advertising_$domain=tamedia.ch
 @@||tamedia.ch^*/advertising-$subdocument,domain=tamedia.ch
@@ -396,7 +390,7 @@
 @@||werbung.specials.de^$subdocument,domain=zentralreisen.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
-@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|kleinezeitung.at|maxizoo.ch|meinestadt.de|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
+@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|maxizoo.ch|meinestadt.de|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
 @@||wm-druckarena.de/scripts/Werbebanner.
 @@||wn-jobs.de/search.html?adType=$xmlhttprequest
 @@||wn-markt.de/search.html?adType=$xmlhttprequest

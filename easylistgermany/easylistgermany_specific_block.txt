@@ -1,5 +1,5 @@
 /imasdk.googleapis.com/js/core/bridge*.html$domain=gamestar.de
-/webservices/hitAlert.cfc?$domain=gamesaktuell.de|pcgameshardware.de|videogameszone.de
+/webservices/hitAlert.cfc?$domain=pcgameshardware.de|videogameszone.de
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
 ||112-magazin.de/images/banners/
@@ -375,7 +375,6 @@
 ||latina-press.com/media/spanisch-lernen-160.png
 ||lesbenhd.com/cpanel/f.php
 ||lesbenhd.com/img/linklist/
-||lightningcast.net^*/getplaylist?$domain=gamesaktuell.de
 ||linkr.top/images/gutschein.gif
 ||linkr.top/images/rso.js
 ||linkr.top/images/ruse.js
