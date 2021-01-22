@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101221228
+! Version: 202101221234
 ! Title: EasyList Germany
-! Last modified: 22 Jan 2021 12:28 UTC
+! Last modified: 22 Jan 2021 12:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1667,6 +1667,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||dfb.de/uploads/*_Partnerlogo_
 ||dforum.net/banner/
 ||dforum.net/ebay/
+||dhb.de^*/Sponsoren/
 ||die-beihilfe.de/media/banner/
 ||die-beihilfe.de/media/img/Banner_
 ||dieantenne.it^*/csm_logo_young_direct_
@@ -2871,7 +2872,7 @@ bolzano-bozen.it,europages.de,frischauf-gp.de,scfreiburg.com,svww.de##.sponsor
 ariva.de##.sponsored
 fcenergie.de##.sponsoren_wrapper
 hc-erlangen.de##.sponsoring-footer
-bayer04.de,hallescherfc.de,hcpustertal.com,ofc.de,rundumkoeln.de##.sponsors
+bayer04.de,dhb.de,hallescherfc.de,hcpustertal.com,ofc.de,rundumkoeln.de##.sponsors
 sg-flensburg-handewitt.de##.sponsors-col
 ebay.de##.srp-1p__banner
 spieletipps.de##.stiRectangleRgt
