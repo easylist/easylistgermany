@@ -1,5 +1,4 @@
 /imasdk.googleapis.com/js/core/bridge*.html$domain=gamestar.de
-/webservices/hitAlert.cfc?$domain=pcgameshardware.de|videogameszone.de
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
 ||112-magazin.de/images/banners/
@@ -713,7 +712,9 @@
 ||voltigierzirkel.de/uploads/*/arnd-helling-logo-
 ||voltigierzirkel.de/uploads/*/editor/ruhrmedic-kooperation_
 ||voltigierzirkel.de/uploads/*/felix-bender-kooperation_
+||voltigierzirkel.de/uploads/*/gipperich-logo_orig.png
 ||voltigierzirkel.de/uploads/*/haberbusch-kooperation_
+||voltigierzirkel.de/uploads/*/kr-mer.png
 ||voltigierzirkel.de/uploads/*/reitsport-peter-logo.jpeg
 ||vsport.at/uploads/tx_macinabanners/
 ||wallis24.it/images/banner/
@@ -728,7 +729,6 @@
 ||webwork-magazin.net/wp-content/uploads/*/sul-banner-
 ||webwork-magazin.net/wp-content/uploads/*/webdesign-printdesign.gif
 ||weekli.systems/media/banner/
-||wetter.com/cooperation/$~third-party
 ||wirsiegen.de/Altfahrzeugannahme.png
 ||wirsiegen.de/Calabria-Lieferservice.jpg
 ||wirsiegen.de/wp-content/uploads/*/Anwalt-Baranowski.jpg

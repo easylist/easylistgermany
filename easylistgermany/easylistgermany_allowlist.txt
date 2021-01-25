@@ -21,7 +21,6 @@
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
 @@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=spielaffe.de
-@@||ad.netzquadrat.de/viewbanner.php3?bannerid=$image,domain=sms.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|literatur-fast-pur.de|preismafia.com
 @@||adback.de^$~third-party
 @@||adcell.de/click.php?bid=$subdocument,domain=mein-rabatt.com
@@ -107,7 +106,6 @@
 @@||bluelithium.com/st?$script,domain=girlsgogames.de
 @@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
 @@||camerartist.de/wp-content/plugins/adrotate/$~third-party
-@@||canoo.net/services/wordformationdictionary/gifs/
 @@||cash.ch/min/f=*/adtech-$script
 @@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
 @@||cdn.spotxcdn.com^$domain=welect.de
@@ -339,7 +337,6 @@
 @@||softwareload.kpcustomer.de/voting/public/flash/300x250_widget_$object
 @@||sparfoto.de/article_designer/ad.php?$object
 @@||spielen.de/bundles/mediatrustfrontend/js/javascript.js?
-@@||spielkarussell.de^*/ads_loader_new.js
 @@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=pages.ebay.de
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
