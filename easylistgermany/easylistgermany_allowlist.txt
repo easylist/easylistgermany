@@ -74,7 +74,7 @@
 @@||adwords.safi-gmbh.ch^$~third-party
 @@||affilinet-inside.de^*/affilinet/$stylesheet
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=spielaffe.de
-@@||amazon-adsystem.com/aax2/apstag.js$domain=gamepro.de|gamestar.de
+@@||amazon-adsystem.com/aax2/apstag.js$domain=gamestar.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net
 @@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
@@ -106,7 +106,6 @@
 @@||bluelithium.com/st?$script,domain=girlsgogames.de
 @@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
 @@||camerartist.de/wp-content/plugins/adrotate/$~third-party
-@@||cash.ch/min/f=*/adtech-$script
 @@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
 @@||cdn.spotxcdn.com^$domain=welect.de
 @@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de|rtl2.de
@@ -286,7 +285,7 @@
 @@||sascdn.com/diff/251/*/gebrauchtwagenmarkt.png$image,domain=autobild.de
 @@||sascdn.com/diff/251/*/kindersitze.png$image,domain=autobild.de
 @@||sascdn.com/diff/251/*970x250$image,domain=welt.de
-@@||sascdn.com/diff/251/pages/$script,domain=hoerzu.de|transfermarkt.de
+@@||sascdn.com/diff/251/pages/$script,domain=transfermarkt.de
 @@||sascdn.com/diff/251/pages/autobild.js$domain=autobild.de
 @@||sascdn.com/diff/251/smartad.js$domain=welt.de
 @@||sascdn.com/diff/251/templates/passback.js$domain=autobild.de|welt.de
@@ -317,7 +316,6 @@
 @@||smartadserver.com/call/pubi/*/(bild/*/?format=.mp4$media,domain=bild.de
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
-@@||smartadserver.com/diff/*/smartad.js$domain=hoerzu.de
 @@||smartadserver.com/diff/251/2484653/show10.asp$script,domain=autobild.de
 @@||smartadserver.com/diff/251/pages/berlin.js$domain=welt.de
 @@||smartadserver.com/diff/251/templates/passback.js$domain=autobild.de|welt.de
