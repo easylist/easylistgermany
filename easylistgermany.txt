@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101261257
+! Version: 202101261259
 ! Title: EasyList Germany
-! Last modified: 26 Jan 2021 12:57 UTC
+! Last modified: 26 Jan 2021 12:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2186,6 +2186,9 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||taschenlampen-forum.de/images/wubenlight/
 ||tbv-lemgo-lippe.de/fileadmin/_processed_/*_banner_
 ||tbv-lemgo-lippe.de^*/sponsoren/
+||tchgdns.de/wp-content/uploads/*-300-600.jpg
+||tchgdns.de/wp-content/uploads/*_160600.jpg
+||tchgdns.de/wp-content/uploads/*_97090.jpg
 ||telefonsexmitcam.com/images/
 ||telefonsexwebcam.com/images/livestrip-
 ||thinkpad-forum.de/banner/
@@ -2907,6 +2910,8 @@ dasoertliche.de##.premiumtreffer
 aktionspreis.de##.produkt_uebersicht > div > br.clear
 endstation-rechts.de##.promo
 suedtirolnews.it##.pub
+tchgdns.de##.pub-footer
+tchgdns.de##.pub-single-side
 games.ch##.rect
 fussballdaten.de,modhoster.de##.rectangle
 apfeleimer.de##.rotslide-wrap
