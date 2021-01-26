@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101261004
+! Version: 202101261006
 ! Title: EasyList Germany
-! Last modified: 26 Jan 2021 10:04 UTC
+! Last modified: 26 Jan 2021 10:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2784,6 +2784,8 @@ apfeleimer.de##.asa1_fbh
 bitreporter.de##.asa2_fbva_wrapper
 hottime.ch##.asideBoxB
 wissenschaft.de##.asm_async_creative
+notebookinfo.de##.av-carousel
+notebookinfo.de##.av-fade-carousel
 hsc2000.de##.av-partner-fake-img
 hsc2000.de##.avia-slideshow-1
 1001spiele.de,6navi.ch,anixehd.tv,buchmarkt.de,hcb.net,juve.de,komoedie-steinstrasse.de,laufen.de,macerkopf.de,modhoster.de,pfaffenhofen-today.de,pixelio.de,salue.de,sexnews.ch,svs1916.de##.banner
