@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101261103
+! Version: 202101261105
 ! Title: EasyList Germany
-! Last modified: 26 Jan 2021 11:03 UTC
+! Last modified: 26 Jan 2021 11:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1957,6 +1957,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||nachtkritik.de/images/skyscraper_
 ||nachtkritik.de/images/topbanner_
 ||namibia-forum.ch/images/gsdu/
+||naturundtherapie.at/images/banners/
 ||netheweb.de/images/a-
 ||netheweb.de/images/trigami.png
 ||network.gofeminin.de^
@@ -2812,7 +2813,7 @@ dastelefonbuch.de##.banner_top
 handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
 xxxjob.ch##.bannerboxrechts
-112-magazin.de,highway-magazin.de,kl-aktuell.de,pc-experience.de,spielbox.de##.bannergroup
+112-magazin.de,highway-magazin.de,kl-aktuell.de,naturundtherapie.at,pc-experience.de,spielbox.de##.bannergroup
 sportal.ch##.bannerspot
 frischauf-gp.de##.bannertop
 nnz-online.de##.bannerwrapper
