@@ -482,9 +482,11 @@ nibelungen-kurier.de##.widget_dkge_wrapper
 ariva.de##.wo_news_top_banner
 zeno.org##.zenoLSInnerProductTableRightAmazon
 german-bash.org##.zitat > div[style="width:300px;"]
+erogeschichten.com##a[href*="/go/"]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
 mtb-news.de##a[href*="/redirect/takeover/"]
 blogprojekt.de##a[href="https://all-inkl.com/?partner="]
+erogeschichten.com##a[href^="http://in.mydirtyhobby.com/track/"]
 bbszene.de##a[href^="http://partners.webmasterplan.com/"]
 meintomtom.de##a[href^="http://www.amazon."][href*="tag="]
 pcwelt.de##a[href^="http://www.pcwelt.de/pv/"]
@@ -535,6 +537,8 @@ nh24.de##img[width="330"][height="220"]
 basicthinking.de##img[width="500"][height="500"]
 nh24.de##img[width="533"]
 hallescherfc.de##img[width="605"][height="690"]
+erogeschichten.com##table[align-center][cellpadding="13"][border="0"][bgcolor="lightgrey"]
+erogeschichten.com##table[style="border: 1px solid black; padding: 5px 0px 5px 0px; background-color: lightgrey; text-align: center"]
 websingles.at##table[width="306"]
 ibash.de##tr > td[valign="top"]:first-child + td[width="15"] + td[width="186"][valign="top"]:last-child
 !
