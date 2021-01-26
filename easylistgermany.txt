@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101261009
+! Version: 202101261101
 ! Title: EasyList Germany
-! Last modified: 26 Jan 2021 10:09 UTC
+! Last modified: 26 Jan 2021 11:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1626,6 +1626,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||borncity.com/blog/wp-content/uploads/*/Book04.jpg
 ||borncity.com/blog/wp-content/uploads/*/HostEurope_
 ||borncity.com/blog/wp-content/uploads/*/W10Tricks1.jpg
+||borussia.de^*/sponsors/
 ||bulldogs.hockey/fileadmin/web/img/premiumpartner.png
 ||bvb.de^*/bvb-championpartner/
 ||casinowelt.com/banner/
@@ -2822,6 +2823,7 @@ infranken.de##.billboard-wrapper
 ak-kurier.de##.block-weather-link
 blogprojekt.de##.blogp-startseite
 blogprojekt.de##.blogp-werbung-oben-in-artikeln
+borussia.de##.bmg-ad
 russland.capital,russland.news##.bodShopWidget
 btc-echo.de##.btc-sponsored
 boersennews.de##.btn-smartbroker
