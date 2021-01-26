@@ -1,4 +1,3 @@
-/imasdk.googleapis.com/js/core/bridge*.html$domain=gamestar.de
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
 ||112-magazin.de/images/banners/
@@ -121,8 +120,6 @@
 ||casinowelt.com/images/spinit.jpg
 ||cathkathcatt.ch^*/banner-
 ||cathkathcatt.ch^*/banner_
-||cgames.de/images/*/metro-countdown-$domain=gamestar.de
-||cgames.de/images/*/promobox-$domain=gamestar.de
 ||cherry.ch/images/banner/
 ||china.ahk.de/uploads/tx_bannermanagement/
 ||cine4home.de^*/HKA-C4Hb.gif
@@ -252,12 +249,6 @@
 ||gamekeyfinder.de/img/rot/
 ||gamemovieportal.ch/_partner/
 ||gameothek.com/wp-content/uploads/buttons/
-||gamestar.de/_misc/cntdwn/
-||gamestar.de/_misc/countdown/
-||gamestar.de/img/gamestar/_misc/gcEventBtnPrmBg.png
-||gamestar.de/img/gamestar/_misc/prm_logoheader_gs_
-||gamestar.de/img/gamestar/_misc/promotion/*/amazon_button*.png
-||gamestar.de/promotion/promowidget/
 ||gentleman-blog.de/wp-content/uploads/270x191.jpg
 ||gentleman-blog.de/wp-content/uploads/870x150.jpg
 ||gepostet.com/templates/desktop/images/banner/
@@ -676,7 +667,6 @@
 ||thinkpad-forum.de/Neu/*-banner.
 ||thinkpad-forum.de/Neu/*_banner.
 ||thinkpad-forum.de/Neu/Banner-
-||threepi.de^$media,domain=gamestar.de
 ||tilda.ch/images/banners/
 ||tobitech.de/images/banners/
 ||tschechien-online.org/sites/default/files/hotel-kleine-brauerei.jpg

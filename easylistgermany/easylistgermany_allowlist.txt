@@ -56,7 +56,6 @@
 @@||adserver.adtech.de/addyn/3.0/1135.1/2945580/390564/$script,domain=nzz.ch
 @@||adserver.bigwigmedia.com/adfetch2.php?$object,domain=spielefuerdich.de
 @@||adserver.bigwigmedia.com/ingamead2_$object,domain=spielaffe.de
-@@||adserver.freenet.de/praeludium/praeludium_mensh.js$domain=menshealth.de
 @@||adserver.freenet.de/praeludium/praeludium_tmrkt.js$domain=transfermarkt.tv
 @@||adserver.gb4.motorpresse.de/www/delivery/ajs.php?zoneid=*&target=_blank&$script,domain=mountainbike-magazin.de
 @@||adservice.google.*/adsid/integrator.js$domain=welect.de
@@ -124,11 +123,9 @@
 @@||dawanda.com/ads?$xmlhttprequest
 @@||derstandard.at/adserver/t.gif$domain=videoservice.apa.at
 @@||docs.google.com/viewer?url=http://goerge-markt.de/fileadmin/werbung/$subdocument,domain=goerge-markt.de
-@@||doubleclick.net/ad/kostenlosspielen.de.smartclip/$object,domain=kostenlosspielen.net
 @@||doubleclick.net/adj/*;sz=1x2;$script,domain=moviemaze.de
 @@||doubleclick.net/ddm/pfadx/N1203.IPNetzwerk/*;sz=0x0;*;dc_rfl=0,https%3A%2F%2Fevent.mivitec.net$xmlhttprequest,domain=imasdk.googleapis.com
 @@||doubleclick.net^*/ad/nacamar.ads.de.smartclip/$xmlhttprequest,domain=freestream.nmdn.net
-@@||doubleclick.net^*/bob.tech.de.smartclip/*;ord=$script,domain=radiobob.de
 @@||doubleclick.net^*/nacamar.ads.de.smartclip/*;ord=$object,domain=edge.download.newmedia.nacamar.net
 @@||doubleclick.net^*/nacamar.de.smartclip/*;ord=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||drei.at/moma/adserver/adview.php?$image
@@ -223,7 +220,6 @@
 @@||media.gan-online.com/www/delivery/*.php?$script,subdocument,domain=myfreefarm.de
 @@||media.laendleauto.at/topad/$image,~third-party
 @@||meinestadt.de^*/googleads.js
-@@||menshealth.de/videoads/$object
 @@||metzgerei-giering.de^*/advertising/$~third-party
 @@||milesandmore-aktionen.de^*://promo.$subdocument,domain=promo.milesandmore.com
 @@||mirapodo.de/ads?$script
@@ -326,7 +322,7 @@
 @@||smartadserver.de/wp-content/uploads/$image,domain=smartadserver.de
 @@||smartclip.net/?plc=$script,domain=energy.de|spiele.rtl.de
 @@||smartclip.net/ads?$script,domain=energy.de|spiele.rtl.de
-@@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net|kostenlosspielen.net|radiobob.de
+@@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartclip.net/inpage/inpage.js
 @@||smartclip.net/inpage/inpage.swf$object
 @@||smartclip.net/inpage2/inpage-*.swf$object
