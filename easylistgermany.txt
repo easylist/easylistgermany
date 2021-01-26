@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101261255
+! Version: 202101261257
 ! Title: EasyList Germany
-! Last modified: 26 Jan 2021 12:55 UTC
+! Last modified: 26 Jan 2021 12:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2914,7 +2914,7 @@ sport1.de##.s1-ad
 selbstaendig-im-netz.de##.selbs-blog-startseite-und-kategorien
 selbstaendig-im-netz.de##.selbs-unter-artikeln
 wallstreet-online.de##.shareInFocus
-gamezone.de,pcgames.de##.shopLinkFrameWrapper
+gamesaktuell.de,gamezone.de,pcgames.de##.shopLinkFrameWrapper
 giga.de##.sidebar-btn-affiliate
 automatentest.de##.sideinfo
 frischauf-gp.de##.skyadd
