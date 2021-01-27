@@ -15,7 +15,7 @@
 @@||ad-emea.doubleclick.net/crossdomain.xml$domain=iam.t-online.de
 @@||ad-tuning.de^*/ad-tuning-footer.png
 @@||ad.71i.de/global_js/globalV6.js$domain=7tv.de
-@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de|myvideo.de
+@@||ad.71i.de/global_js/globalv6.js$domain=autoplenum.de
 @@||ad.71i.de/global_js/Sites/$script,domain=7tv.de
 @@||ad.adworx.at/crossdomain.xml$object
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
@@ -219,7 +219,6 @@
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
 @@||media.gan-online.com/www/delivery/*.php?$script,subdocument,domain=myfreefarm.de
 @@||media.laendleauto.at/topad/$image,~third-party
-@@||meinestadt.de^*/googleads.js
 @@||metzgerei-giering.de^*/advertising/$~third-party
 @@||milesandmore-aktionen.de^*://promo.$subdocument,domain=promo.milesandmore.com
 @@||mirapodo.de/ads?$script
@@ -295,7 +294,6 @@
 @@||servedby.flashtalking.com/crossdomain.xml$object
 @@||servedby.flashtalking.com/imp/$object,domain=t-online.de
 @@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
-@@||sexabc.ch/xxx/topliste/img/sexabc_topliste$image,domain=ameliatantra.jimdo.com
 @@||sexkontaktinserate.com/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||sexlink.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||showfusion.eu/xml/ads/ad_1.xml$object,domain=urbia.de
@@ -320,8 +318,8 @@
 @@||smartadserver.com^*^tag=sas_3648^$script,domain=welt.de
 @@||smartadserver.com^*^tag=sas_3650^$script,domain=welt.de
 @@||smartadserver.de/wp-content/uploads/$image,domain=smartadserver.de
-@@||smartclip.net/?plc=$script,domain=energy.de|spiele.rtl.de
-@@||smartclip.net/ads?$script,domain=energy.de|spiele.rtl.de
+@@||smartclip.net/?plc=$script,domain=spiele.rtl.de
+@@||smartclip.net/ads?$script,domain=spiele.rtl.de
 @@||smartclip.net/delivery/tag?sid=$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartclip.net/inpage/inpage.js
 @@||smartclip.net/inpage/inpage.swf$object
@@ -330,7 +328,6 @@
 @@||smartclip.net/select?type=vast3^$xmlhttprequest,domain=imasdk.googleapis.com
 @@||softwareload.kpcustomer.de/voting/public/flash/300x250_widget_$object
 @@||sparfoto.de/article_designer/ad.php?$object
-@@||spielen.de/bundles/mediatrustfrontend/js/javascript.js?
 @@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=pages.ebay.de
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
@@ -380,7 +377,7 @@
 @@||werbung.specials.de^$subdocument,domain=zentralreisen.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
-@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|maxizoo.ch|meinestadt.de|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
+@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|maxizoo.ch|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
 @@||wm-druckarena.de/scripts/Werbebanner.
 @@||wn-jobs.de/search.html?adType=$xmlhttprequest
 @@||wn-markt.de/search.html?adType=$xmlhttprequest
