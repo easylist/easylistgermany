@@ -1349,7 +1349,7 @@ finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='https://paid.outbra
 ! Advanced element hiding rules for Adblock Plus
 az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
 barfuss.it#?#.panels-flexible-region:-abp-has(span:-abp-contains(Gesponsert))
-bitreporter.de#?#.code-block:-abp-has(span:-abp-contains(ANZEIGE))
+bitreporter.de#?#.code-block:-abp-has(span:-abp-contains(/ANZEIGE|Werbung/))
 chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEIGE)
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
