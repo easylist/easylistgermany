@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101281450
+! Version: 202101281508
 ! Title: EasyList Germany
-! Last modified: 28 Jan 2021 14:50 UTC
+! Last modified: 28 Jan 2021 15:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -454,6 +454,7 @@ _woz_banner_vote.
 ##a[href^="http://www.firstload.de/index.php?set_lang=de&log="]
 ##a[href^="http://www.sendung-now.de/tick/click.php?id="]
 ##a[href^="https://ads.sunmaker.com/tracking.php?"]
+##a[href^="https://clicks.imaxcash.com/?aff_"]
 ##a[href^="https://maidings-mectland.com/"]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
@@ -934,9 +935,11 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ! -----------------------------Third-party Werbung-----------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_thirdparty.txt ***
 ||4fal.com/profilbannercreate/$third-party
+||imaxcdn.com/promotool/banner/$third-party
 ||seitensprungarea.com/medien/$third-party
 ||smskontakt.ch/images/$third-party
 ||treff-mich.org/bilder/$third-party
+||wazazu.com/pimage/bas/$third-party
 ||wien-girls.at/img/ba/$third-party
 ! 
 ||1deluxe.eu/banner/
@@ -2049,6 +2052,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||rot-weiss-erfurt.de/pictures/Banner-
 ||rot-weiss-essen.de/fileadmin/*_Wettbasis_
 ||rot-weiss-essen.de/uploads/tx_sfbanners/
+||rotehaus.net/kittys-tipps/tippseiten/bilder/
 ||rro.ch/cms/topbanner/
 ||ruhrbarone.de^*/bang.gif
 ||russland.capital/wp-content/uploads/*/CeMAT20.gif
