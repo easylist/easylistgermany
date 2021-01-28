@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101281150
+! Version: 202101281303
 ! Title: EasyList Germany
-! Last modified: 28 Jan 2021 11:50 UTC
+! Last modified: 28 Jan 2021 13:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2069,6 +2069,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sexuria.com/poup.js
 ||sexvideos-hd.com/cpanel/
 ||sexvideos-hd.com/img/linklist2/
+||sexy-land.ch/images/banner/
 ||sg-flensburg-handewitt.de^*/Online_Banner/
 ||sg-flensburg-handewitt.de^*/Sponsors/
 ||sgf1903.de^*/Sponsoring/
@@ -2495,7 +2496,7 @@ tff-forum.de###banner-left-2
 scfreiburg.com###banner-news
 tff-forum.de###banner-right-1
 tff-forum.de###banner-right-2
-annos.de,chefkoch.de###banner-top
+annos.de,chefkoch.de,sexy-land.ch###banner-top
 kriminalpolizei.de###banner-wrapper-right-v3
 kriminalpolizei.de###banner-wrapper-top-v1
 nrhz.de###banner_container_rc
@@ -2781,6 +2782,9 @@ magistrix.de##.banner-skyscraper
 scfreiburg.com##.banner-super-middle
 donnerwetter.at,donnerwetter.ch,donnerwetter.de##.banner-top
 pokerfirma.com##.banner-top-section
+sexy-land.ch##.banner200
+sexy-land.ch##.banner350
+sexy-land.ch##.banner60
 sims4ever.de##.bannerBox
 moviejones.de##.bannerInfo
 cherry.ch,lust24.ch##.bannerListPremium
