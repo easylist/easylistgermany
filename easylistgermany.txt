@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101281310
+! Version: 202101281313
 ! Title: EasyList Germany
-! Last modified: 28 Jan 2021 13:10 UTC
+! Last modified: 28 Jan 2021 13:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -935,6 +935,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ! *** easylistgermany:easylistgermany/easylistgermany_thirdparty.txt ***
 ||seitensprungarea.com/medien/$third-party
 ||treff-mich.org/bilder/$third-party
+||wien-girls.at/img/ba/$third-party
 ! 
 ||1deluxe.eu/banner/
 ||1und1.hoch-it.de/images/$third-party
@@ -1857,6 +1858,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||hsvhandball.com/wp-content/uploads/*/hummel_white.png
 ||hsvhandball.com/wp-content/uploads/*/smileys.png
 ||hsvhandball.com/wp-content/uploads/*/ticketmaster_white.png
+||huren-inserate.com/banner/
 ||idealo.de/banner/
 ||im.banner.t-online.de^
 ||images-amazon.com/images/*/marquee/
