@@ -95,6 +95,7 @@ dtoday.de,goslarsche.de,pz-news.de,tageblatt.de,teckbote.de,weser-kurier.de###co
 biothemen.de###content + #right
 onlinereports.ch###content-banner1
 onlinereports.ch###content-banner3
+ladies.de###content-solads
 rund-magazin.de###contentbanner
 tagblatt.de###ctl00_ctl00_m_ctrlMainMasterContentPlaceHolder_m_ctrlMainContentPlaceHolder_ctl03_m_ctrlEditContainer
 nh24.de###custom_html-2
@@ -131,6 +132,7 @@ mtb-news.de###header
 diegrenzgaenger.lu###header-wrapper + div[class="row "]
 klamm.de###header_main
 amazon.de###heroQuickPromo_feature_div
+ladies.de###home-teaser
 nibelungen-kurier.de###homeDisplay
 winfuture.de###homepage_rectangle
 chip.de###hp-aquamarin
@@ -176,6 +178,7 @@ yasni.de###offer
 rockland.fm###oms_gpt_rectangle
 rockland.fm###oms_gpt_rectanglesidebar
 hstt.net###page-header + br + .forabg
+ladies.de###page-top-sol
 nordbayern.de###page_billboard
 parcello.org###parcello-mo
 h-bw.de###partner
@@ -263,6 +266,7 @@ belgieninfo.net###widget_sp_image-14
 meetingpoint-brandenburg.de###wobra-suche
 ariva.de###wpAktieImFokus
 pocketpc.ch###xxParentDivForWerbPostbit
+ladies.de###zeiten
 finanzfrage.net,gutefrage.net##.Ad
 jungewelt.de,vermieter-forum.com##.Anzeige
 fc-suedtirol.com##.BannerContainer
@@ -573,8 +577,9 @@ zeno.org##.zenoLSInnerProductTableRightAmazon
 german-bash.org##.zitat > div[style="width:300px;"]
 erogeschichten.com##a[href*="/go/"]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
-mtb-news.de##a[href*="/redirect/takeover/"]
+ladies.de,mtb-news.de##a[href*="/redirect/"]
 blogprojekt.de##a[href="https://all-inkl.com/?partner="]
+ladies.de##a[href="https://zwinkr.de/landing/"]
 finanzen.net##a[href^="http://g.finanzen.net/hsbc-startseite-top-flop?id="]
 erogeschichten.com##a[href^="http://in.mydirtyhobby.com/track/"]
 bbszene.de##a[href^="http://partners.webmasterplan.com/"]
