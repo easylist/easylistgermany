@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101281636
+! Version: 202101281639
 ! Title: EasyList Germany
-! Last modified: 28 Jan 2021 16:36 UTC
+! Last modified: 28 Jan 2021 16:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1979,6 +1979,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||nurxxx.net/ai/s/s/js/ssu.v2.js
 ||o-sport.de/assets/sponsors/
 ||oe-static.de/js/rmif.js
+||oefb.at/netzwerk/imagedownload/
 ||oeffentlichen-dienst.de/images/banners/
 ||oekoportal.de/sites/default/files/pelletheizung-info.jpg
 ||oekoportal.de/sites/default/files/stromvergleich.png
@@ -2762,6 +2763,7 @@ mobile.de##.adv
 eurogamer.de,morningstar.de,suedkurier.de,weser-kurier.de##.advert
 onvista.de##.advertisedFund
 extremnews.com##.advertisement
+oefb.at##.advertising
 kauf6.com##.advertisments
 erf.de,greenbyte.ch##.adwrapper
 plattentests.de##.amazon
@@ -2776,6 +2778,7 @@ motorsport-total.com##.anzeige_teas_rect_ax
 partyamt.de##.anzeigen
 aerzteblatt.de##.anzeigenbox
 willhaben.at##.apn-leaderboard-wrapper
+oefb.at##.app-foesvAdSpace
 saechsische.de##.article-nad,.article-box--nad,.article-bundle--nad
 computerbase.de##.article-view__rectangle
 itmagazine.ch##.article_rectangle
