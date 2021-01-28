@@ -6,7 +6,6 @@
 @@||2mdn.net/ads/studio/Enabler.js$domain=marketing-a.akamaihd.net
 @@||2mdn.net/instream/video/client.js$domain=welect.de
 @@||360yield.com/adj?$script,domain=girlsgogames.de
-@@||6inserate.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||71iv.nuggad.net/crossdomain.xml$object
 @@||a.teads.tv/hb/bid-request|$xmlhttprequest,domain=finanzen.ch
 @@||ab-in-den-urlaub.de^*.popunder.js
@@ -69,7 +68,6 @@
 @@||adtech.de/adrawdata$object,domain=player.nowonscreen.com
 @@||adtech.de/dt/common/DAC.js$domain=nzz.ch
 @@||adtech.de/dt/common/postscribe.js$domain=nzz.ch
-@@||advertiser.wbtrk.net/js/advertiser.js$domain=heise.de
 @@||adwords.safi-gmbh.ch^$~third-party
 @@||affilinet-inside.de^*/affilinet/$stylesheet
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=spielaffe.de
@@ -193,13 +191,11 @@
 @@||gymnasium-august-dicke.de^*/ads/
 @@||gynny.de/img/affilinet/
 @@||gynny.de/shopframe/$document,subdocument
-@@||happybox24.ch/img/media/happybox24.ch_$image,domain=ameliatantra.jimdo.com
 @@||ib.adnxs.com/ut/v3^$xmlhttprequest,domain=stylebook.de
 @@||ib.adnxs.com^$xmlhttprequest,domain=bz-berlin.de|finanzen.ch
 @@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
 @@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
 @@||imasdk.googleapis.com/js/core/bridge$document,subdocument,domain=welect.de
-@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=heise.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=atv.at|chip.de|event.mivitec.net|musikexpress.de|rollingstone.de|welect.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||insel-usedom-wollin.de/ads/$script,stylesheet
@@ -227,7 +223,6 @@
 @@||mobilegeeks.de/wp-content/uploads/*/Google-Ads.$image,domain=mobilegeeks.de
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
 @@||mstat.freent.de^*/sms_advertising/sms_teaser_$image,domain=webmail.freenet.de
-@@||mybitch.ch/banner/mb_banner$image,domain=ameliatantra.jimdo.com
 @@||myfreefarm.de/city/ajax/buyad.php?
 @@||nadann.de/small_ads/$~third-party
 @@||netzathleten-media.de^*/naMediaAd.js$domain=kino-vorschau.com
@@ -235,7 +230,6 @@
 @@||notebookcheck.com^$generichide
 @@||nuggad.net/bk?nuggn=$object,domain=edge.download.newmedia.nacamar.net
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|studis-online.de|vox.de
-@@||nutte.ch/banner_fuer_werbung/nutte_$image,domain=ameliatantra.jimdo.com
 @@||oeko-komp.de/evoAds2/
 @@||openx.net/w/1.0/acj?$script,domain=spielaffe.de
 @@||openx.net/w/1.0/jstag?nc=$script,domain=spielaffe.de
@@ -287,15 +281,12 @@
 @@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=fitbook.de
 @@||schluetersche.de/adwords/$~third-party
 @@||search.spotxchange.com^$image,domain=welect.de
-@@||searchx.ch/img/Banner_$image,domain=ameliatantra.jimdo.com
 @@||secserv.adtech.de/adiframe/3.0/1135/5281906/0/3055/ADTECH;target=_blank$document,subdocument,domain=nzz.at
 @@||secserv.adtech.de/adiframe/3.0/1135/5281908/0/170/ADTECH;target=_blank$document,subdocument,domain=nzz.at
 @@||secserv.adtech.de/adiframe/3.0/1135/5787749/0/2466/ADTECH;target=_blank$document,subdocument,domain=nzz.at
 @@||servedby.flashtalking.com/crossdomain.xml$object
 @@||servedby.flashtalking.com/imp/$object,domain=t-online.de
 @@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
-@@||sexkontaktinserate.com/images/banner/$image,domain=ameliatantra.jimdo.com
-@@||sexlink.ch/images/banner/$image,domain=ameliatantra.jimdo.com
 @@||showfusion.eu/xml/ads/ad_1.xml$object,domain=urbia.de
 @@||showheroes.com/prebid.$script,domain=metal-hammer.de|rollingstone.de
 @@||shz.de/sso/$elemhide
@@ -377,7 +368,7 @@
 @@||werbung.specials.de^$subdocument,domain=zentralreisen.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
-@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|maxizoo.ch|netmoms.de|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
+@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|maxizoo.ch|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
 @@||wm-druckarena.de/scripts/Werbebanner.
 @@||wn-jobs.de/search.html?adType=$xmlhttprequest
 @@||wn-markt.de/search.html?adType=$xmlhttprequest
@@ -387,7 +378,6 @@
 @@||wp.com/stadt-bremerhaven.de/wp-content/uploads/*?resize=$image,domain=stadt-bremerhaven.de
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 @@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch
-@@||xn--figg-ooa.ch/sites/default/files/ms_ads/banner$domain=ameliatantra.jimdo.com
 @@||yieldmanager.com/imp?$script,domain=girlsgogames.de
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|notenbuch24.de|preismafia.com
 ! "Matched Content" by Google (https://support.google.com/adsense/answer/6111336)
