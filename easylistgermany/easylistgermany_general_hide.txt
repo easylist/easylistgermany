@@ -283,13 +283,18 @@
 ##.werbungimthread
 ##.werbungrechtstitel
 ##.widget-werbung
+##a[href*=".prodtraff.com/"]
 ##a[href="https://www.focus.de/deal/focus-online-deal-mit-weltsparen-setzen-sie-jetzt-auf-zinserhoehungen-weltsparen-schenkt-ihnen-dafuer-150-euro_id_11868745.html"] > img
+##a[href^="http://landing.fickzeit.com/?ag="]
+##a[href^="http://landing.parkplatzkartei.com/?ag="]
 ##a[href^="http://partners.adklick.de/tracking.php?"]
 ##a[href^="http://www.eis.de/index.phtml?refid="]
 ##a[href^="http://www.firstload.de/index.php?set_lang=de&log="]
 ##a[href^="http://www.sendung-now.de/tick/click.php?id="]
 ##a[href^="https://ads.sunmaker.com/tracking.php?"]
 ##a[href^="https://clicks.imaxcash.com/?aff_"]
+##a[href^="https://dpm.affaire18.com/click.php?dp="]
+##a[href^="https://dpm.jungekontakte.com/click.php?dp="]
 ##a[href^="https://maidings-mectland.com/"]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
