@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101290455
+! Version: 202101290641
 ! Title: EasyList Germany
-! Last modified: 29 Jan 2021 04:55 UTC
+! Last modified: 29 Jan 2021 06:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2979,7 +2979,7 @@ suedtirolnews.it##.pub
 tchgdns.de##.pub-footer
 tchgdns.de##.pub-single-side
 games.ch##.rect
-fussballdaten.de,modhoster.de##.rectangle
+fussballdaten.de,modhoster.de,rheintaler.ch##.rectangle
 suche.freenet.de##.result-container > .container-right
 nydus.org##.right > .widgetbox2
 apfeleimer.de##.rotslide-wrap
@@ -2994,7 +2994,7 @@ automatentest.de##.sideinfo
 frischauf-gp.de##.skyadd
 internet-sms.com##.skybg
 spiele-kostenlos-online.de##.skycraper
-11freunde.de,dialo.de,dynamo-dresden.de,jetztspielen.de,ligaportal.at,spielen.de##.skyscraper
+11freunde.de,dialo.de,dynamo-dresden.de,jetztspielen.de,ligaportal.at,rheintaler.ch,spielen.de##.skyscraper
 finanznachrichten.de##.smartbroker--text
 finanznachrichten.de##.smartbroker-logo
 finanznachrichten.de##.smartbroker1
