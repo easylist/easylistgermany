@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101290641
+! Version: 202101290648
 ! Title: EasyList Germany
-! Last modified: 29 Jan 2021 06:41 UTC
+! Last modified: 29 Jan 2021 06:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -448,13 +448,18 @@ _woz_banner_vote.
 ##.werbungimthread
 ##.werbungrechtstitel
 ##.widget-werbung
+##a[href*=".prodtraff.com/"]
 ##a[href="https://www.focus.de/deal/focus-online-deal-mit-weltsparen-setzen-sie-jetzt-auf-zinserhoehungen-weltsparen-schenkt-ihnen-dafuer-150-euro_id_11868745.html"] > img
+##a[href^="http://landing.fickzeit.com/?ag="]
+##a[href^="http://landing.parkplatzkartei.com/?ag="]
 ##a[href^="http://partners.adklick.de/tracking.php?"]
 ##a[href^="http://www.eis.de/index.phtml?refid="]
 ##a[href^="http://www.firstload.de/index.php?set_lang=de&log="]
 ##a[href^="http://www.sendung-now.de/tick/click.php?id="]
 ##a[href^="https://ads.sunmaker.com/tracking.php?"]
 ##a[href^="https://clicks.imaxcash.com/?aff_"]
+##a[href^="https://dpm.affaire18.com/click.php?dp="]
+##a[href^="https://dpm.jungekontakte.com/click.php?dp="]
 ##a[href^="https://maidings-mectland.com/"]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
@@ -2055,6 +2060,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||rot-weiss-erfurt.de/pictures/Banner-
 ||rot-weiss-essen.de/fileadmin/*_Wettbasis_
 ||rot-weiss-essen.de/uploads/tx_sfbanners/
+||rotehaus.net/kittys-tipps/banner/
 ||rotehaus.net/kittys-tipps/tippseiten/bilder/
 ||rro.ch/cms/topbanner/
 ||ruhrbarone.de^*/bang.gif
