@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101290125
+! Version: 202101290405
 ! Title: EasyList Germany
-! Last modified: 29 Jan 2021 01:25 UTC
+! Last modified: 29 Jan 2021 04:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2791,6 +2791,7 @@ apfeleimer.de##.asa1_fbh
 bitreporter.de##.asa2_fbva_wrapper
 hottime.ch##.asideBoxB
 wissenschaft.de##.asm_async_creative
+autoline.de,autoline24.at,autoline24.ch##.atla-place
 notebookinfo.de##.av-carousel
 notebookinfo.de##.av-fade-carousel
 hsc2000.de##.av-partner-fake-img
@@ -2918,6 +2919,7 @@ hallescherfc.de##.home_sponsor_slider
 boerse-online.de##.hsbc_homepage_topflop
 news.de##.ialayerContainer
 channelpartner.de##.idgWebcastsCarousel
+autoline.de,autoline24.at,autoline24.ch##.index-bns
 erotikinserate.ch##.inner
 sueddeutsche.de##.iqad
 onvista.de##.isSponsored
