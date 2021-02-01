@@ -1,15 +1,11 @@
 /^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=hdfilme.cx
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ||4fuckr.com/api.php$popup
-||5vor12.de/cgi-perl/adP?nr=$popup
 ||amazon.de^*^tag=$popup,domain=rheinlandpfalz-news.de|wetteronline.de
 ||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
 ||damoh.spiegel.tv^$popup
 ||googleadservices.com^$popup,domain=wetteronline.de
-||hifi-forum.de/forum/banner/$popup
 ||jokermovie.org/out.php$popup
-||lovoo.net^$popup,domain=smsform.de
-||neckermann.de^$popup,domain=5vor12.de
 ||playporn.to/out.php$popup
 ||putenbrust.net/cgi-bin/atc/out.cgi?l=popup&$popup
 ||sexei.net/go.html$popup
@@ -18,5 +14,3 @@
 ||sptopf.de/tshp/RE?ID=$popup,domain=t-online.de
 ||stream-box.net/out.php$popup
 ||stream-seiten.org/out.php$popup
-||tradedoubler.com/click?$popup,domain=smsform.de
-||usenext.de^$popup,domain=5vor12.de

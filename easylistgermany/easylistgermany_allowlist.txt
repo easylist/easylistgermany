@@ -19,7 +19,6 @@
 @@||ad.adworx.at/crossdomain.xml$object
 @@||ad.amgdgt.com/ads/?$subdocument,domain=payback.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
-@@||ad.doubleclick.net/ddm/ad/*/;ord=$image,domain=spielaffe.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|literatur-fast-pur.de|preismafia.com
 @@||adback.de^$~third-party
 @@||adcell.de/click.php?bid=$subdocument,domain=mein-rabatt.com
@@ -49,12 +48,9 @@
 @@||ads.autoscout24.com/adserver/*&elementid=ctl00_ctl00_decoratedarea_contentarea_fsbox0&$script,domain=autoscout24.de
 @@||ads.heias.com^*/heias.stream/$object,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
-@@||ads.radioffn.c.nmdn.net/ps-radioffn/livestream.mp3$object,domain=radio.de
 @@||adserv.quality-channel.de/crossdomain.xml$object,domain=myself.de
 @@||adserv.quality-channel.de/realmedia/ads/*?videoad$object,domain=myself.de
 @@||adserver.adtech.de/addyn/3.0/1135.1/2945580/390564/$script,domain=nzz.ch
-@@||adserver.bigwigmedia.com/adfetch2.php?$object,domain=spielefuerdich.de
-@@||adserver.bigwigmedia.com/ingamead2_$object,domain=spielaffe.de
 @@||adserver.freenet.de/praeludium/praeludium_tmrkt.js$domain=transfermarkt.tv
 @@||adserver.gb4.motorpresse.de/www/delivery/ajs.php?zoneid=*&target=_blank&$script,domain=mountainbike-magazin.de
 @@||adservice.google.*/adsid/integrator.js$domain=welect.de
@@ -70,7 +66,6 @@
 @@||adtech.de/dt/common/postscribe.js$domain=nzz.ch
 @@||adwords.safi-gmbh.ch^$~third-party
 @@||affilinet-inside.de^*/affilinet/$stylesheet
-@@||amazon-adsystem.com/aax2/amzn_ads.js$domain=spielaffe.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamestar.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||amgdgt.com/ads?$script,domain=deltaradio.de|freestream.nmdn.net
@@ -220,7 +215,6 @@
 @@||mirapodo.de/ads?$script
 @@||mmcomputer.de^*&BannerID=$subdocument
 @@||mobilbranche.de/mobilbranche/wp-content/uploads/$image,domain=mobilbranche.de
-@@||mobilegeeks.de/wp-content/uploads/*/Google-Ads.$image,domain=mobilegeeks.de
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
 @@||mstat.freent.de^*/sms_advertising/sms_teaser_$image,domain=webmail.freenet.de
 @@||myfreefarm.de/city/ajax/buyad.php?
@@ -231,8 +225,6 @@
 @@||nuggad.net/bk?nuggn=$object,domain=edge.download.newmedia.nacamar.net
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|studis-online.de|vox.de
 @@||oeko-komp.de/evoAds2/
-@@||openx.net/w/1.0/acj?$script,domain=spielaffe.de
-@@||openx.net/w/1.0/jstag?nc=$script,domain=spielaffe.de
 @@||os1.tv/js/omsvc_externalad.js
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=oroma.net|speedweek.com
@@ -244,7 +236,6 @@
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
 @@||pixel.adsafeprotected.com/jspix?$script,domain=girlsgogames.de
 @@||pixel.adsafeprotected.com^$image,script,domain=welect.de
-@@||playboy.de/files/html/Advertorials/$~third-party
 @@||player.aniview.com/script/*/aniview.js$domain=musikexpress.de|rollingstone.de
 @@||player.aniview.com/script/*/AVmanager.js$domain=musikexpress.de|rollingstone.de
 @@||player.newsnetz.tv/player/iframe.php?vid=*&adurl=$subdocument
@@ -319,7 +310,6 @@
 @@||smartclip.net/select?type=vast3^$xmlhttprequest,domain=imasdk.googleapis.com
 @@||softwareload.kpcustomer.de/voting/public/flash/300x250_widget_$object
 @@||sparfoto.de/article_designer/ad.php?$object
-@@||srx.de.ebayrtm.com/rtm?RtmCmd&a=$script,domain=pages.ebay.de
 @@||stadtlist.de/images/ads/$image
 @@||stadtlist.de/images/advert-$image,domain=stadtlist.de
 @@||static-fra.de/ip/js/adcontrol/adcontrol.min.js
