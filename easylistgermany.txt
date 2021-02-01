@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102011401
+! Version: 202102011405
 ! Title: EasyList Germany
-! Last modified: 01 Feb 2021 14:01 UTC
+! Last modified: 01 Feb 2021 14:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2018,6 +2018,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||ox.gassi-tv.de^
 ||pacific-blue.ch/banner/
 ||parcello.org/wp-content/uploads/*/amazon-$image
+||partner.schalke04.de^
 ||partyamt.de/images/b/
 ||paules-pc-forum.de/images/buch/
 ||pfaffenhofen-today.de/images/banners/
@@ -2919,6 +2920,7 @@ gwd-minden.de##.footer
 hottime.ch##.footer-grey
 ecrbs.redbulls.com,fussball.de##.footer-partner
 fcbayern.com##.footer-partner-container
+schalke04.de##.footer-sponsors
 xhamsterde.com##.footer-widget-zone
 rhein-neckar-loewen.de##.footer__slider
 oefb.at##.footer_partner
@@ -2981,6 +2983,7 @@ intimesrevier.com##.miragobox
 finanzen.net##.mleft-10 + .table-quotes
 fc.de##.mod-sponsor-icon
 blaue-blume.tv,goldstar-tv.de,romance-tv.de##.mod_banner
+schalke04.de##.module-advertising
 jetztspielen.de##.mpu
 mtb-news.de##.mtbnewsAdBillboardContainer
 finanznachrichten.de##.nadT
