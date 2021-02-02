@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102021443
+! Version: 202102021445
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2021 14:43 UTC
+! Last modified: 02 Feb 2021 14:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1592,6 +1592,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||az.com.na/img/banner/
 ||azureedge.net/pickerimages/bayer04-superbanner_$domain=bayer04.de
 ||azureedge.net/pickerimages/Lokalfreunde_$domain=bayer04.de
+||b2run.de/run/de/de/components/partner-links/
+||b2run.de/run/de/de/pics/partner/
 ||balaton-zeitung.info/wp-content/uploads/*-banner.jpg
 ||bankkaufmann.com/bilder/bacol.jpg
 ||bankkaufmann.com/bilder/bkhfb.jpg
@@ -2600,6 +2602,7 @@ spreeblick.com###flattr > a
 spreeblick.com###flattr > p
 finanznachrichten.de###fn-ankuendigung
 kremser-sc.at###footer-widgets
+b2run.de###footerpartners
 dforum.net###forumbanner
 mufa.de###freikarten
 tv-huettenberg.de###g-expanded
@@ -2958,6 +2961,7 @@ blickpunkt-brandenburg.de,nh24.de,sunshine.it##.header-banner
 taucher.net##.header-promo
 bankkaufmann.com##.headeradvert_
 fremdwort.de##.hinweisad
+b2run.de##.hmpartnersglobal
 intimesrevier.com##.home_rennab
 hallescherfc.de##.home_sponsor_slider
 boerse-online.de##.hsbc_homepage_topflop
