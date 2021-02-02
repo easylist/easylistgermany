@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102021325
+! Version: 202102021333
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2021 13:25 UTC
+! Last modified: 02 Feb 2021 13:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1616,6 +1616,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||belgieninfo.net/wp-content/uploads/*/frisch-frittiert-grupp4.png
 ||belgieninfo.net/wp-content/uploads/*/IDSB-Unser-Partner.jpg
 ||belgieninfo.net/wp-content/uploads/*/Verhellen.jpg
+||berlinertageszeitung.de/images/banners/
 ||bhc06.de/getattachment/*/becker.jpg
 ||bhc06.de/getattachment/*/forst.jpg
 ||bhc06.de/getattachment/*/sparkasse_remscheid.jpg
@@ -2885,6 +2886,8 @@ borncity.com##.code-block-5
 borncity.com##.code-block-6
 borncity.com##.code-block-7
 wn.de##.commercial
+berlinertageszeitung.de##.commercial-container
+berlinertageszeitung.de##.commercial-rightwideskryper
 nordschleswiger.dk##.component-code-snippet
 ak-kurier.de,nr-kurier.de,ww-kurier.de##.container-banner
 deutscherskiverband.de##.container-banner-2
