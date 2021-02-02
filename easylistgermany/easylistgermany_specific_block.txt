@@ -91,7 +91,6 @@
 ||bhc06.de/getattachment/*/sparkasse_remscheid.jpg
 ||bhc06.de/getattachment/*/sparkasse_solingen.jpg
 ||bhc06.de/getattachment/*/Wilkinson-Logo.jpg
-||bild.de/fotos/cb-autohaus24-
 ||bildschirmarbeiter.com/content/upload2/
 ||bitcoinnews.ch/bitcoin_mit_kreditkarte_kaufen.jpg
 ||bitcoinnews.ch/bitwala-bitcoin.jpg
@@ -169,7 +168,6 @@
 ||dubisthalle.de/wp-content/uploads/*/loezius.png
 ||dubisthalle.de/wp-content/uploads/*_300x300_
 ||dubisthalle.de/wp-content/uploads/*_banner_
-||dvd.bild.de^$subdocument
 ||dxtv.de/2spnsrs/
 ||dxtv.de/3rdspon/
 ||dxtv.de/octagon_sponsor_
@@ -371,7 +369,6 @@
 ||kauf6.com/img/banner/
 ||ketoforum.de/Banner/
 ||kinderlandparks.de/cms/media/thumbnail_5240_w_650.jpg
-||kinoprogramm.bild.de^
 ||kitzanzeiger.at^*/sponsoren/
 ||kriminalpolizei.de/fileadmin/user_upload/*-Skyscraper_
 ||kriminalpolizei.de/fileadmin/user_upload/*_728x100.
@@ -606,7 +603,6 @@
 ||spielesnacks.de/wp-content/uploads/*-wallpaper.jpg
 ||spielesnacks.de/wp-content/uploads/*/Banner-
 ||spielesnacks.de/wp-content/uploads/*/banner.
-||sportbild.bild.de/sport/partner/viagogo/
 ||sportwette.net/wp-content/uploads/*-banner-
 ||sportwetten.org/wp-content/uploads/*-400x300-
 ||sportwetten.org/wp-content/uploads/*-banner-
@@ -830,7 +826,6 @@
 ||xn--zri6-0ra.ch/banner/
 ||xnxx-porno.com/img/linklist2/
 ||xup.in/com/pop.
-||zebradem.com^*/banner/
 ||zentrum-der-gesundheit.de/apiv2/product/
 ||zueri6.ch/wp-content/uploads*/newblueup.jpg
 ||zueri6.ch/wp-content/uploads/*/300x200.jpg
@@ -854,7 +849,6 @@ $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagma
 @@||g.doubleclick.net/static/glade/extra_$script,domain=autobild.de
 @@||gofeminin.de^$genericblock
 @@||kabeleins.de^$generichide
-@@||metal-hammer.de^$generichide
 @@||musikexpress.de^$generichide
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
 @@||ran.de^$generichide
@@ -869,7 +863,6 @@ _video_ads/$domain=imasdk.googleapis.com
 autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 connextra.com##iframe[src^="https://ssl.connextra.com"]
 g.doubleclick.net###adunit
-metal-hammer.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 musikexpress.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 musikexpress.de##iframe[src*="//fom.bildungscentrum.de/"]
 rollingstone.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
