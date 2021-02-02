@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102021421
+! Version: 202102021423
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2021 14:21 UTC
+! Last modified: 02 Feb 2021 14:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2902,6 +2902,7 @@ wn.de##.commercial
 berlinertageszeitung.de##.commercial-container
 berlinertageszeitung.de##.commercial-rightwideskryper
 nordschleswiger.dk##.component-code-snippet
+tvg-grosssachsen.de##.cont-60
 ak-kurier.de,nr-kurier.de,ww-kurier.de##.container-banner
 deutscherskiverband.de##.container-banner-2
 goslarsche.de##.container_skyscraper
