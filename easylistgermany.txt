@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102021413
+! Version: 202102021421
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2021 14:13 UTC
+! Last modified: 02 Feb 2021 14:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2961,6 +2961,7 @@ boerse-online.de##.hsbc_homepage_topflop
 news.de##.ialayerContainer
 channelpartner.de##.idgWebcastsCarousel
 heise.de##.img-ad
+funcloud.club##.inArticleA
 autoline.de,autoline24.at,autoline24.ch##.index-bns
 erotikinserate.ch##.inner
 sueddeutsche.de##.iqad
@@ -3127,6 +3128,7 @@ queer.de##.toplinks
 travelbook.de##.trc_related_container div[data-item-syndicated="true"]
 pnn.de,tagesspiegel.de##.ts-sptag
 hamburg-pride.de##.tx-imagecycle-pi1
+funcloud.club##.underContentA
 hallescherfc.de##.vc_carousel-inner
 vfl.de##.vc_custom_1544363997968
 ebay.de##.vi-lb-placeholder
