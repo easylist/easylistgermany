@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102021304
+! Version: 202102021312
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2021 13:04 UTC
+! Last modified: 02 Feb 2021 13:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2021,6 +2021,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pfaffenhofen-today.de/images/banners/
 ||pi-news.net/wp-content/uploads/*/Banner_
 ||pi-news.net/wp-content/uploads/*/pax_aktiv.jpg
+||pi-news.net/wp-content/uploads/*_banner_
 ||pi-news.net/wp-content/uploads/ad-
 ||picdumps.com/ddeal
 ||pixelio.de/resources/widgets/clipdealer_
@@ -3088,6 +3089,7 @@ duden.de##.tabloid__side-column-top
 selbstaendig-im-netz.de##.tad1
 golem.de##.tags
 pi-news.net##.td-a-rec-id-content_inlineleft
+pi-news.net##.td-a-rec-id-header
 primavera24.de##.td-header-container
 analsexporno.net##.tf-ho.tf-de
 hifitest.de##.themenmonat
