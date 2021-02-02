@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102021340
+! Version: 202102021345
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2021 13:40 UTC
+! Last modified: 02 Feb 2021 13:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1671,6 +1671,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||damoh.$media,domain=focus.de|rtl.de|rtl2.de|spiegel.de|spiegel.tv
 ||dasbewegtdiewelt.de/wp-content/banner/
 ||deinesexfilme.com/img/linklist2/
+||delamar.de/wp-content/uploads/*/wallp_
 ||delamar.de/wp-content/uploads/__aktionen/plakat/plakat_billb.jpg
 ||derkleinegarten.de/images/kiste/
 ||designtagebuch.de/wp-content/uploads/anzeigen/
@@ -2457,6 +2458,7 @@ widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/netwo
 ||amazon.de^*^tag=$popup,domain=rheinlandpfalz-news.de|wetteronline.de
 ||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
 ||damoh.spiegel.tv^$popup
+||delamar.de/out/$popup
 ||googleadservices.com^$popup,domain=wetteronline.de
 ||jokermovie.org/out.php$popup
 ||playporn.to/out.php$popup
