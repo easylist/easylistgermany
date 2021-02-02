@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102021445
+! Version: 202102021450
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2021 14:45 UTC
+! Last modified: 02 Feb 2021 14:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -278,6 +278,7 @@ _woz_banner_vote.
 ###werbung-rectangle1
 ###werbung-rectangle2
 ###werbung-skyscraper
+###werbung1
 ###werbung125_links
 ###werbung125_rechts
 ###werbung2
@@ -3153,6 +3154,7 @@ nibelungen-kurier.de##.widget_dkge_wrapper
 zitate-online.de##.witz > .bewertung + .detaillink + p:last-child
 zitate-online.de##.witz > .bewertung + p:last-child
 delamar.de##.wk
+regensburg-digital.de##.wk-slideshow
 ariva.de##.wo_news_top_banner
 technic3d.com##.wrap > footer[style="bottom: -260px;"]:last-child > div:first-child
 zeno.org##.zenoLSInnerProductTableRightAmazon
