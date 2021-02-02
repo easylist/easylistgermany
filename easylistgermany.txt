@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102021402
+! Version: 202102021407
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2021 14:02 UTC
+! Last modified: 02 Feb 2021 14:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1593,6 +1593,10 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||azureedge.net/pickerimages/bayer04-superbanner_$domain=bayer04.de
 ||azureedge.net/pickerimages/Lokalfreunde_$domain=bayer04.de
 ||balaton-zeitung.info/wp-content/uploads/*-banner.jpg
+||bankkaufmann.com/bilder/bacol.jpg
+||bankkaufmann.com/bilder/bkhfb.jpg
+||bankkaufmann.com/bilder/fkl.jpg
+||bankkaufmann.com/bilder/fsban1.jpg
 ||banner.click-tt.de^
 ||basicthinking.de/blog/wp-content/*/placetel.jpg
 ||basicthinking.de/blog/wp-content/uploads/*/mittwald-
@@ -2793,6 +2797,7 @@ mobile.de##.adv
 oberberg-aktuell.de##.adv-indicator
 oberberg-aktuell.de##.adv-link
 eurogamer.de,morningstar.de,suedkurier.de,weser-kurier.de##.advert
+bankkaufmann.com##.advert_
 onvista.de##.advertisedFund
 extremnews.com##.advertisement
 oefb.at##.advertising
@@ -2825,7 +2830,7 @@ notebookinfo.de##.av-carousel
 notebookinfo.de##.av-fade-carousel
 hsc2000.de##.av-partner-fake-img
 hsc2000.de##.avia-slideshow-1
-1001spiele.de,6navi.ch,anixehd.tv,buchmarkt.de,hcb.net,juve.de,komoedie-steinstrasse.de,laufen.de,macerkopf.de,modhoster.de,pfaffenhofen-today.de,pixelio.de,salue.de,sexnews.ch,svs1916.de##.banner
+1001spiele.de,6navi.ch,anixehd.tv,bankkaufmann.com,buchmarkt.de,hcb.net,juve.de,komoedie-steinstrasse.de,laufen.de,macerkopf.de,modhoster.de,pfaffenhofen-today.de,pixelio.de,salue.de,sexnews.ch,svs1916.de##.banner
 spielkarussell.de##.banner-btf-side-rectangle
 wochenblatt.cc##.banner-header-left
 wochenblatt.cc##.banner-header-right
@@ -2946,6 +2951,7 @@ ak-kurier.de##.hd-banner
 fkk24.de##.head-top-bannerplace
 blickpunkt-brandenburg.de,nh24.de,sunshine.it##.header-banner
 taucher.net##.header-promo
+bankkaufmann.com##.headeradvert_
 fremdwort.de##.hinweisad
 intimesrevier.com##.home_rennab
 hallescherfc.de##.home_sponsor_slider
