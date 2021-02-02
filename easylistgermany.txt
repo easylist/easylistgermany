@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102021312
+! Version: 202102021320
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2021 13:12 UTC
+! Last modified: 02 Feb 2021 13:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2011,6 +2011,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||onepiece-tube.com^*/amzb2/
 ||onlinereports.ch/uploads/tx_macinabanners/
 ||onlinewahn.de/sky.js
+||ostfussball.com/wp-content/uploads/*/20bet-sports.jpg
+||ostfussball.com/wp-content/uploads/*/betsson-sportwetten-bonus-banner.jpg
 ||osthessen-zeitung.de/uploads/tx_macinabanners/
 ||ox.gassi-tv.de^
 ||pacific-blue.ch/banner/
@@ -3129,6 +3131,7 @@ mobilegeeks.de##a[data-eventcategory="Kooperation"]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
 erogeschichten.com##a[href*="/go/"]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
+ostfussball.com##a[href*="/out/"]
 ladies.de,mtb-news.de##a[href*="/redirect/"]
 strippokerregeln.com##a[href="/www/888casino"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
