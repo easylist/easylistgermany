@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102021320
+! Version: 202102021325
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2021 13:20 UTC
+! Last modified: 02 Feb 2021 13:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1998,6 +1998,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||o-sport.de/assets/sponsors/
 ||oberberg-aktuell.de/Banner/
 ||oe-static.de/js/rmif.js
+||oe24.at^*_banner_
 ||oefb.at/netzwerk/imagedownload/
 ||oeffentlichen-dienst.de/images/banners/
 ||oekoportal.de/sites/default/files/pelletheizung-info.jpg
@@ -2970,6 +2971,7 @@ ofc.de##.main-club-partner
 vienna-capitals.at##.main-sponsorlogo
 hceppan.it##.mainSponsor
 aerotelegraph.com##.marcopolo
+oe24.at##.marketingTeaserBanner
 winfuture.de##.mb25[style="min-height:261px"]
 lite-magazin.de##.metaslider
 goolive.de##.mgawerbungbase
