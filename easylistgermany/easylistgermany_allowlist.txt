@@ -22,14 +22,12 @@
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|literatur-fast-pur.de|preismafia.com
 @@||adback.de^$~third-party
 @@||adcell.de/click.php?bid=$subdocument,domain=mein-rabatt.com
-@@||adclient.uimserv.net/banner?$script,domain=millionenklick.web.de
 @@||adform.net/adfserve/?bn=$script,domain=rewe.de
 @@||adform.net/adx/$script,domain=rewe.de
 @@||adform.net/banners/$domain=consorsbank.de|rewe.de
 @@||adform.net/Banners/$domain=telekom.de
 @@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=rewe.de
 @@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
-@@||adimg.uimserv.net^$image,domain=millionenklick.web.de
 @@||adition.com/banner?sid=$script,domain=ambellis.de|mirapodo.de|mytoys.de|yomonda.de
 @@||adition.com/banners/$image,domain=ambellis.de|dsl.freenet.de|mirapodo.de|mytoys.de|yomonda.de
 @@||adition.com/banners/$image,object,domain=payback.de
@@ -100,7 +98,7 @@
 @@||camerartist.de/wp-content/plugins/adrotate/$~third-party
 @@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
 @@||cdn.spotxcdn.com^$domain=welect.de
-@@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de|rtl2.de
+@@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||classic-motorrad.de/anzeigen/layout_images/new/top_ads_icon.gif
 @@||comdirect.de^*.html&ad=$subdocument
 @@||comdirect.de^*.html?ad=$subdocument
@@ -110,8 +108,6 @@
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||d3con.de/data1/$image,~third-party
-@@||damoh.golem.de^$script,domain=golem.de
-@@||damoh.schneevonmorgen.com^$script,domain=golem.de
 @@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
 @@||derstandard.at/adserver/t.gif$domain=videoservice.apa.at
@@ -126,7 +122,6 @@
 @@||dtb-gymnet.de^*^admID^
 @@||efiliale.de/efiliale/pop/js/pop.js
 @@||ekitchen.de^$generichide
-@@||eltern.de^*_300x250px.$image,domain=eltern.de
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
 @@||emsservice.de^$image,xmlhttprequest,domain=kochbar.de
 @@||event.mivitec.net/dist/js/$script,domain=event.mivitec.net
@@ -134,7 +129,6 @@
 @@||eventus-design.com^$~third-party
 @@||expertklein.de/xml/banner.php?id=$object
 @@||exposegmbh.de/css/mediaboxAdv-Dark.css
-@@||eye-games.com/ajs.php?partner=*&redirect=$subdocument
 @@||eyewonder.com^*/exp_proxy.js$domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||eyewonder.com^*/wrapper.js$domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||familienbildung-hamburg.de/cgi-bin/adframe/$subdocument,domain=fbs-harburg.de
@@ -217,11 +211,10 @@
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
 @@||mstat.freent.de^*/sms_advertising/sms_teaser_$image,domain=webmail.freenet.de
 @@||nadann.de/small_ads/$~third-party
-@@||netzathleten-media.de^*/naMediaAd.js$domain=kino-vorschau.com
 @@||nordclick.de/js/colors/adsense_colors.js
 @@||notebookcheck.com^$generichide
 @@||nuggad.net/bk?nuggn=$object,domain=edge.download.newmedia.nacamar.net
-@@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|studis-online.de|vox.de
+@@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|frustfrei-lernen.de|juice.de|studis-online.de
 @@||oeko-komp.de/evoAds2/
 @@||os1.tv/js/omsvc_externalad.js
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
@@ -281,12 +274,10 @@
 @@||shz.de/sso/$elemhide
 @@||smart.allocine.fr/a/diff/*/show*.asp?$object,domain=ufa-dresden.de
 @@||smart.allocine.fr/call/pubx/*&video=$object
-@@||smartadserver.com/2161/$xmlhttprequest,domain=rtl2.de
 @@||smartadserver.com/2161/call^$xmlhttprequest,domain=metal-hammer.de|rollingstone.de
 @@||smartadserver.com/a/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/ac?nwid=*&tag=sas_45579^$script,domain=fitbook.de
 @@||smartadserver.com/ac?nwid=251&siteid=85145&*&fmtid=5419&$script,domain=welt.de
-@@||smartadserver.com/ac?pgid=$script,domain=rtl2.de
 @@||smartadserver.com/call/pubj/*/s/$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/*/show*.asp?$script,domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||smartadserver.com/diff/251/2484653/show10.asp$script,domain=autobild.de
@@ -340,7 +331,6 @@
 @@||tv.derstandard.at/adserver.php?*&pos=video$subdocument
 @@||ui-portal.de^*/video-adserver-config.xml$object
 @@||uicdn.com^*/video-adserver-config.xml$object
-@@||v.fwmrm.net/ad/p/1?$object,domain=southpark.de
 @@||vcdn.adnxs.com/p/creative-image^$image,domain=stylebook.de
 @@||videoservice.apa.at/Vast/GetProxy/?*?videotype=preroll1&$xmlhttprequest
 @@||videostream4u.com^*/ac_oetags_clone.js
