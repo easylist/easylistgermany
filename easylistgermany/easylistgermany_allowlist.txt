@@ -1,4 +1,11 @@
 @@/gujAd.$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|kochbar.de|n-tv.de|stern.de|vip.de|wetter.de
+@@||adform.net/adfserve/?bn=$script,domain=rewe.de
+@@||adform.net/adx/$script,domain=rewe.de
+@@||adform.net/banners/$domain=rewe.de|telekom.de
+@@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=rewe.de
+@@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
+@@||s1.adform.net^$script,domain=rewe.de
+!
 @@||1000steine.de/img/ads/
 @@||11freunde.de/assets/houseAds/$image,domain=11freunde.de
 @@||11freunde.de/sites/all/themes/elf/gujAd/gujAd.js$domain=11freunde.de
@@ -22,12 +29,6 @@
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|literatur-fast-pur.de|preismafia.com
 @@||adback.de^$~third-party
 @@||adcell.de/click.php?bid=$subdocument,domain=mein-rabatt.com
-@@||adform.net/adfserve/?bn=$script,domain=rewe.de
-@@||adform.net/adx/$script,domain=rewe.de
-@@||adform.net/banners/$domain=consorsbank.de|rewe.de
-@@||adform.net/Banners/$domain=telekom.de
-@@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=rewe.de
-@@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
 @@||adition.com/banner?sid=$script,domain=ambellis.de|mirapodo.de|mytoys.de|yomonda.de
 @@||adition.com/banners/$image,domain=ambellis.de|dsl.freenet.de|mirapodo.de|mytoys.de|yomonda.de
 @@||adition.com/banners/$image,object,domain=payback.de
@@ -43,7 +44,6 @@
 @@||adnxs.com/ut/v3|$xmlhttprequest,domain=autobild.de
 @@||adnxs.com^*/creative-image^$image,domain=bz-berlin.de
 @@||adpartner.de^$~third-party
-@@||ads.autoscout24.com/adserver/*&elementid=ctl00_ctl00_decoratedarea_contentarea_fsbox0&$script,domain=autoscout24.de
 @@||ads.heias.com^*/heias.stream/$object,script,domain=frustfrei-lernen.de
 @@||ads.heias.com^*/heias.tag.$script,domain=frustfrei-lernen.de
 @@||adserv.quality-channel.de/crossdomain.xml$object,domain=myself.de
@@ -99,7 +99,6 @@
 @@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
 @@||cdn.spotxcdn.com^$domain=welect.de
 @@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
-@@||classic-motorrad.de/anzeigen/layout_images/new/top_ads_icon.gif
 @@||comdirect.de^*.html&ad=$subdocument
 @@||comdirect.de^*.html?ad=$subdocument
 @@||comdirect.de^*/advertising.do?$subdocument
@@ -108,7 +107,6 @@
 @@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||d3con.de/data1/$image,~third-party
-@@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
 @@||dawanda.com/ads?$xmlhttprequest
 @@||derstandard.at/adserver/t.gif$domain=videoservice.apa.at
 @@||docs.google.com/viewer?url=http://goerge-markt.de/fileadmin/werbung/$subdocument,domain=goerge-markt.de
@@ -145,7 +143,7 @@
 @@||forum.froxlor.org^*/adsense.css
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=kochbar.de|vip.de
-@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|guterhut.de|hardwareluxx.de|hbf-info.de|n-tv.de|rakuten.at|rakuten.de|rtl.de|zalando.de
+@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|n-tv.de|rakuten.at|rakuten.de|rtl.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|geo.de|stern.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
@@ -155,7 +153,7 @@
 @@||g.doubleclick.net/gampad/adx?*/sparta/*&t=ad_type%3Dtoolbar%26$document,subdocument,domain=wetter.com
 @@||g.doubleclick.net/gpt/$script,domain=gofeminin.de|vip.de
 @@||g.doubleclick.net/gpt/pubads_$script,domain=wetter.com
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|brigitte.de|eltern.de|gala.de|geo.de|guterhut.de|hardwareluxx.de|hbf-info.de|kochbar.de|n-tv.de|rakuten.at|rakuten.de|rtl.de|stern.de|welt.de|zalando.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|brigitte.de|eltern.de|gala.de|geo.de|kochbar.de|n-tv.de|rakuten.at|rakuten.de|rtl.de|stern.de|welt.de
 @@||g.doubleclick.net/pagead/js/rum.js$domain=auto-motor-und-sport.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||g.doubleclick.net/tag/js/gpt.js$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|n-tv.de
@@ -169,10 +167,9 @@
 @@||google.de/ads/css/ads-base.$stylesheet
 @@||google.de/search?q=$xmlhttprequest
 @@||googlesyndication.com/pagead/imgad?$image,domain=auto-motor-und-sport.de
-@@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|kochbar.de|vip.de|zalando.de
+@@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|kochbar.de|vip.de
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
 @@||googlesyndication.com/simgad/$image,domain=kochbar.de
-@@||googlesyndication.com/simgad/14155692645477451130$image,domain=guterhut.de
 @@||googletagservices.com/tag/js/gpt.js?$script,domain=stern.de
 @@||googlewatchblog.de/img/index-icons/$image
 @@||googlewatchblog.de^*/adsense.png
@@ -197,7 +194,6 @@
 @@||lead-alliance.net^*/advertiser/$~third-party
 @@||madamecuisine.de/detroitchicago/dayton.js$script,~third-party
 @@||magenschmerzen.net/wp-content/themes/zeemagazine_adtech/$~third-party
-@@||maps.gstatic.com/maps-api-*/adsense.js$domain=wg-gesucht.de
 @@||marketing-a.akamaihd.net/inhouse/$subdocument,domain=rtl.de
 @@||marktplatzservice.de/ads/$image,domain=local24.de
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
@@ -221,7 +217,7 @@
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=oroma.net|speedweek.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=oroma.net
 @@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.at|rakuten.de
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=guterhut.de|hardwareluxx.de|hbf-info.de|rakuten.at|rakuten.de|zalando.de
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=rakuten.at|rakuten.de
 @@||partners.webmasterplan.com/click*.asp$subdocument,domain=eule.de
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
@@ -245,7 +241,6 @@
 @@||rosenheimjobs.de^*&ad_type_$xmlhttprequest
 @@||rtl.de^*/player_modul_onclick_300x250.jpg
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
-@@||s1.adform.net^$script,domain=rewe.de
 @@||s357.mxcdn.net^$script,domain=welect.de
 @@||s79.mxcdn.net^$script,domain=welect.de
 @@||s79.research.de.com^$domain=welect.de
@@ -350,8 +345,6 @@
 @@||wn-jobs.de/search.html?adType=$xmlhttprequest
 @@||wn-markt.de/search.html?adType=$xmlhttprequest
 @@||wn-mobil.de/search.html?adType=$xmlhttprequest
-@@||wohnungsrechner.ch/Advert-$xmlhttprequest,domain=wohnungsrechner.ch
-@@||wohnungsrechner.ch/js/advert.js$domain=wohnungsrechner.ch
 @@||wp.com/stadt-bremerhaven.de/wp-content/uploads/*?resize=$image,domain=stadt-bremerhaven.de
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 @@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch

@@ -1007,9 +1007,9 @@ finanzen.net##.adsbygoogle
 jetzt.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 notebookchat.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
-computerbild.de,giga.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
-computerbild.de,giga.de,metal-hammer.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
-computerbild.de,fitbook.de,giga.de,myhomebook.de,noizz.de,spieletipps.de,sportbild.bild.de,techbook.de,transfermarkt.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
+giga.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
+giga.de,metal-hammer.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
+fitbook.de,giga.de,myhomebook.de,noizz.de,spieletipps.de,sportbild.bild.de,techbook.de,transfermarkt.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
 bz-berlin,metal-hammer.de,musikexpress.de,rollingstone.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
 @@||bz-berlin.de^$generichide
 @@||computerbild.de^$generichide
