@@ -15,6 +15,10 @@ windows-7-forum.net###MidRectangle
 onvista.de###SMART_BILLBOARD
 wiesbaden.de###SP-commercials
 fussballn.de###SPMADS_fussballn_HOME_MEDREC_1
+t-online.de###T-85628670
+t-online.de###T-86926496
+t-online.de###Tcontboxi + #Tgboxf
+t-online.de###Tlibelle
 1erforum.de,bauexpertenforum.de,dasheimwerkerforum.de,fitness-foren.de,lpgforum.de,mazda-forum.info,mercedes-forum.com,notebookforum.at,pkw-forum.de,skodacommunity.de,toyota-forum.de,vermieter-forum.com,windows-7-forum.net###TopRectangle
 bbv-net.de,stadtanzeiger-borken.de###WallpaperBanner
 neumarktaktuell.de###Werbung
@@ -224,6 +228,8 @@ deutsche-versicherungsboerse.de###superBContainer
 aktionspreis.de###superBanner
 1000ps.at,1000ps.ch,1000ps.de,firmenwissen.de,fussballdaten.de,golem.de###superbanner
 chilloutzone.net###superreplacement
+suche.t-online.de###tMRM_amazon
+suche.t-online.de###tMRM_billiger
 nh24.de###text-11
 nh24.de###text-13
 blogprojekt.de###text-18
@@ -281,6 +287,8 @@ perspektive-mittelstand.de##.Laddbox300
 alle-autos-in.de##.NaviTopP
 dieharke.de##.Rectangle
 t-online.de##.Tadc
+t-online.de##.Tgbox--anz
+t-online.de##.Tprtnrmobilesib
 t-online.de##.Tshlogobox
 via-ferrata.de##.YouTubeDachstein
 via-ferrata.de##.YouTubeLEKI
@@ -645,6 +653,7 @@ bild.de##.tea-rectangle
 analsexporno.net##.tf-ho.tf-de
 hifitest.de##.themenmonat
 rro.ch##.tisement
+t-online.de##.toi-sh-breaker
 oberberg-aktuell.de##.top-leaderboard
 macwelt.de##.top-products
 gload.cc##.top2019main
@@ -681,6 +690,7 @@ zeno.org##.zenoLSInnerProductTableRightAmazon
 german-bash.org##.zitat > div[style="width:300px;"]
 heise.de##A-PATERNOSTER
 mobilegeeks.de##a[data-eventcategory="Kooperation"]
+t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
 erogeschichten.com##a[href*="/go/"]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
@@ -689,6 +699,7 @@ bild.de##a[href*="/partner/"]
 ladies.de,mtb-news.de##a[href*="/redirect/"]
 strippokerregeln.com##a[href="/www/888casino"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
+t-online.de##a[href="https://gebrauchtwagen-suche.t-online.de/marke-skoda/modell-superb"]
 herthabsc.de##a[href^="/de/hertha/sponsoren/exklusiv-partner/uebersicht/page/"]
 bastel-elfe.de##a[href^="banners.php?"]
 t-online.de##a[href^="http://count.shopping.t-online.de/RE?ID="]
@@ -747,6 +758,7 @@ kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px;
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 3dchip.de##div[align="center"][width="468px"] > table[height="60"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 bitreporter.de##div[class$="-adlabel"]
+t-online.de##div[class^="Tsshopst"]
 quoka.de##div[class^="div-gpt-"]
 mtb-news.de##div[class^="mtbnews-ad-container"]
 via-ferrata.de##div[class^="overlay-"]
@@ -754,8 +766,11 @@ rundschau.info##div[class^="runds-werbung-"]
 amazon.de##div[data-ad-id]
 rtl.de,vox.de##div[data-adformat="halfpage"]
 rtl.de,vox.de##div[data-adformat="rectangle"]
+t-online.de##div[data-dy*="Partner:"]
 giga.de##div[data-trigger="sourcepoint-ad"]
 formel1.de##div[id="outer_sas_"]
+t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
+t-online.de##div[id^="T-"][oncontextmenu="return false"]
 areadvd.de##div[id^="aread-"]
 finanzen100.de,spielen.de##div[id^="banner_"]
 hpd.de##div[id^="block-views-advertising-"]
@@ -798,6 +813,7 @@ nh24.de##img[width="533"]
 hallescherfc.de##img[width="605"][height="690"]
 4fuckr.com##img[width="728"]
 online-gebuehrenrechner.de##img[width="728"][height="90"]
+t-online.de##img[width="920"][usemap^="#immap"]
 restegourmet.de##li[data-content-type="ad"]
 erogeschichten.com##table[align-center][cellpadding="13"][border="0"][bgcolor="lightgrey"]
 ubuntu-forum.de##table[style="background-color: none; border-top: 1px dashed; border-color: #a89058; border-left: 1px dashed; border-color: #a89058; border-right: 1px dashed; border-color: #a89058; border-bottom: 1px dashed; border-color: #a89058;"]
@@ -816,18 +832,6 @@ land-der-traeume.de##td[width="730"] + td[align="center"]
 ibash.de##tr > td[valign="top"]:first-child + td[width="15"] + td[width="186"][valign="top"]:last-child
 favicon-generator.de##tr:first-child:last-child > td[align="left"][width="150"][valign="top"]:first-child + td[align="center"] + td[align="left"][width="150"][valign="top"]:last-child
 !
-t-online.de###T-83718912
-t-online.de###T-83783312
-t-online.de###T-85628670
-t-online.de###T-86593348
-t-online.de###T-86926496
-t-online.de###Tall > .Tpcpx + #Tasf
-t-online.de###Tamrecbox
-t-online.de###Tcmd1 > .Tmect
-t-online.de###Tcontbox > .Tgboxh > .altInventory
-t-online.de###Tcontboxi + #Tgboxf
-t-online.de###Tcontboxi > .Tagbox > .Tart > #Ttub2
-t-online.de###Tlibelle
 freenet.de###ext-frn-adtag-nativendo-1
 freenet.de###ext-frn-adtag-nativendo-2
 freenet.de###ext-frn-adtag-rectangle-1
@@ -839,44 +843,17 @@ gmx.net,web.de###info-virus
 abload.de###iphpbannerleft
 abload.de###layerleft
 abload.de###layerright
-t-online.de###ma_ar
-t-online.de###ma_ar_2
-t-online.de###ma_ar_3
-t-online.de###ma_mrec
 gmx.net,web.de###mail-list .iba
 gmx.net,web.de###mail-list .new.nma
-t-online.de###med_anz
 gmx.net###navigation > #navSpecial[style="height: 233px;"]
 web.de###navigation > #navSpecial[style="height: 235px;"]
-t-online.de###sky_anz
 china.ahk.de###skyscraper
-t-online.de###superBannerContainer
 web.de###supersize
-suche.t-online.de###tMRM_amazon
-suche.t-online.de###tMRM_billiger
-t-online.de###tl_anz-pos1
 gmx.net,web.de###topper
-t-online.de###tsc_skyscraper
-t-online.de###tsrwh
 web.de###uimTopPosition
-t-online.de##.T-jobsuche-modul
-t-online.de##.Tadblock
-t-online.de##.Tamrecbox
-t-online.de##.Tgbox--anz
-t-online.de##.Thpx600
-t-online.de##.Tmm > .Tmc4a > .Ttsi
-t-online.de##.Tmm > .toiaiai > .Ttsi > a
-t-online.de##.Tmm[style^="display: block  !important;"]
-t-online.de##.Tmm[style^="display: block !important;"]
-t-online.de##.Toyota
-t-online.de##.Tpcpx + #Tasf > div[id][style]
-t-online.de##.Tprtnrmobilesib
-t-online.de##.Tssshopst
-t-online.de##.Ttsc.Ttsh65.Tmc4a
 gmx.net,web.de##.ad
 1und1.de,gmx.net,web.de##.ad-container
 web.de##.adv-promotion
-t-online.de##.altInventory__item
 spiegel.de##.asset-affiliatebox
 amazon.de##.aw-campaigns
 web.de##.buster
@@ -895,101 +872,28 @@ gmx.net,web.de##.offers
 freenet.de##.plistaList img[src^="https://blob.freent.de/image/"]
 gmx.de,web.de##.record-layer
 abload.de##.rightbanner
-t-online.de##.skybannerWrapper
 chat4free.de,erotikchat4free.de,freechat.de##.skyscraper
 1und1.de##.spLinksBottom
 1und1.de##.spLinksTop
-t-online.de##.tl_anz-pos1
-t-online.de##.toi-sh-breaker
 computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
-t-online.de##.tsc_www_p4p
-t-online.de##.tsc_www_p4p_bottom
 china.ahk.de##.tx-bannermanagement-pi1
 suche.1und1.de,suche.gmx.net,suche.web.de##COMPONENTS-SHOPPING-ONEBOX-LIST.l-display-block
-t-online.de##a.Tctiga[href][rel="nofollow"][data-urlb]
-t-online.de##a[data-url^="http://m.exactag.com/"]
-t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 deutscher-sex.com##a[href*="/f.php?a=vpn"]
-t-online.de##a[href*="utm_campaign=bigfarm"]
-t-online.de##a[href="#"][data-urlb]
-t-online.de##a[href="#a"] > img
-t-online.de##a[href="http://stayfriends.t-online.de/"]
-t-online.de##a[href="https://gebrauchtwagen-suche.t-online.de/marke-skoda/modell-superb"]
-t-online.de##a[href="javascript:;"][target="_blank"][data-urlb]
-t-online.de##a[href="t-online.de"][data-urlb] > img
-t-online.de##a[href^="#"][data-urlb] > img
 raidrush.net##a[href^="/go/?//www.amazon.de/"]
-t-online.de##a[href^="http://im.banner.t-online.de/?adlink|"]
 web.de##a[href^="http://magazine.web.de/de/themen/digitale-welt/usenext/"]
 freenet.de##a[href^="http://media.mybet.com/redirect.aspx?pid="]
-t-online.de##a[href^="http://stromvergleich.t-online.de/strom.php"]
-t-online.de##a[href^="http://wirtschaft.t-online.de/tagesgeldkonto-der-bank-of-scotland/id_"]
-t-online.de##a[href^="http://wirtschaft.t-online.de/testen-sie-den-devisen-handel-mit-dem-kostenlosen-demokonto-der-fxdirekt-bank/id_"]
-t-online.de##a[href^="http://wirtschaft.t-online.de/top-girokonto-der-norisbank/id_"]
 web.de##a[href^="http://www.twinplan.com/"]
-t-online.de##a[href^="http://www.viversum.de/?pid="]
-t-online.de##a[href^="http://www.viversum.de/index.php?pid="]
-freenet.de##a[href^="https://ad1.adfarm1.adition.com/redi?sid="]
-t-online.de##a[href^="https://jobsuche.t-online.de/to/jobs/search?"]
-t-online.de##a[href^="https://pt.t-online.de/dl/storytelling/"]
-t-online.de##a[href^="https://track.adform.net/C/?bn="]
-t-online.de##a[href^="https://www.jackpot.de/lp/"]
-t-online.de##a[href^="https://www.lotto24.de/webshop/product/eurojackpot?partnerId="]
-t-online.de##a[href^="https://www.mobile.de/"][href*="utm_medium=affiliate"]
-t-online.de##a[href^="https://www.viversum.de/gratisgespraech/"]
-t-online.de##a[target="_blank"][href*=".sptopf.de/tshp/RE?ID="]
-t-online.de##a[target="_blank"][href^="http://im.banner.t-online.de/?adlink"] > img
 weristdeinfreund.de##aside[id^="banner"]
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
 abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
 amazon.de##div[cel_widget_id="desktop-yo-shiptrack_SponsoredProductsRemoteShiptrackComplementT2"]
-t-online.de##div[class^="Tsshopst"]
 gmx.net,web.de##div[data-adservice-slot]
-t-online.de##div[data-dy*="Partner:"]
-t-online.de##div[data-url^="http://m.exactag.com/"]
 amazon.de##div[id$="_adcontent"]
-t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
-t-online.de##div[id^="T-"].Tmm.Tts.Tmc4b.Ttshh.Tww1.Thh05.Tmc4s[onfocus^="A('zid="]
-t-online.de##div[id^="T-"][oncontextmenu="return false"]
-t-online.de##div[id^="T-"][style="cursor: pointer;"]
-t-online.de##div[id^="tsc_google_adsense_1"]
-t-online.de##div[onfocus="A('mp=_TopPartner')"]
-t-online.de##div[onfocus^="A('mp=TopPartner"]
 weristdeinfreund.de##div[style*="display: block ! important"]
 chat4free.de,erotikchat4free.de,freechat.de##div[style="float: left;padding:0 10 0 10;margin:0 10 10 0;"]
-t-online.de##div[style="height: 264px; width: 839px;"]
 abload.de##div[style="margin-top: 20px; margin-bottom: 10px; position: relative;"]
 weristdeinfreund.de##div[style="position:absolute; top:5px; left:0px; text-align:center; width:100%; max-width:1000px; height:90px; overflow:hidden;"]
-t-online.de##div[style^="background-image:url(http://bilder.t-online.de/b/62/17/80/56/id_62178056/tid_da/index.jpg"]
 1und1.de,gmx.net,web.de##ela-bing-card-list[c-type="'ad'"]
-t-online.de##form[action="http://stromvergleich.t-online.de/strom.php"]
-t-online.de##form[action="https://stromvergleich.t-online.de/strom.php"]
-t-online.de##form[action^="https://portal.immobilienscout24.de/suche/"]
-t-online.de##form[target="_blank"][action="http://im.banner.t-online.de/"]
-t-online.de##img[alt*="Mary & Paul"]
-t-online.de##img[alt="Bequeme Slipper & Mokassins von hoher Qualität bei Vamos"]
-t-online.de##img[alt="Die neue Kollektion bei opus-fashion.com"]
-t-online.de##img[alt="Frühlingsmode bei WENZ.de"]
-t-online.de##img[alt="Modehighlights zu Jubiläumspreisen shoppen bei Peter Hahn!"]
-t-online.de##img[alt="Pauschalreisen bei t-online.de Reisen (Quelle: Fotalia)"]
-t-online.de##img[alt^="Shoppen"]
-t-online.de##img[height="180"][width="920"]
-t-online.de##img[height="180"][width="922"]
-t-online.de##img[height="365"][width="178"][style="margin-left:-10px;margin-bottom:10px"]
-t-online.de##img[height="600"][width="120"]
-t-online.de##img[src^="blob:https://www.t-online.de/"]
-t-online.de##img[usemap^="#picmap"][width="920"]
-t-online.de##img[width="145"][height="225"]
-t-online.de##img[width="209"][usemap^="#immap"]
-t-online.de##img[width="297"][height="465"][usemap^="#immap"]
-t-online.de##img[width="300"][height="450"]
-t-online.de##img[width="609"][usemap^="#immap"]
-t-online.de##img[width="610"][usemap^="#imgmap"]
-t-online.de##img[width="610"][usemap^="#immap"]
-t-online.de##img[width="641"][usemap^="#immap"]
-t-online.de##img[width="797"][usemap^="#immap"]
-t-online.de##img[width="920"][usemap^="#imgmap"]
-t-online.de##img[width="920"][usemap^="#immap"]
 ww3.cad.de##table[width="95%"][cellspacing="1"][border="0"] > tbody > tr > td[valign="top"]:first-child + td[style="vertical-align: top;"]:last-child
 chat4free.de,erotikchat4free.de,freechat.de##td > font[style="font-size:9;"]
 heimkinomarkt.de##td[align="center"][height="72"][valign="middle"][colspan="3"]

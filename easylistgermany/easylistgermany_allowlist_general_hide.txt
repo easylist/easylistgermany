@@ -9,14 +9,23 @@ xdate.ch#@#.ad-item
 11freunde.de#@#.ad_sidebar
 11freunde.de#@#.ad_wrap
 az.com.na#@#.adverts
+wetter.de#@#.base-ad-slot
 openlimit.com#@#.content_ad
 di.fm#@#.firstload
-11freunde.de,kochbar.de#@#.gujAd
+11freunde.de,gala.de,geo.de,kochbar.de,rtl.de,vip.de#@#.gujAd
 11freunde.de#@#.house-ad
 hochzeitswahn.de#@#.internal-ad
 mietmobil-fuchs.ch#@#.jquery-script-ads
+wetter.de#@#.outbrain-ad-slot
+quoka.de#@#.related-ads
+wetter.de#@#.showheroes-ad-slot
 xdate.ch#@#.side-ads
 xdate.ch#@#.top-ads
+wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc-content-sponsored
+wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox .syndicatedItem
+wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_border_elm .syndicatedItem
+wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_div .syndicatedItem
+wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_related_container div[data-item-syndicated="true"]
 telekom.de#@#a[href^="https://track.adform.net/"]
 hardwareluxx.de#@#div[id^="div-gpt-ad"]
 11freunde.de#@#div[id^="google_ads_iframe_"]
@@ -25,19 +34,7 @@ hardwareluxx.de#@#div[id^="div-gpt-ad"]
 rtl.de#@#.adslot
 1und1.de,gmx.at,gmx.net,web.de#@#.advertorial
 web.de#@#.banner-728
-wetter.de#@#.base-ad-slot
-gala.de,geo.de,rtl.de,vip.de#@#.gujAd
-styleranking.de#@#.medrect-ad
 finanzen.at,rtl.de,vip.de#@#.ob-smartfeed-wrapper
-wetter.de#@#.outbrain-ad-slot
-tsv-thedinghausen.de#@#.postad
-quoka.de#@#.related-ads
-wetter.de#@#.showheroes-ad-slot
-wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc-content-sponsored
-wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox .syndicatedItem
-wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_border_elm .syndicatedItem
-wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_div .syndicatedItem
-wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_related_container div[data-item-syndicated="true"]
 marketing-a.akamaihd.net#@#a[href^="http://adclick.g.doubleclick.net/"]
 gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 auto-motor-und-sport.de,gofeminin.de,rakuten.at,rakuten.de,wetter.com#@#div[id^="div-gpt-ad"]
