@@ -137,7 +137,7 @@
 @@||forum.froxlor.org^*/adsense.css
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=kochbar.de|vip.de
-@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|n-tv.de|rakuten.at|rakuten.de|rtl.de
+@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|n-tv.de|rtl.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|geo.de|stern.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
@@ -147,7 +147,7 @@
 @@||g.doubleclick.net/gampad/adx?*/sparta/*&t=ad_type%3Dtoolbar%26$document,subdocument,domain=wetter.com
 @@||g.doubleclick.net/gpt/$script,domain=gofeminin.de|vip.de
 @@||g.doubleclick.net/gpt/pubads_$script,domain=wetter.com
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|brigitte.de|eltern.de|gala.de|geo.de|kochbar.de|n-tv.de|rakuten.at|rakuten.de|rtl.de|stern.de|welt.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|brigitte.de|eltern.de|gala.de|geo.de|kochbar.de|n-tv.de|rtl.de|stern.de|welt.de
 @@||g.doubleclick.net/pagead/js/rum.js$domain=auto-motor-und-sport.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||g.doubleclick.net/tag/js/gpt.js$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|n-tv.de
@@ -210,8 +210,6 @@
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl.js$domain=oroma.net|speedweek.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=oroma.net
-@@||pagead2.googlesyndication.com/simgad/$image,domain=rakuten.at|rakuten.de
-@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=rakuten.at|rakuten.de
 @@||partners.webmasterplan.com/click*.asp$subdocument,domain=eule.de
 @@||peitsche.de/adserver/www/delivery/ck.php?$subdocument,~third-party
 @@||peitsche.de/adserver/www/images/*.jpg|$~third-party
@@ -320,17 +318,10 @@
 @@||uicdn.com^*/video-adserver-config.xml$object
 @@||vcdn.adnxs.com/p/creative-image^$image,domain=stylebook.de
 @@||videoservice.apa.at/Vast/GetProxy/?*?videotype=preroll1&$xmlhttprequest
-@@||videostream4u.com^*/ac_oetags_clone.js
 @@||vox.de^$generichide
 @@||webdisk.ads.mwn.de/Scripts/ext-adv.js
 @@||welect.de/$document,subdocument
 @@||werbebanner24.de/templates/_wb24/_assets/images/$image,domain=werbebanner24.de
-@@||werbung.gruppedrei.com^$~third-party
-@@||werbung.karstadt.de^$~third-party
-@@||werbung.pinkstinks.de^$domain=werbung.pinkstinks.de
-@@||werbung.specials.de^$subdocument,domain=zentralreisen.de
-@@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
-@@||werkbank.bayern-online.de/oa23/www/delivery/spcjs.php?id=$script,domain=bayern-online.de
 @@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|maxizoo.ch|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
 @@||wm-druckarena.de/scripts/Werbebanner.
 @@||wn-jobs.de/search.html?adType=$xmlhttprequest
@@ -341,8 +332,3 @@
 @@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch
 @@||yieldmanager.com/imp?$script,domain=girlsgogames.de
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|notenbuch24.de|preismafia.com
-! "Matched Content" by Google (https://support.google.com/adsense/answer/6111336)
-@@||g.doubleclick.net/pagead/ads?*^slotname=3722556080^$document,subdocument,domain=kalender-365.de
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=kalender-365.de
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kalender-365.de
-kalender-365.de#@#.adsbygoogle
