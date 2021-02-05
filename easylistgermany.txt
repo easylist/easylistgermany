@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102051505
+! Version: 202102051508
 ! Title: EasyList Germany
-! Last modified: 05 Feb 2021 15:05 UTC
+! Last modified: 05 Feb 2021 15:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -116,7 +116,7 @@
 /werbetrenner_
 /werbezonen/*
 /werbung.$third-party
-/werbung.$~image,~stylesheet,domain=~berlin-airport.de|~qs-optiker.de
+/werbung.$~image,~stylesheet,domain=~berlin-airport.de|~qs-optiker.de|~werbung.oebb.at
 /werbung.gif
 /werbung/*$third-party
 /Werbung/*_banner_
@@ -504,6 +504,7 @@ wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox .syndicatedItem
 wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_border_elm .syndicatedItem
 wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_div .syndicatedItem
 wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_related_container div[data-item-syndicated="true"]
+werbung.oebb.at#@#.werbung
 telekom.de#@#a[href^="https://track.adform.net/"]
 hardwareluxx.de#@#div[id^="div-gpt-ad"]
 11freunde.de#@#div[id^="google_ads_iframe_"]
@@ -3685,7 +3686,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||werbebanner24.de/templates/_wb24/_assets/images/$image,domain=werbebanner24.de
 @@||werbung.gruppedrei.com^$~third-party
 @@||werbung.karstadt.de^$~third-party
-@@||werbung.oebb.at^$~third-party
 @@||werbung.pinkstinks.de^$domain=werbung.pinkstinks.de
 @@||werbung.specials.de^$subdocument,domain=zentralreisen.de
 @@||werkbank.bayern-online.de/oa23/www/delivery/spc.php?zones=$script,domain=bayern-online.de
