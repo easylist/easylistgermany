@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102051407
+! Version: 202102051411
 ! Title: EasyList Germany
-! Last modified: 05 Feb 2021 14:07 UTC
+! Last modified: 05 Feb 2021 14:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2444,8 +2444,9 @@ kriminalpolizei.de###banner-wrapper-top-v1
 nrhz.de###banner_container_rc
 geemag.de###banner_content
 nrhz.de###banner_left_container_lc
+dreingau-zeitung.de###banner_right
 juve.de###banner_sidebar
-linguee.de###banner_top
+dreingau-zeitung.de,linguee.de###banner_top
 queer.de###banneroben
 queer.de###bannerrechts
 breakpoint.untergrund.net###banners
