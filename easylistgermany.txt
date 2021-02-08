@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102081757
+! Version: 202102081807
 ! Title: EasyList Germany
-! Last modified: 08 Feb 2021 17:57 UTC
+! Last modified: 08 Feb 2021 18:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3687,6 +3687,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||yieldmanager.com/imp?$script,domain=girlsgogames.de
 @@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|notenbuch24.de|preismafia.com
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_dimensions.txt ***
+@@||eatsmarter.de/sites/default/files/*_300x250_$image,domain=eatsmarter.de
 @@||googleusercontent.com^*/300x250.$domain=googlewatchblog.de
 @@||musikexpress.de/wp-content/uploads/*_musikexpressstyle_adbundle_mediumrectangle_300x250.gif$domain=musikexpress.de
 @@||rollingstone.de/wp-content/uploads/*_musikexpressstyle_adbundle_mediumrectangle_300x250.gif$domain=rollingstone.de
