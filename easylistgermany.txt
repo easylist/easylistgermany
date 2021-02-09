@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102091828
+! Version: 202102091956
 ! Title: EasyList Germany
-! Last modified: 09 Feb 2021 18:28 UTC
+! Last modified: 09 Feb 2021 19:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -679,7 +679,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||geldcounter.de^$third-party
 ||gigapromo.de^$third-party
 ||goldbach.com^$third-party
-||gollox.de^$third-party
+! 
 ||gonamic.de^$third-party
 ||goodads.de^$third-party
 ||green-ads.net^$third-party
@@ -687,7 +687,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||handy-ads.de^$third-party
 ||heias.com^$third-party
 ||highad.de^$third-party
-||homeads.de^$third-party
 ||hovg.de^$third-party
 ||ibanner.de^$third-party
 ||iias.eu^$third-party
@@ -700,22 +699,18 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||itrack.it^$third-party
 ||jink.de^$third-party
 ||kingads.net^$third-party
-||klammwerbung.de^$third-party
 ||klick4u.de^$third-party
 ||klicktausch.com^$third-party
 ||komplads.net^$third-party
 ||ktxtr.com^$third-party
-||layerpark.com^$third-party
 ||letvertise.com^$third-party
 ||liferd.de^$third-party
 ||lilaelefant.de^$third-party
-||linkads.de^$third-party
 ||linkedads.de^$third-party
 ||linkstation.de^$third-party
 ||localpoint.ch^$third-party
 ||lose4admin.de^$third-party
 ||love-money.de^$third-party
-||loved-by.s3.amazonaws.com^$third-party
 ||luxyad.com^$third-party
 ||madsack-native.de^$third-party
 ||manughl.de^$third-party
@@ -729,20 +724,16 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||mename.de^$third-party
 ||mirando.de^$third-party
 ||mlsat04.de^$third-party
-||mmogtrade.de^$third-party
-||moneymakers.de^$third-party
 ||mupads.de^$third-party
 ||murcs.org^$third-party
 ||myad24.de^$third-party
 ||native-commerce.com^$third-party
 ||nativendo.de^$third-party
 ||neqty.net^$third-party
-||netbizzer.net^$third-party
 ||netwayer.de^
 ||network-marketing24.com^$third-party
 ||network-media.info^$third-party
 ||networx.me^$third-party
-||newtentionassets.net^$third-party
 ||nonstoppartner.net^$third-party
 ||notenpartner.de^$third-party
 ||nwave.de^$third-party
@@ -757,23 +748,15 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pornoprinzen.com^$third-party
 ||ppac.de^$third-party
 ||premiumbesucher.de^$third-party
-||premiumdownloaden.de^$third-party
 ||profiliate.net^$third-party
-||propaid.de^$third-party
 ||ptadsrv.de^$third-party
-||pushfeeds.com^$third-party
 ||qualigo.de^$third-party
 ||quality-channel.de^$third-party
-||qualityhitz.net^$third-party
 ||quartermedia.de^$third-party
 ||quarterserver.de^$third-party
 ||rapidads.de^$third-party
 ||revresrennab.de^$third-party
 ||rgadvert.com^$third-party
-||rockvertise.net^$third-party
-||rubrikator.de^$third-party
-||scash.de^$third-party
-||schlauli.de^$third-party
 ||selfpuc.com^$third-party
 ||server4ads.com^$third-party
 ||servertraffic.de^$third-party
@@ -781,8 +764,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sexgoesmobile.com^$third-party
 ||shareifyoulike.com^$third-party
 ||siyl.net^$third-party
-||smartaffiliate.de^$third-party
-||software-archiv.com^$third-party
 ||solads.media^$third-party
 ||sparkads.ws^$third-party
 ||sparkassen-partner.de^$third-party
@@ -795,16 +776,13 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||superclix.de^$third-party
 ||superpromo24.de^$third-party
 ||szene-traffic.com^$third-party
-||td-tracker.com^$third-party
 ||textklicks.de^$third-party
-||textswap.de^$third-party
 ||tfppp.com^$third-party
 ||tip-ads.de^$third-party
 ||topiaserv.net^$third-party
 ||trabro.com^$third-party
 ||tracknet.twyn.com^$third-party
 ||trafficfabrik.com^$third-party
-||trafficlayer.de^$third-party
 ||traffictrack.de^$third-party
 ||transmatico.com^$third-party
 ||trmads.eu^$third-party
@@ -859,6 +837,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||4fal.com/profilbannercreate/$third-party
 ||aff.carvertical.com^$third-party
 ||autoscout24.de^$subdocument,domain=motorrad2000.de
+||cdn.plus500.com/media/banners/
+||ced.sascdn.com^
 ||datingpartner.com/medien/$third-party
 ||deinfickdate.com/banner/$third-party
 ||deinsexdate.com/banner/$third-party
@@ -873,7 +853,10 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sexkontaktportal.com/banner/$third-party
 ||smskontakt.ch/images/$third-party
 ||treff-mich.org/bilder/$third-party
+||wazazu.com/iframe/$third-party
+||wazazu.com/js/pu_$third-party
 ||wazazu.com/pimage/bas/$third-party
+||wazazu.com/pimage/visit-x/$third-party
 ||wien-girls.at/img/ba/$third-party
 ! 
 ||1deluxe.eu/banner/
@@ -954,9 +937,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||catsms.de/images/banner/
 ||cdn.kaisergames.de/www.*/images/wallpaper_
 ||cdn.lotto24.de/webshop/minisite/$subdocument,third-party
-||cdn.plus500.com/media/banners/
 ||cect-shop.com/CMBannerCECT-SHOP.gif
-||ced.sascdn.com^
 ||china-gadgets.de^$subdocument,third-party
 ||clanmonster.de/clanmonster_gross.jpg$third-party
 ||clanplanet.de/cp-leaderboard.jpg
@@ -1368,9 +1349,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||warumzahlen.de/images/banner/$third-party
 ||watchever.de^*^ifw^*^ifh^$third-party
 ||watercool.de/images/wc_banner_
-||wazazu.com/iframe/$third-party
-||wazazu.com/js/pu_$third-party
-||wazazu.com/pimage/visit-x/$third-party
 ||webguidez.de/test/images/
 ||webspace.webhoster.de^$third-party
 ||weekli.de/widget-loader?$third-party
