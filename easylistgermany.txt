@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102091825
+! Version: 202102091828
 ! Title: EasyList Germany
-! Last modified: 09 Feb 2021 18:25 UTC
+! Last modified: 09 Feb 2021 18:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -857,6 +857,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ! -----------------------------Third-party Werbung-----------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_thirdparty.txt ***
 ||4fal.com/profilbannercreate/$third-party
+||aff.carvertical.com^$third-party
 ||autoscout24.de^$subdocument,domain=motorrad2000.de
 ||datingpartner.com/medien/$third-party
 ||deinfickdate.com/banner/$third-party
