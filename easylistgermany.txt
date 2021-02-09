@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102091956
+! Version: 202102091957
 ! Title: EasyList Germany
-! Last modified: 09 Feb 2021 19:56 UTC
+! Last modified: 09 Feb 2021 19:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2227,6 +2227,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||ww-kurier.de/images/wwbanklogowetter.png
 ||ww4.cad.de^*.php?what=*:*&n=
 ||ww4.cad.de^*/axjs.php
+||xgadget.de/wp-content/uploads/*/ccbannersmall.jpg
 ||xhamster-sexvideos.com/cpanel/
 ||xhamster-sexvideos.com/img/linklist2/
 ||xhamsterde.com/ad/
@@ -2535,6 +2536,7 @@ autoexperience.de,flugzeugforum.de,uhrforum.de,xbox-passion.de###oc24-div
 yasni.de###offer
 rockland.fm###oms_gpt_rectangle
 rockland.fm###oms_gpt_rectanglesidebar
+xgadget.de###outerBoxStart
 hstt.net###page-header + br + .forabg
 ladies.de###page-top-sol
 nordbayern.de###page_billboard
