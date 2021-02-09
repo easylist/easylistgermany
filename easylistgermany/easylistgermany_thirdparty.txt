@@ -1,6 +1,8 @@
 ||4fal.com/profilbannercreate/$third-party
 ||aff.carvertical.com^$third-party
 ||autoscout24.de^$subdocument,domain=motorrad2000.de
+||cdn.plus500.com/media/banners/
+||ced.sascdn.com^
 ||datingpartner.com/medien/$third-party
 ||deinfickdate.com/banner/$third-party
 ||deinsexdate.com/banner/$third-party
@@ -15,7 +17,10 @@
 ||sexkontaktportal.com/banner/$third-party
 ||smskontakt.ch/images/$third-party
 ||treff-mich.org/bilder/$third-party
+||wazazu.com/iframe/$third-party
+||wazazu.com/js/pu_$third-party
 ||wazazu.com/pimage/bas/$third-party
+||wazazu.com/pimage/visit-x/$third-party
 ||wien-girls.at/img/ba/$third-party
 !
 ||1deluxe.eu/banner/
@@ -96,9 +101,7 @@
 ||catsms.de/images/banner/
 ||cdn.kaisergames.de/www.*/images/wallpaper_
 ||cdn.lotto24.de/webshop/minisite/$subdocument,third-party
-||cdn.plus500.com/media/banners/
 ||cect-shop.com/CMBannerCECT-SHOP.gif
-||ced.sascdn.com^
 ||china-gadgets.de^$subdocument,third-party
 ||clanmonster.de/clanmonster_gross.jpg$third-party
 ||clanplanet.de/cp-leaderboard.jpg
@@ -510,9 +513,6 @@
 ||warumzahlen.de/images/banner/$third-party
 ||watchever.de^*^ifw^*^ifh^$third-party
 ||watercool.de/images/wc_banner_
-||wazazu.com/iframe/$third-party
-||wazazu.com/js/pu_$third-party
-||wazazu.com/pimage/visit-x/$third-party
 ||webguidez.de/test/images/
 ||webspace.webhoster.de^$third-party
 ||weekli.de/widget-loader?$third-party
