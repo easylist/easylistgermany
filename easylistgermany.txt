@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102112045
+! Version: 202102112109
 ! Title: EasyList Germany
-! Last modified: 11 Feb 2021 20:45 UTC
+! Last modified: 11 Feb 2021 21:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -447,6 +447,7 @@ _woz_banner_vote.
 ##.werbung_sidebar
 ##.werbung_text
 ##.werbungamazon
+##.werbunganzeigen
 ##.werbungimthread
 ##.werbungrechtstitel
 ##.widget-werbung
@@ -2666,6 +2667,7 @@ oefb.at##.advertising
 kauf6.com##.advertisments
 speedweek.com##.advheader
 erf.de,greenbyte.ch##.adwrapper
+guteporno.com##.aff-inhalt-geil-spalte
 plattentests.de##.amazon
 forum.worldofplayers.de##.amazon-search
 winfuture.de##.amazon_widget_w660
@@ -3028,6 +3030,7 @@ ariva.de##.wo_news_top_banner
 technic3d.com##.wrap > footer[style="bottom: -260px;"]:last-child > div:first-child
 games-mag.de##.yftovjn
 games-mag.de##.yftovjn-container
+guteporno.com##.zeigenfick
 zeno.org##.zenoLSInnerProductTableRightAmazon
 german-bash.org##.zitat > div[style="width:300px;"]
 heise.de##A-PATERNOSTER
