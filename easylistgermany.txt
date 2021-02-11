@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102111437
+! Version: 202102111602
 ! Title: EasyList Germany
-! Last modified: 11 Feb 2021 14:37 UTC
+! Last modified: 11 Feb 2021 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -455,6 +455,7 @@ _woz_banner_vote.
 ##a[href^="http://landing.fickzeit.com/?ag="]
 ##a[href^="http://landing.parkplatzkartei.com/?ag="]
 ##a[href^="http://partners.adklick.de/tracking.php?"]
+##a[href^="http://wittered-mainging.com/"]
 ##a[href^="http://www.deinfickdate.com/?wm="]
 ##a[href^="http://www.deinsexdate.com/?wm="]
 ##a[href^="http://www.eis.de/index.phtml?refid="]
@@ -563,6 +564,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||adspectacle.net^$third-party
 ||adspirit.net^$third-party
 ||adsplash.de^$third-party
+||adsturn.com^$third-party
 ||adsushi.de^$third-party
 ||advendi.de^$third-party
 ||advert-layer.de^$third-party
@@ -662,6 +664,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||iqcontentplatform.de^$third-party
 ||itrack.it^$third-party
 ||jink.de^$third-party
+||jojoad.com^$third-party
 ||kingads.net^$third-party
 ||klick4u.de^$third-party
 ||klicktausch.com^$third-party
@@ -1616,6 +1619,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||forumprofi.de/fritz/$subdocument
 ||freenet.de/www/export/$script
 ||freenet.de^*/mail/ads/
+||freieporno.com^*/pr-before.js
+||freieporno.com^*/ssu.v2.js
 ||freizeitparks.de/fileadmin/user_upload/*_Anz_
 ||freizeitparks.de/fileadmin/user_upload/Bildschirmfoto_2020-11-09_um_09.53.39.png
 ||frischauf-gp.de/fileadmin/drehbande/
