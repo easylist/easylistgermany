@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102111345
+! Version: 202102111437
 ! Title: EasyList Germany
-! Last modified: 11 Feb 2021 13:45 UTC
+! Last modified: 11 Feb 2021 14:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2319,7 +2319,6 @@ mazda-forum.info###BelowRectangle
 1kh.de###Container > #head:first-child + #content + br + .spacer + center
 privatmarkt.ch###ContentFooterPartner
 druckerchannel.de###DCA_TOP
-druckerchannel.de###DCGA_CONTAINER
 druckkosten.de###DKGA_LEAD
 druckkosten.de###DKGA_SKY
 eatsmarter.de###EAT_D_Index_Top_Wrapper
