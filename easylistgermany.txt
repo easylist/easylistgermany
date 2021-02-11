@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102111602
+! Version: 202102111609
 ! Title: EasyList Germany
-! Last modified: 11 Feb 2021 16:02 UTC
+! Last modified: 11 Feb 2021 16:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -820,6 +820,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sexkontaktportal.com/banner/$third-party
 ||smskontakt.ch/images/$third-party
 ||treff-mich.org/bilder/$third-party
+||twincdn.com/special/special_script.js
 ||wazazu.com/iframe/$third-party
 ||wazazu.com/js/pu_$third-party
 ||wazazu.com/pimage/bas/$third-party
@@ -1888,6 +1889,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pornoente.tv/img/linklist2/
 ||pornofisch.com/cpanel/
 ||pornohammer.com/cpanel/
+||pornohammer.com/img/linklist/
 ||pornohammer.com/img/linklist2/
 ||pornohans.com/cpanel/
 ||pornohans.com/img/linklist2/
@@ -3059,6 +3061,7 @@ pcwelt.de##a[href^="https://pvn.mediamarkt.de/"]
 pcwelt.de##a[href^="https://pvn.saturn.de/"]
 emuenzen.de##a[href^="https://rover.ebay.com/"]
 wallstreet-online.de##a[href^="https://smartbroker.de/?utm_source="]
+beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,hd-sexfilme.com,hdpornos.net,lesbenhd.com,meinyouporn.com,pornoaffe.com,pornoente.tv,pornofisch.com,pornohammer.com,pornohans.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornotom.com,pornotommy.com,pornozebra.com,sexente.com,sexvideos-hd.com,tube8-pornos.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://susi.live/FreeAccountLanding.aspx?"]
 pcwelt.de##a[href^="https://tracking.s24.com/"]
 spiele-umsonst.de##a[href^="https://wgaffiliate.com/?a="]
 bildschirmarbeiter.com,bitreporter.de,chip.de,emok.tv,naruto-tube.org,nickles.de,onepiece-tube.com,pcwelt.de,pi-news.net,ruhrbarone.de,schule-studium.de,wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
