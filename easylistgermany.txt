@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102121710
+! Version: 202102121729
 ! Title: EasyList Germany
-! Last modified: 12 Feb 2021 17:10 UTC
+! Last modified: 12 Feb 2021 17:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -40,6 +40,7 @@
 /banner125werbung.
 /banner_quartermedia.
 /banner_woomws.
+/banners/werbung-
 /bannerwerbung-
 /bilder/ads/*
 /bilder/werbung_
@@ -368,6 +369,8 @@ _woz_banner_vote.
 ##.insidewerbung
 ##.keyword_werbung
 ##.lokalwerbung
+##.mob-werbung-oben
+##.mob-werbung-unten
 ##.news-item-werbung
 ##.newswerbung
 ##.nfy-sebo-ad
@@ -423,6 +426,7 @@ _woz_banner_vote.
 ##.werbung-label
 ##.werbung-leiste
 ##.werbung-rec-below-list
+##.werbung-rechts
 ##.werbung-rectangle
 ##.werbung-skyscraper
 ##.werbung-skyscraper2
@@ -1447,6 +1451,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||azureedge.net/pickerimages/Lokalfreunde_$domain=bayer04.de
 ||b2run.de/run/de/de/components/partner-links/
 ||b2run.de/run/de/de/pics/partner/
+||badenerzeitung.at/images/bettfedernfabrik.jpg
+||badenerzeitung.at/images/Bierbaum_VIP.jpg
 ||balaton-zeitung.info/wp-content/uploads/*-banner.jpg
 ||bankkaufmann.com/bilder/bacol.jpg
 ||bankkaufmann.com/bilder/bkhfb.jpg
@@ -2602,6 +2608,7 @@ hcgherdeina.com###top_sponsor_inner
 wintotal.de###topads
 selbstaendig-im-netz.de###topb
 bitsundso.de###topbanner
+badenerzeitung.at###topleft
 myfont.de###toplists
 hc-neumarkt.com###tr-contentbottom
 pornotim.com###tracking-url
