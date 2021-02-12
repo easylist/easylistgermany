@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102112207
+! Version: 202102121456
 ! Title: EasyList Germany
-! Last modified: 11 Feb 2021 22:07 UTC
+! Last modified: 12 Feb 2021 14:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2632,6 +2632,7 @@ t-online.de##.Tshlogobox
 via-ferrata.de##.YouTubeDachstein
 via-ferrata.de##.YouTubeLEKI
 via-ferrata.de##.YouTubeoetz
+gartenjournal.net##._bb_1
 appgefahren.de,automatentest.de,justnetwork.eu,kabel-blog.de,medienkuh.de,stadt-bremerhaven.de##.aawp
 com-magazin.de##.abo
 salue.de##.action-item > * > .ad
@@ -2651,6 +2652,7 @@ vaterland.li##.adcontainer
 nachtkritik.de##.adcontent
 suedtiroltv.it##.add
 abg-net.de##.add_top
+gartenjournal.net##.adinj
 my105.ch##.adition
 kochbar.de##.admanager__ems__dmofooter-1
 kochbar.de##.admanager__ems__superbanner-1
