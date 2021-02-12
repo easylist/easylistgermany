@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102121836
+! Version: 202102121854
 ! Title: EasyList Germany
-! Last modified: 12 Feb 2021 18:36 UTC
+! Last modified: 12 Feb 2021 18:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2447,7 +2447,7 @@ onlinereports.ch###content-banner3
 ladies.de###content-solads
 rund-magazin.de###contentbanner
 tagblatt.de###ctl00_ctl00_m_ctrlMainMasterContentPlaceHolder_m_ctrlMainContentPlaceHolder_ctl03_m_ctrlEditContainer
-nh24.de###custom_html-2
+nh24.de,wiener-online.at###custom_html-2
 daily-pia.de###custom_html-3
 primavera24.de###custom_html-5
 wallstreet-online.de###dban1
@@ -2476,6 +2476,8 @@ hierspielen.com###gamelead
 frag-mutti.de###gf-superbanner
 kartfahrer-forum.de###globalAnnouncement
 hsg-pohlheim.de###greyscale-2
+wiener-online.at###hab-right
+wiener-online.at###hab-top
 immo4trans.de###halfpage-banner
 belgieninfo.net###head_banner
 mtb-news.de###header
