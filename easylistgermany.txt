@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102121745
+! Version: 202102121811
 ! Title: EasyList Germany
-! Last modified: 12 Feb 2021 17:45 UTC
+! Last modified: 12 Feb 2021 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2238,6 +2238,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||zueri6.ch/wp-content/uploads/*/dscount-escort.jpg
 ||zueri6.ch/wp-content/uploads/*/oh-lala.jpg
 ||zueri6.ch/wp-content/uploads/*/vida6.gif
+||zurzeit.at/wp-content/uploads/*/Alm-Werbung-
+||zurzeit.at/wp-content/uploads/*/Banner-
 ! CSP filters
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagmanager.com *.google.com *.gstatic.com www.google-analytics.com *.googleapis.com *.cloudflare.com *.twitter.com connect.facebook.net cdn.hdfilme.net cdn.hdfilme.cx ssl.p.jwpcdn.com,domain=hdfilme.cx
 ! 
@@ -2506,7 +2508,7 @@ ef-magazin.de###marktplatz
 startxxl.com###mcebox
 startxxl.com###mcebox-sidebar
 eihi.de###media_gallery-2
-basicthinking.de###media_image-3
+basicthinking.de,zurzeit.at###media_image-3
 kremser-sc.at###media_image-4
 kremser-sc.at###media_image-5
 kremser-sc.at###media_image-6
