@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102151741
+! Version: 202102151745
 ! Title: EasyList Germany
-! Last modified: 15 Feb 2021 17:41 UTC
+! Last modified: 15 Feb 2021 17:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1926,6 +1926,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pornozebra.com/img/linklist2/
 ||pragerzeitung.cz/wp-content/uploads/*_300x450px_
 ||radio2000.it^*/banner_
+||radiobeo.ch/wp-content/uploads/*_Nachtangebote_
 ||radiotirol.it/uploads/beitrag/*/Jugenddienst.png
 ||rasa.ch/upload/sponsors/
 ||ratingerzeitung.de/wp-content/uploads/*/fotografie_fotograf_ratingen_duesseldorf_02.jpg
@@ -2953,6 +2954,7 @@ wegwerfemailadresse.com##.promobox
 suedtirolnews.it##.pub
 tchgdns.de##.pub-footer
 tchgdns.de##.pub-single-side
+radiobeo.ch##.qf-standard-banner-wrapp
 jamesfm.ch##.qt-sponsor
 codecheck.info##.r
 games.ch##.rect
