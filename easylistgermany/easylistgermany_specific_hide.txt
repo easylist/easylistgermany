@@ -28,8 +28,6 @@ webwiki.de###addmeright
 webwiki.de###addmetop
 gepostet.com,web.de###ads
 abload.de###adunten + div[style="font-size:8pt; color:#999999; margin-left:39px; width: 728px;"]
-1und1.de,gmx.net,web.de###adv
-gmx.net,web.de###advSpecialMain
 kath.ch###advertising
 quoka.de###advlft
 ariva.de###aktieImFokus
@@ -311,7 +309,7 @@ gartenjournal.net##._bb_1
 appgefahren.de,automatentest.de,autorevue.at,justnetwork.eu,kabel-blog.de,medienkuh.de,stadt-bremerhaven.de##.aawp
 com-magazin.de##.abo
 salue.de##.action-item > * > .ad
-abendblatt.de,adz.ro,ak-kurier.de,azonline.de,bildderfrau.de,bos-fahrzeuge.info,dastelefonbuch.de,eatsmarter.de,echo-online.de,erf.de,gq-magazin.de,juedische-allgemeine.de,klassikradio.de,macwelt.de,mann.tv,metager.de,modhoster.de,pcwelt.de,pfaffenhofen-today.de,spektrum.de,stadtradio-goettingen.de,sueddeutsche.de,wallstreet-online.de,wissen.de,wn.de,zeit.de##.ad
+abendblatt.de,adz.ro,ak-kurier.de,azonline.de,bildderfrau.de,bos-fahrzeuge.info,dastelefonbuch.de,eatsmarter.de,echo-online.de,erf.de,gmx.net,gq-magazin.de,juedische-allgemeine.de,klassikradio.de,macwelt.de,mann.tv,metager.de,modhoster.de,pcwelt.de,pfaffenhofen-today.de,spektrum.de,stadtradio-goettingen.de,sueddeutsche.de,wallstreet-online.de,web.de,wissen.de,wn.de,zeit.de##.ad
 ak-kurier.de##.ad + #flashContent
 ak-kurier.de##.ad + .tdt
 ak-kurier.de##.ad + .uk-panel
@@ -532,7 +530,7 @@ sexabc.ch##.lead-col
 intimesrevier.com##.lead_rennab
 boomerangtv.de,meteovista.de,spielen.de##.leaderboard
 antenne.de,rockantenne.de,schwaebische.de##.leaderboard-wrapper
-home.1und1.de,web.de##.left-col__bottom
+gmx.net,home.1und1.de,web.de##.left-col__bottom
 queer.de##.leistenbanner
 frischauf-gp.de##.ligaadd
 mydict.com,mydict.net##.list-group
@@ -794,6 +792,7 @@ wallstreet-online.de##a[onclick*="'tableAd'"]
 wallstreet-online.de##a[onclick*="'tableAd'"] + img
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
+weristdeinfreund.de##aside[id^="banner"]
 3dchip.de##div[align="center"][width="468px"] > table[height="60"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 bitreporter.de##div[class$="-adlabel"]
 t-online.de##div[class^="Tsshopst"]
@@ -804,6 +803,7 @@ rundschau.info##div[class^="runds-werbung-"]
 amazon.de##div[data-ad-id]
 rtl.de,vox.de##div[data-adformat="halfpage"]
 rtl.de,vox.de##div[data-adformat="rectangle"]
+gmx.net,web.de##div[data-adservice-slot]
 t-online.de##div[data-dy*="Partner:"]
 giga.de##div[data-trigger="sourcepoint-ad"]
 formel1.de##div[id="outer_sas_"]
@@ -875,66 +875,36 @@ freenet.de###ext-frn-adtag-nativendo-2
 freenet.de###ext-frn-adtag-rectangle-1
 freenet.de###ext-frn-adtag-rectangle-2
 freenet.de###ext-frn-adtag-sky-1
-gmx.net,web.de###footer-icons
 amazon.de###huc-first-upsell-row
-gmx.net,web.de###info-virus
 abload.de###iphpbannerleft
 abload.de###layerleft
 abload.de###layerright
-gmx.net,web.de###mail-list .iba
-gmx.net,web.de###mail-list .new.nma
-gmx.net###navigation > #navSpecial[style="height: 233px;"]
-web.de###navigation > #navSpecial[style="height: 235px;"]
 china.ahk.de###skyscraper
-web.de###supersize
-gmx.net,web.de###topper
-web.de###uimTopPosition
-gmx.net,web.de##.ad
-1und1.de,gmx.net,web.de##.ad-container
-web.de##.adv-promotion
 spiegel.de##.asset-affiliatebox
 amazon.de##.aw-campaigns
-web.de##.buster
 freenet.de##.frn_promoReisen
 raidrush.net##.funbox
 transfermarkt.de##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
-gmx.net,web.de##.iba-uncertain
-gmx.net,web.de##.iba-vague
-gmx.net##.left-col__bottom
-web.de##.lottoJackpot
-gmx.net,web.de##.medrec
 spiegel.de##.nativead
 spiegel.de##.nativead + .headline-date
-gmx.net##.notification-alert[data-notification-browser]
-gmx.net,web.de##.offers
 freenet.de##.plistaList img[src^="https://blob.freent.de/image/"]
-gmx.de,web.de##.record-layer
 abload.de##.rightbanner
-1und1.de##.spLinksBottom
-1und1.de##.spLinksTop
-computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
 china.ahk.de##.tx-bannermanagement-pi1
 suche.1und1.de,suche.gmx.net,suche.web.de##COMPONENTS-SHOPPING-ONEBOX-LIST.l-display-block
 deutscher-sex.com##a[href*="/f.php?a=vpn"]
 raidrush.net##a[href^="/go/?//www.amazon.de/"]
-web.de##a[href^="http://magazine.web.de/de/themen/digitale-welt/usenext/"]
 freenet.de##a[href^="http://media.mybet.com/redirect.aspx?pid="]
-web.de##a[href^="http://www.twinplan.com/"]
-weristdeinfreund.de##aside[id^="banner"]
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
 abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
 amazon.de##div[cel_widget_id="desktop-yo-shiptrack_SponsoredProductsRemoteShiptrackComplementT2"]
-gmx.net,web.de##div[data-adservice-slot]
 amazon.de##div[id$="_adcontent"]
 weristdeinfreund.de##div[style*="display: block ! important"]
 abload.de##div[style="margin-top: 20px; margin-bottom: 10px; position: relative;"]
 weristdeinfreund.de##div[style="position:absolute; top:5px; left:0px; text-align:center; width:100%; max-width:1000px; height:90px; overflow:hidden;"]
-1und1.de,gmx.net,web.de##ela-bing-card-list[c-type="'ad'"]
 ww3.cad.de##table[width="95%"][cellspacing="1"][border="0"] > tbody > tr > td[valign="top"]:first-child + td[style="vertical-align: top;"]:last-child
 ww3.cad.de##td[valign="bottom"][align="center"][colspan="2"] > table[width="755"][height="95"][align="center"]
 ww3.cad.de##tr > td[align="CENTER"] > table[bgcolor="#e7deee"]
 ww3.cad.de##tr > td[align="center"][colspan="2"][style="vertical-align: bottom;"] > table[align="center"][width="755"][height="95"]
-web.de##tr > td[colspan="2"] > table[cellspacing="0"][cellpadding="0"][border="0"][width="100%"][style="margin-bottom: 5px;"]:first-child:last-child
 ww3.cad.de##tr > td[valign="top"]:first-child + td[align="right"][width="160"][style="vertical-align: top;"]:last-child
 ww3.cad.de##tr > td[valign="top"]:first-child + td[width="161"][align="right"][style="vertical-align: top;"]
 ww3.cad.de##tr:first-child > td[valign="top"][align="left"]:first-child + td[valign="top"] + td[width="150"][valign="top"]:last-child
@@ -949,6 +919,7 @@ plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 notebookchat.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
 bz-berlin.de,giga.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
 giga.de,metal-hammer.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
+computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
 bz-berlin.de,fitbook.de,giga.de,myhomebook.de,noizz.de,spieletipps.de,sportbild.bild.de,techbook.de,transfermarkt.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
 bz-berlin,bz-berlin.de,metal-hammer.de,musikexpress.de,rollingstone.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
 @@||bz-berlin.de^$generichide
