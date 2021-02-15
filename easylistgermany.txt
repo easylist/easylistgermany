@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102151555
+! Version: 202102151640
 ! Title: EasyList Germany
-! Last modified: 15 Feb 2021 15:55 UTC
+! Last modified: 15 Feb 2021 16:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1927,6 +1927,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pragerzeitung.cz/wp-content/uploads/*_300x450px_
 ||radio2000.it^*/banner_
 ||radiotirol.it/uploads/beitrag/*/Jugenddienst.png
+||rasa.ch/upload/sponsors/
 ||ratingerzeitung.de/wp-content/uploads/*/fotografie_fotograf_ratingen_duesseldorf_02.jpg
 ||ratingerzeitung.de/wp-content/uploads/*/mk-solar-ratingen-duesseldorf.jpg
 ||ratingerzeitung.de/wp-content/uploads/*/photovoltaik_solaranlagen_ratingen.jpg
@@ -2464,6 +2465,7 @@ autoextrem.de,usp-forum.de,win-10-forum.de,winboard.org###fh-outside-top
 spreeblick.com###flattr > a
 spreeblick.com###flattr > p
 finanznachrichten.de###fn-ankuendigung
+rasa.ch###footer
 kremser-sc.at###footer-widgets
 b2run.de###footerpartners
 dforum.net###forumbanner
