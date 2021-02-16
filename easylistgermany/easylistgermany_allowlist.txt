@@ -18,19 +18,9 @@
 @@||2mdn.net/instream/video/client.js$domain=welect.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|preismafia.com
-@@||adition.com/banner?sid=$script,domain=ambellis.de|mirapodo.de|mytoys.de|yomonda.de
-@@||adition.com/banners/$image,domain=ambellis.de|dsl.freenet.de|mirapodo.de|mytoys.de|yomonda.de
-@@||adition.com/js/adition.js$domain=ambellis.de|mirapodo.de|mytoys.de|yomonda.de
-@@||adition.com/js/srp.js$domain=ambellis.de|mirapodo.de|mytoys.de|yomonda.de
-@@||adition.com/js?wp_id=$script,domain=ambellis.de|mirapodo.de|mytoys.de|yomonda.de
-@@||adition.com/s?t=$script,domain=ambellis.de|mirapodo.de|mytoys.de|yomonda.de
-@@||adlink.net/js?*&s=c&$script,domain=cinemaxx.de
 @@||admedia.adgemini.de^$~third-party
 @@||adnxs.com/p/creative-image/$image,domain=autobild.de
 @@||adnxs.com/ut/v3|$xmlhttprequest,domain=autobild.de
-@@||adserv.quality-channel.de/crossdomain.xml$object,domain=myself.de
-@@||adserv.quality-channel.de/realmedia/ads/*?videoad$object,domain=myself.de
-@@||adserver.gb4.motorpresse.de/www/delivery/ajs.php?zoneid=*&target=_blank&$script,domain=mountainbike-magazin.de
 @@||adservice.google.*/adsid/integrator.js$domain=welect.de
 @@||adservice.google.*^adsid/integrator.$script,domain=gofeminin.de|vip.de
 @@||affilinet-inside.de^*/affilinet/$stylesheet
@@ -44,7 +34,6 @@
 @@||banner.electronic-arts.de/www/images/*.jpg$domain=ea.com
 @@||banners.webmasterplan.com/view.asp?ref=*&site=10830&$script
 @@||banners.webmasterplan.com/view.asp?ref=*&site=15264&$script
-@@||binarus.de/sonderangebote/adlink-$image,domain=binarus.de
 @@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
 @@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
 @@||cdn.spotxcdn.com^$domain=welect.de
@@ -53,7 +42,6 @@
 @@||comdirect.de^*.html?ad=$subdocument
 @@||comdirect.de^*/advertising.do?$subdocument
 @@||commundia.de^*/affilinet/$~third-party
-@@||coolespiele.com/game.php?url=http://richmedia.coolespiele.com/$subdocument
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||d3con.de/data1/$image,~third-party
 @@||dawanda.com/ads?$xmlhttprequest
@@ -72,11 +60,9 @@
 @@||eyewonder.com^*/wrapper.js$domain=edge.download.newmedia.nacamar.net|freestream.nmdn.net
 @@||familienbildung-hamburg.de/cgi-bin/adframe/$subdocument,domain=fbs-harburg.de
 @@||fh-muenster.de/leitbild/banner.php
-@@||firebaseapp.com^$script,domain=freenet.de
 @@||flashtalking.com^$domain=welect.de
 @@||fn-neon.de/javascript/adserver_banner.js
 @@||forum-duewupp.de/images/ad-gallery/$~third-party
-@@||forum.froxlor.org^*/adsense.css
 @@||fussball.sv-kehlen.de/werbepartner.htm
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=kochbar.de|vip.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|n-tv.de|rtl.de
@@ -132,11 +118,9 @@
 @@||media.laendleauto.at/topad/$image,~third-party
 @@||metzgerei-giering.de^*/advertising/$~third-party
 @@||milesandmore-aktionen.de^*://promo.$subdocument,domain=promo.milesandmore.com
-@@||mirapodo.de/ads?$script
 @@||mmcomputer.de^*&BannerID=$subdocument
 @@||mobilbranche.de/mobilbranche/wp-content/uploads/$image,domain=mobilbranche.de
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
-@@||mstat.freent.de^*/sms_advertising/sms_teaser_$image,domain=webmail.freenet.de
 @@||nadann.de/small_ads/$~third-party
 @@||nordclick.de/js/colors/adsense_colors.js
 @@||notebookcheck.com^$generichide
@@ -155,7 +139,6 @@
 @@||raumobil.de/js/advertise.js
 @@||reaktion-talentschule.de/tl_files/layout/rotation/banner
 @@||reimkultur-mv.de/9products/images/ad/$image,~third-party
-@@||richmedia.coolespiele.com^$~third-party
 @@||rtl.de^*/player_modul_onclick_300x250.jpg
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||s357.mxcdn.net^$script,domain=welect.de
@@ -215,7 +198,6 @@
 @@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tamedia.ch/tl_files/content/Icons/Advertising_$domain=tamedia.ch
 @@||tamedia.ch^*/advertising-$subdocument,domain=tamedia.ch
-@@||teufel-media.de/www/delivery/avw.php?zoneid=$image,domain=gewinnspiele.freenet.de
 @@||tfag.de/img/$domain=focus.de
 @@||thangkas.com/thangkas/thangkas/$image,~third-party
 @@||thomann.de^*/adv/adv_$image,~third-party

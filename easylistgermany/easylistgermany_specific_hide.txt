@@ -142,10 +142,13 @@ chip.de###hp-aquamarin-1
 chip.de###hp-aquamarin-2
 immoauktionen.de###immowebAdCont
 bz-berlin.de###inpage
+abload.de###iphpbannerleft
 juraforum.de###jf-stroer-sky
 juraforum.de###jf-stroer-sky + div
 juraforum.de###jf-stroer-superbanner
 laborjournal.de###kratzer
+abload.de###layerleft
+abload.de###layerright
 tellows.de###lb_header
 1erforum.de,bauexpertenforum.de,dasheimwerkerforum.de,fitness-foren.de,lpgforum.de,mazda-forum.info,mercedes-forum.com,notebookforum.at,pkw-forum.de,skodacommunity.de,toyota-forum.de,vermieter-forum.com,windows-7-forum.net###leader_top_desk
 skiinfo.ch,skiinfo.com,skiinfo.de,spieletipps.de###leaderboard
@@ -610,6 +613,7 @@ fussballdaten.de,modhoster.de,rheintaler.ch##.rectangle
 suche.freenet.de##.result-container > .container-right
 nydus.org##.right > .widgetbox2
 oberberg-aktuell.de##.right-leaderboard
+abload.de##.rightbanner
 apfeleimer.de##.rotslide-wrap
 sport1.de##.s1-ad
 desired.de##.sad_banner
@@ -797,6 +801,8 @@ wallstreet-online.de##a[onclick*="'tableAd'"] + img
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 weristdeinfreund.de##aside[id^="banner"]
+ww3.cad.de##body > table[width="100%"][border="0"]:first-child
+abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
 3dchip.de##div[align="center"][width="468px"] > table[height="60"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 bitreporter.de##div[class$="-adlabel"]
 t-online.de##div[class^="Tsshopst"]
@@ -821,6 +827,7 @@ boerse.sx##div[id^="edit"][style="padding:0px 0px 6px 0px"] > table[id^="post"][
 handballecke.de##div[id^="promotionHeader"]
 metal-hammer.de##div[id^="sas_"]
 amazon.de##div[id^="sp_detail"]
+weristdeinfreund.de##div[style*="display: block ! important"]
 wirtschaftslexikon24.com##div[style="float:left;clear:left;height:620px;width:180px;padding-top:15px;"]
 breakpoint.untergrund.net##div[style="float:right; width: 110px; margin-left: 15px; margin-top: 12px; margin-bottom: 15px; padding: 2px 6px; text-align: center; border: 1px solid black; background:white; line-height: 2em; color: black;"]
 pixelio.de##div[style="float:right; width: 300px; height: 250px"]
@@ -830,6 +837,7 @@ shopanbieter.de##div[style="margin: 30px 0px 30px 0px;padding: 10px; border-widt
 gamereactor.de##div[style="min-height: 600px; margin-bottom: 20px;"]
 quoka.de##div[style="overflow:hidden;text-align:center;position:relative;height:300px;"]
 sprachnudel.de##div[style="padding:5px 0 5px 0;"][align="center"]
+weristdeinfreund.de##div[style="position:absolute; top:5px; left:0px; text-align:center; width:100%; max-width:1000px; height:90px; overflow:hidden;"]
 strafbuch.de##div[style="width: 468px;height: 60px;overflow: hidden;float: right"]
 psychic.de##div[style="width:160px;height:600px;"]
 korrekturen.de##div[style="width:300px; height:250px;float:left; margin-right:15px; margin-bottom:15px; border:0; background-color:#c0c0c0; overflow:hidden;"]
@@ -866,6 +874,7 @@ astronews.com##table[width="300px"][cellspacing="0"][cellpadding="0"][border="0"
 websingles.at##table[width="306"]
 grower.ch##table[width="468"]
 wetterbote.de##table[width="738"][height="90"]
+ww3.cad.de##table[width="95%"][cellspacing="1"][border="0"] > tbody > tr > td[valign="top"]:first-child + td[style="vertical-align: top;"]:last-child
 plz-postleitzahl.de##td[valign="top"][style="padding-left: 15px;"] > table[width="250"][cellspacing="0"][cellpadding="0"]:first-child
 astrotreff.de##td[width="100%"][align="center"] > hr[size="1"][color="#8482A5"] + table[cellspacing="0"][cellpadding="10"][border="0"][bgcolor="#000040"]
 dslr-forum.de##td[width="120"][valign="top"][align="center"]:last-child
@@ -873,47 +882,19 @@ astrotreff.de##td[width="33%"][valign="middle"][align="center"] > a[target="_bla
 land-der-traeume.de##td[width="730"] + td[align="center"]
 ibash.de##tr > td[valign="top"]:first-child + td[width="15"] + td[width="186"][valign="top"]:last-child
 favicon-generator.de##tr:first-child:last-child > td[align="left"][width="150"][valign="top"]:first-child + td[align="center"] + td[align="left"][width="150"][valign="top"]:last-child
+ww3.cad.de##tr:first-child:last-child > td[valign="top"]:first-child + td[width="152"][valign="top"][align="center"]:last-child
 !
-freenet.de###ext-frn-adtag-nativendo-1
-freenet.de###ext-frn-adtag-nativendo-2
-freenet.de###ext-frn-adtag-rectangle-1
-freenet.de###ext-frn-adtag-rectangle-2
-freenet.de###ext-frn-adtag-sky-1
 amazon.de###huc-first-upsell-row
-abload.de###iphpbannerleft
-abload.de###layerleft
-abload.de###layerright
 china.ahk.de###skyscraper
-spiegel.de##.asset-affiliatebox
 amazon.de##.aw-campaigns
-freenet.de##.frn_promoReisen
 raidrush.net##.funbox
 transfermarkt.de##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
-spiegel.de##.nativead
-spiegel.de##.nativead + .headline-date
-freenet.de##.plistaList img[src^="https://blob.freent.de/image/"]
-abload.de##.rightbanner
 china.ahk.de##.tx-bannermanagement-pi1
 suche.1und1.de,suche.gmx.net,suche.web.de##COMPONENTS-SHOPPING-ONEBOX-LIST.l-display-block
 deutscher-sex.com##a[href*="/f.php?a=vpn"]
 raidrush.net##a[href^="/go/?//www.amazon.de/"]
-freenet.de##a[href^="http://media.mybet.com/redirect.aspx?pid="]
-ww3.cad.de##body > table[width="100%"][border="0"]:first-child
-abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
 amazon.de##div[cel_widget_id="desktop-yo-shiptrack_SponsoredProductsRemoteShiptrackComplementT2"]
 amazon.de##div[id$="_adcontent"]
-weristdeinfreund.de##div[style*="display: block ! important"]
-abload.de##div[style="margin-top: 20px; margin-bottom: 10px; position: relative;"]
-weristdeinfreund.de##div[style="position:absolute; top:5px; left:0px; text-align:center; width:100%; max-width:1000px; height:90px; overflow:hidden;"]
-ww3.cad.de##table[width="95%"][cellspacing="1"][border="0"] > tbody > tr > td[valign="top"]:first-child + td[style="vertical-align: top;"]:last-child
-ww3.cad.de##td[valign="bottom"][align="center"][colspan="2"] > table[width="755"][height="95"][align="center"]
-ww3.cad.de##tr > td[align="CENTER"] > table[bgcolor="#e7deee"]
-ww3.cad.de##tr > td[align="center"][colspan="2"][style="vertical-align: bottom;"] > table[align="center"][width="755"][height="95"]
-ww3.cad.de##tr > td[valign="top"]:first-child + td[align="right"][width="160"][style="vertical-align: top;"]:last-child
-ww3.cad.de##tr > td[valign="top"]:first-child + td[width="161"][align="right"][style="vertical-align: top;"]
-ww3.cad.de##tr:first-child > td[valign="top"][align="left"]:first-child + td[valign="top"] + td[width="150"][valign="top"]:last-child
-ww3.cad.de##tr:first-child:last-child > td[valign="top"]:first-child + td[width="152"][valign="top"][align="center"]:last-child
-ww3.cad.de##tr:first-child:last-child > td[valign="top"]:first-child + td[width="160"][valign="top"][align="right"]:last-child
 ! Specific hiding filters necessary for sites using $generichide filter option
 finanzen.net###news-contentads
 focus.de##.adsBlock
