@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102171915
+! Version: 202102171941
 ! Title: EasyList Germany
-! Last modified: 17 Feb 2021 19:15 UTC
+! Last modified: 17 Feb 2021 19:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1331,15 +1331,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wikifolio.com/de/Modules/Infobox?partnerid=$subdocument,third-party
 ||wm-space.youero.com^
 ||wogibtswas.at/widget/$third-party
-||world-pictures.de/banner_
-||world-pictures.de/daks_banner.jpg
-||world-pictures.de/logo_purelements.jpg
-||world-pictures.de/logo_summit.jpg
-||world-pictures.de/outdoorshop.jpg
-||world-pictures.de^*_150x150.gif
 ||wpseo.de/banner/$third-party
 ||wpseo.de^*/banner/$third-party
-||wundert.at/banner/
 ||wurzelimperium.de/banner/
 ||x2.to/img/x2-rectangle.jpg
 ||xobor.miranus.com^
@@ -1347,7 +1340,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||yogsototh.bytecamp.net^$third-party
 ||youspacko.com/com/
 ||zeiss.de^*/containertitel/*/*file/$third-party
-||zock4help.de/banner/
 ||zweitfondsmarkt.de/banner/$third-party
 ||züri6.ch/adsman/$third-party
 ||züri6.ch/banner/$third-party
@@ -1358,7 +1350,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||china-gadgets.de^*&utm_medium=popdown&$popup,third-party
 ||dealdoktor.de^*&utm_medium=popdown&$popup,third-party
 ||escaria.com/public/static/teaser/?$popup
-||exnzg.de/go.cgi?pid=*&wmid=*&cpid=$popup,third-party
 ||ext.amateurcommunity.com^$popup,third-party
 ||ext.amateurcommunity.de^$popup,third-party
 ||glomex.com^$popup
@@ -1368,14 +1359,10 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||landing.sexkiste.com^$popup
 ||lp.amateurcommunity.com/index.php?cp=$popup,third-party
 ||lustagenten.de/?w=$popup,third-party
-||mannagor.de/?track=ad:$popup,third-party
-||mediadealr.com^$popup,third-party
 ||o2-freikarte.de/affiliate/$popup
-||oboom.com/ref/$popup
 ||sau-billig.net/?log=$popup,third-party
 ||schenkelklopfer.org^$popup,domain=4fuckr.com
 ||sloganmaker.net/?utm_campaign=*&utm_source=$popup,third-party
-||smstune.de/la/$popup
 ||sunmaker.com/?a_aid=$popup
 ||tagoria.net/?ref=$popup,third-party
 ||taps.io^*/sms?__ref=$popup
