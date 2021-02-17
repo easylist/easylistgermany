@@ -37,7 +37,6 @@ moonsault.de###anzeige
 hl-live.de###anzeiged2
 haustechnikdialog.de###anzeigendiv
 amazon.de###ape_Detail_ad-endcap-1_Glance_placement
-amazon.de###ape_detail_btf_detail-mWeb_wrapper
 willhaben.at###apn-large-content-ad
 willhaben.at###apn-large-leaderboard
 willhaben.at###apn-large-skyscraper
@@ -493,6 +492,7 @@ rhein-neckar-loewen.de##.footer__slider
 oefb.at##.footer_partner
 scdhfk-handball.de##.footer_sponsor_row
 arboe.at##.frame-type-mask_toolboxcontentad1
+raidrush.net##.funbox
 99ers.at##.fusion-builder-row-14
 fcschweinfurt1905.de##.fusion-builder-row-3
 gailtal.news,gitschtal.news,greifenburg.news,hermagor.news,it-production.com,klagenfurt.news,lite-magazin.de,radenthein.news,spittal.news,steinfeld.news,troepolach.news,via-ferrata.de,villacher.news,weissensee.news##.g
@@ -884,25 +884,13 @@ land-der-traeume.de##td[width="730"] + td[align="center"]
 ibash.de##tr > td[valign="top"]:first-child + td[width="15"] + td[width="186"][valign="top"]:last-child
 favicon-generator.de##tr:first-child:last-child > td[align="left"][width="150"][valign="top"]:first-child + td[align="center"] + td[align="left"][width="150"][valign="top"]:last-child
 ww3.cad.de##tr:first-child:last-child > td[valign="top"]:first-child + td[width="152"][valign="top"][align="center"]:last-child
-!
-amazon.de###huc-first-upsell-row
-china.ahk.de###skyscraper
-amazon.de##.aw-campaigns
-raidrush.net##.funbox
-transfermarkt.de##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
-china.ahk.de##.tx-bannermanagement-pi1
-suche.1und1.de,suche.gmx.net,suche.web.de##COMPONENTS-SHOPPING-ONEBOX-LIST.l-display-block
-deutscher-sex.com##a[href*="/f.php?a=vpn"]
-raidrush.net##a[href^="/go/?//www.amazon.de/"]
-amazon.de##div[cel_widget_id="desktop-yo-shiptrack_SponsoredProductsRemoteShiptrackComplementT2"]
-amazon.de##div[id$="_adcontent"]
 ! Specific hiding filters necessary for sites using $generichide filter option
 finanzen.net###news-contentads
 focus.de##.adsBlock
 finanzen.net##.adsbygoogle
-jetzt.de,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
+jetzt.de,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
-notebookchat.com,planetsnow.de,prosieben.at,prosieben.ch,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
+notebookchat.com,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
 bz-berlin.de,giga.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
 giga.de,metal-hammer.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
 computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
@@ -933,7 +921,6 @@ plista.com##a[href^="http://click.plista.com/pets"]
 finanzen.net##a[href^="https://ad.doubleclick.net/"]
 finanzen.net,gamestar.de,n-tv.de##a[href^="https://paid.outbrain.com/network/redir?"]
 musikexpress.de##a[href^="https://popup.taboola.com/"]
-focus.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 finanzen.net,focus.de,gamestar.de,metal-hammer.de,n-tv.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
 ! Advanced element hiding rules for Adblock Plus
