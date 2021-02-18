@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102181620
+! Version: 202102181624
 ! Title: EasyList Germany
-! Last modified: 18 Feb 2021 16:20 UTC
+! Last modified: 18 Feb 2021 16:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1736,6 +1736,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||islam.de/images/other/banner/
 ||jacktheripper.de/images/banner/
 ||journalist.de^*/Stellenanzeigen/
+||jungfrauzeitung.ch^*.html|$subdocument
 ||kapstadt.de/images/kunden/exclusive-tours-263-323-2.jpg
 ||kartfahrer-forum.de/board/images/
 ||kauf6.com/img/banner/
@@ -2835,6 +2836,8 @@ raidrush.net##.funbox
 fcschweinfurt1905.de##.fusion-builder-row-3
 gailtal.news,gitschtal.news,greifenburg.news,hermagor.news,it-production.com,klagenfurt.news,lite-magazin.de,radenthein.news,spittal.news,steinfeld.news,troepolach.news,via-ferrata.de,villacher.news,weissensee.news##.g
 golem.de##.gbox_affiliate
+jungfrauzeitung.ch##.gokb
+jungfrauzeitung.ch##.gokwblock
 nydus.org##.googl
 handball-deutschland.tv,sportdeutschland.tv,tischtennis-deutschland.tv##.gothaer-sponsoring-container
 nextpit.de##.gptSlot
