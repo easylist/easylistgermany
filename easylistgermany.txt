@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102181533
+! Version: 202102181553
 ! Title: EasyList Germany
-! Last modified: 18 Feb 2021 15:33 UTC
+! Last modified: 18 Feb 2021 15:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2897,6 +2897,7 @@ intimesrevier.com##.miragobox
 finanzen.net##.mleft-10 + .table-quotes
 fc.de##.mod-sponsor-icon
 blaue-blume.tv,goldstar-tv.de,romance-tv.de##.mod_banner
+wiler-nachrichten.ch##.mod_printanzeigen
 schalke04.de##.module-advertising
 jetztspielen.de##.mpu
 mtb-news.de##.mtbnewsAdBillboardContainer
