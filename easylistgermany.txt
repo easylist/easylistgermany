@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102181704
+! Version: 202102181717
 ! Title: EasyList Germany
-! Last modified: 18 Feb 2021 17:04 UTC
+! Last modified: 18 Feb 2021 17:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1411,6 +1411,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||aerger.tv/images/wer.gif
 ||affiliate-marketing.de/media/banner/
 ||affiliate-marketing.de/media/medienpartnerschaften/
+||africa-positive.de/wp-content/uploads/*/werbung_
 ||afterbuy.de/images/*/minibanner_$domain=thinkpad-forum.de
 ||ag-muensterland.de/Banner_
 ||ak-kurier.de/akkurier/www/images/
@@ -2496,11 +2497,12 @@ bbc-magazin.com###logo-right-widget
 filmz.de###m > div[style="left:16px;width:468px;overflow:hidden"] + .p[style="left:4px;width:492px;height:262px"]:last-child
 hc-erlangen.de###main-sponsor
 ef-magazin.de###marktplatz
+africa-positive.de###masthead
 startxxl.com###mcebox
 startxxl.com###mcebox-sidebar
 eihi.de###media_gallery-2
 basicthinking.de,zurzeit.at###media_image-3
-kremser-sc.at###media_image-4
+africa-positive.de,kremser-sc.at###media_image-4
 kremser-sc.at###media_image-5
 kremser-sc.at###media_image-6
 kremser-sc.at###media_image-7
@@ -2675,7 +2677,7 @@ engadinerpost.ch##.aditem
 my105.ch##.adition
 kochbar.de##.admanager__ems__dmofooter-1
 kochbar.de##.admanager__ems__superbanner-1
-arbeitszeugnisgenerator.de,autoscout24.ch,fischkopf.de,nachtkritik.de,regenbogen.de,stol.it,viamichelin.at,viamichelin.ch,viamichelin.de,wetter.at##.ads
+africa-positive.de,arbeitszeugnisgenerator.de,autoscout24.ch,fischkopf.de,nachtkritik.de,regenbogen.de,stol.it,viamichelin.at,viamichelin.ch,viamichelin.de,wetter.at##.ads
 glarus24.ch,radiocentral.ch,sunshine.ch##.ads-container
 eatsmarter.de##.adsense
 hierspielen.com##.adtitle
