@@ -889,6 +889,7 @@ favicon-generator.de##tr:first-child:last-child > td[align="left"][width="150"][
 ww3.cad.de##tr:first-child:last-child > td[valign="top"]:first-child + td[width="152"][valign="top"][align="center"]:last-child
 ! Specific hiding filters necessary for sites using $generichide filter option
 finanzen.net###news-contentads
+jetzt.de##.ad__template
 focus.de##.adsBlock
 finanzen.net##.adsbygoogle
 jetzt.de,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
