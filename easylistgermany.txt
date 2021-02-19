@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102191718
+! Version: 202102191732
 ! Title: EasyList Germany
-! Last modified: 19 Feb 2021 17:18 UTC
+! Last modified: 19 Feb 2021 17:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1953,6 +1953,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||schule-studium.de/buhv-Unterrichtsmaterial/Banner/
 ||schule-studium.de/images/Head-Dateien-jpgs/Thalia-Startseite.jpg
 ||scm-handball.de^*/Sponsoren/
+||segeljournal.com/wp-content/uploads/*/730x90_
+||segeljournal.com/wp-content/uploads/*_webbanner_
 ||selbstaendig-im-netz.de/Bilder/affiliate-banner/
 ||selbstaendig-im-netz.de/Bilder/Profi/
 ||sensor-test.de/assets/Banner/
@@ -2825,6 +2827,7 @@ derkleinegarten.de##.custom-inhoadd
 spox.com##.dazn
 dubisthalle.de##.dbh-widget
 deutschsex.com##.default__interest-block
+segeljournal.com##.displaybanner-container
 volksblatt.li##.divAdd_Banner
 gload.cc##.dl2019main
 scp07.de##.dp-sponsorenfooter
