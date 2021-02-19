@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102191713
+! Version: 202102191718
 ! Title: EasyList Germany
-! Last modified: 19 Feb 2021 17:13 UTC
+! Last modified: 19 Feb 2021 17:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2814,7 +2814,6 @@ tvg-grosssachsen.de##.cont-60
 ak-kurier.de,nr-kurier.de,ww-kurier.de##.container-banner
 deutscherskiverband.de##.container-banner-2
 goslarsche.de##.container_skyscraper
-ebay.de##.container_wrapper
 kostenlosspielen.net##.content-main-box-300x250
 kostenlosspielen.net##.content-main-box-728x90
 kostenlosspielen.net##.content-right-box-300x250right
@@ -3191,6 +3190,7 @@ giga.de##div[data-trigger="sourcepoint-ad"]
 formel1.de##div[id="outer_sas_"]
 t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
 t-online.de##div[id^="T-"][oncontextmenu="return false"]
+ebay.de##div[id^="ad_html_"]
 areadvd.de##div[id^="aread-"]
 finanzen100.de,spielen.de##div[id^="banner_"]
 hpd.de##div[id^="block-views-advertising-"]
