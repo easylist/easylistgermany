@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102191641
+! Version: 202102191655
 ! Title: EasyList Germany
-! Last modified: 19 Feb 2021 16:41 UTC
+! Last modified: 19 Feb 2021 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2011,6 +2011,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||stadtradio-goettingen.de/apool/srg/content/ads
 ||stern.de/bilder/stern_5/allgemein/extras_vermarktet/
 ||stream-oase.tv/images/banners/
+||studio-magazin.de/files/banner/
 ||studium-ratgeber.de^*/auslandszeit-starterkit.png
 ||studium-ratgeber.de^*/Studententarife-300x250.png
 ||suche.1und1.de/uns/affilinet?$xmlhttprequest
@@ -2920,7 +2921,7 @@ schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
 intimesrevier.com##.miragobox
 finanzen.net##.mleft-10 + .table-quotes
 fc.de##.mod-sponsor-icon
-blaue-blume.tv,goldstar-tv.de,romance-tv.de##.mod_banner
+blaue-blume.tv,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
 aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthurer-zeitung.ch,zugerwoche.ch##.mod_printanzeigen
 schalke04.de##.module-advertising
 jetztspielen.de##.mpu
