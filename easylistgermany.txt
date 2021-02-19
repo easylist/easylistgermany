@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102191534
+! Version: 202102191537
 ! Title: EasyList Germany
-! Last modified: 19 Feb 2021 15:34 UTC
+! Last modified: 19 Feb 2021 15:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2560,6 +2560,7 @@ gamereactor.de###sky2_1
 ad-hoc-news.de###skyL_wrapper
 ad-hoc-news.de###skyR_wrapper
 aktionspreis.de###skyScraper
+videoaktiv.de###skypos
 eurogamer.de,firmenwissen.de,fussballdaten.de,halle.de###skyscraper
 it-production.com###skyscraper-group
 it-production.com###skyscraper-group-left
@@ -2656,8 +2657,6 @@ via-ferrata.de##.YouTubeDachstein
 via-ferrata.de##.YouTubeLEKI
 via-ferrata.de##.YouTubeoetz
 gartenjournal.net##._bb_1
-videoaktiv.de##._sky1
-videoaktiv.de##._sky2
 appgefahren.de,automatentest.de,autorevue.at,justnetwork.eu,kabel-blog.de,medienkuh.de,stadt-bremerhaven.de##.aawp
 com-magazin.de##.abo
 salue.de##.action-item > * > .ad
