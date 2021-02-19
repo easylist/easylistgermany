@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102191614
+! Version: 202102191617
 ! Title: EasyList Germany
-! Last modified: 19 Feb 2021 16:14 UTC
+! Last modified: 19 Feb 2021 16:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1650,6 +1650,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||gofeminin.de/home4/skin/*_*/home.css|
 ||goldesel.to/img/*.gif|
 ||goldesel.to/img/fe7fb5b07e72161a27cca446df46743e13.jpg
+||golfmagazin.de/content/uploads/*/banner_
 ||googlewatchblog.de/apt.png
 ||googlewatchblog.de/wp-content/uploads/amazon-music-hd-stream.jpg
 ||gota.ch/images/pbanner/
@@ -2507,7 +2508,7 @@ startxxl.com###mcebox
 startxxl.com###mcebox-sidebar
 eihi.de###media_gallery-2
 basicthinking.de,zurzeit.at###media_image-3
-africa-positive.de,kremser-sc.at###media_image-4
+africa-positive.de,golfmagazin.de,kremser-sc.at###media_image-4
 kremser-sc.at###media_image-5
 kremser-sc.at###media_image-6
 kremser-sc.at###media_image-7
@@ -2672,7 +2673,7 @@ vsport.at##.ad2
 vsport.at##.ad3
 journalonko.de,kress.de,promiflash.de##.adContainer
 11freunde.de##.ad_below-nav
-jaegermagazin.de,st-georg.de,tennismagazin.de##.ad_list
+golfmagazin.de,jaegermagazin.de,st-georg.de,tennismagazin.de##.ad_list
 fairytail-tube.org,naruto-tube.org##.adb
 einrichtungsbeispiele.de,gevestor.de,latina-press.com,webwiki.de##.adbox
 vaterland.li##.adcontainer
