@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102231748
+! Version: 202102231803
 ! Title: EasyList Germany
-! Last modified: 23 Feb 2021 17:48 UTC
+! Last modified: 23 Feb 2021 18:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1797,6 +1797,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||meetingpoint-brandenburg.de/bilder/*/kunden/
 ||meetingpoint-brandenburg.de/bilder/*/werbung/
 ||meinyouporn.com/img/linklist2/
+||melodieundrhythmus.com^*/Granma-Abo.png
+||melodieundrhythmus.com^*/unblock-cuba_
 ||messweb.de/media/img/Caemax.gif
 ||messweb.de/media/img/icHaus_integrate_Circuits.gif
 ||messweb.de/media/img/imc_produktiv_Messen.jpg
@@ -2754,7 +2756,7 @@ notebookinfo.de##.av-carousel
 notebookinfo.de##.av-fade-carousel
 hsc2000.de##.av-partner-fake-img
 hsc2000.de##.avia-slideshow-1
-1001spiele.de,6navi.ch,anixehd.tv,bankkaufmann.com,buchmarkt.de,fussballgucken.info,hcb.net,juve.de,komoedie-steinstrasse.de,laufen.de,macerkopf.de,modhoster.de,pfaffenhofen-today.de,pixelio.de,salue.de,sexnews.ch,svs1916.de##.banner
+1001spiele.de,6navi.ch,anixehd.tv,bankkaufmann.com,buchmarkt.de,fussballgucken.info,hcb.net,juve.de,komoedie-steinstrasse.de,laufen.de,macerkopf.de,melodieundrhythmus.com,modhoster.de,pfaffenhofen-today.de,pixelio.de,salue.de,sexnews.ch,svs1916.de##.banner
 spielkarussell.de##.banner-btf-side-rectangle
 wochenblatt.cc##.banner-header-left
 wochenblatt.cc##.banner-header-right
@@ -3113,6 +3115,7 @@ nydus.org##.werb
 fernsehserien.de##.werbemittel
 winfuture-forum.de##.wf_gcsi
 nau.ch##.wideboard-top
+melodieundrhythmus.com##.widget-3
 wp-koenigin.de##.widget__image--banner
 nibelungen-kurier.de##.widget_dkge_wrapper
 zitate-online.de##.witz > .bewertung + .detaillink + p:last-child
