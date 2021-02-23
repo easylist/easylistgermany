@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102231707
+! Version: 202102231713
 ! Title: EasyList Germany
-! Last modified: 23 Feb 2021 17:07 UTC
+! Last modified: 23 Feb 2021 17:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1876,6 +1876,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||osthessen-zeitung.de/uploads/tx_macinabanners/
 ||ottfried.de/wp-content/uploads/*/traueranzeige_
 ||ox.gassi-tv.de^
+||oxmoxhh.de/wp-content/uploads/*/hotspring-
 ||pacific-blue.ch/banner/
 ||parcello.org/wp-content/uploads/*/amazon-$image
 ||partner.schalke04.de^
@@ -2889,6 +2890,7 @@ fkk24.de##.head-top-bannerplace
 blickpunkt-brandenburg.de,nh24.de,sunshine.it##.header-banner
 radzeit.de##.header-main
 taucher.net##.header-promo
+oxmoxhh.de##.header-widget-inner
 bankkaufmann.com##.headeradvert_
 fremdwort.de##.hinweisad
 b2run.de##.hmpartnersglobal
