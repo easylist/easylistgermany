@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102231644
+! Version: 202102231655
 ! Title: EasyList Germany
-! Last modified: 23 Feb 2021 16:44 UTC
+! Last modified: 23 Feb 2021 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -816,6 +816,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||datingpartner.com/medien/$third-party
 ||deinfickdate.com/banner/$third-party
 ||deinsexdate.com/banner/$third-party
+||dragonbox.de/img/banner/$third-party
 ||druckiad-che.newsmemory.com^$third-party
 ||erotik-dates.net/bilder/erotidates-banner.gif
 ||heutenochficken.com/banner/$third-party
@@ -830,6 +831,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||smskontakt.ch/images/$third-party
 ||treff-mich.org/bilder/$third-party
 ||twincdn.com/special/special_script.js
+||vesalia.de/af.gif$third-party
 ||wazazu.com/iframe/$third-party
 ||wazazu.com/js/pu_$third-party
 ||wazazu.com/pimage/bas/$third-party
@@ -1422,6 +1424,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||aktuell-kl.de/images/banners/
 ||altesrad.net/phpBB3/images/banner/
 ||amazonaws.com/bnp_657x209_$domain=finanzen.net
+||amigafuture.de/images/amazon234x60_
+||amigafuture.de/images/oben/amigastore.png
 ||and6.com/images/ixsBanners/
 ||animania.de/wp-content/uploads/*_Wallpaper_
 ||arbeitstage.at/pub_
@@ -3120,6 +3124,7 @@ heise.de##A-PATERNOSTER
 mobilegeeks.de##a[data-eventcategory="Kooperation"]
 t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
+amigafuture.de##a[href*="/boardheaderads/"]
 erogeschichten.com##a[href*="/go/"]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
 ostfussball.com##a[href*="/out/"]
