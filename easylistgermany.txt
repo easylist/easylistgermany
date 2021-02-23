@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102231546
+! Version: 202102231553
 ! Title: EasyList Germany
-! Last modified: 23 Feb 2021 15:46 UTC
+! Last modified: 23 Feb 2021 15:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1915,6 +1915,9 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||radio2000.it^*/banner_
 ||radiobeo.ch/wp-content/uploads/*_Nachtangebote_
 ||radiotirol.it/uploads/beitrag/*/Jugenddienst.png
+||radzeit.de/wp-content/uploads/*-250x190px.
+||radzeit.de/wp-content/uploads/*-500x380px.
+||radzeit.de/wp-content/uploads/*-Anzeige.
 ||raidrush.net/js/wrpx.js
 ||rasa.ch/upload/sponsors/
 ||ratingerzeitung.de/wp-content/uploads/*/fotografie_fotograf_ratingen_duesseldorf_02.jpg
@@ -2606,7 +2609,7 @@ nh24.de###text-26
 spielesnacks.de###text-27
 bitcoinnews.ch,nh24.de###text-28
 bitcoinnews.ch,ecommerce-vision.de,via-ferrata.de###text-29
-bitcoinnews.ch,blog-der-republik.de,nh24.de###text-3
+bitcoinnews.ch,blog-der-republik.de,nh24.de,radzeit.de###text-3
 bitcoinnews.ch###text-31
 bitcoinnews.ch###text-32
 fahrzeuglackiererforum.de###text-4
@@ -2875,6 +2878,7 @@ tagesspiegel.de##.hcf-news-aktuell
 ak-kurier.de##.hd-banner
 fkk24.de##.head-top-bannerplace
 blickpunkt-brandenburg.de,nh24.de,sunshine.it##.header-banner
+radzeit.de##.header-main
 taucher.net##.header-promo
 bankkaufmann.com##.headeradvert_
 fremdwort.de##.hinweisad
