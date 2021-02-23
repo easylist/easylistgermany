@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102231553
+! Version: 202102231556
 ! Title: EasyList Germany
-! Last modified: 23 Feb 2021 15:53 UTC
+! Last modified: 23 Feb 2021 15:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1928,6 +1928,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||ratingerzeitung.de/wp-content/uploads/*/ragentur2019.jpg
 ||rclineforum.de/forum/index.php?*&zoneid=$script
 ||rdrvision.com/images/content/*/reklame_
+||readersdigest.de/images/banner/
 ||redensarten-index.de/bnnr/
 ||redhocks.de^*/floorballes.png
 ||redhocks.de^*/intersportpio.png
@@ -3055,6 +3056,7 @@ ecvsv.at##.stream-item-top-wrapper
 sinn-frei.com##.stx
 ka-news.de,kochbar.de##.superbanner
 scfreiburg.com##.superbanner-top
+readersdigest.de##.superbanner_wrapper
 vanion.eu##.support_banner_lead
 broncos.it##.supporter
 scdhfk-handball.de##.swiper-container
