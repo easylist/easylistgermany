@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102241802
+! Version: 202102241811
 ! Title: EasyList Germany
-! Last modified: 24 Feb 2021 18:02 UTC
+! Last modified: 24 Feb 2021 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3001,6 +3001,8 @@ wegwerfemailadresse.com##.promobox
 suedtirolnews.it##.pub
 tchgdns.de##.pub-footer
 tchgdns.de##.pub-single-side
+mallorcazeitung.es##.publi_cabecera_270
+mallorcazeitung.es##.publi_mega
 mallorcamagazin.com##.publicidad
 radiobeo.ch##.qf-standard-banner-wrapp
 jamesfm.ch##.qt-sponsor
