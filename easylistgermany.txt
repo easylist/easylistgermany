@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102241846
+! Version: 202102241856
 ! Title: EasyList Germany
-! Last modified: 24 Feb 2021 18:46 UTC
+! Last modified: 24 Feb 2021 18:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2958,7 +2958,7 @@ oe24.at##.marketingTeaserBanner
 winfuture.de##.mb25[style="min-height:261px"]
 t-online.de##.med_anz
 ligaportal.at##.media
-petra.de##.mediumrectangle
+jolie.de,petra.de##.mediumrectangle
 lite-magazin.de##.metaslider
 goolive.de##.mgawerbungbase
 unterwasserwelt.de##.mh-footer
@@ -3092,7 +3092,7 @@ spieletipps.de##.stiSkyscraperRgt
 radiobob.de##.stickyBanner-wrapper
 ecvsv.at##.stream-item-top-wrapper
 sinn-frei.com##.stx
-ka-news.de,kochbar.de,petra.de##.superbanner
+jolie.de,ka-news.de,kochbar.de,petra.de##.superbanner
 scfreiburg.com##.superbanner-top
 readersdigest.de##.superbanner_wrapper
 vanion.eu##.support_banner_lead
