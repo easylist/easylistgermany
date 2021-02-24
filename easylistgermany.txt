@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102241901
+! Version: 202102241911
 ! Title: EasyList Germany
-! Last modified: 24 Feb 2021 19:01 UTC
+! Last modified: 24 Feb 2021 19:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1618,6 +1618,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||finanzen.net/images/b_realtime/vontobel-banner2.
 ||finanztreff.de^*/partner/
 ||fischkopf.de/image-content/wallpapers/
+||football-aktuell.de/links/
+||football-aktuell.de/rechts/
 ||forumprofi.de/fritz/$subdocument
 ||freenet.de/www/export/$script
 ||freenet.de^*/mail/ads/
@@ -3395,6 +3397,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
 @@||asadcdn.com/adlib/pages/bz-berlin.js$script,domain=bz-berlin.de
 @@||feuerwehr-marchtrenk.at/homepage/banner.php$subdocument
+@@||football-aktuell.de/links/banner_oben.png
 @@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
