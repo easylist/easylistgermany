@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102241814
+! Version: 202102241815
 ! Title: EasyList Germany
-! Last modified: 24 Feb 2021 18:14 UTC
+! Last modified: 24 Feb 2021 18:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -810,6 +810,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||4fal.com/profilbannercreate/$third-party
 ||ad.71i.de^
 ||aff.carvertical.com^$third-party
+||all-inkl.com/banner/$third-party
+||all-inkl.com^*/banner/$third-party
 ||autoscout24.de^$subdocument,domain=motorrad2000.de
 ||cdn.plus500.com/media/banners/
 ||ced.sascdn.com^
@@ -862,7 +864,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||aiqum.de^*/fprogn_xl_aiqum.js$third-party
 ||aldi-sued.de^*/zeitungen-banner/$third-party
 ||alfahosting.org/forum/f_bild/ban-kopf-
-||all-inkl.com^*/banner/$third-party
 ||am.dynatracker.de^$third-party
 ||amarotic.com^*.php?wmid=$script,third-party
 ||amateurbusters.com^*.php?wmid=$script,third-party
@@ -2721,6 +2722,7 @@ hierspielen.com##.adtitle
 ibb-anzeiger.de##.adv
 oberberg-aktuell.de##.adv-indicator
 oberberg-aktuell.de##.adv-link
+teneriffa-aktuell.com##.adv-wrapper
 blinker.de##.adv_widget
 eurogamer.de,morningstar.de,suedkurier.de,weser-kurier.de##.advert
 bankkaufmann.com##.advert_
@@ -3272,12 +3274,14 @@ pi-news.net,silentworld.eu##img[width="300"]
 gamepro.de##img[width="300"][height="246"]
 via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
 nh24.de##img[width="330"][height="220"]
+teneriffa-aktuell.com##img[width="450"][height="300"]
 basicthinking.de##img[width="500"][height="500"]
 nh24.de##img[width="533"]
 silentworld.eu##img[width="600"]
 hallescherfc.de##img[width="605"][height="690"]
 4fuckr.com##img[width="728"]
 online-gebuehrenrechner.de##img[width="728"][height="90"]
+teneriffa-aktuell.com##img[width="800"][height="230"]
 t-online.de##img[width="920"][usemap^="#immap"]
 restegourmet.de##li[data-content-type="ad"]
 erogeschichten.com##table[align-center][cellpadding="13"][border="0"][bgcolor="lightgrey"]
