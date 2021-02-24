@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102241815
+! Version: 202102241819
 ! Title: EasyList Germany
-! Last modified: 24 Feb 2021 18:15 UTC
+! Last modified: 24 Feb 2021 18:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2184,6 +2184,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wochenanzeiger.de/graphic/w/
 ||wochenblatt.cc^*/shadow-forces-security-
 ||wochenblatt.cc^*/Werbung-
+||wochenblatt.pl/wp-content/uploads/*/baner.gif
 ||wochenblatt.pl^*/smuda.jpg
 ||wochenblatt.pl^*/werbung.jpg
 ||wochenblitz.com/images/banners/
@@ -2469,6 +2470,7 @@ tagblatt.de###ctl00_ctl00_m_ctrlMainMasterContentPlaceHolder_m_ctrlMainContentPl
 nh24.de,wiener-online.at###custom_html-2
 daily-pia.de###custom_html-3
 primavera24.de###custom_html-5
+wochenblatt.pl###custom_post_widget-6
 wallstreet-online.de###dban1
 bluray-disc.de###deals-aktionen-box
 agriaffaires.de###display-ga
