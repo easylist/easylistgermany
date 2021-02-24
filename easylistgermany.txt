@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102241828
+! Version: 202102241833
 ! Title: EasyList Germany
-! Last modified: 24 Feb 2021 18:28 UTC
+! Last modified: 24 Feb 2021 18:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2818,6 +2818,8 @@ hockeyweb.de##.btn-danger
 boersennews.de##.btn-smartbroker
 lounge.fm##.buy
 kremser-sc.at,sgleutershausen.de##.bx-viewport
+amerikawoche.com##.bxnxr_column
+amerikawoche.com##.bxv
 ka-news.de##.cad_box
 anzeigervomrottal.ch##.carousel
 my105.ch##.channel-sponsor
