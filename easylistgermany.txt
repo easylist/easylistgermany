@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102241754
+! Version: 202102241757
 ! Title: EasyList Germany
-! Last modified: 24 Feb 2021 17:54 UTC
+! Last modified: 24 Feb 2021 17:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1658,6 +1658,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||googlewatchblog.de/apt.png
 ||googlewatchblog.de/wp-content/uploads/amazon-music-hd-stream.jpg
 ||gota.ch/images/pbanner/
+||griechenland.net/images/banners/
 ||grower.ch/partner/
 ||gutesexfilme.com/cpanel/
 ||gwars.de/index.php?page=advertisingpage
@@ -2784,7 +2785,7 @@ handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
 xxxjob.ch##.bannerboxrechts
 prost-magazin.at##.bannerfullbanner
-112-magazin.de,highway-magazin.de,kl-aktuell.de,motorradundreisen.de,naturundtherapie.at,pc-experience.de,sonic-seducer.de,spielbox.de,wahrschauer.net##.bannergroup
+112-magazin.de,griechenland.net,highway-magazin.de,kl-aktuell.de,motorradundreisen.de,naturundtherapie.at,pc-experience.de,sonic-seducer.de,spielbox.de,wahrschauer.net##.bannergroup
 sportal.ch##.bannerspot
 frischauf-gp.de##.bannertop
 nnz-online.de##.bannerwrapper
