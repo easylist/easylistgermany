@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102251558
+! Version: 202102251602
 ! Title: EasyList Germany
-! Last modified: 25 Feb 2021 15:58 UTC
+! Last modified: 25 Feb 2021 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2234,6 +2234,12 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wp.com/nh24.de/wp-content/uploads/*/Siewa_20.gif
 ||wp.com/nh24.de/wp-content/uploads/*/vitos_neu_19.jpg
 ||wp.com/nh24.de/wp-content/uploads/*_Banner.
+||wp.com/www.elliniki-gnomi.eu/wp-content/uploads/*-Postkarte_Thomas_Griechisch.jpg
+||wp.com/www.elliniki-gnomi.eu/wp-content/uploads/*/936x176-468x88.jpg
+||wp.com/www.elliniki-gnomi.eu/wp-content/uploads/*/FERIMMO_
+||wp.com/www.elliniki-gnomi.eu/wp-content/uploads/*/polibanner.jpg
+||wp.com/www.elliniki-gnomi.eu/wp-content/uploads/*/skiathos_metro_banner_
+||wp.com/www.elliniki-gnomi.eu/wp-content/uploads/*/TerzoSchild-banner.png
 ||ww-kurier.de/images/wwbanklogowetter.png
 ||ww4.cad.de^*.php?what=*:*&n=
 ||ww4.cad.de^*/axjs.php
@@ -3110,7 +3116,7 @@ selbstaendig-im-netz.de##.tad1
 golem.de##.tags
 pi-news.net##.td-a-rec-id-content_inlineleft
 bitreporter.de##.td-a-rec-id-custom-spot
-pi-news.net##.td-a-rec-id-header
+elliniki-gnomi.eu,pi-news.net##.td-a-rec-id-header
 primavera24.de##.td-header-container
 bild.de##.tea-rectangle
 analsexporno.net,pornomonster.com##.tf-de
