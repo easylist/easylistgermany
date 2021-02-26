@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102261606
+! Version: 202102261608
 ! Title: EasyList Germany
-! Last modified: 26 Feb 2021 16:06 UTC
+! Last modified: 26 Feb 2021 16:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2599,6 +2599,7 @@ bluray-disc.de###pricechange-box
 fanfiktion.de###qql
 einrichtungsbeispiele.de###rightcolumndiv
 h-bw.de###rothaus-aktion
+diebildschirmzeitung.de###rstpl-before-higher-position
 myself.de###sb1Wrapper
 4players.de###schnaeppchenlayer
 uhrforum.de###shuffled-sponsored
@@ -2995,6 +2996,7 @@ aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthure
 schalke04.de##.module-advertising
 jetztspielen.de##.mpu
 mtb-news.de##.mtbnewsAdBillboardContainer
+diebildschirmzeitung.de##.n2-ss-slider-3
 ehv-aue.de##.n2-ss-slider-pipeline
 finanznachrichten.de##.nadT
 alle-autos-in.de##.naviP
