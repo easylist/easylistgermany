@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102261608
+! Version: 202102261615
 ! Title: EasyList Germany
-! Last modified: 26 Feb 2021 16:08 UTC
+! Last modified: 26 Feb 2021 16:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2017,6 +2017,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||sissymag.de/wp-content/uploads/*/ottinger_salzgeber_club_1.jpg
 ||sissymag.de/wp-content/uploads/*/qfn01-
 ||sissymag.de/wp-content/uploads/*/tanzten_kaufen.jpg
+||skipper-bootshandel.de/wp-content/uploads/*/BANNER-
 ||sonic-seducer.de/images/banners/
 ||soundportal.at/fileadmin/user_upload/werbung/
 ||spanienlive.com^*/Werbung/
@@ -2788,6 +2789,7 @@ hsc2000.de##.av-partner-fake-img
 hsc2000.de##.avia-slideshow-1
 1001spiele.de,6navi.ch,anixehd.tv,bankkaufmann.com,buchmarkt.de,fussballgucken.info,hcb.net,juve.de,komoedie-steinstrasse.de,laufen.de,macerkopf.de,melodieundrhythmus.com,modhoster.de,pfaffenhofen-today.de,pixelio.de,salue.de,sexnews.ch,svs1916.de##.banner
 spielkarussell.de##.banner-btf-side-rectangle
+skipper-bootshandel.de##.banner-container
 wochenblatt.cc##.banner-header-left
 wochenblatt.cc##.banner-header-right
 xerotik.ch##.banner-img-bottom
@@ -2915,7 +2917,7 @@ arboe.at##.frame-type-mask_toolboxcontentad1
 raidrush.net##.funbox
 99ers.at##.fusion-builder-row-14
 fcschweinfurt1905.de##.fusion-builder-row-3
-gailtal.news,gitschtal.news,greifenburg.news,hermagor.news,it-production.com,jungefreiheit.de,klagenfurt.news,lite-magazin.de,radenthein.news,rechtsdepesche.de,spittal.news,steinfeld.news,troepolach.news,unternehmermagazin.de,via-ferrata.de,villacher.news,weissensee.news##.g
+gailtal.news,gitschtal.news,greifenburg.news,hermagor.news,it-production.com,jungefreiheit.de,klagenfurt.news,lite-magazin.de,radenthein.news,rechtsdepesche.de,skipper-bootshandel.de,spittal.news,steinfeld.news,troepolach.news,unternehmermagazin.de,via-ferrata.de,villacher.news,weissensee.news##.g
 golem.de##.gbox_affiliate
 jungfrauzeitung.ch##.gokb
 jungfrauzeitung.ch##.gokwblock
