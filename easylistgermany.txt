@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102261555
+! Version: 202102261600
 ! Title: EasyList Germany
-! Last modified: 26 Feb 2021 15:55 UTC
+! Last modified: 26 Feb 2021 16:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2895,6 +2895,7 @@ mundus-art.com##.elementor-element-0e1ce7d
 etcg.de##.eral_wrapper
 news.de##.extraContentContainer
 fcbayern.com##.fcb-ad-banner-container
+bunte.de##.fe-channel-item--promo
 ff-bz.com##.ff-ba
 tvinfo.de##.floatLeft[style="padding:10px;"]
 gwd-minden.de##.footer
