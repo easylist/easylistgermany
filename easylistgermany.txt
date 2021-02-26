@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102261537
+! Version: 202102261540
 ! Title: EasyList Germany
-! Last modified: 26 Feb 2021 15:37 UTC
+! Last modified: 26 Feb 2021 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1520,6 +1520,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||cloudfront.net^$domain=hd-streams.org
 ||codecheck.info/i/CTA-banner.png
 ||com-magazin.de/img/*/Commerce-Week_450x94.jpeg
+||computerschach.de^*/shredder_130x80.gif
 ||connect.de^*/partner.js
 ||connectiv.events/wp-content/uploads/*/banner_
 ||crosswater-job-guide.com/pics/banner_
@@ -2640,14 +2641,14 @@ suche.t-online.de###tMRM_billiger
 nh24.de###text-11
 nh24.de###text-13
 blogprojekt.de###text-18
-nh24.de###text-2
+computerschach.de,nh24.de###text-2
 nh24.de###text-21
 bitcoinnews.ch###text-24
 nh24.de###text-26
 spielesnacks.de###text-27
 bitcoinnews.ch,nh24.de###text-28
 bitcoinnews.ch,ecommerce-vision.de,via-ferrata.de###text-29
-bitcoinnews.ch,blog-der-republik.de,nh24.de,radzeit.de###text-3
+bitcoinnews.ch,blog-der-republik.de,computerschach.de,nh24.de,radzeit.de###text-3
 bitcoinnews.ch###text-31
 bitcoinnews.ch###text-32
 fahrzeuglackiererforum.de###text-4
