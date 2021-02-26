@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102261622
+! Version: 202102261646
 ! Title: EasyList Germany
-! Last modified: 26 Feb 2021 16:22 UTC
+! Last modified: 26 Feb 2021 16:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3387,6 +3387,7 @@ finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='https://paid.outbra
 ! Advanced element hiding rules for Adblock Plus
 az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
 barfuss.it#?#.panels-flexible-region:-abp-has(span:-abp-contains(Gesponsert))
+bergsteiger.de#?#.eight.columns.alpha.content:-abp-has(span:-abp-contains(Advertorial))
 bitreporter.de#?#.code-block:-abp-has(span:-abp-contains(/ANZEIGE|Anzeige|Werbung|WERBUNG/))
 chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEIGE)
 chip.de#?#article > a:-abp-contains(Anzeige)
