@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102261451
+! Version: 202102261458
 ! Title: EasyList Germany
-! Last modified: 26 Feb 2021 14:51 UTC
+! Last modified: 26 Feb 2021 14:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1609,6 +1609,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||feierabend.de/gta/
 ||ff-bz.com^*/banner-
 ||fhcdn.net^*/ebay_logo.gif
+||filmpost.de^*/anzeigen/
 ||filmz.de/f/ra.htm
 ||filmz.de/f/s.htm
 ||filmz.de/f/sa.htm
@@ -2758,7 +2759,7 @@ plattentests.de##.amazon
 forum.worldofplayers.de##.amazon-search
 winfuture.de##.amazon_widget_w660
 fairytail-tube.org##.amz
-112-magazin.de,gesetzlichekrankenkassen.de,lehrerfreund.de,medizin-netz.de,oktoberfestportal.de,sportal.de,tweakpc.de,vhs-ol.de##.anzeige
+112-magazin.de,filmpost.de,gesetzlichekrankenkassen.de,lehrerfreund.de,medizin-netz.de,oktoberfestportal.de,sportal.de,tweakpc.de,vhs-ol.de##.anzeige
 designtagebuch.de##.anzeige-links
 ariva.de##.anzeigeText
 motorsport-total.com##.anzeige_teas_rect
