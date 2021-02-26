@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102261726
+! Version: 202102261730
 ! Title: EasyList Germany
-! Last modified: 26 Feb 2021 17:26 UTC
+! Last modified: 26 Feb 2021 17:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1459,6 +1459,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||baskets-jena.de/fileadmin/*/csm_sparkassen_arena_
 ||baskets-jena.de/fileadmin/*/Koestritzer_Schriftmarke_Logo_
 ||baskets-jena.de/fileadmin/*/logo_adignos.jpg
+||basses-blatt.de/files/banner/
 ||bastel-elfe.de/banner/
 ||bbc-magazin.com/wp-content/uploads/*/bbc-coburg-barmer-banner.jpg
 ||bbc-magazin.com/wp-content/uploads/*/bbc-coburg-brose-web24.png
@@ -2995,7 +2996,7 @@ schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
 intimesrevier.com##.miragobox
 finanzen.net##.mleft-10 + .table-quotes
 fc.de##.mod-sponsor-icon
-blaue-blume.tv,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
+basses-blatt.de,blaue-blume.tv,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
 aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthurer-zeitung.ch,zugerwoche.ch##.mod_printanzeigen
 schalke04.de##.module-advertising
 jetztspielen.de##.mpu
