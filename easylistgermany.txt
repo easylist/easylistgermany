@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102261600
+! Version: 202102261606
 ! Title: EasyList Germany
-! Last modified: 26 Feb 2021 16:00 UTC
+! Last modified: 26 Feb 2021 16:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -151,6 +151,7 @@ _bg_werbung.
 _oben_ad.
 _unten_ad.
 _werbe_layer.
+_werbeanzeigen/
 _werbebanner.
 _werbebanner/
 _werbebanner_
@@ -2815,6 +2816,7 @@ xxxjob.ch##.bannerboxlinks-klein
 xxxjob.ch##.bannerboxrechts
 prost-magazin.at##.bannerfullbanner
 112-magazin.de,griechenland.net,highway-magazin.de,kl-aktuell.de,motorradundreisen.de,naturundtherapie.at,pc-experience.de,sonic-seducer.de,spielbox.de,wahrschauer.net##.bannergroup
+diebildschirmzeitung.de##.banneritem
 sportal.ch##.bannerspot
 frischauf-gp.de##.bannertop
 nnz-online.de##.bannerwrapper
