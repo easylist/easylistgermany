@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202102261733
+! Version: 202102261744
 ! Title: EasyList Germany
-! Last modified: 26 Feb 2021 17:33 UTC
+! Last modified: 26 Feb 2021 17:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2483,7 +2483,7 @@ sexei.net###catfad
 beliebtestewebseite.de###checkdiv
 steuerlinks.de###colLeft > #info
 steuerlinks.de###colRight > #search
-dtoday.de,goslarsche.de,pz-news.de,tageblatt.de,teckbote.de,weser-kurier.de###container_banner
+brv-zeitung.de,dtoday.de,goslarsche.de,pz-news.de,tageblatt.de,teckbote.de,weser-kurier.de###container_banner
 mediabiz.de###container_fs
 biothemen.de###content + #right
 marketing-boerse.de###content-banner
