@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103011652
+! Version: 202103011704
 ! Title: EasyList Germany
-! Last modified: 01 Mar 2021 16:52 UTC
+! Last modified: 01 Mar 2021 17:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2646,6 +2646,7 @@ aktionspreis.de###superBanner
 chilloutzone.net###superreplacement
 suche.t-online.de###tMRM_amazon
 suche.t-online.de###tMRM_billiger
+liveticker.com###tab-live-odds
 nh24.de###text-11
 nh24.de###text-13
 blogprojekt.de###text-18
@@ -2843,6 +2844,7 @@ borussia.de##.bmg-ad
 quoka.de##.bnr-wrp
 oberberg-aktuell.de##.bnrad
 russland.capital,russland.news##.bodShopWidget
+liveticker.com##.boxOverContent
 btc-echo.de##.btc-sponsored
 hockeyweb.de##.btn-danger
 boersennews.de##.btn-smartbroker
@@ -2974,6 +2976,7 @@ queer.de##.leistenbanner
 frischauf-gp.de##.ligaadd
 mydict.com,mydict.net##.list-group
 queer.de##.listenbannerlinks
+liveticker.com##.live-betting-strip
 businessinsider.de##.ll_partnerexpert_widget
 bibliomed-pflege.de##.lns-banners-zone
 mainz05.de##.logo-footer-module
