@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103021736
+! Version: 202103021746
 ! Title: EasyList Germany
-! Last modified: 02 Mar 2021 17:36 UTC
+! Last modified: 02 Mar 2021 17:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2840,7 +2840,7 @@ bz-berlin.de##.bcode-top-container
 boersennews.de##.bg-smartbroker-dark
 boersennews.de##.bg-smartbroker-light
 designtagebuch.de##.billbo
-fnweb.de,laborjournal.de,morgenweb.de,tarnkappe.info,winfuture.de##.billboard
+fnweb.de,laborjournal.de,mannheimer-morgen.de,morgenweb.de,tarnkappe.info,winfuture.de##.billboard
 infranken.de##.billboard-wrapper
 djmag.de##.billboardbanner
 ak-kurier.de##.block-weather-link
@@ -2891,6 +2891,7 @@ kostenlosspielen.net##.content-main-box-728x90
 kostenlosspielen.net##.content-right-box-300x250right
 buffed.de,gamezone.de,pcgames.de,pcgameshardware.de##.contentFrameEddie
 koeln.de##.contentRect
+mannheimer-morgen.de##.core-commercial
 u1-radio.at##.csc-partner
 boerse-express.com##.custom-bexad
 derkleinegarten.de##.custom-inhoadd
