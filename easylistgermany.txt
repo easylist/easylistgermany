@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103021527
+! Version: 202103021534
 ! Title: EasyList Germany
-! Last modified: 02 Mar 2021 15:27 UTC
+! Last modified: 02 Mar 2021 15:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1629,6 +1629,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||finanzen.net/images/b_realtime/vontobel-banner2.
 ||finanztreff.de^*/partner/
 ||fischkopf.de/image-content/wallpapers/
+||flz.de/fileadmin/user_upload/anzeigenbanner/
 ||football-aktuell.de/links/
 ||football-aktuell.de/rechts/
 ||forumprofi.de/fritz/$subdocument
@@ -3166,6 +3167,7 @@ travelbook.de##.trc_related_container div[data-item-syndicated="true"]
 pnn.de,tagesspiegel.de##.ts-sptag
 hamburg-pride.de##.tx-imagecycle-pi1
 funcloud.club##.underContentA
+flz.de##.user-flzads-pi1
 hallescherfc.de##.vc_carousel-inner
 vfl.de##.vc_custom_1544363997968
 ebay.de##.vi-lb-placeholder
