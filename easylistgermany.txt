@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103021534
+! Version: 202103021540
 ! Title: EasyList Germany
-! Last modified: 02 Mar 2021 15:34 UTC
+! Last modified: 02 Mar 2021 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1660,6 +1660,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||gamekeyfinder.de/img/rot/
 ||gamemovieportal.ch/_partner/
 ||gameothek.com/wp-content/uploads/buttons/
+||gandersheimer-kreisblatt.de/files/gk/banner/
 ||gentleman-blog.de/wp-content/uploads/270x191.jpg
 ||gentleman-blog.de/wp-content/uploads/870x150.jpg
 ||gepostet.com/templates/desktop/images/banner/
@@ -3006,7 +3007,7 @@ schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
 intimesrevier.com##.miragobox
 finanzen.net##.mleft-10 + .table-quotes
 fc.de##.mod-sponsor-icon
-basses-blatt.de,blaue-blume.tv,einbecker-morgenpost.de,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
+basses-blatt.de,blaue-blume.tv,einbecker-morgenpost.de,gandersheimer-kreisblatt.de,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
 aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthurer-zeitung.ch,zugerwoche.ch##.mod_printanzeigen
 schalke04.de##.module-advertising
 jetztspielen.de##.mpu
