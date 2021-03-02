@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103021604
+! Version: 202103021617
 ! Title: EasyList Germany
-! Last modified: 02 Mar 2021 16:04 UTC
+! Last modified: 02 Mar 2021 16:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3042,6 +3042,7 @@ highway-magazin.de##.partnerlinks
 deutscherskiverband.de##.partnerlogos
 hannover96.de,p-stadtkultur.de##.partners
 floatmagazin.de##.partners-title + .partners
+fla.de##.pbph
 heise.de##.perf-cls-reduc-leaderboard
 heise.de##.perf-cls-reduc-rectangle
 blick.ch##.placement-leaderboard
@@ -3105,6 +3106,8 @@ frischauf-gp.de##.skyadd
 internet-sms.com##.skybg
 spiele-kostenlos-online.de##.skycraper
 11freunde.de,dialo.de,dynamo-dresden.de,jetztspielen.de,ligaportal.at,rheintaler.ch,spielen.de##.skyscraper
+fla.de##.skyscrapper-left
+fla.de##.skyscrapper-right
 aedt.de##.slide-box
 finanznachrichten.de##.smartbroker--text
 finanznachrichten.de##.smartbroker-logo
@@ -3297,6 +3300,7 @@ ebay.de##div[id^="ad_html_"]
 areadvd.de##div[id^="aread-"]
 finanzen100.de,spielen.de##div[id^="banner_"]
 hpd.de##div[id^="block-views-advertising-"]
+fla.de##div[id^="cncpt-dsk_"]
 forum.golem.de##div[id^="csi_forum"][style="min-height:100px"]
 boerse.sx##div[id^="edit"][style="padding:0px 0px 6px 0px"] > table[id^="post"][width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"] + br + .tborder[width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"]
 handballecke.de##div[id^="promotionHeader"]
