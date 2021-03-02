@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103021655
+! Version: 202103021657
 ! Title: EasyList Germany
-! Last modified: 02 Mar 2021 16:55 UTC
+! Last modified: 02 Mar 2021 16:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2729,7 +2729,7 @@ gartenjournal.net##._bb_1
 appgefahren.de,automatentest.de,autorevue.at,justnetwork.eu,kabel-blog.de,medienkuh.de,stadt-bremerhaven.de##.aawp
 com-magazin.de##.abo
 salue.de##.action-item > * > .ad
-abendblatt.de,adz.ro,ak-kurier.de,azonline.de,bildderfrau.de,bos-fahrzeuge.info,dastelefonbuch.de,eatsmarter.de,echo-online.de,erf.de,gmx.net,gq-magazin.de,juedische-allgemeine.de,klassikradio.de,lahrer-zeitung.de,macwelt.de,mann.tv,metager.de,modhoster.de,pcwelt.de,pfaffenhofen-today.de,spektrum.de,stadtradio-goettingen.de,sueddeutsche.de,wallstreet-online.de,web.de,wissen.de,wn.de,zeit.de##.ad
+abendblatt.de,adz.ro,ak-kurier.de,azonline.de,bildderfrau.de,bos-fahrzeuge.info,dastelefonbuch.de,eatsmarter.de,echo-online.de,erf.de,gmx.net,gq-magazin.de,idowa.de,juedische-allgemeine.de,klassikradio.de,lahrer-zeitung.de,macwelt.de,mann.tv,metager.de,modhoster.de,pcwelt.de,pfaffenhofen-today.de,spektrum.de,stadtradio-goettingen.de,sueddeutsche.de,wallstreet-online.de,web.de,wissen.de,wn.de,zeit.de##.ad
 ak-kurier.de##.ad + #flashContent
 ak-kurier.de##.ad + .tdt
 ak-kurier.de##.ad + .uk-panel
@@ -2747,7 +2747,6 @@ vaterland.li##.adcontainer
 nachtkritik.de##.adcontent
 suedtiroltv.it##.add
 abg-net.de##.add_top
-idowa.de##.adhelper
 gartenjournal.net##.adinj
 engadinerpost.ch##.aditem
 my105.ch##.adition
