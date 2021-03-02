@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103021635
+! Version: 202103021651
 ! Title: EasyList Germany
-! Last modified: 02 Mar 2021 16:35 UTC
+! Last modified: 02 Mar 2021 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1808,6 +1808,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||loipenpark.de/images/banners/
 ||lounge.fm^*/auto-doc.
 ||lounge.fm^*/topersatzteile.
+||loz-news.de/images/banners/
 ||lust24.ch/images/banner/
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Elecars_Weblink_bouton.jpg
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Guav-Banner.png
@@ -2829,7 +2830,7 @@ handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
 xxxjob.ch##.bannerboxrechts
 prost-magazin.at##.bannerfullbanner
-112-magazin.de,griechenland.net,highway-magazin.de,kl-aktuell.de,motorradundreisen.de,naturundtherapie.at,pc-experience.de,sonic-seducer.de,spielbox.de,wahrschauer.net##.bannergroup
+112-magazin.de,griechenland.net,highway-magazin.de,kl-aktuell.de,loz-news.de,motorradundreisen.de,naturundtherapie.at,pc-experience.de,sonic-seducer.de,spielbox.de,wahrschauer.net##.bannergroup
 diebildschirmzeitung.de##.banneritem
 sportal.ch##.bannerspot
 frischauf-gp.de##.bannertop
