@@ -978,11 +978,12 @@ finanzen.net##.adsbygoogle
 jetzt.de,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 notebookchat.com,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
-bz-berlin.de,giga.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
-giga.de,metal-hammer.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
+businessinsider.de,bz-berlin.de,giga.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
+businessinsider.de,giga.de,metal-hammer.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
 computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
-bz-berlin.de,fitbook.de,giga.de,myhomebook.de,noizz.de,spieletipps.de,sportbild.bild.de,techbook.de,transfermarkt.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
+businessinsider.de,bz-berlin.de,fitbook.de,giga.de,myhomebook.de,noizz.de,spieletipps.de,sportbild.bild.de,techbook.de,transfermarkt.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
 bz-berlin,bz-berlin.de,metal-hammer.de,musikexpress.de,rollingstone.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
+@@||businessinsider.de^$generichide
 @@||bz-berlin.de^$generichide
 @@||computerbild.de^$generichide
 @@||finanzen.net^$generichide
