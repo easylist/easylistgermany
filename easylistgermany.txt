@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103051725
+! Version: 202103051733
 ! Title: EasyList Germany
-! Last modified: 05 Mar 2021 17:25 UTC
+! Last modified: 05 Mar 2021 17:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1918,6 +1918,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pcgamesdatabase.de/images/amazon_small.jpg
 ||pcgamesdatabase.de/images/bt_orderamazon.jpg
 ||pfaffenhofen-today.de/images/banners/
+||pfalz-echo.de/wp-content/uploads/*-Banner-
+||pfalz-echo.de/wp-content/uploads/*_Anzeige_
 ||pi-news.net/wp-content/uploads/*/Banner_
 ||pi-news.net/wp-content/uploads/*/pax_aktiv.jpg
 ||pi-news.net/wp-content/uploads/*_banner_
@@ -2534,7 +2536,7 @@ tschechien-online.org###gads-leaderboard
 hierspielen.com###gamelead
 frag-mutti.de###gf-superbanner
 kartfahrer-forum.de###globalAnnouncement
-cz.de,goettinger-tageblatt.de,haz.de,kn-online.de,ln-online.de,lvz.de,maz-online.de,neuepresse.de,ostsee-zeitung.de,waz-online.de###gpt_superbanner
+cz.de,goettinger-tageblatt.de,haz.de,kn-online.de,ln-online.de,lvz.de,maz-online.de,neuepresse.de,op-marburg.de,ostsee-zeitung.de,paz-online.de,waz-online.de###gpt_superbanner
 hsg-pohlheim.de###greyscale-2
 wiener-online.at###hab-right
 wiener-online.at###hab-top
@@ -2556,6 +2558,7 @@ abload.de###iphpbannerleft
 juraforum.de###jf-stroer-sky
 juraforum.de###jf-stroer-sky + div
 juraforum.de###jf-stroer-superbanner
+ostfriesischer-kurier.de###jsn-pos-user-top
 laborjournal.de###kratzer
 abload.de###layerleft
 abload.de###layerright
@@ -2642,6 +2645,9 @@ videoaktiv.de###skypos
 eurogamer.de,firmenwissen.de,fussballdaten.de,halle.de,neuelandschaft.de###skyscraper
 it-production.com###skyscraper-group
 it-production.com###skyscraper-group-left
+obermain.de###slot-banner
+obermain.de###slot-rectangle
+obermain.de###slot-sky
 bigfm.de###smartclip-overlay
 smsgott.de###smsboxIframe
 wochenblitz.com###sp-sidebar1
@@ -2798,6 +2804,7 @@ heise.de##.article-layout__header-wrbng
 saechsische.de##.article-nad,.article-box--nad,.article-bundle--nad
 computerbase.de##.article-view__rectangle
 itmagazine.ch##.article_rectangle
+rhein-zeitung.de##.articlebody__rectangle
 neue-braunschweiger.de##.as-frame-center
 apfeleimer.de##.asa1_fbh
 bitreporter.de##.asa2_fbva_wrapper
@@ -2987,7 +2994,7 @@ holstein-kiel.de##.ksv-sponsoren-footer
 vol.at##.laendleimmo
 sexabc.ch##.lead-col
 intimesrevier.com##.lead_rennab
-boomerangtv.de,infosat.de,meteovista.de,spielen.de##.leaderboard
+boomerangtv.de,infosat.de,meteovista.de,rhein-zeitung.de,spielen.de##.leaderboard
 antenne.de,rockantenne.de,schwaebische.de##.leaderboard-wrapper
 gmx.net,home.1und1.de,web.de##.left-col__bottom
 queer.de##.leistenbanner
@@ -3165,7 +3172,7 @@ selbstaendig-im-netz.de##.tad1
 golem.de##.tags
 pi-news.net##.td-a-rec-id-content_inlineleft
 bitreporter.de##.td-a-rec-id-custom-spot
-elliniki-gnomi.eu,pi-news.net##.td-a-rec-id-header
+elliniki-gnomi.eu,pfalz-echo.de,pi-news.net##.td-a-rec-id-header
 primavera24.de##.td-header-container
 bild.de##.tea-rectangle
 analsexporno.net,pornomonster.com##.tf-de
@@ -3185,7 +3192,7 @@ pnn.de,tagesspiegel.de##.ts-sptag
 hamburg-pride.de##.tx-imagecycle-pi1
 funcloud.club##.underContentA
 flz.de##.user-flzads-pi1
-hallescherfc.de##.vc_carousel-inner
+hallescherfc.de,pfalz-echo.de##.vc_carousel-inner
 vfl.de##.vc_custom_1544363997968
 ebay.de##.vi-lb-placeholder
 vip.de##.vip-medium-rectangle
