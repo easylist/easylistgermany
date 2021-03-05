@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103051834
+! Version: 202103051843
 ! Title: EasyList Germany
-! Last modified: 05 Mar 2021 18:34 UTC
+! Last modified: 05 Mar 2021 18:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1478,6 +1478,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||belgieninfo.net/wp-content/uploads/*/frisch-frittiert-grupp4.png
 ||belgieninfo.net/wp-content/uploads/*/IDSB-Unser-Partner.jpg
 ||belgieninfo.net/wp-content/uploads/*/Verhellen.jpg
+||beobachter-online.de^*/banner/
 ||berlinertageszeitung.de/images/banners/
 ||bhc06.de/getattachment/*/becker.jpg
 ||bhc06.de/getattachment/*/forst.jpg
@@ -2645,7 +2646,7 @@ ad-hoc-news.de###skyL_wrapper
 ad-hoc-news.de###skyR_wrapper
 aktionspreis.de###skyScraper
 videoaktiv.de###skypos
-eurogamer.de,firmenwissen.de,fussballdaten.de,halle.de,neuelandschaft.de###skyscraper
+beobachter-online.de,eurogamer.de,firmenwissen.de,fussballdaten.de,halle.de,neuelandschaft.de###skyscraper
 it-production.com###skyscraper-group
 it-production.com###skyscraper-group-left
 obermain.de,rhoenundsaalepost.de###slot-banner
@@ -2971,6 +2972,7 @@ fkk24.de##.head-top-bannerplace
 blickpunkt-brandenburg.de,nh24.de,sunshine.it##.header-banner
 radzeit.de##.header-main
 taucher.net##.header-promo
+verlagshaus-jaumann.de##.header-right
 oxmoxhh.de##.header-widget-inner
 bankkaufmann.com##.headeradvert_
 fremdwort.de##.hinweisad
@@ -3029,7 +3031,7 @@ schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
 intimesrevier.com##.miragobox
 finanzen.net##.mleft-10 + .table-quotes
 fc.de##.mod-sponsor-icon
-basses-blatt.de,blaue-blume.tv,einbecker-morgenpost.de,gandersheimer-kreisblatt.de,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
+basses-blatt.de,beobachter-online.de,blaue-blume.tv,einbecker-morgenpost.de,gandersheimer-kreisblatt.de,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
 aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthurer-zeitung.ch,zugerwoche.ch##.mod_printanzeigen
 schalke04.de##.module-advertising
 jetztspielen.de##.mpu
