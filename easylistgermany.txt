@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103051618
+! Version: 202103051622
 ! Title: EasyList Germany
-! Last modified: 05 Mar 2021 16:18 UTC
+! Last modified: 05 Mar 2021 16:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2534,7 +2534,7 @@ tschechien-online.org###gads-leaderboard
 hierspielen.com###gamelead
 frag-mutti.de###gf-superbanner
 kartfahrer-forum.de###globalAnnouncement
-cz.de,goettinger-tageblatt.de,haz.de,kn-online.de,ln-online.de,lvz.de,maz-online.de,neuepresse.de,op-marburg.de,ostsee-zeitung.de,waz-online.de###gpt_superbanner
+cz.de,goettinger-tageblatt.de,haz.de,kn-online.de,ln-online.de,lvz.de,maz-online.de,ostsee-zeitung.de,waz-online.de###gpt_superbanner
 hsg-pohlheim.de###greyscale-2
 wiener-online.at###hab-right
 wiener-online.at###hab-top
@@ -2594,7 +2594,6 @@ gamereactor.de###mpu
 bz-berlin.de###mrec
 meetingpoint-brandenburg.de###myspacerinner
 meetingpoint-brandenburg.de###myspacerright
-fupa.net###nab_container
 mz-web.de###nativendo-marginal
 balaton-zeitung.info###nav_menu-2
 wiiunews.at###newupcoming
@@ -2642,9 +2641,6 @@ videoaktiv.de###skypos
 eurogamer.de,firmenwissen.de,fussballdaten.de,halle.de,neuelandschaft.de###skyscraper
 it-production.com###skyscraper-group
 it-production.com###skyscraper-group-left
-obermain.de###slot-banner
-obermain.de###slot-rectangle
-obermain.de###slot-sky
 bigfm.de###smartclip-overlay
 smsgott.de###smsboxIframe
 wochenblitz.com###sp-sidebar1
@@ -2801,7 +2797,6 @@ heise.de##.article-layout__header-wrbng
 saechsische.de##.article-nad,.article-box--nad,.article-bundle--nad
 computerbase.de##.article-view__rectangle
 itmagazine.ch##.article_rectangle
-rhein-zeitung.de##.articlebody__rectangle
 neue-braunschweiger.de##.as-frame-center
 apfeleimer.de##.asa1_fbh
 bitreporter.de##.asa2_fbva_wrapper
@@ -2991,7 +2986,7 @@ holstein-kiel.de##.ksv-sponsoren-footer
 vol.at##.laendleimmo
 sexabc.ch##.lead-col
 intimesrevier.com##.lead_rennab
-boomerangtv.de,infosat.de,meteovista.de,rhein-zeitung.de,spielen.de##.leaderboard
+boomerangtv.de,infosat.de,meteovista.de,spielen.de##.leaderboard
 antenne.de,rockantenne.de,schwaebische.de##.leaderboard-wrapper
 gmx.net,home.1und1.de,web.de##.left-col__bottom
 queer.de##.leistenbanner
