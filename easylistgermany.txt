@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103051623
+! Version: 202103051624
 ! Title: EasyList Germany
-! Last modified: 05 Mar 2021 16:23 UTC
+! Last modified: 05 Mar 2021 16:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2556,6 +2556,7 @@ abload.de###iphpbannerleft
 juraforum.de###jf-stroer-sky
 juraforum.de###jf-stroer-sky + div
 juraforum.de###jf-stroer-superbanner
+ostfriesischer-kurier.de###jsn-pos-user-top
 laborjournal.de###kratzer
 abload.de###layerleft
 abload.de###layerright
@@ -2642,6 +2643,9 @@ videoaktiv.de###skypos
 eurogamer.de,firmenwissen.de,fussballdaten.de,halle.de,neuelandschaft.de###skyscraper
 it-production.com###skyscraper-group
 it-production.com###skyscraper-group-left
+obermain.de###slot-banner
+obermain.de###slot-rectangle
+obermain.de###slot-sky
 bigfm.de###smartclip-overlay
 smsgott.de###smsboxIframe
 wochenblitz.com###sp-sidebar1
@@ -2798,6 +2802,7 @@ heise.de##.article-layout__header-wrbng
 saechsische.de##.article-nad,.article-box--nad,.article-bundle--nad
 computerbase.de##.article-view__rectangle
 itmagazine.ch##.article_rectangle
+rhein-zeitung.de##.articlebody__rectangle
 neue-braunschweiger.de##.as-frame-center
 apfeleimer.de##.asa1_fbh
 bitreporter.de##.asa2_fbva_wrapper
@@ -2987,7 +2992,7 @@ holstein-kiel.de##.ksv-sponsoren-footer
 vol.at##.laendleimmo
 sexabc.ch##.lead-col
 intimesrevier.com##.lead_rennab
-boomerangtv.de,infosat.de,meteovista.de,spielen.de##.leaderboard
+boomerangtv.de,infosat.de,meteovista.de,rhein-zeitung.de,spielen.de##.leaderboard
 antenne.de,rockantenne.de,schwaebische.de##.leaderboard-wrapper
 gmx.net,home.1und1.de,web.de##.left-col__bottom
 queer.de##.leistenbanner
