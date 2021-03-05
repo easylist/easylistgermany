@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103051733
+! Version: 202103051738
 ! Title: EasyList Germany
-! Last modified: 05 Mar 2021 17:33 UTC
+! Last modified: 05 Mar 2021 17:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1478,6 +1478,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||belgieninfo.net/wp-content/uploads/*/frisch-frittiert-grupp4.png
 ||belgieninfo.net/wp-content/uploads/*/IDSB-Unser-Partner.jpg
 ||belgieninfo.net/wp-content/uploads/*/Verhellen.jpg
+||beobachter-online.de^*/banner/
 ||berlinertageszeitung.de/images/banners/
 ||bhc06.de/getattachment/*/becker.jpg
 ||bhc06.de/getattachment/*/forst.jpg
@@ -1555,6 +1556,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||dieantenne.it^*/Viropa.png
 ||diebrennstoffzelle.de/images/banner/
 ||digitaledienste.web.de/freemail/browser_decide/?$subdocument
+||dnv-online.net/_data/*_Superbanner_
+||dnv-online.net/_data/Fullsize-Banner.gif
 ||drachenbootfestival-hannover.de/grafik/partner/
 ||dreambox.info/banner/
 ||drehscheibe-online.de/ds_cms/banner/
@@ -2518,6 +2521,7 @@ nextpit.de###div-sidebar_right_extra
 connectiv.events###divi_pb_widget-3
 ehc-lustenau.at###djslider-loader227
 ehc-lustenau.at###djslider-loader229
+dnv-online.net###dnvsuperbanner
 drehscheibe-online.de###dsBanner
 fremdwort.de###ezisgib
 autoextrem.de,usp-forum.de,win-10-forum.de,winboard.org###fh-outside-top
@@ -2642,12 +2646,12 @@ ad-hoc-news.de###skyL_wrapper
 ad-hoc-news.de###skyR_wrapper
 aktionspreis.de###skyScraper
 videoaktiv.de###skypos
-eurogamer.de,firmenwissen.de,fussballdaten.de,halle.de,neuelandschaft.de###skyscraper
+beobachter-online.de,eurogamer.de,firmenwissen.de,fussballdaten.de,halle.de,neuelandschaft.de###skyscraper
 it-production.com###skyscraper-group
 it-production.com###skyscraper-group-left
-obermain.de###slot-banner
-obermain.de###slot-rectangle
-obermain.de###slot-sky
+obermain.de,rhoenundsaalepost.de###slot-banner
+obermain.de,rhoenundsaalepost.de###slot-rectangle
+obermain.de,rhoenundsaalepost.de###slot-sky
 bigfm.de###smartclip-overlay
 smsgott.de###smsboxIframe
 wochenblitz.com###sp-sidebar1
@@ -2841,7 +2845,7 @@ erotikforum.at##.bannerWrapper
 bluray-disc.de,der-farang.com##.banner_container
 hallelife.de##.banner_image
 der-farang.com##.banner_page_top
-dastelefonbuch.de##.banner_top
+dastelefonbuch.de,dnv-online.net##.banner_top
 handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
 xxxjob.ch##.bannerboxrechts
@@ -3026,7 +3030,7 @@ schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
 intimesrevier.com##.miragobox
 finanzen.net##.mleft-10 + .table-quotes
 fc.de##.mod-sponsor-icon
-basses-blatt.de,blaue-blume.tv,einbecker-morgenpost.de,gandersheimer-kreisblatt.de,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
+basses-blatt.de,beobachter-online.de,blaue-blume.tv,einbecker-morgenpost.de,gandersheimer-kreisblatt.de,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
 aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthurer-zeitung.ch,zugerwoche.ch##.mod_printanzeigen
 schalke04.de##.module-advertising
 jetztspielen.de##.mpu
@@ -3112,6 +3116,7 @@ gentleman-blog.de##.shoepassion_sidebar_banner
 gamesaktuell.de,gamezone.de,pcgames.de##.shopLinkFrameWrapper
 german-porno-deutsch.info##.sidebar
 ploetzblog.de##.sidebar > .imglinks
+rheiderland.de##.sidebar-addbox
 giga.de##.sidebar-btn-affiliate[rel="nofollow noopener sponsored"]
 austriansoccerboard.at##.sidebar-partner
 kreativfieber.de##.sidebar-right > #text-11
@@ -3186,6 +3191,7 @@ gload.cc##.top2019main
 buffed.de,gamezone.de,pcgames.de,pcgameshardware.de##.topFrameEddie
 zumfahren.de##.topRight300x250
 xrel.to##.top_news_adv
+rheiderland.de##.topanzeigen-slider-wrapper
 queer.de##.toplinks
 travelbook.de##.trc_related_container div[data-item-syndicated="true"]
 pnn.de,tagesspiegel.de##.ts-sptag
