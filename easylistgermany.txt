@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103081600
+! Version: 202103091845
 ! Title: EasyList Germany
-! Last modified: 08 Mar 2021 16:00 UTC
+! Last modified: 09 Mar 2021 18:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1541,6 +1541,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||delamar.de/wp-content/uploads/__aktionen/plakat/plakat_billb.jpg
 ||der-farang.com^*/banner/
 ||derkleinegarten.de/images/kiste/
+||dervinschger.it/grafik/resize/*-publicity-
 ||designtagebuch.de/wp-content/uploads/anzeigen/
 ||deutsche-versicherungsboerse.de/index/load-image/imgId/
 ||deutschepornos.co^*/93kgk95aw2q.js
@@ -3303,6 +3304,7 @@ pornhubdeutsch.info,xhamsterde.com##a[href^="https://www.wazazu.com/LA/Landingpa
 xhamsterde.com##a[href^="https://www.zononi.com/LA/LP/Finder?"]
 xhamsterde.com##a[href^="https://www.zononi.com/VX/LP/Roulette?"]
 ladies.de##a[href^="https://zwinkr.de/landing/"]
+dervinschger.it##a[id="bottombanner"]
 wallstreet-online.de##a[onclick*="'tableAd'"]
 wallstreet-online.de##a[onclick*="'tableAd'"] + img
 shaz.ch##a[onclick^="__gaTracker('send', 'event', 'Ads'"]
