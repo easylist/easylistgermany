@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103101456
+! Version: 202103111453
 ! Title: EasyList Germany
-! Last modified: 10 Mar 2021 14:56 UTC
+! Last modified: 11 Mar 2021 14:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1458,6 +1458,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||bankkaufmann.com/bilder/fsban1.jpg
 ||banner.click-tt.de^
 ||basicthinking.de/blog/wp-content/*/placetel.jpg
+||basicthinking.de/blog/wp-content/uploads/*/basic-thinking.gif
 ||basicthinking.de/blog/wp-content/uploads/*/mittwald-
 ||basicthinking.de/blog/wp-content/uploads/*/mittwald.jpg
 ||basicthinking.de/blog/wp-content/uploads/*/qonto-
@@ -3377,6 +3378,7 @@ teneriffa-aktuell.com##img[width="450"][height="300"]
 basicthinking.de##img[width="500"][height="500"]
 nh24.de##img[width="533"]
 silentworld.eu##img[width="600"]
+basicthinking.de##img[width="600"][height="500"]
 hallescherfc.de##img[width="605"][height="690"]
 4fuckr.com##img[width="728"]
 online-gebuehrenrechner.de##img[width="728"][height="90"]
