@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103111453
+! Version: 202103111917
 ! Title: EasyList Germany
-! Last modified: 11 Mar 2021 14:53 UTC
+! Last modified: 11 Mar 2021 19:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2876,6 +2876,8 @@ fnweb.de,laborjournal.de,mannheimer-morgen.de,tarnkappe.info,winfuture.de##.bill
 infranken.de##.billboard-wrapper
 djmag.de##.billboardbanner
 ak-kurier.de##.block-weather-link
+computerbase.de##.block1--banner
+computerbase.de##.block1--skyscraper
 blogprojekt.de##.blogp-startseite
 blogprojekt.de##.blogp-werbung-oben-in-artikeln
 borussia.de##.bmg-ad
