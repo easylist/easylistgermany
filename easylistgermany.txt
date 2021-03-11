@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103111917
+! Version: 202103112116
 ! Title: EasyList Germany
-! Last modified: 11 Mar 2021 19:17 UTC
+! Last modified: 11 Mar 2021 21:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1791,6 +1791,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||kriminalpolizei.de/fileadmin/user_upload/*_728x100.
 ||krzbb.de/revive/
 ||laborjournal.de/infos/m99/img/b_
+||laengengrad-breitengrad.de/public/img/externbanner/
 ||land-der-traeume.de/bilder/banner/
 ||latina-press.com/media/*/online-casino-bonus-min.gif
 ||latina-press.com/media/spanisch-lernen-160.png
@@ -2778,6 +2779,7 @@ vaterland.li##.adcontainer
 nachtkritik.de##.adcontent
 suedtiroltv.it##.add
 abg-net.de##.add_top
+laengengrad-breitengrad.de##.addtop
 gartenjournal.net##.adinj
 engadinerpost.ch##.aditem
 my105.ch##.adition
