@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103121905
+! Version: 202103131802
 ! Title: EasyList Germany
-! Last modified: 12 Mar 2021 19:05 UTC
+! Last modified: 13 Mar 2021 18:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -608,7 +608,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||biallo1.de^$third-party
 ||biallo2.de^$third-party
 ||biallo3.de^$third-party
-||big7.com^$third-party
 ||bitcoinpara.de^$third-party
 ||blogads.de^$third-party
 ||bsheute.de^$third-party
@@ -827,16 +826,26 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||affiliking.blogspot.com^$third-party
 ||all-inkl.com/banner/$third-party
 ||all-inkl.com^*/banner/$third-party
+||amarotic.com^*.php?wmid=$script,third-party
+||amateurbusters.com^*.php?wmid=$script,third-party
+||amateurpin.com/puarea/
+||amateurpin.com^*/b.php?zone=$third-party
 ||autoscout24.de^$subdocument,domain=motorrad2000.de
+||b.big7.com^$third-party
+||backlinkseller.de/gfx/banner/
+||banner.immowelt.de^
+||baygel.de/banner/
 ||booking.com/flexiproduct.html$subdocument,domain=italien.de
 ||cdn.plus500.com/media/banners/
 ||ced.sascdn.com^
+||china-gadgets.de^$subdocument,third-party
 ||datingpartner.com/medien/$third-party
 ||deinfickdate.com/banner/$third-party
 ||deinsexdate.com/banner/$third-party
 ||dragonbox.de/img/banner/$third-party
 ||druckiad-che.newsmemory.com^$third-party
 ||erotik-dates.net/bilder/erotidates-banner.gif
+||financeads.net/tb.php$third-party
 ||heutenochficken.com/banner/$third-party
 ||hofmann.info^$subdocument,domain=sgf1903.de
 ||imaxcdn.com/promotool/banner/$third-party
@@ -860,38 +869,17 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wazazu.com/pimage/visit-x/$third-party
 ||wien-girls.at/img/ba/$third-party
 ! 
-||aiqum.de/partner/$third-party
-||aiqum.de^*/fprogn_xl_aiqum.js$third-party
-||aldi-sued.de^*/zeitungen-banner/$third-party
-||alfahosting.org/forum/f_bild/ban-kopf-
-||am.dynatracker.de^$third-party
-||amarotic.com^*.php?wmid=$script,third-party
-||amateurbusters.com^*.php?wmid=$script,third-party
-||amateurpin.com/puarea/
-||amateurpin.com^*/b.php?zone=$third-party
-||anitoplist.de^$third-party
-||app.kontextr.eu^$third-party
-||apps.bergzeit.de/seo/bdyn?pid=
-||appscene.de/time/$third-party
-||arktis24.de/tradedoubler/
-||ashop.tv/ebay/$third-party
-||assets.oomz.de^
 ||autohaus-liebrecht.de/de/iframe_$subdocument,third-party
 ||autohaus24.de/widgets/$subdocument,third-party
 ||auxmoney.com/start/welcome.php?afid=$third-party
-||avidnova.com/grafik/banner
-||backlinkseller.de/gfx/banner/
 ||bag2love.de/media/sales/$third-party
 ||banner.1und1.com^$third-party
 ||banner.1und1.de^$third-party
 ||banner.hosteurope.de^$third-party
-||banner.immowelt.de^
 ||banner.putenbrust.net^$third-party
 ||banner.sealmedia.de^$third-party
 ||banner.upjers.com^$third-party
 ||banners.jobwinner.ch^$third-party
-||baygel.de/banner/
-||bbwworld.com/livebanner/
 ||beate-uhse.com/banner/$third-party
 ||belboon.de/tracking/*.img
 ||bergfreunde-partner.de/banner/
@@ -914,7 +902,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||cdn.kaisergames.de/www.*/images/wallpaper_
 ||cdn.lotto24.de/webshop/minisite/$subdocument,third-party
 ||cect-shop.com/CMBannerCECT-SHOP.gif
-||china-gadgets.de^$subdocument,third-party
 ||clanmonster.de/clanmonster_gross.jpg$third-party
 ||clanplanet.de/cp-leaderboard.jpg
 ||cloud.instore.net^$third-party
@@ -972,7 +959,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||fastad.beepworld.de^
 ||festivalfick.com/banner/$third-party
 ||fettverbrennen.net/bilder/banner/
-||financeads.net/tb.php$third-party
 ||finanzen.de/banner/$third-party
 ||finanzen.net/partner/$subdocument,third-party,domain=~finanzen.at
 ||finddy.de/banner/$third-party
@@ -1077,7 +1063,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||mobil-king.de/banner/$third-party
 ||mobildiscounter.de/banner/$third-party
 ||mobile360.de/feedbox/inline$third-party
-||mobilefun.de^*/cpgf4m.gif$third-party
 ||modellplan.de/banner/$third-party
 ||momentblick.de/promotion/
 ||mondrian.twyn.com^$third-party
