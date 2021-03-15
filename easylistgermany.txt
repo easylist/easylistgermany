@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103151801
+! Version: 202103151802
 ! Title: EasyList Germany
-! Last modified: 15 Mar 2021 18:01 UTC
+! Last modified: 15 Mar 2021 18:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1872,6 +1872,8 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||oekoportal.de/sites/default/files/verbraucher_eu_4.png
 ||ofc.de/media/*_banner-
 ||ofc.de/media/*_landing_
+||offroadforen.de/media/3-286x238-fcmoto-rechts-2-jpg/
+||offroadforen.de/media/7-1366x94-fcmototv-banner-png/
 ||oktoberfestportal.de/pics_banner/
 ||onepiece-tube.com/templates/Grafiken/amazon.svg
 ||onepiece-tube.com^*/amzb/
@@ -2857,6 +2859,8 @@ quoka.de##.bnr-wrp
 oberberg-aktuell.de##.bnrad
 russland.capital,russland.news##.bodShopWidget
 liveticker.com##.boxOverContent
+offroadforen.de##.boxesBottom
+offroadforen.de##.boxgenericBox41
 btc-echo.de##.btc-sponsored
 hockeyweb.de##.btn-danger
 boersennews.de##.btn-smartbroker
