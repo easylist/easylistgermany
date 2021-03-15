@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103141601
+! Version: 202103151716
 ! Title: EasyList Germany
-! Last modified: 14 Mar 2021 16:01 UTC
+! Last modified: 15 Mar 2021 17:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1734,6 +1734,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||images-amazon.com/images/*/marquee/
 ||images-amazon.com/images/*/marqueestatic/
 ||imgbox.de/img/blue_filsh_
+||imgur.com/v6BApcN.png$domain=4fuckr.com
 ||inside.bz.it/images/banners/
 ||interhyp.de/angular/lafpartner/$third-party,domain=t-online.de
 ||islam.de/images/other/banner/
@@ -3247,6 +3248,7 @@ onepiece-tube.com##a[href^="https://cutt.ly/"]
 pornotim.com,xhamsterde.com##a[href^="https://goo.gl/"]
 hoerbuch.us##a[href^="https://hoerbuch.us/dll/"]
 hoerbuch.us##a[href^="https://linksnappy.com/?ref="]
+4fuckr.com##a[href^="https://lp.mydirtyhobby.com/"]
 pcwelt.de##a[href^="https://ndirect.ppro.de/"]
 pcwelt.de##a[href^="https://pvn.mediamarkt.de/"]
 pcwelt.de##a[href^="https://pvn.saturn.de/"]
