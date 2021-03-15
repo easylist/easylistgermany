@@ -656,6 +656,7 @@
 ||sgf1903.de^*/Sponsoring/
 ||sgleutershausen.de/wp-content/uploads/*/bwt-logo-neu.jpg
 ||shopanbieter.de/SponsorLogos/
+||shortpixel.ai^*/Banner_$domain=zwerg-am-berg.de
 ||silbernews.com^*/banner/
 ||simnews.de/images/omsi_ad.jpg
 ||simnews.de/img/werbung_
@@ -923,6 +924,7 @@
 ||zueri6.ch/wp-content/uploads/*/vida6.gif
 ||zurzeit.at/wp-content/uploads/*/Alm-Werbung-
 ||zurzeit.at/wp-content/uploads/*/Banner-
+||zwerg-am-berg.de/wp-content/uploads/*/Banner_
 ! CSP filters
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagmanager.com *.google.com *.gstatic.com www.google-analytics.com *.googleapis.com *.cloudflare.com *.twitter.com connect.facebook.net cdn.hdfilme.net cdn.hdfilme.cx ssl.p.jwpcdn.com,domain=hdfilme.cx
 !
