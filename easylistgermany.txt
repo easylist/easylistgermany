@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103161634
+! Version: 202103161658
 ! Title: EasyList Germany
-! Last modified: 16 Mar 2021 16:34 UTC
+! Last modified: 16 Mar 2021 16:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3445,6 +3445,7 @@ gofeminin.de#?#.af-block-native:-abp-contains(Sponsored Post)
 guenstiger.de#?#.productCard:-abp-has(div.premiumProductCaption)
 jameda.de#?#li:-abp-has([data-testid="advertisementSign-flag"])
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
+mmnews.de#?#.sp-module:-abp-has(span:-abp-contains(Kleinanzeigen))
 motorradonline.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 motorradonline.de#?#.v-A_-topteaser__rotationbox__item:-abp-has(.v-A_-teaser__tag--ad)
 o-sport.de#?#.card-body:-abp-contains(Sponsoren)
