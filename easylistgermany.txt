@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103161508
+! Version: 202103161522
 ! Title: EasyList Germany
-! Last modified: 16 Mar 2021 15:08 UTC
+! Last modified: 16 Mar 2021 15:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1620,6 +1620,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||gamemovieportal.ch/_partner/
 ||gameothek.com/wp-content/uploads/buttons/
 ||gandersheimer-kreisblatt.de/files/gk/banner/
+||gazzettadellambri.ch/wp-content/uploads/*_Banner_
 ||gentleman-blog.de/wp-content/uploads/270x191.jpg
 ||gentleman-blog.de/wp-content/uploads/870x150.jpg
 ||gepostet.com/templates/desktop/images/banner/
@@ -2660,6 +2661,7 @@ fahrzeuglackiererforum.de###text-4
 geocaching-magazin.com,nh24.de###text-48
 nh24.de###text-54
 nh24.de###text-59
+gazzettadellambri.ch###text-9
 fremdwort.de###thgirrennab
 bluray-disc.de###top-angebote-box
 it-production.com###top-banner
