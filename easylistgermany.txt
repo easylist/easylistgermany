@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103161612
+! Version: 202103161625
 ! Title: EasyList Germany
-! Last modified: 16 Mar 2021 16:12 UTC
+! Last modified: 16 Mar 2021 16:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -846,6 +846,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||belboon.de/tracking/*.img
 ||bergfreunde-partner.de/banner/
 ||bergzeit.de/out/pictures/partner/image/
+||bit.ly^$subdocument,domain=polizei.news
 ||blog-linktausch.de^*/iframe.php?layout=$subdocument,third-party
 ||bm.hbtronix.de^$third-party
 ||bn.gewinn24.de^
@@ -3245,7 +3246,7 @@ spanienlive.com##a[href^="https://airbnb.com/rooms/"]
 blogprojekt.de##a[href^="https://all-inkl.com/?partner="]
 anderes-wort.de,bitreporter.de,fairytail-tube.org,onepiece-tube.com,picdumps.com##a[href^="https://amzn.to/"]
 googlewatchblog.de##a[href^="https://amzn.to/"] > img
-4fuckr.com,ofdb.de,picdumps.com,rechtsdepesche.de,via-ferrata.de##a[href^="https://bit.ly/"]
+4fuckr.com,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,via-ferrata.de##a[href^="https://bit.ly/"]
 meintomtom.de##a[href^="https://clk.tradedoubler.com/"]
 msn.com,pcwelt.de##a[href^="https://clkde.tradedoubler.com/"]
 t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
