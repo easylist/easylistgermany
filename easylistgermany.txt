@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103161703
+! Version: 202103161707
 ! Title: EasyList Germany
-! Last modified: 16 Mar 2021 17:03 UTC
+! Last modified: 16 Mar 2021 17:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2728,6 +2728,7 @@ abendblatt.de,adz.ro,ak-kurier.de,azonline.de,bildderfrau.de,bos-fahrzeuge.info,
 ak-kurier.de##.ad + #flashContent
 ak-kurier.de##.ad + .tdt
 ak-kurier.de##.ad + .uk-panel
+raetsel-hilfe.de##.ad-container
 diegrenzgaenger.lu##.ad-listing
 spiesser.de##.ad-mark
 vsport.at##.ad1
