@@ -31,6 +31,7 @@
 ||belboon.de/tracking/*.img
 ||bergfreunde-partner.de/banner/
 ||bergzeit.de/out/pictures/partner/image/
+||bit.ly^$subdocument,domain=polizei.news
 ||blog-linktausch.de^*/iframe.php?layout=$subdocument,third-party
 ||bm.hbtronix.de^$third-party
 ||bn.gewinn24.de^
