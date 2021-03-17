@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103171024
+! Version: 202103171133
 ! Title: EasyList Germany
-! Last modified: 17 Mar 2021 10:24 UTC
+! Last modified: 17 Mar 2021 11:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -870,22 +870,38 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||deinsexdate.com/banner/$third-party
 ||dentaltrade-zahnersatz.de^*/banner/$third-party
 ||deutschland-spielt.de/partners/$third-party
+||die-staemme.de/banner/$third-party
 ||dragonbox.de/img/banner/$third-party
 ||druckiad-che.newsmemory.com^$third-party
+||duregexpress.de/banner/$third-party
+||easy-reisen.ch/easyreisenadds.aspx?
+||easyfind24.de/banner/$third-party
+||ebiz-consult.de/banner/$third-party
+||ebiz-webhosting.de/banner/$third-party
+||edgar.de/img/partner/$third-party
+||eis.de/index.$third-party
+||eis.de/shop/images/banner/$third-party
 ||erotik-dates.net/bilder/erotidates-banner.gif
+||escortkartei.com/banner/$third-party
+||eteleon.de/partner/$third-party,domain=~facebook.com
+||eteleon.de/partnerprogramm/$third-party
 ||financeads.net/tb.php$third-party
 ||gratisland.de/rsbanner234x60.gif
+||happyweekend-community.com/banner/
 ||heutenochficken.com/banner/$third-party
 ||hofmann.info^$subdocument,domain=sgf1903.de
 ||imaxcdn.com/promotool/banner/$third-party
 ||imgload.org/images/jpbannerfb8d0.jpg$domain=myboerse.bz
 ||kontakt-vermittler.de/banner2/$third-party
 ||mothor.de/webbanner/
+||okm-community.com/banner/$third-party
 ||pccdn.com^*/banner/$third-party
 ||portale.news^*/banners/$third-party
 ||rastplatzsex.com/banner/$third-party
 ||rhein.rfw-koeln.de^$third-party
 ||roemerforum.com/banner/
+||rotlichtkartei.com/banner/$third-party
+||satchef.de/banner/$third-party
 ||seitensprungarea.com/medien/$third-party
 ||sexkontaktportal.com/banner/$third-party
 ||slotkings.de/img/banner/$third-party
@@ -894,6 +910,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||tortuga.services^*/affiliate/$domain=~travelbook.de
 ||treff-mich.org/bilder/$third-party
 ||twincdn.com/special/special_script.js
+||venus-community.com/banner/$third-party
 ||vesalia.de/af.gif$third-party
 ||visit-x.net/001/$third-party
 ||wazazu.com/iframe/$third-party
@@ -902,31 +919,10 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wazazu.com/pimage/visit-x/$third-party
 ||wien-girls.at/img/ba/$third-party
 ! 
-||die-staemme.de/banner/$third-party
-||digitec.ch/liveshopping.aspx$third-party
-||distributionz.net/bstadt_banner1.gif
-||dubstep-beats.de/images/banner/
-||duregexpress.de/banner/$third-party
-||e-seller.de/uploads/$third-party
-||easy-reisen.ch/easyreisenadds.aspx?
-||easyfind24.de/banner/$third-party
-||ebiz-consult.de/banner/$third-party
-||ebiz-webhosting.de/banner/$third-party
-||eblogx.com/amazon/
-||eco-world.de/banner/$third-party
-||ecostream.tv^*/sofadeals_sky.
-||edgar.de/img/partner/$third-party
-||eis.de/index.$third-party
-||eis.de/shop/images/banner/$third-party
-||eliado.com/banner/$third-party
-||emion-gmbh.de/banner/$third-party
 ||emoluder.com/index.php?ref=$third-party
 ||enforcer-shop.de/banner/
 ||erlebnis.alsfeld.de/ifrm/*-330x200px-$third-party
 ||erotik1.de^*.php?$subdocument,third-party
-||escortkartei.com/banner/$third-party
-||eteleon.de/partner/$third-party,domain=~facebook.com
-||eteleon.de/partnerprogramm/$third-party
 ||ex.joyjasp.com^$third-party
 ||extra.wavecdn.net^$third-party
 ||fachverlagshop.de^*/pujs.php
@@ -936,7 +932,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||fandealer.de^*/promo/
 ||fantasticzero.com^*/skinnings/$third-party
 ||fastad.beepworld.de^
-||festivalfick.com/banner/$third-party
 ||fettverbrennen.net/bilder/banner/
 ||finanzen.de/banner/$third-party
 ||finanzen.net/partner/$subdocument,third-party,domain=~finanzen.at
@@ -971,7 +966,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||handball-revolution24.de/content/sis_slider_$image,third-party
 ||handy-find.de/banner/$third-party
 ||handyz.de/spank.php
-||happyweekend-community.com/banner/
 ||heimatdeal.de/banner/
 ||herror.de/scyscraper.$third-party
 ||hitfox.com/widget-$subdocument,third-party
@@ -1014,7 +1008,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||konsi-shop.de/images/banner/
 ||kontaktanzeigenmarkt.de/br/$third-party
 ||kopp-verlag.de/$WS/kopp-verlag/banners/$third-party
-||kostenlose-hp.de/grafik/$third-party
 ||kostenloser-suchmaschineneintrag.de/grafik/banner/$third-party
 ||kunden-bonus.de/?sh=*&tr=*&s=$third-party
 ||kundwerk.de^*/kv_banner_$third-party
@@ -1067,7 +1060,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||nx8.de/nx8de_*.jpg$third-party
 ||oecherdeal.de^$subdocument,third-party
 ||offizielles-umfrageportal.de/leads/$third-party
-||okm-community.com/banner/$third-party
 ||om.1und1.info^$third-party
 ||om.dsl.1und1.de^$third-party
 ||online-casino.de^$subdocument,third-party
@@ -1158,12 +1150,10 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||rechemco.com/media/mw_affiliate/
 ||red-stripe-beer.de/arnold.jpgbanner/
 ||reporter-ohne-grenzen.de^*/tx_ricrotation/$third-party
-||rotlichtkartei.com/banner/$third-party
 ||rsp24.com/rsp_ap/*/rsp_pkv_$third-party
 ||s1.ja-pics.net^$subdocument,third-party
 ||safeterms.de/images/public/banner/$third-party
 ||sandra-messer.info/wp-content/uploads/*/video-newsletter.gif$third-party
-||satchef.de/banner/$third-party
 ||satking.de/images/banners/$third-party
 ||satkontor.de/banner/$third-party
 ||satplace.de/banner/$third-party
@@ -1195,7 +1185,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||smsdate.com/lovefinder.php$third-party
 ||sn-multimedia.de/weitereangebote-v2/$third-party
 ||sn-multimedia.de/weitereangebote/$third-party
-||sofadeals.com^$subdocument,third-party
 ||softwaresammler.de^$third-party
 ||sorgenlos.de^*/banner/
 ||space4free.net/images/banner/$third-party
@@ -1248,7 +1237,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||united-lama-marketing.de/webmaster/$third-party
 ||upjers.com/ext/ext.php$third-party
 ||urban-media-berlin.de/pdfad/$third-party
-||venus-community.com/banner/$third-party
 ||verleihshop.de/gfx/partner/$third-party
 ||versandtarif.de^*?partnerid=$third-party
 ||verschenkehandy.de/?pid=$third-party
@@ -1330,7 +1318,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 |http://$subdocument,third-party,domain=bonimail.de
 ||112-magazin.de/images/banners/
 ||149.13.77.20^$domain=ww3.cad.de
-||193.107.16.142/f.php
 ||1und1.de/movein_$xmlhttprequest
 ||3druck.com/wp-content/uploads/*/3Dmensionals-3druckcom3.jpg
 ||3druck.com/wp-content/uploads/*/adin.jpg
