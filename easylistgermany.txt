@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103171133
+! Version: 202103171818
 ! Title: EasyList Germany
-! Last modified: 17 Mar 2021 11:33 UTC
+! Last modified: 17 Mar 2021 18:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -882,10 +882,19 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||eis.de/index.$third-party
 ||eis.de/shop/images/banner/$third-party
 ||erotik-dates.net/bilder/erotidates-banner.gif
+||erotik1.de^*.php?$subdocument,third-party
 ||escortkartei.com/banner/$third-party
 ||eteleon.de/partner/$third-party,domain=~facebook.com
 ||eteleon.de/partnerprogramm/$third-party
+||fairvital.com/images/banner_$third-party
+||fairvital.com/images/skyscraper_$third-party
+||fastad.beepworld.de^
+||fettverbrennen.net/bilder/banner/
 ||financeads.net/tb.php$third-party
+||finanzen.net/partner/$subdocument,third-party,domain=~finanzen.at
+||fireradio.fm/img/banner/$third-party
+||flirty.com/?pr=*&wm=$subdocument,third-party
+||fritzdyn.de/banner.gif
 ||gratisland.de/rsbanner234x60.gif
 ||happyweekend-community.com/banner/
 ||heutenochficken.com/banner/$third-party
@@ -896,7 +905,25 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||mothor.de/webbanner/
 ||okm-community.com/banner/$third-party
 ||pccdn.com^*/banner/$third-party
+||pm.bumskontakt.com^$third-party
+||pm.deinfickdate.com^$third-party
+||pm.deinsexdate.com^$third-party
+||pm.fetischsexkontakte.com^$third-party
+||pm.heutenochficken.com^$third-party
+||pm.hobbyhurenkontakte.com^$third-party
+||pm.hobbynuttendatenbank.com^$third-party
+||pm.kontakt-vermittler.de^$third-party
+||pm.natursektdating.com^$third-party
+||pm.onlineseitensprung.de^$third-party
+||pm.schwangerdating.com^$third-party
+||pm.sexkiste.com^$third-party
+||pm.sexkontaktflatrate.com^$third-party
+||pm.sofortficken.com^$third-party
+||pm.swingerdatenbank.com^$third-party
+||pm.tittendating.com^$third-party
 ||portale.news^*/banners/$third-party
+||privatamateure.com/?wmid=*&program=$third-party
+||questler.de/gfx/banner/$third-party
 ||rastplatzsex.com/banner/$third-party
 ||rhein.rfw-koeln.de^$third-party
 ||roemerforum.com/banner/
@@ -919,35 +946,10 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wazazu.com/pimage/visit-x/$third-party
 ||wien-girls.at/img/ba/$third-party
 ! 
-||emoluder.com/index.php?ref=$third-party
-||enforcer-shop.de/banner/
-||erlebnis.alsfeld.de/ifrm/*-330x200px-$third-party
-||erotik1.de^*.php?$subdocument,third-party
-||ex.joyjasp.com^$third-party
-||extra.wavecdn.net^$third-party
-||fachverlagshop.de^*/pujs.php
-||fairvital.com/images/banner_$third-party
-||fairvital.com/images/skyscraper_$third-party
-||faktenpedia.de/layer-
-||fandealer.de^*/promo/
-||fantasticzero.com^*/skinnings/$third-party
-||fastad.beepworld.de^
-||fettverbrennen.net/bilder/banner/
-||finanzen.de/banner/$third-party
-||finanzen.net/partner/$subdocument,third-party,domain=~finanzen.at
-||finddy.de/banner/$third-party
-||finerio.de/box/$subdocument,third-party
-||fireradio.fm/img/banner/$third-party
-||flirty.com/?pr=*&wm=$subdocument,third-party
-||flymedia.de/banner/$third-party
-||forgif.me/ads^
-||freenet.de^*&affiliate=$script
-||fritzdyn.de/banner.gif
 ||fs-location.de/img/partner/
 ||fuckshow.org^$subdocument,third-party
 ||gameliebe.com/affiliate/$third-party
 ||gamercharts.com^$subdocument,third-party
-||gan.wavecdn.net^
 ||gay-thailand.de^*/gay-thailand468x60.gif
 ||gbseite.de/script.php?s=$third-party
 ||generika-bestellen.net^$subdocument,third-party
@@ -1035,7 +1037,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||mobildiscounter.de/banner/$third-party
 ||mobile360.de/feedbox/inline$third-party
 ||modellplan.de/banner/$third-party
-||momentblick.de/promotion/
 ||mondrian.twyn.com^$third-party
 ||monsterdealz.de/images/$third-party
 ||monsterdealz.de/script.js
@@ -1096,22 +1097,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||piranho.de/a.php$third-party
 ||planungswelten.de/external_widget.php?$third-party
 ||playnik.com/verbraucherinformationen.js.php$third-party
-||pm.bumskontakt.com^$third-party
-||pm.deinfickdate.com^$third-party
-||pm.deinsexdate.com^$third-party
-||pm.fetischsexkontakte.com^$third-party
-||pm.heutenochficken.com^$third-party
-||pm.hobbyhurenkontakte.com^$third-party
-||pm.hobbynuttendatenbank.com^$third-party
-||pm.kontakt-vermittler.de^$third-party
-||pm.natursektdating.com^$third-party
-||pm.onlineseitensprung.de^$third-party
-||pm.schwangerdating.com^$third-party
-||pm.sexkiste.com^$third-party
-||pm.sexkontaktflatrate.com^$third-party
-||pm.sofortficken.com^$third-party
-||pm.swingerdatenbank.com^$third-party
-||pm.tittendating.com^$third-party
 ||pndapi.com/?proj=$subdocument,third-party
 ||ponsline.net/assets2/Banner_
 ||pop-radio.de/banner/$third-party
@@ -1125,7 +1110,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||prepaid-fakten.de/go/webnapping/$third-party
 ||primusportal.de/banner/$third-party
 ||privat-akt.com^*/banner/$third-party
-||privatamateure.com/?wmid=*&program=$third-party
 ||privathobby.com^$third-party
 ||profiseller.de/banner/$third-party
 ||profiwin.de^$subdocument,third-party
@@ -1139,7 +1123,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||px24.com/promotion/$third-party
 ||pytalhost.de/images/wpmhome.gif
 ||qooia.com/interstitial/$third-party
-||questler.de/gfx/banner/$third-party
 ||rabattcorner.ch/iframe/$subdocument,third-party
 ||rabattsparer.de/banner234x60.gif
 ||randyrun.de/affil/
@@ -1239,7 +1222,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||urban-media-berlin.de/pdfad/$third-party
 ||verleihshop.de/gfx/partner/$third-party
 ||versandtarif.de^*?partnerid=$third-party
-||verschenkehandy.de/?pid=$third-party
 ||vetalio.de/partner/$third-party
 ||vienna.at/banner/
 ||view.autoscout24.de^$third-party
@@ -2710,7 +2692,7 @@ abendblatt.de,adz.ro,ak-kurier.de,azonline.de,bildderfrau.de,bos-fahrzeuge.info,
 ak-kurier.de##.ad + #flashContent
 ak-kurier.de##.ad + .tdt
 ak-kurier.de##.ad + .uk-panel
-raetsel-hilfe.de##.ad-container
+raetsel-hilfe.de,spieletipps.de##.ad-container
 diegrenzgaenger.lu##.ad-listing
 spiesser.de##.ad-mark
 vsport.at##.ad1
