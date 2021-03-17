@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103171818
+! Version: 202103171826
 ! Title: EasyList Germany
-! Last modified: 17 Mar 2021 18:18 UTC
+! Last modified: 17 Mar 2021 18:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1542,6 +1542,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||filmz.de/f/s.htm
 ||filmz.de/f/sa.htm
 ||filmz.de/f/u.htm
+||finanzen.ch/Images/b_partner/
 ||finanzen.net/images/a_anzeige/
 ||finanzen.net/images/b_euro_eurams/banner_wiki_eas.png
 ||finanzen.net/images/b_partner/
@@ -2385,6 +2386,7 @@ willhaben.at###apn-large-skyscraper
 willhaben.at###apn-leaderboard
 gamersglobal.de###arb
 madchensex.com###au
+finanzen.ch###balken_top
 gamekeyfinder.de###banner
 donnerwetter.at,donnerwetter.ch,donnerwetter.de###banner-container
 macgadget.de###banner-floater
