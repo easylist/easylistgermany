@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103181549
+! Version: 202103181631
 ! Title: EasyList Germany
-! Last modified: 18 Mar 2021 15:49 UTC
+! Last modified: 18 Mar 2021 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1886,6 +1886,7 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||pornozebra.com/img/linklist2/
 ||pragerzeitung.cz/wp-content/uploads/*_300x450px_
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
+||queer.de/gfx/air-france-presented-by-
 ||radio2000.it^*/banner_
 ||radiobeo.ch/wp-content/uploads/*_Nachtangebote_
 ||radiotirol.it/uploads/beitrag/*/Jugenddienst.png
@@ -2606,6 +2607,7 @@ bayer04.de###sponsors
 hallescherfc.de###sponsors_slider
 frauporno.com###spz_42
 radiofr.ch###square
+queer.de###startrechts
 sims-3.net###subheader
 deutsche-versicherungsboerse.de###superBContainer
 aktionspreis.de###superBanner
