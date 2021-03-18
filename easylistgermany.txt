@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103181744
+! Version: 202103181813
 ! Title: EasyList Germany
-! Last modified: 18 Mar 2021 17:44 UTC
+! Last modified: 18 Mar 2021 18:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -895,10 +895,22 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||fireradio.fm/img/banner/$third-party
 ||flirty.com/?pr=*&wm=$subdocument,third-party
 ||fritzdyn.de/banner.gif
+||fs-location.de/img/partner/
+||fuckshow.org^$subdocument,third-party
+||gameliebe.com/affiliate/$third-party
+||gay-thailand.de^*/gay-thailand468x60.gif
+||getdigital.de/banner/$third-party
+||globetrotter.de/de/service/banner/$third-party
+||goldsilbershop.de/widgets/$third-party
+||gpaf.net/b/$third-party
 ||gratisland.de/rsbanner234x60.gif
+||gutscheinstore.com/fullsizebanner.gif
+||hallimash.com/werber/$third-party
+||hamster.cc^*.php$subdocument,third-party
 ||happyweekend-community.com/banner/
 ||heutenochficken.com/banner/$third-party
 ||hofmann.info^$subdocument,domain=sgf1903.de
+||hurenkartei.com/teaser-$third-party
 ||imaxcdn.com/promotool/banner/$third-party
 ||imgload.org/images/jpbannerfb8d0.jpg$domain=myboerse.bz
 ||kontakt-vermittler.de/banner2/$third-party
@@ -947,35 +959,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||wazazu.com/pimage/visit-x/$third-party
 ||wien-girls.at/img/ba/$third-party
 ! 
-||fs-location.de/img/partner/
-||fuckshow.org^$subdocument,third-party
-||gameliebe.com/affiliate/$third-party
-||gamercharts.com^$subdocument,third-party
-||gay-thailand.de^*/gay-thailand468x60.gif
-||gbseite.de/script.php?s=$third-party
-||generika-bestellen.net^$subdocument,third-party
-||geobanner.germanfriendfinder.com^$third-party
-||geschenkidee.ch^*/ad/
-||getdigital.de/banner/$third-party
-||gewinnspielnetzwerk.de/layer.php
-||globetrotter.de/de/service/banner/$third-party
-||goal4glory.dyndns.org/images/banner/$third-party
-||gold-super-markt.de/affiliate/
-||goldsilbershop.de/widgets/$third-party
-||gpaf.net/b/$third-party
-||gutscheinstore.com/fullsizebanner.gif
-||hallimash.com/werber/$third-party
-||hamster.cc^*.php$subdocument,third-party
-||handball-revolution24.de/content/sis_slider_$image,third-party
-||handy-find.de/banner/$third-party
-||handyz.de/spank.php
-||heimatdeal.de/banner/
-||herror.de/scyscraper.$third-party
-||hitfox.com/widget-$subdocument,third-party
-||hm-sat.de/b.php$third-party
-||hmsat.de/banner/
-||hot-wire.de/hwbanner.php$third-party
-||hurenkartei.com/teaser-$third-party
 ||hypnoseakademie.de/banner/$third-party
 ||ichwuerde.com/images/$third-party
 ||icq-love.de/show_icqt.php$third-party
@@ -994,7 +977,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||islamicrelief.de^*/banner/$third-party
 ||italo-tuning.de/images/*banner.gif$third-party
 ||its.de^*/banner/$third-party
-||jobscout24.ch/JS24Templates/Companies/$subdocument,third-party
 ||joycash.joydate.com^$third-party
 ||joyclub.de/partner/aff/
 ||js.stroeermediabrands.de^$third-party
@@ -1123,7 +1105,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||publisher.spoods.de^$third-party
 ||px24.com/promotion/$third-party
 ||pytalhost.de/images/wpmhome.gif
-||qooia.com/interstitial/$third-party
 ||rabattcorner.ch/iframe/$subdocument,third-party
 ||rabattsparer.de/banner234x60.gif
 ||randyrun.de/affil/
@@ -1196,7 +1177,6 @@ kochbar.de#@#iframe[name^="google_ads_iframe"]
 ||talkplus.de/banner/$third-party
 ||tarifdoc.de^$subdocument,third-party
 ||tarifliste.com^$subdocument,third-party
-||tek.ag/pub/$third-party
 ||tele.net/shoppingbanner.php?
 ||templatebase.de/partner_show_banner.php$third-party
 ||tilllate.com^*/campaign/$subdocument,third-party
