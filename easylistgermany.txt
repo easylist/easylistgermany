@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103191551
+! Version: 202103191555
 ! Title: EasyList Germany
-! Last modified: 19 Mar 2021 15:51 UTC
+! Last modified: 19 Mar 2021 15:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1646,6 +1646,11 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||inside.bz.it/images/banners/
 ||interhyp.de/angular/lafpartner/$third-party,domain=t-online.de
 ||islam.de/images/other/banner/
+||islamiq.de/wp-content/uploads/*/aaa.gif
+||islamiq.de/wp-content/uploads/*/igmg_dijital_ilan_islamiq_605x300px_
+||islamiq.de/wp-content/uploads/*/ramadanspohr.gif
+||islamiq.de/wp-content/uploads/*/ukba_ilan_dijital_islamiq_980x150px3.gif
+||islamiq.de/wp-content/uploads/*/Unbenannt-1.gif
 ||jacktheripper.de/images/banner/
 ||journalist.de^*/Stellenanzeigen/
 ||jungefreiheit.de/wp-content/banners/
@@ -2868,7 +2873,7 @@ arboe.at##.frame-type-mask_toolboxcontentad1
 raidrush.net##.funbox
 99ers.at##.fusion-builder-row-14
 fcschweinfurt1905.de##.fusion-builder-row-3
-gailtal.news,gitschtal.news,greifenburg.news,hermagor.news,it-production.com,jungefreiheit.de,klagenfurt.news,lite-magazin.de,radenthein.news,rechtsdepesche.de,skipper-bootshandel.de,spittal.news,steinfeld.news,troepolach.news,unternehmermagazin.de,via-ferrata.de,villacher.news,weissensee.news##.g
+gailtal.news,gitschtal.news,greifenburg.news,hermagor.news,islamiq.de,it-production.com,jungefreiheit.de,klagenfurt.news,lite-magazin.de,radenthein.news,rechtsdepesche.de,skipper-bootshandel.de,spittal.news,steinfeld.news,troepolach.news,unternehmermagazin.de,via-ferrata.de,villacher.news,weissensee.news##.g
 golem.de##.gbox_affiliate
 jungfrauzeitung.ch##.gokb
 jungfrauzeitung.ch##.gokwblock
