@@ -1,6 +1,7 @@
 ||1und1.de/?__reuse=$popup,third-party
 ||amateurseite.com^$popup,third-party
 ||bigpoint.com^*?aid=*&aig=*&aip=$popup,third-party
+||boerse.today^$popup,third-party
 ||china-gadgets.de^*&utm_medium=popdown&$popup,third-party
 ||dealdoktor.de^*&utm_medium=popdown&$popup,third-party
 ||escaria.com/public/static/teaser/?$popup
