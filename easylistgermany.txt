@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103181813
+! Version: 202103191241
 ! Title: EasyList Germany
-! Last modified: 18 Mar 2021 18:13 UTC
+! Last modified: 19 Mar 2021 12:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -520,20 +520,17 @@ wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_div .syndicatedIt
 wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_related_container div[data-item-syndicated="true"]
 werbung.oebb.at#@#.werbung
 telekom.de#@#a[href^="https://track.adform.net/"]
-hardwareluxx.de#@#div[id^="div-gpt-ad"]
-11freunde.de#@#div[id^="google_ads_iframe_"]
-11freunde.de#@#iframe[id^="google_ads_iframe"]
 ! 
 rtl.de#@#.adslot
 1und1.de,gmx.at,gmx.net,web.de#@#.advertorial
 web.de#@#.banner-728
 finanzen.at,rtl.de,vip.de#@#.ob-smartfeed-wrapper
+auto-motor-und-sport.de,gofeminin.de,hardwareluxx.de,wetter.com#@#[id^="div-gpt-ad"]
+11freunde.de,auto-motor-und-sport.de,kochbar.de,rtl.de,vip.de#@#[id^="google_ads_iframe"]
+11freunde.de,auto-motor-und-sport.de,gofeminin.de,kochbar.de,vip.de#@#[id^="google_ads_iframe_"]
+kochbar.de#@#[name^="google_ads_iframe"]
 marketing-a.akamaihd.net#@#a[href^="http://adclick.g.doubleclick.net/"]
 gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
-auto-motor-und-sport.de,gofeminin.de,wetter.com#@#div[id^="div-gpt-ad"]
-auto-motor-und-sport.de,gofeminin.de,kochbar.de,vip.de#@#div[id^="google_ads_iframe_"]
-auto-motor-und-sport.de,kochbar.de,rtl.de,vip.de#@#iframe[id^="google_ads_iframe"]
-kochbar.de#@#iframe[name^="google_ads_iframe"]
 ! ---------------------------Third-party Werbeserver---------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
 ||4adtf.com.^$third-party
