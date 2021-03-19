@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103191559
+! Version: 202103191601
 ! Title: EasyList Germany
-! Last modified: 19 Mar 2021 15:59 UTC
+! Last modified: 19 Mar 2021 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2096,6 +2096,8 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||weekli.systems/media/banner/
 ||whocallsyou.de/files/*/rechtsch-baby.jpg
 ||whocallsyou.de/files/*/rechtsschutz011.jpg
+||windowspower.de/banner/
+||windowspower.de/wp-content/uploads/*/stromanbieter-vergleich.gif
 ||wirin.de/images/banners/
 ||wirsiegen.de/Altfahrzeugannahme.png
 ||wirsiegen.de/Calabria-Lieferservice.jpg
@@ -2414,7 +2416,7 @@ ladies.de###content-solads
 rund-magazin.de###contentbanner
 tagblatt.de###ctl00_ctl00_m_ctrlMainMasterContentPlaceHolder_m_ctrlMainContentPlaceHolder_ctl03_m_ctrlEditContainer
 nh24.de,wiener-online.at###custom_html-2
-daily-pia.de###custom_html-3
+daily-pia.de,windowspower.de###custom_html-3
 primavera24.de###custom_html-5
 wochenblatt.pl###custom_post_widget-6
 wallstreet-online.de###dban1
@@ -2600,6 +2602,7 @@ geocaching-magazin.com,nh24.de###text-48
 nh24.de###text-54
 nh24.de###text-59
 gazzettadellambri.ch###text-9
+windowspower.de###text-html-widget-15
 focus.de###tfm_footer_yield
 fremdwort.de###thgirrennab
 bluray-disc.de###top-angebote-box
