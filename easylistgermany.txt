@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103191245
+! Version: 202103191531
 ! Title: EasyList Germany
-! Last modified: 19 Mar 2021 12:45 UTC
+! Last modified: 19 Mar 2021 15:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -908,11 +908,31 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||heutenochficken.com/banner/$third-party
 ||hofmann.info^$subdocument,domain=sgf1903.de
 ||hurenkartei.com/teaser-$third-party
+||icq-love.de/show_icqt.php$third-party
+||icq-styler.de/promo.html
+||idealo.de/extern/IdealoWidget.php?
+||idealo.net/js/idealoWidget-$third-party
+||idealo.net/widget/
 ||imaxcdn.com/promotool/banner/$third-party
 ||imgload.org/images/jpbannerfb8d0.jpg$domain=myboerse.bz
+||internetoptiker.de/banner/$third-party
+||iphpbb3.com/banner4_iframe.html
+||joyclub.de/partner/aff/
+||js.stroeermediabrands.de^$third-party
+||kai-homilius-verlag.de/bilder/banner/$third-party
+||kein-dsl.de/banner/$third-party
+||kfz-gutachter-service.de/kfz.jpg
+||konsi-shop.de/images/banner/
 ||kontakt-vermittler.de/banner2/$third-party
+||kontaktanzeigenmarkt.de/br/$third-party
+||kopp-verlag.de/$WS/kopp-verlag/banners/$third-party
+||lcmmedia.de/kamp/
+||lead-alliance.net/tb.php$third-party
+||lieferando.de/widgets/$subdocument,third-party
 ||mothor.de/webbanner/
 ||okm-community.com/banner/$third-party
+||partner.maxxim.de^
+||partner.simplytel.de^
 ||pccdn.com^*/banner/$third-party
 ||pm.bumskontakt.com^$third-party
 ||pm.deinfickdate.com^$third-party
@@ -940,6 +960,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||satchef.de/banner/$third-party
 ||seitensprungarea.com/medien/$third-party
 ||sexkontaktportal.com/banner/$third-party
+||silbertresor.de^*/banner/$third-party
 ||slotkings.de/img/banner/$third-party
 ||smskontakt.ch/images/$third-party
 ||spark.cloud.funkedigital.de/spark.js
@@ -949,56 +970,16 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||twincdn.com/special/special_script.js
 ||venus-community.com/banner/$third-party
 ||vesalia.de/af.gif$third-party
+||view.autoscout24.de^$third-party
 ||visit-x.net/001/$third-party
 ||wazazu.com/iframe/$third-party
 ||wazazu.com/js/pu_$third-party
 ||wazazu.com/pimage/bas/$third-party
 ||wazazu.com/pimage/visit-x/$third-party
 ||wien-girls.at/img/ba/$third-party
+||wpseo.de/banner/$third-party
+||wpseo.de^*/banner/$third-party
 ! 
-||hypnoseakademie.de/banner/$third-party
-||ichwuerde.com/images/$third-party
-||icq-love.de/show_icqt.php$third-party
-||icq-styler.de/promo.html
-||idealo.de/extern/IdealoWidget.php?
-||idealo.net/js/idealoWidget-$third-party
-||idealo.net/widget/
-||ideecon.com^*/iphone4-ohne-vertrag-ratenkauf.gif
-||igijon.com/personales/cyonix/$third-party
-||immoversum.com/index/wb_suchform$third-party
-||inlinks.com^*/banners/$third-party
-||innova-zivilschutz.com/banner/$third-party
-||internetoptiker.de/banner/$third-party
-||iphoone.de/images/banner/
-||iphpbb3.com/banner4_iframe.html
-||islamicrelief.de^*/banner/$third-party
-||italo-tuning.de/images/*banner.gif$third-party
-||its.de^*/banner/$third-party
-||joycash.joydate.com^$third-party
-||joyclub.de/partner/aff/
-||js.stroeermediabrands.de^$third-party
-||kai-homilius-verlag.de/bilder/banner/$third-party
-||kalaydo.fnp.de^
-||kart-club-trier.de/images/banners/
-||kaufda.de^*/widgetinitializer.js$third-party
-||kein-dsl.de/banner/$third-party
-||kfz-gutachter-service.de/kfz.jpg
-||kgmx.de/layer/
-||kka.agitos.de^
-||kka.idg.de^
-||klammgeil.de/vms/$third-party
-||konsi-shop.de/images/banner/
-||kontaktanzeigenmarkt.de/br/$third-party
-||kopp-verlag.de/$WS/kopp-verlag/banners/$third-party
-||kostenloser-suchmaschineneintrag.de/grafik/banner/$third-party
-||kunden-bonus.de/?sh=*&tr=*&s=$third-party
-||kundwerk.de^*/kv_banner_$third-party
-||lavire.de/layer.php
-||lcmmedia.de/kamp/
-||lead-alliance.net/tb.php$third-party
-||lechuck.otogami.de/assets/*/OtogamiWidget.js$third-party
-||lieferando.de/widgets/$subdocument,third-party
-||ligaportal.at/images/promo/$third-party
 ||logiprint.com/partner/$third-party
 ||lotto24.de/?partner=$subdocument,third-party
 ||lustgate.org/images/cbanner/$third-party
@@ -1057,8 +1038,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||partner.gewinnspiele.de^$third-party
 ||partner.gorillagaming.de^$third-party
 ||partner.leguide.com^$third-party
-||partner.maxxim.de^
-||partner.simplytel.de^
 ||partner.stellenanzeigen.de^$third-party
 ||partner.teufel.de^
 ||partner.toptarif.de/go.cgi?pid=$image,third-party
@@ -1135,7 +1114,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||shopwelt.de^*/widget.js$third-party
 ||shoutbox.de/ad/
 ||shuuz.de/banner/
-||silbertresor.de^*/banner/$third-party
 ||sims-3.net/xbox.jpg
 ||sims-it.net/az.html$third-party
 ||skmainz.de/banner/$third-party
@@ -1202,7 +1180,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||versandtarif.de^*?partnerid=$third-party
 ||vetalio.de/partner/$third-party
 ||vienna.at/banner/
-||view.autoscout24.de^$third-party
 ||view.ilove.de^$third-party
 ||view.jamba.de^$third-party
 ||viversum.de/partnerprogramm/$third-party
@@ -1231,8 +1208,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||wikifolio.com/de/Modules/Infobox?partnerid=$subdocument,third-party
 ||wm-space.youero.com^
 ||wogibtswas.at/widget/$third-party
-||wpseo.de/banner/$third-party
-||wpseo.de^*/banner/$third-party
 ||wurzelimperium.de/banner/
 ||x2.to/img/x2-rectangle.jpg
 ||xobor.miranus.com^
@@ -1247,6 +1222,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||1und1.de/?__reuse=$popup,third-party
 ||amateurseite.com^$popup,third-party
 ||bigpoint.com^*?aid=*&aig=*&aip=$popup,third-party
+||boerse.today^$popup,third-party
 ||china-gadgets.de^*&utm_medium=popdown&$popup,third-party
 ||dealdoktor.de^*&utm_medium=popdown&$popup,third-party
 ||escaria.com/public/static/teaser/?$popup
