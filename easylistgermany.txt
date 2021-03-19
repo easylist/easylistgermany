@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103191531
+! Version: 202103191535
 ! Title: EasyList Germany
-! Last modified: 19 Mar 2021 15:31 UTC
+! Last modified: 19 Mar 2021 15:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1668,6 +1668,8 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||latina-press.com/media/spanisch-lernen-160.png
 ||lesbenhd.com/cpanel/
 ||lesbenhd.com/img/linklist2/
+||ligaportal.at/images/promo/
+||ligaportal.at/images/sponsor_vip/
 ||linkr.top/images/gutschein.gif
 ||linkr.top/images/rso.js
 ||linkr.top/images/ruse.js
@@ -3179,6 +3181,7 @@ meintomtom.de##a[href^="https://clk.tradedoubler.com/"]
 msn.com,pcwelt.de##a[href^="https://clkde.tradedoubler.com/"]
 t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
 onepiece-tube.com##a[href^="https://cutt.ly/"]
+ligaportal.at##a[href^="https://de.johnnybet.com/"]
 pornotim.com,xhamsterde.com##a[href^="https://goo.gl/"]
 hoerbuch.us##a[href^="https://hoerbuch.us/dll/"]
 hoerbuch.us##a[href^="https://linksnappy.com/?ref="]
