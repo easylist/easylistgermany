@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103191601
+! Version: 202103201543
 ! Title: EasyList Germany
-! Last modified: 19 Mar 2021 16:01 UTC
+! Last modified: 20 Mar 2021 15:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2060,6 +2060,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||vfb.de^*/sponsoren/
 ||vfl.de/sportmedia/assets/sunmaker_logo.svg
 ||vfl.de^*-banner_
+||vfl.de^*_sponsoren_
 ||vhs-ol.de/lib/banner/
 ||viamichelin.at/static/*/adblocker/advertising.js
 ||viamichelin.ch/static/*/adblocker/advertising.js
@@ -3291,6 +3292,7 @@ finanzen.net##img[alt="Passende Produkte von der Société Générale"]
 t-online.de##img[alt^="Modetrends"]
 hallespektrum.de##img[alt^="Werbung"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
+vfl.de##img[width="110"]
 nh24.de##img[width="140"][height="140"]
 wirsiegen.de##img[width="140"][height="180"]
 hc-neumarkt.com##img[width="140"][height="68"]
@@ -3308,7 +3310,7 @@ silentworld.eu##img[width="600"]
 basicthinking.de##img[width="600"][height="500"]
 hallescherfc.de##img[width="605"][height="690"]
 4fuckr.com##img[width="728"]
-online-gebuehrenrechner.de##img[width="728"][height="90"]
+online-gebuehrenrechner.de,vfl.de##img[width="728"][height="90"]
 teneriffa-aktuell.com##img[width="800"][height="230"]
 t-online.de##img[width="920"][usemap^="#immap"]
 restegourmet.de##li[data-content-type="ad"]
