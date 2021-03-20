@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103201543
+! Version: 202103201631
 ! Title: EasyList Germany
-! Last modified: 20 Mar 2021 15:43 UTC
+! Last modified: 20 Mar 2021 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -929,6 +929,14 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||lcmmedia.de/kamp/
 ||lead-alliance.net/tb.php$third-party
 ||lieferando.de/widgets/$subdocument,third-party
+||logiprint.com/partner/$third-party
+||lotto24.de/?partner=$subdocument,third-party
+||lustgate.org/images/cbanner/$third-party
+||media*.s24.com^$third-party
+||media.alphaload.com^
+||medipreis.de/partner/$third-party
+||mobildiscounter.de/banner/$third-party
+||mondrian.twyn.com^$third-party
 ||mothor.de/webbanner/
 ||okm-community.com/banner/$third-party
 ||partner.maxxim.de^
@@ -976,29 +984,13 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||wazazu.com/js/pu_$third-party
 ||wazazu.com/pimage/bas/$third-party
 ||wazazu.com/pimage/visit-x/$third-party
+||widget.s24.com^$third-party
 ||wien-girls.at/img/ba/$third-party
 ||wpseo.de/banner/$third-party
 ||wpseo.de^*/banner/$third-party
 ! 
-||logiprint.com/partner/$third-party
-||lotto24.de/?partner=$subdocument,third-party
-||lustgate.org/images/cbanner/$third-party
-||mafia-banner.myftp.org^
-||mafia-losebank.de/bilder/banner
-||marketing.gamesload.de^$third-party
-||media*.s24.com^$third-party
-||media.alphaload.com^
-||mediaplazza.com^*/topboxgames.php?$third-party
-||medipreis.de/partner/$third-party
-||meinpaket.de/img/dhl/$third-party
-||microstrom.com/banner/$third-party
-||microtarife.de/bild/$third-party
-||mister-load.com^$third-party
-||mobil-king.de/banner/$third-party
-||mobildiscounter.de/banner/$third-party
 ||mobile360.de/feedbox/inline$third-party
 ||modellplan.de/banner/$third-party
-||mondrian.twyn.com^$third-party
 ||monsterdealz.de/images/$third-party
 ||monsterdealz.de/script.js
 ||monstersgame.net^*&vid=$third-party
@@ -1168,7 +1160,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||tuneup.de^*/affiliate/
 ||tuneyourscoot.com/images/banner
 ||turbo-promo.de/banners/
-||turnschuh-lose.de/img/banner/
 ||ui-portal.de/uim/*/promo/
 ||ui-portal.de^*/topper.js
 ||ultramailtausch.de^$subdocument,third-party
@@ -1200,7 +1191,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||widget.getyourguide.com^*&partner_id=$third-party
 ||widget.kaufda.com^$third-party
 ||widget.marktjagd.de^$third-party
-||widget.s24.com^$third-party
 ||widget.spoods.io/loader.js
 ||widgets.cam-content.com^$third-party
 ||widgets.goldankauf123.de^
