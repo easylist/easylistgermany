@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103221818
+! Version: 202103221819
 ! Title: EasyList Germany
-! Last modified: 22 Mar 2021 18:18 UTC
+! Last modified: 22 Mar 2021 18:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1869,6 +1869,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||saechsische.de/img/spkv.png
 ||sapi.edelight.biz/api/$domain=gala.de
 ||sat-erotik.de/videot.gif
+||saugen.to/img/a64766df93089f441800d8a7a273510419.jpg
 ||sbb.it/images/default-source/*-200x350-
 ||sbb.it/images/default-source/*-banner-
 ||sbb.it/images/default-source/*/ejobagrar_suedtirol.jpg
@@ -2827,6 +2828,7 @@ u1-radio.at##.csc-partner
 boerse-express.com##.custom-bexad
 derkleinegarten.de##.custom-inhoadd
 goldesel.sx##.d_695692
+saugen.to##.d_702212
 laden.to##.d_702232
 spox.com##.dazn
 dubisthalle.de##.dbh-widget
@@ -3162,7 +3164,7 @@ herthabsc.de##a[href^="/de/hertha/sponsoren/exklusiv-partner/uebersicht/page/"]
 bastel-elfe.de##a[href^="banners.php?"]
 zensiert.net##a[href^="http://camgirly.net"]
 t-online.de##a[href^="http://count.shopping.t-online.de/RE?ID="]
-goldesel.sx,laden.to##a[href^="http://filestore.to/premium"]
+goldesel.sx,laden.to,saugen.to##a[href^="http://filestore.to/premium"]
 finanzen.net##a[href^="http://g.finanzen.net/hsbc-startseite-top-flop?id="]
 erogeschichten.com##a[href^="http://in.mydirtyhobby.com/track/"]
 bbszene.de##a[href^="http://partners.webmasterplan.com/"]
