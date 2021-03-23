@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103231742
+! Version: 202103231744
 ! Title: EasyList Germany
-! Last modified: 23 Mar 2021 17:42 UTC
+! Last modified: 23 Mar 2021 17:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3372,6 +3372,7 @@ az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
 barfuss.it#?#.panels-flexible-region:-abp-has(span:-abp-contains(Gesponsert))
 bergsteiger.de#?#.eight.columns.alpha.content:-abp-has(span:-abp-contains(Advertorial))
 bitreporter.de#?#.code-block:-abp-has(span:-abp-contains(/ANZEIGE|Anzeige|Werbung|WERBUNG/))
+caravaning.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEIGE)
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
