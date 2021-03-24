@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103241522
+! Version: 202103241532
 ! Title: EasyList Germany
-! Last modified: 24 Mar 2021 15:22 UTC
+! Last modified: 24 Mar 2021 15:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2768,6 +2768,10 @@ designtagebuch.de##.billbo
 fnweb.de,laborjournal.de,mannheimer-morgen.de,tarnkappe.info,winfuture.de##.billboard
 infranken.de##.billboard-wrapper
 djmag.de##.billboardbanner
+galaxy-ingolstadt.de##.block-11
+galaxy-ingolstadt.de##.block-12
+galaxy-ingolstadt.de##.block-13
+galaxy-ingolstadt.de##.block-15
 ak-kurier.de##.block-weather-link
 computerbase.de##.block1--banner
 computerbase.de##.block1--skyscraper
