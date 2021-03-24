@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103241547
+! Version: 202103241620
 ! Title: EasyList Germany
-! Last modified: 24 Mar 2021 15:47 UTC
+! Last modified: 24 Mar 2021 16:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -829,6 +829,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||amateurbusters.com^*.php?wmid=$script,third-party
 ||amateurpin.com/puarea/
 ||amateurpin.com^*/b.php?zone=$third-party
+||amazonaws.com/display.tweenui.com/
 ||autoscout24.de^$subdocument,domain=motorrad2000.de
 ||auxmoney.com/start/welcome.php?afid=$third-party
 ||b.big7.com^$third-party
