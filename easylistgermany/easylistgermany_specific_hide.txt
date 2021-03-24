@@ -692,6 +692,8 @@ oz-online.de##.ox
 tschechien-online.org##.pane-aktuelle-top-links
 fotomagazin.de##.pane-landing-advertorial
 oekoportal.de##.panel-display > .panel-col-side > #block-views-website-block-1
+ddl-warez.to##.panel-heading[style="text-align:center;background-color:yellow;font-size:13px;color:#555555;"]
+ddl-warez.to##.panel-heading[style="text-align:center;background-color:yellow;font-size:16px;color:#555555;"]
 paradiso.de##.paradiso-hp-ads-horizontal
 1000ps.at,1000ps.ch,1000ps.de,broncos.it,eulen-ludwigshafen.de,fc-suedtirol.com,fck.de,hc-erlangen-ev.de,hcinnsbruck.at,hsc-bad-neustadt.de,ibash.de,plattentests.de,veu-feldkirch.at##.partner
 bhc06.de##.partner-teaser
@@ -949,6 +951,9 @@ dervinschger.it##a[id="bottombanner"]
 wallstreet-online.de##a[onclick*="'tableAd'"]
 wallstreet-online.de##a[onclick*="'tableAd'"] + img
 shaz.ch##a[onclick^="__gaTracker('send', 'event', 'Ads'"]
+ddl-warez.to##a[onclick^="window.location.href='https://aj1574.online/"]
+ddl-warez.to##a[onclick^="window.location.href='https://ddownload.com/free"]
+ddl-warez.to##a[onclick^="window.location.href='https://rapidgator.net/article/premium/ref/"]
 schweizer-illustrierte.ch##a[rel="sponsored"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
