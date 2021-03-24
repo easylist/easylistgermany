@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103241458
+! Version: 202103241512
 ! Title: EasyList Germany
-! Last modified: 24 Mar 2021 14:58 UTC
+! Last modified: 24 Mar 2021 15:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1299,6 +1299,8 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||baskets-jena.de/fileadmin/*/logo_adignos.jpg
 ||basses-blatt.de/files/banner/
 ||bastel-elfe.de/banner/
+||bayernwelle.de/cdn/uploads/banner-
+||bayernwelle.de/cdn/uploads/jobboerse-
 ||bbc-magazin.com/wp-content/uploads/*/bbc-coburg-barmer-banner.jpg
 ||bbc-magazin.com/wp-content/uploads/*/bbc-coburg-brose-web24.png
 ||beamten-informationen.de/media/banner/
@@ -3119,6 +3121,7 @@ queer.de##.toplinks
 travelbook.de##.trc_related_container div[data-item-syndicated="true"]
 pnn.de,tagesspiegel.de##.ts-sptag
 hamburg-pride.de##.tx-imagecycle-pi1
+bayernwelle.de##.type-banner
 funcloud.club##.underContentA
 flz.de##.user-flzads-pi1
 hallescherfc.de,pfalz-echo.de##.vc_carousel-inner
