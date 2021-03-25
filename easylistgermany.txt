@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103252159
+! Version: 202103252201
 ! Title: EasyList Germany
-! Last modified: 25 Mar 2021 21:59 UTC
+! Last modified: 25 Mar 2021 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3353,6 +3353,7 @@ land-der-traeume.de##td[width="730"] + td[align="center"]
 ibash.de##tr > td[valign="top"]:first-child + td[width="15"] + td[width="186"][valign="top"]:last-child
 favicon-generator.de##tr:first-child:last-child > td[align="left"][width="150"][valign="top"]:first-child + td[align="center"] + td[align="left"][width="150"][valign="top"]:last-child
 ww3.cad.de##tr:first-child:last-child > td[valign="top"]:first-child + td[width="152"][valign="top"][align="center"]:last-child
+gmx.net,web.de##tr[data-component="MessageListAdRow"]
 ! Specific hiding filters necessary for sites using $generichide filter option
 finanzen.net###news-contentads
 focus.de###tfm_admanagerTeaser
