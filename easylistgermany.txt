@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103251644
+! Version: 202103251714
 ! Title: EasyList Germany
-! Last modified: 25 Mar 2021 16:44 UTC
+! Last modified: 25 Mar 2021 17:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2010,6 +2010,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||thinkpad-forum.de/Neu/*-banner.
 ||thinkpad-forum.de/Neu/*_banner.
 ||thinkpad-forum.de/Neu/Banner-
+||tieronline.ch/images/partner/
 ||tilda.ch/images/banners/
 ||tipzeitung.de/img/banner/
 ||tobitech.de/images/banners/
@@ -2849,6 +2850,7 @@ dubisthalle.de##.dbh-widget
 deutschsex.com##.default__interest-block
 segeljournal.com##.displaybanner-container
 volksblatt.li##.divAdd_Banner
+tieronline.ch##.djslider-in
 gload.cc##.dl2019main
 scp07.de##.dp-sponsorenfooter
 bolzano-bozen.it##.dt
