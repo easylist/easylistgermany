@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103291730
+! Version: 202103291750
 ! Title: EasyList Germany
-! Last modified: 29 Mar 2021 17:30 UTC
+! Last modified: 29 Mar 2021 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1529,6 +1529,9 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||googlewatchblog.de/apt.png
 ||googlewatchblog.de/wp-content/uploads/amazon-music-hd-stream.jpg
 ||gota.ch/images/pbanner/
+||gota6.ch/images/partner/
+||gota6.ch/images/uploads/*/clubBannerPremium/
+||gota6.ch/images/uploads/*/overlay/
 ||griechenland.net/images/banners/
 ||grower.ch/partner/
 ||gutesexfilme.com/cpanel/
@@ -2754,6 +2757,7 @@ eishockeynews.de##.bannerContent
 moviejones.de##.bannerInfo
 cherry.ch,lust24.ch##.bannerListPremium
 cherry.ch##.bannerListPremiumTop
+gota6.ch##.bannerTop
 sg-flensburg-handewitt.de##.bannerWrap
 erotikforum.at##.bannerWrapper
 bluray-disc.de,der-farang.com##.banner_container
@@ -2815,6 +2819,7 @@ pixelio.de##.clipad
 focus.de##.cls_slot_xxoutstreamxx
 markt.de##.clsy-adv-item
 markt.de##.clsy-c-advsection
+gota6.ch##.clubBox
 quoka.de##.cnt-rgt
 borncity.com##.code-block-1
 borncity.com##.code-block-10
@@ -3002,7 +3007,7 @@ paradiso.de##.paradiso-hp-ads-horizontal
 bhc06.de##.partner-teaser
 eintracht.com##.partner-wrapper
 wallstreet-online.de##.partnerNews > a[target="_blank"]
-highway-magazin.de##.partnerlinks
+gota6.ch,highway-magazin.de##.partnerlinks
 deutscherskiverband.de##.partnerlogos
 hannover96.de,p-stadtkultur.de##.partners
 floatmagazin.de##.partners-title + .partners
