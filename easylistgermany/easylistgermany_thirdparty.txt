@@ -72,8 +72,8 @@
 ||escortkartei.com/banner/$third-party
 ||eteleon.de/partner/$third-party,domain=~facebook.com
 ||eteleon.de/partnerprogramm/$third-party
-||fairvital.com/images/banner_$third-party
 ||fairvital.com/images/skyscraper_$third-party
+||fairvital.com^*/banner_$third-party
 ||fastad.beepworld.de^
 ||fettverbrennen.net/bilder/banner/
 ||financeads.net/tb.php$third-party
