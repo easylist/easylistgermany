@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202103291642
+! Version: 202103291706
 ! Title: EasyList Germany
-! Last modified: 29 Mar 2021 16:42 UTC
+! Last modified: 29 Mar 2021 17:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -885,8 +885,8 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||escortkartei.com/banner/$third-party
 ||eteleon.de/partner/$third-party,domain=~facebook.com
 ||eteleon.de/partnerprogramm/$third-party
-||fairvital.com/images/banner_$third-party
 ||fairvital.com/images/skyscraper_$third-party
+||fairvital.com^*/banner_$third-party
 ||fastad.beepworld.de^
 ||fettverbrennen.net/bilder/banner/
 ||financeads.net/tb.php$third-party
@@ -1575,6 +1575,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||hd-sexfilme.com/img/linklist2/
 ||hdpornos.net/cpanel/?
 ||hdpornos.net/img/linklist2/
+||healthhelp.ch/wp-content/uploads/*_banner_
 ||heimspiel-online.de/uploads/tx_macinabanners/
 ||herzporno.com/img/linklist/
 ||hg-saarlouis.de/wp-content/uploads/*/allkauf-logo.jpg
@@ -2404,7 +2405,7 @@ rund-magazin.de###contentbanner
 seorch.de###crazyclownhint
 tagblatt.de###ctl00_ctl00_m_ctrlMainMasterContentPlaceHolder_m_ctrlMainContentPlaceHolder_ctl03_m_ctrlEditContainer
 nh24.de,wiener-online.at###custom_html-2
-daily-pia.de,windowspower.de###custom_html-3
+daily-pia.de,healthhelp.ch,windowspower.de###custom_html-3
 primavera24.de###custom_html-5
 wochenblatt.pl###custom_post_widget-6
 wallstreet-online.de###dban1
