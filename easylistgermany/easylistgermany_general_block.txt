@@ -1,8 +1,8 @@
 &werbemittel=
+-Bannerwerbung-
 -werb_hori.
 -werb_vert.
--werbebanner.
-.at/ads/
+-werbebanner.$domain=~merkur-werbebanner.de
 .at/werbung/
 .com/de/ad/
 .com/werbung_
@@ -24,6 +24,7 @@
 /banner125werbung.
 /banner_quartermedia.
 /banner_woomws.
+/banners/werbung-
 /bannerwerbung-
 /bilder/ads/*
 /bilder/werbung_
@@ -66,6 +67,7 @@
 /pic/werbung/*
 /pic/werbung_
 /sidebar_werbung/*
+/sportson/ads/*
 /styles/*/werbung/*
 /styles/werbung_
 /upload/werbung/*
@@ -99,7 +101,7 @@
 /werbetrenner_
 /werbezonen/*
 /werbung.$third-party
-/werbung.$~image,~stylesheet,domain=~berlin-airport.de|~qs-optiker.de
+/werbung.$~image,~stylesheet,domain=~berlin-airport.de|~qs-optiker.de|~werbung.oebb.at
 /werbung.gif
 /werbung/*$third-party
 /Werbung/*_banner_
@@ -127,11 +129,13 @@
 /wrbg.js?
 /zzz/init.php?$script
 _Banner_Werbung_
+_Bannerwerbung.
 _bannerwerbung/
 _bg_werbung.
 _oben_ad.
 _unten_ad.
 _werbe_layer.
+_werbeanzeigen/
 _werbebanner.
 _werbebanner/
 _werbebanner_

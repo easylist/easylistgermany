@@ -1,6 +1,5 @@
 [Adblock Plus 1.1]
 ! Title: EasyList Germany
-! EasyList Germany - Deutsche Ergänzung zu EasyList
 ! Last modified: %timestamp%
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
@@ -17,7 +16,7 @@
 %include easylistgermany:easylistgermany/easylistgermany_general_block_popup.txt%
 !--------Allgemeine Regeln zum Verstecken von Werbung(süberbleibseln)---------!
 %include easylistgermany:easylistgermany/easylistgermany_general_hide.txt%
-%include easylistgermany:easylistgermany/easylistgermany_whitelist_general_hide.txt%
+%include easylistgermany:easylistgermany/easylistgermany_allowlist_general_hide.txt%
 !---------------------------Third-party Werbeserver---------------------------!
 %include easylistgermany:easylistgermany/easylistgermany_adservers.txt%
 %include easylistgermany:easylistgermany/easylistgermany_adservers_popup.txt%
@@ -30,6 +29,6 @@
 !-----Seitenspezifische Regeln zum Verstecken von Werbung(süberbleibseln)-----!
 %include easylistgermany:easylistgermany/easylistgermany_specific_hide.txt%
 !------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
-%include easylistgermany:easylistgermany/easylistgermany_whitelist.txt%
-%include easylistgermany:easylistgermany/easylistgermany_whitelist_dimensions.txt%
-%include easylistgermany:easylistgermany/easylistgermany_whitelist_popup.txt%
+%include easylistgermany:easylistgermany/easylistgermany_allowlist.txt%
+%include easylistgermany:easylistgermany/easylistgermany_allowlist_dimensions.txt%
+%include easylistgermany:easylistgermany/easylistgermany_allowlist_popup.txt%
