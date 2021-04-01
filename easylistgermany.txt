@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104011731
+! Version: 202104011733
 ! Title: EasyList Germany
-! Last modified: 01 Apr 2021 17:31 UTC
+! Last modified: 01 Apr 2021 17:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -734,6 +734,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||rapidads.de^$third-party
 ||revresrennab.de^$third-party
 ||rgadvert.com^$third-party
+||seitenaufruf.com^$third-party
 ||selfpuc.com^$third-party
 ||server4ads.com^$third-party
 ||servertraffic.de^$third-party
