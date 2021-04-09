@@ -1,11 +1,11 @@
 [Adblock Plus 1.1]
-! Version: 202104091544
+! Version: 202104091702
 ! Title: EasyList Germany
-! Last modified: 09 Apr 2021 15:44 UTC
+! Last modified: 09 Apr 2021 17:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
-! !
+! 
 ! Bitte melde ungeblockte Werbung und fälschlicherweise geblockte Dinge:
 ! Forum: https://forums.lanik.us/viewforum.php?f=90
 ! E-Mail: easylist.germany@gmail.com
@@ -1020,10 +1020,14 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||sonnige-aussichten.ch/_img/ad/$third-party
 ||sorgenlos.de^*/banner/
 ||space4free.net/images/banner/$third-party
+||sprachenlernen24-download.de/banner/
+||starting6.de/dyn_banner/$third-party
 ||startparadies.de/banner/$third-party
 ||stroeerdigitalgroup.de/metatag/$third-party
+||stroeerdp.de^*/affiliateId
 ||suchebiete.com/bilder/allgemein_kleinanzeigen.png
 ||suedtirol.live/delivery.js
+||sunpepper.de/shop/banner/$third-party
 ||tortuga.services^*/affiliate/$domain=~travelbook.de
 ||treff-mich.org/bilder/$third-party
 ||twincdn.com/special/special_script.js
@@ -1056,28 +1060,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||promotion.mmxlive.com^
 ||publisher.outtra.com^$third-party
 ||publisher.spoods.de^$third-party
-||spieleprinz.com/?$subdocument,third-party
-||spieleprinz.de/?$subdocument,third-party
-||spielotheka.de/layer.js
-||sprachenlernen24-download.de/banner/
-||spwear.de/images/banner/$third-party
-||star-toplist.com/votebanner.png$third-party
-||starting6.de/dyn_banner/$third-party
-||strato.de/banner/$third-party
-||stroeerdp.de^*/affiliateId
-||sug.ag/banner/$third-party
-||sunpepper.de/shop/banner/$third-party
-||superwin.de^$subdocument,third-party
-||superwin.de^*/anzeige.jpg
-||syteapi.com/assets/imajs.js
-||t-shirt-drucker.de/banner/$third-party
-||talkplus.de/banner/$third-party
-||tarifdoc.de^$subdocument,third-party
-||tarifliste.com^$subdocument,third-party
-||tele.net/shoppingbanner.php?
-||templatebase.de/partner_show_banner.php$third-party
-||tinyprice.de/aktion/$third-party
-||tnm.de/wa/ad?
 ||tnt-game.com^*/banner/$third-party
 ||topdeals.de/ug-banner/$third-party
 ||totalokal.de/imgs/btn_$third-party
@@ -1162,7 +1144,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||sunmaker.com/?a_aid=$popup
 ||tagoria.net/?ref=$popup,third-party
 ||taps.io^*/sms?__ref=$popup
-||tarifliste.com/index.php?log=$popup,third-party
 ||teufelchens.xxx/trade_in/$popup,third-party
 ||tuneclub.de^*/lp.pl?$popup
 ||vavoo.tv/promo/$popup,third-party
