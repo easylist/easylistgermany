@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104141702
+! Version: 202104141811
 ! Title: EasyList Germany
-! Last modified: 14 Apr 2021 17:02 UTC
+! Last modified: 14 Apr 2021 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -464,6 +464,7 @@ _woz_banner_vote.
 ##.werbungimthread
 ##.werbungrechtstitel
 ##.widget-werbung
+##a[aria-label="Werbelink"]
 ##a[href*=".prodtraff.com/"]
 ##a[href="https://www.focus.de/deal/focus-online-deal-mit-weltsparen-setzen-sie-jetzt-auf-zinserhoehungen-weltsparen-schenkt-ihnen-dafuer-150-euro_id_11868745.html"] > img
 ##a[href^="http://landing.fickzeit.com/?ag="]
