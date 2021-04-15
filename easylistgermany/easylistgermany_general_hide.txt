@@ -297,6 +297,7 @@
 ##.werbungimthread
 ##.werbungrechtstitel
 ##.widget-werbung
+##a[aria-label="Werbelink"]
 ##a[href*=".prodtraff.com/"]
 ##a[href="https://www.focus.de/deal/focus-online-deal-mit-weltsparen-setzen-sie-jetzt-auf-zinserhoehungen-weltsparen-schenkt-ihnen-dafuer-150-euro_id_11868745.html"] > img
 ##a[href^="http://landing.fickzeit.com/?ag="]
