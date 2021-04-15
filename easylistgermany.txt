@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104151707
+! Version: 202104151733
 ! Title: EasyList Germany
-! Last modified: 15 Apr 2021 17:07 UTC
+! Last modified: 15 Apr 2021 17:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -962,6 +962,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||online-casino.de^$subdocument,third-party
 ||ox.comventure.de^
 ||pap-partner.flirtfair.de^$third-party
+||partner.fondsdiscount.de^
 ||partner.leguide.com^$third-party
 ||partner.maxxim.de^
 ||partner.simplytel.de^
@@ -1054,13 +1055,13 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||wm-space.youero.com^
 ||wpseo.de/banner/$third-party
 ||wpseo.de^*/banner/$third-party
+||x2.to/img/x2-rectangle.jpg
+||yogsototh.bytecamp.net^$third-party
+||zweitfondsmarkt.de/banner/$third-party
+||züri6.ch/adsman/$third-party
+||züri6.ch/banner/$third-party
 ! 
-||partner.auxilis.de^$third-party
-||partner.clubandmore.de^$third-party
-||partner.cuxxu.net^$third-party
-||partner.dasoertliche-marketing.de^
 ||partner.dhl.de^$third-party
-||partner.fondsdiscount.de^
 ||partner.gewinnspiele.de^$third-party
 ||partner.gorillagaming.de^$third-party
 ||partner.stellenanzeigen.de^$third-party
@@ -1080,15 +1081,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||widgets.cam-content.com^$third-party
 ||widgets.goldankauf123.de^
 ||widgets.mywai.de^
-||x2.to/img/x2-rectangle.jpg
-||xobor.miranus.com^
-||y.konsolenfreunde.de^
-||yogsototh.bytecamp.net^$third-party
-||youspacko.com/com/
-||zeiss.de^*/containertitel/*/*file/$third-party
-||zweitfondsmarkt.de/banner/$third-party
-||züri6.ch/adsman/$third-party
-||züri6.ch/banner/$third-party
 ! *** easylistgermany:easylistgermany/easylistgermany_thirdparty_popup.txt ***
 ||1und1.de/?__reuse=$popup,third-party
 ||amateurseite.com^$popup,third-party
