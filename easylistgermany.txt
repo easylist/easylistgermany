@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104141811
+! Version: 202104151707
 ! Title: EasyList Germany
-! Last modified: 14 Apr 2021 18:11 UTC
+! Last modified: 15 Apr 2021 17:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1169,6 +1169,8 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||amazonaws.com/bnp_657x209_$domain=finanzen.net
 ||amigafuture.de/images/amazon234x60_
 ||amigafuture.de/images/oben/amigastore.png
+||amor-frau.com/frauen-bilder/120x600
+||amor-frau.com/frauen-bilder/728x90
 ||and6.com/images/ixsBanners/
 ||animania.de/wp-content/uploads/*_Wallpaper_
 ||arbeitstage.at/pub_
@@ -2950,6 +2952,7 @@ radiobeo.ch##.qf-standard-banner-wrapp
 jamesfm.ch##.qt-sponsor
 codecheck.info##.r
 videoaktiv.de##.rec
+amor-frau.com##.rechteseite
 jobscout24.ch##.recommendations
 games.ch##.rect
 anisearch.de##.rect_sidebar
@@ -3117,6 +3120,7 @@ herthabsc.de##a[href^="/de/hertha/sponsoren/exklusiv-partner/uebersicht/page/"]
 bastel-elfe.de##a[href^="banners.php?"]
 zensiert.net##a[href^="http://camgirly.net"]
 t-online.de##a[href^="http://count.shopping.t-online.de/RE?ID="]
+amor-frau.com##a[href^="http://cpm.amateurcommunity.de/"]
 blockbuster.to,goldesel.sx,laden.to,saugen.to##a[href^="http://filestore.to/premium"]
 finanzen.net##a[href^="http://g.finanzen.net/hsbc-startseite-top-flop?id="]
 erogeschichten.com##a[href^="http://in.mydirtyhobby.com/track/"]
@@ -3144,6 +3148,7 @@ ligaportal.at##a[href^="https://de.johnnybet.com/"]
 pornotim.com,reiseziele.ch,xhamsterde.com##a[href^="https://goo.gl/"]
 hoerbuch.us##a[href^="https://hoerbuch.us/dll/"]
 hoerbuch.us##a[href^="https://linksnappy.com/?ref="]
+amor-frau.com##a[href^="https://lp.amateurcommunity.com/"]
 4fuckr.com##a[href^="https://lp.mydirtyhobby.com/"]
 pcwelt.de##a[href^="https://ndirect.ppro.de/"]
 pcwelt.de##a[href^="https://pvn.mediamarkt.de/"]
