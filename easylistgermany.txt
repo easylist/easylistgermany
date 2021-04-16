@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104161637
+! Version: 202104161702
 ! Title: EasyList Germany
-! Last modified: 16 Apr 2021 16:37 UTC
+! Last modified: 16 Apr 2021 17:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1053,7 +1053,9 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||weekli.de/widget-loader?$third-party
 ||werbemittel.adisfaction.de^$third-party
 ||wgfreiheit.de/fileadmin/web_banner/$third-party
+||widget.getyourguide.com^$third-party
 ||widget.s24.com^$third-party
+||widgets.cam-content.com^$third-party
 ||wien-girls.at/img/ba/$third-party
 ||wm-space.youero.com^
 ||wpseo.de/banner/$third-party
@@ -1075,15 +1077,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||promotion.mmxlive.com^
 ||publisher.outtra.com^$third-party
 ||publisher.spoods.de^$third-party
-||view.ilove.de^$third-party
-||view.jamba.de^$third-part
-||widget.getyourguide.com^*&partner_id=$third-party
-||widget.kaufda.com^$third-party
-||widget.marktjagd.de^$third-party
-||widget.spoods.io/loader.js
-||widgets.cam-content.com^$third-party
-||widgets.goldankauf123.de^
-||widgets.mywai.de^
 ! *** easylistgermany:easylistgermany/easylistgermany_thirdparty_popup.txt ***
 ||1und1.de/?__reuse=$popup,third-party
 ||amateurseite.com^$popup,third-party
