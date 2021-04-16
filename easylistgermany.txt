@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104161633
+! Version: 202104161634
 ! Title: EasyList Germany
-! Last modified: 16 Apr 2021 16:33 UTC
+! Last modified: 16 Apr 2021 16:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -225,6 +225,7 @@ _woz_banner_vote.
 ###layerADLINKWerbung4
 ###nativendo-articlemiddle
 ###nativendo-articletop
+###nativendo-hometop
 ###o2freikarte
 ###p-links-werbung
 ###p-rechts-werbung
@@ -2442,6 +2443,7 @@ myself.de###sb1Wrapper
 4players.de###schnaeppchenlayer
 fuw.ch###section-sponsored-blogs
 darkpantersclan.de.tl###selfpromotionOverlay
+boersennews.de###sgFeedList
 uhrforum.de###shuffled-sponsored
 madchensex.com###side-spot
 abnehmen.com,aquariumforum.de,auswandererforum.de,pferd.de,radforum.de###sidebar > li > .ffwidget_sidebar
