@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104191616
+! Version: 202104191647
 ! Title: EasyList Germany
-! Last modified: 19 Apr 2021 16:16 UTC
+! Last modified: 19 Apr 2021 16:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -192,7 +192,6 @@ _woz_banner_vote.
 ###ad-sb-oben
 ###ad_gross
 ###ad_lang
-###ad_marktjagd
 ###ad_oben
 ###ad_rechts
 ###adbox_artikel
@@ -3547,7 +3546,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||vox.de^$generichide
 @@||webdisk.ads.mwn.de/Scripts/ext-adv.js
 @@||werbebanner24.de/templates/_wb24/_assets/images/$image,domain=werbebanner24.de
-@@||widget.marktjagd.de/dist/$domain=baywa-baumarkt.de|discounto.de|focus.de|fressnapf.ch|hellweg.at|hellweg.de|maxizoo.ch|offerista.com|scondoo.de|sparbaby.de|sparwelt.de|wize.life
 @@||wm-druckarena.de/scripts/Werbebanner.
 @@||wn-jobs.de/search.html?adType=$xmlhttprequest
 @@||wn-markt.de/search.html?adType=$xmlhttprequest
