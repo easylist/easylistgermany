@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104191647
+! Version: 202104201833
 ! Title: EasyList Germany
-! Last modified: 19 Apr 2021 16:47 UTC
+! Last modified: 20 Apr 2021 18:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2413,6 +2413,9 @@ onmeda.de###on-footer-banner
 onmeda.de###on-rectangle
 onmeda.de###on-sky
 xgadget.de###outerBoxStart
+smart-rechner.de###outer_SR_banner_ganz_unten
+smart-rechner.de###outer_SR_rechner_banner_unter_rechner
+smart-rechner.de###outer_SR_rechner_display_unter_rechner
 hstt.net###page-header + br + .forabg
 ladies.de###page-top-sol
 nordbayern.de###page_billboard
