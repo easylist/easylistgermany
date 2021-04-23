@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104221603
+! Version: 202104231557
 ! Title: EasyList Germany
-! Last modified: 22 Apr 2021 16:03 UTC
+! Last modified: 23 Apr 2021 15:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2906,6 +2906,8 @@ onmeda.de##.on-top-banner-wrapper
 oz-online.de##.ox
 6navi.ch##.p-banners-withborder
 tschechien-online.org##.pane-aktuelle-top-links
+grenzecho.net##.pane-dpipub-rossel-imu-middle-moblile
+grenzecho.net##.pane-dpipub-rossel-native-top
 fotomagazin.de##.pane-landing-advertorial
 oekoportal.de##.panel-display > .panel-col-side > #block-views-website-block-1
 ddl-warez.to##.panel-heading[style="text-align:center;background-color:yellow;font-size:13px;color:#555555;"]
