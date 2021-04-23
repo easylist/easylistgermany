@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104231742
+! Version: 202104231835
 ! Title: EasyList Germany
-! Last modified: 23 Apr 2021 17:42 UTC
+! Last modified: 23 Apr 2021 18:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -506,6 +506,7 @@ xdate.ch#@#.ad-item
 11freunde.de#@#.ad_sidebar
 11freunde.de#@#.ad_wrap
 finanzlexikon-online.de#@#.adboxclass
+rtl.de#@#.adslot
 az.com.na#@#.adverts
 wetter.de#@#.base-ad-slot
 openlimit.com#@#.content_ad
@@ -528,7 +529,6 @@ werbung.oebb.at#@#.werbung
 gofeminin.de#@#a[href^="https://pubads.g.doubleclick.net/"]
 telekom.de#@#a[href^="https://track.adform.net/"]
 ! 
-rtl.de#@#.adslot
 1und1.de,gmx.at,gmx.net,web.de#@#.advertorial
 web.de#@#.banner-728
 finanzen.at,rtl.de,vip.de#@#.ob-smartfeed-wrapper
@@ -536,7 +536,6 @@ auto-motor-und-sport.de,gofeminin.de,hardwareluxx.de,wetter.com#@#[id^="div-gpt-
 11freunde.de,auto-motor-und-sport.de,kochbar.de,rtl.de,vip.de#@#[id^="google_ads_iframe"]
 11freunde.de,auto-motor-und-sport.de,gofeminin.de,kochbar.de,vip.de#@#[id^="google_ads_iframe_"]
 kochbar.de#@#[name^="google_ads_iframe"]
-marketing-a.akamaihd.net#@#a[href^="http://adclick.g.doubleclick.net/"]
 gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ! ---------------------------Third-party Werbeserver---------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
@@ -967,9 +966,11 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||ox.comventure.de^
 ||pap-partner.flirtfair.de^$third-party
 ||partner.fondsdiscount.de^
+||partner.gewinnspiele.de^$third-party
 ||partner.leguide.com^$third-party
 ||partner.maxxim.de^
 ||partner.simplytel.de^
+||partner.zooplus.de^$third-party
 ||partnerprogramm.e-wie-einfach.de^$third-party
 ||partyschnaps.com/banner/$third-party
 ||pccdn.com^*/banner/$third-party
@@ -1002,6 +1003,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||profiwin.de^$subdocument,third-party
 ||promotionmaterial.betacash.com^
 ||prospekt38.de^*/widget.php?anbieter_id=$subdocument,third-party
+||publisher.outtra.com^$third-party
 ||questler.de/gfx/banner/$third-party
 ||rabattcorner.ch/iframe/$subdocument,third-party
 ||ranksider.de/img/banner/$third-party
@@ -1066,18 +1068,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||zweitfondsmarkt.de/banner/$third-party
 ||züri6.ch/adsman/$third-party
 ||züri6.ch/banner/$third-party
-! 
-||partner.dhl.de^$third-party
-||partner.gewinnspiele.de^$third-party
-||partner.gorillagaming.de^$third-party
-||partner.stellenanzeigen.de^$third-party
-||partner.teufel.de^
-||partner.toptarif.de/go.cgi?pid=$image,third-party
-||partner.zooplus.de^$third-party
-||promotion.coreg.de^$third-party
-||promotion.mmxlive.com^
-||publisher.outtra.com^$third-party
-||publisher.spoods.de^$third-party
 ! *** easylistgermany:easylistgermany/easylistgermany_thirdparty_popup.txt ***
 ||1und1.de/?__reuse=$popup,third-party
 ||amateurseite.com^$popup,third-party
@@ -3385,6 +3375,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||asadcdn.com/adlib/pages/bz-berlin.js$script,domain=bz-berlin.de
 @@||feuerwehr-marchtrenk.at/homepage/banner.php$subdocument
 @@||football-aktuell.de/links/banner_oben.png
+@@||googlewatchblog.de^*/adsense.png
 @@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
@@ -3394,7 +3385,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||welect.de/$document,subdocument
 ! 
 @@||11freunde.de/assets/houseAds/$image,domain=11freunde.de
-@@||2mdn.net/ads/studio/Enabler.js$domain=marketing-a.akamaihd.net
 @@||2mdn.net/instream/video/client.js$domain=welect.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|preismafia.com
@@ -3403,7 +3393,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||adnxs.com/ut/v3|$xmlhttprequest,domain=autobild.de
 @@||adservice.google.*/adsid/integrator.js$domain=welect.de
 @@||adservice.google.*^adsid/integrator.$script,domain=gofeminin.de|vip.de
-@@||affilinet-inside.de^*/affilinet/$stylesheet
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamestar.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
@@ -3423,15 +3412,12 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||commundia.de^*/affilinet/$~third-party
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||dt.adsafeprotected.com^$image,domain=welect.de
-@@||dtb-gymnet.de^*^admID^
 @@||efiliale.de/efiliale/pop/js/pop.js
 @@||ekitchen.de^$generichide
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
 @@||emsservice.de^$image,xmlhttprequest,domain=kochbar.de
 @@||eventim.de^*?affiliate=$subdocument
 @@||flashtalking.com^$domain=welect.de
-@@||fn-neon.de/javascript/adserver_banner.js
-@@||forum-duewupp.de/images/ad-gallery/$~third-party
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=kochbar.de|vip.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|n-tv.de|rtl.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|geo.de|stern.de
@@ -3447,7 +3433,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||g.doubleclick.net/tag/js/gpt.js$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|n-tv.de
 @@||g.doubleclick.net^*/gpt.js$script,domain=auto-motor-und-sport.de|kochbar.de
-@@||galileo.tv/js/my_ad_integration.js
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.com/adsense/$subdocument,domain=sedo.de
 @@||google.de/ads/css/ads-base.$stylesheet
@@ -3457,8 +3442,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
 @@||googlesyndication.com/simgad/$image,domain=kochbar.de
 @@||googletagservices.com/tag/js/gpt.js?$script,domain=stern.de
-@@||googlewatchblog.de/img/index-icons/$image
-@@||googlewatchblog.de^*/adsense.png
 @@||goolive.de/templatesv2/smileys/ad.gif
 @@||gymnasium-august-dicke.de^*/ads/
 @@||gynny.de/img/affilinet/
@@ -3477,7 +3460,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||kmelektronik.de/shop/images/advertising/$image
 @@||lead-alliance.net^*/advertiser/$~third-party
 @@||madamecuisine.de/detroitchicago/dayton.js$script,~third-party
-@@||marketing-a.akamaihd.net/inhouse/$subdocument,domain=rtl.de
 @@||mmcomputer.de^*&BannerID=$subdocument
 @@||mobilbranche.de/mobilbranche/wp-content/uploads/$image,domain=mobilbranche.de
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
@@ -3570,16 +3552,9 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_dimensions.txt ***
 @@||eatsmarter.de/sites/default/files/*_300x250_$image,domain=eatsmarter.de
 @@||googleusercontent.com^*/300x250.$domain=googlewatchblog.de
-@@||musikexpress.de/wp-content/uploads/*_musikexpressstyle_adbundle_mediumrectangle_300x250.gif$domain=musikexpress.de
-@@||rollingstone.de/wp-content/uploads/*_musikexpressstyle_adbundle_mediumrectangle_300x250.gif$domain=rollingstone.de
-@@||smallapps.stroeerdp.de/podigee/*_300x250.$image,domain=cdn.podigee.com
-@@||stern.de/producing/paid/sternplus_$image,domain=stern.de
-@@||welt.de/sites/default/files/rectangle-300x250-newsletter.jpg
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_popup.txt ***
-@@||adclick.g.doubleclick.net^$popup,domain=marketing-a.akamaihd.net
 @@||adspirit.de^$popup,domain=dealdoktor.de
 @@||doubleclick.net/ddm/$popup,domain=11freunde.de
 @@||g.doubleclick.net^$popup,domain=11freunde.de|kochbar.de
-@@||getmyads.com^$popup,domain=wieverdienen.online
 @@||track.adform.net^$popup,domain=dealdoktor.de
 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
