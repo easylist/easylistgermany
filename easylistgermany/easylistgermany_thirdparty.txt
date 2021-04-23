@@ -147,9 +147,11 @@
 ||ox.comventure.de^
 ||pap-partner.flirtfair.de^$third-party
 ||partner.fondsdiscount.de^
+||partner.gewinnspiele.de^$third-party
 ||partner.leguide.com^$third-party
 ||partner.maxxim.de^
 ||partner.simplytel.de^
+||partner.zooplus.de^$third-party
 ||partnerprogramm.e-wie-einfach.de^$third-party
 ||partyschnaps.com/banner/$third-party
 ||pccdn.com^*/banner/$third-party
@@ -182,6 +184,7 @@
 ||profiwin.de^$subdocument,third-party
 ||promotionmaterial.betacash.com^
 ||prospekt38.de^*/widget.php?anbieter_id=$subdocument,third-party
+||publisher.outtra.com^$third-party
 ||questler.de/gfx/banner/$third-party
 ||rabattcorner.ch/iframe/$subdocument,third-party
 ||ranksider.de/img/banner/$third-party
@@ -246,15 +249,3 @@
 ||zweitfondsmarkt.de/banner/$third-party
 ||züri6.ch/adsman/$third-party
 ||züri6.ch/banner/$third-party
-!
-||partner.dhl.de^$third-party
-||partner.gewinnspiele.de^$third-party
-||partner.gorillagaming.de^$third-party
-||partner.stellenanzeigen.de^$third-party
-||partner.teufel.de^
-||partner.toptarif.de/go.cgi?pid=$image,third-party
-||partner.zooplus.de^$third-party
-||promotion.coreg.de^$third-party
-||promotion.mmxlive.com^
-||publisher.outtra.com^$third-party
-||publisher.spoods.de^$third-party

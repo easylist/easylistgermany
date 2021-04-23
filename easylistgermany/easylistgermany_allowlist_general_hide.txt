@@ -10,6 +10,7 @@ xdate.ch#@#.ad-item
 11freunde.de#@#.ad_sidebar
 11freunde.de#@#.ad_wrap
 finanzlexikon-online.de#@#.adboxclass
+rtl.de#@#.adslot
 az.com.na#@#.adverts
 wetter.de#@#.base-ad-slot
 openlimit.com#@#.content_ad
@@ -32,7 +33,6 @@ werbung.oebb.at#@#.werbung
 gofeminin.de#@#a[href^="https://pubads.g.doubleclick.net/"]
 telekom.de#@#a[href^="https://track.adform.net/"]
 !
-rtl.de#@#.adslot
 1und1.de,gmx.at,gmx.net,web.de#@#.advertorial
 web.de#@#.banner-728
 finanzen.at,rtl.de,vip.de#@#.ob-smartfeed-wrapper
@@ -40,5 +40,4 @@ auto-motor-und-sport.de,gofeminin.de,hardwareluxx.de,wetter.com#@#[id^="div-gpt-
 11freunde.de,auto-motor-und-sport.de,kochbar.de,rtl.de,vip.de#@#[id^="google_ads_iframe"]
 11freunde.de,auto-motor-und-sport.de,gofeminin.de,kochbar.de,vip.de#@#[id^="google_ads_iframe_"]
 kochbar.de#@#[name^="google_ads_iframe"]
-marketing-a.akamaihd.net#@#a[href^="http://adclick.g.doubleclick.net/"]
 gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]

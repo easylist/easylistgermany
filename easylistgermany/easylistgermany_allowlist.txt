@@ -8,6 +8,7 @@
 @@||asadcdn.com/adlib/pages/bz-berlin.js$script,domain=bz-berlin.de
 @@||feuerwehr-marchtrenk.at/homepage/banner.php$subdocument
 @@||football-aktuell.de/links/banner_oben.png
+@@||googlewatchblog.de^*/adsense.png
 @@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
@@ -17,7 +18,6 @@
 @@||welect.de/$document,subdocument
 !
 @@||11freunde.de/assets/houseAds/$image,domain=11freunde.de
-@@||2mdn.net/ads/studio/Enabler.js$domain=marketing-a.akamaihd.net
 @@||2mdn.net/instream/video/client.js$domain=welect.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
 @@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|preismafia.com
@@ -26,7 +26,6 @@
 @@||adnxs.com/ut/v3|$xmlhttprequest,domain=autobild.de
 @@||adservice.google.*/adsid/integrator.js$domain=welect.de
 @@||adservice.google.*^adsid/integrator.$script,domain=gofeminin.de|vip.de
-@@||affilinet-inside.de^*/affilinet/$stylesheet
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamestar.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
@@ -46,15 +45,12 @@
 @@||commundia.de^*/affilinet/$~third-party
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||dt.adsafeprotected.com^$image,domain=welect.de
-@@||dtb-gymnet.de^*^admID^
 @@||efiliale.de/efiliale/pop/js/pop.js
 @@||ekitchen.de^$generichide
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
 @@||emsservice.de^$image,xmlhttprequest,domain=kochbar.de
 @@||eventim.de^*?affiliate=$subdocument
 @@||flashtalking.com^$domain=welect.de
-@@||fn-neon.de/javascript/adserver_banner.js
-@@||forum-duewupp.de/images/ad-gallery/$~third-party
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=kochbar.de|vip.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|n-tv.de|rtl.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|geo.de|stern.de
@@ -70,7 +66,6 @@
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||g.doubleclick.net/tag/js/gpt.js$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|n-tv.de
 @@||g.doubleclick.net^*/gpt.js$script,domain=auto-motor-und-sport.de|kochbar.de
-@@||galileo.tv/js/my_ad_integration.js
 @@||go-parc-hf.de^*.php?ad=$subdocument
 @@||google.com/adsense/$subdocument,domain=sedo.de
 @@||google.de/ads/css/ads-base.$stylesheet
@@ -80,8 +75,6 @@
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
 @@||googlesyndication.com/simgad/$image,domain=kochbar.de
 @@||googletagservices.com/tag/js/gpt.js?$script,domain=stern.de
-@@||googlewatchblog.de/img/index-icons/$image
-@@||googlewatchblog.de^*/adsense.png
 @@||goolive.de/templatesv2/smileys/ad.gif
 @@||gymnasium-august-dicke.de^*/ads/
 @@||gynny.de/img/affilinet/
@@ -100,7 +93,6 @@
 @@||kmelektronik.de/shop/images/advertising/$image
 @@||lead-alliance.net^*/advertiser/$~third-party
 @@||madamecuisine.de/detroitchicago/dayton.js$script,~third-party
-@@||marketing-a.akamaihd.net/inhouse/$subdocument,domain=rtl.de
 @@||mmcomputer.de^*&BannerID=$subdocument
 @@||mobilbranche.de/mobilbranche/wp-content/uploads/$image,domain=mobilbranche.de
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
