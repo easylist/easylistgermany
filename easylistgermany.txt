@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104231717
+! Version: 202104231731
 ! Title: EasyList Germany
-! Last modified: 23 Apr 2021 17:17 UTC
+! Last modified: 23 Apr 2021 17:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1423,6 +1423,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||goastro.de/wp-content/uploads/*/250x250-
 ||gofeminin.de/home4/skin/*_*/home.css|
 ||goldesel.sx/img/b3f2784f11449ba054835ce14db00d7611.jpg
+||golem.de/_img/200923-syseleven-kubernetes.jpg
 ||golfmagazin.de/content/uploads/*/banner_
 ||googlewatchblog.de/apt.png
 ||googlewatchblog.de/wp-content/uploads/amazon-music-hd-stream.jpg
@@ -1638,6 +1639,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||netheweb.de/images/trigami.png
 ||network.gofeminin.de^
 ||network2.aufeminin.com^
+||neumarkt-tv.de/wp-content/uploads/*/bestercasinomentor-original.jpg
 ||nh24.de/wp-content/uploads/*/Banner-
 ||nh24.de/wp-content/uploads/*/EAM_Juni2020_1200x200.gif
 ||nh24.de/wp-content/uploads/*/Haemel-2012-247.gif
@@ -3046,6 +3048,7 @@ pi-news.net##.td-a-rec-id-content_inlineleft
 bitreporter.de##.td-a-rec-id-custom-spot
 elliniki-gnomi.eu,pfalz-echo.de,pi-news.net##.td-a-rec-id-header
 primavera24.de##.td-header-container
+neumarkt-tv.de##.tdi_88
 bild.de##.tea-rectangle
 watson.ch##.teaser_type_paid_content
 analsexporno.net,pornomonster.com##.tf-de
