@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104231731
+! Version: 202104231742
 ! Title: EasyList Germany
-! Last modified: 23 Apr 2021 17:31 UTC
+! Last modified: 23 Apr 2021 17:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1167,6 +1167,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||arbeitstage.de/pub_
 ||areadvd.de/images/*/Nubert-Button.png
 ||areadvd.de/images/*/Teufel_100x150.gif
+||areadvd.de/images/*/Teufel_300x25.png
 ||areadvd.de/IOTAVX.jpg
 ||auto-bild.de/js/rd/google.js
 ||autobild.de/js/rd/google.js
@@ -3178,6 +3179,7 @@ daily-pia.de##a[href^="https://www.manitu.de/?partner="]
 dxtv.de##a[href^="https://www.octagon-germany.eu/"]
 hoerbuch.us##a[href^="https://www.purevpn.com/?aff="]
 hoerbuch.us##a[href^="https://www.purevpn.com?aff="]
+areadvd.de##a[href^="https://www.teufel.de/sales?partner_id="]
 tweakpc.de##a[href^="https://www.tweakpc.de/rev3/www/delivery/"]
 nsladies.de##a[href^="https://www.visit-x.net/de/w/chathost/?w="]
 pornhubdeutsch.info,xhamsterde.com##a[href^="https://www.wazazu.com/LA/Landingpage?"]
