@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104281243
+! Version: 202104291801
 ! Title: EasyList Germany
-! Last modified: 28 Apr 2021 12:43 UTC
+! Last modified: 29 Apr 2021 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -526,6 +526,8 @@ wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_border_elm .syndi
 wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_rbox_div .syndicatedItem
 wieistmeineip.at,wieistmeineip.ch,wieistmeineip.de#@#.trc_related_container div[data-item-syndicated="true"]
 werbung.oebb.at#@#.werbung
+11freunde.de,auto-motor-und-sport.de,kochbar.de,rtl.de,vip.de#@#[id^="google_ads_iframe"]
+11freunde.de,auto-motor-und-sport.de,gofeminin.de,kochbar.de,vip.de#@#[id^="google_ads_iframe_"]
 gofeminin.de#@#a[href^="https://pubads.g.doubleclick.net/"]
 telekom.de#@#a[href^="https://track.adform.net/"]
 ! 
@@ -533,8 +535,6 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 web.de#@#.banner-728
 finanzen.at,rtl.de,vip.de#@#.ob-smartfeed-wrapper
 auto-motor-und-sport.de,gofeminin.de,hardwareluxx.de,wetter.com#@#[id^="div-gpt-ad"]
-11freunde.de,auto-motor-und-sport.de,kochbar.de,rtl.de,vip.de#@#[id^="google_ads_iframe"]
-11freunde.de,auto-motor-und-sport.de,gofeminin.de,kochbar.de,vip.de#@#[id^="google_ads_iframe_"]
 kochbar.de#@#[name^="google_ads_iframe"]
 gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ! ---------------------------Third-party Werbeserver---------------------------!
@@ -3367,31 +3367,37 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist.txt ***
 @@/gujAd.$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|kochbar.de|n-tv.de|stern.de|vip.de|wetter.de
+@@||2mdn.net/instream/video/client.js$domain=welect.de
 @@||acdn.adnxs.com/ast/ast.js$script,domain=finanzen.ch
+@@||ad.doubleclick.net/ddm/$image,domain=welect.de
 @@||adform.net/adfserve/?bn=$script,domain=rewe.de
 @@||adform.net/adx/$script,domain=rewe.de
 @@||adform.net/banners/$domain=rewe.de|telekom.de
 @@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=rewe.de
 @@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
-@@||asadcdn.com/adlib/pages/bz-berlin.js$script,domain=bz-berlin.de
-@@||feuerwehr-marchtrenk.at/homepage/banner.php$subdocument
-@@||football-aktuell.de/links/banner_oben.png
-@@||googlewatchblog.de^*/adsense.png
-@@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
-@@||maxbanner.de/media/products/$image,domain=maxbanner.de
-@@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
-@@||rhodesian-ridgeback-forum.org^$generichide
-@@||s1.adform.net^$script,domain=rewe.de
-@@||shz.de/sso/$generichide
-@@||welect.de/$document,subdocument
-! 
-@@||11freunde.de/assets/houseAds/$image,domain=11freunde.de
-@@||2mdn.net/instream/video/client.js$domain=welect.de
-@@||ad.doubleclick.net/ddm/$image,domain=welect.de
-@@||ad.zanox.com/ppc/?$subdocument,domain=eule.de|grossklein.de|preismafia.com
-@@||admedia.adgemini.de^$~third-party
 @@||adnxs.com/p/creative-image/$image,domain=autobild.de
 @@||adnxs.com/ut/v3|$xmlhttprequest,domain=autobild.de
+@@||asadcdn.com/adlib/pages/bz-berlin.js$script,domain=bz-berlin.de
+@@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
+@@||feuerwehr-marchtrenk.at/homepage/banner.php$subdocument
+@@||flashtalking.com^$domain=welect.de
+@@||football-aktuell.de/links/banner_oben.png
+@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de
+@@||googlewatchblog.de^*/adsense.png
+@@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
+@@||imasdk.googleapis.com/js/core/bridge$document,subdocument,domain=welect.de
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=atv.at|welect.de
+@@||maxbanner.de/media/products/$image,domain=maxbanner.de
+@@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
+@@||pixel.adsafeprotected.com^$image,script,domain=welect.de
+@@||rhodesian-ridgeback-forum.org^$generichide
+@@||s1.adform.net^$script,domain=rewe.de
+@@||search.spotxchange.com^$image,domain=welect.de
+@@||shz.de/sso/$generichide
+@@||track.adform.net^$image,domain=welect.de
+@@||welect.de/$document,subdocument
+! 
 @@||adservice.google.*/adsid/integrator.js$domain=welect.de
 @@||adservice.google.*^adsid/integrator.$script,domain=gofeminin.de|vip.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamestar.de
@@ -3400,11 +3406,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||asadcdn.com/adlib/adlib_seq.js$script,domain=stylebook.de
 @@||asadcdn.com/adlib/pages/stylebook.js^$script,domain=stylebook.de
 @@||asadcdn.com/adlib/templates/oneTag.js$script,domain=stylebook.de
-@@||banner.electronic-arts.de/www/images/*.jpg$domain=ea.com
-@@||banners.webmasterplan.com/view.asp?ref=*&site=10830&$script
-@@||banners.webmasterplan.com/view.asp?ref=*&site=15264&$script
-@@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
-@@||cashdorado.de/track/click*.php?wm=*&wbm=*&pt=e$subdocument
 @@||cdn.spotxcdn.com^$domain=welect.de
 @@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||comdirect.de^*.html&ad=$subdocument
@@ -3413,13 +3414,10 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||commundia.de^*/affilinet/$~third-party
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||dt.adsafeprotected.com^$image,domain=welect.de
-@@||efiliale.de/efiliale/pop/js/pop.js
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
 @@||emsservice.de^$image,xmlhttprequest,domain=kochbar.de
-@@||eventim.de^*?affiliate=$subdocument
-@@||flashtalking.com^$domain=welect.de
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=kochbar.de|vip.de
-@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|brigitte.de|eltern.de|n-tv.de|rtl.de
+@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=brigitte.de|eltern.de|n-tv.de|rtl.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|geo.de|stern.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
 @@||g.doubleclick.net/gampad/ads?*970x250$script,domain=welt.de
@@ -3428,7 +3426,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||g.doubleclick.net/gampad/adx?*/sparta/*&t=ad_type%3Dtoolbar%26$document,subdocument,domain=wetter.com
 @@||g.doubleclick.net/gpt/$script,domain=gofeminin.de|vip.de
 @@||g.doubleclick.net/gpt/pubads_$script,domain=wetter.com
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|brigitte.de|eltern.de|gala.de|geo.de|kochbar.de|n-tv.de|rtl.de|stern.de|welt.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=auto-motor-und-sport.de|brigitte.de|eltern.de|gala.de|geo.de|kochbar.de|n-tv.de|rtl.de|stern.de|welt.de
 @@||g.doubleclick.net/pagead/js/rum.js$domain=auto-motor-und-sport.de
 @@||g.doubleclick.net/static/glade.js$domain=welt.de
 @@||g.doubleclick.net/tag/js/gpt.js$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|n-tv.de
@@ -3449,8 +3447,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||ib.adnxs.com/ut/v3^$xmlhttprequest,domain=stylebook.de
 @@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
 @@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
-@@||imasdk.googleapis.com/js/core/bridge$document,subdocument,domain=welect.de
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=atv.at|chip.de|musikexpress.de|rollingstone.de|welect.de
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chip.de|musikexpress.de|rollingstone.de
 @@||ino24.de^*/ratenkredit.jsp$subdocument
 @@||insel-usedom-wollin.de/ads/$script,stylesheet
 @@||interhome.at/javascript/ad-gallery.js
@@ -3470,8 +3467,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||oeko-komp.de/evoAds2/
 @@||os1.tv/js/omsvc_externalad.js
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
-@@||partners.webmasterplan.com/click*.asp$subdocument,domain=eule.de
-@@||pixel.adsafeprotected.com^$image,script,domain=welect.de
 @@||player.aniview.com/script/*/aniview.js$domain=musikexpress.de|rollingstone.de
 @@||player.aniview.com/script/*/AVmanager.js$domain=musikexpress.de|rollingstone.de
 @@||player.newsnetz.tv/player/iframe.php?vid=*&adurl=$subdocument
@@ -3497,8 +3492,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||sascdn.com/diff/251/smartad.js$domain=welt.de
 @@||sascdn.com/diff/251/templates/passback.js$domain=autobild.de|welt.de
 @@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=fitbook.de
-@@||search.spotxchange.com^$image,domain=welect.de
-@@||serving-sys.com/burstingpipe/adserver.bs?$subdocument,domain=preismafia.com
 @@||showheroes.com/prebid.$script,domain=metal-hammer.de|rollingstone.de
 @@||smartadserver.com/2161/call^$xmlhttprequest,domain=metal-hammer.de|rollingstone.de
 @@||smartadserver.com/ac?nwid=*&tag=sas_45579^$script,domain=fitbook.de
@@ -3532,9 +3525,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||ticketonline.de/tickets.html?affiliate=$subdocument
 @@||ticketonline.de^*/?affiliate=
 @@||tilda.ch/images/adds/$image,domain=tilda.ch
-@@||tkqlhce.com/click-$subdocument,domain=eule.de
-@@||track.adform.net^$image,domain=welect.de
-@@||tradedoubler.com/click?$subdocument,domain=eule.de|preismafia.com
 @@||treesarekeys.com/shops/|$document,domain=treesarekeys.com
 @@||vcdn.adnxs.com/p/creative-image^$image,domain=stylebook.de
 @@||videoservice.apa.at/Vast/GetProxy/?*?videotype=preroll1&$xmlhttprequest
@@ -3548,7 +3538,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||wp.com/stadt-bremerhaven.de/wp-content/uploads/*?resize=$image,domain=stadt-bremerhaven.de
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 @@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch
-@@||zanox-affiliate.de/ppc/?$subdocument,domain=eule.de|notenbuch24.de|preismafia.com
+@@||zanox-affiliate.de/ppc/?$subdocument,domain=notenbuch24.de
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_dimensions.txt ***
 @@||eatsmarter.de/sites/default/files/*_300x250_$image,domain=eatsmarter.de
 @@||googleusercontent.com^*/300x250.$domain=googlewatchblog.de
