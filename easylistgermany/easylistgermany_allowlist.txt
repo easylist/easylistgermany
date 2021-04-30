@@ -34,8 +34,10 @@
 @@||adservice.google.*/adsid/integrator.js$domain=welect.de
 @@||adservice.google.*^adsid/integrator.$script,domain=gofeminin.de|vip.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamestar.de
+@@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
 @@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
 @@||cdn.spotxcdn.com^$domain=welect.de
+@@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||dt.adsafeprotected.com^$image,domain=welect.de
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
