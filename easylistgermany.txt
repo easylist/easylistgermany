@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104301702
+! Version: 202104302049
 ! Title: EasyList Germany
-! Last modified: 30 Apr 2021 17:02 UTC
+! Last modified: 30 Apr 2021 20:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1145,6 +1145,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||aktienportal1.de/img/banner/
 ||aktuell-kl.de/images/banners/
 ||altesrad.net/phpBB3/images/banner/
+||alysson.de^$domain=radio.de
 ||amazonaws.com/bnp_657x209_$domain=finanzen.net
 ||amigafuture.de/images/amazon234x60_
 ||amigafuture.de/images/oben/amigastore.png
@@ -3402,8 +3403,10 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||adservice.google.*/adsid/integrator.js$domain=welect.de
 @@||adservice.google.*^adsid/integrator.$script,domain=gofeminin.de|vip.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamestar.de
+@@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
 @@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
 @@||cdn.spotxcdn.com^$domain=welect.de
+@@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||dt.adsafeprotected.com^$image,domain=welect.de
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
