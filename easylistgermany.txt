@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105031533
+! Version: 202105031802
 ! Title: EasyList Germany
-! Last modified: 03 May 2021 15:33 UTC
+! Last modified: 03 May 2021 18:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3381,6 +3381,7 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||asadcdn.com/adlib/pages/bz-berlin.js$script,domain=bz-berlin.de
 @@||asadcdn.com/adlib/pages/stylebook.js^$script,domain=stylebook.de
 @@||asadcdn.com/adlib/templates/oneTag.js$script,domain=stylebook.de
+@@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||commundia.de^*/affilinet/$~third-party
 @@||feuerwehr-marchtrenk.at/homepage/banner.php$subdocument
 @@||football-aktuell.de/links/banner_oben.png
@@ -3389,7 +3390,10 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||googlewatchblog.de^*/adsense.png
 @@||ib.adnxs.com/ut/v3^$xmlhttprequest,domain=stylebook.de
 @@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
+@@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
+@@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=atv.at
+@@||jade-hs.de^*/ext-adv.js
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
 @@||rhodesian-ridgeback-forum.org^$generichide
@@ -3403,10 +3407,8 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||adservice.google.*/adsid/integrator.js$domain=welect.de
 @@||adservice.google.*^adsid/integrator.$script,domain=gofeminin.de|vip.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamestar.de
-@@||aniview.com/api/adserver/tag/?$xmlhttprequest,domain=musikexpress.de|rollingstone.de
 @@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
 @@||cdn.spotxcdn.com^$domain=welect.de
-@@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||dt.adsafeprotected.com^$image,domain=welect.de
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
@@ -3428,36 +3430,20 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||g.doubleclick.net/tag/js/gpt.js$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|n-tv.de
 @@||g.doubleclick.net^*/gpt.js$script,domain=auto-motor-und-sport.de|kochbar.de
 @@||go-parc-hf.de^*.php?ad=$subdocument
-@@||google.com/adsense/$subdocument,domain=sedo.de
-@@||google.de/ads/css/ads-base.$stylesheet
-@@||google.de/search?q=$xmlhttprequest
 @@||googlesyndication.com/pagead/imgad?$image,domain=auto-motor-und-sport.de
 @@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|kochbar.de|vip.de
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
 @@||googlesyndication.com/simgad/$image,domain=kochbar.de
 @@||googletagservices.com/tag/js/gpt.js?$script,domain=stern.de
-@@||goolive.de/templatesv2/smileys/ad.gif
-@@||gymnasium-august-dicke.de^*/ads/
-@@||gynny.de/img/affilinet/
-@@||gynny.de/shopframe/$document,subdocument
-@@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
-@@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
 @@||imasdk.googleapis.com/js/core/bridge$document,subdocument,domain=welect.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chip.de|musikexpress.de|rollingstone.de|welect.de
-@@||ino24.de^*/ratenkredit.jsp$subdocument
-@@||insel-usedom-wollin.de/ads/$script,stylesheet
-@@||interhome.at/javascript/ad-gallery.js
-@@||jade-hs.de^*/ext-adv.js
 @@||jobpostings.tuja.de/Advertisment.aspx?$subdocument
 @@||kabeleins.de/php-bin/functions/adtags/$subdocument
 @@||kmelektronik.de/shop/images/advertising/$image
 @@||lead-alliance.net^*/advertiser/$~third-party
-@@||madamecuisine.de/detroitchicago/dayton.js$script,~third-party
 @@||mmcomputer.de^*&BannerID=$subdocument
 @@||mobilbranche.de/mobilbranche/wp-content/uploads/$image,domain=mobilbranche.de
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
-@@||nadann.de/small_ads/$~third-party
-@@||nordclick.de/js/colors/adsense_colors.js
 @@||notebookcheck.com^$generichide
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|juice.de|studis-online.de
 @@||oeko-komp.de/evoAds2/
