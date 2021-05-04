@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105041651
+! Version: 202105041804
 ! Title: EasyList Germany
-! Last modified: 04 May 2021 16:51 UTC
+! Last modified: 04 May 2021 18:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1910,7 +1910,6 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||thinkpad-forum.de/Neu/*_banner.
 ||thinkpad-forum.de/Neu/Banner-
 ||tieronline.ch/images/partner/
-||tilda.ch/images/banners/
 ||tipzeitung.de/img/banner/
 ||tobitech.de/images/banners/
 ||tschechien-online.org/sites/default/files/hotel-kleine-brauerei.jpg
@@ -3399,11 +3398,17 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||jade-hs.de^*/ext-adv.js
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
+@@||mmcomputer.de^*&BannerID=$subdocument
 @@||rhodesian-ridgeback-forum.org^$generichide
+@@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||s1.adform.net^$script,domain=rewe.de
 @@||shz.de/sso/$generichide
 @@||vcdn.adnxs.com/p/creative-image^$image,domain=stylebook.de
+@@||vox.de^$generichide
+@@||webdisk.ads.mwn.de/Scripts/ext-adv.js
 @@||welect.de/$document,subdocument
+@@||werbebanner24.de/templates/_wb24/_assets/images/$image,domain=werbebanner24.de
+@@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 ! 
 @@||2mdn.net/instream/video/client.js$domain=welect.de
 @@||ad.doubleclick.net/ddm/$image,domain=welect.de
@@ -3440,28 +3445,12 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||googletagservices.com/tag/js/gpt.js?$script,domain=stern.de
 @@||imasdk.googleapis.com/js/core/bridge$document,subdocument,domain=welect.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chip.de|musikexpress.de|rollingstone.de|welect.de
-@@||jobpostings.tuja.de/Advertisment.aspx?$subdocument
-@@||kabeleins.de/php-bin/functions/adtags/$subdocument
-@@||kmelektronik.de/shop/images/advertising/$image
 @@||lead-alliance.net^*/advertiser/$~third-party
-@@||mmcomputer.de^*&BannerID=$subdocument
-@@||mobilbranche.de/mobilbranche/wp-content/uploads/$image,domain=mobilbranche.de
-@@||monetenlos.com/components/com_marketplace/images/ads/$image
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|juice.de|studis-online.de
-@@||oeko-komp.de/evoAds2/
-@@||os1.tv/js/omsvc_externalad.js
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
 @@||pixel.adsafeprotected.com^$image,script,domain=welect.de
-@@||player.aniview.com/script/*/aniview.js$domain=musikexpress.de|rollingstone.de
-@@||player.aniview.com/script/*/AVmanager.js$domain=musikexpress.de|rollingstone.de
-@@||player.newsnetz.tv/player/iframe.php?vid=*&adurl=$subdocument
 @@||promo.douglas.de^$subdocument,domain=facebook.com
 @@||prosieben.de^*/ad-managment/$script
-@@||raumobil.de/js/advertise.js
-@@||reaktion-talentschule.de/tl_files/layout/rotation/banner
-@@||reimkultur-mv.de/9products/images/ad/$image,~third-party
-@@||rtl.de^*/player_modul_onclick_300x250.jpg
-@@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||s357.mxcdn.net^$script,domain=welect.de
 @@||s79.mxcdn.net^$script,domain=welect.de
 @@||s79.research.de.com^$domain=welect.de
@@ -3499,32 +3488,14 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||static.adsafeprotected.com^$script,domain=welect.de
 @@||static.classistatic.de/res/images/ads/$image
 @@||static.classistatic.de/res/js/shared/advertising/*advertisingHeadPacked.js
-@@||storm-chasing.de^*/ad-gallery/$image,~third-party
 @@||stroeerdigitalgroup.de/metatag/live/AMS/metaTag.min.js$domain=auto-motor-und-sport.de
 @@||stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tvmovie.de
-@@||talentiert.at^*/index_ads.php?$subdocument,third-party
 @@||tamedia.ch/tl_files/content/Icons/Advertising_$domain=tamedia.ch
 @@||tamedia.ch^*/advertising-$subdocument,domain=tamedia.ch
 @@||tfag.de/img/$domain=focus.de
-@@||thangkas.com/thangkas/thangkas/$image,~third-party
-@@||thomann.de^*/adv/adv_$image,~third-party
 @@||ticketonline.de/tickets.html?affiliate=$subdocument
 @@||ticketonline.de^*/?affiliate=
-@@||tilda.ch/images/adds/$image,domain=tilda.ch
 @@||track.adform.net^$image,domain=welect.de
-@@||treesarekeys.com/shops/|$document,domain=treesarekeys.com
-@@||videoservice.apa.at/Vast/GetProxy/?*?videotype=preroll1&$xmlhttprequest
-@@||vox.de^$generichide
-@@||webdisk.ads.mwn.de/Scripts/ext-adv.js
-@@||werbebanner24.de/templates/_wb24/_assets/images/$image,domain=werbebanner24.de
-@@||wm-druckarena.de/scripts/Werbebanner.
-@@||wn-jobs.de/search.html?adType=$xmlhttprequest
-@@||wn-markt.de/search.html?adType=$xmlhttprequest
-@@||wn-mobil.de/search.html?adType=$xmlhttprequest
-@@||wp.com/stadt-bremerhaven.de/wp-content/uploads/*?resize=$image,domain=stadt-bremerhaven.de
-@@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
-@@||xdate.ch/uploads/images/adbanner/$image,domain=xdate.ch
-@@||zanox-affiliate.de/ppc/?$subdocument,domain=notenbuch24.de
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_dimensions.txt ***
 @@||eatsmarter.de/sites/default/files/*_300x250_$image,domain=eatsmarter.de
 @@||googleusercontent.com^*/300x250.$domain=googlewatchblog.de
