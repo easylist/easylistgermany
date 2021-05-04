@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105031803
+! Version: 202105041441
 ! Title: EasyList Germany
-! Last modified: 03 May 2021 18:03 UTC
+! Last modified: 04 May 2021 14:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3445,7 +3445,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||mmcomputer.de^*&BannerID=$subdocument
 @@||mobilbranche.de/mobilbranche/wp-content/uploads/$image,domain=mobilbranche.de
 @@||monetenlos.com/components/com_marketplace/images/ads/$image
-@@||notebookcheck.com^$generichide
 @@||nuggad.net/rc?nuggn=$script,domain=areagames.de|dshini.net|juice.de|studis-online.de
 @@||oeko-komp.de/evoAds2/
 @@||os1.tv/js/omsvc_externalad.js
