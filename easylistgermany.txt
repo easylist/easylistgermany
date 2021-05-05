@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105041804
+! Version: 202105051506
 ! Title: EasyList Germany
-! Last modified: 04 May 2021 18:04 UTC
+! Last modified: 05 May 2021 15:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2923,6 +2923,7 @@ fla.de##.pbph
 heise.de##.perf-cls-reduc-leaderboard
 heise.de##.perf-cls-reduc-rectangle
 blick.ch##.placement-leaderboard
+blick.ch##.placement-rectangle
 zuckerporno.com##.pornofilme_recht
 reise-preise.de##.port.hi
 iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:center;"]
