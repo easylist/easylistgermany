@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105061957
+! Version: 202105062047
 ! Title: EasyList Germany
-! Last modified: 06 May 2021 19:57 UTC
+! Last modified: 06 May 2021 20:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3425,16 +3425,9 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||werbebanner24.de/templates/_wb24/_assets/images/$image,domain=werbebanner24.de
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 ! 
-@@||2mdn.net/instream/video/client.js$domain=welect.de
-@@||ad.doubleclick.net/ddm/$image,domain=welect.de
-@@||adservice.google.*/adsid/integrator.js$domain=welect.de
 @@||adservice.google.*^adsid/integrator.$script,domain=gofeminin.de|vip.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamestar.de
-@@||bs.serving-sys.com/serving/adServer.bs?*&mc=imp&$image,domain=welect.de
-@@||cdn.spotxcdn.com^$domain=welect.de
 @@||creatives.sascdn.com^$image,domain=fitbook.de
-@@||dt.adsafeprotected.com^$image,domain=welect.de
-@@||flashtalking.com^$domain=welect.de
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=vip.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=brigitte.de|eltern.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=gala.de|geo.de
@@ -3450,13 +3443,8 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||googlesyndication.com/pagead/imgad?id=$image,domain=11freunde.de|gofeminin.de|kochbar.de|vip.de
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
 @@||googlesyndication.com/simgad/$image,domain=kochbar.de
-@@||imasdk.googleapis.com/js/core/bridge$document,subdocument,domain=welect.de
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chip.de|musikexpress.de|rollingstone.de|welect.de
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chip.de|musikexpress.de|rollingstone.de
 @@||otto.heias.com/otto/igoogle/$domain=ig.gmodules.com
-@@||pixel.adsafeprotected.com^$image,script,domain=welect.de
-@@||s357.mxcdn.net^$script,domain=welect.de
-@@||s79.mxcdn.net^$script,domain=welect.de
-@@||s79.research.de.com^$domain=welect.de
 @@||sascdn.com/diff/251/*/Abo-Teaser_fuer_ab.de-Home.png$image,domain=autobild.de
 @@||sascdn.com/diff/251/*/aktionen_191x108.jpg$image,domain=autobild.de
 @@||sascdn.com/diff/251/*/gebrauchtwagenmarkt.png$image,domain=autobild.de
@@ -3464,14 +3452,11 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 @@||sascdn.com/diff/251/pages/autobild.js$domain=autobild.de
 @@||sascdn.com/diff/251/templates/passback.js$domain=autobild.de
 @@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=fitbook.de
-@@||search.spotxchange.com^$image,domain=welect.de
 @@||smartadserver.com/2161/call^$xmlhttprequest,domain=metal-hammer.de|rollingstone.de
 @@||smartadserver.com/ac?nwid=*&tag=sas_45579^$script,domain=fitbook.de
 @@||smartadserver.com/diff/251/2484653/show10.asp$script,domain=autobild.de
 @@||smartadserver.com/diff/251/templates/passback.js$domain=autobild.de
 @@||smartclip.net/select?type=vast3^$xmlhttprequest,domain=imasdk.googleapis.com
-@@||static.adsafeprotected.com^$script,domain=welect.de
-@@||track.adform.net^$image,domain=welect.de
 ! 
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=rtl.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=stern.de
