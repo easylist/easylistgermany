@@ -350,12 +350,13 @@ pocketpc.ch###xxParentDivForWerbPostbit
 ladies.de###zeiten
 chip.de##.AD
 preissuchmaschine.de##.AFS_ADD
-finanzfrage.net,gutefrage.net##.Ad
+chip.de,finanzfrage.net,gutefrage.net##.Ad
 jungewelt.de,vermieter-forum.com##.Anzeige
 fc-suedtirol.com##.BannerContainer
 momondo.de##.Common-Kn-Display
 momondo.de##.Common-Kn-Rp-FlightInline
 swoodoo.com##.Common-Kn-Rp-Inline
+chip.de##.FC.mt-md-so[role="complementary"]
 swoodoo.com##.Flights-Results-FlightRightRail
 perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
@@ -1151,6 +1152,7 @@ bergsteiger.de#?#.eight.columns.alpha.content:-abp-has(span:-abp-contains(Advert
 bitreporter.de#?#.code-block:-abp-has(span:-abp-contains(/ANZEIGE|Anzeige|Werbung|WERBUNG/))
 caravaning.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEIGE)
+chip.de#?#a.secondary:-abp-has(.Badge__Content:-abp-contains(gesponsert))
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
 diegrenzgaenger.lu#?#article[id^=post-]:-abp-has(.sponsored-indicator)
