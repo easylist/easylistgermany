@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105072057
+! Version: 202105072131
 ! Title: EasyList Germany
-! Last modified: 07 May 2021 20:57 UTC
+! Last modified: 07 May 2021 21:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1762,6 +1762,7 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||rotehaus.net/kittys-tipps/tippseiten/bilder/
 ||rro.ch/cms/topbanner/
 ||ruhrbarone.de^*/bang.gif
+||ruhrnachrichten.de/Media/Anzeigen/
 ||russland.capital/wp-content/uploads/*/CeMAT20.gif
 ||russland.news/wp-content/uploads/*/futur2-banner.png
 ||saechsische.de/img/semperoper.png
@@ -2300,6 +2301,7 @@ onlinereports.ch###content-banner3
 ladies.de###content-solads
 rund-magazin.de###contentbanner
 seorch.de###crazyclownhint
+ruhrnachrichten.de###ctl00_ctl00_m_ctrlMainMasterContentPlaceHolder_m_ctrlMainContentPlaceHolder_ctl00_m_ctrlEditContainer
 tagblatt.de###ctl00_ctl00_m_ctrlMainMasterContentPlaceHolder_m_ctrlMainContentPlaceHolder_ctl03_m_ctrlEditContainer
 kriegsberichterstattung.com###custom_html-12
 tarnkappe.info###custom_html-121
