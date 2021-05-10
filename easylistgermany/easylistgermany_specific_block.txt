@@ -993,37 +993,15 @@ $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagma
 ! (/sw.js)
 /^https?:\/\/.*\/.*(sw[0-9a-z._-]|\.notify\.).*/$script,domain=hammerporno.xxx
 ! Specific filters necessary for sites using $genericblock filter option
+g.doubleclick.net###adunit
+transfermarkt.de##.OUTBRAIN .ob-p
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
-@@||ad.71i.de/somtag/loader/loader.js$domain=gofeminin.de
-@@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de
-@@||autobild.de^$genericblock,generichide
-@@||g.doubleclick.net/dbm/vast?dbm_c=$xmlhttprequest,domain=imasdk.googleapis.com
-@@||g.doubleclick.net/gampad/ads?*&iu_parts=5731%2CDE_GOFEMININ%2Corganic%2Chome&$domain=gofeminin.de
-@@||g.doubleclick.net/gampad/ads?slotname=*stern%2F*^sz=480x360^$xmlhttprequest,domain=imasdk.googleapis.com
-@@||g.doubleclick.net/static/glade.js$domain=autobild.de
-@@||g.doubleclick.net/static/glade/extra_$script,domain=autobild.de
-@@||gofeminin.de^$genericblock
-@@||kabeleins.de^$generichide
-@@||musikexpress.de^$generichide
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=autobild.de
-@@||ran.de^$generichide
-@@||rollingstone.de^$generichide
-@@||sascdn.com/diff/251/pages/$script,domain=autobild.de
-@@||smartadserver.com/ac?nwid=$script,domain=autobild.de|transfermarkt.de
-@@||smartadserver.com/diff/251/divscripte/$subdocument,domain=transfermarkt.de
-@@||smartadserver.com/diff/251/partners/amazon.js$domain=autobild.de|transfermarkt.de
-@@||smartadserver.com/diff/251/verify.js$domain=transfermarkt.de
-@@||transfermarkt.de^$generichide
 _video_ads/$domain=imasdk.googleapis.com
 autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
-connextra.com##iframe[src^="https://ssl.connextra.com"]
-g.doubleclick.net###adunit
-musikexpress.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
+musikexpress.de,rollingstone.de,widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 musikexpress.de##iframe[src*="//fom.bildungscentrum.de/"]
-rollingstone.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
-transfermarkt.de##.OUTBRAIN .ob-p
-widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
+connextra.com##iframe[src^="https://ssl.connextra.com"]
 |http:$domain=adfarm1.adition.com
 |https:$domain=adfarm1.adition.com
 ||2mdn.net^$domain=imasdk.googleapis.com|serving-sys.com
