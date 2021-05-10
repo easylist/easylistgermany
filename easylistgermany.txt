@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105101557
+! Version: 202105101559
 ! Title: EasyList Germany
-! Last modified: 10 May 2021 15:57 UTC
+! Last modified: 10 May 2021 15:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2818,6 +2818,7 @@ golem.de##.gbox_affiliate
 jungfrauzeitung.ch##.gokb
 jungfrauzeitung.ch##.gokwblock
 nydus.org##.googl
+dejure.org##.googlediv
 handball-deutschland.tv,sportdeutschland.tv,tischtennis-deutschland.tv##.gothaer-sponsoring-container
 nextpit.de##.gptSlot
 epd-film.de##.group-externe-links
