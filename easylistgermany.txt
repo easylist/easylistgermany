@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105100852
+! Version: 202105101557
 ! Title: EasyList Germany
-! Last modified: 10 May 2021 08:52 UTC
+! Last modified: 10 May 2021 15:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3126,6 +3126,7 @@ ladies.de,mtb-news.de##a[href*="/redirect/"]
 strippokerregeln.com##a[href="/www/888casino"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
 t-online.de##a[href="https://gebrauchtwagen-suche.t-online.de/marke-skoda/modell-superb"]
+tarnkappe.info##a[href^=" https://www.bit.ly/"]
 hammerporno.xxx##a[href^="//plx.hammerporno.xxx/pool_link/"]
 herthabsc.de##a[href^="/de/hertha/sponsoren/exklusiv-partner/uebersicht/page/"]
 bastel-elfe.de##a[href^="banners.php?"]
@@ -3252,6 +3253,7 @@ immoscout24.ch##div[style="width: auto; height: auto; min-height: 250px; justify
 ariva.de##div[style="width:1000px; text-align:center; min-height:270px;"]
 psychic.de##div[style="width:160px;height:600px;"]
 korrekturen.de##div[style="width:300px; height:250px;float:left; margin-right:15px; margin-bottom:15px; border:0; background-color:#c0c0c0; overflow:hidden;"]
+tarnkappe.info##div[style="width:300px;height:250px"]
 news.ch##div[style="width:300px;padding:12px;float:left;"]
 korrekturen.de##div[style="width:728px; height: 90px; text-align: center; background-color:#c0c0c0;"]
 finanzen.net##img[alt="Passende Produkte von Vontobel"]
