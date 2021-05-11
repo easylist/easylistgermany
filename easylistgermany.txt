@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105101818
+! Version: 202105110815
 ! Title: EasyList Germany
-! Last modified: 10 May 2021 18:18 UTC
+! Last modified: 11 May 2021 08:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2534,6 +2534,7 @@ momondo.de##.Common-Kn-Display
 momondo.de##.Common-Kn-Rp-FlightInline
 swoodoo.com##.Common-Kn-Rp-Inline
 chip.de##.FC.mt-md-so[role="complementary"]
+chip.de##.FC__Container.min-height-250px-mu
 swoodoo.com##.Flights-Results-FlightRightRail
 perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
