@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105110815
+! Version: 202105111609
 ! Title: EasyList Germany
-! Last modified: 11 May 2021 08:15 UTC
+! Last modified: 11 May 2021 16:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -510,7 +510,7 @@ rtl.de#@#.adslot
 az.com.na#@#.adverts
 wetter.de#@#.base-ad-slot
 openlimit.com#@#.content_ad
-di.fm#@#.firstload
+di.fm,kellertheater.at#@#.firstload
 11freunde.de,gala.de,geo.de,kochbar.de,rtl.de,vip.de#@#.gujAd
 11freunde.de#@#.house-ad
 hochzeitswahn.de#@#.internal-ad
