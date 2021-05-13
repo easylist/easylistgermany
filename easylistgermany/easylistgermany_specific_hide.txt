@@ -1128,25 +1128,6 @@ businessinsider.de,giga.de,metal-hammer.de,myhomebook.de,spieletipps.de,transfer
 computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
 businessinsider.de,bz-berlin.de,fitbook.de,giga.de,myhomebook.de,noizz.de,spieletipps.de,sportbild.bild.de,techbook.de,transfermarkt.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
 bz-berlin,bz-berlin.de,metal-hammer.de,musikexpress.de,rollingstone.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
-@@||businessinsider.de^$generichide
-@@||bz-berlin.de^$generichide
-@@||computerbild.de^$generichide
-@@||finanzen.net^$generichide
-@@||fitbook.de^$generichide
-@@||focus.de^$generichide
-@@||gamestar.de^$generichide
-@@||metal-hammer.de^$generichide
-@@||myhomebook.de^$generichide
-@@||n-tv.de^$generichide
-@@||noizz.de^$generichide
-@@||pcwelt.de^$generichide
-@@||sport.de^$generichide
-@@||sportbild.bild.de^$generichide
-@@||stylebook.de^$generichide
-@@||techbook.de^$generichide
-@@||travelbook.de^$generichide
-@@||tvspielfilm.de^$generichide
-@@||welt.de^$generichide
 finanzen.net,gamestar.de,n-tv.de##a[data-nvp*="'trafficUrl':'https://paid.outbrain.com/network/redir?"]
 finanzen.net,gamestar.de,n-tv.de##a[data-oburl^="https://paid.outbrain.com/network/redir?"]
 finanzen.net,gamestar.de,n-tv.de##a[data-redirect^="https://paid.outbrain.com/network/redir?"]
