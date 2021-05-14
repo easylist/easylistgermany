@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105141414
+! Version: 202105141420
 ! Title: EasyList Germany
-! Last modified: 14 May 2021 14:14 UTC
+! Last modified: 14 May 2021 14:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1525,6 +1525,8 @@ gofeminin.de,kochbar.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 ||islamiq.de/wp-content/uploads/*/ukba_ilan_dijital_islamiq_980x150px3.gif
 ||islamiq.de/wp-content/uploads/*/Unbenannt-1.gif
 ||islamische-zeitung.de/wp-content/uploads/*/Open_IZ1240x10015_
+||israel-nachrichten.org/wp-content/uploads/*/querbanner_
+||israel-nachrichten.org/wp-content/uploads/*_hochbanner_
 ||jacktheripper.de/images/banner/
 ||journalist.de^*/Stellenanzeigen/
 ||jungefreiheit.de/wp-content/banners/
