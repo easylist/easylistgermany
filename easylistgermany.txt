@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105141438
+! Version: 202105141443
 ! Title: EasyList Germany
-! Last modified: 14 May 2021 14:38 UTC
+! Last modified: 14 May 2021 14:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3355,6 +3355,7 @@ pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
 promiflash.de#?#.onlyDesktop:-abp-has(div.adContainer)
 promobil.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 saechsische.de#?#article,div:-abp-has( > div > .article-section--nad > span:-abp-contains(Anzeige))
+swz.it#?#.jeg_post.jeg_pl_md_2.pr.format-standard:-abp-has(span:-abp-contains(PR-INFO))
 t-online.de#?#div[id^="T-"][onfocus^="A('zid="]:-abp-has(a:-abp-contains(Anzeige))
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
