@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105181443
+! Version: 202105181444
 ! Title: EasyList Germany
-! Last modified: 18 May 2021 14:43 UTC
+! Last modified: 18 May 2021 14:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2600,7 +2600,7 @@ eurogamer.de,morningstar.de,suedkurier.de,weser-kurier.de##.advert
 bankkaufmann.com##.advert_
 onvista.de##.advertisedFund
 abendblatt.de,extremnews.com##.advertisement
-oefb.at##.advertising
+oefb.at,zeit.de##.advertising
 kauf6.com##.advertisments
 speedweek.com##.advheader
 erf.de,greenbyte.ch,rtl.de##.adwrapper
