@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105192126
+! Version: 202105201614
 ! Title: EasyList Germany
-! Last modified: 19 May 2021 21:26 UTC
+! Last modified: 20 May 2021 16:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2576,6 +2576,7 @@ computerbase.de##.adbox-outstream
 vaterland.li##.adcontainer
 nachtkritik.de##.adcontent
 suedtiroltv.it##.add
+computersm.com##.add-inner
 abg-net.de##.add_top
 laengengrad-breitengrad.de##.addtop
 gartenjournal.net##.adinj
@@ -2822,6 +2823,7 @@ blickpunkt-brandenburg.de,nh24.de,sunshine.it##.header-banner
 radzeit.de##.header-main
 taucher.net##.header-promo
 verlagshaus-jaumann.de##.header-right
+computersm.com##.header-top
 oxmoxhh.de##.header-widget-inner
 bankkaufmann.com##.headeradvert_
 fremdwort.de##.hinweisad
