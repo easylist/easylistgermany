@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105201614
+! Version: 202105241131
 ! Title: EasyList Germany
-! Last modified: 20 May 2021 16:14 UTC
+! Last modified: 24 May 2021 11:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1728,6 +1728,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||pornozebra.com/img/linklist2/
 ||pragerzeitung.cz/wp-content/uploads/*_300x450px_
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
+||prosiebengames.de/sites/prosiebengames/files/*/bowsergames_wallpaper_$image
 ||queer.de/gfx/air-france-presented-by-
 ||queer.de/gfx/mein-kondom-
 ||radio-oberland.de/images/banners/
@@ -3216,6 +3217,7 @@ volksblatt.at##div[data-div-ratios="default:300_250"]
 volksblatt.at##div[data-div-ratios="default:696_280|500:300_250"]
 t-online.de##div[data-dy*="Partner:"]
 giga.de##div[data-trigger="sourcepoint-ad"]
+prosiebengames.de##div[data-url-link^="https://track-adspree.com/"]
 formel1.de##div[id="outer_sas_"]
 t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
 t-online.de##div[id^="T-"][oncontextmenu="return false"]
