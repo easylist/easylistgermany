@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105241530
+! Version: 202105241532
 ! Title: EasyList Germany
-! Last modified: 24 May 2021 15:30 UTC
+! Last modified: 24 May 2021 15:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2839,6 +2839,7 @@ pcwelt.de##.idgAmazonTextV2
 channelpartner.de##.idgWebcastsCarousel
 heise.de##.img-ad
 funcloud.club##.inArticleA
+bikemarkt.mtb-news.de##.incontent__container
 autoline.de,autoline24.at,autoline24.ch##.index-bns
 lippe-news.de##.inline_wrapper
 erotikinserate.ch##.inner
