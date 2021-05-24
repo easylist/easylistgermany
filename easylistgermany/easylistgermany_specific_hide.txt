@@ -1042,6 +1042,7 @@ volksblatt.at##div[data-div-ratios="default:300_250"]
 volksblatt.at##div[data-div-ratios="default:696_280|500:300_250"]
 t-online.de##div[data-dy*="Partner:"]
 giga.de##div[data-trigger="sourcepoint-ad"]
+prosiebengames.de##div[data-url-link^="https://track-adspree.com/"]
 formel1.de##div[id="outer_sas_"]
 t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
 t-online.de##div[id^="T-"][oncontextmenu="return false"]
