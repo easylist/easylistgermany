@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105251635
+! Version: 202105251644
 ! Title: EasyList Germany
-! Last modified: 25 May 2021 16:35 UTC
+! Last modified: 25 May 2021 16:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -491,6 +491,7 @@ _woz_banner_vote.
 ##a[href^="https://dpm.jungekontakte.com/click.php?dp="]
 ##a[href^="https://maidings-mectland.com/"]
 ##a[href^="https://media.datingpartner.com/click.php?dp="]
+##a[href^="https://www.handy-sextreffen.info/?c="]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_general_hide.txt ***
@@ -1040,6 +1041,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||tortuga.services^*/affiliate/$domain=~travelbook.de
 ||treff-mich.org/bilder/$third-party
 ||trivago.de/de/srv/destination/js/hotel_$script,third-party
+||twincdn.com/special/back_script.js
 ||twincdn.com/special/special_script.js
 ||upjers.com/ext/ext.php$third-party
 ||venus-community.com/banner/$third-party
@@ -1811,7 +1813,9 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||sexnews.ch/uploads/tx_sfbanners/
 ||sexuria.com/poup.js
 ||sexvideos-hd.com/cpanel/
+||sexvideos-hd.com/img/linklist/
 ||sexvideos-hd.com/img/linklist2/
+||sexvideos-hd.com^$subdocument,xmlhttprequest
 ||sexy-land.ch/images/banner/
 ||sg-flensburg-handewitt.de^*/Online_Banner/
 ||sg-flensburg-handewitt.de^*/Sponsors/
