@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105251702
+! Version: 202105251712
 ! Title: EasyList Germany
-! Last modified: 25 May 2021 17:02 UTC
+! Last modified: 25 May 2021 17:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -739,6 +739,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||rapidads.de^$third-party
 ||revresrennab.de^$third-party
 ||rgadvert.com^$third-party
+||securecnd.com^
 ||seitenaufruf.com^$third-party
 ||selfpuc.com^$third-party
 ||server4ads.com^$third-party
@@ -1099,6 +1100,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||tuneclub.de^*/lp.pl?$popup
 ||vavoo.tv/promo/$popup,third-party
 ||vidonna.de/pop.php$popup,third-party
+||visit-x.net/*/?w=*ws=$popup,third-party
 ||vodafone.de^*&tsid=$popup,third-party
 ! -------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block.txt ***
@@ -1719,6 +1721,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||pornohexen.com/js/a9k3jf823m4.js
 ||pornohirsch.net/cpanel/
 ||pornohirsch.net/img/linklist2/
+||pornohutdeutsch.net/wp-content/*/93kgk95aw2q.js
 ||pornojenny.com/cpanel/
 ||pornojenny.com/img/linklist/
 ||pornojenny.com/img/linklist2/
