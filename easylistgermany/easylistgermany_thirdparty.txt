@@ -222,6 +222,7 @@
 ||tortuga.services^*/affiliate/$domain=~travelbook.de
 ||treff-mich.org/bilder/$third-party
 ||trivago.de/de/srv/destination/js/hotel_$script,third-party
+||twincdn.com/special/back_script.js
 ||twincdn.com/special/special_script.js
 ||upjers.com/ext/ext.php$third-party
 ||venus-community.com/banner/$third-party
