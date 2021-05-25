@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105241536
+! Version: 202105251629
 ! Title: EasyList Germany
-! Last modified: 24 May 2021 15:36 UTC
+! Last modified: 25 May 2021 16:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2099,7 +2099,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ! CSP filters
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: www.googletagmanager.com *.google.com *.gstatic.com www.google-analytics.com *.googleapis.com *.cloudflare.com *.twitter.com connect.facebook.net cdn.hdfilme.net cdn.hdfilme.cx ssl.p.jwpcdn.com,domain=hdfilme.cx
 ! 
-/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=beeg-pornos.com|deinesexfilme.com|einfachtitten.com|german-porno-deutsch.info|gutesexfilme.com|hd-sexfilme.com|lesbenhd.com|meinyouporn.com|pornoaffe.com|pornoente.tv|pornofisch.com|pornohammer.com|pornohans.com|pornohirsch.net|pornojenny.com|pornoklinge.com|pornotom.com|pornotommy.com|pornozebra.com|reifporn.de|sexente.com|sexvideos-hd.com|tube8-pornos.com|xhamster-sexvideos.com|xnxx-porno.com
+/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=beeg-pornos.com|deinesexfilme.com|deutschsex.com|einfachtitten.com|german-porno-deutsch.info|gutesexfilme.com|hd-sexfilme.com|lesbenhd.com|meinyouporn.com|pornoaffe.com|pornoente.tv|pornofisch.com|pornohammer.com|pornohans.com|pornohirsch.net|pornojenny.com|pornoklinge.com|pornotom.com|pornotommy.com|pornozebra.com|reifporn.de|sexente.com|sexvideos-hd.com|tube8-pornos.com|xhamster-sexvideos.com|xnxx-porno.com
 ! (/sw.js)
 /^https?:\/\/.*\/.*(sw[0-9a-z._-]|\.notify\.).*/$script,domain=hammerporno.xxx
 ! Specific filters necessary for sites using $genericblock filter option
@@ -2766,6 +2766,7 @@ laden.to##.d_702232
 spox.com##.dazn
 dubisthalle.de##.dbh-widget
 deutschsex.com##.default__interest-block
+deutschsex.com##.default__realtive-block
 segeljournal.com##.displaybanner-container
 volksblatt.li##.divAdd_Banner
 tieronline.ch##.djslider-in
@@ -3087,6 +3088,7 @@ flz.de##.user-flzads-pi1
 hallescherfc.de,pfalz-echo.de##.vc_carousel-inner
 vfl.de##.vc_custom_1544363997968
 ebay.de##.vi-lb-placeholder
+deutschsex.com##.video__sidebar-item
 netzwoche.ch##.view-partners
 vip.de##.vip-medium-rectangle
 vip.de##.vip-teaser
