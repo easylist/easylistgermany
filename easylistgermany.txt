@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105261706
+! Version: 202105261715
 ! Title: EasyList Germany
-! Last modified: 26 May 2021 17:06 UTC
+! Last modified: 26 May 2021 17:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1697,6 +1697,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||paules-pc-forum.de/images/buch/
 ||pcgamesdatabase.de/images/amazon_small.jpg
 ||pcgamesdatabase.de/images/bt_orderamazon.jpg
+||pesterlloyd.net/assets/images/autogen/Betway-Casino-300x400.jpg
 ||pfaffenhofen-today.de/images/banners/
 ||pfalz-echo.de/wp-content/uploads/*-Banner-
 ||pfalz-echo.de/wp-content/uploads/*_Anzeige_
@@ -3310,6 +3311,7 @@ websingles.at##table[width="306"]
 grower.ch##table[width="468"]
 wetterbote.de##table[width="738"][height="90"]
 ww3.cad.de##table[width="95%"][cellspacing="1"][border="0"] > tbody > tr > td[valign="top"]:first-child + td[style="vertical-align: top;"]:last-child
+pesterlloyd.net##td:nth-of-type(3):not(:last-of-type) table[width^="3"]
 plz-postleitzahl.de##td[valign="top"][style="padding-left: 15px;"] > table[width="250"][cellspacing="0"][cellpadding="0"]:first-child
 astrotreff.de##td[width="100%"][align="center"] > hr[size="1"][color="#8482A5"] + table[cellspacing="0"][cellpadding="10"][border="0"][bgcolor="#000040"]
 dslr-forum.de##td[width="120"][valign="top"][align="center"]:last-child
