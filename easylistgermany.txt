@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106031459
+! Version: 202106031514
 ! Title: EasyList Germany
-! Last modified: 03 Jun 2021 14:59 UTC
+! Last modified: 03 Jun 2021 15:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1737,6 +1737,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||pornotommy.com/img/linklist2/
 ||pornozebra.com/cpanel/
 ||pornozebra.com/img/linklist2/
+||port01.com/uploads/banner/
 ||pragerzeitung.cz/wp-content/uploads/*_300x450px_
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
 ||prosiebengames.de/sites/prosiebengames/files/*/bowsergames_wallpaper_$image
@@ -2260,6 +2261,7 @@ juve.de###banner_sidebar
 dreingau-zeitung.de,linguee.de###banner_top
 saiten.ch###banner_vertical
 queer.de###banneroben
+port01.com###bannerpos2
 queer.de###bannerrechts
 breakpoint.untergrund.net###banners
 heise.de###bannerzone
