@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106031535
+! Version: 202106031548
 ! Title: EasyList Germany
-! Last modified: 03 Jun 2021 15:35 UTC
+! Last modified: 03 Jun 2021 15:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2079,6 +2079,8 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||wp.com/www.elliniki-gnomi.eu/wp-content/uploads/*/polibanner.jpg
 ||wp.com/www.elliniki-gnomi.eu/wp-content/uploads/*/skiathos_metro_banner_
 ||wp.com/www.elliniki-gnomi.eu/wp-content/uploads/*/TerzoSchild-banner.png
+||wp.com/www.fuldainfo.de/fdi/wp-content/uploads/*-300x250px-
+||wp.com/www.fuldainfo.de/fdi/wp-content/uploads/*_OnlineBanner_
 ||ww-kurier.de/images/wwbanklogowetter.png
 ||ww4.cad.de^*.php?what=*:*&n=
 ||ww4.cad.de^*/axjs.php
@@ -2612,7 +2614,7 @@ eatsmarter.de##.adsense
 hierspielen.com##.adtitle
 ibb-anzeiger.de,suedtiroltv.it##.adv
 oberberg-aktuell.de##.adv-indicator
-oberberg-aktuell.de##.adv-link
+fuldainfo.de,oberberg-aktuell.de##.adv-link
 teneriffa-aktuell.com##.adv-wrapper
 blinker.de##.adv_widget
 eurogamer.de,morningstar.de,suedkurier.de,weser-kurier.de##.advert
