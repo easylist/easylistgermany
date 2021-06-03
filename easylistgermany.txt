@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106031614
+! Version: 202106031621
 ! Title: EasyList Germany
-! Last modified: 03 Jun 2021 16:14 UTC
+! Last modified: 03 Jun 2021 16:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2579,6 +2579,7 @@ dieharke.de##.Rectangle
 torgranate.de##.SPMADS
 t-online.de##.Tadc
 t-online.de##.Tgbox--anz
+de.rt.com##.TopBanner-root
 t-online.de##.Tprtnrmobilesib
 t-online.de##.Tshlogobox
 via-ferrata.de##.YouTubeDachstein
