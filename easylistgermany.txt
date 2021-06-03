@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106031556
+! Version: 202106031559
 ! Title: EasyList Germany
-! Last modified: 03 Jun 2021 15:56 UTC
+! Last modified: 03 Jun 2021 15:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1994,6 +1994,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||wallis24.it/images/mc_dopo_18_nov_20.jpg
 ||wallis24.it/images/patrone_tedesco_wallis.jpg
 ||wallis24.it/images/wallis24%20achilli%20ottobre20.jpg
+||wallstreet-online.de/frontend/img/smartbroker/banner_
 ||wbbanner.mrn-news.de^
 ||wcm.at/images/attingo.gif
 ||websingles.at/pages/site/de/images/logos/
@@ -2316,6 +2317,8 @@ eu-vertretung.de,kriegsberichterstattung.com###custom_html-9
 wochenblatt.pl###custom_post_widget-6
 wallstreet-online.de###dban1
 finanznachrichten.de###dban2
+wallstreet-online.de###dcb1
+wallstreet-online.de###dcb2
 bluray-disc.de###deals-aktionen-box
 gamestar.de###dfp-header-container
 kalender-365.eu###dish-top-desktop
