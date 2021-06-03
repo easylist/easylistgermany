@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106031340
+! Version: 202106031413
 ! Title: EasyList Germany
-! Last modified: 03 Jun 2021 13:40 UTC
+! Last modified: 03 Jun 2021 14:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2948,6 +2948,7 @@ gota6.ch,highway-magazin.de##.partnerlinks
 deutscherskiverband.de##.partnerlogos
 hannover96.de,p-stadtkultur.de##.partners
 floatmagazin.de##.partners-title + .partners
+tagesstimme.com##.pb-8.text-center.float-center
 fla.de##.pbph
 heise.de##.perf-cls-reduc-leaderboard
 heise.de##.perf-cls-reduc-rectangle
