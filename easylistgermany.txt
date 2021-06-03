@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106031645
+! Version: 202106031652
 ! Title: EasyList Germany
-! Last modified: 03 Jun 2021 16:45 UTC
+! Last modified: 03 Jun 2021 16:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2399,7 +2399,7 @@ startxxl.com###mcebox-sidebar
 eihi.de###media_gallery-2
 mdz-moskau.eu###media_image-23
 basicthinking.de,zurzeit.at###media_image-3
-africa-positive.de,golfmagazin.de,kremser-sc.at###media_image-4
+africa-positive.de,golfmagazin.de,kremser-sc.at,pressecop24.com###media_image-4
 kremser-sc.at###media_image-5
 kremser-sc.at###media_image-6
 kremser-sc.at###media_image-7
@@ -2450,6 +2450,8 @@ bluray-disc.de###pricechange-box
 golem.de###pricehits
 fanfiktion.de###qql
 gamestar.de###rectangle-container-desktop
+pressecop24.com###responsive_lightbox_image_widget-5
+pressecop24.com###responsive_lightbox_image_widget-6
 einrichtungsbeispiele.de###rightcolumndiv
 h-bw.de###rothaus-aktion
 diebildschirmzeitung.de###rstpl-before-higher-position
