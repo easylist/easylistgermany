@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106101631
+! Version: 202106101632
 ! Title: EasyList Germany
-! Last modified: 10 Jun 2021 16:31 UTC
+! Last modified: 10 Jun 2021 16:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -853,7 +853,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||baygel.de/banner/
 ||beate-uhse.com/banner/$third-party
 ||belboon.de/tracking/*.img
-||belmediaverlag.com/gott-ch/vergebung/$third-party
+||belmediaverlag.com/gott-ch/$third-party
 ||bergfreunde-partner.de/banner/
 ||bergzeit.de/out/pictures/partner/image/
 ||bit.ly^$subdocument,domain=polizei.news
@@ -2296,6 +2296,7 @@ dsv.de###c5812
 gruen-weiss.at###carousel
 urnerwochenblatt.ch###carouselInserate
 sexei.net###catfad
+polizei.news###centcon-side-inner
 beliebtestewebseite.de###checkdiv
 steuerlinks.de###colLeft > #info
 steuerlinks.de###colRight > #search
