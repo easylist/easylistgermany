@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106101632
+! Version: 202106101651
 ! Title: EasyList Germany
-! Last modified: 10 Jun 2021 16:32 UTC
+! Last modified: 10 Jun 2021 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1890,6 +1890,8 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||suedtirol1.it/uploads/beitrag/*/Banner_300x87.gif
 ||suedtiroltv.it^*/banner
 ||sunshine.it^*/raika.
+||supertipp-online.de/wp-content/uploads/*/47645_Animation.gif
+||supertipp-online.de/wp-content/uploads/*/Edeka_Nissen_Content.gif
 ||supertipp-online.de/wp-content/uploads/*/Gottfried_schultz.gif
 ||surfmusik.de/anz1.gif
 ||svs-passau.de/wp-content/uploads/*/bkkzfundpartner300x108.png
@@ -3286,6 +3288,7 @@ modified-shop.org##div[id^="modifiedwerbung_"]
 handballecke.de##div[id^="promotionHeader"]
 metal-hammer.de##div[id^="sas_"]
 amazon.de##div[id^="sp_detail"]
+supertipp-online.de##div[id^="super-"]
 wochenblick.at##div[id^="woche-"]
 weristdeinfreund.de##div[style*="display: block ! important"]
 wirtschaftslexikon24.com##div[style="float:left;clear:left;height:620px;width:180px;padding-top:15px;"]
