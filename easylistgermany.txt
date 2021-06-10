@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106101654
+! Version: 202106101701
 ! Title: EasyList Germany
-! Last modified: 10 Jun 2021 16:54 UTC
+! Last modified: 10 Jun 2021 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1236,6 +1236,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||bluray-disc.de/images/background/
 ||bluray-disc.de/images/banner/
 ||boerse-online.de/images/Postbank-75x25.png
+||boerse-social.com/media/Content/Partner/
 ||boersennews.de/images/smartbroker/
 ||bolzano-bozen.it/images/banner/
 ||bolzano-bozen.it/images/logo/
@@ -3298,6 +3299,7 @@ wirtschaftslexikon24.com##div[style="float:left;clear:left;height:620px;width:18
 breakpoint.untergrund.net##div[style="float:right; width: 110px; margin-left: 15px; margin-top: 12px; margin-bottom: 15px; padding: 2px 6px; text-align: center; border: 1px solid black; background:white; line-height: 2em; color: black;"]
 pixelio.de##div[style="float:right; width: 300px; height: 250px"]
 n-mag.org##div[style="height: 280px; margin: 5px 0 5px 0;"]
+boerse-social.com##div[style="height:80px;background-color:#fff"]
 iphone-tricks.de##div[style="margin-bottom:.5em;padding-top:.5em;min-height: 270px;display: flex;justify-content: center;align-items: center"]
 shopanbieter.de##div[style="margin: 30px 0px 30px 0px;padding: 10px; border-width: 2px; border-style: dashed; background-color: #f6f5f2;"]
 gamereactor.de##div[style="min-height: 600px; margin-bottom: 20px;"]
