@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106111654
+! Version: 202106111718
 ! Title: EasyList Germany
-! Last modified: 11 Jun 2021 16:54 UTC
+! Last modified: 11 Jun 2021 17:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3413,6 +3413,7 @@ ebay.de#?#.b-module:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.mfe-lex:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 eurotransport.de#?#.v-A_-sidecol__list__item:-abp-has(.v-A_-teaser__tag--ad)
+feuerwehrmagazin.de#?#.excerpt-tile.cell.small-12.medium-6:-abp-has(.advertorials)
 finanzen.net#?#.mleft-10:-abp-contains(Werbung) + .box
 gamestar.de#?#.content-item-medium:-abp-has(data:-abp-contains(Anzeige))
 gamestar.de#?#.content-item-small:-abp-has(h3:-abp-contains(Anzeige))
