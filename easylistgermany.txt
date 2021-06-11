@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106111724
+! Version: 202106111729
 ! Title: EasyList Germany
-! Last modified: 11 Jun 2021 17:24 UTC
+! Last modified: 11 Jun 2021 17:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2753,6 +2753,7 @@ msxfaq.de##.boxjob
 btc-echo.de##.btc-sponsored
 hockeyweb.de##.btn-danger
 boersennews.de##.btn-smartbroker
+radioguetersloh.de##.btn2
 lounge.fm##.buy
 eventelevator.de##.bwdfb-widget
 kremser-sc.at,sgleutershausen.de##.bx-viewport
@@ -3018,6 +3019,7 @@ jobscout24.ch##.recommendations
 games.ch##.rect
 anisearch.de##.rect_sidebar
 fussballdaten.de,modhoster.de,rheintaler.ch##.rectangle
+radioguetersloh.de##.rectright
 jungle.world##.region-topad
 suche.freenet.de##.result-container > .container-right
 nydus.org##.right > .widgetbox2
