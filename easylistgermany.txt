@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106111741
+! Version: 202106111759
 ! Title: EasyList Germany
-! Last modified: 11 Jun 2021 17:41 UTC
+! Last modified: 11 Jun 2021 17:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -226,6 +226,12 @@ _woz_banner_vote.
 ###nativendo-articletop
 ###nativendo-hometop
 ###o2freikarte
+###oms_gpt_billboard
+###oms_gpt_outofpage
+###oms_gpt_rectangle
+###oms_gpt_rectangle_halfpage
+###oms_gpt_skyscraper
+###oms_gpt_superbanner
 ###p-links-werbung
 ###p-rechts-werbung
 ###qm_content_ad_anzeige
@@ -2434,8 +2440,6 @@ namibia-forum.ch###nfad-inner
 madchensex.com###nrad
 autoexperience.de,flugzeugforum.de,uhrforum.de,xbox-passion.de###oc24-div
 yasni.de###offer
-rockland.fm###oms_gpt_rectangle
-rockland.fm###oms_gpt_rectanglesidebar
 onmeda.de###on-footer-banner
 onmeda.de###on-rectangle
 onmeda.de###on-sky
@@ -2591,7 +2595,6 @@ perspektive-mittelstand.de##.Laddbox300
 alle-autos-in.de##.NaviTopP
 simmentalzeitung.ch##.PrintMotifRotator
 dieharke.de##.Rectangle
-torgranate.de##.SPMADS
 t-online.de##.Tadc
 t-online.de##.Tgbox--anz
 de.rt.com##.TopBanner-root
