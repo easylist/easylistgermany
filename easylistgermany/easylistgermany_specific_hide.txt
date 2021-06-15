@@ -620,6 +620,7 @@ der-rissener.de##.ed-element
 laborjournal.de##.ed_d
 l-mag.de##.editorial-teaser
 eintracht.de##.ef-footer__section--logos
+fruchthandel.de##.element_leaderboard
 fruchthandel.de##.element_squarebuttongroup
 mundus-art.com##.elementor-element-0e1ce7d
 spot-on-news.de##.elementor-element-127b96a
@@ -1132,7 +1133,7 @@ t-online.de##img[alt^="Modetrends"]
 hallespektrum.de##img[alt^="Werbung"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
 vfl.de##img[width="110"]
-nh24.de##img[width="140"][height="140"]
+fruchthandel.de,nh24.de##img[width="140"][height="140"]
 wirsiegen.de##img[width="140"][height="180"]
 hc-neumarkt.com##img[width="140"][height="68"]
 heimspiel-online.de##img[width="150"][height="111"]
@@ -1141,7 +1142,7 @@ messweb.de##img[width="250"]
 fcschweinfurt1905.de##img[width="280"][height="160"]
 pi-news.net,silentworld.eu##img[width="300"]
 gamepro.de##img[width="300"][height="246"]
-mygermantimes.com,via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
+fruchthandel.de,mygermantimes.com,via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
 nh24.de##img[width="330"][height="220"]
 teneriffa-aktuell.com##img[width="450"][height="300"]
 basicthinking.de##img[width="500"][height="500"]
@@ -1149,7 +1150,7 @@ nh24.de##img[width="533"]
 silentworld.eu##img[width="600"]
 basicthinking.de##img[width="600"][height="500"]
 hallescherfc.de##img[width="605"][height="690"]
-online-gebuehrenrechner.de,vfl.de##img[width="728"][height="90"]
+fruchthandel.de,online-gebuehrenrechner.de,vfl.de##img[width="728"][height="90"]
 teneriffa-aktuell.com##img[width="800"][height="230"]
 t-online.de##img[width="920"][usemap^="#immap"]
 restegourmet.de##li[data-content-type="ad"]
