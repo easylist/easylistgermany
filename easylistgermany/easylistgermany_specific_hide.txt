@@ -1199,6 +1199,7 @@ finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='https://paid.outbra
 az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
 barfuss.it#?#.panels-flexible-region:-abp-has(span:-abp-contains(Gesponsert))
 bergsteiger.de#?#.eight.columns.alpha.content:-abp-has(span:-abp-contains(Advertorial))
+berliner-kurier.de#?#.m-teaser:-abp-has(span:-abp-contains(Sponsored))
 berliner-zeitung.de#?#.m-article-teaser:-abp-has(div:-abp-contains(Anzeige))
 bitreporter.de#?#.code-block:-abp-has(span:-abp-contains(/ANZEIGE|Anzeige|Werbung|WERBUNG/))
 caravaning.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
