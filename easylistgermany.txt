@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106171213
+! Version: 202106171323
 ! Title: EasyList Germany
-! Last modified: 17 Jun 2021 12:13 UTC
+! Last modified: 17 Jun 2021 13:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1555,6 +1555,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||journalist.de^*/Stellenanzeigen/
 ||jungefreiheit.de/wp-content/banners/
 ||jungfrauzeitung.ch^*.html|$subdocument
+||kalenderwoche.de/bobs/
 ||kanarenexpress.com/images/canarias-
 ||kapstadt.de/images/kunden/exclusive-tours-263-323-2.jpg
 ||kartfahrer-forum.de/board/images/
@@ -2244,6 +2245,7 @@ ww3.cad.de###WzTtDiV + table[width="100%"][border="0"]
 spielesite.com###acTop
 sis-handball.de###ad
 myboerse.bz,thinkpad-forum.de###ad_global_below_navbar
+kalenderwoche.de###addemam-wrapper
 webwiki.de###addmeright
 webwiki.de###addmetop
 engadinerpost.ch###aditems
