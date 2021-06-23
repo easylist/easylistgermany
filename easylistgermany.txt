@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106211311
+! Version: 202106231349
 ! Title: EasyList Germany
-! Last modified: 21 Jun 2021 13:11 UTC
+! Last modified: 23 Jun 2021 13:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1110,7 +1110,6 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||tuneclub.de^*/lp.pl?$popup
 ||vavoo.tv/promo/$popup,third-party
 ||vidonna.de/pop.php$popup,third-party
-||visit-x.net/*/?w=*ws=$popup,third-party
 ||vodafone.de^*&tsid=$popup,third-party
 ! -------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block.txt ***
