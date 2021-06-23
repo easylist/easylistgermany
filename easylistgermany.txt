@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106231445
+! Version: 202106231451
 ! Title: EasyList Germany
-! Last modified: 23 Jun 2021 14:45 UTC
+! Last modified: 23 Jun 2021 14:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -846,6 +846,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||amateurbusters.com^*.php?wmid=$script,third-party
 ||amateurpin.com/puarea/
 ||amateurpin.com^*/b.php?zone=$third-party
+||amateursexfilme.biz^$domain=pornohutdeutsch.net
 ||amazonaws.com/display.tweenui.com/
 ||autoscout24.de^$subdocument,domain=motorrad2000.de
 ||auxmoney.com/start/welcome.php?afid=$third-party
