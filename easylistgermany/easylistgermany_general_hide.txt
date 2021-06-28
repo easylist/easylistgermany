@@ -25,7 +25,6 @@
 ###ad-sb-oben
 ###ad_gross
 ###ad_lang
-###ad_marktjagd
 ###ad_oben
 ###ad_rechts
 ###adbox_artikel
@@ -56,7 +55,16 @@
 ###kaufDA-widget-container
 ###kopf-werbung
 ###layerADLINKWerbung4
+###nativendo-articlemiddle
+###nativendo-articletop
+###nativendo-hometop
 ###o2freikarte
+###oms_gpt_billboard
+###oms_gpt_outofpage
+###oms_gpt_rectangle
+###oms_gpt_rectangle_halfpage
+###oms_gpt_skyscraper
+###oms_gpt_superbanner
 ###p-links-werbung
 ###p-rechts-werbung
 ###qm_content_ad_anzeige
@@ -77,6 +85,8 @@
 ###textwerbung
 ###tmobilefreikarte
 ###topwerbung
+###unisterAd_1
+###unisterAd_2
 ###videopage-werbung
 ###werb10
 ###werb11
@@ -142,6 +152,7 @@
 ###werbunglinks
 ###werbungrechts
 ###werbungrechts1
+###werbungrechtsfloat
 ###werbungsbox300
 ###werbungsky
 ###werbungslider
@@ -296,6 +307,7 @@
 ##.werbungimthread
 ##.werbungrechtstitel
 ##.widget-werbung
+##a[aria-label="Werbelink"]
 ##a[href*=".prodtraff.com/"]
 ##a[href="https://www.focus.de/deal/focus-online-deal-mit-weltsparen-setzen-sie-jetzt-auf-zinserhoehungen-weltsparen-schenkt-ihnen-dafuer-150-euro_id_11868745.html"] > img
 ##a[href^="http://landing.fickzeit.com/?ag="]
@@ -317,6 +329,8 @@
 ##a[href^="https://dpm.affaire18.com/click.php?dp="]
 ##a[href^="https://dpm.jungekontakte.com/click.php?dp="]
 ##a[href^="https://maidings-mectland.com/"]
+##a[href^="https://marketing.net.brillen.de/"]
 ##a[href^="https://media.datingpartner.com/click.php?dp="]
+##a[href^="https://www.handy-sextreffen.info/?c="]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
