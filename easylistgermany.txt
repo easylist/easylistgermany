@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106251904
+! Version: 202106290945
 ! Title: EasyList Germany
-! Last modified: 25 Jun 2021 19:04 UTC
+! Last modified: 29 Jun 2021 09:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1410,6 +1410,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||fruchthandel.de/uploads/elements/*_140x140_
 ||fruchthandel.de/uploads/elements/*_ab_
 ||fruchthandel.de/uploads/elements/468x100_
+||fruchtportal.de/banners/
 ||fsv-frankfurt.de^*/Sponsoren/
 ||fuechse.berlin^*-skybannerxber.jpg
 ||fuechse.berlin^*/modul-hauptsponsoren/
@@ -2704,7 +2705,7 @@ notebookinfo.de##.av-carousel
 notebookinfo.de##.av-fade-carousel
 hsc2000.de##.av-partner-fake-img
 hsc2000.de##.avia-slideshow-1
-1001spiele.de,6navi.ch,anixehd.tv,bankkaufmann.com,buchmarkt.de,deavita.com,fussballgucken.info,goldseiten.de,hcb.net,jobagent.ch,juve.de,komoedie-steinstrasse.de,laufen.de,macerkopf.de,melodieundrhythmus.com,modhoster.de,pfaffenhofen-today.de,pixelio.de,salue.de,sexnews.ch,svs1916.de##.banner
+1001spiele.de,6navi.ch,anixehd.tv,bankkaufmann.com,buchmarkt.de,deavita.com,fruchtportal.de,fussballgucken.info,goldseiten.de,hcb.net,jobagent.ch,juve.de,komoedie-steinstrasse.de,laufen.de,macerkopf.de,melodieundrhythmus.com,modhoster.de,pfaffenhofen-today.de,pixelio.de,salue.de,sexnews.ch,svs1916.de##.banner
 spielkarussell.de##.banner-btf-side-rectangle
 skipper-bootshandel.de##.banner-container
 wochenblatt.cc##.banner-header-left
@@ -2872,6 +2873,7 @@ xhamsterde.com##.footer-widget-zone
 rhein-neckar-loewen.de##.footer__slider
 oefb.at##.footer_partner
 scdhfk-handball.de##.footer_sponsor_row
+fruchtportal.de##.fp-banner
 arboe.at##.frame-type-mask_toolboxcontentad1
 raidrush.net##.funbox
 99ers.at##.fusion-builder-row-14
@@ -2894,7 +2896,7 @@ fc-hansa.de##.hauptsponsoren
 tagesspiegel.de##.hcf-news-aktuell
 ak-kurier.de##.hd-banner
 fkk24.de##.head-top-bannerplace
-blickpunkt-brandenburg.de,nh24.de,sunshine.it##.header-banner
+blickpunkt-brandenburg.de,fruchtportal.de,nh24.de,sunshine.it##.header-banner
 radzeit.de##.header-main
 taucher.net##.header-promo
 verlagshaus-jaumann.de##.header-right
@@ -3089,7 +3091,7 @@ hifi.de##.sky1-outer-container
 frischauf-gp.de##.skyadd
 internet-sms.com##.skybg
 spiele-kostenlos-online.de##.skycraper
-11freunde.de,charivari.de,dialo.de,dynamo-dresden.de,jetztspielen.de,ligaportal.at,rheintaler.ch,spielen.de##.skyscraper
+11freunde.de,charivari.de,dialo.de,dynamo-dresden.de,fruchtportal.de,jetztspielen.de,ligaportal.at,rheintaler.ch,spielen.de##.skyscraper
 fla.de##.skyscrapper-left
 fla.de##.skyscrapper-right
 aedt.de##.slide-box
