@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106301513
+! Version: 202106301518
 ! Title: EasyList Germany
-! Last modified: 30 Jun 2021 15:13 UTC
+! Last modified: 30 Jun 2021 15:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1174,6 +1174,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||areadvd.de/images/*/Teufel_100x150.gif
 ||areadvd.de/images/*/Teufel_300x25.png
 ||areadvd.de/IOTAVX.jpg
+||astronomie.de/uploads/tx_sfbanners/
 ||auto-bild.de/js/rd/google.js
 ||autobild.de/js/rd/google.js
 ||autoscout24.ch/content/startpage/
@@ -3179,6 +3180,7 @@ f95.de##.topsponlink
 travelbook.de##.trc_related_container div[data-item-syndicated="true"]
 pnn.de,tagesspiegel.de##.ts-sptag
 hamburg-pride.de##.tx-imagecycle-pi1
+astronomie.de##.tx-sf-banners
 bayernwelle.de##.type-banner
 funcloud.club##.underContentA
 flz.de##.user-flzads-pi1
