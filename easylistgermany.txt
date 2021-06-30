@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106301458
+! Version: 202106301500
 ! Title: EasyList Germany
-! Last modified: 30 Jun 2021 14:58 UTC
+! Last modified: 30 Jun 2021 15:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3181,7 +3181,7 @@ hamburg-pride.de##.tx-imagecycle-pi1
 bayernwelle.de##.type-banner
 funcloud.club##.underContentA
 flz.de##.user-flzads-pi1
-motorradonline.de##.v-A_-commercial
+motorradonline.de,promobil.de##.v-A_-commercial
 hallescherfc.de,pfalz-echo.de##.vc_carousel-inner
 vfl.de##.vc_custom_1544363997968
 gn-online.de##.verticalCarousel
