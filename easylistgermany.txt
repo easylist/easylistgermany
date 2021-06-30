@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106301527
+! Version: 202106301529
 ! Title: EasyList Germany
-! Last modified: 30 Jun 2021 15:27 UTC
+! Last modified: 30 Jun 2021 15:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2990,6 +2990,7 @@ lavendel.net##.netpoint
 fruchthandel.de##.news-item-wbg
 kitzanzeiger.at##.news_sponsoren_banner
 pz-news.de##.nfy-banner
+wissen.de##.node-promoted
 mikrocontroller.net##.noprint > div[style] + div[style] > script:first-child + div[style]:last-child
 versicherungsjournal.at,versicherungsjournal.de##.norm-rsp-wbox1
 wochenblatt.cc##.normal-banner
