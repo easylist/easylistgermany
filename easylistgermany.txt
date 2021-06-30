@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202106290954
+! Version: 202106301255
 ! Title: EasyList Germany
-! Last modified: 29 Jun 2021 09:54 UTC
+! Last modified: 30 Jun 2021 12:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2884,7 +2884,6 @@ jungfrauzeitung.ch##.gokb
 jungfrauzeitung.ch##.gokwblock
 nydus.org##.googl
 dejure.org##.googlediv
-handball-deutschland.tv,sportdeutschland.tv,tischtennis-deutschland.tv##.gothaer-sponsoring-container
 nextpit.de##.gptSlot
 epd-film.de##.group-externe-links
 my-homo.net##.gstsk
@@ -3067,6 +3066,7 @@ wallstreet-online.de##.sb_quotebox
 ef-magazin.de##.sbad
 sport.sky.de##.sdc-site-au__leaderboard
 sport.sky.de##.sdc-site-au__mpu-1
+sportdeutschland.tv##.sdtv-gothaer
 meedia.de##.section-banner-fullwidth
 selbstaendig-im-netz.de##.selbs-blog-startseite-und-kategorien
 selbstaendig-im-netz.de##.selbs-unter-artikeln
