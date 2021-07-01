@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107011353
+! Version: 202107011357
 ! Title: EasyList Germany
-! Last modified: 01 Jul 2021 13:53 UTC
+! Last modified: 01 Jul 2021 13:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1961,6 +1961,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||telefonsexmitcam.com/images/
 ||telefonsexwebcam.com/images/livestrip-
 ||tennisnet.com/widgets/williamhill/
+||tennistraveller.net/images/banner/
 ||teufelchens.tv/iw_wide.jpg
 ||thinkpad-forum.de/banner/
 ||thinkpad-forum.de/Neu/*-banner.
@@ -2752,7 +2753,7 @@ handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
 xxxjob.ch##.bannerboxrechts
 prost-magazin.at##.bannerfullbanner
-112-magazin.de,griechenland.net,highway-magazin.de,kl-aktuell.de,loz-news.de,motorradundreisen.de,naturundtherapie.at,osttirol-online.at,pc-experience.de,radio-oberland.de,sonic-seducer.de,spielbox.de,wahrschauer.net##.bannergroup
+112-magazin.de,griechenland.net,highway-magazin.de,kl-aktuell.de,loz-news.de,motorradundreisen.de,naturundtherapie.at,osttirol-online.at,pc-experience.de,radio-oberland.de,sonic-seducer.de,spielbox.de,tennistraveller.net,wahrschauer.net##.bannergroup
 tobitech.de##.bannergroupimgframe
 diebildschirmzeitung.de##.banneritem
 sportal.ch##.bannerspot
