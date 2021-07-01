@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107011357
+! Version: 202107011401
 ! Title: EasyList Germany
-! Last modified: 01 Jul 2021 13:57 UTC
+! Last modified: 01 Jul 2021 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1054,6 +1054,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||tennis.de/dtbdst/$domain=dtb-tennis.de
 ||tnt-game.com^*/banner/$third-party
 ||tortuga.services^*/affiliate/$domain=~travelbook.de
+||trainersuchportal.de/partnerwidget/$third-party
 ||treff-mich.org/bilder/$third-party
 ||trivago.de/de/srv/destination/js/hotel_$script,third-party
 ||twincdn.com/special/back_script.js
@@ -1983,6 +1984,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||tv-kabel-plus.de/kabelplus/banner/
 ||tv-kabel-plus.de/kabelplus/icons/speedtest.jpg
 ||tv-kabel-plus.de/kabelplus/img/kptagpreis.jpg
+||tvbb.de/images/tvbb_partner/
 ||tvbstuttgart.de/wp-content/uploads/*/kaercher-wohninvest-
 ||tvdigital.de/frontpage/deutschland_urlaub_hoerzu_
 ||tvdigital.de/frontpage/deutschland_urlaub_horzu_
@@ -2753,7 +2755,7 @@ handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
 xxxjob.ch##.bannerboxrechts
 prost-magazin.at##.bannerfullbanner
-112-magazin.de,griechenland.net,highway-magazin.de,kl-aktuell.de,loz-news.de,motorradundreisen.de,naturundtherapie.at,osttirol-online.at,pc-experience.de,radio-oberland.de,sonic-seducer.de,spielbox.de,tennistraveller.net,wahrschauer.net##.bannergroup
+112-magazin.de,griechenland.net,highway-magazin.de,kl-aktuell.de,loz-news.de,motorradundreisen.de,naturundtherapie.at,osttirol-online.at,pc-experience.de,radio-oberland.de,sonic-seducer.de,spielbox.de,tennistraveller.net,tvbb.de,wahrschauer.net##.bannergroup
 tobitech.de##.bannergroupimgframe
 diebildschirmzeitung.de##.banneritem
 sportal.ch##.bannerspot
