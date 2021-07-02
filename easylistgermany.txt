@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107021635
+! Version: 202107021643
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2021 16:35 UTC
+! Last modified: 02 Jul 2021 16:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1556,6 +1556,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||imgur.com/zCsgpkZ.gif$domain=mmnews.de
 ||inside.bz.it/images/banners/
 ||interhyp.de/angular/lafpartner/$third-party,domain=t-online.de
+||isaswomo.de/wp-content/uploads/*-Banner-
 ||islam.de/images/other/banner/
 ||islamiq.de/wp-content/uploads/*/aaa.gif
 ||islamiq.de/wp-content/uploads/*/igmg_dijital_ilan_islamiq_605x300px_
@@ -2586,6 +2587,7 @@ geocaching-magazin.com,nh24.de###text-48
 nh24.de###text-54
 nh24.de###text-59
 fussballnationalmannschaft.net###text-6
+isaswomo.de###text-64
 gazzettadellambri.ch###text-9
 windowspower.de###text-html-widget-15
 focus.de###tfm_footer_yield
@@ -3258,7 +3260,7 @@ neuwagen.de##a[class="placement"]
 mobilegeeks.de##a[data-eventcategory="Kooperation"]
 t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
-donau3fm.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,spox.com,via-ferrata.de##a[href*="//bit.ly/"]
+donau3fm.de,isaswomo.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,spox.com,via-ferrata.de##a[href*="//bit.ly/"]
 amigafuture.de##a[href*="/boardheaderads/"]
 erogeschichten.com##a[href*="/go/"]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
