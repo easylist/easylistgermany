@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107011401
+! Version: 202107021421
 ! Title: EasyList Germany
-! Last modified: 01 Jul 2021 14:01 UTC
+! Last modified: 02 Jul 2021 14:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -225,6 +225,8 @@ _woz_banner_vote.
 ###nativendo-articlemiddle
 ###nativendo-articletop
 ###nativendo-hometop
+###nativendo-marginal
+###nativendo-oms-infeed
 ###o2freikarte
 ###oms_gpt_billboard
 ###oms_gpt_outofpage
@@ -2458,7 +2460,6 @@ bz-berlin.de###mrec
 meetingpoint-brandenburg.de###myspacerinner
 meetingpoint-brandenburg.de###myspacerright
 fupa.net###nab_container
-mz-web.de###nativendo-marginal
 balaton-zeitung.info###nav_menu-2
 wiiunews.at###newupcoming
 namibia-forum.ch###nfad-inner
