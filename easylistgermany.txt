@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107021438
+! Version: 202107021440
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2021 14:38 UTC
+! Last modified: 02 Jul 2021 14:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1775,6 +1775,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||queer.de/gfx/air-france-presented-by-
 ||queer.de/gfx/mein-kondom-
 ||radio-oberland.de/images/banners/
+||radio-oldtimer.de/fileadmin/Bilder/Banner/
 ||radio2000.it^*/banner_
 ||radiobeo.ch/wp-content/uploads/*_Nachtangebote_
 ||radiotirol.it/uploads/beitrag/*/Banner_300x87.gif
@@ -3408,7 +3409,7 @@ heimspiel-online.de##img[width="150"][height="111"]
 prewarcar.de##img[width="160"][height="92"]
 messweb.de##img[width="250"]
 fcschweinfurt1905.de##img[width="280"][height="160"]
-pi-news.net,silentworld.eu##img[width="300"]
+pi-news.net,radio-oldtimer.de,silentworld.eu##img[width="300"]
 gamepro.de##img[width="300"][height="246"]
 fruchthandel.de,mygermantimes.com,via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
 nh24.de##img[width="330"][height="220"]
