@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107021547
+! Version: 202107021553
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2021 15:47 UTC
+! Last modified: 02 Jul 2021 15:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2411,7 +2411,6 @@ mtb-news.de###header
 mtb-news.de###header-banner-mobile
 diegrenzgaenger.lu###header-wrapper + div[class="row "]
 klamm.de###header_main
-1000ps.de###headerbannercontainer
 amazon.de###heroQuickPromo_feature_div
 ladies.de###home-teaser
 nibelungen-kurier.de###homeDisplay
@@ -2845,6 +2844,7 @@ nordschleswiger.dk##.component-code-snippet
 tvg-grosssachsen.de##.cont-60
 ak-kurier.de,nr-kurier.de,ww-kurier.de##.container-banner
 deutscherskiverband.de##.container-banner-2
+1000ps.at,1000ps.de##.container-billboard
 goslarsche.de##.container_skyscraper
 hoerzu.de##.content-amazon
 kostenlosspielen.net##.content-main-box-300x250
@@ -3227,6 +3227,7 @@ nydus.org,sbb.it##.werb
 fernsehserien.de##.werbemittel
 winfuture-forum.de##.wf_gcsi
 radfahren.de,radsport-rennrad.de##.wide-banner
+1000ps.ch##.wideboard-cad
 nau.ch##.wideboard-top
 aerotelegraph.com##.widget--marktplatz
 melodieundrhythmus.com##.widget-3
