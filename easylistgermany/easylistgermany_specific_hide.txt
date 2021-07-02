@@ -973,7 +973,7 @@ astronomie.de##.tx-sf-banners
 bayernwelle.de##.type-banner
 funcloud.club##.underContentA
 flz.de##.user-flzads-pi1
-aerokurier.de,caravaning.de,cavallo.de,elektrobike-online.com,flugrevue.de,motorradonline.de,promobil.de##.v-A_-commercial
+aerokurier.de,caravaning.de,cavallo.de,elektrobike-online.com,flugrevue.de,motorradonline.de,outdoor-magazin.com,promobil.de##.v-A_-commercial
 hallescherfc.de,pfalz-echo.de##.vc_carousel-inner
 vfl.de##.vc_custom_1544363997968
 gn-online.de##.verticalCarousel
@@ -1276,6 +1276,7 @@ mopo.de#?#.main-preview:-abp-has(.anzeige-label)
 motorradonline.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 motorradonline.de#?#.v-A_-topteaser__rotationbox__item:-abp-has(.v-A_-teaser__tag--ad)
 o-sport.de#?#.card-body:-abp-contains(Sponsoren)
+outdoor-magazin.com#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
 promiflash.de#?#.onlyDesktop:-abp-has(div.adContainer)
 promobil.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
