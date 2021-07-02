@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107021624
+! Version: 202107021632
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2021 16:24 UTC
+! Last modified: 02 Jul 2021 16:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2959,6 +2959,7 @@ islamische-zeitung.de##.islam-widget
 pragerzeitung.cz##.item-advert
 interaktiv.tagesspiegel.de##.jobunion-container
 kochbar.de##.kb-home-medrec-halfpage
+1000ps.de##.kleinueber > .row + div > .topzubehoeranzeige-berichte
 sexgeschichten.com##.kosmonaut_120x600
 sexgeschichten.com##.kosmonaut_300x250
 holstein-kiel.de##.ksv-sponsoren-footer
