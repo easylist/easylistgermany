@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107021553
+! Version: 202107021556
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2021 15:53 UTC
+! Last modified: 02 Jul 2021 15:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3250,7 +3250,7 @@ neuwagen.de##a[class="placement"]
 mobilegeeks.de##a[data-eventcategory="Kooperation"]
 t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
-donau3fm.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,via-ferrata.de##a[href*="//bit.ly/"]
+donau3fm.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,spox.com,via-ferrata.de##a[href*="//bit.ly/"]
 amigafuture.de##a[href*="/boardheaderads/"]
 erogeschichten.com##a[href*="/go/"]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
