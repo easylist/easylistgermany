@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107021712
+! Version: 202107021716
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2021 17:12 UTC
+! Last modified: 02 Jul 2021 17:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2896,6 +2896,7 @@ de.motor1.com##.f1de-container
 fcbayern.com##.fcb-ad-banner-container
 bunte.de##.fe-channel-item--promo
 ff-bz.com##.ff-ba
+fussballinfo.net##.field--name-dynamic-token-fieldnode-wett-tipps-4-wettanbieter-h2 + .field--name-dynamic-block-fieldnode-top-3-anbieter
 floatmagazin.de##.float-widget
 tvinfo.de##.floatLeft[style="padding:10px;"]
 gwd-minden.de##.footer
