@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107021632
+! Version: 202107021635
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2021 16:32 UTC
+! Last modified: 02 Jul 2021 16:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2761,6 +2761,7 @@ erotikforum.at##.bannerWrapper
 bluray-disc.de,der-farang.com##.banner_container
 hallelife.de##.banner_image
 der-farang.com##.banner_page_top
+lerntippsammlung.de##.banner_rechts
 dastelefonbuch.de,dnv-online.net##.banner_top
 handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
@@ -3388,6 +3389,7 @@ amazon.de##div[id^="sp_detail"]
 supertipp-online.de##div[id^="super-"]
 wochenblick.at##div[id^="woche-"]
 weristdeinfreund.de##div[style*="display: block ! important"]
+lerntippsammlung.de##div[style*="width:300px;height:250px;"]
 go2android.de##div[style="border: 1px solid #000; padding: 5px; margin-bottom: 15px; background: url(https://www.go2android.de/wp-content/plugins/amazonsimpleadmin/img/amazon_DE_small.gif) right bottom no-repeat #ffffff;"]
 wirtschaftslexikon24.com##div[style="float:left;clear:left;height:620px;width:180px;padding-top:15px;"]
 breakpoint.untergrund.net##div[style="float:right; width: 110px; margin-left: 15px; margin-top: 12px; margin-bottom: 15px; padding: 2px 6px; text-align: center; border: 1px solid black; background:white; line-height: 2em; color: black;"]
