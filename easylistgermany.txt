@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107021545
+! Version: 202107021547
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2021 15:45 UTC
+! Last modified: 02 Jul 2021 15:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2411,6 +2411,7 @@ mtb-news.de###header
 mtb-news.de###header-banner-mobile
 diegrenzgaenger.lu###header-wrapper + div[class="row "]
 klamm.de###header_main
+1000ps.de###headerbannercontainer
 amazon.de###heroQuickPromo_feature_div
 ladies.de###home-teaser
 nibelungen-kurier.de###homeDisplay
