@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107021502
+! Version: 202107021507
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2021 15:02 UTC
+! Last modified: 02 Jul 2021 15:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -414,6 +414,7 @@ _woz_banner_vote.
 ##.tx-scandesk-werbung
 ##.undertitlewerbung
 ##.userfunc-ad
+##.videowerbung
 ##.werb_container
 ##.werb_textlink
 ##.werbeadd_ueber
@@ -2000,6 +2001,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||unterwasserwelt.de/wp-content/uploads/*/Cressi-premiumsite-
 ||unterwasserwelt.de/wp-content/uploads/*/Footer-Premiumsite-
 ||unterwasserwelt.de/wp-content/uploads/*/hamatamangroves-banner_footer-premiumsite-
+||velomotion.de^*/featured-ad.js
 ||vfb.de/?proxy=img/hauptsponsor_
 ||vfb.de^*/sponsoren/
 ||vfl.de/sportmedia/assets/sunmaker_logo.svg
