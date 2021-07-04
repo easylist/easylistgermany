@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107021732
+! Version: 202107041100
 ! Title: EasyList Germany
-! Last modified: 02 Jul 2021 17:32 UTC
+! Last modified: 04 Jul 2021 11:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3273,6 +3273,7 @@ bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
 donau3fm.de,isaswomo.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,spox.com,via-ferrata.de##a[href*="//bit.ly/"]
 amigafuture.de##a[href*="/boardheaderads/"]
 erogeschichten.com##a[href*="/go/"]
+tarnkappe.info##a[href*="/hide.me/de/?friend="]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
 ostfussball.com##a[href*="/out/"]
 bild.de##a[href*="/partner/"]
@@ -3281,6 +3282,7 @@ strippokerregeln.com##a[href="/www/888casino"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
 t-online.de##a[href="https://gebrauchtwagen-suche.t-online.de/marke-skoda/modell-superb"]
 tarnkappe.info##a[href^=" https://www.bit.ly/"]
+tarnkappe.info##a[href^=" https://www.rokkr.net/promo/"]
 hammerporno.xxx##a[href^="//plx.hammerporno.xxx/pool_link/"]
 herthabsc.de##a[href^="/de/hertha/sponsoren/exklusiv-partner/uebersicht/page/"]
 bastel-elfe.de##a[href^="banners.php?"]
