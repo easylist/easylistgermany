@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107051458
+! Version: 202107051506
 ! Title: EasyList Germany
-! Last modified: 05 Jul 2021 14:58 UTC
+! Last modified: 05 Jul 2021 15:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1181,6 +1181,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||areadvd.de/images/*/Teufel_100x150.gif
 ||areadvd.de/images/*/Teufel_300x25.png
 ||areadvd.de/IOTAVX.jpg
+||as.chartsurfer.de^
 ||astronomie.de/uploads/tx_sfbanners/
 ||astrowetter.com/surftipps/
 ||astrowetter.com/tipps/
@@ -1271,6 +1272,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||casinowelt.com/images/spinit.jpg
 ||cathkathcatt.ch^*/banner-
 ||cathkathcatt.ch^*/banner_
+||chartsurfer.de/getthead.php?
 ||cherry.ch/images/banner/
 ||chip-secured-download.de/tmp/free-service-hotline.png$domain=chip.de
 ||cine4home.de^*/HKA-C4Hb.gif
@@ -3377,6 +3379,7 @@ ww3.cad.de##body > table[width="100%"][border="0"]:first-child
 abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
 3dchip.de##div[align="center"][width="468px"] > table[height="60"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 bitreporter.de##div[class$="-adlabel"]
+chartsurfer.de##div[class*="adszone-"]
 homegate.ch##div[class^="AdSlotContainer_"]
 t-online.de##div[class^="Tsshopst"]
 quoka.de##div[class^="div-gpt-"]
