@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107051447
+! Version: 202107051454
 ! Title: EasyList Germany
-! Last modified: 05 Jul 2021 14:47 UTC
+! Last modified: 05 Jul 2021 14:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -390,6 +390,7 @@ _woz_banner_vote.
 ##.news-item-werbung
 ##.newswerbung
 ##.nfy-sebo-ad
+##.pane-klambt-ads-klambt-adserver-medrectangle
 ##.popup_werbung_oben_tom
 ##.popup_werbung_rechts_tom
 ##.ps-trackingposition_Werbungskasten
@@ -2879,6 +2880,7 @@ spox.com##.dazn
 dubisthalle.de##.dbh-widget
 deutschsex.com,deutschsex.mobi##.default__interest-block
 deutschsex.com##.default__realtive-block
+ok-magazin.de##.define
 segeljournal.com##.displaybanner-container
 volksblatt.li##.divAdd_Banner
 tieronline.ch##.djslider-in
