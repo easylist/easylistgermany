@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107051556
+! Version: 202107051600
 ! Title: EasyList Germany
-! Last modified: 05 Jul 2021 15:56 UTC
+! Last modified: 05 Jul 2021 16:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1125,6 +1125,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
 ||112-magazin.de/images/banners/
+||14-tage-wettervorhersage.de^*/anzeige_
 ||149.13.77.20^$domain=ww3.cad.de
 ||1und1.de/movein_$xmlhttprequest
 ||3druck.com/wp-content/uploads/*/3Dmensionals-3druckcom3.jpg
@@ -2837,6 +2838,7 @@ anzeigervomrottal.ch##.carousel
 my105.ch##.channel-sponsor
 typo3blogger.de##.chemical_sitelogo_r
 autoscout24.at,autoscout24.de##.cl-billboad-wrapper
+14-tage-wettervorhersage.de##.clearit_s
 wolfsrevier.de##.client_wrapper
 pixelio.de##.clipad
 focus.de##.cls_slot_xxoutstreamxx
