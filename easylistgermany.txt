@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107051506
+! Version: 202107051511
 ! Title: EasyList Germany
-! Last modified: 05 Jul 2021 15:06 UTC
+! Last modified: 05 Jul 2021 15:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1288,6 +1288,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||connect.de^*/partner.js
 ||connectiv.events/wp-content/uploads/*/banner_
 ||costa-info.de/images/banner_home/
+||countrymusicnews.de/images/banners/
 ||crosswater-job-guide.com/pics/banner_
 ||curt.de^*/gastrobanner/
 ||curt.de^*/petabanner.jpg
@@ -2697,7 +2698,7 @@ oberberg-aktuell.de##.adv-indicator
 fuldainfo.de,oberberg-aktuell.de##.adv-link
 teneriffa-aktuell.com##.adv-wrapper
 blinker.de##.adv_widget
-eurogamer.de,morningstar.de,suedkurier.de,weser-kurier.de##.advert
+countrymusicnews.de,eurogamer.de,morningstar.de,suedkurier.de,weser-kurier.de##.advert
 bankkaufmann.com##.advert_
 onvista.de##.advertisedFund
 abendblatt.de,extremnews.com##.advertisement
