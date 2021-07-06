@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107061446
+! Version: 202107061449
 ! Title: EasyList Germany
-! Last modified: 06 Jul 2021 14:46 UTC
+! Last modified: 06 Jul 2021 14:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1322,6 +1322,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||dieantenne.it^*/Viropa.png
 ||diebrennstoffzelle.de/images/banner/
 ||digitaledienste.web.de/freemail/browser_decide/?$subdocument
+||digitalfernsehen.de/wp-content/uploads/*/NPAW-
 ||dnv-online.net/_data/*_Superbanner_
 ||dnv-online.net/_data/Fullsize-Banner.gif
 ||drachenbootfestival-hannover.de/grafik/partner/
@@ -3433,6 +3434,7 @@ raptastisch.net##div[style="height: 300px;"]
 boerse-social.com##div[style="height:80px;background-color:#fff"]
 nydus.org##div[style="height:90px;overflow:hidden;text-align:center;"]
 iphone-tricks.de##div[style="margin-bottom:.5em;padding-top:.5em;min-height: 270px;display: flex;justify-content: center;align-items: center"]
+digitalfernsehen.de##div[style="margin-bottom:10px"]
 shopanbieter.de##div[style="margin: 30px 0px 30px 0px;padding: 10px; border-width: 2px; border-style: dashed; background-color: #f6f5f2;"]
 fussballeuropa.com##div[style="margin:10px 0 5px 0;min-height:250px;"]
 popkultur.de##div[style="min-height: 280px;"]
