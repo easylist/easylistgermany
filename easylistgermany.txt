@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107061518
+! Version: 202107061528
 ! Title: EasyList Germany
-! Last modified: 06 Jul 2021 15:18 UTC
+! Last modified: 06 Jul 2021 15:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3034,6 +3034,7 @@ basses-blatt.de,beobachter-online.de,blaue-blume.tv,einbecker-morgenpost.de,gand
 aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthurer-zeitung.ch,zugerwoche.ch##.mod_printanzeigen
 schalke04.de##.module-advertising
 jetztspielen.de##.mpu
+finanzen.net##.mrec-height-prefix
 mtb-news.de##.mtbn-fotos-incontent__container--mobile
 mtb-news.de##.mtbnews-forum__in-thread
 mtb-news.de##.mtbnews-forum__mobile-top
