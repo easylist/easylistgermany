@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107061457
+! Version: 202107061500
 ! Title: EasyList Germany
-! Last modified: 06 Jul 2021 14:57 UTC
+! Last modified: 06 Jul 2021 15:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1589,6 +1589,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||ketoforum.de/Banner/
 ||kinderlandparks.de/cms/media/thumbnail_5240_w_650.jpg
 ||kitzanzeiger.at^*/sponsoren/
+||klexikon.de/banner/
 ||koeln.de^*/werbung/
 ||kriminalpolizei.de/fileadmin/user_upload/*-Skyscraper_
 ||kriminalpolizei.de/fileadmin/user_upload/*_728x100.
@@ -2403,6 +2404,7 @@ spreeblick.com###flattr > a
 spreeblick.com###flattr > p
 finanznachrichten.de###fn-ankuendigung
 rasa.ch###footer
+zum.de###footer-banner-frame
 tennis.de###footer-partner
 kremser-sc.at###footer-widgets
 b2run.de###footerpartners
