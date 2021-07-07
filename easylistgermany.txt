@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107071613
+! Version: 202107071622
 ! Title: EasyList Germany
-! Last modified: 07 Jul 2021 16:13 UTC
+! Last modified: 07 Jul 2021 16:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3282,6 +3282,8 @@ nau.ch##.wideboard-top
 aerotelegraph.com##.widget--marktplatz
 melodieundrhythmus.com##.widget-3
 wp-koenigin.de##.widget__image--banner
+gameswirtschaft.de##.widget_aawp_widget_bestseller
+gameswirtschaft.de##.widget_aawp_widget_box
 nibelungen-kurier.de##.widget_dkge_wrapper
 zitate-online.de##.witz > .bewertung + .detaillink + p:last-child
 zitate-online.de##.witz > .bewertung + p:last-child
