@@ -1045,6 +1045,7 @@ games-mag.de##.yftovjn-container
 guteporno.com##.zeigenfick
 zenideen.com##.zenid-adlabel
 zeno.org##.zenoLSInnerProductTableRightAmazon
+zwischengas.com##.zgsky
 german-bash.org##.zitat > div[style="width:300px;"]
 heise.de##A-PATERNOSTER
 neuwagen.de##a[class="placement"]
@@ -1338,3 +1339,4 @@ tonight.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Anzeige))
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
+zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
