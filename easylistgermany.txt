@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107101626
+! Version: 202107101632
 ! Title: EasyList Germany
-! Last modified: 10 Jul 2021 16:26 UTC
+! Last modified: 10 Jul 2021 16:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3411,6 +3411,7 @@ chartsurfer.de##div[class*="adszone-"]
 homegate.ch##div[class^="AdSlotContainer_"]
 t-online.de##div[class^="Tsshopst"]
 quoka.de##div[class^="div-gpt-"]
+costanachrichten.com##div[class^="lp_track_"]
 mtb-news.de##div[class^="mtbnews-ad-container"]
 via-ferrata.de##div[class^="overlay-"]
 rundschau.info##div[class^="runds-werbung-"]
