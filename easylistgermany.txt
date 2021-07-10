@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107101555
+! Version: 202107101603
 ! Title: EasyList Germany
-! Last modified: 10 Jul 2021 15:55 UTC
+! Last modified: 10 Jul 2021 16:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -634,6 +634,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||chatintr.com^$third-party
 ||chatntr.com^$third-party
 ||ci-marketing.de^$third-party
+||cmadserver.de^$third-party
 ||codes.wai.it^$third-party
 ||conative.de^$third-party
 ||connects.ch^$third-party
