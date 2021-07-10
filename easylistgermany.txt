@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107101522
+! Version: 202107101530
 ! Title: EasyList Germany
-! Last modified: 10 Jul 2021 15:22 UTC
+! Last modified: 10 Jul 2021 15:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3297,6 +3297,7 @@ games-mag.de##.yftovjn-container
 guteporno.com##.zeigenfick
 zenideen.com##.zenid-adlabel
 zeno.org##.zenoLSInnerProductTableRightAmazon
+zwischengas.com##.zgsky
 german-bash.org##.zitat > div[style="width:300px;"]
 heise.de##A-PATERNOSTER
 neuwagen.de##a[class="placement"]
@@ -3590,6 +3591,7 @@ tonight.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Anzeige))
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
+zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist.txt ***
 @@/gujAd.$domain=11freunde.de|brigitte.de|eltern.de|gala.de|geo.de|kochbar.de|n-tv.de|stern.de|vip.de|wetter.de
