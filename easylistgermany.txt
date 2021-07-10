@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107101533
+! Version: 202107101555
 ! Title: EasyList Germany
-! Last modified: 10 Jul 2021 15:33 UTC
+! Last modified: 10 Jul 2021 15:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3116,6 +3116,8 @@ mallorcazeitung.es##.publi_mega
 mallorcamagazin.com##.publicidad
 lifechannel.ch##.pz_cont
 radiobeo.ch##.qf-standard-banner-wrapp
+teneriffa-news.com##.qm-head
+teneriffa-news.com##.qm-side
 jamesfm.ch##.qt-sponsor
 codecheck.info##.r
 videoaktiv.de##.rec
@@ -3451,6 +3453,7 @@ iphone-tricks.de##div[style="margin-bottom:.5em;padding-top:.5em;min-height: 270
 digitalfernsehen.de##div[style="margin-bottom:10px"]
 shopanbieter.de##div[style="margin: 30px 0px 30px 0px;padding: 10px; border-width: 2px; border-style: dashed; background-color: #f6f5f2;"]
 fussballeuropa.com##div[style="margin:10px 0 5px 0;min-height:250px;"]
+teneriffa-news.com##div[style="min-height: 280px; margin-top: -20px;"]
 popkultur.de##div[style="min-height: 280px;"]
 gamereactor.de##div[style="min-height: 600px; margin-bottom: 20px;"]
 nordbayern.de##div[style="min-height:290px"]
