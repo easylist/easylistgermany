@@ -43,7 +43,7 @@
 ||bodyguardapotheke.com^*/banner/
 ||boerse.bz/toplist/vote/$third-party
 ||boerse.bz^*/banners/$third-party
-||booking.com/flexiproduct.html$subdocument,domain=italien.de
+||booking.com^$subdocument,domain=italien.de|unser-seenland.de
 ||brandenburger-salzgrotte.de/webbanner/
 ||bumskontakte.ch/banner/
 ||cdn.plus500.com/media/banners/
