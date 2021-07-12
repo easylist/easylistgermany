@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107121622
+! Version: 202107121632
 ! Title: EasyList Germany
-! Last modified: 12 Jul 2021 16:22 UTC
+! Last modified: 12 Jul 2021 16:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1477,6 +1477,10 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||gota6.ch/images/uploads/*/clubBannerPremium/
 ||gota6.ch/images/uploads/*/overlay/
 ||griechenland.net/images/banners/
+||griechenlandaktuell.gr/_borders/agrafik_urlaubsreklamation1.jpg
+||griechenlandaktuell.gr/_borders/faehren_info_w.gif
+||griechenlandaktuell.gr/_borders/reisebaner.gif
+||griechenlandaktuell.gr/news/banner_
 ||grower.ch/partner/
 ||gutesexfilme.com/cpanel/
 ||gwars.de/index.php?page=advertisingpage
