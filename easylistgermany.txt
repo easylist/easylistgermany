@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107121517
+! Version: 202107121533
 ! Title: EasyList Germany
-! Last modified: 12 Jul 2021 15:17 UTC
+! Last modified: 12 Jul 2021 15:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1407,7 +1407,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||filmz.de/f/s.htm
 ||filmz.de/f/sa.htm
 ||filmz.de/f/u.htm
-||finanzen.ch/Images/b_partner/
+||finanzen.ch/images/b_partner/
 ||finanzen.net/images/a_anzeige/
 ||finanzen.net/images/b_euro_eurams/banner_wiki_eas.png
 ||finanzen.net/images/b_partner/
@@ -2360,6 +2360,7 @@ duden.de###block-dudende-d-970x250-1billboard
 duden.de###block-leaderboard2ndslot
 duden.de###block-lexemleaderboardunten
 formel1.de###bs-container
+finanzen.ch###bx-swiss-video-container
 vsport.at###c17
 dsv.de###c3296
 hsg-wetzlar.de###c5307
@@ -3438,6 +3439,7 @@ formel1.de##div[id="outer_sas_"]
 t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
 t-online.de##div[id^="T-"][oncontextmenu="return false"]
 ebay.de##div[id^="ad_html_"]
+finanzen.ch##div[id^="adnz_"]
 areadvd.de##div[id^="aread-"]
 finanzen100.de,spielen.de##div[id^="banner_"]
 hpd.de##div[id^="block-views-advertising-"]
