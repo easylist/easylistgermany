@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107121632
+! Version: 202107121637
 ! Title: EasyList Germany
-! Last modified: 12 Jul 2021 16:32 UTC
+! Last modified: 12 Jul 2021 16:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3468,6 +3468,7 @@ go2android.de##div[style="border: 1px solid #000; padding: 5px; margin-bottom: 1
 wirtschaftslexikon24.com##div[style="float:left;clear:left;height:620px;width:180px;padding-top:15px;"]
 breakpoint.untergrund.net##div[style="float:right; width: 110px; margin-left: 15px; margin-top: 12px; margin-bottom: 15px; padding: 2px 6px; text-align: center; border: 1px solid black; background:white; line-height: 2em; color: black;"]
 pixelio.de##div[style="float:right; width: 300px; height: 250px"]
+news.reiseuhu.de##div[style="height: 250px"]
 n-mag.org##div[style="height: 280px; margin: 5px 0 5px 0;"]
 raptastisch.net##div[style="height: 300px;"]
 boerse-social.com##div[style="height:80px;background-color:#fff"]
