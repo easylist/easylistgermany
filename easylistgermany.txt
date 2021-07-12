@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107121434
+! Version: 202107121440
 ! Title: EasyList Germany
-! Last modified: 12 Jul 2021 14:34 UTC
+! Last modified: 12 Jul 2021 14:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1987,6 +1987,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||tchgdns.de/wp-content/uploads/*_97090.jpg
 ||telefonsexmitcam.com/images/
 ||telefonsexwebcam.com/images/livestrip-
+||teneriffa-aktuell.com/wp-content/uploads/*/banner-
 ||tennisnet.com/widgets/williamhill/
 ||tennistraveller.net/images/banner/
 ||teufelchens.tv/iw_wide.jpg
@@ -3497,6 +3498,8 @@ gamepro.de##img[width="300"][height="246"]
 fruchthandel.de,mygermantimes.com,via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
 nh24.de##img[width="330"][height="220"]
 teneriffa-aktuell.com##img[width="450"][height="300"]
+teneriffa-aktuell.com##img[width="450"][height="700"]
+teneriffa-aktuell.com##img[width="500"]
 basicthinking.de##img[width="500"][height="500"]
 nh24.de##img[width="533"]
 silentworld.eu##img[width="600"]
@@ -3504,6 +3507,7 @@ basicthinking.de##img[width="600"][height="500"]
 hallescherfc.de##img[width="605"][height="690"]
 fruchthandel.de,online-gebuehrenrechner.de,vfl.de##img[width="728"][height="90"]
 teneriffa-aktuell.com##img[width="800"][height="230"]
+teneriffa-aktuell.com##img[width="900"][height="350"]
 t-online.de##img[width="920"][usemap^="#immap"]
 restegourmet.de##li[data-content-type="ad"]
 erogeschichten.com##table[align-center][cellpadding="13"][border="0"][bgcolor="lightgrey"]
