@@ -99,6 +99,7 @@ duden.de###block-dudende-d-970x250-1billboard
 duden.de###block-leaderboard2ndslot
 duden.de###block-lexemleaderboardunten
 formel1.de###bs-container
+finanzen.ch###bx-swiss-video-container
 vsport.at###c17
 dsv.de###c3296
 hsg-wetzlar.de###c5307
@@ -1177,6 +1178,7 @@ formel1.de##div[id="outer_sas_"]
 t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
 t-online.de##div[id^="T-"][oncontextmenu="return false"]
 ebay.de##div[id^="ad_html_"]
+finanzen.ch##div[id^="adnz_"]
 areadvd.de##div[id^="aread-"]
 finanzen100.de,spielen.de##div[id^="banner_"]
 hpd.de##div[id^="block-views-advertising-"]
