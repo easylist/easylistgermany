@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107101632
+! Version: 202107121430
 ! Title: EasyList Germany
-! Last modified: 10 Jul 2021 16:32 UTC
+! Last modified: 12 Jul 2021 14:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1681,6 +1681,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||mysqldumper.de/img/banner-
 ||mysqldumper.de/img/spanischeweihnachtslotterie-
 ||n-land.de/wp-content/uploads/$subdocument
+||nachrichten.es/wp-content/uploads/*/Spanisch-lernen-250x300-
 ||nachrichtenamort.de/cms/wp-content/images/ANZ_
 ||nachtkritik.de/images/contentbannereins_
 ||nachtkritik.de/images/skyscraper_
@@ -2382,7 +2383,8 @@ popkultur.de###custom_html-21
 daily-pia.de,healthhelp.ch,perbene.ch,prnet.at,windowspower.de###custom_html-3
 presse-nachrichten.de###custom_html-4
 radsportjournaltourman.com###custom_html-42
-primavera24.de,radsportjournaltourman.com###custom_html-5
+nachrichten.es,primavera24.de,radsportjournaltourman.com###custom_html-5
+nachrichten.es###custom_html-6
 eu-vertretung.de###custom_html-8
 eu-vertretung.de,kriegsberichterstattung.com###custom_html-9
 wochenblatt.pl###custom_post_widget-6
@@ -2590,7 +2592,7 @@ tennisnet.com###tennisnetWidget
 nh24.de###text-11
 nh24.de###text-13
 blogprojekt.de###text-18
-computerschach.de,nh24.de###text-2
+computerschach.de,nachrichten.es,nh24.de###text-2
 nh24.de###text-21
 bitcoinnews.ch###text-24
 nh24.de###text-26
