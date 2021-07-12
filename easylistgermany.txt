@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107121541
+! Version: 202107121555
 ! Title: EasyList Germany
-! Last modified: 12 Jul 2021 15:41 UTC
+! Last modified: 12 Jul 2021 15:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3436,7 +3436,6 @@ volksblatt.at##div[data-div-ratios="default:696_280|500:300_250"]
 t-online.de##div[data-dy*="Partner:"]
 giga.de##div[data-trigger="sourcepoint-ad"]
 prosiebengames.de##div[data-url-link^="https://track-adspree.com/"]
-formel1.de##div[id="outer_sas_"]
 t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
 t-online.de##div[id^="T-"][oncontextmenu="return false"]
 ebay.de##div[id^="ad_html_"]
@@ -3450,6 +3449,7 @@ boerse.sx##div[id^="edit"][style="padding:0px 0px 6px 0px"] > table[id^="post"][
 foodwissen.de##div[id^="foodw-"]
 journalistenwatch.com##div[id^="journ-"]
 modified-shop.org##div[id^="modifiedwerbung_"]
+formel1.de##div[id^="outer_sas_"]
 handballecke.de##div[id^="promotionHeader"]
 metal-hammer.de##div[id^="sas_"]
 amazon.de##div[id^="sp_detail"]
