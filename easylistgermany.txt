@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107121655
+! Version: 202107121659
 ! Title: EasyList Germany
-! Last modified: 12 Jul 2021 16:55 UTC
+! Last modified: 12 Jul 2021 16:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1836,6 +1836,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||redhocks.de^*/peischer.jpg
 ||redhocks.de^*/sparkasse-landsberg.png
 ||redhocks.de^*/wasserle.png
+||reiseblog7.com/~/advc/
 ||rhein-zeitung.de/cms_media/module_wb/
 ||rheinforum.com^*/banner/
 ||riskcompliance.de/wp-content/uploads/*/Screenshot-Galvanize.png
@@ -2769,6 +2770,7 @@ motorsport-total.com##.anzeige_teas_rect
 motorsport-total.com##.anzeige_teas_rect_ax
 partyamt.de##.anzeigen
 aerzteblatt.de##.anzeigenbox
+reiseblog7.com##.ap
 willhaben.at##.apn-leaderboard-wrapper
 oefb.at##.app-foesvAdSpace
 blick.ch##.appnexus-container
