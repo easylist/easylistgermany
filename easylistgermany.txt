@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107121637
+! Version: 202107121651
 ! Title: EasyList Germany
-! Last modified: 12 Jul 2021 16:37 UTC
+! Last modified: 12 Jul 2021 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1607,6 +1607,11 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||koeln.de^*/werbung/
 ||kriminalpolizei.de/fileadmin/user_upload/*-Skyscraper_
 ||kriminalpolizei.de/fileadmin/user_upload/*_728x100.
+||kroatien-nachrichten.de/wp-content/uploads/*/118487995_307800703629191_3999309709283286875_n.jpg
+||kroatien-nachrichten.de/wp-content/uploads/*/125375586_1887673141371509_4482467756478970036_n.jpg
+||kroatien-nachrichten.de/wp-content/uploads/*/136685650_448400096333860_585562005834626849_n-3.jpg
+||kroatien-nachrichten.de/wp-content/uploads/*/Kuoko_KN_Logo-300x112.jpg
+||kroatien-nachrichten.de/wp-content/uploads/2020/11/Logo.jpg
 ||kronenachrichten.com/wp-content/uploads/banner/
 ||krzbb.de/revive/
 ||laborjournal.de/infos/m99/img/b_
@@ -2071,6 +2076,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||wbbanner.mrn-news.de^
 ||wcm.at/images/attingo.gif
 ||websingles.at/pages/site/de/images/logos/
+||website-editor.net^*/400JpgdpiLogoCropped-46e74a11-320w.jpg$domain=kroatien-nachrichten.de
 ||webwiki.de/images/seobility_
 ||webwork-magazin.net/wp-content/uploads/*/sul-banner-
 ||webwork-magazin.net/wp-content/uploads/*/webdesign-printdesign.gif
@@ -2350,6 +2356,13 @@ port01.com###bannerpos2
 queer.de###bannerrechts
 breakpoint.untergrund.net###banners
 heise.de###bannerzone
+kroatien-nachrichten.de###bdaia-widget-e3-10
+kroatien-nachrichten.de###bdaia-widget-e3-11
+kroatien-nachrichten.de###bdaia-widget-e3-12
+kroatien-nachrichten.de###bdaia-widget-e3-14
+kroatien-nachrichten.de###bdaia-widget-e3-9
+kroatien-nachrichten.de###bdaia-widget-html-4
+kroatien-nachrichten.de###bdaia-widget-html-7
 osthessen-news.de###bigklick
 inside-digital.de,modhoster.de,tikonline.de###bigsize
 magistrix.de###bigsize-top
