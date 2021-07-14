@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107141633
+! Version: 202107141650
 ! Title: EasyList Germany
-! Last modified: 14 Jul 2021 16:33 UTC
+! Last modified: 14 Jul 2021 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1624,6 +1624,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||latina-press.com/media/spanisch-lernen-160.png
 ||lesbenhd.com/cpanel/
 ||lesbenhd.com/img/linklist2/
+||lifeverde.de/files/*-970-x-250-banner-
 ||ligaportal.at/images/promo/
 ||ligaportal.at/images/sponsor_vip/
 ||linkr.top/images/gutschein.gif
@@ -3347,6 +3348,7 @@ zenideen.com##.zenid-adlabel
 zeno.org##.zenoLSInnerProductTableRightAmazon
 zwischengas.com##.zgsky
 german-bash.org##.zitat > div[style="width:300px;"]
+lifeverde.de##.zusatz_billboard
 heise.de##A-PATERNOSTER
 neuwagen.de##a[class="placement"]
 camping.de##a[class^="herobanner-adv"]
