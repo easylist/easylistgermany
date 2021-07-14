@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107141554
+! Version: 202107141606
 ! Title: EasyList Germany
-! Last modified: 14 Jul 2021 15:54 UTC
+! Last modified: 14 Jul 2021 16:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2310,6 +2310,9 @@ webwiki.de###addmetop
 engadinerpost.ch###aditems
 gepostet.com,web.de###ads
 abload.de###adunten + div[style="font-size:8pt; color:#999999; margin-left:39px; width: 728px;"]
+voucherwonderland.com###adup1
+voucherwonderland.com###adup3
+voucherwonderland.com###adup5
 kath.ch###advertising
 quoka.de###advlft
 fussballnationalmannschaft.net###ai_widget-5
