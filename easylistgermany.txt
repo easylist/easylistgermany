@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107141606
+! Version: 202107141619
 ! Title: EasyList Germany
-! Last modified: 14 Jul 2021 16:06 UTC
+! Last modified: 14 Jul 2021 16:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1774,6 +1774,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||pi-news.net/wp-content/uploads/ad-
 ||picdumps.com/ddeal
 ||pixelio.de/resources/widgets/clipdealer_
+||plus.tourispo.com^
 ||pokerfirma.com^*-banner.
 ||pokerfirma.com^*/banner_
 ||pornoaffe.com/cpanel/
@@ -2924,8 +2925,10 @@ hoerzu.de##.content-amazon
 kostenlosspielen.net##.content-main-box-300x250
 kostenlosspielen.net##.content-main-box-728x90
 kostenlosspielen.net##.content-right-box-300x250right
+tourispo.de##.content-teaser-small
 buffed.de,gamezone.de,pcgames.de,pcgameshardware.de##.contentFrameEddie
 koeln.de##.contentRect
+tourispo.de##.contentRefsAside
 mannheimer-morgen.de##.core-commercial
 daswetter.com##.creatividad
 u1-radio.at##.csc-partner
