@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107151415
+! Version: 202107151431
 ! Title: EasyList Germany
-! Last modified: 15 Jul 2021 14:15 UTC
+! Last modified: 15 Jul 2021 14:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2086,6 +2086,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||webwork-magazin.net/wp-content/uploads/*/sul-banner-
 ||webwork-magazin.net/wp-content/uploads/*/webdesign-printdesign.gif
 ||weekli.systems/media/banner/
+||werbemanager.w24.at^
 ||wetteronline.de/mdr/p_adplace/
 ||whocallsyou.de/files/*/rechtsch-baby.jpg
 ||whocallsyou.de/files/*/rechtsschutz011.jpg
@@ -2800,6 +2801,7 @@ hsc2000.de##.avia-slideshow-1
 nrwhits.de##.ax-medium-rectangle-n
 browsergames.de##.background
 1001spiele.de,6navi.ch,anixehd.tv,bankkaufmann.com,buchmarkt.de,deavita.com,fruchtportal.de,fussballgucken.info,goldseiten.de,hcb.net,jobagent.ch,juve.de,komoedie-steinstrasse.de,laufen.de,macerkopf.de,melodieundrhythmus.com,modhoster.de,pfaffenhofen-today.de,pixelio.de,salue.de,sexnews.ch,svs1916.de##.banner
+w24.at##.banner-aspect-ratio
 spielkarussell.de##.banner-btf-side-rectangle
 skipper-bootshandel.de##.banner-container
 wochenblatt.cc##.banner-header-left
