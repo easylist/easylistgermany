@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107151610
+! Version: 202107151618
 ! Title: EasyList Germany
-! Last modified: 15 Jul 2021 16:10 UTC
+! Last modified: 15 Jul 2021 16:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2763,6 +2763,7 @@ kauf6.com##.advertisments
 speedweek.com##.advheader
 erf.de,greenbyte.ch,rtl.de##.adwrapper
 guteporno.com##.aff-inhalt-geil-spalte
+einsteiger-keyboard.de##.affiliate-button
 pcgames.de##.affiliateBelowArticle
 radiodeutsch.com##.ai-placement
 blitzrechner.de##.ai_widget
