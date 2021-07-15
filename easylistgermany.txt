@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107151558
+! Version: 202107151610
 ! Title: EasyList Germany
-! Last modified: 15 Jul 2021 15:58 UTC
+! Last modified: 15 Jul 2021 16:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3657,6 +3657,7 @@ handelszeitung.ch#?#.teaser-m-default:-abp-contains(Publireportage)
 jameda.de#?#li:-abp-has([data-testid="advertisementSign-flag"])
 laola1.at#?#.block.medium:-abp-has(a[href^="https://dt.sportradar.com/"])
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
+marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
 mmnews.de#?#.sp-module:-abp-has(span:-abp-contains(Kleinanzeigen))
 mopo.de#?#.main-preview:-abp-has(.anzeige-label)
 motorradonline.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
