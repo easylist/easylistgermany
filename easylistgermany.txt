@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107151514
+! Version: 202107151527
 ! Title: EasyList Germany
-! Last modified: 15 Jul 2021 15:14 UTC
+! Last modified: 15 Jul 2021 15:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3502,6 +3502,7 @@ foodwissen.de##div[id^="foodw-"]
 ibiza-heute.de##div[id^="ibiza-"]
 journalistenwatch.com##div[id^="journ-"]
 modified-shop.org##div[id^="modifiedwerbung_"]
+tonspion.de##div[id^="netse-"]
 formel1.de##div[id^="outer_sas_"]
 handballecke.de##div[id^="promotionHeader"]
 metal-hammer.de##div[id^="sas_"]
