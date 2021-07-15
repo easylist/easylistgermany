@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107151334
+! Version: 202107151342
 ! Title: EasyList Germany
-! Last modified: 15 Jul 2021 13:34 UTC
+! Last modified: 15 Jul 2021 13:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3404,6 +3404,7 @@ msn.com,pcwelt.de##a[href^="https://clkde.tradedoubler.com/"]
 t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
 onepiece-tube.com##a[href^="https://cutt.ly/"]
 ligaportal.at##a[href^="https://de.johnnybet.com/"]
+msn.com##a[href^="https://ebay.at/"]
 pornotim.com,reiseziele.ch,xhamsterde.com##a[href^="https://goo.gl/"]
 hoerbuch.us##a[href^="https://hoerbuch.us/dll/"]
 hoerbuch.us##a[href^="https://linksnappy.com/?ref="]
