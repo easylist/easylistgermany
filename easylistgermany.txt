@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107201719
+! Version: 202107201728
 ! Title: EasyList Germany
-! Last modified: 20 Jul 2021 17:19 UTC
+! Last modified: 20 Jul 2021 17:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3536,6 +3536,7 @@ handballecke.de##div[id^="promotionHeader"]
 metal-hammer.de##div[id^="sas_"]
 amazon.de##div[id^="sp_detail"]
 supertipp-online.de##div[id^="super-"]
+tippscout.de##div[id^="tipps-"]
 wochenblick.at##div[id^="woche-"]
 weristdeinfreund.de##div[style*="display: block ! important"]
 lerntippsammlung.de##div[style*="width:300px;height:250px;"]
