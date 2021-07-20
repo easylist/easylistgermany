@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107201539
+! Version: 202107201603
 ! Title: EasyList Germany
-! Last modified: 20 Jul 2021 15:39 UTC
+! Last modified: 20 Jul 2021 16:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2463,7 +2463,7 @@ finanznachrichten.de###fn-ankuendigung
 rasa.ch###footer
 zum.de###footer-banner-frame
 tennis.de###footer-partner
-kremser-sc.at###footer-widgets
+americaurlaub.de,kremser-sc.at###footer-widgets
 b2run.de###footerpartners
 dforum.net###forumbanner
 mufa.de###freikarten
@@ -2640,6 +2640,7 @@ liveticker.com###tab-live-odds
 tennisnet.com###tennisnetWidget
 nh24.de###text-11
 nh24.de###text-13
+americaurlaub.de###text-14
 blogprojekt.de###text-18
 computerschach.de,nachrichten.es,nh24.de###text-2
 nh24.de###text-21
