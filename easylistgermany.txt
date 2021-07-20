@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107201801
+! Version: 202107201823
 ! Title: EasyList Germany
-! Last modified: 20 Jul 2021 18:01 UTC
+! Last modified: 20 Jul 2021 18:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3378,6 +3378,7 @@ kt1.at##.widget-7
 wp-koenigin.de##.widget__image--banner
 gameswirtschaft.de##.widget_aawp_widget_bestseller
 gameswirtschaft.de##.widget_aawp_widget_box
+usa-info.net##.widget_atkp_widget
 diesachsen.de##.widget_commerce
 nibelungen-kurier.de##.widget_dkge_wrapper
 zitate-online.de##.witz > .bewertung + .detaillink + p:last-child
