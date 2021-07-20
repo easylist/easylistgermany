@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107151630
+! Version: 202107201014
 ! Title: EasyList Germany
-! Last modified: 15 Jul 2021 16:30 UTC
+! Last modified: 20 Jul 2021 10:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -430,6 +430,7 @@ _woz_banner_vote.
 ##.werbeflaeche
 ##.werbehinweis
 ##.werbekennzeichnerrectangle
+##.werbemainneu
 ##.werbenbox
 ##.werbepause
 ##.werblinks
@@ -1291,6 +1292,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||clap-club.de/wp-content/uploads/oeckl_Adress-Service_
 ||climbing.de/fileadmin/banner/
 ||cloudfront.net^$domain=hd-streams.org
+||code.bergsteigen.com^
 ||codecheck.info/i/CTA-banner.png
 ||com-magazin.de/img/*/Commerce-Week_450x94.jpeg
 ||computerschach.de^*/shredder_130x80.gif
@@ -2005,6 +2007,9 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||tchgdns.de/wp-content/uploads/*-300-600.jpg
 ||tchgdns.de/wp-content/uploads/*_160600.jpg
 ||tchgdns.de/wp-content/uploads/*_97090.jpg
+||teilzeithelden.de/wp-content/uploads/*-Werbug-
+||teilzeithelden.de/wp-content/uploads/*/DTRPG-Sidebar.jpg
+||teilzeithelden.de/wp-content/uploads/*/Teilzeit-Truant-
 ||telefonsexmitcam.com/images/
 ||telefonsexwebcam.com/images/livestrip-
 ||teneriffa-aktuell.com/wp-content/uploads/*/banner-
@@ -2308,7 +2313,9 @@ neumarktaktuell.de###Werbung
 ww3.cad.de###WzTtDiV + table[width="100%"][border="0"]
 spielesite.com###acTop
 sis-handball.de###ad
-timeanddate.de###ad1
+pokewiki.de,timeanddate.de###ad1
+pokewiki.de###ad2
+pokewiki.de###ad3
 myboerse.bz,thinkpad-forum.de###ad_global_below_navbar
 kalenderwoche.de###addemam-wrapper
 webwiki.de###addmeright
@@ -2446,6 +2453,8 @@ ehc-lustenau.at###djslider-loader229
 finanznachrichten.de###dmr2
 dnv-online.net###dnvsuperbanner
 drehscheibe-online.de###dsBanner
+teilzeithelden.de###enhancedtextwidget-11
+ùteilzeithelden.de###enhancedtextwidget-12
 fremdwort.de###ezisgib
 autoextrem.de,usp-forum.de,win-10-forum.de,winboard.org###fh-outside-top
 spreeblick.com###flattr > a
@@ -2776,7 +2785,7 @@ digitalfernsehen.de##.amazon-auto-links
 forum.worldofplayers.de##.amazon-search
 winfuture.de##.amazon_widget_w660
 fairytail-tube.org##.amz
-112-magazin.de,filmpost.de,gesetzlichekrankenkassen.de,helles-koepfchen.de,lehrerfreund.de,medizin-netz.de,oktoberfestportal.de,pharmazeutische-zeitung.de,sportal.de,touristik-aktuell.de,tweakpc.de,vhs-ol.de##.anzeige
+112-magazin.de,filmpost.de,gesetzlichekrankenkassen.de,helles-koepfchen.de,lehrerfreund.de,medizin-netz.de,oktoberfestportal.de,pharmazeutische-zeitung.de,radsport-news.com,sportal.de,touristik-aktuell.de,tweakpc.de,vhs-ol.de##.anzeige
 designtagebuch.de##.anzeige-links
 ariva.de##.anzeigeText
 lippe-news.de##.anzeige_content
@@ -3138,6 +3147,7 @@ oekoportal.de##.panel-display > .panel-col-side > #block-views-website-block-1
 ddl-warez.to##.panel-heading[style="text-align:center;background-color:yellow;font-size:13px;color:#555555;"]
 ddl-warez.to##.panel-heading[style="text-align:center;background-color:yellow;font-size:16px;color:#555555;"]
 paradiso.de##.paradiso-hp-ads-horizontal
+spielregeln.de##.parallax_link
 duesseldorfer-anzeiger.de##.park-portal
 1000ps.at,1000ps.ch,1000ps.de,broncos.it,eulen-ludwigshafen.de,fc-suedtirol.com,fck.de,hc-erlangen-ev.de,hcinnsbruck.at,hsc-bad-neustadt.de,ibash.de,plattentests.de,veu-feldkirch.at##.partner
 bhc06.de##.partner-teaser
@@ -3160,10 +3170,12 @@ reise-preise.de##.port.hi
 iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:center;"]
 ostbelgiendirekt.be##.pr-area
 prad.de##.prad-td-header-sp-recs
+oljo.de##.preisboxinner
 frischauf-gp.de##.premiumPartner
 golfv.de##.premium_firm_list
 f95.de##.premiumpartner
 dasoertliche.de##.premiumtreffer
+deutsche-apotheker-zeitung.de##.presse
 hsvhandball.com##.primary-footer
 songtexte.com##.prmtnKeepHeight
 zentrum-der-gesundheit.de##.products-inarticle-slider--parent
@@ -3274,6 +3286,7 @@ ebay.de##.srp-1p__banner
 spieletipps.de##.stiRectangleRgt
 spieletipps.de##.stiSkyscraperRgt
 radiobob.de##.stickyBanner-wrapper
+spielregeln.de##.strack_cli
 ecvsv.at##.stream-item-top-wrapper
 sinn-frei.com##.stx
 fuersie.de,jagderleben.de,jolie.de,ka-news.de,kochbar.de,maedchen.de,petra.de##.superbanner
@@ -3292,6 +3305,7 @@ bitreporter.de##.td-a-rec-id-custom-spot
 elliniki-gnomi.eu,pfalz-echo.de,pi-news.net##.td-a-rec-id-header
 primavera24.de##.td-header-container
 krautundrueben.de##.td-header-rec-wrap
+teilzeithelden.de##.td_11
 sportsbusiness.at##.tdi_50
 neumarkt-tv.de##.tdi_88
 bild.de##.tea-rectangle
@@ -3300,6 +3314,7 @@ watson.ch##.teaser_type_paid_content
 analsexporno.net,deutsche-sexfilme.net,pornomonster.com##.tf-de
 t3n.de##.tg-articletype-sponsored-deal.c-pin
 t3n.de##.tg-articletype-sponsored-post
+t3n.de##.tg-stage-sponsoredcontent
 hifitest.de##.themenmonat
 duden.de##.tile__wrapper
 rro.ch##.tisement
@@ -3331,6 +3346,7 @@ vfl.de##.vc_custom_1544363997968
 gn-online.de##.verticalCarousel
 ebay.de##.vi-lb-placeholder
 deutschsex.com##.video__sidebar-item
+finanztreff.de##.videosponsor_hsbc
 netzwoche.ch##.view-partners
 vip.de##.vip-medium-rectangle
 vip.de##.vip-teaser
@@ -3353,6 +3369,7 @@ kt1.at##.widget-7
 wp-koenigin.de##.widget__image--banner
 gameswirtschaft.de##.widget_aawp_widget_bestseller
 gameswirtschaft.de##.widget_aawp_widget_box
+diesachsen.de##.widget_commerce
 nibelungen-kurier.de##.widget_dkge_wrapper
 zitate-online.de##.witz > .bewertung + .detaillink + p:last-child
 zitate-online.de##.witz > .bewertung + p:last-child
@@ -3524,6 +3541,7 @@ scifiscene.de##div[style="height: 166px"]
 news.reiseuhu.de##div[style="height: 250px"]
 n-mag.org##div[style="height: 280px; margin: 5px 0 5px 0;"]
 raptastisch.net##div[style="height: 300px;"]
+reiseuhu.de##div[style="height: 600px !important; max-width: 320px; margin: 15px auto;"]
 boerse-social.com##div[style="height:80px;background-color:#fff"]
 nydus.org##div[style="height:90px;overflow:hidden;text-align:center;"]
 iphone-tricks.de##div[style="margin-bottom:.5em;padding-top:.5em;min-height: 270px;display: flex;justify-content: center;align-items: center"]
