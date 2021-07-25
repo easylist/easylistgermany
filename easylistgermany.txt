@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107251725
+! Version: 202107251729
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2021 17:25 UTC
+! Last modified: 25 Jul 2021 17:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1192,6 +1192,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||arbeitstage.at/pub_
 ||arbeitstage.ch/pub_
 ||arbeitstage.de/pub_
+||architekt.de/grafik/handwerker.de-
 ||areadvd.de/images/*/Nubert-Button.png
 ||areadvd.de/images/*/Teufel_100x150.gif
 ||areadvd.de/images/*/Teufel_300x25.png
@@ -3604,7 +3605,7 @@ fruchthandel.de,nh24.de##img[width="140"][height="140"]
 wirsiegen.de##img[width="140"][height="180"]
 hc-neumarkt.com##img[width="140"][height="68"]
 heimspiel-online.de##img[width="150"][height="111"]
-glamping.info##img[width="160"][height="600"]
+architekt.de,glamping.info##img[width="160"][height="600"]
 prewarcar.de##img[width="160"][height="92"]
 messweb.de##img[width="250"]
 fcschweinfurt1905.de##img[width="280"][height="160"]
