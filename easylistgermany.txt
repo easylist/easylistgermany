@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107251757
+! Version: 202107251812
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2021 17:57 UTC
+! Last modified: 25 Jul 2021 18:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3212,7 +3212,8 @@ aktionspreis.de##.produkt_uebersicht > div > br.clear
 coolibri.de##.promContainer
 endstation-rechts.de##.promo
 wegwerfemailadresse.com##.promobox
-suedtirolnews.it##.pub
+europa-landmaschinen.de,suedtirolnews.it##.pub
+europa-landmaschinen.de##.pub-content
 tchgdns.de##.pub-footer
 tchgdns.de##.pub-single-side
 mallorcazeitung.es##.publi_cabecera_270
