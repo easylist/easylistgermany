@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107251443
+! Version: 202107251453
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2021 14:43 UTC
+! Last modified: 25 Jul 2021 14:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1435,6 +1435,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||forumprofi.de/fritz/$subdocument
 ||freenet.de/www/export/$script
 ||freenet.de^*/mail/ads/
+||freiburgesports.de/assets/images/esports/partner_sponsoren/
 ||freieporno.com^*/pr-before.js
 ||freieporno.com^*/ssu.v2.js
 ||freizeitparks.de/fileadmin/user_upload/*_Anz_
@@ -3291,6 +3292,7 @@ hc-erlangen.de##.sponsoring-footer
 bayer04.de,dhb.de,hallescherfc.de,hcpustertal.com,ofc.de,rundumkoeln.de##.sponsors
 sg-flensburg-handewitt.de##.sponsors-col
 tsg-hoffenheim.de##.sponsors-slider
+freiburgesports.de##.sponsors-wrapper
 hceppan.it##.sportnews
 1milf.com,frauporn.com,wildesporno.xxx,xfilmen.com##.spot
 1milf.com,frauporn.com,xfilmen.com##.spot_bottom
