@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107251729
+! Version: 202107251740
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2021 17:29 UTC
+! Last modified: 25 Jul 2021 17:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1663,6 +1663,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||loipenpark.de/images/banners/
 ||lounge.fm^*/auto-doc.
 ||lounge.fm^*/topersatzteile.
+||lowbeats.de/site/wp-content/banners/
 ||loz-news.de/images/banners/
 ||lust24.ch/images/banner/
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Elecars_Weblink_bouton.jpg
@@ -2422,6 +2423,7 @@ polizei.news###centcon-side-inner
 beliebtestewebseite.de###checkdiv
 steuerlinks.de###colLeft > #info
 steuerlinks.de###colRight > #search
+lowbeats.de###container-sidebar-banners
 brv-zeitung.de,dtoday.de,goslarsche.de,pz-news.de,tageblatt.de,teckbote.de,weser-kurier.de###container_banner
 mediabiz.de###container_fs
 biothemen.de###content + #right
