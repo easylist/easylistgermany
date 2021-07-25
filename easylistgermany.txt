@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107251636
+! Version: 202107251641
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2021 16:36 UTC
+! Last modified: 25 Jul 2021 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1923,6 +1923,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||soundportal.at/fileadmin/user_upload/werbung/
 ||spanienlive.com^*/Werbung/
 ||speedtorrent.com/usenet/
+||speyer-report.de/images/Anzeige
 ||spielbox.de/images/banners/
 ||spiele-for-free.de/wp-content/uploads/*_1920x1200_$domain=spiele-for-free.de
 ||spielesite.com/am/$subdocument
@@ -2864,7 +2865,7 @@ handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
 xxxjob.ch##.bannerboxrechts
 prost-magazin.at##.bannerfullbanner
-112-magazin.de,griechenland.net,highway-magazin.de,hitradio.com.na,kl-aktuell.de,loz-news.de,motorradundreisen.de,naturundtherapie.at,osttirol-online.at,pc-experience.de,radio-oberland.de,sonic-seducer.de,spielbox.de,teneriffa-heute.net,tennistraveller.net,tvbb.de,wahrschauer.net##.bannergroup
+112-magazin.de,griechenland.net,highway-magazin.de,hitradio.com.na,kl-aktuell.de,loz-news.de,motorradundreisen.de,naturundtherapie.at,osttirol-online.at,pc-experience.de,radio-oberland.de,sonic-seducer.de,speyer-report.de,spielbox.de,teneriffa-heute.net,tennistraveller.net,tvbb.de,wahrschauer.net##.bannergroup
 tobitech.de##.bannergroupimgframe
 diebildschirmzeitung.de##.banneritem
 sportal.ch##.bannerspot
