@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107251454
+! Version: 202107251459
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2021 14:54 UTC
+! Last modified: 25 Jul 2021 14:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1346,6 +1346,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||dslr-forum.de/banner.
 ||dtb-tennis.de^*/banner-
 ||dtb-tennis.de^*/partner-
+||dtb.de/fileadmin/user_upload/dtb.de/Sponsoren/
 ||dubisthalle.de/wp-content/uploads/*/loezius.png
 ||dubisthalle.de/wp-content/uploads/*_300x300_
 ||dubisthalle.de/wp-content/uploads/*_banner_
@@ -2287,6 +2288,7 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||sptopf.de/tshp/RE?ID=$popup,domain=t-online.de
 ! -----Seitenspezifische Regeln zum Verstecken von Werbung(süberbleibseln)-----!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_hide.txt ***
+dtb.de###AD
 mazda-forum.info###BelowRectangle
 1kh.de###Container > #head:first-child + #content + br + .spacer + center
 privatmarkt.ch###ContentFooterPartner
@@ -3010,6 +3012,7 @@ deutschepornos.co,erotik-sexvideos.com,geilesexclips.com,gratis-sex-videos.net,g
 hottime.ch##.footer-grey
 ecrbs.redbulls.com,fussball.de##.footer-partner
 fcbayern.com##.footer-partner-container
+dtb.de##.footer-sponsor-section
 schalke04.de##.footer-sponsors
 xhamsterde.com##.footer-widget-zone
 rhein-neckar-loewen.de##.footer__slider
