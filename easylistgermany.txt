@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107251716
+! Version: 202107251725
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2021 17:16 UTC
+! Last modified: 25 Jul 2021 17:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2830,6 +2830,7 @@ hsc2000.de##.av-partner-fake-img
 hsc2000.de##.avia-slideshow-1
 nrwhits.de##.ax-medium-rectangle-n
 browsergames.de##.background
+archzine.net##.banPlace1
 1001spiele.de,6navi.ch,anixehd.tv,bankkaufmann.com,buchmarkt.de,deavita.com,flugblattangebote.at,fruchtportal.de,fussballgucken.info,goldseiten.de,hcb.net,jobagent.ch,juve.de,komoedie-steinstrasse.de,laufen.de,macerkopf.de,melodieundrhythmus.com,modhoster.de,pfaffenhofen-today.de,pixelio.de,prospektangebote.de,salue.de,sexnews.ch,svs1916.de##.banner
 w24.at##.banner-aspect-ratio
 spielkarussell.de##.banner-btf-side-rectangle
@@ -2862,6 +2863,7 @@ bluray-disc.de,der-farang.com##.banner_container
 hallelife.de##.banner_image
 der-farang.com##.banner_page_top
 lerntippsammlung.de##.banner_rechts
+archzine.net##.banner_sidebar
 dastelefonbuch.de,dnv-online.net##.banner_top
 handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
