@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107251812
+! Version: 202107261408
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2021 18:12 UTC
+! Last modified: 26 Jul 2021 14:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2296,6 +2296,7 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ! -----Seitenspezifische Regeln zum Verstecken von Werbung(süberbleibseln)-----!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_hide.txt ***
 dtb.de###AD
+nd-aktuell.de###Ads
 mazda-forum.info###BelowRectangle
 1kh.de###Container > #head:first-child + #content + br + .spacer + center
 privatmarkt.ch###ContentFooterPartner
