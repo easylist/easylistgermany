@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108131607
+! Version: 202108131610
 ! Title: EasyList Germany
-! Last modified: 13 Aug 2021 16:07 UTC
+! Last modified: 13 Aug 2021 16:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3789,7 +3789,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
 @@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
 @@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=atv.at|chip.de
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=atv.at|chip.de|schwaebische.de
 @@||jade-hs.de^*/ext-adv.js
 @@||kabeleins.de^$generichide
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
