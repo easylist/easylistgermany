@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108131601
+! Version: 202108131607
 ! Title: EasyList Germany
-! Last modified: 13 Aug 2021 16:01 UTC
+! Last modified: 13 Aug 2021 16:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2753,6 +2753,7 @@ ak-kurier.de##.ad + #flashContent
 ak-kurier.de##.ad + .tdt
 ak-kurier.de##.ad + .uk-panel
 mixed.de,raetsel-hilfe.de,spieletipps.de##.ad-container
+hallo-minden.de##.ad-info
 diegrenzgaenger.lu##.ad-listing
 spiesser.de##.ad-mark
 vsport.at##.ad1
@@ -3427,6 +3428,7 @@ lifeverde.de##.zusatz_billboard
 heise.de##A-PATERNOSTER
 neuwagen.de##a[class="placement"]
 camping.de##a[class^="herobanner-adv"]
+hallo-minden.de##a[data-adid]:not([data-adid="12937"])
 mobilegeeks.de##a[data-eventcategory="Kooperation"]
 t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
