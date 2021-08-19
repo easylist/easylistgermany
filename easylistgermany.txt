@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108161359
+! Version: 202108191602
 ! Title: EasyList Germany
-! Last modified: 16 Aug 2021 13:59 UTC
+! Last modified: 19 Aug 2021 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3240,6 +3240,8 @@ fussballdaten.de,modhoster.de,rheintaler.ch##.rectangle
 radioguetersloh.de##.rectright
 jungle.world##.region-topad
 suche.freenet.de##.result-container > .container-right
+curved.de##.review-recommendation-headline
+curved.de##.review-recommendation-headline + a
 nydus.org##.right > .widgetbox2
 oberberg-aktuell.de##.right-leaderboard
 abload.de##.rightbanner
