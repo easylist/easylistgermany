@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108241530
+! Version: 202108241535
 ! Title: EasyList Germany
-! Last modified: 24 Aug 2021 15:30 UTC
+! Last modified: 24 Aug 2021 15:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1912,6 +1912,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||sexy-land.ch/images/banner/
 ||sg-flensburg-handewitt.de^*/Online_Banner/
 ||sg-flensburg-handewitt.de^*/Sponsors/
+||sgf1903.de^*/Partner/
 ||sgf1903.de^*/Sponsoring/
 ||sgleutershausen.de/wp-content/uploads/*/bwt-logo-neu.jpg
 ||shopanbieter.de/SponsorLogos/
@@ -2929,6 +2930,7 @@ eventelevator.de##.bwdfb-widget
 kremser-sc.at,sgleutershausen.de##.bx-viewport
 amerikawoche.com##.bxnxr_column
 amerikawoche.com##.bxv
+sgf1903.de##.c-sponsors-list
 focus.de##.cad
 ka-news.de##.cad_box
 focus.de##.cad_native
