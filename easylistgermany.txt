@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108241539
+! Version: 202108241543
 ! Title: EasyList Germany
-! Last modified: 24 Aug 2021 15:39 UTC
+! Last modified: 24 Aug 2021 15:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3010,7 +3010,10 @@ euractiv.de##.ea-gat-slot-wrapper
 der-rissener.de##.ed-element
 laborjournal.de##.ed_d
 l-mag.de##.editorial-teaser
+eintracht.de##.ef-article-card--ad
+eintracht.de##.ef-footer__section
 eintracht.de##.ef-footer__section--logos
+eintracht.de##.ef-stadium-ad__banner
 fruchthandel.de##.element_leaderboard
 fruchthandel.de##.element_squarebuttongroup
 mundus-art.com##.elementor-element-0e1ce7d
