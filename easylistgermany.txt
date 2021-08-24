@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108241509
+! Version: 202108241516
 ! Title: EasyList Germany
-! Last modified: 24 Aug 2021 15:09 UTC
+! Last modified: 24 Aug 2021 15:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3142,6 +3142,7 @@ fc.de##.mod-sponsor-icon
 basses-blatt.de,beobachter-online.de,blaue-blume.tv,einbecker-morgenpost.de,gandersheimer-kreisblatt.de,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
 aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthurer-zeitung.ch,zugerwoche.ch##.mod_printanzeigen
 schalke04.de##.module-advertising
+fc-union-berlin.de##.module-footer-sponsors
 jetztspielen.de##.mpu
 finanzen.net##.mrec-height-prefix
 quiz-lounge.com##.mt-3
@@ -3316,7 +3317,7 @@ hc-erlangen-ev.de##.sponsoren-right
 fcenergie.de##.sponsoren_wrapper
 tsv1860.de##.sponsorftr
 hc-erlangen.de##.sponsoring-footer
-bayer04.de,dhb.de,hallescherfc.de,hcpustertal.com,ofc.de,rundumkoeln.de##.sponsors
+bayer04.de,dhb.de,fc-union-berlin.de,hallescherfc.de,hcpustertal.com,ofc.de,rundumkoeln.de##.sponsors
 sg-flensburg-handewitt.de##.sponsors-col
 tsg-hoffenheim.de##.sponsors-slider
 freiburgesports.de##.sponsors-wrapper
