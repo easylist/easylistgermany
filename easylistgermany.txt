@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108241535
+! Version: 202108241539
 ! Title: EasyList Germany
-! Last modified: 24 Aug 2021 15:35 UTC
+! Last modified: 24 Aug 2021 15:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1879,6 +1879,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||sbb.it/images/default-source/*/s%C3%BCdtiroler_landwirt_gif.
 ||sbb.it/images/default-source/*_200x300.
 ||sbb.it/images/default-source/*_banner.
+||scfreiburg.com^*/04_Sponsoren/
 ||schnittberichte.com^*/werbung/
 ||schule-studium.de/AmazonBestellung.jpg
 ||schule-studium.de/buhv-Unterrichtsmaterial/Banner/
@@ -2930,7 +2931,7 @@ eventelevator.de##.bwdfb-widget
 kremser-sc.at,sgleutershausen.de##.bx-viewport
 amerikawoche.com##.bxnxr_column
 amerikawoche.com##.bxv
-sgf1903.de##.c-sponsors-list
+scfreiburg.com,sgf1903.de##.c-sponsors-list
 focus.de##.cad
 ka-news.de##.cad_box
 focus.de##.cad_native
