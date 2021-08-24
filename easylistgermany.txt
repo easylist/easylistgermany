@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108241552
+! Version: 202108241603
 ! Title: EasyList Germany
-! Last modified: 24 Aug 2021 15:52 UTC
+! Last modified: 24 Aug 2021 16:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2064,6 +2064,8 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||velomotion.de^*/featured-ad.js
 ||vfb.de/?proxy=img/hauptsponsor_
 ||vfb.de^*/sponsoren/
+||vfl-bochum.de^*/Partner/
+||vfl-bochum.de^*/Premium_Partner/
 ||vfl.de/sportmedia/assets/sunmaker_logo.svg
 ||vfl.de^*-banner_
 ||vfl.de^*_sponsoren_
