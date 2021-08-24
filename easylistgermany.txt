@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108241516
+! Version: 202108241523
 ! Title: EasyList Germany
-! Last modified: 24 Aug 2021 15:16 UTC
+! Last modified: 24 Aug 2021 15:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3616,6 +3616,7 @@ tarnkappe.info##div[style="width:300px;height:250px"]
 news.ch##div[style="width:300px;padding:12px;float:left;"]
 korrekturen.de##div[style="width:728px; height: 90px; text-align: center; background-color:#c0c0c0;"]
 ableitungsrechner.net,integralrechner.de##div[style^="width: 728px;"]
+rbleipzig.com##img[alt="Logo Partner"]
 finanzen.net##img[alt="Passende Produkte von Vontobel"]
 finanzen.net##img[alt="Passende Produkte von der Société Générale"]
 t-online.de##img[alt^="Modetrends"]
