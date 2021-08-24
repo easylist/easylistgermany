@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108241621
+! Version: 202108241628
 ! Title: EasyList Germany
-! Last modified: 24 Aug 2021 16:21 UTC
+! Last modified: 24 Aug 2021 16:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1197,6 +1197,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||areadvd.de/images/*/Teufel_100x150.gif
 ||areadvd.de/images/*/Teufel_300x25.png
 ||areadvd.de/IOTAVX.jpg
+||arminia.de^*/csm_Sponsoren-
 ||as.chartsurfer.de^
 ||astronomie.de/uploads/tx_sfbanners/
 ||astrowetter.com/surftipps/
@@ -2860,6 +2861,7 @@ donnerwetter.at,donnerwetter.ch,donnerwetter.de##.banner-place
 klassikradio.de##.banner-position
 curt.de##.banner-section
 bibliomed-pflege.de,magistrix.de##.banner-skyscraper
+arminia.de##.banner-slider
 scfreiburg.com##.banner-super-middle
 donnerwetter.at,donnerwetter.ch,donnerwetter.de##.banner-top
 immobilienscout24.de##.banner-top-placeholder
@@ -3326,7 +3328,7 @@ rittnerbuam.com##.sponsor-section
 asv-hamm-westfalen.de##.sponsor_col
 eisbaeren.de##.sponsor_wrapper
 ariva.de,zdnet.de##.sponsored
-budapester.hu,rot-weiss-erfurt.de,seo-united.de,vfb.de##.sponsoren
+arminia.de,budapester.hu,rot-weiss-erfurt.de,seo-united.de,vfb.de##.sponsoren
 hc-erlangen-ev.de##.sponsoren-right
 fcenergie.de##.sponsoren_wrapper
 tsv1860.de##.sponsorftr
