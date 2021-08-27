@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108271441
+! Version: 202108271457
 ! Title: EasyList Germany
-! Last modified: 27 Aug 2021 14:41 UTC
+! Last modified: 27 Aug 2021 14:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3107,6 +3107,7 @@ sueddeutsche.de##.iqad
 tri-mag.de##.irypolkj
 onvista.de##.isSponsored
 islamische-zeitung.de##.islam-widget
+pcgames.de##.item + .at_sponsored > .itemHeadline
 pragerzeitung.cz##.item-advert
 gamepro.de,gamestar.de##.jad-placeholder
 interaktiv.tagesspiegel.de##.jobunion-container
