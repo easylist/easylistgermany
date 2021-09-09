@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109091356
+! Version: 202109091615
 ! Title: EasyList Germany
-! Last modified: 09 Sep 2021 13:56 UTC
+! Last modified: 09 Sep 2021 16:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3703,6 +3703,7 @@ ww3.cad.de##tr:first-child:last-child > td[valign="top"]:first-child + td[width=
 gmx.net,web.de##tr[data-component="MessageListAdRow"]
 gmx.ch,gmx.net,web.de##tr[data-component="MessageListSpecialRow"]
 ! Specific hiding filters necessary for sites using $generichide filter option
+focus.de###CT_DESKTOP_NATIVE_HOR_ANY_hor2
 finanzen.net###news-contentads
 focus.de###tfm_admanagerTeaser
 jetzt.de##.ad__template
@@ -3712,6 +3713,9 @@ focus.de##.ob-ad-carousel-layout
 jetzt.de,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 notebookchat.com,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
+focus.de##.ps-trackingposition_OrangerButton
+focus.de##.ps-trackingposition_PDFkasten
+focus.de##.shoppingcartctn
 businessinsider.de,bz-berlin.de,giga.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
 businessinsider.de,giga.de,metal-hammer.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
 computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
