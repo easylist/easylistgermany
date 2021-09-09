@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109091615
+! Version: 202109092055
 ! Title: EasyList Germany
-! Last modified: 09 Sep 2021 16:15 UTC
+! Last modified: 09 Sep 2021 20:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3709,6 +3709,7 @@ focus.de###tfm_admanagerTeaser
 jetzt.de##.ad__template
 focus.de##.adsBlock
 finanzen.net##.adsbygoogle
+n-tv.de##.ems-slot
 focus.de##.ob-ad-carousel-layout
 jetzt.de,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
