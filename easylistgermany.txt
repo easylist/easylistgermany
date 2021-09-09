@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109091343
+! Version: 202109091346
 ! Title: EasyList Germany
-! Last modified: 09 Sep 2021 13:43 UTC
+! Last modified: 09 Sep 2021 13:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -408,6 +408,7 @@ _woz_banner_vote.
 ##.shift-widget > .cm-article
 ##.sidebar-werbung
 ##.sidebarwerbung
+##.spielen_werbung_2
 ##.sponsorinaktiv
 ##.sponsorlinkgruen
 ##.tab_artikelwerbung
@@ -3329,6 +3330,7 @@ golem.de##.sp-breakout-affy
 meetingpoint-brandenburg.de##.span > .white_bg[style="width: 100%; padding-right: 5px;"]
 meetingpoint-brandenburg.de##.span.white_bg[style="padding: 7px 2px; margin-left: 5px;"]
 meetingpoint-brandenburg.de##.span[style="width: 160px; margin-left: 5px;"]
+xn--spidersolitr-qcb.de##.spielen_kopf
 german-porno-deutsch.info,spox.com##.spons
 fcaugsburg.de##.sponser-lead-inner
 argovia.ch,bolzano-bozen.it,europages.de,frischauf-gp.de,hc-elbflorenz.de,radio24.ch,scfreiburg.com,svww.de##.sponsor
