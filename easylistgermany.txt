@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109151557
+! Version: 202109151628
 ! Title: EasyList Germany
-! Last modified: 15 Sep 2021 15:57 UTC
+! Last modified: 15 Sep 2021 16:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -881,7 +881,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||belmediaverlag.com/gott-ch/$third-party
 ||bergfreunde-partner.de/banner/
 ||bergzeit.de/out/pictures/partner/image/
-||bit.ly^$subdocument,domain=polizei.news|reiseziele.ch
+||bit.ly^$subdocument,domain=business24.ch|events24.ch|polizei.news|reiseziele.ch
 ||blog-linktausch.de^*/iframe.php?layout=$subdocument,third-party
 ||bm.hbtronix.de^$third-party
 ||bn.gewinn24.de^
@@ -2595,7 +2595,7 @@ ladies.de###page-top-sol
 nordbayern.de###page_billboard
 inside-digital.de###parallax
 parcello.org###parcello-mo
-h-bw.de###partner
+comback.ch,h-bw.de###partner
 cash.ch###partner-teaser-links
 fundresearch.de###partnerCentersLogoBar
 volleyball-bundesliga.de###partnerLinks
@@ -3063,7 +3063,7 @@ raidrush.net##.funbox
 99ers.at##.fusion-builder-row-14
 fcschweinfurt1905.de##.fusion-builder-row-3
 ka-news.de##.fusslogos
-gailtal.news,gitschtal.news,greifenburg.news,hermagor.news,islamiq.de,it-production.com,jungefreiheit.de,klagenfurt.news,lite-magazin.de,moebeltipps.ch,polizei-nachrichten.at,polizei.news,radenthein.news,rechtsdepesche.de,reiseziele.ch,skipper-bootshandel.de,spittal.news,stadt-nachrichten.de,steinfeld.news,tierwelt.news,troepolach.news,unternehmermagazin.de,via-ferrata.de,villacher.news,weissensee.news,werne-plus.de##.g
+beautytipps.ch,betriebseinrichtung.net,business24.ch,denkmalpflege-schweiz.ch,events24.ch,gailtal.news,gitschtal.news,gourmetnews.ch,greifenburg.news,haushaltsapparate.net,hermagor.news,islamiq.de,it-production.com,jungefreiheit.de,klagenfurt.news,lite-magazin.de,moebeltipps.ch,motortipps.ch,polizei-nachrichten.at,polizei.news,radenthein.news,rechtsdepesche.de,reiseziele.ch,skipper-bootshandel.de,spittal.news,stadt-nachrichten.de,steinfeld.news,tierwelt.news,troepolach.news,umzugstipps.com,unternehmermagazin.de,via-ferrata.de,villacher.news,weissensee.news,werne-plus.de##.g
 golem.de##.gbox_affiliate
 jungfrauzeitung.ch##.gokb
 jungfrauzeitung.ch##.gokwblock
@@ -3155,6 +3155,7 @@ t-online.de##.med_anz
 ligaportal.at##.media
 fuersie.de,jolie.de,maedchen.de,petra.de,vital.de##.mediumrectangle
 ligaportal.at##.medrec
+comback.ch##.mega-banner-outer
 lite-magazin.de##.metaslider
 goolive.de##.mgawerbungbase
 unterwasserwelt.de##.mh-footer
@@ -3515,7 +3516,7 @@ t-online.de##a[href^="https://count.shopping.t-online.de/RE?ID="]
 onepiece-tube.com##a[href^="https://cutt.ly/"]
 ligaportal.at##a[href^="https://de.johnnybet.com/"]
 msn.com##a[href^="https://ebay.at/"]
-pornotim.com,reiseziele.ch,xhamsterde.com##a[href^="https://goo.gl/"]
+denkmalpflege-schweiz.ch,pornotim.com,reiseziele.ch,xhamsterde.com##a[href^="https://goo.gl/"]
 hoerbuch.us##a[href^="https://hoerbuch.us/dll/"]
 hoerbuch.us##a[href^="https://linksnappy.com/?ref="]
 amor-frau.com##a[href^="https://lp.amateurcommunity.com/"]
