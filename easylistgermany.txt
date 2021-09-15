@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109151548
+! Version: 202109151551
 ! Title: EasyList Germany
-! Last modified: 15 Sep 2021 15:48 UTC
+! Last modified: 15 Sep 2021 15:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3063,7 +3063,7 @@ raidrush.net##.funbox
 99ers.at##.fusion-builder-row-14
 fcschweinfurt1905.de##.fusion-builder-row-3
 ka-news.de##.fusslogos
-gailtal.news,gitschtal.news,greifenburg.news,hermagor.news,islamiq.de,it-production.com,jungefreiheit.de,klagenfurt.news,lite-magazin.de,polizei-nachrichten.at,radenthein.news,rechtsdepesche.de,skipper-bootshandel.de,spittal.news,stadt-nachrichten.de,steinfeld.news,tierwelt.news,troepolach.news,unternehmermagazin.de,via-ferrata.de,villacher.news,weissensee.news,werne-plus.de##.g
+gailtal.news,gitschtal.news,greifenburg.news,hermagor.news,islamiq.de,it-production.com,jungefreiheit.de,klagenfurt.news,lite-magazin.de,polizei-nachrichten.at,polizei.news,radenthein.news,rechtsdepesche.de,skipper-bootshandel.de,spittal.news,stadt-nachrichten.de,steinfeld.news,tierwelt.news,troepolach.news,unternehmermagazin.de,via-ferrata.de,villacher.news,weissensee.news,werne-plus.de##.g
 golem.de##.gbox_affiliate
 jungfrauzeitung.ch##.gokb
 jungfrauzeitung.ch##.gokwblock
@@ -3162,6 +3162,7 @@ hallanzeiger.de##.mh-widget.s5214-widget
 schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
 intimesrevier.com##.miragobox
 finanzen.net##.mleft-10 + .table-quotes
+polizei.news##.mobile-billboard-box
 fc.de##.mod-sponsor-icon
 basses-blatt.de,beobachter-online.de,blaue-blume.tv,einbecker-morgenpost.de,gandersheimer-kreisblatt.de,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
 aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthurer-zeitung.ch,zugerwoche.ch##.mod_printanzeigen
