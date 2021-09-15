@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109151641
+! Version: 202109151657
 ! Title: EasyList Germany
-! Last modified: 15 Sep 2021 16:41 UTC
+! Last modified: 15 Sep 2021 16:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1043,6 +1043,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||ranksider.de/img/banner/$third-party
 ||rastplatzsex.com/banner/$third-party
 ||rhein.rfw-koeln.de^$third-party
+||rocketcdn.me^*/Banner_$domain=marktindex.ch
 ||roemerforum.com/banner/
 ||rotlichtkartei.com/banner/$third-party
 ||satchef.de/banner/$third-party
@@ -2674,6 +2675,7 @@ chilloutzone.net###superreplacement
 suche.t-online.de###tMRM_amazon
 suche.t-online.de###tMRM_billiger
 liveticker.com###tab-live-odds
+marktindex.ch###td_uid_9_6141b5fdcbe72
 tennisnet.com###tennisnetWidget
 nh24.de###text-11
 nh24.de###text-13
@@ -3383,8 +3385,10 @@ pi-news.net##.td-a-rec-id-content_inlineleft
 bitreporter.de##.td-a-rec-id-custom-spot
 elliniki-gnomi.eu,pfalz-echo.de,pi-news.net##.td-a-rec-id-header
 primavera24.de##.td-header-container
-krautundrueben.de##.td-header-rec-wrap
+marktindex.ch##.td-header-header
+krautundrueben.de,marktindex.ch##.td-header-rec-wrap
 teilzeithelden.de##.td_11
+marktindex.ch##.td_uid_89_6141b5fdd19ca_rand
 sportsbusiness.at##.tdi_50
 neumarkt-tv.de##.tdi_88
 bild.de##.tea-rectangle
