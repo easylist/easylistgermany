@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109151628
+! Version: 202109151641
 ! Title: EasyList Germany
-! Last modified: 15 Sep 2021 16:28 UTC
+! Last modified: 15 Sep 2021 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -83,6 +83,7 @@
 /pic/werbung/*
 /pic/werbung_
 /sidebar_werbung/*
+/sponsoren/banner_
 /sportson/ads/*
 /styles/*/werbung/*
 /styles/werbung_
@@ -909,6 +910,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||dragonbox.de/img/banner/$third-party
 ||druckiad-che.newsmemory.com^$third-party
 ||duregexpress.de/banner/$third-party
+||e-betteln.de/images/sponsoren/
 ||easy-reisen.ch/easyreisenadds.aspx?
 ||easyfind24.de/banner/$third-party
 ||ebiz-consult.de/banner/$third-party
@@ -1890,6 +1892,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||schule-studium.de/images/Head-Dateien-jpgs/Thalia-Startseite.jpg
 ||schwany.de/images/Slider1-Tyrolis-music-shop-Banner-
 ||scm-handball.de^*/Sponsoren/
+||segelflug.de/images/2018/banner_
 ||segeljournal.com/wp-content/uploads/*/730x90_
 ||segeljournal.com/wp-content/uploads/*_webbanner_
 ||selbstaendig-im-netz.de/Bilder/affiliate-banner/
