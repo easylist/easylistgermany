@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109161534
+! Version: 202109161550
 ! Title: EasyList Germany
-! Last modified: 16 Sep 2021 15:34 UTC
+! Last modified: 16 Sep 2021 15:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3229,7 +3229,7 @@ wallstreet-online.de##.partnerNews > a[target="_blank"]
 rts-salzburg.at##.partner_section
 gota6.ch,highway-magazin.de##.partnerlinks
 deutscherskiverband.de##.partnerlogos
-hannover96.de,p-stadtkultur.de##.partners
+hannover96.de,p-stadtkultur.de,sihf.ch##.partners
 vfl-wolfsburg.de##.partners-footer
 floatmagazin.de##.partners-title + .partners
 tagesstimme.com##.pb-8.text-center.float-center
