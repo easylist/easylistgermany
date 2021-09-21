@@ -437,6 +437,8 @@ fc-suedtirol.com##.BannerContainer
 momondo.de##.Common-Kn-Display
 momondo.de##.Common-Kn-Rp-FlightInline
 swoodoo.com##.Common-Kn-Rp-Inline
+mactechnews.de##.Content_1-minheight
+mactechnews.de##.Content_3-minheight
 chip.de##.FC.mt-md-so[role="complementary"]
 chip.de##.FC__Container.min-height-250px-mu
 swoodoo.com##.Flights-Results-FlightRightRail
@@ -1282,6 +1284,9 @@ winfuture.de##div[align="center"][style="min-height: 320px;"]
 bitreporter.de##div[class$="-adlabel"]
 chartsurfer.de##div[class*="adszone-"]
 homegate.ch##div[class^="AdSlotContainer_"]
+mactechnews.de##div[class^="Billboard-"]
+mactechnews.de##div[class^="Billboard_"]
+mactechnews.de##div[class^="Rectangle_"]
 t-online.de##div[class^="Tsshopst"]
 quoka.de##div[class^="div-gpt-"]
 costanachrichten.com##div[class^="lp_track_"]
