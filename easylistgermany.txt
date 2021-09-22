@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109221819
+! Version: 202109221824
 ! Title: EasyList Germany
-! Last modified: 22 Sep 2021 18:19 UTC
+! Last modified: 22 Sep 2021 18:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3432,6 +3432,7 @@ edelsteine.net,sternzeichen.net##.top_bannerbar
 xrel.to##.top_news_adv
 rheiderland.de##.topanzeigen-slider-wrapper
 queer.de##.toplinks
+mobile.de##.topresult + .dealerAd
 f95.de##.topsponlink
 travelbook.de##.trc_related_container div[data-item-syndicated="true"]
 radsport-seite.de##.trikots
