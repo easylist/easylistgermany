@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109301432
+! Version: 202109301439
 ! Title: EasyList Germany
-! Last modified: 30 Sep 2021 14:32 UTC
+! Last modified: 30 Sep 2021 14:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3218,6 +3218,7 @@ team.gamed.de##.normal_text[width="100%"][valign="top"][height="100"][align="lef
 netzwoche.ch##.np8-type-advertorial
 promiflash.de##.ob-p
 winfuture.de##.ob_what
+liveticker.com##.odds
 maschinensucher.at,maschinensucher.ch,maschinensucher.de##.ofni
 onmeda.de##.on-top-banner-wrapper
 oz-online.de##.ox
@@ -3258,6 +3259,7 @@ iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:cent
 ostbelgiendirekt.be##.pr-area
 prad.de##.prad-td-header-sp-recs
 oljo.de##.preisboxinner
+liveticker.com##.prematchOddsBonus__bonus
 frischauf-gp.de##.premiumPartner
 golfv.de##.premium_firm_list
 f95.de##.premiumpartner
