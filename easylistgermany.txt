@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109301521
+! Version: 202109301528
 ! Title: EasyList Germany
-! Last modified: 30 Sep 2021 15:21 UTC
+! Last modified: 30 Sep 2021 15:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1420,6 +1420,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||ff-bz.com^*/banner-
 ||fhcdn.net^*/ebay_logo.gif
 ||filmpost.de^*/anzeigen/
+||filmundo.de/banner/
 ||filmz.de/f/ra.htm
 ||filmz.de/f/s.htm
 ||filmz.de/f/sa.htm
