@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110011603
+! Version: 202110011747
 ! Title: EasyList Germany
-! Last modified: 01 Oct 2021 16:03 UTC
+! Last modified: 01 Oct 2021 17:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1395,6 +1395,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||erogeschichten.com/mdhpic/
 ||erotikforum.at/data/siropu/
 ||erotikinserate.ch/banner/
+||esports.ch^*/animated-banners/
 ||etcg.de/images/sponsoren/
 ||etcg.de/sponsor/
 ||evz.ch/fileadmin/EVZ/Sponsoren/
@@ -2886,6 +2887,7 @@ wochenblatt.cc##.banner-header-left
 wochenblatt.cc##.banner-header-right
 medienjobs.ch,prewarcar.de##.banner-holder
 xerotik.ch##.banner-img-bottom
+esports.ch##.banner-leadboard
 nsladies.de,spielkarussell.de##.banner-leaderboard
 donnerwetter.at,donnerwetter.ch,donnerwetter.de##.banner-place
 klassikradio.de##.banner-position
@@ -3247,7 +3249,7 @@ wallstreet-online.de##.partnerNews > a[target="_blank"]
 rts-salzburg.at##.partner_section
 gota6.ch,highway-magazin.de##.partnerlinks
 deutscherskiverband.de##.partnerlogos
-hannover96.de,p-stadtkultur.de,sihf.ch##.partners
+esports.ch,hannover96.de,p-stadtkultur.de,sihf.ch##.partners
 vfl-wolfsburg.de##.partners-footer
 floatmagazin.de##.partners-title + .partners
 tagesstimme.com##.pb-8.text-center.float-center
@@ -3370,7 +3372,7 @@ mahjongkostenlos.de##.spielseite_anz_2
 mahjongkostenlos.de##.spielseite_kopf
 german-porno-deutsch.info,spox.com##.spons
 fcaugsburg.de##.sponser-lead-inner
-argovia.ch,bolzano-bozen.it,europages.de,frischauf-gp.de,hc-elbflorenz.de,mainpost.de,radio24.ch,scfreiburg.com,svww.de##.sponsor
+argovia.ch,bolzano-bozen.it,esports.ch,europages.de,frischauf-gp.de,hc-elbflorenz.de,mainpost.de,radio24.ch,scfreiburg.com,svww.de##.sponsor
 fcz.ch##.sponsor--margin
 dynamo-dresden.de##.sponsor-list
 rittnerbuam.com##.sponsor-section
