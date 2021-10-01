@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110011803
+! Version: 202110011805
 ! Title: EasyList Germany
-! Last modified: 01 Oct 2021 18:03 UTC
+! Last modified: 01 Oct 2021 18:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3032,7 +3032,7 @@ goldesel.sx##.d_695692
 blockbuster.to##.d_702192
 saugen.to##.d_702212
 laden.to##.d_702232
-servus.com##.da__placeholder
+servus.com,terramatermagazin.com##.da__placeholder
 spox.com##.dazn
 dubisthalle.de##.dbh-widget
 sportbuzzer.de##.dcm-section-wrapper
@@ -3325,7 +3325,7 @@ wallstreet-online.de##.sb_quotebox
 ef-magazin.de##.sbad
 popkultur.de##.sc-button[href^="https://amzn.to/"]
 popkultur.de##.sc-button[href^="https://www.amazon.de/"]
-servus.com##.sda
+servus.com,terramatermagazin.com##.sda
 sport.sky.de##.sdc-site-au__leaderboard
 sport.sky.de##.sdc-site-au__mpu-1
 sportdeutschland.tv##.sdtv-gothaer
