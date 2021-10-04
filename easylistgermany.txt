@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110041625
+! Version: 202110041649
 ! Title: EasyList Germany
-! Last modified: 04 Oct 2021 16:25 UTC
+! Last modified: 04 Oct 2021 16:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3758,6 +3758,8 @@ gmx.ch,gmx.net,web.de##tr[data-component="MessageListSpecialRow"]
 focus.de###CT_DESKTOP_NATIVE_HOR_ANY_hor2
 finanzen.net###news-contentads
 focus.de###tfm_admanagerTeaser
+ran.de##.ad-component
+ran.de##.ad-slot-container
 jetzt.de##.ad__template
 focus.de##.adsBlock
 finanzen.net##.adsbygoogle
