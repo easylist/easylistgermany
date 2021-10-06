@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110061441
+! Version: 202110061448
 ! Title: EasyList Germany
-! Last modified: 06 Oct 2021 14:41 UTC
+! Last modified: 06 Oct 2021 14:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1985,7 +1985,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||suche.web.de/uns/amazon?$xmlhttprequest
 ||suedpfalz-verlag.de/uploads/pics/CBoltz.png
 ||suedpfalz-verlag.de/uploads/pics/DK-Grafik.png
-||suedtirol1.it/uploads/beitrag/*/Banner_300x87.gif
+||suedtirol1.it/uploads/beitrag/*/300x70.gif
 ||suedtiroltv.it^*/banner
 ||sunshine.it^*/raika.
 ||supertipp-online.de/wp-content/uploads/*/47645_Animation.gif
@@ -3721,6 +3721,7 @@ fcschweinfurt1905.de##img[width="280"][height="160"]
 pi-news.net,radio-oldtimer.de,silentworld.eu##img[width="300"]
 gamepro.de##img[width="300"][height="246"]
 fruchthandel.de,mygermantimes.com,via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
+suedtirol1.it##img[width="300"][height="70"]
 nh24.de##img[width="330"][height="220"]
 teneriffa-aktuell.com##img[width="450"][height="300"]
 teneriffa-aktuell.com##img[width="450"][height="700"]
