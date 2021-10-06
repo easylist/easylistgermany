@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110061736
+! Version: 202110061746
 ! Title: EasyList Germany
-! Last modified: 06 Oct 2021 17:36 UTC
+! Last modified: 06 Oct 2021 17:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1407,6 +1407,8 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||fahrzeugseiten.de/autoteiledirekt_
 ||fahrzeugseiten.de/Ersatzteilekauf24.jpg
 ||fahrzeugseiten.de/reifen-com-gutscheine-stern.jpg
+||fairaudio.de/rev/
+||fairaudio.de/rev_
 ||fairytail-tube.org^*/amz/
 ||fairytail-tube.org^*/amzb2/
 ||faz.net/f6/ad/
@@ -2953,6 +2955,7 @@ borussia.de##.bmg-ad
 quoka.de##.bnr-wrp
 oberberg-aktuell.de##.bnrad
 russland.capital,russland.news##.bodShopWidget
+fairaudio.de##.borlabs_fairaudio_ads_widget
 liveticker.com##.boxOverContent
 flashscore.de##.boxOverContent__banner
 offroadforen.de##.boxesBottom
@@ -2978,6 +2981,7 @@ scfreiburg.com,sgf1903.de##.c-sponsors-list
 focus.de##.cad
 ka-news.de##.cad_box
 focus.de##.cad_native
+fairaudio.de##.candy-top
 filmlaune.de##.card-streaming-btns
 neuwagen.de##.cardealers
 anzeigervomrottal.ch##.carousel
