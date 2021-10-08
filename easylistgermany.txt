@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110081628
+! Version: 202110081631
 ! Title: EasyList Germany
-! Last modified: 08 Oct 2021 16:28 UTC
+! Last modified: 08 Oct 2021 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -944,6 +944,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||fuckshow.org^$subdocument,third-party
 ||gameliebe.com/affiliate/$third-party
 ||gamesports.net/monkey_
+||gamesports.net/website_partners/
 ||gay-thailand.de^*/gay-thailand468x60.gif
 ||getdigital.de/banner/$third-party
 ||globetrotter.de/de/service/banner/$third-party
@@ -2653,6 +2654,7 @@ uhrforum.de###shuffled-sponsored
 madchensex.com###side-spot
 abnehmen.com,aquariumforum.de,auswandererforum.de,pferd.de,radforum.de###sidebar > li > .ffwidget_sidebar
 areadvd.de###sidebar-left #text-5
+primeleague.gg###sidebar-sponsor
 uhrforum.de###sidebar_container
 pinksugar-kessy.de###sidebar_right > #HTML7
 pinksugar-kessy.de###sidebar_right > #HTML9
@@ -3515,6 +3517,7 @@ aerotelegraph.com##.widget--marktplatz
 melodieundrhythmus.com##.widget-3
 kt1.at##.widget-5
 kt1.at##.widget-7
+primeleague.gg##.widget-list-sponsors
 wp-koenigin.de##.widget__image--banner
 gameswirtschaft.de##.widget_aawp_widget_bestseller
 gameswirtschaft.de##.widget_aawp_widget_box
