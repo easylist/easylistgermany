@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110081548
+! Version: 202110081558
 ! Title: EasyList Germany
-! Last modified: 08 Oct 2021 15:48 UTC
+! Last modified: 08 Oct 2021 15:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3328,8 +3328,13 @@ winfuture.de##.rutschdiv
 sport1.de##.s1-ad
 xn--solitr-fua.de##.sa2
 xn--solitr-fua.de##.sa2_top
-desired.de##.sad_banner
-desired.de##.sad_out-of-page
+desired.de,familie.de##.sad_banner
+desired.de,familie.de##.sad_out-of-page
+familie.de##.sad_pubperform
+familie.de##.sad_rectangle
+familie.de##.sad_rectangle_2
+familie.de##.sad_sky
+familie.de##.sad_topmobile
 digital-eliteboard.com##.samBannerUnit
 digital-eliteboard.com##.samCodeUnit
 wallstreet-online.de##.sb_popularleverageproducts
