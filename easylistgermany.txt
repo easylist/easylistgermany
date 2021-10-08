@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110081620
+! Version: 202110081628
 ! Title: EasyList Germany
-! Last modified: 08 Oct 2021 16:20 UTC
+! Last modified: 08 Oct 2021 16:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -943,6 +943,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||fs-location.de/img/partner/
 ||fuckshow.org^$subdocument,third-party
 ||gameliebe.com/affiliate/$third-party
+||gamesports.net/monkey_
 ||gay-thailand.de^*/gay-thailand468x60.gif
 ||getdigital.de/banner/$third-party
 ||globetrotter.de/de/service/banner/$third-party
@@ -3216,6 +3217,7 @@ basses-blatt.de,beobachter-online.de,blaue-blume.tv,einbecker-morgenpost.de,gand
 aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthurer-zeitung.ch,zugerwoche.ch##.mod_printanzeigen
 schalke04.de##.module-advertising
 fc-union-berlin.de##.module-footer-sponsors
+99damage.de##.monkey-container
 jetztspielen.de##.mpu
 finanzen.net##.mrec-height-prefix
 quiz-lounge.com##.mt-3
