@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110081631
+! Version: 202110081702
 ! Title: EasyList Germany
-! Last modified: 08 Oct 2021 16:31 UTC
+! Last modified: 08 Oct 2021 17:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -943,7 +943,6 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||fs-location.de/img/partner/
 ||fuckshow.org^$subdocument,third-party
 ||gameliebe.com/affiliate/$third-party
-||gamesports.net/monkey_
 ||gamesports.net/website_partners/
 ||gay-thailand.de^*/gay-thailand468x60.gif
 ||getdigital.de/banner/$third-party
