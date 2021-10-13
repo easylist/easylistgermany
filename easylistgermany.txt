@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110131609
+! Version: 202110131613
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2021 16:09 UTC
+! Last modified: 13 Oct 2021 16:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2342,6 +2342,7 @@ inside-digital.de###INS_D_ROS_Parallax
 staedte-info.net###Layer1
 staedte-info.net###Layer2
 teltarif.de###LxShop
+kinderspiele-welt.de###MR
 mtb-news.de###MTB_M_ROS_Sticky
 elektrikforen.de,windows-7-forum.net###MidRectangle
 chip.de###R1C1
@@ -3712,6 +3713,7 @@ supertipp-online.de##div[id^="super-"]
 tippscout.de##div[id^="tipps-"]
 wochenblick.at##div[id^="woche-"]
 weristdeinfreund.de##div[style*="display: block ! important"]
+kinderspiele-welt.de##div[style*="height:250px"]
 lerntippsammlung.de##div[style*="width:300px;height:250px;"]
 go2android.de##div[style="border: 1px solid #000; padding: 5px; margin-bottom: 15px; background: url(https://www.go2android.de/wp-content/plugins/amazonsimpleadmin/img/amazon_DE_small.gif) right bottom no-repeat #ffffff;"]
 wirtschaftslexikon24.com##div[style="float:left;clear:left;height:620px;width:180px;padding-top:15px;"]
