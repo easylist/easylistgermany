@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110131515
+! Version: 202110131532
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2021 15:15 UTC
+! Last modified: 13 Oct 2021 15:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -981,6 +981,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||lead-alliance.net/tb.php$third-party
 ||lieferando.de/widgets/$subdocument,third-party
 ||logiprint.com/partner/$third-party
+||lotto-hh.de/lh/widget1/$subdocument,third-party
 ||lotto24.de/?partner=$subdocument,third-party
 ||lustgate.org/images/cbanner/$third-party
 ||media*.s24.com^$third-party
@@ -2661,7 +2662,7 @@ uhrforum.de###sidebar_container
 pinksugar-kessy.de###sidebar_right > #HTML7
 pinksugar-kessy.de###sidebar_right > #HTML9
 finanznachrichten.de###sideteaser
-gamereactor.de,hardwareluxx.de,itmagazine.ch###sky
+gamereactor.de,hardwareluxx.de,itmagazine.ch,mopo.de###sky
 nextpit.de###sky-left-container
 gamereactor.de###sky2_1
 ad-hoc-news.de###skyL_wrapper
@@ -3226,6 +3227,7 @@ aarauer-nachrichten.ch,st-galler-nachrichten.ch,wiler-nachrichten.ch,winterthure
 schalke04.de##.module-advertising
 fc-union-berlin.de##.module-footer-sponsors
 99damage.de##.monkey-container
+mopo.de##.mopo-ads-editor
 jetztspielen.de##.mpu
 finanzen.net##.mrec-height-prefix
 quiz-lounge.com##.mt-3
