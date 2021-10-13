@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110131510
+! Version: 202110131515
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2021 15:10 UTC
+! Last modified: 13 Oct 2021 15:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1560,6 +1560,8 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||hd-sexfilme.com/img/linklist2/
 ||hdpornos.net/cpanel/?
 ||hdpornos.net/img/linklist2/
+||hdsports.org/images/netzathleten.png
+||hdsports.org/images/stories/Breitensport/kelbet.jpg
 ||healthhelp.ch/wp-content/uploads/*_banner_
 ||heimspiel-online.de/uploads/tx_macinabanners/
 ||herzporno.com/img/linklist/
