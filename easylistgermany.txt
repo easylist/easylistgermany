@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110131718
+! Version: 202110131722
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2021 17:18 UTC
+! Last modified: 13 Oct 2021 17:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1818,6 +1818,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||pfalz-echo.de/wp-content/uploads/*_Anzeige_
 ||pi-news.net/wp-content/uploads/*/Banner_
 ||pi-news.net/wp-content/uploads/*/pax_aktiv.jpg
+||pi-news.net/wp-content/uploads/*_banner.
 ||pi-news.net/wp-content/uploads/*_banner_
 ||pi-news.net/wp-content/uploads/ad-
 ||picdumps.com/ddeal
@@ -3469,10 +3470,9 @@ swp.de##.swp-adbox
 duden.de##.tabloid__side-column-top
 selbstaendig-im-netz.de##.tad1
 golem.de##.tags
-literaturwelt.com##.td-a-rec
-pi-news.net##.td-a-rec-id-content_inlineleft
+literaturwelt.com,pi-news.net##.td-a-rec
 bitreporter.de##.td-a-rec-id-custom-spot
-elliniki-gnomi.eu,pfalz-echo.de,pi-news.net##.td-a-rec-id-header
+elliniki-gnomi.eu,pfalz-echo.de##.td-a-rec-id-header
 primavera24.de##.td-header-container
 marktindex.ch##.td-header-header
 krautundrueben.de,marktindex.ch##.td-header-rec-wrap
