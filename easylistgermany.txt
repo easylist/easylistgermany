@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110131602
+! Version: 202110131606
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2021 16:02 UTC
+! Last modified: 13 Oct 2021 16:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1199,6 +1199,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||amigafuture.de/images/oben/amigastore.png
 ||amor-frau.com/frauen-bilder/120x600
 ||amor-frau.com/frauen-bilder/728x90
+||analysedeutschland.de/files/cltimage/
 ||and6.com/images/ixsBanners/
 ||andalusien-aktuell.es/wp-content/uploads/*/la-casita-blanca.jpg
 ||andalusien-aktuell.es/wp-content/uploads/*/online-hypnose.png
@@ -3514,6 +3515,7 @@ vip.de##.vip-teaser
 frauporno.com##.vjs-overlay
 velomotion.de##.vm-banner
 stol.it##.w-header
+analysedeutschland.de##.wanner
 watson.ch##.watson-ad
 biallo.de##.wb
 biallo.de##.wb-wide
@@ -3543,6 +3545,7 @@ delamar.de##.wk
 regensburg-digital.de##.wk-slideshow
 ariva.de##.wo_news_top_banner
 technic3d.com##.wrap > footer[style="bottom: -260px;"]:last-child > div:first-child
+analysedeutschland.de##.wwd
 games-mag.de##.yftovjn
 games-mag.de##.yftovjn-container
 beat.de,digitalphoto.de##.yieldlove
