@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110131706
+! Version: 202110131713
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2021 17:06 UTC
+! Last modified: 13 Oct 2021 17:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18,7 +18,9 @@
 -Bannerwerbung-
 -werb_hori.
 -werb_vert.
+-Werbebanner-
 -werbebanner.$domain=~merkur-werbebanner.de
+-Werbebannerr_
 .at/werbung/
 .com/de/ad/
 .com/werbung_
@@ -2246,6 +2248,8 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||xn--zri6-0ra.ch/banner/
 ||xnxx-porno.com/img/linklist2/
 ||xup.in/com/pop.
+||yoga-aktuell.de/wp-content/uploads/*_wide-banner-
+||yoga-aktuell.de/wp-content/uploads/*_Wide-Banner_
 ||zebradem.com^*/banner/
 ||zentrum-der-gesundheit.de/apiv2/product/
 ||zueri6.ch/wp-content/uploads*/newblueup.jpg
@@ -3703,6 +3707,7 @@ t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Tt
 t-online.de##div[id^="T-"][oncontextmenu="return false"]
 ebay.de##div[id^="ad_html_"]
 finanzen.ch##div[id^="adnz_"]
+yoga-aktuell.de##div[id^="aktue-"]
 areadvd.de##div[id^="aread-"]
 finanzen100.de,spielen.de##div[id^="banner_"]
 hpd.de##div[id^="block-views-advertising-"]
