@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110131713
+! Version: 202110131718
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2021 17:13 UTC
+! Last modified: 13 Oct 2021 17:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3469,6 +3469,7 @@ swp.de##.swp-adbox
 duden.de##.tabloid__side-column-top
 selbstaendig-im-netz.de##.tad1
 golem.de##.tags
+literaturwelt.com##.td-a-rec
 pi-news.net##.td-a-rec-id-content_inlineleft
 bitreporter.de##.td-a-rec-id-custom-spot
 elliniki-gnomi.eu,pfalz-echo.de,pi-news.net##.td-a-rec-id-header
