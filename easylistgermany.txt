@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110131652
+! Version: 202110131702
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2021 16:52 UTC
+! Last modified: 13 Oct 2021 17:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1360,6 +1360,8 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||dieantenne.it^*/Viropa.png
 ||diebrennstoffzelle.de/images/banner/
 ||digitaledienste.web.de/freemail/browser_decide/?$subdocument
+||digitalfernsehen.de/wp-content/ca/NPAW-
+||digitalfernsehen.de/wp-content/uploads/*/aqipa.jpg
 ||digitalfernsehen.de/wp-content/uploads/*/NPAW-
 ||dnv-online.net/_data/*_Superbanner_
 ||dnv-online.net/_data/Fullsize-Banner.gif
@@ -2401,7 +2403,7 @@ willhaben.at###apn-leaderboard
 gamersglobal.de###arb
 pi-news.net###as2931
 madchensex.com###au
-nrwhits.de###ax-billboard
+digitalfernsehen.de,nrwhits.de###ax-billboard
 finanzen.ch###balken_top
 apotheken-umschau.de,gamekeyfinder.de###banner
 donnerwetter.at,donnerwetter.ch,donnerwetter.de###banner-container
@@ -3060,6 +3062,7 @@ daswetter.com##.creatividad
 u1-radio.at##.csc-partner
 boerse-express.com##.custom-bexad
 derkleinegarten.de##.custom-inhoadd
+digitalfernsehen.de##.custom_html-7
 goldesel.sx##.d_695692
 blockbuster.to##.d_702192
 saugen.to##.d_702212
