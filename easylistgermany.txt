@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110131726
+! Version: 202110131730
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2021 17:26 UTC
+! Last modified: 13 Oct 2021 17:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3686,6 +3686,7 @@ chartsurfer.de##div[class*="adszone-"]
 homegate.ch##div[class^="AdSlotContainer_"]
 mactechnews.de##div[class^="Billboard-"]
 mactechnews.de##div[class^="Billboard_"]
+lovelybooks.de##div[class^="MoliAd_"]
 mactechnews.de##div[class^="Rectangle_"]
 t-online.de##div[class^="Tsshopst"]
 quoka.de##div[class^="div-gpt-"]
