@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110131730
+! Version: 202110141510
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2021 17:30 UTC
+! Last modified: 14 Oct 2021 15:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2784,6 +2784,7 @@ travelguide-en.org###wn-insurance-quote-editor
 wetteronline.de###woFooterBillboard
 meetingpoint-brandenburg.de###wobra-suche
 ariva.de###wpAktieImFokus
+unicum.de###wrapper-banner-head
 pocketpc.ch###xxParentDivForWerbPostbit
 ladies.de###zeiten
 chip.de##.AD
@@ -2903,7 +2904,7 @@ neue-braunschweiger.de##.as-frame-center
 apfeleimer.de##.asa1_fbh
 bitreporter.de##.asa2_fbva_wrapper
 hottime.ch##.asideBoxB
-hockeyweb.de,scienceblogs.de,wissen.de,wissenschaft.de##.asm_async_creative
+hockeyweb.de,scienceblogs.de,unicum.de,wissen.de,wissenschaft.de##.asm_async_creative
 pcgameshardware.de##.at_sponsored
 gartenratgeber.net##.atkp-container
 autoline.de,autoline24.at,autoline24.ch##.atla-place
@@ -3909,6 +3910,7 @@ swz.it#?#.jeg_post.jeg_pl_md_2.pr.format-standard:-abp-has(span:-abp-contains(PR
 t-online.de#?#div[id^="T-"][onfocus^="A('zid="]:-abp-has(a:-abp-contains(Anzeige))
 tag24.de#?#article.article-tile:-abp-has(span.article-tile__badge:-abp-contains(ANZEIGE))
 tonight.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Anzeige))
+unicum.de#?#.artikel-preview-content:-abp-has(p:-abp-contains(-ANZEIGE-))
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
