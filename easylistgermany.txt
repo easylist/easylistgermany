@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110151444
+! Version: 202110151501
 ! Title: EasyList Germany
-! Last modified: 15 Oct 2021 14:44 UTC
+! Last modified: 15 Oct 2021 15:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3726,6 +3726,7 @@ journalistenwatch.com##div[id^="journ-"]
 modified-shop.org##div[id^="modifiedwerbung_"]
 tonspion.de##div[id^="netse-"]
 formel1.de##div[id^="outer_sas_"]
+playfront.de##div[id^="playf-"]
 handballecke.de##div[id^="promotionHeader"]
 metal-hammer.de##div[id^="sas_"]
 schlager.de##div[id^="schlager-ad-"]
