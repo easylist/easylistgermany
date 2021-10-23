@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110231626
+! Version: 202110231630
 ! Title: EasyList Germany
-! Last modified: 23 Oct 2021 16:26 UTC
+! Last modified: 23 Oct 2021 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2261,6 +2261,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||zueri6.ch/wp-content/uploads/*/dscount-escort.jpg
 ||zueri6.ch/wp-content/uploads/*/oh-lala.jpg
 ||zueri6.ch/wp-content/uploads/*/vida6.gif
+||zum.de/eduversum/
 ||zurzeit.at/wp-content/uploads/*/Alm-Werbung-
 ||zurzeit.at/wp-content/uploads/*/Banner-
 ||zwerg-am-berg.de/wp-content/uploads/*/Banner_
@@ -2458,6 +2459,7 @@ nordkurier.de,rtl.de###billboard_1
 nordkurier.de###billboard_2
 bz-berlin.de###billboard_btf
 jungle.world###block-anzeige
+zum.de###block-block-14
 hoerzu.de###block-block-217
 hoerzu.de###block-block-218
 online-webradio.com###block-block-7
