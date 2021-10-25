@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110251723
+! Version: 202110251724
 ! Title: EasyList Germany
-! Last modified: 25 Oct 2021 17:23 UTC
+! Last modified: 25 Oct 2021 17:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3475,6 +3475,7 @@ radiobob.de##.stickyBanner-wrapper
 spielregeln.de##.strack_cli
 ecvsv.at##.stream-item-top-wrapper
 sinn-frei.com##.stx
+handyraketen.de##.su-button-wide[href^="http://amzn.to/"]
 fuersie.de,jagderleben.de,jolie.de,ka-news.de,kochbar.de,maedchen.de,petra.de##.superbanner
 pharmazeutische-zeitung.de##.superbanner-frame
 scfreiburg.com##.superbanner-top
