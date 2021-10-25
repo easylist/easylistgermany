@@ -1575,6 +1575,7 @@ motorradonline.de#?#.v-A_-topteaser__rotationbox__item:-abp-has(.v-A_-teaser__ta
 o-sport.de#?#.card-body:-abp-contains(Sponsoren)
 outdoor-magazin.com#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
+preis24.de#?#.box.box-style1:-abp-has(.notice)
 promiflash.de#?#.onlyDesktop:-abp-has(div.adContainer)
 promobil.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 report-d.de#?#.content-view-containerbox:-abp-contains(SONDER-VERÖFFENTLICHUNG)
