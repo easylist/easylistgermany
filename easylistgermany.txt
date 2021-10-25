@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110251543
+! Version: 202110251545
 ! Title: EasyList Germany
-! Last modified: 25 Oct 2021 15:43 UTC
+! Last modified: 25 Oct 2021 15:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1984,6 +1984,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||sportwetten.org/wp-content/uploads/*-400x300-
 ||sportwetten.org/wp-content/uploads/*-banner-
 ||spox.com/daznpic/
+||sprachen-lernen-online.org/wp-content/uploads/*/skyscraper_
 ||sprade.tv/images/robin_banner.gif
 ||spreeblick.com/wp-content/themes/*/hosteurope.gif
 ||spreeblick.com/wp-content/themes/*/netzgemuese_banner.png
@@ -3784,6 +3785,7 @@ korrekturen.de##div[style="width:728px; height: 90px; text-align: center; backgr
 news.ch##div[style^="width: 300px;"]
 ableitungsrechner.net,integralrechner.de##div[style^="width: 728px;"]
 fussball.ch,wetter.ch,wirtschaft.ch##div[style^="width:300px;"]
+italienisch-lernen-online.net##div[style^="width:300px;height:250px;"]
 rbleipzig.com##img[alt="Logo Partner"]
 finanzen.net##img[alt="Passende Produkte von Vontobel"]
 finanzen.net##img[alt="Passende Produkte von der Société Générale"]
