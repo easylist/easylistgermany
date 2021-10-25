@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110231630
+! Version: 202110251538
 ! Title: EasyList Germany
-! Last modified: 23 Oct 2021 16:30 UTC
+! Last modified: 25 Oct 2021 15:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -373,6 +373,8 @@ _woz_banner_vote.
 ##.article-werb
 ##.artikelinlinead
 ##.b-werbung
+##.babbelMultilangAdBannerHorizontal
+##.babbelMultilangAdRectangle
 ##.banner-werbung-rechts
 ##.banner-werbung-top
 ##.bannerAnzeige
