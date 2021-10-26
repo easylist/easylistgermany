@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110261543
+! Version: 202110261552
 ! Title: EasyList Germany
-! Last modified: 26 Oct 2021 15:43 UTC
+! Last modified: 26 Oct 2021 15:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2513,7 +2513,7 @@ eu-vertretung.de###custom_html-8
 eu-vertretung.de,kriegsberichterstattung.com,mixed.de###custom_html-9
 wochenblatt.pl###custom_post_widget-6
 city23.at###dabplusshop
-wallstreet-online.de###dban1
+finanznachrichten.de,wallstreet-online.de###dban1
 finanznachrichten.de###dban2
 wallstreet-online.de###dcb1
 wallstreet-online.de###dcb2
@@ -2531,6 +2531,7 @@ adspecials.sevenonemedia.de###divBG
 connectiv.events###divi_pb_widget-3
 ehc-lustenau.at###djslider-loader227
 ehc-lustenau.at###djslider-loader229
+finanznachrichten.de###dmr1
 finanznachrichten.de###dmr2
 dnv-online.net###dnvsuperbanner
 drehscheibe-online.de###dsBanner
