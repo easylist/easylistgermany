@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110281550
+! Version: 202110281557
 ! Title: EasyList Germany
-! Last modified: 28 Oct 2021 15:50 UTC
+! Last modified: 28 Oct 2021 15:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3283,6 +3283,7 @@ fussballdaten.de##.news-spiel-quoten
 kitzanzeiger.at##.news_sponsoren_banner
 pz-news.de,rheinpfalz.de##.nfy-banner
 dtb-tennis.de##.ng-banner
+frustfrei-lernen.de##.noContentBannerArea
 wissen.de##.node-promoted
 mikrocontroller.net##.noprint > div[style] + div[style] > script:first-child + div[style]:last-child
 versicherungsjournal.at,versicherungsjournal.de##.norm-rsp-wbox1
@@ -3491,6 +3492,8 @@ swp.de##.swp-adbox
 duden.de##.tabloid__side-column-top
 selbstaendig-im-netz.de##.tad1
 golem.de##.tags
+frustfrei-lernen.de##.tandem_right
+frustfrei-lernen.de##.tandem_top
 bitreporter.de,elliniki-gnomi.eu,literaturwelt.com,pfalz-echo.de,pi-news.net##.td-a-rec
 primavera24.de##.td-header-container
 marktindex.ch##.td-header-header
@@ -3743,6 +3746,7 @@ ibiza-heute.de##div[id^="ibiza-"]
 journalistenwatch.com##div[id^="journ-"]
 modified-shop.org##div[id^="modifiedwerbung_"]
 tonspion.de##div[id^="netse-"]
+frustfrei-lernen.de##div[id^="npm_"]
 formel1.de##div[id^="outer_sas_"]
 playfront.de##div[id^="playf-"]
 handballecke.de##div[id^="promotionHeader"]
