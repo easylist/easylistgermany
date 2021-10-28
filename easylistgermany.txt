@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110281536
+! Version: 202110281550
 ! Title: EasyList Germany
-! Last modified: 28 Oct 2021 15:36 UTC
+! Last modified: 28 Oct 2021 15:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1410,6 +1410,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||elternforen.com/images/banner_
 ||elternforen.com/images/elternforen_banner.png
 ||elternforen.com/images/kinderwagen-banner-
+||emtb-news.de/news/wp-content/uploads/*-takeover-
 ||endstation-rechts.de/fileadmin/banners/
 ||englische-briefe.de/images/email-english-flashbooks.jpg
 ||englische-briefe.de/images/gummibaerchen-at-
@@ -3607,7 +3608,7 @@ tarnkappe.info##a[href*="/hide.me/de/?friend="]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
 ostfussball.com##a[href*="/out/"]
 bild.de##a[href*="/partner/"]
-ladies.de,mtb-news.de##a[href*="/redirect/"]
+emtb-news.de,ladies.de,mtb-news.de##a[href*="/redirect/"]
 strippokerregeln.com##a[href="/www/888casino"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
 t-online.de##a[href="https://gebrauchtwagen-suche.t-online.de/marke-skoda/modell-superb"]
