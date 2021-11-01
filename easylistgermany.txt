@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202110311125
+! Version: 202111011633
 ! Title: EasyList Germany
-! Last modified: 31 Oct 2021 11:25 UTC
+! Last modified: 01 Nov 2021 16:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1096,6 +1096,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||suchebiete.com/bilder/allgemein_kleinanzeigen.png
 ||suedtirol.live/delivery.js
 ||sunpepper.de/shop/banner/$third-party
+||telsso.de/dnwe//gallery/*-800x250-billboard-$domain=biallo.de
 ||tennis.de/dtbdst/$domain=dtb-tennis.de
 ||tnt-game.com^*/banner/$third-party
 ||tortuga.services^*/affiliate/$domain=~travelbook.de
@@ -2782,6 +2783,7 @@ myfont.de###toplists
 hc-neumarkt.com###tr-contentbottom
 pornotim.com###tracking-url
 kinofilme.ucoz.com###trade
+biallo.de###tso-billboard-1
 finanzen.net###ubs-banner-fallback
 wildesporno.xxx###unten_anzeigen
 ifun.de,iphone-ticker.de###verbraucherhinweis-300x600
@@ -3538,6 +3540,7 @@ f95.de##.topsponlink
 travelbook.de##.trc_related_container div[data-item-syndicated="true"]
 radsport-seite.de##.trikots
 pnn.de,tagesspiegel.de##.ts-sptag
+biallo.de##.tso-pub
 tvsportguide.de##.tvg-manager-box
 lolabrause.ch##.tx-admanager
 hamburg-pride.de##.tx-imagecycle-pi1
