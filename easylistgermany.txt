@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111021633
+! Version: 202111021639
 ! Title: EasyList Germany
-! Last modified: 02 Nov 2021 16:33 UTC
+! Last modified: 02 Nov 2021 16:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1208,6 +1208,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||ak-kurier.de/akkurier/www/upload/
 ||aktienportal1.de/img/banner/
 ||aktuell-kl.de/images/banners/
+||algarve-entdecker.com/wp-content/uploads/*/xbanner-
 ||altesrad.net/phpBB3/images/banner/
 ||amazonaws.com/bnp_657x209_$domain=finanzen.net
 ||amigafuture.de/images/amazon234x60_
@@ -2763,7 +2764,7 @@ nh24.de###text-35
 fahrzeuglackiererforum.de###text-4
 geocaching-magazin.com,nh24.de###text-48
 nh24.de###text-54
-nh24.de###text-59
+algarve-entdecker.com,nh24.de###text-59
 fussballnationalmannschaft.net###text-6
 isaswomo.de###text-64
 supermarkt-inside.de,via-ferrata.de###text-8
