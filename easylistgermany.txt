@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111021629
+! Version: 202111021633
 ! Title: EasyList Germany
-! Last modified: 02 Nov 2021 16:29 UTC
+! Last modified: 02 Nov 2021 16:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1511,6 +1511,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||gameothek.com/wp-content/uploads/buttons/
 ||gandersheimer-kreisblatt.de/files/gk/banner/
 ||gartennatur.com/wp-content/uploads/371x430-319x370.jpg
+||gawina.de/wp-content/uploads/*-Banner_
 ||gazzettadellambri.ch/wp-content/uploads/*_Banner_
 ||gentleman-blog.de/wp-content/uploads/270x191.jpg
 ||gentleman-blog.de/wp-content/uploads/870x150.jpg
@@ -3618,6 +3619,7 @@ camping.de##a[class^="herobanner-adv"]
 hallo-minden.de##a[data-adid]:not([data-adid="12937"])
 mobilegeeks.de##a[data-eventcategory="Kooperation"]
 schlager.de##a[data-name="topbanner"]
+gawina.de##a[data-track]
 t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
 donau3fm.de,isaswomo.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,spox.com,via-ferrata.de##a[href*="//bit.ly/"]
