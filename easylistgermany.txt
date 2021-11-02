@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111021639
+! Version: 202111021647
 ! Title: EasyList Germany
-! Last modified: 02 Nov 2021 16:39 UTC
+! Last modified: 02 Nov 2021 16:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2473,6 +2473,8 @@ bz-berlin.de,computerbild.de,stuttgarter-zeitung.de###billboard
 nordkurier.de,rtl.de###billboard_1
 nordkurier.de###billboard_2
 bz-berlin.de###billboard_btf
+finanzen-nerd.de###block-2
+finanzen-nerd.de###block-7
 jungle.world###block-anzeige
 zum.de###block-block-14
 hoerzu.de###block-block-217
