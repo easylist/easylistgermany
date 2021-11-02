@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111021455
+! Version: 202111021459
 ! Title: EasyList Germany
-! Last modified: 02 Nov 2021 14:55 UTC
+! Last modified: 02 Nov 2021 14:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1747,6 +1747,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||motorradundreisen.de^*/banner/
 ||msecnd.net/endpoint/shipment/$domain=merkurist.de
 ||mtb-news.de/news/wp-content/plugins/mtbn-ads/
+||mtb-news.de/news/wp-content/uploads/*/takeover-
 ||mtb-news.de/news/wp-content/uploads/*/Takeover_
 ||multilingual.de^*/banner/
 ||multilingual.de^*/sprachreisen_0.gif
