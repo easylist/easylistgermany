@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111021626
+! Version: 202111021629
 ! Title: EasyList Germany
-! Last modified: 02 Nov 2021 16:26 UTC
+! Last modified: 02 Nov 2021 16:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2026,6 +2026,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||suedtirol1.it/uploads/beitrag/*/300x70.gif
 ||suedtiroltv.it^*/banner
 ||sunshine.it^*/raika.
+||supermarkt-inside.de/wp-content/uploads/*/akcenta-ad.gif
 ||supertipp-online.de/wp-content/uploads/*/47645_Animation.gif
 ||supertipp-online.de/wp-content/uploads/*/Edeka_Nissen_Content.gif
 ||supertipp-online.de/wp-content/uploads/*/Gottfried_schultz.gif
@@ -3543,6 +3544,7 @@ rheiderland.de##.topanzeigen-slider-wrapper
 queer.de##.toplinks
 mobile.de##.topresult + .dealerAd
 f95.de##.topsponlink
+supermarkt-inside.de##.tracking_trigger
 travelbook.de##.trc_related_container div[data-item-syndicated="true"]
 radsport-seite.de##.trikots
 pnn.de,tagesspiegel.de##.ts-sptag
