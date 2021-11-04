@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111031702
+! Version: 202111041339
 ! Title: EasyList Germany
-! Last modified: 03 Nov 2021 17:02 UTC
+! Last modified: 04 Nov 2021 13:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2719,6 +2719,7 @@ it-production.com###skyscraper-group-left
 obermain.de,rhoenundsaalepost.de###slot-banner
 obermain.de,rhoenundsaalepost.de###slot-rectangle
 obermain.de,rhoenundsaalepost.de###slot-sky
+zentrum-der-gesundheit.de###slot__header
 kochrezepte.at###slot_middle
 kochrezepte.at###slot_middle_2
 bigfm.de###smartclip-overlay
@@ -3976,6 +3977,8 @@ unicum.de#?#.artikel-preview-content:-abp-has(p:-abp-contains(-ANZEIGE-))
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
+zentrum-der-gesundheit.de#?#span:-abp-has(svg:-abp-contains(ANZ)) + button
+zentrum-der-gesundheit.de#?#span:-abp-has(svg:-abp-contains(ANZ)) + div
 zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist.txt ***
