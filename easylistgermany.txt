@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111091555
+! Version: 202111101823
 ! Title: EasyList Germany
-! Last modified: 09 Nov 2021 15:55 UTC
+! Last modified: 10 Nov 2021 18:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3233,6 +3233,7 @@ buffed.de,pcgames.de##.item + .at_sponsored > .itemHeadline
 pragerzeitung.cz##.item-advert
 gamepro.de,gamestar.de##.jad-placeholder
 interaktiv.tagesspiegel.de##.jobunion-container
+eurocampings.de##.js-mock-banner
 kochbar.de##.kb-home-medrec-halfpage
 kicker.de##.kick__ad-pos_wrapper
 euro.kicker.de##.kick__euro2020-brand-sponsor
