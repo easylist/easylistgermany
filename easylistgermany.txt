@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111121412
+! Version: 202111121419
 ! Title: EasyList Germany
-! Last modified: 12 Nov 2021 14:12 UTC
+! Last modified: 12 Nov 2021 14:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1349,7 +1349,6 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||cyclingmagazine.de/wp-content/uploads/*_Banner_
 ||daily-pia.de/wp-content/uploads/*/manitu_hostedby-
 ||dasbewegtdiewelt.de/wp-content/banner/
-||ddl-warez.to/images/ddownload_promo.png
 ||deinesexfilme.com/img/linklist2/
 ||deister-echo.de/wp-content/uploads/*/ad_
 ||delamar.de/wp-content/uploads/*/wallp_
@@ -3332,8 +3331,6 @@ grenzecho.net##.pane-dpipub-rossel-imu-middle-moblile
 grenzecho.net##.pane-dpipub-rossel-native-top
 fotomagazin.de##.pane-landing-advertorial
 oekoportal.de##.panel-display > .panel-col-side > #block-views-website-block-1
-ddl-warez.to##.panel-heading[style="text-align:center;background-color:yellow;font-size:13px;color:#555555;"]
-ddl-warez.to##.panel-heading[style="text-align:center;background-color:yellow;font-size:16px;color:#555555;"]
 mytastedeu.com##.panorama
 paradiso.de##.paradiso-hp-ads-horizontal
 spielregeln.de##.parallax_link
@@ -3728,9 +3725,6 @@ dervinschger.it##a[id="bottombanner"]
 wallstreet-online.de##a[onclick*="'tableAd'"]
 wallstreet-online.de##a[onclick*="'tableAd'"] + img
 shaz.ch##a[onclick^="__gaTracker('send', 'event', 'Ads'"]
-ddl-warez.to##a[onclick^="window.location.href='https://aj1574.online/"]
-ddl-warez.to##a[onclick^="window.location.href='https://ddownload.com/free"]
-ddl-warez.to##a[onclick^="window.location.href='https://rapidgator.net/article/premium/ref/"]
 computerbase.de##a[rel*="sponsored"] > img[alt="Anzeige"]
 schweizer-illustrierte.ch##a[rel="sponsored"]
 andalusien-aktuell.es,sex4u.ch##a[rel^="sponsored"]
