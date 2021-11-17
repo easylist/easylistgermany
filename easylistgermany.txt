@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111171554
+! Version: 202111171701
 ! Title: EasyList Germany
-! Last modified: 17 Nov 2021 15:54 UTC
+! Last modified: 17 Nov 2021 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3643,6 +3643,7 @@ tarnkappe.info##a[href*="/hide.me/de/?friend="]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
 ostfussball.com##a[href*="/out/"]
 bild.de##a[href*="/partner/"]
+tarnkappe.info##a[href*="/prf.hn/click/"]
 emtb-news.de,ladies.de,mtb-news.de##a[href*="/redirect/"]
 strippokerregeln.com##a[href="/www/888casino"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
