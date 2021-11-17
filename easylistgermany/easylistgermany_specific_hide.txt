@@ -464,8 +464,10 @@ pocketpc.ch###xxParentDivForWerbPostbit
 ladies.de###zeiten
 chip.de##.AD
 preissuchmaschine.de##.AFS_ADD
+onvista.de##.ANZEIGE
 chip.de,finanzfrage.net,gutefrage.net##.Ad
 elektrikforen.de,jungewelt.de,vermieter-forum.com##.Anzeige
+onvista.de##.BILLBOARD
 fc-suedtirol.com##.BannerContainer
 momondo.de##.Common-Kn-Display
 momondo.de##.Common-Kn-Rp-FlightInline
@@ -480,6 +482,7 @@ perspektive-mittelstand.de##.Laddbox300
 alle-autos-in.de##.NaviTopP
 simmentalzeitung.ch##.PrintMotifRotator
 dieharke.de##.Rectangle
+onvista.de##.SKYSCRAPER
 onvista.de##.TEASERBOX.DEPOT_KONTO
 t-online.de##.Tadc
 t-online.de##.Tgbox--anz
@@ -1278,6 +1281,7 @@ schlager.de##a[data-name="topbanner"]
 gawina.de##a[data-track]
 t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
+onvista.de##a[href*="&adname="]
 donau3fm.de,isaswomo.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,spox.com,via-ferrata.de##a[href*="//bit.ly/"]
 amigafuture.de##a[href*="/boardheaderads/"]
 erogeschichten.com##a[href*="/go/"]
@@ -1285,6 +1289,7 @@ tarnkappe.info##a[href*="/hide.me/de/?friend="]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
 ostfussball.com##a[href*="/out/"]
 bild.de##a[href*="/partner/"]
+tarnkappe.info##a[href*="/prf.hn/click/"]
 emtb-news.de,ladies.de,mtb-news.de##a[href*="/redirect/"]
 strippokerregeln.com##a[href="/www/888casino"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
@@ -1388,6 +1393,7 @@ mactechnews.de##div[class^="Billboard_"]
 lovelybooks.de##div[class^="MoliAd_"]
 mactechnews.de##div[class^="Rectangle_"]
 t-online.de##div[class^="Tsshopst"]
+2ix2.com##div[class^="bireklam"]
 quoka.de##div[class^="div-gpt-"]
 costanachrichten.com##div[class^="lp_track_"]
 emtb-news.de,mtb-news.de##div[class^="mtbnews-ad-container"]
