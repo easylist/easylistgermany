@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111181711
+! Version: 202111181720
 ! Title: EasyList Germany
-! Last modified: 18 Nov 2021 17:11 UTC
+! Last modified: 18 Nov 2021 17:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2912,7 +2912,10 @@ kauf6.com##.advertisments
 speedweek.com##.advheader
 erf.de,greenbyte.ch,rtl.de##.adwrapper
 guteporno.com##.aff-inhalt-geil-spalte
+stylebook.de##.affiliate-amex
 einsteiger-keyboard.de##.affiliate-button
+stylebook.de##.affiliate-mediamarkt
+stylebook.de##.affiliate-o2
 pcgames.de##.affiliateBelowArticle
 radiodeutsch.com##.ai-placement
 blitzrechner.de##.ai_widget
@@ -3565,7 +3568,6 @@ queer.de##.toplinks
 mobile.de##.topresult + .dealerAd
 f95.de##.topsponlink
 supermarkt-inside.de##.tracking_trigger
-travelbook.de##.trc_related_container div[data-item-syndicated="true"]
 mannheimer-morgen.de##.trf-billboardcontainer
 radsport-seite.de##.trikots
 pnn.de,tagesspiegel.de##.ts-sptag
@@ -3918,8 +3920,8 @@ focus.de##.shoppingcartctn
 businessinsider.de,bz-berlin.de,giga.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsored
 businessinsider.de,giga.de,metal-hammer.de,myhomebook.de,spieletipps.de,transfermarkt.de##.trc-content-sponsoredUB
 computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
-businessinsider.de,bz-berlin.de,fitbook.de,giga.de,myhomebook.de,noizz.de,spieletipps.de,sportbild.bild.de,techbook.de,transfermarkt.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
-bz-berlin,bz-berlin.de,metal-hammer.de,musikexpress.de,rollingstone.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
+businessinsider.de,bz-berlin.de,fitbook.de,giga.de,myhomebook.de,noizz.de,spieletipps.de,sportbild.bild.de,techbook.de,transfermarkt.de,travelbook.de,welt.de##.trc_related_container div[data-item-syndicated="true"]
+bz-berlin,bz-berlin.de,metal-hammer.de,musikexpress.de,rollingstone.de,stylebook.de##.trc_related_container div[data-item-syndicated="true"]:not(.inNetworkItem)
 finanzen.net,gamestar.de,n-tv.de##a[data-nvp*="'trafficUrl':'https://paid.outbrain.com/network/redir?"]
 finanzen.net,gamestar.de,n-tv.de##a[data-oburl^="https://paid.outbrain.com/network/redir?"]
 finanzen.net,gamestar.de,n-tv.de##a[data-redirect^="https://paid.outbrain.com/network/redir?"]
