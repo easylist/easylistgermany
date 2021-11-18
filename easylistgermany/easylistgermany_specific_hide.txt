@@ -555,8 +555,8 @@ erf.de,greenbyte.ch,rtl.de##.adwrapper
 guteporno.com##.aff-inhalt-geil-spalte
 stylebook.de##.affiliate-amex
 einsteiger-keyboard.de##.affiliate-button
-stylebook.de,techbook.de##.affiliate-mediamarkt
-stylebook.de,techbook.de,travelbook.de##.affiliate-o2
+fitbook.de,stylebook.de,techbook.de##.affiliate-mediamarkt
+fitbook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-o2
 techbook.de##.affiliate-saturn
 travelbook.de##.affiliate-tink
 pcgames.de##.affiliateBelowArticle
@@ -1572,6 +1572,7 @@ plista.com##a[href^="http://click.plista.com/pets"]
 finanzen.net##a[href^="https://ad.doubleclick.net/"]
 finanzen.net,gamestar.de,n-tv.de##a[href^="https://paid.outbrain.com/network/redir?"]
 musikexpress.de##a[href^="https://popup.taboola.com/"]
+fitbook.de,stylebook.de,travelbook.de##a[href^="https://www.communicationads.net/tc.php"] > img
 finanzen.net,focus.de,gamestar.de,metal-hammer.de,n-tv.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
 ! Advanced element hiding rules for Adblock Plus
