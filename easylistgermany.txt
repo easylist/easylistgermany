@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111182047
+! Version: 202111182050
 ! Title: EasyList Germany
-! Last modified: 18 Nov 2021 20:47 UTC
+! Last modified: 18 Nov 2021 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -533,6 +533,7 @@ _woz_banner_vote.
 ##a[href^="https://marketing.net.brillen.de/"]
 ##a[href^="https://media.datingpartner.com/click.php?dp="]
 ##a[href^="https://stream.justhdfilme.com/kkiste-kinox/"]
+##a[href^="https://www.communicationads.net/tc.php"] > img
 ##a[href^="https://www.handy-sextreffen.info/?c="]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
@@ -2914,8 +2915,8 @@ erf.de,greenbyte.ch,rtl.de##.adwrapper
 guteporno.com##.aff-inhalt-geil-spalte
 stylebook.de##.affiliate-amex
 einsteiger-keyboard.de##.affiliate-button
-stylebook.de,techbook.de##.affiliate-mediamarkt
-stylebook.de,techbook.de,travelbook.de##.affiliate-o2
+fitbook.de,stylebook.de,techbook.de##.affiliate-mediamarkt
+fitbook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-o2
 techbook.de##.affiliate-saturn
 travelbook.de##.affiliate-tink
 pcgames.de##.affiliateBelowArticle
@@ -3931,6 +3932,7 @@ plista.com##a[href^="http://click.plista.com/pets"]
 finanzen.net##a[href^="https://ad.doubleclick.net/"]
 finanzen.net,gamestar.de,n-tv.de##a[href^="https://paid.outbrain.com/network/redir?"]
 musikexpress.de##a[href^="https://popup.taboola.com/"]
+fitbook.de,stylebook.de,travelbook.de##a[href^="https://www.communicationads.net/tc.php"] > img
 finanzen.net,focus.de,gamestar.de,metal-hammer.de,n-tv.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
 ! Advanced element hiding rules for Adblock Plus
