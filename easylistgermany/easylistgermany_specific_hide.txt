@@ -553,10 +553,10 @@ kauf6.com##.advertisments
 speedweek.com##.advheader
 erf.de,greenbyte.ch,rtl.de##.adwrapper
 guteporno.com##.aff-inhalt-geil-spalte
-stylebook.de##.affiliate-amex
+myhomebook.de,stylebook.de##.affiliate-amex
 einsteiger-keyboard.de##.affiliate-button
 fitbook.de,stylebook.de,techbook.de##.affiliate-mediamarkt
-fitbook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-o2
+fitbook.de,myhomebook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-o2
 techbook.de##.affiliate-saturn
 travelbook.de##.affiliate-tink
 pcgames.de##.affiliateBelowArticle
@@ -1375,6 +1375,7 @@ nsladies.de##a[href^="https://www.visit-x.net/de/w/chathost/?w="]
 pornhubdeutsch.info,xhamsterde.com##a[href^="https://www.wazazu.com/LA/Landingpage?"]
 xhamsterde.com##a[href^="https://www.zononi.com/LA/LP/Finder?"]
 xhamsterde.com##a[href^="https://www.zononi.com/VX/LP/Roulette?"]
+myhomebook.de##a[href^="https://www6.smartadserver.com/"] > img
 ladies.de##a[href^="https://zwinkr.de/landing/"]
 dervinschger.it##a[id="bottombanner"]
 wallstreet-online.de##a[onclick*="'tableAd'"]
