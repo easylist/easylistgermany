@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111182055
+! Version: 202111182057
 ! Title: EasyList Germany
-! Last modified: 18 Nov 2021 20:55 UTC
+! Last modified: 18 Nov 2021 20:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2913,12 +2913,12 @@ kauf6.com##.advertisments
 speedweek.com##.advheader
 erf.de,greenbyte.ch,rtl.de##.adwrapper
 guteporno.com##.aff-inhalt-geil-spalte
-myhomebook.de,stylebook.de##.affiliate-amex
+fitbook.de,myhomebook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-amex
 einsteiger-keyboard.de##.affiliate-button
-fitbook.de,stylebook.de,techbook.de##.affiliate-mediamarkt
+fitbook.de,myhomebook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-mediamarkt
 fitbook.de,myhomebook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-o2
-techbook.de##.affiliate-saturn
-travelbook.de##.affiliate-tink
+fitbook.de,myhomebook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-saturn
+fitbook.de,myhomebook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-tink
 pcgames.de##.affiliateBelowArticle
 radiodeutsch.com##.ai-placement
 blitzrechner.de##.ai_widget
