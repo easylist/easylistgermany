@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111221808
+! Version: 202111221847
 ! Title: EasyList Germany
-! Last modified: 22 Nov 2021 18:08 UTC
+! Last modified: 22 Nov 2021 18:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3767,6 +3767,7 @@ quoka.de##div[class^="div-gpt-"]
 costanachrichten.com##div[class^="lp_track_"]
 emtb-news.de,mtb-news.de##div[class^="mtbnews-ad-container"]
 via-ferrata.de##div[class^="overlay-"]
+grenzecho.net##div[class^="pane-dpipub-"]
 rundschau.info##div[class^="runds-werbung-"]
 uniliga.gg##div[class^="sponsors-"]
 amazon.de##div[data-ad-id]
