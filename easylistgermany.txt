@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111221719
+! Version: 202111221800
 ! Title: EasyList Germany
-! Last modified: 22 Nov 2021 17:19 UTC
+! Last modified: 22 Nov 2021 18:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3825,6 +3825,8 @@ digitalfernsehen.de##div[style="margin-bottom:10px"]
 shopanbieter.de##div[style="margin: 30px 0px 30px 0px;padding: 10px; border-width: 2px; border-style: dashed; background-color: #f6f5f2;"]
 winfuture.de##div[style="margin: 3px 0px; text-align: center; min-width: 300px; min-height: 250px;"]
 fussballeuropa.com##div[style="margin:10px 0 5px 0;min-height:250px;"]
+rsa-radio.de##div[style="margin:40px 0 0 0; text-align:center;"]
+rsa-radio.de##div[style="margin:60px 0 0 0; text-align:center;"]
 teneriffa-news.com##div[style="min-height: 280px; margin-top: -20px;"]
 popkultur.de##div[style="min-height: 280px;"]
 gamereactor.de##div[style="min-height: 600px; margin-bottom: 20px;"]
