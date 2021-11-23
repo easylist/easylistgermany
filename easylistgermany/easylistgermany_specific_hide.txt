@@ -1595,6 +1595,7 @@ chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEI
 chip.de#?#a.secondary:-abp-has(.Badge__Content:-abp-contains(/anzeige|gesponsert/))
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
+computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains([anzeige:))
 cyclingmagazine.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Sponsored Post))
 diegrenzgaenger.lu#?#article[id^=post-]:-abp-has(.sponsored-indicator)
 ebay.at#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
