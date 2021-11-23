@@ -1595,7 +1595,7 @@ chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEI
 chip.de#?#a.secondary:-abp-has(.Badge__Content:-abp-contains(/anzeige|gesponsert/))
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
-computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains([Anzeige:))
+computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains([anzeige:))
 cyclingmagazine.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Sponsored Post))
 diegrenzgaenger.lu#?#article[id^=post-]:-abp-has(.sponsored-indicator)
 ebay.at#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
@@ -1642,6 +1642,7 @@ unicum.de#?#.artikel-preview-content:-abp-has(p:-abp-contains(-ANZEIGE-))
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
+zeit.de#?#.zett-teaser-trio:-abp-has(.zett-teaser-trio__kicker--ad-anzeige)
 zentrum-der-gesundheit.de#?#span:-abp-has(svg:-abp-contains(ANZ)) + button
 zentrum-der-gesundheit.de#?#span:-abp-has(svg:-abp-contains(ANZ)) + div
 zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
