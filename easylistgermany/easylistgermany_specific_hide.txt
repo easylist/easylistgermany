@@ -115,7 +115,7 @@ bz-berlin.de,computerbild.de,stuttgarter-zeitung.de###billboard
 kochrezepte.at###billboard-location
 nordkurier.de,rtl.de###billboard_1
 nordkurier.de###billboard_2
-bz-berlin.de###billboard_btf
+bz-berlin.de,finanzen.net###billboard_btf
 finanzen-nerd.de###block-2
 finanzen-nerd.de###block-7
 jungle.world###block-anzeige
@@ -282,7 +282,7 @@ hceintracht-hildesheim.de###module-sponsors
 wallstreet-online.de###mooTicker
 wallstreet-online.de###mooTickerContainerMobile
 gamereactor.de###mpu
-bild.de,bz-berlin.de###mrec
+bild.de,bz-berlin.de,finanzen.net###mrec
 meetingpoint-brandenburg.de###myspacerinner
 meetingpoint-brandenburg.de###myspacerright
 fupa.net###nab_container
@@ -381,6 +381,7 @@ hallescherfc.de###sponsors_slider
 frauporno.com###spz_42
 radiofr.ch###square
 queer.de###startrechts
+finanzen.net###sticky-superbanner
 studis-online.de###ston-billboard
 studis-online.de###ston-footer-ad
 eu-vertretung.de###stream-item-widget-2
@@ -754,6 +755,8 @@ buffed.de,gamezone.de,pcgames.de,pcgameshardware.de##.contentFrameEddie
 koeln.de##.contentRect
 tourispo.de##.contentRefsAside
 mannheimer-morgen.de##.core-commercial
+finanzen.net##.cpg_incontent1-container
+finanzen.net##.cpg_incontent2-container
 daswetter.com##.creatividad
 u1-radio.at##.csc-partner
 boerse-express.com##.custom-bexad
@@ -1552,6 +1555,7 @@ gmx.net,web.de##tr[data-component="MessageListAdRow"]
 gmx.ch,gmx.net,web.de##tr[data-component="MessageListSpecialRow"]
 ! Specific hiding filters necessary for sites using $generichide filter option
 focus.de###CT_DESKTOP_NATIVE_HOR_ANY_hor2
+finanzen.net###footer-ad
 finanzen.net###news-contentads
 focus.de###tfm_admanagerTeaser
 ran.de##.ad-component
@@ -1606,6 +1610,8 @@ ebay.de#?#.mfe-lex:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 eurotransport.de#?#.v-A_-sidecol__list__item:-abp-has(.v-A_-teaser__tag--ad)
 feuerwehrmagazin.de#?#.excerpt-tile.cell.small-12.medium-6:-abp-has(.advertorials)
+finanzen.net#?#.mleft-10.small-font.light-grey:-abp-contains(Werbung) + .box + .border-blue-2
+finanzen.net#?#.mleft-10.small-font.light-grey:-abp-contains(Werbung) + .box + .box
 finanzen.net#?#.mleft-10:-abp-contains(Werbung) + .box
 fuersie.de#?#.teaser__item:-abp-has(.teaser__adtype)
 futurezone.de#?#article[data-post-id]:-abp-has(.sponsor-byline)
