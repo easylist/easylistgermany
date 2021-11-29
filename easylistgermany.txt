@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202111291436
+! Version: 202111291723
 ! Title: EasyList Germany
-! Last modified: 29 Nov 2021 14:36 UTC
+! Last modified: 29 Nov 2021 17:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3653,6 +3653,7 @@ gawina.de##a[data-track]
 t-online.de##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
 onvista.de##a[href*="&adname="]
+tarnkappe.info##a[href*=".rokkr.net/promo/"]
 donau3fm.de,isaswomo.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,spox.com,via-ferrata.de##a[href*="//bit.ly/"]
 amigafuture.de##a[href*="/boardheaderads/"]
 erogeschichten.com##a[href*="/go/"]
@@ -3662,12 +3663,11 @@ ostfussball.com##a[href*="/out/"]
 bild.de##a[href*="/partner/"]
 tarnkappe.info##a[href*="/prf.hn/click/"]
 emtb-news.de,ladies.de,mtb-news.de##a[href*="/redirect/"]
+tarnkappe.info##a[href*="?sca_ref="]
 strippokerregeln.com##a[href="/www/888casino"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
 t-online.de##a[href="https://gebrauchtwagen-suche.t-online.de/marke-skoda/modell-superb"]
-tarnkappe.info##a[href^=" https://cell.cubbit.io?sca_ref="]
 tarnkappe.info##a[href^=" https://www.bit.ly/"]
-tarnkappe.info##a[href^=" https://www.rokkr.net/promo/"]
 hammerporno.xxx##a[href^="//plx.hammerporno.xxx/pool_link/"]
 herthabsc.de##a[href^="/de/hertha/sponsoren/exklusiv-partner/uebersicht/page/"]
 bastel-elfe.de##a[href^="banners.php?"]
@@ -3961,7 +3961,7 @@ chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEI
 chip.de#?#a.secondary:-abp-has(.Badge__Content:-abp-contains(/anzeige|gesponsert/))
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
-computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains([Anzeige:))
+computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains([anzeige:))
 cyclingmagazine.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Sponsored Post))
 diegrenzgaenger.lu#?#article[id^=post-]:-abp-has(.sponsored-indicator)
 ebay.at#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
