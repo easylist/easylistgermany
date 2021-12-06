@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112061814
+! Version: 202112061821
 ! Title: EasyList Germany
-! Last modified: 06 Dec 2021 18:14 UTC
+! Last modified: 06 Dec 2021 18:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3987,6 +3987,10 @@ golem.de#?#li[data-article-id]:-abp-has(.icon-addy.icon-affy)
 guenstiger.de#?#.productCard:-abp-has(div.premiumProductCaption)
 handelszeitung.ch#?#.teaser-m-default:-abp-contains(Native Advertising)
 handelszeitung.ch#?#.teaser-m-default:-abp-contains(Publireportage)
+heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===)
+heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===) + p
+heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===) + p + p
+heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ende===)
 jameda.de#?#li:-abp-has([data-testid="advertisementSign-flag"])
 laola1.at#?#.block.medium:-abp-has(a[href^="https://dt.sportradar.com/"])
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
