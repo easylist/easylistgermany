@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112131703
+! Version: 202112131706
 ! Title: EasyList Germany
-! Last modified: 13 Dec 2021 17:03 UTC
+! Last modified: 13 Dec 2021 17:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2111,6 +2111,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||tvbstuttgart.de/wp-content/uploads/*/kaercher-wohninvest-
 ||tvdigital.de/frontpage/deutschland_urlaub_hoerzu_
 ||tvdigital.de/frontpage/deutschland_urlaub_horzu_
+||tvinfo.de/info/TWIAGO/
 ||tweakpc.de/wpimages/tweakpc-skin-
 ||typo3blogger.de/wp-content/*/dkd-solr-werde-sponsor.jpg
 ||uhrforum.de/styles/uhrforum/sponsored/
@@ -2432,7 +2433,8 @@ willhaben.at###apn-leaderboard
 gamersglobal.de###arb
 pi-news.net###as2931
 madchensex.com###au
-digitalfernsehen.de,nrwhits.de###ax-billboard
+digitalfernsehen.de,nrwhits.de,tvinfo.de###ax-billboard
+tvinfo.de###ax-billboard-sub
 finanzen.ch###balken_top
 apotheken-umschau.de,gamekeyfinder.de###banner
 donnerwetter.at,donnerwetter.ch,donnerwetter.de###banner-container
