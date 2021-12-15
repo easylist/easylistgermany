@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112151735
+! Version: 202112151755
 ! Title: EasyList Germany
-! Last modified: 15 Dec 2021 17:35 UTC
+! Last modified: 15 Dec 2021 17:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4024,8 +4024,8 @@ wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
 zeit.de#?#.zett-teaser-trio:-abp-has(.zett-teaser-trio__kicker--ad-anzeige)
-zentrum-der-gesundheit.de#?#span:-abp-has(svg:-abp-contains(AN)) + button
-zentrum-der-gesundheit.de#?#span:-abp-has(svg:-abp-contains(AN)) + div
+zentrum-der-gesundheit.de#?#span:-abp-has(svg:-abp-contains(/N|G|I|Z|E|E|A/)) + button
+zentrum-der-gesundheit.de#?#span:-abp-has(svg:-abp-contains(/N|G|I|Z|E|E|A/)) + div
 zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist.txt ***
