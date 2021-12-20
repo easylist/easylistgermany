@@ -616,6 +616,7 @@ skipper-bootshandel.de,tvtoday.de##.banner-container
 wochenblatt.cc##.banner-header-left
 wochenblatt.cc##.banner-header-right
 medienjobs.ch,prewarcar.de##.banner-holder
+giga.de##.banner-homepage
 xerotik.ch##.banner-img-bottom
 mein-wahres-ich.de##.banner-inline
 esports.ch##.banner-leadboard
@@ -1630,6 +1631,7 @@ futurezone.de#?#article[data-post-id]:-abp-has(.sponsor-byline)
 gamestar.de#?#.content-item-medium:-abp-has(data:-abp-contains(Anzeige))
 gamestar.de#?#.content-item-small:-abp-has(h3:-abp-contains(Anzeige))
 gesundheit.de#?#.box.img_link:-abp-has(.advertorial_hint)
+giga.de#?#.alice-teaser-list-item:-abp-has(.alice-teaser-meta-text:-abp-contains(Anzeige))
 gofeminin.de#?#.af-block-native:-abp-contains(Anzeige)
 gofeminin.de#?#.af-block-native:-abp-contains(Sponsored Post)
 golem.de#?#li[data-article-id]:-abp-has(.icon-addy.icon-affy)
