@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112181743
+! Version: 202112201705
 ! Title: EasyList Germany
-! Last modified: 18 Dec 2021 17:43 UTC
+! Last modified: 20 Dec 2021 17:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3936,6 +3936,7 @@ jetzt.de##.ad__template
 focus.de##.adsBlock
 finanzen.net##.adsbygoogle
 n-tv.de##.ems-slot
+focus.de##.fol_mew-flying-carpet-wrapper
 focus.de##.ob-ad-carousel-layout
 jetzt.de,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
@@ -3953,11 +3954,14 @@ finanzen.net,gamestar.de,n-tv.de##a[data-oburl^="https://paid.outbrain.com/netwo
 finanzen.net,gamestar.de,n-tv.de##a[data-redirect^="https://paid.outbrain.com/network/redir?"]
 plista.com##a[href^="http://click.plista.com/pets"]
 finanzen.net##a[href^="https://ad.doubleclick.net/"]
-finanzen.net,gamestar.de,n-tv.de##a[href^="https://paid.outbrain.com/network/redir?"]
+finanzen.net,focus.de,gamestar.de,n-tv.de##a[href^="https://paid.outbrain.com/network/redir?"]
 musikexpress.de##a[href^="https://popup.taboola.com/"]
 fitbook.de,stylebook.de,travelbook.de##a[href^="https://www.communicationads.net/tc.php"] > img
 finanzen.net,focus.de,gamestar.de,metal-hammer.de,n-tv.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
+focus.de##div[id^="CT_SMARTPHONE_NATIVE_"]
+focus.de##div[id^="M_CONTENTAD"]
+focus.de##div[id^="M_TRSCT_hor"]
 ! Advanced element hiding rules for Adblock Plus
 abendzeitung-muenchen.de#?#article[class^="teaser nummer-"]:-abp-has(span.specialfeature)
 az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
