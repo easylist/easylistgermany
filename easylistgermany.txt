@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112201812
+! Version: 202112201853
 ! Title: EasyList Germany
-! Last modified: 20 Dec 2021 18:12 UTC
+! Last modified: 20 Dec 2021 18:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3568,6 +3568,7 @@ kinox-filme.work##.tftable
 t3n.de##.tg-articletype-sponsored-deal.c-pin
 t3n.de##.tg-articletype-sponsored-post
 t3n.de##.tg-stage-sponsoredcontent
+salto.bz##.theme-carousel-partners
 hifitest.de##.themenmonat
 duden.de##.tile__wrapper
 rro.ch##.tisement
