@@ -854,9 +854,9 @@
 ||suche.1und1.de/uns/amazon?$xmlhttprequest
 ||suche.gmx.net/uns/affilinet?$xmlhttprequest
 ||suche.gmx.net/uns/amazon?$xmlhttprequest
-||suche.t-online.de^*^name=amazon^$xmlhttprequest
-||suche.t-online.de^*^name=billiger^$xmlhttprequest
-||suche.t-online.de^*^name=pageplace^$xmlhttprequest
+||suche.t-online.de/web-search/amazon?
+||suche.t-online.de/web-search/billiger?
+||suche.t-online.de/web-search/ebay?
 ||suche.web.de/uns/amazon?$xmlhttprequest
 ||suedpfalz-verlag.de/uploads/pics/CBoltz.png
 ||suedpfalz-verlag.de/uploads/pics/DK-Grafik.png
@@ -889,10 +889,6 @@
 ||swz.it^*/pichler.gif
 ||swz.it^*_Webbanner_
 ||synchronkartei.de/img/ext/
-||t-online.de/to/common/next/amazon?
-||t-online.de/to/common/next/billiger?
-||t-online.de/to/common/next/otto?
-||t-online.de/to/common/next/portal_amazon?
 ||tagblatt.de/CustomImages/Bannerkarusell/
 ||tageblatt.com.ar/banners/
 ||tah.de^*&tx_sfbanners_
