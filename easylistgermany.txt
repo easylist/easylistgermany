@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112211722
+! Version: 202112211723
 ! Title: EasyList Germany
-! Last modified: 21 Dec 2021 17:22 UTC
+! Last modified: 21 Dec 2021 17:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2631,6 +2631,9 @@ neuelandschaft.de###logobanner
 filmz.de###m > div[style="left:16px;width:468px;overflow:hidden"] + .p[style="left:4px;width:492px;height:262px"]:last-child
 m.mobile.de###m_vip_slot_2
 m.mobile.de###m_vip_top
+t-online.de###ma_ar
+t-online.de###ma_ar_2
+t-online.de###ma_mrec
 hc-erlangen.de###main-sponsor
 ef-magazin.de###marktplatz
 africa-positive.de###masthead
