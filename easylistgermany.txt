@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112291818
+! Version: 202112291821
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2021 18:18 UTC
+! Last modified: 29 Dec 2021 18:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2849,6 +2849,7 @@ unicum.de###wrapper-banner-head
 pocketpc.ch###xxParentDivForWerbPostbit
 ladies.de###zeiten
 chip.de##.AD
+au-ja.de##.ADVBOX
 preissuchmaschine.de##.AFS_ADD
 onvista.de##.ANZEIGE
 chip.de,finanzfrage.net,gutefrage.net##.Ad
