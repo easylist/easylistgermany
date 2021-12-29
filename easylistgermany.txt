@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112291651
+! Version: 202112291653
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2021 16:51 UTC
+! Last modified: 29 Dec 2021 16:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1379,8 +1379,8 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||dieantenne.it^*/Viropa.png
 ||diebrennstoffzelle.de/images/banner/
 ||digitaledienste.web.de/freemail/browser_decide/?$subdocument
+||digitalfernsehen.de/wp-content/*/aqipa.jpg
 ||digitalfernsehen.de/wp-content/ca/NPAW-
-||digitalfernsehen.de/wp-content/uploads/*/aqipa.jpg
 ||digitalfernsehen.de/wp-content/uploads/*/NPAW-
 ||dnv-online.net/_data/*_Superbanner_
 ||dnv-online.net/_data/Fullsize-Banner.gif
@@ -2538,7 +2538,7 @@ presse-nachrichten.de###custom_html-4
 radsportjournaltourman.com###custom_html-42
 nachrichten.es,primavera24.de,radsportjournaltourman.com###custom_html-5
 nachrichten.es###custom_html-6
-eu-vertretung.de###custom_html-8
+digitalfernsehen.de,eu-vertretung.de###custom_html-8
 eu-vertretung.de,kriegsberichterstattung.com,mixed.de###custom_html-9
 wochenblatt.pl###custom_post_widget-6
 city23.at###dabplusshop
