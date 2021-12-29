@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112291636
+! Version: 202112291640
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2021 16:36 UTC
+! Last modified: 29 Dec 2021 16:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3910,6 +3910,7 @@ silentworld.eu##img[width="600"]
 basicthinking.de##img[width="600"][height="500"]
 hallescherfc.de##img[width="605"][height="690"]
 championstream.de,fruchthandel.de,online-gebuehrenrechner.de,vfl.de##img[width="728"][height="90"]
+sportradio-deutschland.de##img[width="768"][height="768"]
 teneriffa-aktuell.com##img[width="800"][height="230"]
 teneriffa-aktuell.com##img[width="900"][height="350"]
 t-online.de##img[width="920"][usemap^="#immap"]
