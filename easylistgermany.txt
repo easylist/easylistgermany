@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112291701
+! Version: 202112291704
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2021 17:01 UTC
+! Last modified: 29 Dec 2021 17:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2537,7 +2537,7 @@ daily-pia.de,healthhelp.ch,likehifi.de,perbene.ch,prnet.at,windowspower.de###cus
 presse-nachrichten.de###custom_html-4
 radsportjournaltourman.com###custom_html-42
 nachrichten.es,primavera24.de,radsportjournaltourman.com###custom_html-5
-nachrichten.es###custom_html-6
+haus-garten-magazin.de,nachrichten.es###custom_html-6
 digitalfernsehen.de,eu-vertretung.de###custom_html-8
 eu-vertretung.de,kriegsberichterstattung.com,mixed.de###custom_html-9
 wochenblatt.pl###custom_post_widget-6
@@ -3642,7 +3642,7 @@ kt1.at##.widget-5
 kt1.at##.widget-7
 primeleague.gg##.widget-list-sponsors
 wp-koenigin.de##.widget__image--banner
-gameswirtschaft.de##.widget_aawp_widget_bestseller
+gameswirtschaft.de,haus-garten-magazin.de##.widget_aawp_widget_bestseller
 gameswirtschaft.de##.widget_aawp_widget_box
 usa-info.net##.widget_atkp_widget
 diesachsen.de##.widget_commerce
