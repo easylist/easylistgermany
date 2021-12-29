@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112291646
+! Version: 202112291651
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2021 16:46 UTC
+! Last modified: 29 Dec 2021 16:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1883,6 +1883,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||radio-oldtimer.de/fileadmin/Bilder/Banner/
 ||radio2000.it^*/banner_
 ||radiobeo.ch/wp-content/uploads/*_Nachtangebote_
+||radioszene.de/wp-content/uploads/*/Wechselpiraten-Banner.png
 ||radiotirol.it/uploads/beitrag/*/300x70.gif
 ||radzeit.de/wp-content/uploads/*-250x190px.
 ||radzeit.de/wp-content/uploads/*-500x380px.
