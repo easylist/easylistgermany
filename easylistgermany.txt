@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112302016
+! Version: 202112302019
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2021 20:16 UTC
+! Last modified: 30 Dec 2021 20:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1267,6 +1267,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||baskets-jena.de/fileadmin/*/Koestritzer_Schriftmarke_Logo_
 ||baskets-jena.de/fileadmin/*/logo_adignos.jpg
 ||basses-blatt.de/files/banner/
+||bassprofessor.info/images/banners/
 ||bastel-elfe.de/banner/
 ||bayernwelle.de/cdn/uploads/banner-
 ||bayernwelle.de/cdn/uploads/jobboerse-
@@ -3037,7 +3038,7 @@ handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
 xxxjob.ch##.bannerboxrechts
 prost-magazin.at##.bannerfullbanner
-112-magazin.de,griechenland.net,highway-magazin.de,hitradio.com.na,kl-aktuell.de,loz-news.de,motorradundreisen.de,naturundtherapie.at,osttirol-online.at,pc-experience.de,radio-oberland.de,sonic-seducer.de,speyer-report.de,spielbox.de,teneriffa-heute.net,tennistraveller.net,tvbb.de,wahrschauer.net##.bannergroup
+112-magazin.de,bassprofessor.info,griechenland.net,highway-magazin.de,hitradio.com.na,kl-aktuell.de,loz-news.de,motorradundreisen.de,naturundtherapie.at,osttirol-online.at,pc-experience.de,radio-oberland.de,sonic-seducer.de,speyer-report.de,spielbox.de,teneriffa-heute.net,tennistraveller.net,tvbb.de,wahrschauer.net##.bannergroup
 tobitech.de##.bannergroupimgframe
 diebildschirmzeitung.de##.banneritem
 sportal.ch##.bannerspot
