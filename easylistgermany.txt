@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112302038
+! Version: 202112302047
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2021 20:38 UTC
+! Last modified: 30 Dec 2021 20:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -991,6 +991,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||kai-homilius-verlag.de/bilder/banner/$third-party
 ||kein-dsl.de/banner/$third-party
 ||kfz-gutachter-service.de/kfz.jpg
+||klasse2000.de/fileadmin/user_upload/webbanner/$third-party
 ||konsi-shop.de/images/banner/
 ||kontakt-vermittler.de/banner2/$third-party
 ||kontaktanzeigenmarkt.de/br/$third-party
@@ -3913,6 +3914,7 @@ finanzen.net##img[alt="Passende Produkte von der Société Générale"]
 t-online.de##img[alt^="Modetrends"]
 hallespektrum.de##img[alt^="Werbung"]
 stadt-bremerhaven.de##img[data-image-title="amazonAktion"]
+rendsburgerleben.de##img[height="200"][width="240"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
 vfl.de##img[width="110"]
 fruchthandel.de,nh24.de##img[width="140"][height="140"]
