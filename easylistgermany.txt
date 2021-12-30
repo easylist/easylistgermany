@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112301622
+! Version: 202112301630
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2021 16:22 UTC
+! Last modified: 30 Dec 2021 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3203,6 +3203,7 @@ zeitpunkt.ch##.field--name-field-werbebild
 fight24.tv##.fixed.bottom-0.pb-8
 floatmagazin.de##.float-widget
 tvinfo.de##.floatLeft[style="padding:10px;"]
+amazona.de##.fnetbr-pbb-container
 gwd-minden.de##.footer
 gamepro.de##.footer-banner
 deutschepornos.co,erotik-sexvideos.com,geilesexclips.com,gratis-sex-videos.net,gratisfickvideos.net,kostenlose-sexvideos.biz,sexfilmetube.net,sexkostenlos.biz,xhamsterdeutsch.xyz##.footer-dingens
@@ -3507,7 +3508,7 @@ hifi.de##.sky1-outer-container
 frischauf-gp.de##.skyadd
 internet-sms.com##.skybg
 spiele-kostenlos-online.de##.skycraper
-11freunde.de,charivari.de,dialo.de,dynamo-dresden.de,fruchtportal.de,jetztspielen.de,ligaportal.at,rheintaler.ch,spielen.de##.skyscraper
+11freunde.de,amazona.de,charivari.de,dialo.de,dynamo-dresden.de,fruchtportal.de,jetztspielen.de,ligaportal.at,rheintaler.ch,spielen.de##.skyscraper
 fla.de##.skyscrapper-left
 fla.de##.skyscrapper-right
 boxverband.at##.slick-track
