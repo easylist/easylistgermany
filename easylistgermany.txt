@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112301837
+! Version: 202112301901
 ! Title: EasyList Germany
-! Last modified: 30 Dec 2021 18:37 UTC
+! Last modified: 30 Dec 2021 19:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2909,7 +2909,7 @@ golfmagazin.de,jaegermagazin.de,st-georg.de,tennismagazin.de##.ad_list
 fairytail-tube.org,naruto-tube.org##.adb
 deutsche-wirtschafts-nachrichten.de,einrichtungsbeispiele.de,gevestor.de,latina-press.com,webwiki.de,weltfussball.at,weltfussball.com,weltfussball.de##.adbox
 computerbase.de##.adbox-outstream
-vaterland.li##.adcontainer
+connect.de,vaterland.li##.adcontainer
 nachtkritik.de##.adcontent
 suedtiroltv.it##.add
 computersm.com##.add-inner
@@ -4011,6 +4011,7 @@ chip.de#?#a.secondary:-abp-has(.Badge__Content:-abp-contains(/anzeige|gesponsert
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
 computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains(Anzeige))
+connect.de#?#.teaser:-abp-has(.teaser__promolabel)
 cyclingmagazine.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Sponsored Post))
 diegrenzgaenger.lu#?#article[id^=post-]:-abp-has(.sponsored-indicator)
 ebay.at#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
