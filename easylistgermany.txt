@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112311853
+! Version: 202112311902
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2021 18:53 UTC
+! Last modified: 31 Dec 2021 19:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1694,6 +1694,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||land-der-traeume.de/bilder/banner/
 ||latina-press.com/media/*/online-casino-bonus-min.gif
 ||latina-press.com/media/spanisch-lernen-160.png
+||laufzeit.de/wp-content/banners/
 ||lesbenhd.com/cpanel/
 ||lesbenhd.com/img/linklist2/
 ||lifeverde.de/files/*-970-x-250-banner-
@@ -2802,7 +2803,7 @@ bitcoinnews.ch,rlc-gamer.de###text-24
 nh24.de###text-26
 rlc-gamer.de,spielesnacks.de###text-27
 bitcoinnews.ch,nh24.de###text-28
-bitcoinnews.ch,ecommerce-vision.de,rlc-gamer.de,via-ferrata.de###text-29
+bitcoinnews.ch,ecommerce-vision.de,laufzeit.de,rlc-gamer.de,via-ferrata.de###text-29
 bitcoinnews.ch,blog-der-republik.de,computerschach.de,nh24.de,radzeit.de###text-3
 bitcoinnews.ch,ligablatt.de###text-31
 bitcoinnews.ch###text-32
