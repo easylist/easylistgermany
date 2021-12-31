@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112311840
+! Version: 202112311850
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2021 18:40 UTC
+! Last modified: 31 Dec 2021 18:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4080,6 +4080,8 @@ preis24.de#?#.box.box-style1:-abp-has(.notice)
 promiflash.de#?#.onlyDesktop:-abp-has(div.adContainer)
 promobil.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 report-d.de#?#.content-view-containerbox:-abp-contains(SONDER-VERÖFFENTLICHUNG)
+roadbike.de#?#.v-A_-topteaser__article:-abp-has(.v-A_-teaser__tag--ad)
+roadbike.de#?#.v-A_-white__tile:-abp-has(.v-A_-teaser__tag--ad)
 running-magazin.com#?#.post-grid-item.grid-item:-abp-has(.ad-badge)
 saechsische.de#?#.article-fill:-abp-has( > .article-fill__section > span:-abp-contains(Anzeige))
 satvision.de#?#.fc_bloglist_item:-abp-has(a:-abp-contains(Advertorial))
