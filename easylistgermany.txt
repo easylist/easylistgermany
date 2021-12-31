@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202112311714
+! Version: 202112311735
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2021 17:14 UTC
+! Last modified: 31 Dec 2021 17:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3436,6 +3436,7 @@ zentrum-der-gesundheit.de##.products-inarticle-slider--parent
 aktionspreis.de##.produkt_uebersicht > div > br.clear
 coolibri.de##.promContainer
 endstation-rechts.de##.promo
+campervans.de##.promo-af-wrap
 tvspielfilm.de##.promo-box-any-banner
 wegwerfemailadresse.com##.promobox
 europa-landmaschinen.de,suedtirolnews.it##.pub
