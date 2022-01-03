@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201031755
+! Version: 202201031801
 ! Title: EasyList Germany
-! Last modified: 03 Jan 2022 17:55 UTC
+! Last modified: 03 Jan 2022 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4045,6 +4045,7 @@ connect.de#?#.teaser:-abp-has(.teaser__promolabel)
 cyclingmagazine.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Sponsored Post))
 dashcamtest.de#?#.previewtile.swiper-slide:-abp-has(a[href^="https://amzn.to/"])
 diegrenzgaenger.lu#?#article[id^=post-]:-abp-has(.sponsored-indicator)
+dkamera.de#?#.node.teaser:-abp-has(a:-abp-contains(Anzeige))
 ebay.at#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 ebay.ch#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 ebay.de#?#.b-module:-abp-has(h2:-abp-contains(Anzeigen))
