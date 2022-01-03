@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201031708
+! Version: 202201031713
 ! Title: EasyList Germany
-! Last modified: 03 Jan 2022 17:08 UTC
+! Last modified: 03 Jan 2022 17:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -891,6 +891,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||amateurpin.com^*/b.php?zone=$third-party
 ||amateursexfilme.biz^$domain=pornohutdeutsch.net
 ||amazonaws.com/display.tweenui.com/
+||api.medianord.de/Widgets/Frame?$third-party,xmlhttprequest
 ||autoscout24.de^$subdocument,domain=motorrad2000.de
 ||auxmoney.com/start/welcome.php?afid=$third-party
 ||b.big7.com^$third-party
@@ -2769,7 +2770,7 @@ vfl-gummersbach.de###sponsor-footer
 wetteralarm.at###sponsor-info
 hsg-wetzlar.de###sponsor-slider
 itmagazine.ch###sponsorbutton_div
-h-bw.de###sponsoren
+digitalkamera.de,h-bw.de###sponsoren
 ssv-jahn.de###sponsorenleiste
 bayer04.de###sponsors
 hallescherfc.de###sponsors_slider
