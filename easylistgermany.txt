@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201031804
+! Version: 202201031817
 ! Title: EasyList Germany
-! Last modified: 03 Jan 2022 18:04 UTC
+! Last modified: 03 Jan 2022 18:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2041,6 +2041,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||stadt-bremerhaven.de^*/psw.jpg
 ||stadtanzeiger-coesfeld.de^*/heimbach.png
 ||stadtradio-goettingen.de/apool/srg/content/ads
+||stereo.de^*/banner/
 ||stern.de/bilder/stern_5/allgemein/extras_vermarktet/
 ||stream-oase.tv/images/banners/
 ||studio-magazin.de/files/banner/
@@ -3960,6 +3961,7 @@ nh24.de##img[width="533"]
 silentworld.eu##img[width="600"]
 basicthinking.de##img[width="600"][height="500"]
 hallescherfc.de##img[width="605"][height="690"]
+stereo.de##img[width="728"]
 championstream.de,fruchthandel.de,online-gebuehrenrechner.de,vfl.de##img[width="728"][height="90"]
 sportradio-deutschland.de##img[width="768"][height="768"]
 teneriffa-aktuell.com##img[width="800"][height="230"]
