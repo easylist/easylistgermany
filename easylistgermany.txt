@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201031833
+! Version: 202201031834
 ! Title: EasyList Germany
-! Last modified: 03 Jan 2022 18:33 UTC
+! Last modified: 03 Jan 2022 18:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2021,6 +2021,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||spielesnacks.de/wp-content/uploads/*/banner.
 ||sport-90.de/images/banner-
 ||sport-90.de/images/casinoall.png
+||sport-fachhandel.com/appearance/sport-fachhandel.com/media/banner/
 ||sportgeschichte.at/static/partner/
 ||sportwette.net/wp-content/uploads/*-banner-
 ||sportwetten.org/wp-content/uploads/*-400x300-
