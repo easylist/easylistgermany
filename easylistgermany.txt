@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201031446
+! Version: 202201031447
 ! Title: EasyList Germany
-! Last modified: 03 Jan 2022 14:46 UTC
+! Last modified: 03 Jan 2022 14:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3844,7 +3844,7 @@ prosiebengames.de##div[data-url-link^="https://track-adspree.com/"]
 t-online.de##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
 t-online.de##div[id^="T-"][oncontextmenu="return false"]
 gamestar.de##div[id^="ad-div-"]
-fm1today.ch,nzz.ch##div[id^="adnz_"]
+argoviatoday.ch,fm1today.ch,nzz.ch##div[id^="adnz_"]
 yoga-aktuell.de##div[id^="aktue-"]
 areadvd.de##div[id^="aread-"]
 finanzen100.de,spielen.de##div[id^="banner_"]
