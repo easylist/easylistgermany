@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201041733
+! Version: 202201041742
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2022 17:33 UTC
+! Last modified: 04 Jan 2022 17:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1404,10 +1404,9 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||dubisthalle.de/wp-content/uploads/*/loezius.png
 ||dubisthalle.de/wp-content/uploads/*_300x300_
 ||dubisthalle.de/wp-content/uploads/*_banner_
-||dxtv.de/2spnsrs/
-||dxtv.de/3rdspon/
-||dxtv.de/octagon_sponsor_
-||dxtv.de^*/all-inkl.gif
+||dxtv.de/gfx/allinkl.gif
+||dxtv.de/gfx/octagon21.gif
+||dxtv.de/gfx/satshop24.gif
 ||dxtv.eu/spnsrs2/
 ||dynamo-dresden.de/uploads/*/sponsors-
 ||e110.de/wp-content/uploads/*_Webbanner_
@@ -3750,9 +3749,7 @@ finanzen.net##a[href^="http://g.finanzen.net/hsbc-startseite-top-flop?id="]
 erogeschichten.com##a[href^="http://in.mydirtyhobby.com/track/"]
 bbszene.de##a[href^="http://partners.webmasterplan.com/"]
 metacrawler.de,msn.com##a[href^="http://rover.ebay.com/"]
-dxtv.de##a[href^="http://satshop24.de/"]
 gamemovieportal.ch##a[href^="http://tidd.ly/"]
-dxtv.de##a[href^="http://www.all-inkl.com/index.php?partner="]
 bildschirmarbeiter.com,das-sternzeichen.de,meintomtom.de,metacrawler.de,schule-studium.de,seaofsin.de,seaofsin.info##a[href^="http://www.amazon."][href*="tag="]
 sexfilmegratis.net,sexvideoskostenlos.net##a[href^="http://www.livestrip.com/FreeAccountLanding.aspx?"]
 pcwelt.de##a[href^="http://www.pcwelt.de/pv/"]
@@ -3787,6 +3784,7 @@ wallstreet-online.de##a[href^="https://smartbroker.de/?utm_source="]
 beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,hd-sexfilme.com,hdpornos.net,herzporno.com,lesbenhd.com,meinyouporn.com,pornoaffe.com,pornoente.tv,pornofisch.com,pornohammer.com,pornohans.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornotom.com,pornotommy.com,pornozebra.com,sexente.com,sexvideos-hd.com,tube8-pornos.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://susi.live/FreeAccountLanding.aspx?"]
 pcwelt.de##a[href^="https://tracking.s24.com/"]
 spiele-umsonst.de##a[href^="https://wgaffiliate.com/?a="]
+dxtv.de##a[href^="https://www.all-inkl.com/index.php?partner="]
 bildschirmarbeiter.com,bitreporter.de,chip.de,emok.tv,naruto-tube.org,nickles.de,onepiece-tube.com,pcgamesdatabase.de,pcwelt.de,pi-news.net,ruhrbarone.de,schule-studium.de,wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
 cyclingmagazine.de##a[href^="https://www.amazon.de/"] > img
 pcwelt.de,radsport-seite.de##a[href^="https://www.awin1.com/cread.php?"]
@@ -3804,9 +3802,10 @@ beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,hd-sexfilme
 trendmutti.com##a[href^="https://www.krokodeal.net/"]
 schwedenstube.de##a[href^="https://www.lead-alliance.net/tc.php"]
 daily-pia.de##a[href^="https://www.manitu.de/?partner="]
-dxtv.de##a[href^="https://www.octagon-germany.eu/"]
+dxtv.de##a[href^="https://www.octagon-germany.eu"]
 hoerbuch.us##a[href^="https://www.purevpn.com/?aff="]
 hoerbuch.us##a[href^="https://www.purevpn.com?aff="]
+dxtv.de##a[href^="https://www.satshop24.de"]
 areadvd.de##a[href^="https://www.teufel.de/sales?partner_id="]
 tweakpc.de##a[href^="https://www.tweakpc.de/rev3/www/delivery/"]
 nsladies.de##a[href^="https://www.visit-x.net/de/w/chathost/?w="]
