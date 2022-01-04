@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201031834
+! Version: 202201041659
 ! Title: EasyList Germany
-! Last modified: 03 Jan 2022 18:34 UTC
+! Last modified: 04 Jan 2022 16:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4164,6 +4164,8 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||g.doubleclick.net/tag/js/gpt.js$domain=gentside.de|ohmymag.de
 @@||g.doubleclick.net/tag/js/gpt.js$script,domain=11freunde.de|auto-motor-und-sport.de|gala.de|kochbar.de|n-tv.de
 @@||gamestar.de^$generichide
+@@||getjad.io/library/$script,domain=gamestar.de
+@@||getjad.io/prebid/$script,domain=gamestar.de
 @@||gofeminin.de^$genericblock
 @@||googlesyndication.com/pagead/imgad?id=$image,domain=kochbar.de
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
