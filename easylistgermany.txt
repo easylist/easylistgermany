@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201041756
+! Version: 202201041806
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2022 17:56 UTC
+! Last modified: 04 Jan 2022 18:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3091,7 +3091,8 @@ borussia.de##.bmg-ad
 quoka.de##.bnr-wrp
 oberberg-aktuell.de##.bnrad
 russland.capital,russland.news##.bodShopWidget
-fairaudio.de##.borlabs_fairaudio_ads_widget
+fairaudio.de##.borlabs-dealer
+fairaudio.de##.borlabs_fairaudio_ads_widgetx
 liveticker.com##.boxOverContent
 flashscore.de##.boxOverContent__banner
 offroadforen.de##.boxesBottom
