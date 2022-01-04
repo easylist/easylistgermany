@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201041806
+! Version: 202201041814
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2022 18:06 UTC
+! Last modified: 04 Jan 2022 18:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3029,6 +3029,7 @@ esports.ch##.banner-leadboard
 nsladies.de,spielkarussell.de##.banner-leaderboard
 donnerwetter.at,donnerwetter.ch,donnerwetter.de##.banner-place
 klassikradio.de##.banner-position
+fotohits.de##.banner-row
 curt.de##.banner-section
 bibliomed-pflege.de,magistrix.de##.banner-skyscraper
 arminia.de##.banner-slider
