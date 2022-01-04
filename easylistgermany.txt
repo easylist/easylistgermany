@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201041838
+! Version: 202201041850
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2022 18:38 UTC
+! Last modified: 04 Jan 2022 18:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2774,7 +2774,7 @@ smsgott.de###smsboxIframe
 factsverlag.de###sp-content-top
 wochenblitz.com###sp-sidebar1
 mv-spion.de###spion_content_container
-chemnitzerfc.de,deutsche-mittelstands-nachrichten.de###sponsor
+chemnitzerfc.de,deutsche-mittelstands-nachrichten.de,games.ch###sponsor
 vfl-gummersbach.de###sponsor-footer
 wetteralarm.at###sponsor-info
 hsg-wetzlar.de###sponsor-slider
@@ -4068,6 +4068,7 @@ finanzen.net#?#.mleft-10.small-font.light-grey:-abp-contains(Werbung) + .box + .
 finanzen.net#?#.mleft-10:-abp-contains(Werbung) + .box
 fuersie.de#?#.teaser__item:-abp-has(.teaser__adtype)
 futurezone.de#?#article[data-post-id]:-abp-has(.sponsor-byline)
+games.ch#?#.col4:-abp-has(h3:-abp-contains(Unterstützt durch:))
 gamestar.de#?#.content-item-medium:-abp-has(data:-abp-contains(Anzeige))
 gamestar.de#?#.content-item-small:-abp-has(h3:-abp-contains(Anzeige))
 gesundheit.de#?#.box.img_link:-abp-has(.advertorial_hint)
