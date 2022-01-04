@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201041857
+! Version: 202201041900
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2022 18:57 UTC
+! Last modified: 04 Jan 2022 19:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1644,6 +1644,10 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||hsvhandball.com/wp-content/uploads/*/hummel_white.png
 ||hsvhandball.com/wp-content/uploads/*/smileys.png
 ||hsvhandball.com/wp-content/uploads/*/ticketmaster_white.png
+||htfgames.com/bilder/2006/casino.jpg
+||htfgames.com/bilder/2006/kostenlose_games.jpg
+||htfgames.com/bilder/free_online_games.jpg
+||htfgames.com/bilder/werb/gbase_290x61.jpg
 ||huren-inserate.com/banner/
 ||ibiza-heute.de/wp-content/uploads/*/Banner_
 ||ibiza-heute.de/wp-content/uploads/*/Leaderboard-
@@ -3626,6 +3630,7 @@ t3n.de##.tg-stage-sponsoredcontent
 salto.bz##.theme-carousel-partners
 hifitest.de##.themenmonat
 duden.de##.tile__wrapper
+htfgames.com##.tipps
 rro.ch##.tisement
 soeren-hentzschel.at##.tnemesitrevda
 t-online.de##.toi-sh-breaker
