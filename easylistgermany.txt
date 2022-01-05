@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201051435
+! Version: 202201051827
 ! Title: EasyList Germany
-! Last modified: 05 Jan 2022 14:35 UTC
+! Last modified: 05 Jan 2022 18:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3366,6 +3366,7 @@ schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
 intimesrevier.com##.miragobox
 finanzen.net##.mleft-10 + .table-quotes
 polizei.news,reiseziele.ch##.mobile-billboard-box
+gartenflora.de##.mobile-interscroller
 xdate.ch##.mobile-list-ads
 fc.de##.mod-sponsor-icon
 basses-blatt.de,beobachter-online.de,blaue-blume.tv,einbecker-morgenpost.de,gandersheimer-kreisblatt.de,goldstar-tv.de,romance-tv.de,studio-magazin.de##.mod_banner
