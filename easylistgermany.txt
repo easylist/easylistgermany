@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201061838
+! Version: 202201061841
 ! Title: EasyList Germany
-! Last modified: 06 Jan 2022 18:38 UTC
+! Last modified: 06 Jan 2022 18:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1573,6 +1573,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||happyweekend-club.com/images/default/banner_
 ||happyweekend-club.com/images/default/hw_ffgv_chat.gif
 ||hardware-factory.com/images/01_ban/
+||hardwareluxx.de/images/stories/werbung/
 ||hartgeld.com/images/banners/
 ||hausgeraete-test.de/images/trademarks/
 ||hc-erlangen.de/fileadmin/user_upload/banner/
