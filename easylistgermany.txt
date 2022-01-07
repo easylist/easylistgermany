@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201071848
+! Version: 202201071856
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2022 18:48 UTC
+! Last modified: 07 Jan 2022 18:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3597,6 +3597,7 @@ rittnerbuam.com##.sponsor-section
 asv-hamm-westfalen.de##.sponsor_col
 eisbaeren.de##.sponsor_wrapper
 ariva.de,zdnet.de##.sponsored
+menshealth.de##.sponsored--container
 arminia.de,budapester.hu,rot-weiss-erfurt.de,seo-united.de,vfb.de##.sponsoren
 hc-erlangen-ev.de##.sponsoren-right
 fcenergie.de##.sponsoren_wrapper
