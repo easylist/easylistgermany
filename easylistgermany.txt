@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201071745
+! Version: 202201071751
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2022 17:45 UTC
+! Last modified: 07 Jan 2022 17:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1695,6 +1695,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||kitzanzeiger.at^*/sponsoren/
 ||klexikon.de/banner/
 ||koeln.de^*/werbung/
+||kradblatt.de/wp-content/uploads/mediabanner/
 ||kriminalpolizei.de/fileadmin/user_upload/*-Skyscraper_
 ||kriminalpolizei.de/fileadmin/user_upload/*_728x100.
 ||kroatien-nachrichten.de/wp-content/uploads/*/118487995_307800703629191_3999309709283286875_n.jpg
@@ -3028,7 +3029,7 @@ fcaugsburg.de##.b-logo-listing
 hardwareschotte.de##.ba-fullsize
 browsergames.de##.background
 archzine.net##.banPlace1
-1001spiele.de,3gewinntspiele.com,6navi.ch,akustik-gitarre.com,anixehd.tv,bankkaufmann.com,buchmarkt.de,deavita.com,flugblattangebote.at,fruchtportal.de,fussballgucken.info,goldseiten.de,hcb.net,jobagent.ch,juve.de,kartenspielen.de,knobelspiele.com,komoedie-steinstrasse.de,laufen.de,m.gota.ch,macerkopf.de,mein-wahres-ich.de,melodieundrhythmus.com,modhoster.de,nordicsports.de,pfaffenhofen-today.de,pixelio.de,prospektangebote.de,regionews.at,salue.de,sexnews.ch,snanews.de,spieleklassiker.com,svs1916.de,wimmelbildspiele.de##.banner
+1001spiele.de,3gewinntspiele.com,6navi.ch,akustik-gitarre.com,anixehd.tv,bankkaufmann.com,buchmarkt.de,deavita.com,flugblattangebote.at,fruchtportal.de,fussballgucken.info,goldseiten.de,hcb.net,jobagent.ch,juve.de,kartenspielen.de,knobelspiele.com,komoedie-steinstrasse.de,kradblatt.de,laufen.de,m.gota.ch,macerkopf.de,mein-wahres-ich.de,melodieundrhythmus.com,modhoster.de,nordicsports.de,pfaffenhofen-today.de,pixelio.de,prospektangebote.de,regionews.at,salue.de,sexnews.ch,snanews.de,spieleklassiker.com,svs1916.de,wimmelbildspiele.de##.banner
 w24.at##.banner-aspect-ratio
 spielkarussell.de##.banner-btf-side-rectangle
 skipper-bootshandel.de,tvtoday.de##.banner-container
