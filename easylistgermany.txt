@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201071810
+! Version: 202201071832
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2022 18:10 UTC
+! Last modified: 07 Jan 2022 18:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3274,6 +3274,8 @@ jungfrauzeitung.ch##.gokwblock
 nydus.org##.googl
 dejure.org##.googlediv
 nextpit.de##.gptSlot
+modernhifi.de##.grey-banner
+modernhifi.de##.grey-banner-bottom
 epd-film.de##.group-externe-links
 my-homo.net##.gstsk
 fussballtransfers.com##.gtag
