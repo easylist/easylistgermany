@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201071844
+! Version: 202201071848
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2022 18:44 UTC
+! Last modified: 07 Jan 2022 18:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2819,6 +2819,7 @@ tennisnet.com###tennisnetWidget
 nh24.de###text-11
 nh24.de###text-13
 americaurlaub.de,motormobiles.de###text-14
+motormobiles.de###text-16
 blogprojekt.de###text-18
 computerschach.de,nachrichten.es,nh24.de###text-2
 ebook-fieber.de###text-20
@@ -2831,9 +2832,12 @@ bitcoinnews.ch,ecommerce-vision.de,laufzeit.de,rlc-gamer.de,via-ferrata.de###tex
 bitcoinnews.ch,blog-der-republik.de,computerschach.de,nh24.de,radzeit.de###text-3
 bitcoinnews.ch,ligablatt.de###text-31
 bitcoinnews.ch###text-32
+motormobiles.de###text-33
 nh24.de###text-35
 motormobiles.de###text-39
 fahrzeuglackiererforum.de###text-4
+motormobiles.de###text-41
+motormobiles.de###text-42
 geocaching-magazin.com,nh24.de###text-48
 nh24.de###text-54
 algarve-entdecker.com,nh24.de###text-59
