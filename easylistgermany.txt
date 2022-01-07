@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201071728
+! Version: 202201071740
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2022 17:28 UTC
+! Last modified: 07 Jan 2022 17:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1688,6 +1688,7 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 ||kartfahrer-forum.de/board/images/
 ||kath.net/mod/
 ||kathsonntagsblatt.de/images/aktuell/misereor_275.gif
+||katzeausdemsack.de/banner/
 ||kauf6.com/img/banner/
 ||ketoforum.de/Banner/
 ||kinderlandparks.de/cms/media/thumbnail_5240_w_650.jpg
@@ -3247,7 +3248,7 @@ floatmagazin.de##.float-widget
 tvinfo.de##.floatLeft[style="padding:10px;"]
 amazona.de##.fnetbr-pbb-container
 gwd-minden.de##.footer
-gamepro.de##.footer-banner
+gamepro.de,katzeausdemsack.de##.footer-banner
 deutschepornos.co,erotik-sexvideos.com,geilesexclips.com,gratis-sex-videos.net,gratisfickvideos.net,kostenlose-sexvideos.biz,sexfilmetube.net,sexkostenlos.biz,xhamsterdeutsch.xyz##.footer-dingens
 hottime.ch##.footer-grey
 fcbayern.com##.footer-p4rtn3r-container
@@ -3282,7 +3283,7 @@ fc-hansa.de##.hauptsponsoren
 tagesspiegel.de##.hcf-news-aktuell
 ak-kurier.de##.hd-banner
 fkk24.de##.head-top-bannerplace
-blickpunkt-brandenburg.de,fruchtportal.de,nh24.de,sunshine.it##.header-banner
+blickpunkt-brandenburg.de,fruchtportal.de,katzeausdemsack.de,nh24.de,sunshine.it##.header-banner
 tennis.de##.header-logo-second-display
 radzeit.de##.header-main
 fcbayern.com##.header-presented-by
