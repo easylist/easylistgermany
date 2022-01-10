@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201101836
+! Version: 202201101853
 ! Title: EasyList Germany
-! Last modified: 10 Jan 2022 18:36 UTC
+! Last modified: 10 Jan 2022 18:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2968,7 +2968,7 @@ eatsmarter.de##.adsense
 hierspielen.com##.adtitle
 fitforfun.de,ibb-anzeiger.de,mobile.de,suedtiroltv.it##.adv
 oberberg-aktuell.de##.adv-indicator
-coincierge.de,fuldainfo.de,oberberg-aktuell.de##.adv-link
+coincierge.de,fuldainfo.de,oberberg-aktuell.de,smarthomes.de##.adv-link
 teneriffa-aktuell.com##.adv-wrapper
 blinker.de##.adv_widget
 countrymusicnews.de,eurogamer.de,ka-news.de,morningstar.de,suedkurier.de,weser-kurier.de##.advert
@@ -3924,6 +3924,7 @@ professional-audio.de##div[id^="profe-"]
 handballecke.de##div[id^="promotionHeader"]
 fitundgesund.at,ichkoche.at,metal-hammer.de##div[id^="sas_"]
 schlager.de##div[id^="schlager-ad-"]
+smarthomes.de##div[id^="smart-"]
 amazon.de##div[id^="sp_detail"]
 supertipp-online.de##div[id^="super-"]
 tippscout.de##div[id^="tipps-"]
