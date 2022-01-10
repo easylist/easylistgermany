@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201101900
+! Version: 202201101903
 ! Title: EasyList Germany
-! Last modified: 10 Jan 2022 19:00 UTC
+! Last modified: 10 Jan 2022 19:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3915,6 +3915,7 @@ hardware-helden.de##div[id^="hardw-"]
 ibiza-heute.de##div[id^="ibiza-"]
 journalistenwatch.com##div[id^="journ-"]
 bergsteiger.de##div[id^="medium_rectangle"]
+mo-web.de##div[id^="moads-"]
 modified-shop.org##div[id^="modifiedwerbung_"]
 tonspion.de##div[id^="netse-"]
 frustfrei-lernen.de##div[id^="npm_"]
