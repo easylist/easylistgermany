@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201112000
+! Version: 202201112003
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2022 20:00 UTC
+! Last modified: 11 Jan 2022 20:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -951,6 +951,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||escortkartei.com/banner/$third-party
 ||eteleon.de/partner/$third-party,domain=~facebook.com
 ||eteleon.de/partnerprogramm/$third-party
+||faire.software/img/$third-party
 ||fairvital.com/images/skyscraper_$third-party
 ||fairvital.com^*/banner_$third-party
 ||fastad.beepworld.de^
@@ -978,6 +979,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||heutenochficken.com/banner/$third-party
 ||hofmann.info^$subdocument,domain=sgf1903.de
 ||hurenkartei.com/teaser-$third-party
+||hyp-tech.com/img/$third-party
 ||icq-love.de/show_icqt.php$third-party
 ||icq-styler.de/promo.html
 ||idealo.de/extern/IdealoWidget.php?
@@ -999,6 +1001,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||kontakt-vermittler.de/banner2/$third-party
 ||kontaktanzeigenmarkt.de/br/$third-party
 ||kopp-verlag.de^*/banners/$third-party
+||laptops-fair.de/img/$third-party
 ||lcmmedia.de/kamp/
 ||lead-alliance.net/tb.php$third-party
 ||lieferando.de/widgets/$subdocument,third-party
@@ -2578,10 +2581,10 @@ tarnkappe.info###custom_html-145
 einkochen.info,ipadblog.de,leserbriefe.info,nh24.de,stimmt.at,wiener-online.at###custom_html-2
 popkultur.de###custom_html-21
 andalusien-aktuell.es###custom_html-22
-daily-pia.de,healthhelp.ch,likehifi.de,perbene.ch,prnet.at,windowspower.de###custom_html-3
-ipadblog.de,presse-nachrichten.de###custom_html-4
+daily-pia.de,healthhelp.ch,likehifi.de,perbene.ch,prnet.at,signal-online.d,windowspower.de###custom_html-3
+ipadblog.de,presse-nachrichten.de,signal-online.d###custom_html-4
 radsportjournaltourman.com###custom_html-42
-nachrichten.es,primavera24.de,radsportjournaltourman.com###custom_html-5
+nachrichten.es,primavera24.de,radsportjournaltourman.com,signal-online.d###custom_html-5
 haus-garten-magazin.de,nachrichten.es###custom_html-6
 digitalfernsehen.de,eu-vertretung.de###custom_html-8
 eu-vertretung.de,kriegsberichterstattung.com,mixed.de###custom_html-9
