@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201112003
+! Version: 202201112046
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2022 20:03 UTC
+! Last modified: 11 Jan 2022 20:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2063,14 +2063,12 @@ wetter.com#@#div[id^="div-gpt-"]
 ||studio-magazin.de/files/banner/
 ||studium-ratgeber.de^*/auslandszeit-starterkit.png
 ||studium-ratgeber.de^*/Studententarife-300x250.png
-||suche.1und1.de/uns/affilinet?$xmlhttprequest
-||suche.1und1.de/uns/amazon?$xmlhttprequest
-||suche.gmx.net/uns/affilinet?$xmlhttprequest
-||suche.gmx.net/uns/amazon?$xmlhttprequest
+||suche.1und1.de/amazon?
+||suche.gmx.net/amazon?
 ||suche.t-online.de/web-search/amazon?
 ||suche.t-online.de/web-search/billiger?
 ||suche.t-online.de/web-search/ebay?
-||suche.web.de/uns/amazon?$xmlhttprequest
+||suche.web.de/amazon?
 ||suedpfalz-verlag.de/uploads/pics/CBoltz.png
 ||suedpfalz-verlag.de/uploads/pics/DK-Grafik.png
 ||suedtirol1.it/uploads/beitrag/*/300x70.gif
