@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201111949
+! Version: 202201112000
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2022 19:49 UTC
+! Last modified: 11 Jan 2022 20:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2126,6 +2126,11 @@ wetter.com#@#div[id^="div-gpt-"]
 ||teufelchens.tv/iw_wide.jpg
 ||thegnet.ch/rotator/
 ||thinkpad-forum.de/banner/
+||thinkpad-forum.de/bilder/Banner-
+||thinkpad-forum.de/bilder/Preiswerte-IT_Banner.png
+||thinkpad-forum.de/bilder/servion_banner.gif
+||thinkpad-forum.de/bilder/thinkstore24.jpg
+||thinkpad-forum.de/bilder/tpf-banner.jpg
 ||thinkpad-forum.de/Neu/*-banner.
 ||thinkpad-forum.de/Neu/*_banner.
 ||thinkpad-forum.de/Neu/Banner-
