@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201121717
+! Version: 202201121822
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2022 17:17 UTC
+! Last modified: 12 Jan 2022 18:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1824,7 +1824,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||nnz-tv.de^*/Banner_
 ||nnz-tv.de^*/WVN_Allgemein.gif
 ||nonstopnews.de/bilder/Banner/
-||notebookcheck.com/fileadmin/Sonstiges/am_$xmlhttprequest
+||notebookcheck.com/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||notebookcheck.com/fileadmin/templates/wbg/
 ||nr-kurier.de/images/mankwetter.png
 ||nrhz.de/flyer/media/banner/
