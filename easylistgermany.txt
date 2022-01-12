@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201112046
+! Version: 202201121716
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2022 20:46 UTC
+! Last modified: 12 Jan 2022 17:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4078,7 +4078,9 @@ plista.com##a[href^="http://click.plista.com/pets"]
 finanzen.net##a[href^="https://ad.doubleclick.net/"]
 finanzen.net,focus.de,gamestar.de,n-tv.de##a[href^="https://paid.outbrain.com/network/redir?"]
 musikexpress.de##a[href^="https://popup.taboola.com/"]
+focus.de##a[href^="https://www.communicationads.net/tc.php"]
 fitbook.de,stylebook.de,travelbook.de##a[href^="https://www.communicationads.net/tc.php"] > img
+focus.de##a[href^="https://www.financeads.net/tc.php"]
 finanzen.net,focus.de,gamestar.de,metal-hammer.de,n-tv.de,pcwelt.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 finanzen.net,gamestar.de,n-tv.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
 focus.de##div[id^="CT_SMARTPHONE_NATIVE_"]
