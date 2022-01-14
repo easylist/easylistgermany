@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201141818
+! Version: 202201141825
 ! Title: EasyList Germany
-! Last modified: 14 Jan 2022 18:18 UTC
+! Last modified: 14 Jan 2022 18:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1920,6 +1920,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||pragerzeitung.cz/wp-content/uploads/*_300x450px_
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
 ||prosiebengames.de/sites/prosiebengames/files/*/bowsergames_wallpaper_$image
+||quadjournal.eu/wp-content/uploads/*-Banner-
 ||queer.de/gfx/air-france-presented-by-
 ||queer.de/gfx/mein-kondom-
 ||radio-oberland.de/images/banners/
@@ -4010,6 +4011,7 @@ hallespektrum.de##img[alt^="Werbung"]
 rc-news.de##img[class="bnr"]
 stadt-bremerhaven.de##img[data-image-title="amazonAktion"]
 rendsburgerleben.de##img[height="200"][width="240"]
+quadjournal.eu##img[height="600"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
 vfl.de##img[width="110"]
 fruchthandel.de,nh24.de##img[width="140"][height="140"]
