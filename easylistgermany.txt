@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201121900
+! Version: 202201141702
 ! Title: EasyList Germany
-! Last modified: 12 Jan 2022 19:00 UTC
+! Last modified: 14 Jan 2022 17:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -720,6 +720,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||handy-ads.de^$third-party
 ||heias.com^$third-party
 ||highad.de^$third-party
+||hot59.de^$third-party
 ||hovg.de^$third-party
 ||ibanner.de^$third-party
 ||iias.eu^$third-party
@@ -1845,8 +1846,10 @@ wetter.com#@#div[id^="div-gpt-"]
 ||oekoportal.de/sites/default/files/verbraucher_eu_4.png
 ||ofc.de/media/*_banner-
 ||ofc.de/media/*_landing_
+||offroad-cult.org/Main/refs/
 ||offroadforen.de/media/3-286x238-fcmoto-rechts-2-jpg/
 ||offroadforen.de/media/7-1366x94-fcmototv-banner-png/
+||okey-online.com/prg/daten/datenbanken/banner
 ||oktoberfestportal.de/pics_banner/
 ||onepiece-tube.com/templates/Grafiken/amazon.svg
 ||onepiece-tube.com^*/amzb/
@@ -1878,6 +1881,9 @@ wetter.com#@#div[id^="div-gpt-"]
 ||pi-news.net/wp-content/uploads/*_banner.
 ||pi-news.net/wp-content/uploads/*_banner_
 ||pi-news.net/wp-content/uploads/ad-
+||pianonews.de/images/banner-
+||pianonews.de/images/banners/
+||pianonews.de/images/CASIO_grandhybrid_290x150px_
 ||picdumps.com/ddeal
 ||pixelio.de/resources/widgets/clipdealer_
 ||plus.tourispo.com^
@@ -1933,6 +1939,8 @@ wetter.com#@#div[id^="div-gpt-"]
 ||ratingerzeitung.de/wp-content/uploads/*/physiotherapie_japa_
 ||ratingerzeitung.de/wp-content/uploads/*/podologie.jpg
 ||ratingerzeitung.de/wp-content/uploads/*/ragentur2019.jpg
+||rc-netzwerk.de/anzbanner/
+||rc-netzwerk.de/anzbutton/
 ||rclineforum.de/forum/index.php?*&zoneid=$script
 ||rdrvision.com/images/content/*/reklame_
 ||readersdigest.de/images/banner/
@@ -2579,6 +2587,7 @@ tarnkappe.info###custom_html-127
 tarnkappe.info###custom_html-143
 tarnkappe.info###custom_html-144
 tarnkappe.info###custom_html-145
+rc-modellbau-blog.com###custom_html-17
 einkochen.info,ipadblog.de,leserbriefe.info,nh24.de,stimmt.at,wiener-online.at###custom_html-2
 popkultur.de###custom_html-21
 andalusien-aktuell.es###custom_html-22
@@ -2725,6 +2734,7 @@ nydus.org###ny_banner
 autoexperience.de,flugzeugforum.de,uhrforum.de,xbox-passion.de###oc24-div
 elektrikforen.de###oc24_container_top
 yasni.de###offer
+planetradio.de###omsRectangleChannel
 onmeda.de###on-footer-banner
 onmeda.de###on-rectangle
 onmeda.de###on-sky
@@ -2979,7 +2989,7 @@ eatsmarter.de##.adsense
 hierspielen.com##.adtitle
 fitforfun.de,ibb-anzeiger.de,mobile.de,suedtiroltv.it##.adv
 oberberg-aktuell.de##.adv-indicator
-coincierge.de,fuldainfo.de,oberberg-aktuell.de,smarthomes.de##.adv-link
+coincierge.de,fuldainfo.de,oberberg-aktuell.de,pictures-magazin.de,smarthomes.de##.adv-link
 teneriffa-aktuell.com##.adv-wrapper
 blinker.de##.adv_widget
 countrymusicnews.de,eurogamer.de,ka-news.de,morningstar.de,suedkurier.de,weser-kurier.de##.advert
@@ -3898,6 +3908,7 @@ costanachrichten.com##div[class^="lp_track_"]
 emtb-news.de,mtb-news.de##div[class^="mtbnews-ad-container"]
 via-ferrata.de##div[class^="overlay-"]
 grenzecho.net##div[class^="pane-dpipub-"]
+pictures-magazin.de##div[class^="pictu-"]
 rundschau.info##div[class^="runds-werbung-"]
 uniliga.gg##div[class^="sponsors-"]
 amazon.de##div[data-ad-id]
@@ -3996,6 +4007,7 @@ finanzen.net##img[alt="Passende Produkte von Vontobel"]
 finanzen.net##img[alt="Passende Produkte von der Société Générale"]
 t-online.de##img[alt^="Modetrends"]
 hallespektrum.de##img[alt^="Werbung"]
+rc-news.de##img[class="bnr"]
 stadt-bremerhaven.de##img[data-image-title="amazonAktion"]
 rendsburgerleben.de##img[height="200"][width="240"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
@@ -4007,12 +4019,15 @@ heimspiel-online.de##img[width="150"][height="111"]
 uniliga.gg##img[width="150"][height="150"]
 architekt.de,glamping.info##img[width="160"][height="600"]
 prewarcar.de##img[width="160"][height="92"]
+mikanews.de##img[width="180"][height="120"]
 messweb.de##img[width="250"]
 fcschweinfurt1905.de##img[width="280"][height="160"]
 buecher-magazin.de,fotoobjektiv.at,iplayapps.de,pi-news.net,radio-oldtimer.de,radiotirol.it,silentworld.eu,suedtirol1.it,tarnkappe.info,uniliga.gg##img[width="300"]
+mikanews.de##img[width="300"][height="150"]
 gamepro.de##img[width="300"][height="246"]
 arbeitsunrecht.de,boxen.de,fruchthandel.de,mygermantimes.com,via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
 nh24.de##img[width="330"][height="220"]
+mikanews.de##img[width="400"][height="100"]
 teneriffa-aktuell.com##img[width="450"][height="300"]
 teneriffa-aktuell.com##img[width="450"][height="700"]
 lexolino.de##img[width="468"][height="60"]
