@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201141837
+! Version: 202201141853
 ! Title: EasyList Germany
-! Last modified: 14 Jan 2022 18:37 UTC
+! Last modified: 14 Jan 2022 18:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2281,6 +2281,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||wordpress.com^*/k5_banner_excom_255x60-gif.gif$domain=excitingcommerce.de
 ||wordpress.com^*/k5_klub_255x60_ec.gif$domain=excitingcommerce.de
 ||wortfilter.de/wp-content/uploads/*_300x250px-
+||wp.com/custombike.de/wp-content/uploads/sites/*/banner_
 ||wp.com/nh24.de/wp-content/uploads*/Gundlach_Liefern.jpg
 ||wp.com/nh24.de/wp-content/uploads/*-Banner_
 ||wp.com/nh24.de/wp-content/uploads/*/201217_nh24_kalkulator.gif
