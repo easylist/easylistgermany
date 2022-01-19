@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201191802
+! Version: 202201191804
 ! Title: EasyList Germany
-! Last modified: 19 Jan 2022 18:02 UTC
+! Last modified: 19 Jan 2022 18:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3590,7 +3590,7 @@ austriansoccerboard.at##.sidebar-partner
 kreativfieber.de##.sidebar-right > #text-11
 kreativfieber.de##.sidebar-right > #text-6
 explora.ch##.sidebar-sponsor-outlay
-flugmodell-magazin.de##.sidebar_partners
+flugmodell-magazin.de,trucks-and-details.de##.sidebar_partners
 der-farang.com##.sideboard_conatainer
 automatentest.de##.sideinfo
 mytastedeu.com##.site-header__panorama
