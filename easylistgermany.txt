@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201261714
+! Version: 202201261919
 ! Title: EasyList Germany
-! Last modified: 26 Jan 2022 17:14 UTC
+! Last modified: 26 Jan 2022 19:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3186,6 +3186,7 @@ scfreiburg.com,sgf1903.de##.c-sponsors-list
 focus.de##.cad
 ka-news.de##.cad_box
 focus.de##.cad_native
+1000ps.at##.cadbox
 fairaudio.de##.candy-top
 filmlaune.de##.card-streaming-btns
 neuwagen.de##.cardealers
@@ -3562,6 +3563,7 @@ fussballdaten.de,i-fidelity.net,modhoster.de,rheintaler.ch##.rectangle
 hifistatement.net##.rectangles-row
 radioguetersloh.de##.rectright
 jungle.world##.region-topad
+1000ps.at##.reifen-winter
 suche.freenet.de##.result-container > .container-right
 curved.de##.review-recommendation-headline
 curved.de##.review-recommendation-headline + a
