@@ -270,6 +270,7 @@ abload.de###layerright
 tellows.de###lb_header
 1erforum.de,bauexpertenforum.de,dasheimwerkerforum.de,fitness-foren.de,lpgforum.de,mazda-forum.info,mercedes-forum.com,notebookforum.at,pkw-forum.de,skodacommunity.de,toyota-forum.de,vermieter-forum.com,windows-7-forum.net###leader_top_desk
 anrufer.info,bergsteiger.de,hardwareluxx.de,skiinfo.ch,skiinfo.com,skiinfo.de,spieletipps.de,videoaktiv.de###leaderboard
+pcwelt.de###leadfullWrapper
 ebay-kleinanzeigen.de###liberty-vip-middle
 ebay-kleinanzeigen.de###liberty-zsrp-bottom
 ebay-kleinanzeigen.de###liberty-zsrp-top-banner
@@ -730,6 +731,9 @@ fairaudio.de##.borlabs-dealer
 fairaudio.de##.borlabs_fairaudio_ads_widgetx
 liveticker.com##.boxOverContent
 flashscore.de##.boxOverContent__banner
+pcwelt.de##.box[data-ga-event-label="Angebote für PC-WELT Leser"]
+pcwelt.de##.box[data-ga-event-label="Für Sie empfohlen"]
+pcwelt.de##.box[data-ga-event-label="PC-WELT Specials"]
 offroadforen.de##.boxesBottom
 offroadforen.de##.boxgenericBox41
 msxfaq.de##.boxjob
@@ -988,6 +992,7 @@ hceppan.it##.mainSponsor
 aerotelegraph.com##.marcopolo
 mein-pferd.de##.marketing-wrapper
 oe24.at##.marketingTeaserBanner
+pcwelt.de##.marketplace
 winfuture.de##.mb25[style="min-height:261px"]
 hausgeraete-test.de,heimwerker-test.de,hifitest.de##.med4
 hausgeraete-test.de,heimwerker-test.de,hifitest.de##.med5
@@ -1814,6 +1819,7 @@ outdoor-magazin.com#?#.v-A_-topteaser__rotationbox__item:-abp-has(.v-A_-teaser__
 outdoor-magazin.com#?#.v-A_-white__tile:-abp-has(.v-A_-teaser__tag--ad)
 pc-magazin.de#?#.teaser:-abp-has(.teaser__promolabel)
 pctipp.ch#?#.list_item:-abp-has(.dachzeile:-abp-contains(Partnerzone))
+pcwelt.de#?#div.box:-abp-has(span.banner-text + h4:-abp-contains(/Partner-Angebot|Angebote/))
 photographie.de#?#.post.type-post.status-publish:-abp-has(.anzeige-box)
 pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
 preis24.de#?#.box.box-style1:-abp-has(.notice)
