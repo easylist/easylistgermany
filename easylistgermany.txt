@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201261928
+! Version: 202201281547
 ! Title: EasyList Germany
-! Last modified: 26 Jan 2022 19:28 UTC
+! Last modified: 28 Jan 2022 15:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1478,6 +1478,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||ff-bz.com^*/banner-
 ||fhcdn.net^*/ebay_logo.gif
 ||filmpost.de^*/anzeigen/
+||filmstreaming-de.life/banners/
 ||filmundo.de/banner/
 ||filmz.de/f/ra.htm
 ||filmz.de/f/s.htm
@@ -3245,6 +3246,7 @@ finanzen.net##.cpg_incontent1-container
 finanzen.net##.cpg_incontent2-container
 daswetter.com##.creatividad
 u1-radio.at##.csc-partner
+filmstreaming-de.life##.custom-ban-wrap
 boerse-express.com##.custom-bexad
 derkleinegarten.de##.custom-inhoadd
 digitalfernsehen.de##.custom_html-7
