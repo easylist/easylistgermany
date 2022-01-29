@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201291746
+! Version: 202201291801
 ! Title: EasyList Germany
-! Last modified: 29 Jan 2022 17:46 UTC
+! Last modified: 29 Jan 2022 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4322,9 +4322,10 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|n-tv.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|gala.de|gentside.de|kochbar.de|n-tv.de|ohmymag.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|gentside.de|kochbar.de|n-tv.de|ohmymag.de
+@@||g.doubleclick.net/pagead/ppub_config?ippd=$xmlhttprequest,domain=gamepro.de|gamestar.de
 @@||g.doubleclick.net/tag/js/gpt.js$domain=gentside.de|ohmymag.de
-@@||g.doubleclick.net/tag/js/gpt.js$script,domain=11freunde.de|auto-motor-und-sport.de|gala.de|kochbar.de|n-tv.de
+@@||g.doubleclick.net/tag/js/gpt.js$script,domain=11freunde.de|auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|kochbar.de|n-tv.de
 @@||gamestar.de^$generichide
 @@||getjad.io/library/$script,domain=gamepro.de|gamestar.de
 @@||gofeminin.de^$genericblock
@@ -4357,10 +4358,6 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||s1.adform.net^$script,domain=rewe.de
 @@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=fitbook.de
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gamepro.de|gamestar.de
-@@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=www.gamepro.de$xmlhttprequest,domain=gamepro.de
-@@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=www.gamestar.de$xmlhttprequest,domain=gamestar.de
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=gamepro.de|gamestar.de
 @@||shz.de/sso/$generichide
 @@||smartadserver.com/ac?nwid=*&tag=sas_45579^$script,domain=fitbook.de
 @@||smartclip.net/?plc=$script,domain=spiele.rtl.de
