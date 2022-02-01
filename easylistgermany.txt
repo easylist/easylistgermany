@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202201311559
+! Version: 202202011819
 ! Title: EasyList Germany
-! Last modified: 31 Jan 2022 15:59 UTC
+! Last modified: 01 Feb 2022 18:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3983,6 +3983,7 @@ vrnerds.de##div[id^="findexp-"]
 foodwissen.de##div[id^="foodw-"]
 hardware-helden.de##div[id^="hardw-"]
 ibiza-heute.de##div[id^="ibiza-"]
+teltarif.de##div[id^="ideaload"]
 20min.ch##div[id^="influencer-radar__inside-"]
 journalistenwatch.com##div[id^="journ-"]
 20min.ch##div[id^="kinostreaming__inside-"]
