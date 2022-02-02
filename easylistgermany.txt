@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202202011819
+! Version: 202202021840
 ! Title: EasyList Germany
-! Last modified: 01 Feb 2022 18:19 UTC
+! Last modified: 02 Feb 2022 18:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -538,6 +538,7 @@ _woz_banner_vote.
 ##a[href^="https://stream.justhdfilme.com/kkiste-kinox/"]
 ##a[href^="https://www.communicationads.net/tc.php"] > img
 ##a[href^="https://www.handy-sextreffen.info/?c="]
+##a[href^="https://www.tik-tok-date.com/?c="]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_general_hide.txt ***
