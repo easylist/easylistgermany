@@ -98,6 +98,7 @@
 @@||welect.de/$document,subdocument
 @@||welt.de^$generichide
 @@||werbebanner24.de/templates/_wb24/_assets/images/$image,domain=werbebanner24.de
+@@||windowspro.de^$~third-party,xmlhttprequest
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 !
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de

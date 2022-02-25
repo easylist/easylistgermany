@@ -1056,9 +1056,10 @@
 ||wetteronline.de/mdr/p_adplace/
 ||whocallsyou.de/files/*/rechtsch-baby.jpg
 ||whocallsyou.de/files/*/rechtsschutz011.jpg
-||windows-pro.net^*.php?uid=
+||windows-pro.net^$subdocument,domain=windowspro.de
 ||windowspower.de/banner/
 ||windowspower.de/wp-content/uploads/*/stromanbieter-vergleich.gif
+||windowspro.de^$subdocument,domain=windowspro.de
 ||wir-leben-outdoor.de/wp-content/uploads/*/banner-
 ||wirin.de/images/banners/
 ||wirsiegen.de/Altfahrzeugannahme.png
