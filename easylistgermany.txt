@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202202281832
+! Version: 202202281838
 ! Title: EasyList Germany
-! Last modified: 28 Feb 2022 18:32 UTC
+! Last modified: 28 Feb 2022 18:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -707,6 +707,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||exnzg.de^$third-party
 ||expepp.de^$third-party
 ||falkag.de^$third-party
+||feedad.com^$third-party
 ||fexzuf.com^$third-party
 ||finative.cloud^$third-party
 ||finative.eu^$third-party
