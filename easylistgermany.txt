@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202202281838
+! Version: 202202281845
 ! Title: EasyList Germany
-! Last modified: 28 Feb 2022 18:38 UTC
+! Last modified: 28 Feb 2022 18:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1962,6 +1962,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||rclineforum.de/forum/index.php?*&zoneid=$script
 ||rdrvision.com/images/content/*/reklame_
 ||readersdigest.de/images/banner/
+||realtotal.de/data/betrugstest-com.jpg
 ||rechtsdepesche.de/wordpress/wp-content/banners/
 ||redensarten-index.de/bnnr/
 ||redhocks.de^*/floorballes.png
@@ -2576,6 +2577,7 @@ kochrezepte.at###billboard-location
 rtl.de###billboard_1
 bz-berlin.de,finanzen.net###billboard_btf
 finanzen-nerd.de###block-2
+realtotal.de###block-3
 finanzen-nerd.de###block-7
 jungle.world###block-anzeige
 zum.de###block-block-14
