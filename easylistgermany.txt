@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202202281845
+! Version: 202203021716
 ! Title: EasyList Germany
-! Last modified: 28 Feb 2022 18:45 UTC
+! Last modified: 02 Mar 2022 17:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2437,6 +2437,7 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||yieldlab.net^$domain=autobild.de
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block_popup.txt ***
 /^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=hdfilme.cx|kinoonline.su
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt|css)/$popup,domain=canna-power.to
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ||amazon.de^*^tag=$popup,domain=rheinlandpfalz-news.de
 ||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
