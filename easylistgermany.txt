@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202203021716
+! Version: 202203041956
 ! Title: EasyList Germany
-! Last modified: 02 Mar 2022 17:16 UTC
+! Last modified: 04 Mar 2022 19:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1191,6 +1191,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||vodafone.de^*&tsid=$popup,third-party
 ! -------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block.txt ***
+$stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
 ||112-magazin.de/images/banners/
@@ -4452,5 +4453,6 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||eatsmarter.de/sites/default/files/*_300x250_$image,domain=eatsmarter.de
 @@||googleusercontent.com^*/300x250.$domain=googlewatchblog.de
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_popup.txt ***
+@@||canna-power.to/links.php?action=$popup
 @@||doubleclick.net/ddm/$popup,domain=11freunde.de
 @@||g.doubleclick.net^$popup,domain=11freunde.de|kochbar.de
