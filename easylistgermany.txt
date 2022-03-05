@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202203042002
+! Version: 202203051504
 ! Title: EasyList Germany
-! Last modified: 04 Mar 2022 20:02 UTC
+! Last modified: 05 Mar 2022 15:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1191,7 +1191,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||vodafone.de^*&tsid=$popup,third-party
 ! -------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block.txt ***
-$stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to
+$stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.to
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
 ||112-magazin.de/images/banners/
@@ -2438,7 +2438,7 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||yieldlab.net^$domain=autobild.de
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block_popup.txt ***
 /^https?:\/\/(.*)\.(gif|jpg|png|ico|html\?)/$popup,domain=hdfilme.cx|kinoonline.su
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt|css)/$popup,domain=canna-power.to
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt|css)/$popup,domain=canna-power.to|canna.to
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ||amazon.de^*^tag=$popup,domain=rheinlandpfalz-news.de
 ||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
@@ -4455,6 +4455,8 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||eatsmarter.de/sites/default/files/*_300x250_$image,domain=eatsmarter.de
 @@||googleusercontent.com^*/300x250.$domain=googlewatchblog.de
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_popup.txt ***
-@@||canna-power.to/links.php?action=$popup
+@@||board.canna.tf^$popup,domain=canna-power.to|canna.to
+@@||canna-power.to/links.php?action=$popup,domain=canna-power.to
+@@||canna.to/links.php?action=$popup,domain=canna.to
 @@||doubleclick.net/ddm/$popup,domain=11freunde.de
 @@||g.doubleclick.net^$popup,domain=11freunde.de|kochbar.de
