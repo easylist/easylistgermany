@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202203081447
+! Version: 202203081459
 ! Title: EasyList Germany
-! Last modified: 08 Mar 2022 14:47 UTC
+! Last modified: 08 Mar 2022 14:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3598,7 +3598,7 @@ nydus.org##.recommend
 jobscout24.ch##.recommendations
 games.ch##.rect
 anisearch.de##.rect_sidebar
-fussballdaten.de,i-fidelity.net,modhoster.de,rheintaler.ch##.rectangle
+fussballdaten.de,i-fidelity.net,metal.de,modhoster.de,rheintaler.ch##.rectangle
 hifistatement.net##.rectangles-row
 radioguetersloh.de##.rectright
 jungle.world##.region-topad
@@ -3625,6 +3625,7 @@ desired.de,familie.de##.sad_sky
 desired.de,familie.de##.sad_topmobile
 digital-eliteboard.com,woodworker.de##.samBannerUnit
 digital-eliteboard.com##.samCodeUnit
+metal.de##.sb
 wallstreet-online.de##.sb_popularleverageproducts
 wallstreet-online.de##.sb_quotebox
 ef-magazin.de##.sbad
