@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202203141852
+! Version: 202203141859
 ! Title: EasyList Germany
-! Last modified: 14 Mar 2022 18:52 UTC
+! Last modified: 14 Mar 2022 18:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4286,6 +4286,7 @@ kajak-magazin.com#?#.custom:-abp-has(span:-abp-contains(Anzeige))
 laola1.at#?#.block.medium:-abp-has(a[href^="https://dt.sportradar.com/"])
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
+meissen-fernsehen.de#?#.text-center:-abp-contains(- Werbung -)
 mmnews.de#?#.sp-module:-abp-has(span:-abp-contains(Kleinanzeigen))
 mopo.de#?#.main-preview:-abp-has(.anzeige-label)
 mopo.de#?#.slider-preview:-abp-has(.anzeige-label)
