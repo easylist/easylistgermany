@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202203141902
+! Version: 202203151647
 ! Title: EasyList Germany
-! Last modified: 14 Mar 2022 19:02 UTC
+! Last modified: 15 Mar 2022 16:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2249,6 +2249,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||werbemanager.w24.at^
 ||werne-plus.de/wp-content/uploads/*-728_90-
 ||werne-plus.de/wp-content/uploads/*/Anzeige_
+||wetter.at/mowis/cpc_teaser/
 ||wetteronline.de/mdr/p_adplace/
 ||whocallsyou.de/files/*/rechtsch-baby.jpg
 ||whocallsyou.de/files/*/rechtsschutz011.jpg
@@ -3191,6 +3192,7 @@ oberberg-aktuell.de##.bnrad
 russland.capital,russland.news##.bodShopWidget
 fairaudio.de##.borlabs-dealer
 fairaudio.de##.borlabs_fairaudio_ads_widgetx
+wetter.at##.box.contentBoard.default.highlights
 liveticker.com##.boxOverContent
 flashscore.de##.boxOverContent__banner
 pcwelt.de##.box[data-ga-event-label="Angebote für PC-WELT Leser"]
