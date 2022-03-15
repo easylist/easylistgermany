@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202203151726
+! Version: 202203152244
 ! Title: EasyList Germany
-! Last modified: 15 Mar 2022 17:26 UTC
+! Last modified: 15 Mar 2022 22:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1191,6 +1191,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||vodafone.de^*&tsid=$popup,third-party
 ! -------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block.txt ***
+! 
 $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.to
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
@@ -4061,6 +4062,7 @@ handballecke.de##div[id^="promotionHeader"]
 fitundgesund.at,ichkoche.at,metal-hammer.de##div[id^="sas_"]
 schlager.de##div[id^="schlager-ad-"]
 20min.ch##div[id^="schweiz__inside-"]
+seenluft24.de##div[id^="seenl-"]
 sempre-audio.at##div[id^="sempr-"]
 smarthomes.de##div[id^="smart-"]
 amazon.de##div[id^="sp_detail"]
