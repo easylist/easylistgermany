@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204011925
+! Version: 202204011942
 ! Title: EasyList Germany
-! Last modified: 01 Apr 2022 19:25 UTC
+! Last modified: 01 Apr 2022 19:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3227,6 +3227,7 @@ lounge.fm##.buy
 eventelevator.de##.bwdfb-widget
 kremser-sc.at,sgleutershausen.de##.bx-viewport
 amerikawoche.com##.bxnxr_column
+dererker.it##.bxslider
 amerikawoche.com##.bxv
 coincierge.de##.c-FloatingPrompt
 t3n.de##.c-ad__container-p1
@@ -3560,6 +3561,7 @@ deutscherskiverband.de##.partnerlogos
 esports.ch,hannover96.de,p-stadtkultur.de,sihf.ch##.partners
 vfl-wolfsburg.de##.partners-footer
 floatmagazin.de##.partners-title + .partners
+dererker.it##.partvert-right
 tagesstimme.com##.pb-8.text-center.float-center
 fla.de##.pbph
 heise.de##.perf-cls-reduc-leaderboard
