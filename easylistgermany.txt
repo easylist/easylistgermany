@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204111646
+! Version: 202204121737
 ! Title: EasyList Germany
-! Last modified: 11 Apr 2022 16:46 UTC
+! Last modified: 12 Apr 2022 17:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3902,6 +3902,7 @@ tarnkappe.info##a[href*="?sca_ref="]
 strippokerregeln.com##a[href="/www/888casino"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
 t-online.de,www-t--online-de.cdn.ampproject.org##a[href="https://gebrauchtwagen-suche.t-online.de/marke-skoda/modell-superb"]
+myboerse.bz​##a[href="https://tinyurl.com/"]
 tarnkappe.info##a[href^=" https://www.bit.ly/"]
 hammerporno.xxx##a[href^="//plx.hammerporno.xxx/pool_link/"]
 dkamera.de##a[href^="/adserver/goto/"]
