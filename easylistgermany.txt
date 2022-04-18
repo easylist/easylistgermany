@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204181629
+! Version: 202204181637
 ! Title: EasyList Germany
-! Last modified: 18 Apr 2022 16:29 UTC
+! Last modified: 18 Apr 2022 16:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4432,6 +4432,8 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||improvedigital.com/pbw/headerlift.min.js$domain=jetztspielen.de
 @@||jade-hs.de^*/ext-adv.js
 @@||kabeleins.de^$generichide
+@@||live.primis.tech/live/liveVideo.php?$script,domain=nextpit.de
+@@||live.primis.tech/live/liveView.php?$script,domain=nextpit.de
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
 @@||metal-hammer.de^$generichide
