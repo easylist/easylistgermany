@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204141709
+! Version: 202204181629
 ! Title: EasyList Germany
-! Last modified: 14 Apr 2022 17:09 UTC
+! Last modified: 18 Apr 2022 16:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3305,6 +3305,7 @@ u1-radio.at##.csc-partner
 filmstreaming-de.life##.custom-ban-wrap
 boerse-express.com##.custom-bexad
 derkleinegarten.de##.custom-inhoadd
+satvision.de##.custom_googleanzeige
 digitalfernsehen.de##.custom_html-7
 goldesel.sx##.d_695692
 blockbuster.to##.d_702192
