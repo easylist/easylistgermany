@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204181637
+! Version: 202204201636
 ! Title: EasyList Germany
-! Last modified: 18 Apr 2022 16:37 UTC
+! Last modified: 20 Apr 2022 16:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3635,6 +3635,7 @@ radioguetersloh.de##.rectright
 jungle.world##.region-topad
 1000ps.at##.reifen-winter
 suche.freenet.de##.result-container > .container-right
+drpornofilme.com##.resumecard
 curved.de##.review-recommendation-headline
 curved.de##.review-recommendation-headline + a
 nydus.org##.right > .widgetbox2
