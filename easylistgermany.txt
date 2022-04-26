@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204261327
+! Version: 202204261357
 ! Title: EasyList Germany
-! Last modified: 26 Apr 2022 13:27 UTC
+! Last modified: 26 Apr 2022 13:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4515,3 +4515,4 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||canna.to/links.php?action=$popup,domain=canna.to
 @@||doubleclick.net/ddm/$popup,domain=11freunde.de
 @@||g.doubleclick.net^$popup,domain=11freunde.de|kochbar.de
+@@||t.adcell.com/click.php?$popup,domain=comicschau.de
