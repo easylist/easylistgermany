@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204281300
+! Version: 202204281313
 ! Title: EasyList Germany
-! Last modified: 28 Apr 2022 13:00 UTC
+! Last modified: 28 Apr 2022 13:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4362,6 +4362,7 @@ roadbike.de#?#.v-A_-topteaser__article:-abp-has(.v-A_-teaser__tag--ad)
 roadbike.de#?#.v-A_-white__tile:-abp-has(.v-A_-teaser__tag--ad)
 running-magazin.com#?#.post-grid-item.grid-item:-abp-has(.ad-badge)
 saechsische.de#?#.article-box:-abp-has(> .article-box__text > .article-box__info > span.article-badge--ad)
+saechsische.de#?#.article-fill:-abp-has(.article-badge.article-badge--ad)
 satvision.de#?#.fc_bloglist_item:-abp-has(a:-abp-contains(Advertorial))
 satvision.de#?#.mod_flexicontent_standard_wrapper:-abp-has(span:-abp-contains(Advertorial))
 smartphonemag.de#?#.td_module_wrap:-abp-has(.td-post-author-name:-abp-contains(Werbung))
