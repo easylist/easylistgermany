@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204291756
+! Version: 202205021303
 ! Title: EasyList Germany
-! Last modified: 29 Apr 2022 17:56 UTC
+! Last modified: 02 May 2022 13:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4053,6 +4053,7 @@ areadvd.de##div[id^="aread-"]
 finanzen100.de,spielen.de##div[id^="banner_"]
 20min.ch##div[id^="basel__inside-"]
 basic-tutorials.de##div[id^="basic-"]
+bayreuther-tagblatt.de##div[id^="bayre-"]
 20min.ch##div[id^="bern__inside-"]
 hpd.de##div[id^="block-views-advertising-"]
 fla.de##div[id^="cncpt-dsk_"]
