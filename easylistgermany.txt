@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205021659
+! Version: 202205031243
 ! Title: EasyList Germany
-! Last modified: 02 May 2022 16:59 UTC
+! Last modified: 03 May 2022 12:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1030,6 +1030,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||media*.s24.com^$third-party
 ||media.alphaload.com^
 ||medipreis.de/partner/$third-party
+||middleware.marktjagd.de^$third-party
 ||mobildiscounter.de/banner/$third-party
 ||modellplan.de/banner/$third-party
 ||mondrian.twyn.com^$third-party
@@ -1118,6 +1119,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||sonnige-aussichten.ch/_img/ad/$third-party
 ||sorgenlos.de^*/banner/
 ||space4free.net/images/banner/$third-party
+||spotlight.offerista.com^$third-party
 ||sprachenlernen24-download.de/banner/
 ||starting6.de/dyn_banner/$third-party
 ||startparadies.de/banner/$third-party
@@ -3125,6 +3127,7 @@ pcgameshardware.de##.at_sponsored
 gartenratgeber.net##.atkp-container
 autoline.de,autoline24.at,autoline24.ch##.atla-place
 autogazette.de##.autog-widget
+bayreuther-tagblatt.de##.av-7mui-2434157fea122ac0fb770d6fe554162d
 notebookinfo.de##.av-carousel
 notebookinfo.de##.av-fade-carousel
 hsc2000.de##.av-partner-fake-img
