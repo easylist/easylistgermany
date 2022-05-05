@@ -719,6 +719,7 @@ hallelife.de##.banner_image
 der-farang.com##.banner_page_top
 lerntippsammlung.de##.banner_rechts
 archzine.net##.banner_sidebar
+dastelefonbuch.de##.banner_tl
 dastelefonbuch.de,dnv-online.net##.banner_top
 handy-player.de##.bannerbox
 xxxjob.ch##.bannerboxlinks-klein
@@ -1854,6 +1855,7 @@ computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains(
 connect.de#?#.teaser:-abp-has(.teaser__promolabel)
 cyclingmagazine.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Sponsored Post))
 dashcamtest.de#?#.previewtile.swiper-slide:-abp-has(a[href^="https://amzn.to/"])
+dastelefonbuch.de#?#.entry.hitlistitem.balken:-abp-has(.flag2:-abp-contains(Anzeige))
 diegrenzgaenger.lu#?#article[id^=post-]:-abp-has(.sponsored-indicator)
 dkamera.de#?#.node.teaser:-abp-has(a:-abp-contains(Anzeige))
 ebay.at#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
