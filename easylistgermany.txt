@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205181205
+! Version: 202205181258
 ! Title: EasyList Germany
-! Last modified: 18 May 2022 12:05 UTC
+! Last modified: 18 May 2022 12:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -878,6 +878,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||adperform.de^$popup,third-party
 ||adshot.de^$popup,third-party
 ||cgames.de^$popup
+||delmovip.com^$popup
 ||gamigoads.com^$popup,third-party
 ||insta-cash.net^$popup,third-party
 ||jinkads.com^$popup,third-party
@@ -1496,6 +1497,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||feierabend.de/gta/
 ||ff-bz.com^*/banner-
 ||fhcdn.net^*/ebay_logo.gif
+||fickverein.com/moproxy|$xmlhttprequest
 ||filmpost.de^*/anzeigen/
 ||filmstreaming-de.life/banners/
 ||filmundo.de/banner/
@@ -3183,6 +3185,7 @@ pokerfirma.com##.banner-top-section
 perfektdamen.co##.banner-wrapper
 sexy-land.ch##.banner200
 sexy-land.ch##.banner350
+fickverein.com##.banner3box
 sexy-land.ch##.banner60
 sims4ever.de##.bannerBox
 eishockeynews.de##.bannerContent
