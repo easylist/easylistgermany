@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205181351
+! Version: 202205181418
 ! Title: EasyList Germany
-! Last modified: 18 May 2022 13:51 UTC
+! Last modified: 18 May 2022 14:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2862,6 +2862,7 @@ myself.de###sb1Wrapper
 4players.de###schnaeppchenlayer
 fuw.ch###section-sponsored-blogs
 darkpantersclan.de.tl###selfpromotionOverlay
+gmx.ch,gmx.net,web.de###service-linklist
 boersennews.de###sgFeedList
 uhrforum.de###shuffled-sponsored
 madchensex.com###side-spot
@@ -3602,6 +3603,7 @@ paradiso.de##.paradiso-hp-ads-horizontal
 spielregeln.de##.parallax_link
 duesseldorfer-anzeiger.de##.park-portal
 1000ps.at,1000ps.ch,1000ps.de,broncos.it,eulen-ludwigshafen.de,fc-suedtirol.com,fck.de,hc-erlangen-ev.de,hcinnsbruck.at,hsc-bad-neustadt.de,ibash.de,plattentests.de,veu-feldkirch.at##.partner
+gmx.net,web.de##.partner-links
 esports.ch##.partner-logos
 herthabsc.com##.partner-main-footer
 bhc06.de##.partner-teaser
