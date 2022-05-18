@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205181204
+! Version: 202205181205
 ! Title: EasyList Germany
-! Last modified: 18 May 2022 12:04 UTC
+! Last modified: 18 May 2022 12:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1124,7 +1124,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||sprachenlernen24-download.de/banner/
 ||starting6.de/dyn_banner/$third-party
 ||startparadies.de/banner/$third-party
-||stroeerdigitalgroup.de/metatag/$third-party
 ||stroeerdp.de^*/affiliateId
 ||suchebiete.com/bilder/allgemein_kleinanzeigen.png
 ||suedtirol.live/delivery.js
@@ -4458,7 +4457,6 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||autobild.de^$genericblock,generichide
 @@||businessinsider.de^$generichide
 @@||bz-berlin.de^$generichide
-@@||cdn.stroeerdigitalgroup.de/metatag/live/mps_caravaning_relaunch/metaTag.min.js$domain=caravaning.de
 @@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||commundia.de^*/affilinet/$~third-party
 @@||computerbild.de^$generichide
@@ -4526,8 +4524,6 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||sport.de^$generichide
 @@||sport1.de^$generichide
 @@||sportbild.bild.de^$generichide
-@@||stroeerdigitalgroup.de/metatag/live/AMS/metaTag.min.js$domain=auto-motor-und-sport.de
-@@||stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tvmovie.de
 @@||stylebook.de^$generichide
 @@||sueddeutsche.de^$generichide
 @@||techbook.de^$generichide
