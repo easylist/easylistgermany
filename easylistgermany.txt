@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205211626
+! Version: 202205211642
 ! Title: EasyList Germany
-! Last modified: 21 May 2022 16:26 UTC
+! Last modified: 21 May 2022 16:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3126,6 +3126,7 @@ notebookcheck.com##.am_el
 indirekter-freistoss.de##.amalink
 plattentests.de##.amazon
 digitalfernsehen.de##.amazon-auto-links
+aol.de##.amazon-link
 forum.worldofplayers.de##.amazon-search
 winfuture.de##.amazon_widget_w660
 fairytail-tube.org##.amz
