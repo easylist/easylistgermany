@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205222343
+! Version: 202205231429
 ! Title: EasyList Germany
-! Last modified: 22 May 2022 23:43 UTC
+! Last modified: 23 May 2022 14:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1029,6 +1029,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||lotto-hh.de/lh/widget1/$subdocument,third-party
 ||lotto24.de/?partner=$subdocument,third-party
 ||lustgate.org/images/cbanner/$third-party
+||marketing.net.beate-uhse-movie.com^$third-party
 ||media*.s24.com^$third-party
 ||media.alphaload.com^
 ||medipreis.de/partner/$third-party
