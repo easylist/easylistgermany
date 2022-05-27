@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205261425
+! Version: 202205271718
 ! Title: EasyList Germany
-! Last modified: 26 May 2022 14:25 UTC
+! Last modified: 27 May 2022 17:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3803,7 +3803,7 @@ spieletipps.de##.stiSkyscraperRgt
 radiobob.de##.stickyBanner-wrapper
 spielregeln.de##.strack_cli
 ecvsv.at##.stream-item-top-wrapper
-insideevs.de##.stroer-ap
+de.motor1.com,insideevs.de##.stroer-ap
 sinn-frei.com##.stx
 coincierge.de##.su-button
 handyraketen.de##.su-button-wide[href^="http://amzn.to/"]
