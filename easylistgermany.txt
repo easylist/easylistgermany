@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205301629
+! Version: 202205301631
 ! Title: EasyList Germany
-! Last modified: 30 May 2022 16:29 UTC
+! Last modified: 30 May 2022 16:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3024,6 +3024,7 @@ onvista.de##.ANZEIGE
 chip.de,finanzfrage.net,gutefrage.net##.Ad
 elektrikforen.de,jungewelt.de,vermieter-forum.com##.Anzeige
 onvista.de##.BILLBOARD
+blackdevils.team##.Banner
 fc-suedtirol.com##.BannerContainer
 momondo.de##.Common-Kn-Display
 momondo.de##.Common-Kn-Rp-FlightInline
