@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205271718
+! Version: 202205301525
 ! Title: EasyList Germany
-! Last modified: 27 May 2022 17:18 UTC
+! Last modified: 30 May 2022 15:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2662,6 +2662,8 @@ blogtotal.de###content_banner
 rund-magazin.de###contentbanner
 seorch.de###crazyclownhint
 tagblatt.de###ctl00_ctl00_m_ctrlMainMasterContentPlaceHolder_m_ctrlMainContentPlaceHolder_ctl03_m_ctrlEditContainer
+uepo.de###custom_html-107
+uepo.de###custom_html-110
 kriegsberichterstattung.com###custom_html-12
 tarnkappe.info###custom_html-121
 tarnkappe.info###custom_html-126
@@ -2679,8 +2681,12 @@ ipadblog.de,presse-nachrichten.de,signal-online.d###custom_html-4
 radsportjournaltourman.com###custom_html-42
 nachrichten.es,primavera24.de,radsportjournaltourman.com,signal-online.d###custom_html-5
 haus-garten-magazin.de,nachrichten.es###custom_html-6
+uepo.de###custom_html-77
 digitalfernsehen.de,eu-vertretung.de###custom_html-8
+uepo.de###custom_html-88
 eu-vertretung.de,kriegsberichterstattung.com,mixed.de###custom_html-9
+uepo.de###custom_html-95
+uepo.de###custom_html-97
 wochenblatt.pl###custom_post_widget-6
 city23.at###dabplusshop
 finanznachrichten.de,wallstreet-online.de###dban1
@@ -3403,6 +3409,7 @@ fussballinfo.net##.field--name-dynamic-token-fieldnode-wett-tipps-4-wettanbieter
 zeitpunkt.ch##.field--name-field-werbebild
 trvlcounter.de##.first_slot
 fight24.tv##.fixed.bottom-0.pb-8
+uepo.de##.flexslider
 floatmagazin.de##.float-widget
 tvinfo.de##.floatLeft[style="padding:10px;"]
 amazona.de##.fnetbr-pbb-container
@@ -4025,6 +4032,7 @@ pcwelt.de##a[href^="https://tracking.s24.com/"]
 spiele-umsonst.de##a[href^="https://wgaffiliate.com/?a="]
 dxtv.de##a[href^="https://www.all-inkl.com/index.php?partner="]
 bildschirmarbeiter.com,bitreporter.de,chip.de,emok.tv,naruto-tube.org,nickles.de,onepiece-tube.com,pcgamesdatabase.de,pcwelt.de,pi-news.net,ruhrbarone.de,schule-studium.de,wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
+uepo.de##a[href^="https://www.amazon."][href*="tag="] > img
 cyclingmagazine.de##a[href^="https://www.amazon.de/"] > img
 pcwelt.de,radsport-seite.de##a[href^="https://www.awin1.com/cread.php?"]
 berliner-stadtplan.com##a[href^="https://www.booking.com/searchresults.de.html?aid="]
