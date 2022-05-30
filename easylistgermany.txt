@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205301525
+! Version: 202205301629
 ! Title: EasyList Germany
-! Last modified: 30 May 2022 15:25 UTC
+! Last modified: 30 May 2022 16:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3675,6 +3675,7 @@ lifechannel.ch##.pz_cont
 radiobeo.ch##.qf-standard-banner-wrapp
 teneriffa-news.com##.qm-head
 teneriffa-news.com##.qm-side
+ssvbozenhandball.it##.qodef-e-logo > img[height="80"]
 jamesfm.ch##.qt-sponsor
 vital.de##.quartermedia
 crossmagazin.de##.quiz-footer-wrapper
