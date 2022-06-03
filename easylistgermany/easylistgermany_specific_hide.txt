@@ -1078,6 +1078,8 @@ mein-pferd.de##.marketing-wrapper
 oe24.at##.marketingTeaserBanner
 pcwelt.de##.marketplace
 winfuture.de##.mb25[style="min-height:261px"]
+morecore.de##.mcad_wrapper
+morecore.de##.mcadblock
 hausgeraete-test.de,heimwerker-test.de,hifitest.de##.med4
 hausgeraete-test.de,heimwerker-test.de,hifitest.de##.med5
 t-online.de,www-t--online-de.cdn.ampproject.org##.med_anz
@@ -1627,6 +1629,7 @@ t-online.de,www-t--online-de.cdn.ampproject.org##div[class^="Tsshopst"]
 2ix2.com##div[class^="bireklam"]
 quoka.de##div[class^="div-gpt-"]
 costanachrichten.com##div[class^="lp_track_"]
+morecore.de##div[class^="morec-"]
 emtb-news.de,mtb-news.de##div[class^="mtbnews-ad-container"]
 via-ferrata.de##div[class^="overlay-"]
 grenzecho.net##div[class^="pane-dpipub-"]
