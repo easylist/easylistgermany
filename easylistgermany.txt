@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206031304
+! Version: 202206031321
 ! Title: EasyList Germany
-! Last modified: 03 Jun 2022 13:04 UTC
+! Last modified: 03 Jun 2022 13:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4416,6 +4416,7 @@ heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===)
 heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===) + p
 heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===) + p + p
 heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ende===)
+imsueden.de#?#.swiper:-abp-has(.headline:-abp-contains(Partner))
 inside-digital.de#?#.td_module_ih_current_news:-abp-has(.spo)
 jameda.de#?#li:-abp-has([data-testid="advertisementSign-flag"])
 kajak-magazin.com#?#.custom:-abp-has(span:-abp-contains(Anzeige))
