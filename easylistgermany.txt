@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206031525
+! Version: 202206061550
 ! Title: EasyList Germany
-! Last modified: 03 Jun 2022 15:25 UTC
+! Last modified: 06 Jun 2022 15:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4034,6 +4034,7 @@ onepiece-tube.com##a[href^="https://cutt.ly/"]
 ligaportal.at##a[href^="https://de.johnnybet.com/"]
 msn.com##a[href^="https://ebay.at/"]
 finanzen.ch##a[href^="https://fra1-ib.adnxs.com/"]
+pcwelt.de##a[href^="https://get.surfshark.net/aff_c?"]
 denkmalpflege-schweiz.ch,pornotim.com,reiseziele.ch,xhamsterde.com##a[href^="https://goo.gl/"]
 tarnkappe.info##a[href^="https://hide.me/de/promotion/"]
 hoerbuch.us##a[href^="https://hoerbuch.us/dll/"]
