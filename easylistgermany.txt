@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206081236
+! Version: 202206081256
 ! Title: EasyList Germany
-! Last modified: 08 Jun 2022 12:36 UTC
+! Last modified: 08 Jun 2022 12:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3939,7 +3939,8 @@ bikesport-emtb.de,radfahren.de,radsport-rennrad.de##.wide-banner
 1000ps.ch##.wideboard-cad
 nau.ch##.wideboard-top
 aerotelegraph.com##.widget--marktplatz
-melodieundrhythmus.com##.widget-3
+kostenloses-fernsehen.de##.widget-1
+kostenloses-fernsehen.de,melodieundrhythmus.com##.widget-3
 kt1.at##.widget-5
 kt1.at##.widget-7
 primeleague.gg##.widget-list-sponsors
