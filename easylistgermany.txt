@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206131546
+! Version: 202206131549
 ! Title: EasyList Germany
-! Last modified: 13 Jun 2022 15:46 UTC
+! Last modified: 13 Jun 2022 15:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2755,6 +2755,7 @@ belgieninfo.net###head_banner
 mtb-news.de###header
 archiexpo.de,directindustry.de,medicalexpo.de,nauticexpo.de###header-banner
 mtb-news.de###header-banner-mobile
+preis.de###header-image-js
 diegrenzgaenger.lu###header-wrapper + div[class="row "]
 klamm.de###header_main
 amazon.de###heroQuickPromo_feature_div
