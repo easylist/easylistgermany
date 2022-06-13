@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206131610
+! Version: 202206131612
 ! Title: EasyList Germany
-! Last modified: 13 Jun 2022 16:10 UTC
+! Last modified: 13 Jun 2022 16:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -576,6 +576,7 @@ hochzeitswahn.de#@#.internal-ad
 mietmobil-fuchs.ch#@#.jquery-script-ads
 11freunde.de#@#.js_deferred-ad
 wetter.de#@#.outbrain-ad-slot
+phytodoc.de#@#.plain-ad
 quoka.de#@#.related-ads
 wetter.de#@#.showheroes-ad-slot
 xdate.ch#@#.side-ads
