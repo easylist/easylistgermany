@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206131612
+! Version: 202206141520
 ! Title: EasyList Germany
-! Last modified: 13 Jun 2022 16:12 UTC
+! Last modified: 14 Jun 2022 15:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1531,6 +1531,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||football-aktuell.de/links/
 ||football-aktuell.de/rechts/
 ||forumprofi.de/fritz/$subdocument
+||freenet.de/amazonService/search/
 ||freenet.de/www/export/$script
 ||freenet.de^*/mail/ads/
 ||freiburgesports.de/assets/images/esports/partner_sponsoren/
@@ -3445,6 +3446,7 @@ oefb.at##.footer_partner
 scdhfk-handball.de##.footer_sponsor_row
 fruchtportal.de##.fp-banner
 arboe.at##.frame-type-mask_toolboxcontentad1
+freenet.de##.frn_contAmazon
 raidrush.net##.funbox
 99ers.at##.fusion-builder-row-14
 fcschweinfurt1905.de##.fusion-builder-row-3
