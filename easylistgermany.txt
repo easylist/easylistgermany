@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206171652
+! Version: 202206221238
 ! Title: EasyList Germany
-! Last modified: 17 Jun 2022 16:52 UTC
+! Last modified: 22 Jun 2022 12:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2154,6 +2154,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||svww.de/fileadmin/media/*-970x250.jpg
 ||svww.de/fileadmin/media/*-banner.jpg
 ||svww.de/fileadmin/media/Sponsoren/
+||swiss-divers.ch/data/sliderbanner/
 ||swz.it^*/pichler.gif
 ||swz.it^*_Webbanner_
 ||synchronkartei.de/img/ext/
@@ -2735,6 +2736,8 @@ dastelefonbuch.de###dtm_multiboxcontainer
 gelbeseiten.de###dtm_super
 teilzeithelden.de###enhancedtextwidget-11
 teilzeithelden.de###enhancedtextwidget-12
+swiss-divers.ch###execphp-2
+swiss-divers.ch###execphp-3
 fremdwort.de###ezisgib
 autoextrem.de,usp-forum.de,win-10-forum.de,winboard.org###fh-outside-top
 spreeblick.com###flattr > a
