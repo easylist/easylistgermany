@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206231239
+! Version: 202206231240
 ! Title: EasyList Germany
-! Last modified: 23 Jun 2022 12:39 UTC
+! Last modified: 23 Jun 2022 12:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3135,7 +3135,7 @@ stereo.de##.adserver
 hierspielen.com##.adtitle
 fitforfun.de,ibb-anzeiger.de,suchen.mobile.de,suedtiroltv.it##.adv
 oberberg-aktuell.de##.adv-indicator
-coincierge.de,fuldainfo.de,maniac.de,oberberg-aktuell.de,pictures-magazin.de,sempre-audio.at,smarthomes.de##.adv-link
+coincierge.de,fazemag.de,fuldainfo.de,maniac.de,oberberg-aktuell.de,pictures-magazin.de,sempre-audio.at,smarthomes.de##.adv-link
 teneriffa-aktuell.com##.adv-wrapper
 perfektdamen.co##.adv_block
 blinker.de##.adv_widget
@@ -4398,7 +4398,6 @@ focus.de##div[id^="M_TRSCT_hor"]
 t-online.de##div[id^="nativendo"]
 t-online.de##section[data-stage-layout^="custom_nativendo_"]
 ! Advanced element hiding rules for Adblock Plus
-fazemag.de##.adv-link
 stol.it#?##ContainerFull:-abp-has(a:-abp-contains(Anzeige))
 abendzeitung-muenchen.de#?#article[class^="teaser nummer-"]:-abp-has(span.specialfeature)
 avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorials))
