@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206221303
+! Version: 202206231239
 ! Title: EasyList Germany
-! Last modified: 22 Jun 2022 13:03 UTC
+! Last modified: 23 Jun 2022 12:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3869,7 +3869,6 @@ broncos.it##.supporter
 ntz.de,scdhfk-handball.de##.swiper-container
 swp.de##.swp-adbox
 frauporno.com##.sz_300_250
-quoka.de##.t-ctr
 duden.de##.tabloid__side-column-top
 selbstaendig-im-netz.de##.tad1
 golem.de##.tags
@@ -4399,6 +4398,7 @@ focus.de##div[id^="M_TRSCT_hor"]
 t-online.de##div[id^="nativendo"]
 t-online.de##section[data-stage-layout^="custom_nativendo_"]
 ! Advanced element hiding rules for Adblock Plus
+fazemag.de##.adv-link
 stol.it#?##ContainerFull:-abp-has(a:-abp-contains(Anzeige))
 abendzeitung-muenchen.de#?#article[class^="teaser nummer-"]:-abp-has(span.specialfeature)
 avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorials))
@@ -4431,7 +4431,6 @@ ebay.de#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 elektrobike-online.com#?#.v-A_-topteaser__article:-abp-has(.v-A_-teaser__tag--ad)
 emotion.de#?#.node--article:-abp-has(span:-abp-contains(Anzeige))
 eurotransport.de#?#.v-A_-sidecol__list__item:-abp-has(.v-A_-teaser__tag--ad)
-fazemag.de##.adv-link
 fazemag.de#?#h4:-abp-has(span:-abp-contains(ANZEIGEN))
 feuerwehrmagazin.de#?#.excerpt-tile.cell.small-12.medium-6:-abp-has(.advertorials)
 finanzen.net#?#.mleft-10.small-font.light-grey:-abp-contains(Werbung) + .box + .border-blue-2
