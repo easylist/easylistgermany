@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206271252
+! Version: 202206271254
 ! Title: EasyList Germany
-! Last modified: 27 Jun 2022 12:52 UTC
+! Last modified: 27 Jun 2022 12:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3340,6 +3340,8 @@ wg-gesucht.de##.clicked_partner
 wolfsrevier.de##.client_wrapper
 pixelio.de##.clipad
 focus.de##.cls_slot_xxoutstreamxx
+focus.de##.cls_ver_prnt
+focus.de##.cls_ver_prnt_xs
 markt.de##.clsy-adv-item
 markt.de##.clsy-c-advsection
 gota6.ch,sex-infos.ch##.clubBox
