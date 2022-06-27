@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206271316
+! Version: 202206271404
 ! Title: EasyList Germany
-! Last modified: 27 Jun 2022 13:16 UTC
+! Last modified: 27 Jun 2022 14:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4335,6 +4335,7 @@ sportradio-deutschland.de##img[width="768"][height="768"]
 teneriffa-aktuell.com##img[width="800"][height="230"]
 teneriffa-aktuell.com##img[width="900"][height="350"]
 t-online.de,www-t--online-de.cdn.ampproject.org##img[width="920"][usemap^="#immap"]
+petra.de##kas
 vital.de##kas[type="placement"]
 restegourmet.de##li[data-content-type="ad"]
 erogeschichten.com##table[align-center][cellpadding="13"][border="0"][bgcolor="lightgrey"]
