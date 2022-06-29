@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206291414
+! Version: 202206291529
 ! Title: EasyList Germany
-! Last modified: 29 Jun 2022 14:14 UTC
+! Last modified: 29 Jun 2022 15:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -843,6 +843,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||transmatico.com^$third-party
 ||trmads.eu^$third-party
 ||trmget.eu^$third-party
+||trmwidget.eu^$third-party
 ||trocado.at^$third-party
 ||turboads.de^$third-party
 ||twiago.com^$third-party
