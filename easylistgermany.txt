@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202207071401
+! Version: 202207071414
 ! Title: EasyList Germany
-! Last modified: 07 Jul 2022 14:01 UTC
+! Last modified: 07 Jul 2022 14:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4263,6 +4263,7 @@ raptastisch.net##div[style="height: 300px;"]
 reiseuhu.de##div[style="height: 600px !important; max-width: 320px; margin: 15px auto;"]
 hdfilme.cx##div[style="height: 90px; width: 728px;"]
 boerse-social.com##div[style="height:80px;background-color:#fff"]
+photaq.com##div[style="height:90px"]
 nydus.org##div[style="height:90px;overflow:hidden;text-align:center;"]
 iphone-tricks.de##div[style="margin-bottom:.5em;padding-top:.5em;min-height: 270px;display: flex;justify-content: center;align-items: center"]
 digitalfernsehen.de##div[style="margin-bottom:10px"]
