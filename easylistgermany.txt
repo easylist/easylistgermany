@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202207081343
+! Version: 202207081357
 ! Title: EasyList Germany
-! Last modified: 08 Jul 2022 13:43 UTC
+! Last modified: 08 Jul 2022 13:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3341,6 +3341,7 @@ filmlaune.de##.card-streaming-btns
 neuwagen.de##.cardealers
 anzeigervomrottal.ch##.carousel
 e-formel.de##.ce_plista
+boerse-daily.de##.ce_rsce_bd_werbung
 my105.ch##.channel-sponsor
 typo3blogger.de##.chemical_sitelogo_r
 autoscout24.at,autoscout24.de##.cl-billboad-wrapper
