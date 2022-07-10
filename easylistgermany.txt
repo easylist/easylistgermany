@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202207101423
+! Version: 202207101522
 ! Title: EasyList Germany
-! Last modified: 10 Jul 2022 14:23 UTC
+! Last modified: 10 Jul 2022 15:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4035,7 +4035,8 @@ bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
 onvista.de##a[href*="&adname="]
 tarnkappe.info##a[href*=".rokkr.net/promo/"]
 dkamera.de,donau3fm.de,isaswomo.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,spox.com,via-ferrata.de##a[href*="//bit.ly/"]
-ddl-warez.cc,hd-source.to##a[href*="/af.php"]
+hd-source.to##a[href*="/af.php"]
+ddl-warez.cc##a[href*="/af.php"]:not([id^="m"])
 amigafuture.de##a[href*="/boardheaderads/"]
 erogeschichten.com##a[href*="/go/"]
 tarnkappe.info##a[href*="/hide.me/de/?friend="]
