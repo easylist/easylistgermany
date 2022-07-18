@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202207181359
+! Version: 202207181605
 ! Title: EasyList Germany
-! Last modified: 18 Jul 2022 13:59 UTC
+! Last modified: 18 Jul 2022 16:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -177,9 +177,13 @@ _woz_banner_vote.
 ###SlimSpot_imPop_Container
 ###Werb_Postbit_Bottom
 ###WerbungLinks
+###WerbungOben
 ###WerbungObenRechts10_GesamtDIV
 ###WerbungObenRechts8_GesamtDIV
 ###WerbungObenRechts9_GesamtDIV
+###WerbungRechts1
+###WerbungRechts2
+###WerbungUnten
 ###WerbungUntenLinks4_GesamtDIV
 ###WerbungUntenLinks7_GesamtDIV
 ###WerbungUntenLinks8_GesamtDIV
@@ -359,6 +363,7 @@ _woz_banner_vote.
 ##.KalaydoRessortBox
 ##.KomischeWerbeBox
 ##.RessortWerbungHeader
+##.Werbelabel
 ##.Werbeteaser
 ##.Werbung
 ##.WerbungAdpepper
