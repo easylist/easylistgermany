@@ -1983,7 +1983,6 @@ eurotransport.de#?#.v-A_-sidecol__list__item:-abp-has(.v-A_-teaser__tag--ad)
 fazemag.de#?#h4:-abp-has(span:-abp-contains(ANZEIGEN))
 feuerwehrmagazin.de#?#.excerpt-tile.cell.small-12.medium-6:-abp-has(.advertorials)
 finanzen.net#?#.mleft-10.small-font.light-grey:-abp-contains(Werbung) + .box + .border-blue-2
-finanzen.net#?#.mleft-10.small-font.light-grey:-abp-contains(Werbung) + .box + .box
 finanzen.net#?#.mleft-10:-abp-contains(Werbung) + .box
 fuersie.de#?#.teaser__item:-abp-has(.teaser__adtype)
 futurezone.de#?#article[data-post-id]:-abp-has(.sponsor-byline)
