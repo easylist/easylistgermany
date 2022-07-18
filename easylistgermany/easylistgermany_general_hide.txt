@@ -5,9 +5,13 @@
 ###SlimSpot_imPop_Container
 ###Werb_Postbit_Bottom
 ###WerbungLinks
+###WerbungOben
 ###WerbungObenRechts10_GesamtDIV
 ###WerbungObenRechts8_GesamtDIV
 ###WerbungObenRechts9_GesamtDIV
+###WerbungRechts1
+###WerbungRechts2
+###WerbungUnten
 ###WerbungUntenLinks4_GesamtDIV
 ###WerbungUntenLinks7_GesamtDIV
 ###WerbungUntenLinks8_GesamtDIV
@@ -187,6 +191,7 @@
 ##.KalaydoRessortBox
 ##.KomischeWerbeBox
 ##.RessortWerbungHeader
+##.Werbelabel
 ##.Werbeteaser
 ##.Werbung
 ##.WerbungAdpepper
