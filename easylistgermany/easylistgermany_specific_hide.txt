@@ -254,7 +254,8 @@ teilzeithelden.de###enhancedtextwidget-12
 swiss-divers.ch###execphp-2
 swiss-divers.ch###execphp-3
 fremdwort.de###ezisgib
-autoextrem.de,usp-forum.de,win-10-forum.de,winboard.org###fh-outside-top
+skodacommunity.de###fh-inside-bottom
+autoextrem.de,skodacommunity.de,usp-forum.de,win-10-forum.de,winboard.org###fh-outside-top
 spreeblick.com###flattr > a
 spreeblick.com###flattr > p
 finanznachrichten.de###fn-ankuendigung
@@ -426,6 +427,8 @@ uhrforum.de###sidebar_container
 pinksugar-kessy.de###sidebar_right > #HTML7
 pinksugar-kessy.de###sidebar_right > #HTML9
 finanznachrichten.de###sideteaser
+skodacommunity.de###skodacommunity\.de_mpu_bot
+skodacommunity.de###skodacommunity\.de_mpu_top
 gamereactor.de,hardwareluxx.de,itmagazine.ch,mopo.de###sky
 nextpit.de###sky-left-container
 clever-tanken.de###sky-tisoomi-wrapper
@@ -2044,6 +2047,7 @@ saechsische.de#?#.article-box:-abp-has(> .article-box__text > .article-box__info
 saechsische.de#?#.article-fill:-abp-has(.article-badge.article-badge--ad)
 satvision.de#?#.fc_bloglist_item:-abp-has(a:-abp-contains(Advertorial))
 satvision.de#?#.mod_flexicontent_standard_wrapper:-abp-has(span:-abp-contains(Advertorial))
+skodacommunity.de#?#article.message--post:-abp-has(a:-abp-contains(Anzeige))
 smartphonemag.de#?#.td_module_wrap:-abp-has(.td-post-author-name:-abp-contains(Werbung))
 swz.it#?#.jeg_post.jeg_pl_md_2.pr.format-standard:-abp-has(span:-abp-contains(PR-INFO))
 t-online.de,www-t--online-de.cdn.ampproject.org#?#div[id^="T-"][onfocus^="A('zid="]:-abp-has(a:-abp-contains(Anzeige))
