@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208191419
+! Version: 202208220512
 ! Title: EasyList Germany
-! Last modified: 19 Aug 2022 14:19 UTC
+! Last modified: 22 Aug 2022 05:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2754,7 +2754,7 @@ teilzeithelden.de###enhancedtextwidget-12
 swiss-divers.ch###execphp-2
 swiss-divers.ch###execphp-3
 fremdwort.de###ezisgib
-skodacommunity.de###fh-inside-bottom
+autoextrem.de,skodacommunity.de###fh-inside-bottom
 autoextrem.de,skodacommunity.de,usp-forum.de,win-10-forum.de,winboard.org###fh-outside-top
 spreeblick.com###flattr > a
 spreeblick.com###flattr > p
@@ -2927,8 +2927,6 @@ uhrforum.de###sidebar_container
 pinksugar-kessy.de###sidebar_right > #HTML7
 pinksugar-kessy.de###sidebar_right > #HTML9
 finanznachrichten.de###sideteaser
-skodacommunity.de###skodacommunity\.de_mpu_bot
-skodacommunity.de###skodacommunity\.de_mpu_top
 gamereactor.de,hardwareluxx.de,itmagazine.ch,mopo.de###sky
 nextpit.de###sky-left-container
 clever-tanken.de###sky-tisoomi-wrapper
@@ -3467,6 +3465,8 @@ de.motor1.com##.f1de-container
 fcbayern.com##.fcb-ad-banner-container
 bunte.de##.fe-channel-item--promo
 ff-bz.com##.ff-ba
+autoextrem.de,skodacommunity.de##.fh-inside-post
+autoextrem.de##.fh-sidebar
 fussballinfo.net##.field--name-dynamic-token-fieldnode-wett-tipps-4-wettanbieter-h2 + .field--name-dynamic-block-fieldnode-top-3-anbieter
 zeitpunkt.ch##.field--name-field-werbebild
 trvlcounter.de##.first_slot
