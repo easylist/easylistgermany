@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208221348
+! Version: 202208241326
 ! Title: EasyList Germany
-! Last modified: 22 Aug 2022 13:48 UTC
+! Last modified: 24 Aug 2022 13:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4577,6 +4577,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=rewe.de
 @@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
 @@||adnxs-simple.com/mob?$xmlhttprequest,domain=sportbild.bild.de
+@@||adnxs-simple.com/creative/p/7823/2022/8/22/38956667/bcedd234-d477-49cf-86b1-d56000e4e685.jpg$domain=musikexpress.de
 @@||adnxs.com/p/creative-image/$image,domain=autobild.de
 @@||adnxs.com/ut/v3|$xmlhttprequest,domain=autobild.de
 @@||ads.julephosting.de/podcasts/$media,domain=gamestar.de
@@ -4588,7 +4589,9 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||asadcdn.com/adlib/adlib_seq.js$script,domain=stylebook.de
 @@||asadcdn.com/adlib/pages/bz-berlin.js$script,domain=bz-berlin.de
 @@||asadcdn.com/adlib/pages/stylebook.js^$script,domain=stylebook.de
+@@||asadcdn.com/adlib/pages/musikexpress.js$domain=musikexpress.de
 @@||asadcdn.com/adlib/templates/oneTag.js$script,domain=stylebook.de
+@@||asadcdn.com/adlib/libmodules/$script,domain=musikexpress.de
 @@||autobild.de^$genericblock,generichide
 @@||businessinsider.de^$generichide
 @@||bz-berlin.de^$generichide
@@ -4621,6 +4624,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||googlewatchblog.de^*/adsense.png
 @@||goolive.de/media/static/images/smileys/ad.gif
 @@||ib.adnxs.com/ut/v3^$xmlhttprequest,domain=stylebook.de
+@@||ib.adnxs.com/ut/v3$xmlhttprequest,domain=musikexpress.de
 @@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
 @@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
 @@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
