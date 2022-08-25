@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208251239
+! Version: 202208251440
 ! Title: EasyList Germany
-! Last modified: 25 Aug 2022 12:39 UTC
+! Last modified: 25 Aug 2022 14:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1077,6 +1077,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||partner.simplytel.de^
 ||partner.zooplus.de^$third-party
 ||partnerprogramm.e-wie-einfach.de^$third-party
+||partners2.das-onlinespiel.de/client.js?pid=pg_bildnew&_=2.12.3|$script,domain=spiele.bild.de
 ||partners2.das-onlinespiel.de/client.js?pid=pg_bildnew_kwr&zone=crosswords$domain=spiele.bild.de
 ||partyschnaps.com/banner/$third-party
 ||pccdn.com^*/banner/$third-party
@@ -4576,8 +4577,8 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||adform.net/banners/$domain=rewe.de|telekom.de
 @@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=rewe.de
 @@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
-@@||adnxs-simple.com/mob?$xmlhttprequest,domain=sportbild.bild.de
 @@||adnxs-simple.com/creative/p/7823/2022/8/22/38956667/bcedd234-d477-49cf-86b1-d56000e4e685.jpg$domain=musikexpress.de
+@@||adnxs-simple.com/mob?$xmlhttprequest,domain=sportbild.bild.de
 @@||adnxs.com/p/creative-image/$image,domain=autobild.de
 @@||adnxs.com/ut/v3|$xmlhttprequest,domain=autobild.de
 @@||ads.julephosting.de/podcasts/$media,domain=gamestar.de
@@ -4587,11 +4588,11 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||asadcdn.com/adlib/$script,domain=sportbild.bild.de
 @@||asadcdn.com/adlib/adlib_seq.js$script,domain=stylebook.de
-@@||asadcdn.com/adlib/pages/bz-berlin.js$script,domain=bz-berlin.de
-@@||asadcdn.com/adlib/pages/stylebook.js^$script,domain=stylebook.de
-@@||asadcdn.com/adlib/pages/musikexpress.js$domain=musikexpress.de
-@@||asadcdn.com/adlib/templates/oneTag.js$script,domain=stylebook.de
 @@||asadcdn.com/adlib/libmodules/$script,domain=musikexpress.de
+@@||asadcdn.com/adlib/pages/bz-berlin.js$script,domain=bz-berlin.de
+@@||asadcdn.com/adlib/pages/musikexpress.js$domain=musikexpress.de
+@@||asadcdn.com/adlib/pages/stylebook.js^$script,domain=stylebook.de
+@@||asadcdn.com/adlib/templates/oneTag.js$script,domain=stylebook.de
 @@||autobild.de^$genericblock,generichide
 @@||businessinsider.de^$generichide
 @@||bz-berlin.de^$generichide
@@ -4623,8 +4624,8 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||googletagservices.com/tag/js/gpt.js$domain=windowspro.de
 @@||googlewatchblog.de^*/adsense.png
 @@||goolive.de/media/static/images/smileys/ad.gif
-@@||ib.adnxs.com/ut/v3^$xmlhttprequest,domain=stylebook.de
 @@||ib.adnxs.com/ut/v3$xmlhttprequest,domain=musikexpress.de
+@@||ib.adnxs.com/ut/v3^$xmlhttprequest,domain=stylebook.de
 @@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
 @@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
 @@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
@@ -4659,6 +4660,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||smartadserver.com/ac?nwid=*&tag=sas_45579^$script,domain=fitbook.de
 @@||smartclip.net/?plc=$script,domain=spiele.rtl.de
 @@||smartclip.net/ads?$script,domain=spiele.rtl.de
+@@||spiele.bild.de^$generichide
 @@||sport.de^$generichide
 @@||sport1.de^$generichide
 @@||sportbild.bild.de^$generichide
