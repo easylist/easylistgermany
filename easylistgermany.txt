@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208280933
+! Version: 202208280935
 ! Title: EasyList Germany
-! Last modified: 28 Aug 2022 09:33 UTC
+! Last modified: 28 Aug 2022 09:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4077,6 +4077,7 @@ myboerse.bz##a[href="https://tinyurl.com/"]
 tarnkappe.info##a[href^=" https://www.bit.ly/"]
 hammerporno.xxx##a[href^="//plx.hammerporno.xxx/pool_link/"]
 dkamera.de##a[href^="/adserver/goto/"]
+ddl-warez.cc##a[href^="/azn/"]
 herthabsc.de##a[href^="/de/hertha/sponsoren/exklusiv-partner/uebersicht/page/"]
 bastel-elfe.de##a[href^="banners.php?"]
 zensiert.net##a[href^="http://camgirly.net"]
