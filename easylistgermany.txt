@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208280935
+! Version: 202208291345
 ! Title: EasyList Germany
-! Last modified: 28 Aug 2022 09:35 UTC
+! Last modified: 29 Aug 2022 13:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1207,6 +1207,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||tagoria.net/?ref=$popup,third-party
 ||taps.io^*/sms?__ref=$popup
 ||teufelchens.xxx/trade_in/$popup,third-party
+||tracking.s24.com^$popup,third-party
 ||tuneclub.de^*/lp.pl?$popup
 ||vavoo.tv/promo/$popup,third-party
 ||vidonna.de/pop.php$popup,third-party
@@ -2597,10 +2598,6 @@ blick.ch###appnexus-placement-topicTeaser2
 gamersglobal.de###arb
 pi-news.net###as2931
 madchensex.com###au
-digitalfernsehen.de,haus-garten-test.de,nrwhits.de,tvinfo.de###ax-billboard
-deluxemusic.de###ax-billboard-bottom
-tvinfo.de###ax-billboard-sub
-deluxemusic.de###ax-billboard-top
 finanzen.ch###balken_top
 apotheken-umschau.de,gamekeyfinder.de,kultur-port.de,ok-weinstrasse.de,stroxley.de###banner
 donnerwetter.at,donnerwetter.ch,donnerwetter.de###banner-container
