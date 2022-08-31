@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208291345
+! Version: 202208311216
 ! Title: EasyList Germany
-! Last modified: 29 Aug 2022 13:45 UTC
+! Last modified: 31 Aug 2022 12:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -560,7 +560,7 @@ ad-tuning.de#@##ad_footer
 ad-tuning.de#@##ad_header
 energy.de#@##ad_home
 golem.de#@##taboola-below-article-thumbnails
-viply.de#@##top-ad
+kombi.de,viply.de#@##top-ad
 filmmakers.de#@##werbung
 regenwald-schuetzen.org#@#.Werbung
 ebay-kleinanzeigen.de#@#.ad-active
