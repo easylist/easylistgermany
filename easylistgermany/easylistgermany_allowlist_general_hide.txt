@@ -49,3 +49,6 @@ kochbar.de#@#[name^="google_ads_iframe"]
 telekom.de#@#a[href^="https://track.adform.net/"]
 11freunde.de#@#div[data-google-query-id]
 wetter.com#@#div[id^="div-gpt-"]
+kombi.de#@##left-ad
+kombi.de#@##right-ad
+kombi.de#@##top-ad
