@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209080444
+! Version: 202209080517
 ! Title: EasyList Germany
-! Last modified: 08 Sep 2022 04:44 UTC
+! Last modified: 08 Sep 2022 05:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1800,6 +1800,8 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||lite-magazin.de/wp-content/uploads/*_276x600-
 ||loipenpark.de/images/banners/
 ||lokalo.de/wp-content/uploads/*.mp4
+||lokalo.de/wp-content/uploads/*/estricher_hof_anim_
+||lokalo.de/wp-content/uploads/*/tts-banner-
 ||lounge.fm^*/auto-doc.
 ||lounge.fm^*/topersatzteile.
 ||lowbeats.de/site/wp-content/banners/
@@ -4355,6 +4357,7 @@ hallespektrum.de,kultur-port.de##img[alt^="Werbung"]
 rc-news.de##img[class="bnr"]
 stadt-bremerhaven.de##img[data-image-title="amazonAktion"]
 rendsburgerleben.de##img[height="200"][width="240"]
+lokalo.de##img[height="250"]
 quadjournal.eu##img[height="600"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
 areadvd.de##img[referrerpolicy="unsafe-url"]
@@ -4386,9 +4389,11 @@ silentworld.eu##img[width="600"]
 basicthinking.de##img[width="600"][height="500"]
 basicthinking.de##img[width="600"][height="600"]
 hallescherfc.de##img[width="605"][height="690"]
+lokalo.de##img[width="700"]
 stereo.de##img[width="728"]
 championstream.de,fruchthandel.de,online-gebuehrenrechner.de,vfl.de##img[width="728"][height="90"]
 sportradio-deutschland.de##img[width="768"][height="768"]
+lokalo.de##img[width="770"]
 teneriffa-aktuell.com##img[width="800"][height="230"]
 teneriffa-aktuell.com##img[width="900"][height="350"]
 t-online.de,www-t--online-de.cdn.ampproject.org##img[width="920"][usemap^="#immap"]
