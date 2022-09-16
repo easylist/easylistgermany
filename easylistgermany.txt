@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209161607
+! Version: 202209161610
 ! Title: EasyList Germany
-! Last modified: 16 Sep 2022 16:07 UTC
+! Last modified: 16 Sep 2022 16:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3064,6 +3064,7 @@ hd-pornos.info,pornoente.tv###wb_widget
 astronews.com###wcontent
 bayer04.de###web-trekk-pageupdate
 weekli.de###weekli-interstitial
+winfuture.de###wfv4_bb2_lazyload[style="min-height:250px"]
 belgieninfo.net###widget_sp_image-14
 travelguide-en.org###wn-insurance-quote-editor
 wetteronline.de###woFooterBillboard
@@ -4344,6 +4345,7 @@ psychic.de##div[style="width:160px;height:600px;"]
 korrekturen.de##div[style="width:300px; height:250px;float:left; margin-right:15px; margin-bottom:15px; border:0; background-color:#c0c0c0; overflow:hidden;"]
 tarnkappe.info##div[style="width:300px;height:250px"]
 news.ch##div[style="width:300px;padding:12px;float:left;"]
+winfuture.de##div[style="width:670px;height:280px;"]
 korrekturen.de##div[style="width:728px; height: 90px; text-align: center; background-color:#c0c0c0;"]
 news.ch##div[style^="width: 300px;"]
 ableitungsrechner.net,integralrechner.de##div[style^="width: 728px;"]
