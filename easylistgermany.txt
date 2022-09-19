@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209161610
+! Version: 202209191530
 ! Title: EasyList Germany
-! Last modified: 16 Sep 2022 16:10 UTC
+! Last modified: 19 Sep 2022 15:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4540,6 +4540,7 @@ laola1.at#?#.block.medium:-abp-has(a[href^="https://dt.sportradar.com/"])
 lausitz-tv.de#?#.small-12.column:-abp-contains(Anzeige)
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
+mediamarkt.de,saturn.de#?#div[data-test="mms-search-srp-productlist-item"]:-abp-has([class^="StyledSponsoringInnerWrapper"])
 meissen-fernsehen.de#?#.text-center:-abp-contains(- Werbung -)
 mmnews.de#?#.sp-module:-abp-has(span:-abp-contains(Kleinanzeigen))
 mopo.de#?#.main-preview:-abp-has(.anzeige-label)
