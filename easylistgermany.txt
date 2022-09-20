@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209201529
+! Version: 202209201533
 ! Title: EasyList Germany
-! Last modified: 20 Sep 2022 15:29 UTC
+! Last modified: 20 Sep 2022 15:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1528,6 +1528,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||filmzitate.de/w/
 ||finanzen.ch/images/b_partner/
 ||finanzen.net/images/a_anzeige/
+||finanzen.net/images/b_aktien/UBS_Partneraktionen_655x255_statisch.svg
 ||finanzen.net/images/b_devisen/p500-krypto.png
 ||finanzen.net/images/b_euro_eurams/banner_wiki_eas.png
 ||finanzen.net/images/b_partner/
@@ -4083,6 +4084,7 @@ tarnkappe.info##a[href*="?sca_ref="]
 finanzen.net##a[href="#p500Werbehinweis"]
 areadvd.de##a[href="/panasonic_de"]
 strippokerregeln.com##a[href="/www/888casino"]
+finanzen.net##a[href="http://g.finanzen.net/ubs-aktiendetail-hebel-fallback"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
 t-online.de,www-t--online-de.cdn.ampproject.org##a[href="https://gebrauchtwagen-suche.t-online.de/marke-skoda/modell-superb"]
 myboerse.bz##a[href="https://tinyurl.com/"]
