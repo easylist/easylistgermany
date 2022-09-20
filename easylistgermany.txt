@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209201533
+! Version: 202209201602
 ! Title: EasyList Germany
-! Last modified: 20 Sep 2022 15:33 UTC
+! Last modified: 20 Sep 2022 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4516,6 +4516,7 @@ fazemag.de#?#h4:-abp-has(span:-abp-contains(ANZEIGEN))
 feuerwehrmagazin.de#?#.excerpt-tile.cell.small-12.medium-6:-abp-has(.advertorials)
 finanzen.net#?#.mleft-10.small-font.light-grey:-abp-contains(Werbung) + .box + .border-blue-2
 finanzen.net#?#.mleft-10:-abp-contains(Werbung) + .box
+finanzen.net#?#article.page-content__item:-abp-has(img[alt="UBS"])
 fuersie.de#?#.teaser__item:-abp-has(.teaser__adtype)
 futurezone.de#?#article[data-post-id]:-abp-has(.sponsor-byline)
 games.ch#?#.col4:-abp-has(h3:-abp-contains(Unterstützt durch:))
