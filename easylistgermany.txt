@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209201202
+! Version: 202209201529
 ! Title: EasyList Germany
-! Last modified: 20 Sep 2022 12:02 UTC
+! Last modified: 20 Sep 2022 15:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4013,6 +4013,7 @@ nsladies.de##.webcam-premium
 seekxl.de##.welcome
 nydus.org,sbb.it##.werb
 fernsehserien.de##.werbemittel
+wetter.com##.werbung:not(.toolbar-wrapper)
 winfuture-forum.de##.wf_gcsi
 bikesport-emtb.de,radfahren.de,radsport-rennrad.de##.wide-banner
 1000ps.ch##.wideboard-cad
