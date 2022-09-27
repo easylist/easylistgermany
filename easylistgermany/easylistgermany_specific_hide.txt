@@ -1677,6 +1677,7 @@ wallstreet-online.de##a[onclick*="'tableAd'"] + img
 chip.de##a[onclick*=".chip-secured-download.de/payperdownload/click?"]
 shaz.ch##a[onclick^="__gaTracker('send', 'event', 'Ads'"]
 computerbase.de##a[rel*="sponsored"] > img[alt="Anzeige"]
+smartdroid.de##a[rel=" noreferrer noopener sponsored nofollow"]
 schweizer-illustrierte.ch##a[rel="sponsored"]
 andalusien-aktuell.es,sex4u.ch##a[rel^="sponsored"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
