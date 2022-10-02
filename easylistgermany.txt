@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209301351
+! Version: 202210021050
 ! Title: EasyList Germany
-! Last modified: 30 Sep 2022 13:51 UTC
+! Last modified: 02 Oct 2022 10:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3724,6 +3724,7 @@ floatmagazin.de##.partners-title + .partners
 dererker.it##.partvert-right
 tagesstimme.com##.pb-8.text-center.float-center
 fla.de##.pbph
+otto.de##.pdp_reco-sponsored
 heise.de##.perf-cls-reduc-leaderboard
 heise.de##.perf-cls-reduc-rectangle
 pi-news.net##.pi-banner
