@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210041005
+! Version: 202210070738
 ! Title: EasyList Germany
-! Last modified: 04 Oct 2022 10:05 UTC
+! Last modified: 07 Oct 2022 07:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3405,6 +3405,7 @@ deutscherskiverband.de##.container-banner-2
 1000ps.at,1000ps.de##.container-billboard
 goslarsche.de##.container_skyscraper
 hoerzu.de##.content-amazon
+woz.ch##.content-fragment-banner
 kostenlosspielen.net##.content-main-box-300x250
 kostenlosspielen.net##.content-main-box-728x90
 kostenlosspielen.net##.content-right-box-300x250right
@@ -3498,6 +3499,7 @@ oefb.at##.footer_partner
 scdhfk-handball.de##.footer_sponsor_row
 fruchtportal.de##.fp-banner
 arboe.at##.frame-type-mask_toolboxcontentad1
+woz.ch##.frontpage-card-banner
 freenet.de##.frn_contAmazon
 puls24.at##.fullbanner-wrapper
 raidrush.net##.funbox
