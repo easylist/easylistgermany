@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210131557
+! Version: 202210131559
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2022 15:57 UTC
+! Last modified: 13 Oct 2022 15:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -841,6 +841,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||sunnysales.biz^$third-party
 ||superclix.de^$third-party
 ||superpromo24.de^$third-party
+||symplr.de^$third-party
 ||szene-traffic.com^$third-party
 ||textklicks.de^$third-party
 ||tfppp.com^$third-party
@@ -2813,6 +2814,8 @@ juraforum.de###jf-stroer-sky
 juraforum.de###jf-stroer-superbanner
 local.ch###js-banner
 ostfriesischer-kurier.de###jsn-pos-user-top
+klamm.de###klamm\.de_forum_1
+klamm.de###klamm\.de_forum_3
 laborjournal.de###kratzer
 mein-wetter.com###labelpub
 abload.de###layerleft
