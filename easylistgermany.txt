@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210161638
+! Version: 202210161844
 ! Title: EasyList Germany
-! Last modified: 16 Oct 2022 16:38 UTC
+! Last modified: 16 Oct 2022 18:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4074,7 +4074,9 @@ german-bash.org##.zitat > div[style="width:300px;"]
 3drei3.de##.zona_publi
 lifeverde.de##.zusatz_billboard
 heise.de##A-PATERNOSTER
+chip.de##[onclick*="://network.screen13.com/"]
 ddl-warez.cc##[onclick^="window.location.href='/azn/"]
+chip.de##[style*="://network.screen13.com/"]
 manomano.de##a[class*="sponsoredProductCard"]
 neuwagen.de##a[class="placement"]
 camping.de##a[class^="herobanner-adv"]
