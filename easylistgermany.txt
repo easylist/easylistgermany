@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210171054
+! Version: 202210171055
 ! Title: EasyList Germany
-! Last modified: 17 Oct 2022 10:54 UTC
+! Last modified: 17 Oct 2022 10:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3305,6 +3305,7 @@ diebildschirmzeitung.de##.banneritem
 sportal.ch##.bannerspot
 frischauf-gp.de##.bannertop
 nnz-online.de##.bannerwrapper
+stimme.de##.bb-wrap
 laborjournal.de##.bb_top
 bz-berlin.de##.bcode
 bz-berlin.de##.bcode-top-container
