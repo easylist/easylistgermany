@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210211824
+! Version: 202210221201
 ! Title: EasyList Germany
-! Last modified: 21 Oct 2022 18:24 UTC
+! Last modified: 22 Oct 2022 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2226,6 +2226,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||tieronline.ch/images/partner/
 ||tipzeitung.de/img/banner/
 ||tobitech.de/images/banners/
+||trustedoffers.de^$domain=chip.de
 ||trvlcounter.de/media/advert/
 ||tschechien-online.org/sites/default/files/hotel-kleine-brauerei.jpg
 ||tschechien-online.org/sites/default/files/to_0.jpg
@@ -4080,8 +4081,10 @@ german-bash.org##.zitat > div[style="width:300px;"]
 3drei3.de##.zona_publi
 lifeverde.de##.zusatz_billboard
 heise.de##A-PATERNOSTER
+chip.de##[onclick*="/screen13."]
 chip.de##[onclick*="://network.screen13.com/"]
 ddl-warez.cc##[onclick^="window.location.href='/azn/"]
+chip.de##[style*="/screen13."]
 chip.de##[style*="://network.screen13.com/"]
 manomano.de##a[class*="sponsoredProductCard"]
 neuwagen.de##a[class="placement"]
