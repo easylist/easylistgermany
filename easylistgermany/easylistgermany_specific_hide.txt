@@ -1566,8 +1566,10 @@ german-bash.org##.zitat > div[style="width:300px;"]
 3drei3.de##.zona_publi
 lifeverde.de##.zusatz_billboard
 heise.de##A-PATERNOSTER
+chip.de##[onclick*="/screen13."]
 chip.de##[onclick*="://network.screen13.com/"]
 ddl-warez.cc##[onclick^="window.location.href='/azn/"]
+chip.de##[style*="/screen13."]
 chip.de##[style*="://network.screen13.com/"]
 manomano.de##a[class*="sponsoredProductCard"]
 neuwagen.de##a[class="placement"]
