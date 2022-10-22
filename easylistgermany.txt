@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210221201
+! Version: 202210221213
 ! Title: EasyList Germany
-! Last modified: 22 Oct 2022 12:01 UTC
+! Last modified: 22 Oct 2022 12:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4328,6 +4328,7 @@ wochenblick.at##div[id^="woche-"]
 20min.ch##div[id^="zentralschweiz__inside-"]
 20min.ch##div[id^="zuerich__inside-"]
 android-hilfe.de##div[style$=";min-height:250px;min-width:300px;"]
+android-hilfe.de##div[style$=";min-height:250px;min-width:310px;"]
 weristdeinfreund.de##div[style*="display: block ! important"]
 kinderspiele-welt.de##div[style*="height:250px"]
 custombike.de##div[style*="width: 300px; height: 300px;"]
