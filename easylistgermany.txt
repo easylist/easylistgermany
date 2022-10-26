@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210261620
+! Version: 202210261622
 ! Title: EasyList Germany
-! Last modified: 26 Oct 2022 16:20 UTC
+! Last modified: 26 Oct 2022 16:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2419,11 +2419,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||yoga-aktuell.de/wp-content/uploads/*_Wide-Banner_
 ||zebradem.com^*/banner/
 ||zentrum-der-gesundheit.de/apiv2/product/
-||zueri6.ch/wp-content/uploads*/newblueup.jpg
-||zueri6.ch/wp-content/uploads/*/300x200.jpg
-||zueri6.ch/wp-content/uploads/*/dscount-escort.jpg
-||zueri6.ch/wp-content/uploads/*/oh-lala.jpg
-||zueri6.ch/wp-content/uploads/*/vida6.gif
 ||zum.de/eduversum/
 ||zurzeit.at/wp-content/uploads/*/Alm-Werbung-
 ||zurzeit.at/wp-content/uploads/*/Banner-
@@ -2934,6 +2929,7 @@ diebildschirmzeitung.de###rstpl-before-higher-position
 fvnws.ch###rv_sponsors_slider
 myself.de###sb1Wrapper
 4players.de###schnaeppchenlayer
+zueri6.ch###section-f09c501
 fuw.ch###section-sponsored-blogs
 darkpantersclan.de.tl###selfpromotionOverlay
 gmx.ch,gmx.net,web.de###service-linklist
@@ -3395,6 +3391,7 @@ focus.de##.cls_ver_prnt_xs
 markt.de##.clsy-adv-item
 markt.de##.clsy-c-advsection
 gota6.ch,sex-infos.ch##.clubBox
+zueri6.ch##.cm-popup-modal
 preis24.de##.cms-cl_tariff-row--ad
 quoka.de##.cnt-rgt
 borncity.com,raptastisch.net##.code-block-1
@@ -4058,6 +4055,7 @@ gameswirtschaft.de,haus-garten-magazin.de##.widget_aawp_widget_bestseller
 gameswirtschaft.de##.widget_aawp_widget_box
 nachbelichtet.com##.widget_aawp_widget_new_releases
 usa-info.net##.widget_atkp_widget
+zueri6.ch##.widget_banner
 diesachsen.de##.widget_commerce
 autogazette.de##.widget_custom_html
 nibelungen-kurier.de##.widget_dkge_wrapper
