@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210271345
+! Version: 202210271533
 ! Title: EasyList Germany
-! Last modified: 27 Oct 2022 13:45 UTC
+! Last modified: 27 Oct 2022 15:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4131,7 +4131,9 @@ zensiert.net##a[href^="http://camgirly.net"]
 t-online.de,www-t--online-de.cdn.ampproject.org##a[href^="http://count.shopping.t-online.de/RE?ID="]
 amor-frau.com##a[href^="http://cpm.amateurcommunity.de/"]
 blockbuster.to,goldesel.sx,laden.to,saugen.to##a[href^="http://filestore.to/premium"]
+finanzen.net##a[href^="http://g.finanzen.net/bs-anlegerclub"]
 finanzen.net##a[href^="http://g.finanzen.net/hsbc-startseite-top-flop?id="]
+finanzen.net##a[href^="http://g.finanzen.net/premium-teaser-bnp"]
 erogeschichten.com##a[href^="http://in.mydirtyhobby.com/track/"]
 bbszene.de##a[href^="http://partners.webmasterplan.com/"]
 metacrawler.de,msn.com##a[href^="http://rover.ebay.com/"]
