@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210281606
+! Version: 202210281609
 ! Title: EasyList Germany
-! Last modified: 28 Oct 2022 16:06 UTC
+! Last modified: 28 Oct 2022 16:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3831,7 +3831,7 @@ desired.de,familie.de##.sad_rectangle
 desired.de,familie.de##.sad_rectangle_2
 desired.de,familie.de##.sad_sky
 desired.de,familie.de##.sad_topmobile
-digital-eliteboard.com,woodworker.de##.samBannerUnit
+digital-eliteboard.com,musiker-board.de,woodworker.de##.samBannerUnit
 digital-eliteboard.com,musiker-board.de,vielfliegertreff.de##.samCodeUnit
 metal.de##.sb
 wallstreet-online.de##.sb_popularleverageproducts
@@ -4321,7 +4321,6 @@ formel1.de##div[id^="outer_sas_"]
 playfront.de##div[id^="playf-"]
 20min.ch##div[id^="prime__inside-"]
 professional-audio.de##div[id^="profe-"]
-musiker-board.de##.samBannerUnit
 handballecke.de##div[id^="promotionHeader"]
 fitundgesund.at,ichkoche.at,metal-hammer.de##div[id^="sas_"]
 schlager.de##div[id^="schlager-ad-"]
