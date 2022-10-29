@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210281609
+! Version: 202210291006
 ! Title: EasyList Germany
-! Last modified: 28 Oct 2022 16:09 UTC
+! Last modified: 29 Oct 2022 10:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3713,6 +3713,7 @@ winfuture.de##.ob_what
 liveticker.com##.odds
 maschinensucher.at,maschinensucher.ch,maschinensucher.de##.ofni
 onmeda.de##.on-top-banner-wrapper
+autoscout24.at##.osa-as24-placeholder
 ssv-brixen.info##.owl-carousel
 oz-online.de##.ox
 6navi.ch##.p-banners-withborder
