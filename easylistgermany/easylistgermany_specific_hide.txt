@@ -2011,6 +2011,8 @@ t-online.de##section[data-stage-layout^="custom_nativendo_"]
 stol.it#?##ContainerFull:-abp-has(a:-abp-contains(Anzeige))
 abendzeitung-muenchen.de#?#article[class^="teaser nummer-"]:-abp-has(span.specialfeature)
 android-hilfe.de#?#article.message--post:-abp-has(span.username:-abp-contains(Anzeige))
+apfeltalk.de#?#div.wpb_text_column:-abp-has(h5:-abp-contains(Werbung))
+apfeltalk.de#?#div.wpb_text_column:-abp-has(h6:-abp-contains(Werbung))
 avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorials))
 avguide.ch#?#.gridteaser.gridteaser-m:-abp-has(h4:-abp-contains(Sponsored Post))
 az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
