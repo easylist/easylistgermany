@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202211021459
+! Version: 202211021600
 ! Title: EasyList Germany
-! Last modified: 02 Nov 2022 14:59 UTC
+! Last modified: 02 Nov 2022 16:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4658,7 +4658,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||ads.julephosting.de/podcasts/$media,domain=gamestar.de
 @@||adsafeprotected.com/iasPET.$script,domain=gentside.de|ohmymag.de
 @@||adsafeprotected.com/services/pub?anId=$xmlhttprequest,domain=gentside.de|ohmymag.de
-@@||amazon-adsystem.com/aax2/apstag.js$script,domain=gamestar.de
+@@||amazon-adsystem.com/aax2/apstag.js$script,domain=gamestar.de|moviepilot.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
 @@||asadcdn.com/adlib/$script,domain=sportbild.bild.de
 @@||asadcdn.com/adlib/adlib_seq.js$script,domain=stylebook.de
@@ -4683,16 +4683,16 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||football-aktuell.de/links/banner_oben.png
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=kochbar.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|n-tv.de|stern.de
-@@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de
+@@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|moviepilot.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%3A22339103238%2Cmanma_dt%2Chomepage&$domain=manager-magazin.de
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|gentside.de|kochbar.de|manager-magazin.de|n-tv.de|ohmymag.de|stern.de
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|gentside.de|kochbar.de|manager-magazin.de|moviepilot.de|n-tv.de|ohmymag.de|stern.de
 @@||g.doubleclick.net/pagead/ppub_config?$domain=manager-magazin.de
-@@||g.doubleclick.net/pagead/ppub_config?ippd=$xmlhttprequest,domain=gamepro.de|gamestar.de
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=11freunde.de|auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|gentside.de|kochbar.de|manager-magazin.de|n-tv.de|ohmymag.de|stern.de
+@@||g.doubleclick.net/pagead/ppub_config?ippd=$xmlhttprequest,domain=gamepro.de|gamestar.de|moviepilot.de
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=11freunde.de|auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|gentside.de|kochbar.de|manager-magazin.de|moviepilot.de|n-tv.de|ohmymag.de|stern.de
 @@||gamestar.de^$generichide
-@@||getjad.io/library/$script,domain=gamepro.de|gamestar.de
-@@||getjad.io/prebid/$script,domain=gamepro.de|gamestar.de
+@@||getjad.io/library/$script,domain=gamepro.de|gamestar.de|moviepilot.de
+@@||getjad.io/prebid/$script,domain=gamepro.de|gamestar.de|moviepilot.de
 @@||gofeminin.de^$genericblock
 @@||googlesyndication.com/pagead/imgad?id=$image,domain=kochbar.de
 @@||googlesyndication.com/safeframe/$subdocument,domain=kochbar.de
