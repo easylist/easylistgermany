@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210311704
+! Version: 202211021459
 ! Title: EasyList Germany
-! Last modified: 31 Oct 2022 17:04 UTC
+! Last modified: 02 Nov 2022 14:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4335,7 +4335,7 @@ amazon.de##div[id^="sp_detail"]
 20min.ch##div[id^="sport__inside-"]
 supertipp-online.de##div[id^="super-"]
 tippscout.de##div[id^="tipps-"]
-berliner-zeitung.de##div[id^="traffective-ad-"]
+berliner-zeitung.de,pnp.de##div[id^="traffective-ad-"]
 20min.ch##div[id^="wettbewerbe__inside-"]
 20min.ch##div[id^="wirtschaft__inside-"]
 20min.ch##div[id^="wissen__inside-"]
