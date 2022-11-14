@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202211141719
+! Version: 202211141720
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2022 17:19 UTC
+! Last modified: 14 Nov 2022 17:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4190,6 +4190,7 @@ dxtv.de##a[href^="https://www.all-inkl.com/index.php?partner="]
 bildschirmarbeiter.com,bitreporter.de,chip.de,emok.tv,naruto-tube.org,nickles.de,onepiece-tube.com,pcgamesdatabase.de,pcwelt.de,pi-news.net,ruhrbarone.de,schule-studium.de,wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
 uepo.de##a[href^="https://www.amazon."][href*="tag="] > img
 cyclingmagazine.de##a[href^="https://www.amazon.de/"] > img
+apfeltalk.de##a[href^="https://www.apfeltalk.de/magazin/affiliate/"]
 aus-liebe.net,pcwelt.de,radsport-seite.de##a[href^="https://www.awin1.com/cread.php?"]
 chinahandys.net##a[href^="https://www.banggood.com/marketing-"]
 berliner-stadtplan.com##a[href^="https://www.booking.com/searchresults.de.html?aid="]
