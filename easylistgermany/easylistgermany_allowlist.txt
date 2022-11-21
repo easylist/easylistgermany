@@ -32,6 +32,7 @@
 @@||emsservice.de/autoNative/$script,domain=kochbar.de
 @@||emsservice.de^$image,xmlhttprequest,domain=kochbar.de
 @@||feuerwehr-marchtrenk.at/homepage/banner.php$subdocument
+@@||finanzen.ch/Images/b_partner/*^$image,domain=finanzen.ch
 @@||finanzen.net^$generichide
 @@||fitbook.de^$generichide
 @@||focus.de^$generichide
