@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202211141720
+! Version: 202211211055
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2022 17:20 UTC
+! Last modified: 21 Nov 2022 10:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -372,6 +372,7 @@ _woz_banner_vote.
 ##.WerbungMitte
 ##._werbung
 ##.ad_mitte
+##.ad_platzhalter
 ##.adguru-content-html
 ##.ads-anzeige
 ##.ads-artikel-contentAd-medium
@@ -1280,6 +1281,8 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||andalusien-aktuell.es/wp-content/uploads/*/la-casita-blanca.jpg
 ||andalusien-aktuell.es/wp-content/uploads/*/online-hypnose.png
 ||animania.de/wp-content/uploads/*_Wallpaper_
+||anime2you.de/fallback_rotation_2022.php
+||anime2you.de/koop/
 ||anisearch.de/amazon?
 ||anti-spiegel.ru/banner/
 ||apfeltalk.de/banner/
@@ -3961,7 +3964,7 @@ selbstaendig-im-netz.de##.tad1
 golem.de##.tags
 frustfrei-lernen.de##.tandem_right
 frustfrei-lernen.de##.tandem_top
-bitreporter.de,elliniki-gnomi.eu,literaturwelt.com,oscar-am-freitag.de,pfalz-echo.de,pi-news.net,prad.de##.td-a-rec
+anime2you.de,bitreporter.de,elliniki-gnomi.eu,literaturwelt.com,oscar-am-freitag.de,pfalz-echo.de,pi-news.net,prad.de##.td-a-rec
 smartphonemag.de##.td-banner-wrap-full
 primavera24.de##.td-header-container
 marktindex.ch##.td-header-header
