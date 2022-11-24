@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202211241625
+! Version: 202211241649
 ! Title: EasyList Germany
-! Last modified: 24 Nov 2022 16:25 UTC
+! Last modified: 24 Nov 2022 16:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1284,6 +1284,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||anime2you.de/fallback_rotation_2022.php
 ||anime2you.de/koop/
 ||anisearch.de/amazon?
+||anisearch.de/images/partner/
 ||anti-spiegel.ru/banner/
 ||apfeltalk.de/banner/
 ||apfeltalk.de/magazin/wp-content/uploads/*_Banner_
