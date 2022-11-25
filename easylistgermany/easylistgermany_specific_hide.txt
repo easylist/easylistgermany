@@ -636,6 +636,7 @@ vsport.at##.ad1
 vsport.at##.ad2
 vsport.at##.ad3
 futurezone.at,journalonko.de,kress.de,promiflash.de##.adContainer
+oekotest.de##.adDecoration
 11freunde.de##.ad_below-nav
 golfmagazin.de,jaegermagazin.de,st-georg.de,tennismagazin.de##.ad_list
 fairytail-tube.org,naruto-tube.org##.adb
@@ -701,7 +702,7 @@ winfuture.de##.amazon_widget_w660
 fairytail-tube.org##.amz
 musiker-board.de,recording.de##.anz
 musiker-board.de##.anzC
-112-magazin.de,drwindows.de,filmpost.de,gesetzlichekrankenkassen.de,helles-koepfchen.de,lehrerfreund.de,medizin-netz.de,ntg24.de,oktoberfestportal.de,pharmazeutische-zeitung.de,radsport-news.com,sportal.de,touristik-aktuell.de,tweakpc.de,vhs-ol.de##.anzeige
+112-magazin.de,drwindows.de,filmpost.de,gesetzlichekrankenkassen.de,helles-koepfchen.de,lehrerfreund.de,medizin-netz.de,ntg24.de,oekotest.de,oktoberfestportal.de,pharmazeutische-zeitung.de,radsport-news.com,sportal.de,touristik-aktuell.de,tweakpc.de,vhs-ol.de##.anzeige
 ntg24.de##.anzeige + .slider
 ntg24.de##.anzeige + p
 designtagebuch.de##.anzeige-links
@@ -1841,6 +1842,8 @@ lerntippsammlung.de##div[style*="width:300px;height:250px;"]
 go2android.de##div[style="border: 1px solid #000; padding: 5px; margin-bottom: 15px; background: url(https://www.go2android.de/wp-content/plugins/amazonsimpleadmin/img/amazon_DE_small.gif) right bottom no-repeat #ffffff;"]
 oekotest.de##div[style="clear: both; min-height: 300px;"]
 oekotest.de##div[style="clear: both; min-height: 640px;"]
+oekotest.de##div[style="clear:both; display:block; min-height: 300px;"]
+oekotest.de##div[style="clear:both; display:block; min-height: 640px;"]
 wirtschaftslexikon24.com##div[style="float:left;clear:left;height:620px;width:180px;padding-top:15px;"]
 breakpoint.untergrund.net##div[style="float:right; width: 110px; margin-left: 15px; margin-top: 12px; margin-bottom: 15px; padding: 2px 6px; text-align: center; border: 1px solid black; background:white; line-height: 2em; color: black;"]
 pixelio.de##div[style="float:right; width: 300px; height: 250px"]
