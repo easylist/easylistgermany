@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202211251704
+! Version: 202211251718
 ! Title: EasyList Germany
-! Last modified: 25 Nov 2022 17:04 UTC
+! Last modified: 25 Nov 2022 17:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1286,6 +1286,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||anisearch.de/amazon?
 ||anisearch.de/images/partner/
 ||anti-spiegel.ru/banner/
+||apfelpage.de/wp-content/uploads/*/mbp-apple.jpg
 ||apfeltalk.de/banner/
 ||apfeltalk.de/magazin/wp-content/uploads/*_Banner_
 ||arbeitstage.at/pub_
@@ -3037,6 +3038,7 @@ sparneuwagen.de###text-56
 algarve-entdecker.com,nh24.de###text-59
 fussballnationalmannschaft.net###text-6
 isaswomo.de###text-64
+apfelpage.de###text-65
 supermarkt-inside.de,via-ferrata.de###text-8
 gazzettadellambri.ch,via-ferrata.de###text-9
 windowspower.de###text-html-widget-15
@@ -4132,6 +4134,8 @@ finanzen.net##a[href="http://g.finanzen.net/ubs-aktiendetail-hebel-fallback"]
 outleter.org##a[href="http://topne.ws/onlineoutlet"]
 t-online.de,www-t--online-de.cdn.ampproject.org##a[href="https://gebrauchtwagen-suche.t-online.de/marke-skoda/modell-superb"]
 myboerse.bz##a[href="https://tinyurl.com/"]
+apfelpage.de##a[href="https://www.betrugstest.com/online-casino/apple-pay/"]
+apfelpage.de##a[href="https://www.easeus.de/datenrettung-software/mac-data-recovery-wizard-free.html"]
 tarnkappe.info##a[href^=" https://www.bit.ly/"]
 kinoger.to##a[href^="//fbmedia-ckl.com/"]
 hammerporno.xxx##a[href^="//plx.hammerporno.xxx/pool_link/"]
@@ -4271,6 +4275,7 @@ gmx.net,web.de##div[data-adservice-slot]
 volksblatt.at##div[data-div-ratios="default:300_250"]
 volksblatt.at##div[data-div-ratios="default:696_280|500:300_250"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[data-dy*="Partner:"]
+apfelpage.de##div[data-embed-provider="rcm-eu-amazon-adsystem-com"]
 ebay-kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
 sportbild.bild.de##div[data-tr-doc-type="dt=InlineAd|st=BTOAdTag"]
 giga.de##div[data-trigger="sourcepoint-ad"]
