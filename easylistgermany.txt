@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202212161621
+! Version: 202212191724
 ! Title: EasyList Germany
-! Last modified: 16 Dec 2022 16:21 UTC
+! Last modified: 19 Dec 2022 17:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2468,6 +2468,7 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||adsafeprotected.com^$domain=autobild.de|imasdk.googleapis.com
 ||adsnative.com^$domain=autobild.de
 ||adsrvr.org^$domain=autobild.de
+||adup-tech.com^$domain=autobild.de
 ||amazon-adsystem.com^$domain=autobild.de|gofeminin.de
 ||asadcdn.com/adlib/$~script,~stylesheet,domain=autobild.de
 ||auto-bild.de/js/rd/google.js$domain=autobild.de
@@ -4504,8 +4505,14 @@ gmx.net,web.de##tr[data-component="MessageListAdRow"]
 gmx.ch,gmx.net,web.de##tr[data-component="MessageListSpecialRow"]
 ! Specific hiding filters necessary for sites using $generichide filter option
 focus.de###CT_DESKTOP_NATIVE_HOR_ANY_hor2
+autobild.de###billboard_btf_2Wrapper
+autobild.de###billboard_btf_rlWr
+autobild.de###billboard_rlWr
 finanzen.net###footer-ad
 finanzen.net###news-contentads
+autobild.de###sky_btf_rlWr
+autobild.de###sky_rlWr
+autobild.de###superbanner_rlWr
 focus.de###tfm_admanagerTeaser
 ran.de##.ad-component
 ran.de##.ad-slot-container
@@ -4524,6 +4531,7 @@ notebookchat.com,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_under
 focus.de##.ps-trackingposition_OrangerButton
 focus.de##.ps-trackingposition_PDFkasten
 focus.de##.shoppingcartctn
+autobild.de##.superbannerBtfContainer
 businessinsider.de,bz-berlin.de,giga.de,myhomebook.de,spieletipps.de,sport1.de,sueddeutsche.de,t-online.de,transfermarkt.de##.trc-content-sponsored
 businessinsider.de,giga.de,metal-hammer.de,myhomebook.de,spieletipps.de,sport1.de,sueddeutsche.de,t-online.de,transfermarkt.de##.trc-content-sponsoredUB
 computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
