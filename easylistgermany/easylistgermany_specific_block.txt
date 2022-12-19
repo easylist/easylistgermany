@@ -1243,6 +1243,7 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||adsafeprotected.com^$domain=autobild.de|imasdk.googleapis.com
 ||adsnative.com^$domain=autobild.de
 ||adsrvr.org^$domain=autobild.de
+||adup-tech.com^$domain=autobild.de
 ||amazon-adsystem.com^$domain=autobild.de|gofeminin.de
 ||asadcdn.com/adlib/$~script,~stylesheet,domain=autobild.de
 ||auto-bild.de/js/rd/google.js$domain=autobild.de
