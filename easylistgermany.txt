@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202212221545
+! Version: 202212241239
 ! Title: EasyList Germany
-! Last modified: 22 Dec 2022 15:45 UTC
+! Last modified: 24 Dec 2022 12:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4525,6 +4525,7 @@ t-online.de##.css-2k2lok
 n-tv.de##.ems-slot
 focus.de##.fol_mew-flying-carpet-wrapper
 focus.de##.ob-ad-carousel-layout
+chip.de##.ob-p
 jetzt.de,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 notebookchat.com,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
@@ -4578,6 +4579,7 @@ carpediem.life#?#.post-overview:-abp-has(div:-abp-contains(Anzeige))
 chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEIGE)
 chip.de#?#.mt-md > div:-abp-contains(Gesponserte Empfehlung)
 chip.de#?#a.secondary:-abp-has(.Badge__Content:-abp-contains(/anzeige|gesponsert/))
+chip.de#?#a[onclick]:-abp-has(path[d^="M92.456,64.241L66.18"])
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#section > div[id]:-abp-contains(Gesponserte Empfehlung)
 computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains(Anzeige))
@@ -4711,6 +4713,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||businessinsider.de^$generichide
 @@||bz-berlin.de^$generichide
 @@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
+@@||chip.de^$generichide
 @@||commundia.de^*/affilinet/$~third-party
 @@||computerbild.de^$generichide
 @@||creatives.sascdn.com^$image,domain=fitbook.de
