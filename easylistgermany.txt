@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202212311910
+! Version: 202212311911
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2022 19:10 UTC
+! Last modified: 31 Dec 2022 19:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3791,6 +3791,7 @@ dasoertliche.de##.premiumtreffer
 deutsche-apotheker-zeitung.de##.presse
 hsvhandball.com##.primary-footer
 winfuture.de##.primis_widget
+songtexte.com##.prmtnContentMin
 songtexte.com##.prmtnKeepHeight
 maclife.de##.productbox
 zentrum-der-gesundheit.de##.products-inarticle-slider--parent
@@ -4008,6 +4009,7 @@ rro.ch##.tisement
 smartdroid.de##.titelad
 soeren-hentzschel.at##.tnemesitrevda
 t-online.de,www-t--online-de.cdn.ampproject.org##.toi-sh-breaker
+songtexte.com##.toneFusePanel
 fcbinside.de##.top-footer-inner
 oberberg-aktuell.de##.top-leaderboard
 angelshow.de##.top-panel
