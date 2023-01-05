@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301051702
+! Version: 202301051704
 ! Title: EasyList Germany
-! Last modified: 05 Jan 2023 17:02 UTC
+! Last modified: 05 Jan 2023 17:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1457,6 +1457,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||digitalfernsehen.de/wp-content/ca/NPAW-
 ||digitalfernsehen.de/wp-content/uploads/*/NPAW-
 ||dkamera.de/media/article_banners/
+||dlvr.t-online.de/static/lisa/placement/
 ||dnv-online.net/_data/*_Superbanner_
 ||dnv-online.net/_data/Fullsize-Banner.gif
 ||docma.info/wp-content/banners/
@@ -2587,6 +2588,7 @@ abload.de###adunten + div[style="font-size:8pt; color:#999999; margin-left:39px;
 voucherwonderland.com###adup1
 voucherwonderland.com###adup3
 voucherwonderland.com###adup5
+t-online.de###advertMarkerHorizontalContainer
 kath.ch###advertising
 tomsnetworking.de###advleft1
 tomsnetworking.de###advleft2
