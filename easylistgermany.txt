@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301061702
+! Version: 202301061705
 ! Title: EasyList Germany
-! Last modified: 06 Jan 2023 17:02 UTC
+! Last modified: 06 Jan 2023 17:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4517,14 +4517,15 @@ gmx.ch,gmx.net,web.de##tr[data-component="MessageListSpecialRow"]
 focus.de###CT_DESKTOP_NATIVE_HOR_ANY_hor2
 autobild.de###billboard_btf_2Wrapper
 autobild.de###billboard_btf_rlWr
-autobild.de###billboard_rlWr
+autobild.de,rollingstone.de###billboard_rlWr
 finanzen.net###footer-ad
 finanzen.net###news-contentads
 autobild.de###sky_btf_rlWr
-autobild.de###sky_rlWr
+autobild.de,rollingstone.de###sky_rlWr
 autobild.de###superbanner_rlWr
 focus.de###tfm_admanagerTeaser
 ran.de##.ad-component
+rollingstone.de##.ad-mrec
 ran.de##.ad-slot-container
 jetzt.de##.ad__template
 focus.de##.adsBlock
@@ -4754,8 +4755,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||googletagservices.com/tag/js/gpt.js$domain=windowspro.de
 @@||googlewatchblog.de^*/adsense.png
 @@||goolive.de/media/static/images/smileys/ad.gif
-@@||ib.adnxs.com/ut/v3$xmlhttprequest,domain=musikexpress.de|rollingstone.de
-@@||ib.adnxs.com/ut/v3^$xmlhttprequest,domain=stylebook.de
+@@||ib.adnxs.com/ut/v3$xmlhttprequest,domain=musikexpress.de|rollingstone.de|stylebook.de
 @@||ib.adnxs.com^$xmlhttprequest,domain=finanzen.ch
 @@||idealo.net/js/idealoWidget-$script,domain=travelbook.de
 @@||ikiosk.de/pdf/company/2/advertisement/$image,domain=ikiosk.de
