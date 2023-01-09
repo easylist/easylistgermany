@@ -232,6 +232,7 @@ tarnkappe.info###desktop_understitial
 saechsische.de###dfp-banner
 gamestar.de###dfp-header
 gamestar.de###dfp-header-container
+ariva.de###dianomiiFrame
 kalender-365.eu###dish-top-desktop
 agriaffaires.de###display-ga
 vienna.at###div-bigsizebanner_1
@@ -1612,6 +1613,7 @@ neuwagen.de##a[class="placement"]
 camping.de##a[class^="herobanner-adv"]
 hallo-minden.de##a[data-adid]:not([data-adid="12937"])
 mobilegeeks.de##a[data-eventcategory="Kooperation"]
+ariva.de##a[data-google_analytics_id^="wo-ticker-"]
 schlager.de##a[data-name="topbanner"]
 gawina.de##a[data-track]
 t-online.de,www-t--online-de.cdn.ampproject.org##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
