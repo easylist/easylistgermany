@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301081857
+! Version: 202301091840
 ! Title: EasyList Germany
-! Last modified: 08 Jan 2023 18:57 UTC
+! Last modified: 09 Jan 2023 18:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1557,6 +1557,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||finanzen.net/images/b_realtime/ubspassendeprodukte.png
 ||finanzen.net/images/b_realtime/vontobel-banner.jpg
 ||finanzen.net/images/b_realtime/vontobel-banner2.
+||finanznachrichten.de/w/ad_
 ||finanztreff.de^*/partner/
 ||fischkopf.de/image-content/wallpapers/
 ||flightforum.ch/board/uploads/*/14634212_HOR_19-156_Online_Banner_ILSFlightforum_175x75_P1.png
@@ -3737,6 +3738,7 @@ promiflash.de##.ob-p
 winfuture.de##.ob_what
 liveticker.com##.odds
 maschinensucher.at,maschinensucher.ch,maschinensucher.de##.ofni
+finanznachrichten.de##.on-click--partner
 onmeda.de##.on-top-banner-wrapper
 autoscout24.at,autoscout24.de##.osa-as24-placeholder
 ssv-brixen.info##.owl-carousel
