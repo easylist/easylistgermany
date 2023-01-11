@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301111619
+! Version: 202301111620
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2023 16:19 UTC
+! Last modified: 11 Jan 2023 16:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3121,6 +3121,7 @@ preissuchmaschine.de##.AFS_ADD
 onvista.de##.ANZEIGE
 chip.de,finanzfrage.net,gutefrage.net##.Ad
 finanznachrichten.de##.Ad_FinativeHome
+finanznachrichten.de##.Ad_ImageTeaser
 finanznachrichten.de##.Ad_SmartAd
 elektrikforen.de,jungewelt.de,vermieter-forum.com##.Anzeige
 onvista.de##.BILLBOARD
@@ -3402,6 +3403,8 @@ dererker.it##.bxslider
 amerikawoche.com##.bxv
 coincierge.de##.c-FloatingPrompt
 t3n.de##.c-ad__container-p1
+finanznachrichten.de##.c-sban1
+finanznachrichten.de##.c-sban2
 scfreiburg.com,sgf1903.de##.c-sponsors-list
 focus.de##.cad
 ka-news.de##.cad_box
