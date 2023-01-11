@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301091845
+! Version: 202301111616
 ! Title: EasyList Germany
-! Last modified: 09 Jan 2023 18:45 UTC
+! Last modified: 11 Jan 2023 16:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4111,7 +4111,9 @@ diesachsen.de##.widget_commerce
 autogazette.de##.widget_custom_html
 nibelungen-kurier.de##.widget_dkge_wrapper
 freiluft-blog.de##.widget_links
+hebelschein-spekulant.de##.widget_media_image
 bueroblog.ch,computerfachmagazin.de,office-roxx.de##.widget_metaslider_widget
+hebelschein-spekulant.de##.widget_text
 zitate-online.de##.witz > .bewertung + .detaillink + p:last-child
 zitate-online.de##.witz > .bewertung + p:last-child
 delamar.de##.wk
