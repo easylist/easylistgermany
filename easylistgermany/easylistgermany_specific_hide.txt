@@ -225,7 +225,7 @@ uepo.de###custom_html-97
 wochenblatt.pl###custom_post_widget-6
 city23.at###dabplusshop
 finanznachrichten.de,wallstreet-online.de###dban1
-finanznachrichten.de###dban2
+finanznachrichten.de,wallstreet-online.de###dban2
 wallstreet-online.de###dcb1
 wallstreet-online.de###dcb2
 bluray-disc.de###deals-aktionen-box
@@ -245,9 +245,10 @@ adspecials.sevenonemedia.de###divBG
 connectiv.events###divi_pb_widget-3
 ehc-lustenau.at###djslider-loader227
 ehc-lustenau.at###djslider-loader229
-finanznachrichten.de###dmr1
-finanznachrichten.de###dmr2
+finanznachrichten.de,wallstreet-online.de###dmr1
+finanznachrichten.de,wallstreet-online.de###dmr2
 dnv-online.net###dnvsuperbanner
+wallstreet-online.de###dout1
 drehscheibe-online.de###dsBanner
 dastelefonbuch.de###dtm_multiboxcontainer
 gelbeseiten.de###dtm_super
@@ -361,6 +362,7 @@ meetingpoint-brandenburg.de###myspacerinner
 meetingpoint-brandenburg.de###myspacerright
 fupa.net###nab_container
 balaton-zeitung.info###nav_menu-2
+wallstreet-online.de###newsDesktopFlag
 news.de###news_content_2
 news.de###news_content_3
 news.de###news_header
@@ -1363,6 +1365,7 @@ meedia.de##.section-banner-fullwidth
 selbstaendig-im-netz.de##.selbs-blog-startseite-und-kategorien
 selbstaendig-im-netz.de##.selbs-unter-artikeln
 wallstreet-online.de##.shareInFocus
+wallstreet-online.de##.shareTodayBox
 merkurist.de##.shipment
 merkurist.de##.shipmentPremium
 gentleman-blog.de##.shoepassion_content_banner
@@ -2184,7 +2187,10 @@ tag24.de#?#article.article-tile:-abp-has(span.article-tile__badge2:-abp-contains
 tonight.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Anzeige))
 um-tv.de#?#.small-12.column.space:-abp-has(p:-abp-contains(--Anzeige--))
 unicum.de#?#.artikel-preview-content:-abp-has(p:-abp-contains(-ANZEIGE-))
+wallstreet-online.de#?#.footnote:-abp-has(.headline-box:-abp-contains(Werbung))
+wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.angebot)
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
+wallstreet-online.de#?#tr:-abp-has(td.right:-abp-has(img[alt="Anzeige"]))
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
 winfuture.de#?#.news330.floatL.mr10:-abp-has(.anzeige)
