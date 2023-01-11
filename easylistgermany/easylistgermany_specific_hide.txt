@@ -1222,7 +1222,6 @@ maschinensucher.at,maschinensucher.ch,maschinensucher.de##.ofni
 finanznachrichten.de##.on-click--partner
 onmeda.de##.on-top-banner-wrapper
 autoscout24.at,autoscout24.de##.osa-as24-placeholder
-onvista.de##.ov-interaction-slot_horizontal
 ssv-brixen.info##.owl-carousel
 oz-online.de##.ox
 6navi.ch##.p-banners-withborder
@@ -2154,6 +2153,8 @@ motorsport-total.com#?#.teaser_container.teaser-htmlcode.relative.row:-abp-has(.
 mountainbike-magazin.de#?#.v-A_-white__tile:-abp-has(.v-A_-teaser__tag--ad)
 nur-positive-nachrichten.de#?#.moduletable.text-center:-abp-has(.bildunterschrift:-abp-contains(Anzeige))
 o-sport.de#?#.card-body:-abp-contains(Sponsoren)
+onvista.de#?#.outer-spacing--xxlarge-top:-abp-contains(Werbung von)
+onvista.de#?#.ov-article-teaser:-abp-has(.ov-article-teaser__onvistaCustomer)
 outdoor-magazin.com#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 outdoor-magazin.com#?#.v-A_-topteaser__rotationbox__item:-abp-has(.v-A_-teaser__tag--ad)
 outdoor-magazin.com#?#.v-A_-white__tile:-abp-has(.v-A_-teaser__tag--ad)
