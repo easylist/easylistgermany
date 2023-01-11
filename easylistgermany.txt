@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301111618
+! Version: 202301111619
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2023 16:18 UTC
+! Last modified: 11 Jan 2023 16:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4637,6 +4637,7 @@ finanzen.net#?#.mleft-10.small-font.light-grey:-abp-contains(Werbung) + .box + .
 finanzen.net#?#.mleft-10:-abp-contains(Werbung) + .box
 finanzen.net#?#.row.d-flex.align-items-center:-abp-has(a[href^="http://g.finanzen.net/allvest-fonds-home-intelligent-invest"])
 finanzen.net#?#article.page-content__item:-abp-has(img[alt="UBS"])
+finanznachrichten.de#?#tr:-abp-has(span.sprite.h-w-c)
 froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com#?#div:-abp-has(> img[referrerpolicy="unsafe-url"])
 fuersie.de#?#.teaser__item:-abp-has(.teaser__adtype)
 futurezone.de#?#article[data-post-id]:-abp-has(.sponsor-byline)
