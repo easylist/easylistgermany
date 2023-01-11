@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301111617
+! Version: 202301111618
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2023 16:17 UTC
+! Last modified: 11 Jan 2023 16:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3810,6 +3810,7 @@ hsvhandball.com##.primary-footer
 winfuture.de##.primis_widget
 songtexte.com##.prmtnContentMin
 songtexte.com##.prmtnKeepHeight
+ariva.de##.prodo-shadow
 maclife.de##.productbox
 zentrum-der-gesundheit.de##.products-inarticle-slider--parent
 aktionspreis.de##.produkt_uebersicht > div > br.clear
