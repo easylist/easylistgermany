@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301112203
+! Version: 202301121537
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2023 22:03 UTC
+! Last modified: 12 Jan 2023 15:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -251,6 +251,7 @@ _woz_banner_vote.
 ###nativendo-infeed2
 ###nativendo-marginal
 ###nativendo-nachrichten-unterhalb
+###nativendo-nativendo-aktie
 ###nativendo-nativendo-homepage-mobil
 ###nativendo-oms-infeed
 ###o2freikarte
@@ -438,6 +439,7 @@ _woz_banner_vote.
 ##.shift-widget > .cm-article
 ##.sidebar-werbung
 ##.sidebarwerbung
+##.smartbrokerAds
 ##.spielen_werbung_2
 ##.sponsorinaktiv
 ##.sponsorlinkgruen
@@ -546,6 +548,7 @@ _woz_banner_vote.
 ##a[href^="https://maidings-mectland.com/"]
 ##a[href^="https://marketing.net.brillen.de/"]
 ##a[href^="https://media.datingpartner.com/click.php?dp="]
+##a[href^="https://ofrbpu.smartbroker.de/"]
 ##a[href^="https://stream.justhdfilme.com/kkiste-kinox/"]
 ##a[href^="https://t.trafai.com/"]
 ##a[href^="https://trk.imobtrk.com/"]
@@ -4234,7 +4237,6 @@ amor-frau.com##a[href^="https://lp.amateurcommunity.com/"]
 pornkinox.to##a[href^="https://lp.mydirtyhobby.com/"]
 pcwelt.de##a[href^="https://ndirect.ppro.de/"]
 chip.de##a[href^="https://network.screen13.com/"]
-ariva.de##a[href^="https://ofrbpu.smartbroker.de/"]
 goal.com##a[href^="https://prf.hn/"]
 pcwelt.de##a[href^="https://pvn.mediamarkt.de/"]
 pcwelt.de##a[href^="https://pvn.saturn.de/"]
@@ -4720,6 +4722,8 @@ tonight.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Anzeige))
 um-tv.de#?#.small-12.column.space:-abp-has(p:-abp-contains(--Anzeige--))
 unicum.de#?#.artikel-preview-content:-abp-has(p:-abp-contains(-ANZEIGE-))
 wallstreet-online.de#?#.footnote:-abp-has(.headline-box:-abp-contains(Werbung))
+wallstreet-online.de#?#.module.c1.hidden-xs:-abp-has(span.issuerPromotionHint:-abp-contains(Werbung))
+wallstreet-online.de#?#.newsflash:-abp-has(span.suffix.wo-inline-block.pull-right:-abp-contains(Anzeige))
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.angebot)
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 wallstreet-online.de#?#tr:-abp-has(td.right:-abp-has(img[alt="Anzeige"]))
