@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301131702
+! Version: 202301161416
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2023 17:02 UTC
+! Last modified: 16 Jan 2023 14:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3704,7 +3704,7 @@ lokalo.de##.media_image-28
 lokalo.de##.media_image-29
 lokalo.de##.media_image-30
 lokalo.de##.media_image-32
-fuersie.de,jolie.de,maedchen.de,petra.de,vital.de##.mediumrectangle
+fuersie.de,jolie.de,maedchen.de,ok-magazin.de,petra.de,vital.de##.mediumrectangle
 ligaportal.at##.medrec
 comback.ch##.mega-banner-outer
 lite-magazin.de##.metaslider
@@ -3845,7 +3845,7 @@ teneriffa-news.com##.qm-head
 teneriffa-news.com##.qm-side
 ssvbozenhandball.it##.qodef-e-logo > img[height="80"]
 jamesfm.ch##.qt-sponsor
-vital.de##.quartermedia
+ok-magazin.de,vital.de##.quartermedia
 crossmagazin.de##.quiz-footer-wrapper
 codecheck.info##.r
 videoaktiv.de##.rcu
@@ -3993,7 +3993,7 @@ de.motor1.com,insideevs.de##.stroer-ap
 sinn-frei.com##.stx
 coincierge.de##.su-button
 handyraketen.de##.su-button-wide[href^="http://amzn.to/"]
-fuersie.de,i-fidelity.net,inside-digital.de,jagderleben.de,jolie.de,ka-news.de,kochbar.de,maedchen.de,petra.de##.superbanner
+fuersie.de,i-fidelity.net,inside-digital.de,jagderleben.de,jolie.de,ka-news.de,kochbar.de,maedchen.de,ok-magazin.de,petra.de##.superbanner
 pharmazeutische-zeitung.de##.superbanner-frame
 scfreiburg.com##.superbanner-top
 computerbild.de##.superbannerBtfContainer
