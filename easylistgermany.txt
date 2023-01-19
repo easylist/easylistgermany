@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301181334
+! Version: 202301192018
 ! Title: EasyList Germany
-! Last modified: 18 Jan 2023 13:34 UTC
+! Last modified: 19 Jan 2023 20:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4304,6 +4304,7 @@ bitreporter.de##div[class$="-adlabel"]
 chartsurfer.de##div[class*="adszone-"]
 homegate.ch##div[class^="AdSlotContainer_"]
 rnd.de##div[class^="Adstyled_"]
+zentralplus.ch##div[class^="Advertisement_container"]
 mactechnews.de##div[class^="Billboard-"]
 mactechnews.de##div[class^="Billboard_"]
 lovelybooks.de##div[class^="MoliAd_"]
