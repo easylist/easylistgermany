@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301211457
+! Version: 202301211458
 ! Title: EasyList Germany
-! Last modified: 21 Jan 2023 14:57 UTC
+! Last modified: 21 Jan 2023 14:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4063,6 +4063,7 @@ queer.de##.toplinks
 mobile.de##.topresult + .dealerAd
 f95.de##.topsponlink
 supermarkt-inside.de##.tracking_trigger
+trauerhilfe.it##.trauerhilfe_ads
 mannheimer-morgen.de##.trf-billboardcontainer
 radsport-seite.de##.trikots
 tritime-magazin.de##.tritime-ads-middle
