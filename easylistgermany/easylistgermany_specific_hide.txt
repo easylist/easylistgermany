@@ -968,6 +968,7 @@ wetter.com##.desk-pv.desk-pb\+.portable-pv.lap-pr--.lap-ml.lap-pl-.bg--green-lig
 nau.ch##.desktop-wideboard-top
 liveticker.com##.detailLeaderboard
 kt1.at##.dfmhtmlbanner
+barfuss.it##.dfp-skyscraper
 beat.de,digitalphoto.de##.dfpcontainer
 segeljournal.com##.displaybanner-container
 volksblatt.li##.divAdd_Banner
@@ -2083,6 +2084,7 @@ avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorial
 avguide.ch#?#.gridteaser.gridteaser-m:-abp-has(h4:-abp-contains(Sponsored Post))
 az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
 barfuss.it#?#.panels-flexible-region:-abp-has(span:-abp-contains(Gesponsert))
+barfuss.it#?#.views-row:-abp-has(.partner-label)
 bergsteiger.de#?#.eight.columns.alpha.content:-abp-has(span:-abp-contains(Advertorial))
 berliner-kurier.de#?#.m-teaser:-abp-has(span:-abp-contains(Sponsored))
 berliner-zeitung.de#?#.m-article-teaser:-abp-has(div:-abp-contains(Anzeige))
