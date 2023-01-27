@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301272149
+! Version: 202301272150
 ! Title: EasyList Germany
-! Last modified: 27 Jan 2023 21:49 UTC
+! Last modified: 27 Jan 2023 21:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2833,6 +2833,7 @@ preis.de###header-image-js
 diegrenzgaenger.lu###header-wrapper + div[class="row "]
 klamm.de###header_main
 amazon.de###heroQuickPromo_feature_div
+kino.de###hockeystick
 ladies.de###home-teaser
 nibelungen-kurier.de###homeDisplay
 winfuture.de###homepage_rectangle
@@ -3805,6 +3806,7 @@ fla.de##.pbph
 otto.de##.pdp_reco-sponsored
 heise.de##.perf-cls-reduc-leaderboard
 heise.de##.perf-cls-reduc-rectangle
+kino.de##.performance-pub
 pi-news.net##.pi-banner
 elle.de,esquire.de,freundin.de,harpersbazaar.de,instyle.de##.placeholdercontainer
 blick.ch##.placement-leaderboard
