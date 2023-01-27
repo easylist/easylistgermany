@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301272150
+! Version: 202301272222
 ! Title: EasyList Germany
-! Last modified: 27 Jan 2023 21:50 UTC
+! Last modified: 27 Jan 2023 22:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4708,6 +4708,7 @@ motorsport-total.com#?#.teaser_container.teaser-htmlcode.relative.row:-abp-has(.
 mountainbike-magazin.de#?#.v-A_-white__tile:-abp-has(.v-A_-teaser__tag--ad)
 nur-positive-nachrichten.de#?#.moduletable.text-center:-abp-has(.bildunterschrift:-abp-contains(Anzeige))
 o-sport.de#?#.card-body:-abp-contains(Sponsoren)
+onvista.de#?#.flex-layout:-abp-has(div[class^="ArticleTeaser_ov-article-teaser__onvistaCustomer_"])
 onvista.de#?#.outer-spacing--xxlarge-top:-abp-contains(Werbung von)
 onvista.de#?#.ov-article-teaser:-abp-has(.ov-article-teaser__onvistaCustomer)
 outdoor-magazin.com#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
