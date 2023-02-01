@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202301272222
+! Version: 202302011401
 ! Title: EasyList Germany
-! Last modified: 27 Jan 2023 22:22 UTC
+! Last modified: 01 Feb 2023 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4352,6 +4352,7 @@ t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="T-"].Tmm.Tltb.Tts.Tmc1
 t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="T-"][oncontextmenu="return false"]
 gamestar.de##div[id^="ad-div-"]
 argoviatoday.ch,fm1today.ch,nzz.ch,pilatustoday.ch,swissmom.ch##div[id^="adnz_"]
+haus.de##div[id^="adtech_"]
 yoga-aktuell.de##div[id^="aktue-"]
 areadvd.de##div[id^="aread-"]
 20min.ch##div[id^="ausland__inside-"]
