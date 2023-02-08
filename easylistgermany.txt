@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202302081959
+! Version: 202302082000
 ! Title: EasyList Germany
-! Last modified: 08 Feb 2023 19:59 UTC
+! Last modified: 08 Feb 2023 20:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3911,7 +3911,7 @@ popkultur.de##.sc-button[href^="https://www.amazon.de/"]
 servus.com,terramatermagazin.com##.sda
 sport.sky.de##.sdc-site-au__leaderboard
 sport.sky.de##.sdc-site-au__mpu-1
-golem.de,t-online.de,watson.de##.sdgSlotContainer
+golem.de,rheinische-anzeigenblaetter.de,t-online.de,watson.de##.sdgSlotContainer
 sportdeutschland.tv##.sdtv-gothaer
 mytastedeu.com##.search-affiliate__part
 trvlcounter.de##.second_slot
