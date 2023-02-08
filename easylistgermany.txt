@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202302081620
+! Version: 202302081745
 ! Title: EasyList Germany
-! Last modified: 08 Feb 2023 16:20 UTC
+! Last modified: 08 Feb 2023 17:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3516,7 +3516,7 @@ volksblatt.li##.divAdd_Banner
 tieronline.ch##.djslider-in
 kachelmannwetter.com##.dkpw
 gload.to##.dl2019main
-express.de##.dm-slot
+express.de,ksta.de##.dm-slot
 ksta.de##.dm_ta300x300.sold_content
 scp07.de##.dp-sponsorenfooter
 mobile.de##.dsp-placeholder
