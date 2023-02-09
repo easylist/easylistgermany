@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202302082131
+! Version: 202302091443
 ! Title: EasyList Germany
-! Last modified: 08 Feb 2023 21:31 UTC
+! Last modified: 09 Feb 2023 14:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4706,6 +4706,7 @@ heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===)
 heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===) + p
 heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===) + p + p
 heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ende===)
+hornoxe.com#?#div.post:-abp-has(a[href^="https://amzn.to/"])
 imsueden.de#?#.swiper:-abp-has(.headline:-abp-contains(Partner))
 inside-digital.de#?#.td_module_ih_current_news:-abp-has(.spo)
 jameda.de#?#li:-abp-has([data-testid="advertisementSign-flag"])
