@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202302091443
+! Version: 202302101726
 ! Title: EasyList Germany
-! Last modified: 09 Feb 2023 14:43 UTC
+! Last modified: 10 Feb 2023 17:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4469,7 +4469,7 @@ teneriffa-news.com##div[style="min-height: 280px; margin-top: -20px;"]
 popkultur.de##div[style="min-height: 280px;"]
 heise.de##div[style="min-height: 400px;"]
 gamereactor.de##div[style="min-height: 600px; margin-bottom: 20px;"]
-nordbayern.de##div[style="min-height:290px"]
+nn.de,nordbayern.de##div[style="min-height:290px"]
 winfuture.de##div[style="min-width: 300px; min-height: 250px;"]
 quoka.de##div[style="overflow:hidden;text-align:center;position:relative;height:300px;"]
 sprachnudel.de##div[style="padding:5px 0 5px 0;"][align="center"]
