@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202302261732
+! Version: 202302261733
 ! Title: EasyList Germany
-! Last modified: 26 Feb 2023 17:32 UTC
+! Last modified: 26 Feb 2023 17:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4568,6 +4568,7 @@ silentworld.eu##img[width="600"]
 basicthinking.de##img[width="600"][height="500"]
 basicthinking.de##img[width="600"][height="600"]
 hallescherfc.de##img[width="605"][height="690"]
+lokalezeitung.de##img[width="640"][height="165"]
 lokalo.de##img[width="700"]
 stereo.de##img[width="728"]
 championstream.de,fruchthandel.de,online-gebuehrenrechner.de,vfl.de##img[width="728"][height="90"]
