@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303031904
+! Version: 202303031906
 ! Title: EasyList Germany
-! Last modified: 03 Mar 2023 19:04 UTC
+! Last modified: 03 Mar 2023 19:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3653,7 +3653,7 @@ homeandsmart.de##.hs_anbieter_box_block
 boerse-online.de##.hsbc_homepage_topflop
 news.de##.ialayerContainer
 gmx.net,web.de##.iba-variant-test
-fr.de##.id-StoryElement-beepWrap
+az-online.de,buzzfeed.at,buzzfeed.de,fr.de##.id-StoryElement-beepWrap
 come-on.de##.id-StoryElement-beepWrap[style="height: 270px;"]
 come-on.de##.id-StoryElement-beepWrap[style="height: 300px;"]
 pcwelt.de##.idgAmazonTextV2
@@ -4464,7 +4464,7 @@ amazon.de##div[id^="sp_detail"]
 20min.ch##div[id^="sport__inside-"]
 supertipp-online.de##div[id^="super-"]
 tippscout.de##div[id^="tipps-"]
-berliner-zeitung.de,blick.de,donaukurier.de,mopo.de,pnp.de##div[id^="traffective-ad-"]
+berliner-zeitung.de,blick.de,donaukurier.de,mopo.de,pnp.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
 20min.ch##div[id^="wettbewerbe__inside-"]
 20min.ch##div[id^="wirtschaft__inside-"]
 20min.ch##div[id^="wissen__inside-"]
