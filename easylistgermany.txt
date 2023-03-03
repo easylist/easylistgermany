@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303031708
+! Version: 202303031709
 ! Title: EasyList Germany
-! Last modified: 03 Mar 2023 17:08 UTC
+! Last modified: 03 Mar 2023 17:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1576,6 +1576,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||football-aktuell.de/links/
 ||football-aktuell.de/rechts/
 ||forumprofi.de/fritz/$subdocument
+||free-gay.org^*/eaCtrl.js
 ||freenet.de/amazonService/search/
 ||freenet.de/www/export/$script
 ||freenet.de^*/mail/ads/
@@ -2817,7 +2818,7 @@ dforum.net###forumbanner
 mufa.de###freikarten
 freenet.de###frnBanner
 wallstreet-online.de###fullsizeBanner1
-pornhutdeutsch.com###fx_imbanner
+free-gay.org,pornhutdeutsch.com###fx_imbanner
 tv-huettenberg.de###g-expanded
 tv-huettenberg.de###g-header
 winfuture.de###g_content_recommendation
@@ -4126,7 +4127,7 @@ xn--schne-aussicht-xpb.de##.vc_custom_1623308998554
 ride-on-magazin.de##.vc_custom_1629451242127
 gn-online.de##.verticalCarousel
 ebay.de##.vi-lb-placeholder
-pornohutdeutsch.net,sexfilme24.org##.video-side-adds
+free-gay.org,pornohutdeutsch.net,sexfilme24.org##.video-side-adds
 deutschsex.com##.video__sidebar-item
 finanztreff.de##.videosponsor_hsbc
 netzwoche.ch##.view-partners
