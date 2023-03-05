@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303051424
+! Version: 202303051433
 ! Title: EasyList Germany
-! Last modified: 05 Mar 2023 14:24 UTC
+! Last modified: 05 Mar 2023 14:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4421,6 +4421,7 @@ forum.golem.de##div[id^="csi_forum"][style="min-height: 100px; padding: 0px; dis
 dubisthalle.de##div[id^="dbh-"]
 20min.ch##div[id^="digital__inside-"]
 boerse.sx##div[id^="edit"][style="padding:0px 0px 6px 0px"] > table[id^="post"][width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"] + br + .tborder[width="100%"][cellspacing="0"][cellpadding="6"][border="0"][align="center"]
+freenet.de##div[id^="ext-frn-adtag-"]
 finanzmarktwelt.de##div[id^="finan-"]
 vrnerds.de##div[id^="findexp-"]
 foodwissen.de##div[id^="foodw-"]
