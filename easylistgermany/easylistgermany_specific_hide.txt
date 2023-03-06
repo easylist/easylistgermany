@@ -86,13 +86,6 @@ willhaben.at###apn-large-content-ad
 willhaben.at###apn-large-leaderboard
 willhaben.at###apn-large-skyscraper
 willhaben.at###apn-leaderboard
-blick.ch###appnexus-placement-leaderboard
-blick.ch###appnexus-placement-performanceWideboard
-blick.ch###appnexus-placement-rectangle
-blick.ch###appnexus-placement-teaser1
-blick.ch###appnexus-placement-teaser2
-blick.ch###appnexus-placement-topicTeaser1
-blick.ch###appnexus-placement-topicTeaser2
 gamersglobal.de###arb
 ariva.de###ariva_de_d_300x250_2_filler
 pi-news.net###as2931
@@ -1809,6 +1802,7 @@ andalusien-aktuell.es,sex4u.ch##a[rel^="sponsored"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 macuser.de##article.message--post:not([data-author])
+blick.ch##aside[id^="appnexus-placement"]
 weristdeinfreund.de##aside[id^="banner"]
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
 ddl-warez.cc##button[onclick*="/af.php"]
