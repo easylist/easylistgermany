@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303071743
+! Version: 202303072125
 ! Title: EasyList Germany
-! Last modified: 07 Mar 2023 17:43 UTC
+! Last modified: 07 Mar 2023 21:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2599,6 +2599,8 @@ pokewiki.de,timeanddate.de###ad1
 pokewiki.de###ad2
 pokewiki.de###ad3
 myboerse.bz,thinkpad-forum.de###ad_global_below_navbar
+kreuzwort-raetsel.net###ad_ic_1
+kreuzwort-raetsel.net###ad_ic_2
 1und1.de,gmx.net,web.de###adc1
 1und1.de,gmx.net,web.de###adc2
 kalenderwoche.de###addemam-wrapper
@@ -4468,7 +4470,7 @@ amazon.de##div[id^="sp_detail"]
 20min.ch##div[id^="sport__inside-"]
 supertipp-online.de##div[id^="super-"]
 tippscout.de##div[id^="tipps-"]
-berliner-zeitung.de,blick.de,donaukurier.de,mopo.de,pnp.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
+berliner-zeitung.de,blick.de,donaukurier.de,frankenpost.de,mopo.de,pnp.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
 20min.ch##div[id^="wettbewerbe__inside-"]
 20min.ch##div[id^="wirtschaft__inside-"]
 20min.ch##div[id^="wissen__inside-"]
