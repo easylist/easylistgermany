@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303072137
+! Version: 202303072139
 ! Title: EasyList Germany
-! Last modified: 07 Mar 2023 21:37 UTC
+! Last modified: 07 Mar 2023 21:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1746,6 +1746,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||htfgames.com/bilder/free_online_games.jpg
 ||htfgames.com/bilder/werb/gbase_290x61.jpg
 ||huren-inserate.com/banner/
+||hybrid-prd.ad-prd.s.joyn.de^
 ||ibiza-heute.de/wp-content/uploads/*/Banner_
 ||ibiza-heute.de/wp-content/uploads/*/Leaderboard-
 ||ibooks.to/plscript.php
@@ -2141,6 +2142,8 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||sissymag.de/wp-content/uploads/*/qfn01-
 ||sissymag.de/wp-content/uploads/*/tanzten_kaufen.jpg
 ||skipper-bootshandel.de/wp-content/uploads/*/BANNER-
+||somquery.sqrt-5041.de/mobile/ads-no-resolve
+||somquery.sqrt-5041.de/tv/ad-wrapper
 ||sonic-seducer.de/images/banners/
 ||soundportal.at/fileadmin/user_upload/werbung/
 ||spanienlive.com^*/Werbung/
