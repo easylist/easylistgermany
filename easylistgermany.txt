@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303072128
+! Version: 202303072137
 ! Title: EasyList Germany
-! Last modified: 07 Mar 2023 21:28 UTC
+! Last modified: 07 Mar 2023 21:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2692,6 +2692,7 @@ kochrezepte.at###billboard-location
 rtl.de###billboard_1
 bz-berlin.de,finanzen.net###billboard_btf
 finanzen.net###billboard_btf_2
+computerbild.de###billboard_btf_2Wrapper
 finanzen-nerd.de###block-2
 realtotal.de###block-3
 finanzen-nerd.de###block-7
@@ -3678,6 +3679,7 @@ buffed.de,pcgames.de##.item + .at_sponsored > .itemHeadline
 pragerzeitung.cz##.item-advert
 ebay-kleinanzeigen.de##.j-liberty-wrapper
 gamepro.de,gamestar.de##.jad-placeholder
+computerbild.de##.jobbioTeaser
 interaktiv.tagesspiegel.de##.jobunion-container
 nur-positive-nachrichten.de##.jrCardBanner
 eurocampings.de##.js-mock-banner
