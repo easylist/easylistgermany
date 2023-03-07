@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303072127
+! Version: 202303072128
 ! Title: EasyList Germany
-! Last modified: 07 Mar 2023 21:27 UTC
+! Last modified: 07 Mar 2023 21:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1301,6 +1301,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||andalusien-aktuell.es/wp-content/uploads/*/online-hypnose.png
 ||animania.de/wp-content/uploads/*_Wallpaper_
 ||anime2you.de/fallback_rotation_2022.php
+||anime2you.de/koop-home/
 ||anime2you.de/koop/
 ||anisearch.de/amazon?
 ||anisearch.de/images/partner/
@@ -2557,6 +2558,7 @@ druckerchannel.de###DCA_TOP
 druckkosten.de###DKGA_LEAD
 druckkosten.de###DKGA_SKY
 eatsmarter.de###EAT_D_Index_Top_Wrapper
+anime2you.de###Fallback-Content
 news.de###FlexSky
 inside-digital.de###INS_D_ROS_Parallax
 staedte-info.net###Layer1
