@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303081421
+! Version: 202303081859
 ! Title: EasyList Germany
-! Last modified: 08 Mar 2023 14:21 UTC
+! Last modified: 08 Mar 2023 18:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -612,6 +612,13 @@ telekom.de#@#a[href^="https://track.adform.net/"]
 wetter.com#@#div[id^="div-gpt-"]
 ! ---------------------------Third-party Werbeserver---------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
+! 
+||achmetsdoenerladen.de^
+||alleswegenmicha.de^
+||aluhutmafia.de^
+||dierussensindschuld.de^
+||wirverkaufennichts.de^
+! 
 ||4adtf.com.^$third-party
 ||4adtf.com^$third-party
 ||4rm.de^$third-party
