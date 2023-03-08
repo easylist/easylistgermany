@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303081859
+! Version: 202303081901
 ! Title: EasyList Germany
-! Last modified: 08 Mar 2023 18:59 UTC
+! Last modified: 08 Mar 2023 19:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -705,6 +705,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||bwads24.com^$third-party
 ||c-points.de^$third-party
 ||cashdorado.de^$third-party
+||cduspenden.de^$third-party
 ||chatintr.com^$third-party
 ||chatntr.com^$third-party
 ||ci-marketing.de^$third-party
@@ -778,6 +779,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||klick4u.de^$third-party
 ||klicktausch.com^$third-party
 ||komplads.net^$third-party
+||korruptionundpartner.de^$third-party
 ||ktxtr.com^$third-party
 ||letvertise.com^$third-party
 ||liferd.de^$third-party
@@ -812,6 +814,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||network-marketing24.com^$third-party
 ||network-media.info^$third-party
 ||networx.me^$third-party
+||netzwerk-ad.de^$third-party
 ||nonstoppartner.net^$third-party
 ||notenpartner.de^$third-party
 ||nwave.de^$third-party
@@ -846,6 +849,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||shareifyoulike.com^$third-party
 ||siyl.net^$third-party
 ||solads.media^$third-party
+||spaceeditors.com^$third-party
 ||sparkads.ws^$third-party
 ||sparkassen-partner.de^$third-party
 ||special-sponsor.de^$third-party
@@ -901,6 +905,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||za-ads.de^$third-party
 ||zazufi.com^
 ||zieltracker.de^$third-party
+||zuppelzockt.com^$third-party
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^$third-party
 ! Mobile
 ||avault.net^$third-party
@@ -985,6 +990,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||dealdoktor.de/misc/$third-party
 ||deinfickdate.com/banner/$third-party
 ||deinsexdate.com/banner/$third-party
+||deliver.helpnation.de^$third-party
 ||dentaltrade-zahnersatz.de^*/banner/$third-party
 ||deutschland-spielt.de/partners/$third-party
 ||die-staemme.de/banner/$third-party
@@ -1033,6 +1039,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||happyweekend-community.com/banner/
 ||heutenochficken.com/banner/$third-party
 ||hofmann.info^$subdocument,domain=sgf1903.de
+||hubu.cloud/app/js/media/
 ||hubu.cloud/vast/
 ||hurenkartei.com/teaser-$third-party
 ||hyp-tech.com/img/$third-party
@@ -1139,6 +1146,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||rabattcorner.ch/iframe/$subdocument,third-party
 ||ranksider.de/img/banner/$third-party
 ||rastplatzsex.com/banner/$third-party
+||ref.cdnplus.de^$third-party
 ||rhein.rfw-koeln.de^$third-party
 ||rocketcdn.me^*/Banner_$domain=marktindex.ch
 ||roemerforum.com/banner/
@@ -1917,6 +1925,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||nachtkritik.de/images/topbanner_
 ||namibia-forum.ch/images/gsdu/
 ||naruto-tube.org/templates/caprica/amzb/
+||naruto-tube.org/templates/caprica/amzl/
 ||naturundtherapie.at/images/banners/
 ||nebenwerte-magazin.com/wp-content/uploads/*/wrb-
 ||netdna-ssl.com/wp-content/uploads/*/PopUp_TessinFerienwohnunge_300x250px.jpg$domain=reiseziele.ch
