@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303081901
+! Version: 202303091721
 ! Title: EasyList Germany
-! Last modified: 08 Mar 2023 19:01 UTC
+! Last modified: 09 Mar 2023 17:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1172,6 +1172,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||spotlight.offerista.com^$third-party
 ||sprachenlernen24-download.de/banner/
 ||start.amateurcommunity.com^
+||start.sexpartnercommunity.com^
 ||starting6.de/dyn_banner/$third-party
 ||startparadies.de/banner/$third-party
 ||storage.googleapis.com/ba_utils/
@@ -1241,6 +1242,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||sau-billig.net/?log=$popup,third-party
 ||sloganmaker.net/?utm_campaign=*&utm_source=$popup,third-party
 ||smsdate.com^$popup
+||start.sexpartnercommunity.com^$popup
 ||sunmaker.com/?a_aid=$popup
 ||tagoria.net/?ref=$popup,third-party
 ||taps.io^*/sms?__ref=$popup
