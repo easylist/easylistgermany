@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303091724
+! Version: 202303091726
 ! Title: EasyList Germany
-! Last modified: 09 Mar 2023 17:24 UTC
+! Last modified: 09 Mar 2023 17:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1928,6 +1928,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||nachtkritik.de/images/skyscraper_
 ||nachtkritik.de/images/topbanner_
 ||namibia-forum.ch/images/gsdu/
+||naruto-tube.org/templates/caprica/amz/
 ||naruto-tube.org/templates/caprica/amzb/
 ||naruto-tube.org/templates/caprica/amzl/
 ||naturundtherapie.at/images/banners/
@@ -3303,7 +3304,7 @@ digitalfernsehen.de##.amazon-auto-links
 aol.de##.amazon-link
 forum.worldofplayers.de##.amazon-search
 winfuture.de##.amazon_widget_w660
-fairytail-tube.org,onepiece-tube.com##.amz
+fairytail-tube.org,naruto-tube.org,onepiece-tube.com##.amz
 suedtirol.de,tirol.de##.angebot-der-woche-slider
 musiker-board.de,recording.de##.anz
 musiker-board.de##.anzC
