@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303101408
+! Version: 202303101711
 ! Title: EasyList Germany
-! Last modified: 10 Mar 2023 14:08 UTC
+! Last modified: 10 Mar 2023 17:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1306,8 +1306,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||aktuell-kl.de/images/banners/
 ||akustik-gitarre.com/uploads/tx_ricrotation/
 ||algarve-entdecker.com/wp-content/uploads/*/xbanner-
-||allround-pc.com/com*/fireplace
-||allround-pc.com/com20230227/
+||allround-pc.com/com$image
 ||altesrad.net/phpBB3/images/banner/
 ||amazonaws.com/bnp_657x209_$domain=finanzen.net
 ||amigafuture.de/images/amazon234x60_
@@ -4246,6 +4245,8 @@ chip.de##[style*="://network.screen13.com/"]
 manomano.de##a[class*="sponsoredProductCard"]
 neuwagen.de##a[class="placement"]
 camping.de##a[class^="herobanner-adv"]
+allround-pc.com##a[class^="pLeft-"]
+allround-pc.com##a[class^="pRight-"]
 hallo-minden.de##a[data-adid]:not([data-adid="12937"])
 mobilegeeks.de##a[data-eventcategory="Kooperation"]
 ariva.de##a[data-google_analytics_id^="wo"]
@@ -4260,6 +4261,7 @@ hd-source.to##a[href*="/af.php"]
 amigafuture.de##a[href*="/boardheaderads/"]
 erogeschichten.com##a[href*="/go/"]
 tarnkappe.info##a[href*="/hide.me/de/?friend="]
+allround-pc.com##a[href*="/link-to.php?b="]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
 ddl-warez.cc,ostfussball.com##a[href*="/out/"]
 bild.de##a[href*="/partner/"]
