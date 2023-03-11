@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303111655
+! Version: 202303111656
 ! Title: EasyList Germany
-! Last modified: 11 Mar 2023 16:55 UTC
+! Last modified: 11 Mar 2023 16:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1811,6 +1811,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||kinderlandparks.de/cms/media/thumbnail_5240_w_650.jpg
 ||kinox.top/templates/Kinox/images/stream.gif
 ||kitzanzeiger.at^*/sponsoren/
+||klappeauf.de/images-banner/
 ||klexikon.de/banner/
 ||koeln.de^*/werbung/
 ||kradblatt.de/wp-content/uploads/mediabanner/
@@ -3401,6 +3402,7 @@ prost-magazin.at##.bannerfullbanner
 tobitech.de##.bannergroupimgframe
 diebildschirmzeitung.de##.banneritem
 ariva.de##.bannerleiste
+klappeauf.de##.bannerprom
 sportal.ch##.bannerspot
 frischauf-gp.de##.bannertop
 nnz-online.de##.bannerwrapper
@@ -3828,6 +3830,7 @@ liveticker.com##.odds
 maschinensucher.at,maschinensucher.ch,maschinensucher.de##.ofni
 finanznachrichten.de##.on-click--partner
 onmeda.de##.on-top-banner-wrapper
+klappeauf.de##.opa
 autoscout24.at,autoscout24.de##.osa-as24-placeholder
 ssv-brixen.info##.owl-carousel
 oz-online.de##.ox
