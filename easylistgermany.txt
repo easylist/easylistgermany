@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303111902
+! Version: 202303112203
 ! Title: EasyList Germany
-! Last modified: 11 Mar 2023 19:02 UTC
+! Last modified: 11 Mar 2023 22:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4577,6 +4577,8 @@ news.ch##div[style^="width: 300px;"]
 ableitungsrechner.net,integralrechner.de##div[style^="width: 728px;"]
 fussball.ch,wetter.ch,wirtschaft.ch##div[style^="width:300px;"]
 italienisch-lernen-online.net##div[style^="width:300px;height:250px;"]
+werkenntdenbesten.de##div[x-data="modules.ad()"]
+werkenntdenbesten.de##div[x-data="modules.ad()"] + span
 ibooks.to##form[action^="https://ibooks.to/daddel/"]
 reimmaschine.de##iframe[src="/more"]
 190.115.18.20,aniworld.to,s.to##iframe[style*="z-index: 2147483647"]
