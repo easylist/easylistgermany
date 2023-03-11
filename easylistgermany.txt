@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303111656
+! Version: 202303111657
 ! Title: EasyList Germany
-! Last modified: 11 Mar 2023 16:56 UTC
+! Last modified: 11 Mar 2023 16:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3781,6 +3781,7 @@ unterwasserwelt.de##.mh-footer
 hallanzeiger.de##.mh-widget.s5214-widget
 schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
 intimesrevier.com##.miragobox
+abendblatt.de##.mj-pf-widget
 finanzen.net##.mleft-10 + .table-quotes
 polizei.news,reiseziele.ch##.mobile-billboard-box
 gartenflora.de##.mobile-interscroller
