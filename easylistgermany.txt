@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303111657
+! Version: 202303111658
 ! Title: EasyList Germany
-! Last modified: 11 Mar 2023 16:57 UTC
+! Last modified: 11 Mar 2023 16:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4837,6 +4837,7 @@ satvision.de#?#.mod_flexicontent_standard_wrapper:-abp-has(span:-abp-contains(Ad
 skodacommunity.de#?#article.message--post:-abp-has(a:-abp-contains(Anzeige))
 smartphonemag.de#?#.td_module_wrap:-abp-has(.td-post-author-name:-abp-contains(Werbung))
 swz.it#?#.jeg_post.jeg_pl_md_2.pr.format-standard:-abp-has(span:-abp-contains(PR-INFO))
+szene-hamburg.com#?#.swiper-slide:-abp-has(.entry-adv)
 t-online.de#?#div[data-testid="StreamLayout.Companion"]:-abp-has(a[href^="https://ad.doubleclick.net/"])
 t-online.de,www-t--online-de.cdn.ampproject.org#?#div[id^="T-"][onfocus^="A('zid="]:-abp-has(a:-abp-contains(Anzeige))
 tag24.de#?#article.article-tile:-abp-has(span.article-tile__badge2:-abp-contains(ANZEIGE))
