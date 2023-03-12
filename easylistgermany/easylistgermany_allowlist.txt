@@ -1,3 +1,4 @@
+@@||ableitungsrechner.net^$generichide
 @@||acdn.adnxs.com/ast/ast.js$script,domain=finanzen.ch
 @@||adform.net/adfserve/?bn=$script,domain=rewe.de
 @@||adform.net/adx/$script,domain=rewe.de
@@ -66,6 +67,7 @@
 @@||img.classistatic.de/api/v1/mo-prod/images/ad/$image,domain=mobile.de
 @@||img.welt.de/img/Advertorials/$image,domain=welt.de
 @@||improvedigital.com/pbw/headerlift.min.js$domain=jetztspielen.de
+@@||integralrechner.de^$generichide
 @@||jade-hs.de^*/ext-adv.js
 @@||kabeleins.de^$generichide
 @@||live.primis.tech/live/liveVideo.php?$script,domain=nextpit.de
@@ -100,7 +102,7 @@
 @@||sportbild.bild.de^$generichide
 @@||stylebook.de^$generichide
 @@||sueddeutsche.de^$generichide
-@@||symplr.de^*/ableitungsrechner.js$domain=ableitungsrechner.net
+@@||symplr.de^$script,domain=ableitungsrechner.net|integralrechner.de
 @@||techbook.de^$generichide
 @@||transfermarkt.de^$generichide
 @@||travelbook.de^$generichide

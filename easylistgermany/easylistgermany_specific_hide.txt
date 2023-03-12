@@ -2088,8 +2088,13 @@ focus.de###CT_DESKTOP_NATIVE_HOR_ANY_hor2
 autobild.de###billboard_btf_2Wrapper
 autobild.de###billboard_btf_rlWr
 autobild.de,rollingstone.de###billboard_rlWr
+ableitungsrechner.net,integralrechner.de###desktop-bottom-ad-wrapper
+ableitungsrechner.net,integralrechner.de###desktop-left-ad
+ableitungsrechner.net,integralrechner.de###desktop-left-bottom-ad
+ableitungsrechner.net,integralrechner.de###desktop-top-ad
 finanzen.net###footer-ad
 finanzen.net###news-contentads
+ableitungsrechner.net,integralrechner.de###recommendations
 autobild.de###sky_btf_rlWr
 autobild.de,rollingstone.de###sky_rlWr
 autobild.de###superbanner_rlWr
@@ -2122,6 +2127,7 @@ t-online.de##[data-commercial-format]
 autobild.de,computerbild.de,finanzen.net,gamestar.de,n-tv.de,ran.de##a[data-nvp*="'trafficUrl':'https://paid.outbrain.com/network/redir?"]
 autobild.de,computerbild.de,finanzen.net,gamestar.de,n-tv.de,ran.de##a[data-oburl^="https://paid.outbrain.com/network/redir?"]
 autobild.de,computerbild.de,finanzen.net,gamestar.de,n-tv.de,ran.de##a[data-redirect^="https://paid.outbrain.com/network/redir?"]
+ableitungsrechner.net,integralrechner.de##a[href*="//www.amazon."][href*="tag="]
 plista.com##a[href^="http://click.plista.com/pets"]
 finanzen.net##a[href^="https://ad.doubleclick.net/"]
 autobild.de,computerbild.de,finanzen.net,focus.de,gamestar.de,n-tv.de,ran.de##a[href^="https://paid.outbrain.com/network/redir?"]
