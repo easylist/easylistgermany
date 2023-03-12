@@ -1,5 +1,6 @@
 ||1und1.de/?__reuse=$popup,third-party
 ||adfarm1.adition.com^$popup,domain=web.de
+||allround-pc.com^*.php?*=$popup
 ||amateurseite.com^$popup,third-party
 ||bigpoint.com^*?aid=*&aig=*&aip=$popup,third-party
 ||boerse.today^$popup,third-party
