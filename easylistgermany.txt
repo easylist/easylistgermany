@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303121133
+! Version: 202303121147
 ! Title: EasyList Germany
-! Last modified: 12 Mar 2023 11:33 UTC
+! Last modified: 12 Mar 2023 11:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1223,6 +1223,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ! *** easylistgermany:easylistgermany/easylistgermany_thirdparty_popup.txt ***
 ||1und1.de/?__reuse=$popup,third-party
 ||adfarm1.adition.com^$popup,domain=web.de
+||allround-pc.com^*.php?*=$popup
 ||amateurseite.com^$popup,third-party
 ||bigpoint.com^*?aid=*&aig=*&aip=$popup,third-party
 ||boerse.today^$popup,third-party
@@ -3927,6 +3928,7 @@ grazia-magazin.de,ok-magazin.de,vital.de##.quartermedia
 crossmagazin.de##.quiz-footer-wrapper
 codecheck.info##.r
 netzkino.de##.r-d045u9.r-1udh08x.r-bnwqim.css-1dbjc4n
+allround-pc.com##.rPlaceholder
 videoaktiv.de##.rcu
 videoaktiv.de##.rec
 amor-frau.com##.rechteseite
@@ -4583,6 +4585,9 @@ ibooks.to##form[action^="https://ibooks.to/daddel/"]
 reimmaschine.de##iframe[src="/more"]
 190.115.18.20,aniworld.to,s.to##iframe[style*="z-index: 2147483647"]
 windowspro.de##iframe[style="height:250px;overflow: hidden;"]
+allround-pc.com##img[alt="FP1"]
+allround-pc.com##img[alt="FP2"]
+allround-pc.com##img[alt="FP3"]
 rbleipzig.com##img[alt="Logo Partner"]
 finanzen.net##img[alt="Passende Produkte von Vontobel"]
 finanzen.net##img[alt="Passende Produkte von der Société Générale"]
