@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303121154
+! Version: 202303121201
 ! Title: EasyList Germany
-! Last modified: 12 Mar 2023 11:54 UTC
+! Last modified: 12 Mar 2023 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3345,6 +3345,7 @@ hsc2000.de##.av-partner-fake-img
 likehifi.de##.avad1_widget
 hsc2000.de##.avia-slideshow-1
 nrwhits.de##.ax-medium-rectangle-n
+blitzrechner.de##.azimg
 abmahnung.org##.azk-native-responsive
 fcaugsburg.de##.b-logo-listing
 hardwareschotte.de##.ba-fullsize
@@ -4519,6 +4520,7 @@ berliner-zeitung.de,blick.de,donaukurier.de,frankenpost.de,mopo.de,pnp.de,schwar
 wochenblick.at##div[id^="woche-"]
 20min.ch##div[id^="zentralschweiz__inside-"]
 20min.ch##div[id^="zuerich__inside-"]
+blitzrechner.de##div[onclick^="ga('send', 'event', 'Ad',"]
 android-hilfe.de##div[style$=";min-height:250px;min-width:300px;"]
 android-hilfe.de##div[style$=";min-height:250px;min-width:310px;"]
 weristdeinfreund.de##div[style*="display: block ! important"]
