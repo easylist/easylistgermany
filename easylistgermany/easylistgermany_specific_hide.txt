@@ -1264,9 +1264,6 @@ oz-online.de##.ox
 6navi.ch##.p-banners-withborder
 emtb-news.de##.p-header
 augsburger-allgemeine.de##.p-swatch_top-nice--blank.p-blocklink
-allround-pc.com##.pLeft
-allround-pc.com##.pMid
-allround-pc.com##.pRight
 kultur.bz.it##.page-banner
 tour-magazin.de##.page-sponsoring
 rhein-zeitung.de##.page__billboard
@@ -1353,7 +1350,6 @@ grazia-magazin.de,ok-magazin.de,vital.de##.quartermedia
 crossmagazin.de##.quiz-footer-wrapper
 codecheck.info##.r
 netzkino.de##.r-d045u9.r-1udh08x.r-bnwqim.css-1dbjc4n
-allround-pc.com##.rPlaceholder
 videoaktiv.de##.rcu
 videoaktiv.de##.rec
 amor-frau.com##.rechteseite
@@ -1678,8 +1674,6 @@ chip.de##[style*="://network.screen13.com/"]
 manomano.de##a[class*="sponsoredProductCard"]
 neuwagen.de##a[class="placement"]
 camping.de##a[class^="herobanner-adv"]
-allround-pc.com##a[class^="pLeft-"]
-allround-pc.com##a[class^="pRight-"]
 hallo-minden.de##a[data-adid]:not([data-adid="12937"])
 mobilegeeks.de##a[data-eventcategory="Kooperation"]
 ariva.de##a[data-google_analytics_id^="wo"]
@@ -1688,13 +1682,13 @@ gawina.de##a[data-track]
 t-online.de,www-t--online-de.cdn.ampproject.org##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
 onvista.de##a[href*="&adname="]
+allround-pc.com##a[href*=".php?b="]
 tarnkappe.info##a[href*=".rokkr.net/promo/"]
 dkamera.de,donau3fm.de,isaswomo.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,spox.com,via-ferrata.de##a[href*="//bit.ly/"]
 hd-source.to##a[href*="/af.php"]
 amigafuture.de##a[href*="/boardheaderads/"]
 erogeschichten.com##a[href*="/go/"]
 tarnkappe.info##a[href*="/hide.me/de/?friend="]
-allround-pc.com##a[href*="/link-to.php?b="]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
 ddl-warez.cc,ostfussball.com##a[href*="/out/"]
 bild.de##a[href*="/partner/"]
@@ -1737,7 +1731,6 @@ pcwelt.de##a[href^="http://www.verleihshop.de/pwindex.html?partner="]
 3fach.ch##a[href^="https://3fach.ch/track/"]
 spanienlive.com##a[href^="https://airbnb.com/rooms/"]
 blogprojekt.de##a[href^="https://all-inkl.com/?partner="]
-allround-pc.com##a[href^="https://allround-pc.com/link-to.php?b="]
 adventures-kompakt.de##a[href^="https://allvideoslots.com/"]
 anderes-wort.de,bitreporter.de,fairytail-tube.org,onepiece-tube.com,picdumps.com##a[href^="https://amzn.to/"]
 googlewatchblog.de,schrift-generator.com##a[href^="https://amzn.to/"] > img
@@ -1815,7 +1808,6 @@ chip.de##a[onclick*=".chip-secured-download.de/payperdownload/click?"]
 shaz.ch##a[onclick^="__gaTracker('send', 'event', 'Ads'"]
 computerbase.de##a[rel*="sponsored"] > img[alt="Anzeige"]
 smartdroid.de##a[rel=" noreferrer noopener sponsored nofollow"]
-allround-pc.com##a[rel="noreferrer noopener nofollow sponsored"]
 herz-fuer-tiere.de,schweizer-illustrierte.ch##a[rel="sponsored"]
 andalusien-aktuell.es,sex4u.ch##a[rel^="sponsored"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
@@ -2012,9 +2004,6 @@ ibooks.to##form[action^="https://ibooks.to/daddel/"]
 reimmaschine.de##iframe[src="/more"]
 190.115.18.20,aniworld.to,s.to##iframe[style*="z-index: 2147483647"]
 windowspro.de##iframe[style="height:250px;overflow: hidden;"]
-allround-pc.com##img[alt="FP1"]
-allround-pc.com##img[alt="FP2"]
-allround-pc.com##img[alt="FP3"]
 rbleipzig.com##img[alt="Logo Partner"]
 finanzen.net##img[alt="Passende Produkte von Vontobel"]
 finanzen.net##img[alt="Passende Produkte von der Société Générale"]
