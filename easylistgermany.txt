@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303131919
+! Version: 202303141652
 ! Title: EasyList Germany
-! Last modified: 13 Mar 2023 19:19 UTC
+! Last modified: 14 Mar 2023 16:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3356,6 +3356,7 @@ archzine.net##.banPlace1
 w24.at##.banner-aspect-ratio
 spielkarussell.de##.banner-btf-side-rectangle
 skipper-bootshandel.de,tvtoday.de##.banner-container
+woz.ch##.banner-full
 wochenblatt.cc##.banner-header-left
 wochenblatt.cc##.banner-header-right
 medienjobs.ch,prewarcar.de##.banner-holder
@@ -3526,7 +3527,6 @@ deutscherskiverband.de##.container-banner-2
 1000ps.at,1000ps.de##.container-billboard
 goslarsche.de##.container_skyscraper
 hoerzu.de##.content-amazon
-woz.ch##.content-fragment-banner
 kostenlosspielen.net##.content-main-box-300x250
 kostenlosspielen.net##.content-main-box-728x90
 kostenlosspielen.net##.content-right-box-300x250right
