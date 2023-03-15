@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303141813
+! Version: 202303151755
 ! Title: EasyList Germany
-! Last modified: 14 Mar 2023 18:13 UTC
+! Last modified: 15 Mar 2023 17:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4635,6 +4635,7 @@ sumikai.com##ins[data-meh-id]
 petra.de##kas
 vital.de##kas[type="placement"]
 restegourmet.de##li[data-content-type="ad"]
+gmx.ch,gmx.net,web.de##list-inbox-ad-item
 ariva.de##span[onpointerdown^="countClickOnGAorEs("]
 ariva.de##span[onpointerup*="prgAnalyticsEvent("]
 erogeschichten.com##table[align-center][cellpadding="13"][border="0"][bgcolor="lightgrey"]
