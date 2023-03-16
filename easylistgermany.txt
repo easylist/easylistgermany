@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303161452
+! Version: 202303161454
 ! Title: EasyList Germany
-! Last modified: 16 Mar 2023 14:52 UTC
+! Last modified: 16 Mar 2023 14:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4836,6 +4836,8 @@ photographie.de#?#.post.type-post.status-publish:-abp-has(.anzeige-box)
 pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
 preis24.de#?#.box.box-style1:-abp-has(.notice)
 print.de#?#.excerpt-tile.cell:-abp-has(.advertorials)
+produktion.de#?#.ce_postlistbox:-abp-has(.label-ad-highlight)
+produktion.de#?#.ce_topicbox:-abp-has(.label-ad-highlight)
 promiflash.de#?#.onlyDesktop:-abp-has(div.adContainer)
 promobil.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 report-d.de#?#.content-view-containerbox:-abp-contains(SONDER-VERÖFFENTLICHUNG)
