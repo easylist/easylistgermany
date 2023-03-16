@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303161456
+! Version: 202303161556
 ! Title: EasyList Germany
-! Last modified: 16 Mar 2023 14:56 UTC
+! Last modified: 16 Mar 2023 15:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2715,7 +2715,7 @@ magistrix.de###bigsize-top
 modhoster.de###bigsize_inner
 rund-magazin.de###bigsizebanner
 bergsteiger.de,bz-berlin.de,computerbild.de,dastelefonbuch.de,stuttgarter-zeitung.de###billboard
-automobil-produktion.de,produktion.de###billboard-container
+automobil-produktion.de,automotiveit.eu,fertigung.de,fluid.de,instandhaltung.de,ke-next.de,produktion.de,technik-einkauf.de,werkzeug-formenbau.de###billboard-container
 kochrezepte.at###billboard-location
 rtl.de###billboard_1
 bz-berlin.de,finanzen.net###billboard_btf
@@ -3485,8 +3485,9 @@ fairaudio.de##.candy-top
 filmlaune.de##.card-streaming-btns
 neuwagen.de##.cardealers
 anzeigervomrottal.ch##.carousel
-automobil-produktion.de,produktion.de##.ce_banneradbox
+automobil-produktion.de,automotiveit.eu,fertigung.de,fluid.de,instandhaltung.de,ke-next.de,produktion.de,technik-einkauf.de,werkzeug-formenbau.de##.ce_banneradbox
 e-formel.de##.ce_plista
+technik-einkauf.de##.ce_promotionbox
 boerse-daily.de##.ce_rsce_bd_werbung
 utopia.de##.channel-logo-desc
 my105.ch##.channel-sponsor
@@ -4735,6 +4736,8 @@ android-hilfe.de#?#article.message--post:-abp-has(span.username:-abp-contains(An
 apfeltalk.de#?#div.wpb_text_column:-abp-has(h5:-abp-contains(Werbung))
 apfeltalk.de#?#div.wpb_text_column:-abp-has(h6:-abp-contains(Werbung))
 ariva.de#?#a.background-red-bright:-abp-has(span.anzeige)
+automotiveit.eu,instandhaltung.de,produktion.de,technik-einkauf.de#?#.ce_postlistbox:-abp-has(.label-ad-highlight)
+automotiveit.eu,produktion.de#?#.ce_topicbox:-abp-has(.label-ad-highlight)
 avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorials))
 avguide.ch#?#.gridteaser.gridteaser-m:-abp-has(h4:-abp-contains(Sponsored Post))
 az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
@@ -4771,6 +4774,7 @@ elektrobike-online.com#?#.v-A_-topteaser__article:-abp-has(.v-A_-teaser__tag--ad
 emotion.de#?#.node--article:-abp-has(span:-abp-contains(Anzeige))
 eurotransport.de#?#.v-A_-sidecol__list__item:-abp-has(.v-A_-teaser__tag--ad)
 fazemag.de#?#h4:-abp-has(span:-abp-contains(ANZEIGEN))
+fertigung.de#?#.owl-carousel.owl-loaded.owl-drag:-abp-has(.label-ad-highlight)
 feuerwehrmagazin.de#?#.excerpt-tile.cell.small-12.medium-6:-abp-has(.advertorials)
 finanzen.net#?#.mleft-10.small-font.light-grey:-abp-contains(Werbung) + .box + .border-blue-2
 finanzen.net#?#.mleft-10:-abp-contains(Werbung) + .box
@@ -4838,8 +4842,6 @@ photographie.de#?#.post.type-post.status-publish:-abp-has(.anzeige-box)
 pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
 preis24.de#?#.box.box-style1:-abp-has(.notice)
 print.de#?#.excerpt-tile.cell:-abp-has(.advertorials)
-produktion.de#?#.ce_postlistbox:-abp-has(.label-ad-highlight)
-produktion.de#?#.ce_topicbox:-abp-has(.label-ad-highlight)
 promiflash.de#?#.onlyDesktop:-abp-has(div.adContainer)
 promobil.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 report-d.de#?#.content-view-containerbox:-abp-contains(SONDER-VERÖFFENTLICHUNG)
