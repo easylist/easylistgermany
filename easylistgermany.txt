@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303162102
+! Version: 202303171724
 ! Title: EasyList Germany
-! Last modified: 16 Mar 2023 21:02 UTC
+! Last modified: 17 Mar 2023 17:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4393,6 +4393,7 @@ smartdroid.de##a[rel=" noreferrer noopener sponsored nofollow"]
 allround-pc.com##a[rel="noreferrer noopener nofollow sponsored"]
 herz-fuer-tiere.de,schweizer-illustrierte.ch##a[rel="sponsored"]
 andalusien-aktuell.es,sex4u.ch##a[rel^="sponsored"]
+allround-pc.com##a[style="background-color: #001d4a;"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 macuser.de##article.message--post:not([data-author])
@@ -4575,6 +4576,7 @@ tarnkappe.info##div[style="width:300px;height:250px"]
 news.ch##div[style="width:300px;padding:12px;float:left;"]
 winfuture.de##div[style="width:670px;height:280px;"]
 korrekturen.de##div[style="width:728px; height: 90px; text-align: center; background-color:#c0c0c0;"]
+allround-pc.com##div[style^="position: relative;background-color: #001d4a;"]
 froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com##div[style^="text-align:center;font-size:80%;"]
 news.ch##div[style^="width: 300px;"]
 ableitungsrechner.net,integralrechner.de##div[style^="width: 728px;"]
