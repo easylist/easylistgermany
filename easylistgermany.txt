@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303172149
+! Version: 202303201453
 ! Title: EasyList Germany
-! Last modified: 17 Mar 2023 21:49 UTC
+! Last modified: 20 Mar 2023 14:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3201,6 +3201,8 @@ chip.de##.FC.mt-md-so[role="complementary"]
 praxistipps.focus.de##.FC__Ad
 chip.de##.FC__Container.min-height-250px-mu
 swoodoo.com##.Flights-Results-FlightRightRail
+allround-pc.com##.L22481
+allround-pc.com##.L224814
 perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
 alle-autos-in.de##.NaviTopP
