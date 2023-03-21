@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303201744
+! Version: 202303211747
 ! Title: EasyList Germany
-! Last modified: 20 Mar 2023 17:44 UTC
+! Last modified: 21 Mar 2023 17:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4391,6 +4391,7 @@ chip.de##a[onclick*=".chip-secured-download.de/payperdownload/click?"]
 shaz.ch##a[onclick^="__gaTracker('send', 'event', 'Ads'"]
 computerbase.de##a[rel*="sponsored"] > img[alt="Anzeige"]
 smartdroid.de##a[rel=" noreferrer noopener sponsored nofollow"]
+allround-pc.com##a[rel="nofollow sponsored noopener"]
 allround-pc.com##a[rel="noopener"][target="_self"]
 allround-pc.com##a[rel="noreferrer noopener nofollow sponsored"]
 herz-fuer-tiere.de,schweizer-illustrierte.ch##a[rel="sponsored"]
