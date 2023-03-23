@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303221612
+! Version: 202303231313
 ! Title: EasyList Germany
-! Last modified: 22 Mar 2023 16:12 UTC
+! Last modified: 23 Mar 2023 13:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1983,6 +1983,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||onepiece-tube.com^*/amzb2/
 ||onlinekorrektor.de/cnc/
 ||onlinereports.ch/uploads/tx_macinabanners/
+||onlineuebung.de/wp-content/plugins/amazon-auto-links/
 ||onlinewahn.de/sky.js
 ||ostfussball.com/wp-content/uploads/*/20bet-sports.jpg
 ||ostfussball.com/wp-content/uploads/*/betsson-sportwetten-bonus-banner.jpg
@@ -4206,6 +4207,7 @@ kostenloses-fernsehen.de##.widget-1
 kostenloses-fernsehen.de,melodieundrhythmus.com##.widget-3
 kt1.at##.widget-5
 kt1.at##.widget-7
+onlineuebung.de##.widget-aal-unit-by-id
 primeleague.gg##.widget-list-sponsors
 wp-koenigin.de##.widget__image--banner
 gameswirtschaft.de,haus-garten-magazin.de##.widget_aawp_widget_bestseller
