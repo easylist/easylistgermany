@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303231313
+! Version: 202303261205
 ! Title: EasyList Germany
-! Last modified: 23 Mar 2023 13:13 UTC
+! Last modified: 26 Mar 2023 12:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3201,8 +3201,6 @@ chip.de##.FC.mt-md-so[role="complementary"]
 praxistipps.focus.de##.FC__Ad
 chip.de##.FC__Container.min-height-250px-mu
 swoodoo.com##.Flights-Results-FlightRightRail
-allround-pc.com##.L22481
-allround-pc.com##.L224814
 perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
 alle-autos-in.de##.NaviTopP
@@ -4394,6 +4392,7 @@ shaz.ch##a[onclick^="__gaTracker('send', 'event', 'Ads'"]
 computerbase.de##a[rel*="sponsored"] > img[alt="Anzeige"]
 smartdroid.de##a[rel=" noreferrer noopener sponsored nofollow"]
 allround-pc.com##a[rel="nofollow sponsored noopener"]
+allround-pc.com##a[rel="noopener"] > img
 allround-pc.com##a[rel="noopener"][target="_self"]
 allround-pc.com##a[rel="noreferrer noopener nofollow sponsored"]
 herz-fuer-tiere.de,schweizer-illustrierte.ch##a[rel="sponsored"]
