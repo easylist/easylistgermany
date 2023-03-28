@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303281414
+! Version: 202303281415
 ! Title: EasyList Germany
-! Last modified: 28 Mar 2023 14:14 UTC
+! Last modified: 28 Mar 2023 14:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4506,6 +4506,7 @@ playfront.de##div[id^="playf-"]
 20min.ch##div[id^="prime__inside-"]
 professional-audio.de##div[id^="profe-"]
 handballecke.de##div[id^="promotionHeader"]
+reisetopia.ch,reisetopia.de##div[id^="reise-"]
 fitundgesund.at,ichkoche.at,metal-hammer.de##div[id^="sas_"]
 schlager.de##div[id^="schlager-ad-"]
 20min.ch##div[id^="schweiz__inside-"]
