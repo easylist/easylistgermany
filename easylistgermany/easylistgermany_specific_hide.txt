@@ -1649,6 +1649,7 @@ delamar.de##.wk
 regensburg-digital.de##.wk-slideshow
 ariva.de##.woBannerHeader
 ariva.de##.wo_news_top_banner
+allround-pc.com##.wp-element-button[href^="https://amzn.to/"]
 technic3d.com##.wrap > footer[style="bottom: -260px;"]:last-child > div:first-child
 fkk24.de##.wrapper-banner
 come-on.de,fnp.de,fr.de,merkur.de,soester-anzeiger.de,tz.de,wa.de##.wv_story_el_billboard
@@ -1813,6 +1814,7 @@ chip.de##a[onclick*=".chip-secured-download.de/payperdownload/click?"]
 shaz.ch##a[onclick^="__gaTracker('send', 'event', 'Ads'"]
 computerbase.de##a[rel*="sponsored"] > img[alt="Anzeige"]
 smartdroid.de##a[rel=" noreferrer noopener sponsored nofollow"]
+allround-pc.com##a[rel="external noopener"] > img[src^="/"]
 allround-pc.com##a[rel="nofollow sponsored noopener"]
 allround-pc.com##a[rel="noopener external"] > img[src^="/"]
 allround-pc.com##a[rel="noreferrer noopener nofollow sponsored external"]
