@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202303311457
+! Version: 202303311502
 ! Title: EasyList Germany
-! Last modified: 31 Mar 2023 14:57 UTC
+! Last modified: 31 Mar 2023 15:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4197,6 +4197,8 @@ nydus.org,sbb.it##.werb
 dolomiten.de,fernsehserien.de##.werbemittel
 ariva.de##.werbeplaetze_button
 wetter.com##.werbung:not(.toolbar-wrapper)
+weltwoche.ch##.werbungSmall
+weltwoche.ch##.werbungWide
 winfuture-forum.de##.wf_gcsi
 bikesport-emtb.de,radfahren.de,radsport-rennrad.de##.wide-banner
 1000ps.ch##.wideboard-cad
