@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304041820
+! Version: 202304041822
 ! Title: EasyList Germany
-! Last modified: 04 Apr 2023 18:20 UTC
+! Last modified: 04 Apr 2023 18:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3669,6 +3669,7 @@ ak-kurier.de##.hd-banner
 fkk24.de##.head-top-bannerplace
 blickpunkt-brandenburg.de,fruchtportal.de,katzeausdemsack.de,nh24.de,sunshine.it##.header-banner
 deine-tierwelt.de##.header-leaderboard
+deine-tierwelt.de##.header-leaderboard-container
 tennis.de##.header-logo-second-display
 radzeit.de##.header-main
 fcbayern.com##.header-presented-by
