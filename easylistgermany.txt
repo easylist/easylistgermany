@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304061245
+! Version: 202304061343
 ! Title: EasyList Germany
-! Last modified: 06 Apr 2023 12:45 UTC
+! Last modified: 06 Apr 2023 13:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4808,6 +4808,7 @@ golem.de#?#li[data-article-id]:-abp-has(span.media__kicker:-abp-properties(ANZEI
 guenstiger.de#?#.productCard:-abp-has(div.premiumProductCaption)
 handelszeitung.ch#?#.teaser-m-default:-abp-contains(Native Advertising)
 handelszeitung.ch#?#.teaser-m-default:-abp-contains(Publireportage)
+heise.de#?#.p-3.-mx-3.bg-gray-50:-abp-has(a[data-component="TeaserLinkContainer"]:not(a[href^="https://www.heise.de/api/accountservice/subscribe/"]))
 heise.de#?#.px-4.md\:px-6.py-3.h-full.bg-gray-50:-abp-has(.mb-3.text-xs.leading-none.text-center:-abp-contains(Anzeige))
 heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===)
 heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ===) + p
