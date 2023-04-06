@@ -270,6 +270,7 @@ b2run.de###footerpartners
 dforum.net###forumbanner
 mufa.de###freikarten
 freenet.de###frnBanner
+sportdeutschland.tv###fullbanner2
 wallstreet-online.de###fullsizeBanner1
 free-gay.org,pornhutdeutsch.com###fx_imbanner
 tv-huettenberg.de###g-expanded
@@ -2294,6 +2295,7 @@ satvision.de#?#.fc_bloglist_item:-abp-has(a:-abp-contains(Advertorial))
 satvision.de#?#.mod_flexicontent_standard_wrapper:-abp-has(span:-abp-contains(Advertorial))
 skodacommunity.de#?#article.message--post:-abp-has(a:-abp-contains(Anzeige))
 smartphonemag.de#?#.td_module_wrap:-abp-has(.td-post-author-name:-abp-contains(Werbung))
+sportdeutschland.tv#?#.text-right.text-white.col-6:-abp-contains(präsentiert von)
 swz.it#?#.jeg_post.jeg_pl_md_2.pr.format-standard:-abp-has(span:-abp-contains(PR-INFO))
 szene-hamburg.com#?#.swiper-slide:-abp-has(.entry-adv)
 t-online.de#?#div[data-testid="StreamLayout.Companion"]:-abp-has(a[href^="https://ad.doubleclick.net/"])
