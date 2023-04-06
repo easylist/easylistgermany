@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304061343
+! Version: 202304061346
 ! Title: EasyList Germany
-! Last modified: 06 Apr 2023 13:43 UTC
+! Last modified: 06 Apr 2023 13:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -715,6 +715,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||connects.ch^$third-party
 ||contentfeed.net^$third-party
 ||cowana-adserver.de^$third-party
+||cpdsrv.de^$third-party
 ||crmpilot.it^$third-party
 ||cuiron.de^$third-party
 ||cussixia.de^$third-party
