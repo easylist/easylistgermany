@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304081958
+! Version: 202304082050
 ! Title: EasyList Germany
-! Last modified: 08 Apr 2023 19:58 UTC
+! Last modified: 08 Apr 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3560,6 +3560,8 @@ goldesel.sx##.d_695692
 blockbuster.to##.d_702192
 saugen.to##.d_702212
 laden.to##.d_702232
+unnuetzes.com##.da-container
+unnuetzes.com##.da-container-sky
 servus.com,terramatermagazin.com##.da__placeholder
 bergwelten.com##.da_placeholder
 bluewin.ch##.daydeal-container
