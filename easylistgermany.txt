@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304101700
+! Version: 202304101701
 ! Title: EasyList Germany
-! Last modified: 10 Apr 2023 17:00 UTC
+! Last modified: 10 Apr 2023 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4400,6 +4400,7 @@ beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,hd-sexfilme
 trendmutti.com##a[href^="https://www.krokodeal.net/"]
 schwedenstube.de##a[href^="https://www.lead-alliance.net/tc.php"]
 daily-pia.de##a[href^="https://www.manitu.de/?partner="]
+sexabc.ch##a[href^="https://www.mydirtyhobby.de/"][href*="?ats="]
 dxtv.de##a[href^="https://www.octagon-germany.eu"]
 hoerbuch.us##a[href^="https://www.purevpn.com/?aff="]
 hoerbuch.us##a[href^="https://www.purevpn.com?aff="]
