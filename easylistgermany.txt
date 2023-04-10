@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304100959
+! Version: 202304101534
 ! Title: EasyList Germany
-! Last modified: 10 Apr 2023 09:59 UTC
+! Last modified: 10 Apr 2023 15:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4898,6 +4898,7 @@ wallstreet-online.de#?#.sliderItem.active:-abp-has(span.news-item:-abp-has(img[a
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.angebot)
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
 wallstreet-online.de#?#tr:-abp-has(td.right:-abp-has(img[alt="Anzeige"]))
+welt.de#?#.c-inline-teaser__body.c-inline-teaser__body--is-standalone:-abp-has(a[href^="https://www.financeads.net/tc.php?"])
 welt.de#?#div[id][data-qa]:-abp-has(.c-buelent-linkbox__label:-abp-contains(Anzeige))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
 winfuture.de#?#.news330.floatL.mr10:-abp-has(.anzeige)
