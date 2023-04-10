@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304101658
+! Version: 202304101659
 ! Title: EasyList Germany
-! Last modified: 10 Apr 2023 16:58 UTC
+! Last modified: 10 Apr 2023 16:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2213,6 +2213,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||stereo.de^*/banner/
 ||stern.de/bilder/stern_5/allgemein/extras_vermarktet/
 ||steuertipps.de/scripts/google-ad/
+||strafbock.ch/files/banners/
 ||stream-oase.tv/images/banners/
 ||studio-magazin.de/files/banner/
 ||studium-ratgeber.de^*/auslandszeit-starterkit.png
@@ -3425,6 +3426,7 @@ tobitech.de##.bannergroupimgframe
 diebildschirmzeitung.de##.banneritem
 ariva.de##.bannerleiste
 klappeauf.de##.bannerprom
+strafbock.ch##.banners
 sportal.ch##.bannerspot
 frischauf-gp.de##.bannertop
 nnz-online.de##.bannerwrapper
