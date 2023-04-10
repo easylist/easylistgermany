@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304101650
+! Version: 202304101655
 ! Title: EasyList Germany
-! Last modified: 10 Apr 2023 16:50 UTC
+! Last modified: 10 Apr 2023 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -427,6 +427,7 @@ _woz_banner_vote.
 ##.newswerbung
 ##.nfy-sebo-ad
 ##.nfy-slim-ad
+##.orbitsoft-ad
 ##.pane-klambt-ads-klambt-adserver-medrectangle
 ##.popup_werbung_oben_tom
 ##.popup_werbung_rechts_tom
@@ -828,6 +829,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||performance-netzwerk.de^$third-party
 ||performanceanalyser.net^$third-party
 ||planetactive.com^$third-party
+||playamedia.com^$third-party
 ||popup-rotation.de^$third-party
 ||pornoprinzen.com^$third-party
 ||ppac.de^$third-party
