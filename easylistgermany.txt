@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304101534
+! Version: 202304101649
 ! Title: EasyList Germany
-! Last modified: 10 Apr 2023 15:34 UTC
+! Last modified: 10 Apr 2023 16:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -542,6 +542,7 @@ _woz_banner_vote.
 ##a[href^="http://www.rotlichtkartei.com/?sc="]
 ##a[href^="http://www.sexkontaktportal.com/?wm="]
 ##a[href^="https://ads.sunmaker.com/tracking.php?"]
+##a[href^="https://bd742.com/"]
 ##a[href^="https://clicks.imaxcash.com/?aff_"]
 ##a[href^="https://dpm.affaire18.com/click.php?dp="]
 ##a[href^="https://dpm.jungekontakte.com/click.php?dp="]
@@ -616,6 +617,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||achmetsdoenerladen.de^
 ||alleswegenmicha.de^
 ||aluhutmafia.de^
+||bd742.com^
 ||dierussensindschuld.de^
 ||wirverkaufennichts.de^
 ! 
