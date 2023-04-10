@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304101655
+! Version: 202304101656
 ! Title: EasyList Germany
-! Last modified: 10 Apr 2023 16:55 UTC
+! Last modified: 10 Apr 2023 16:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2223,6 +2223,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||suche.t-online.de/web/billiger?
 ||suche.t-online.de/web/ebay?
 ||suche.web.de/amazon?
+||suche6.ch/banner/
 ||suedpfalz-verlag.de/uploads/pics/CBoltz.png
 ||suedpfalz-verlag.de/uploads/pics/DK-Grafik.png
 ||suedtirol.de/upload/Banner/
@@ -4035,6 +4036,7 @@ fla.de##.skyscrapper-left
 fla.de##.skyscrapper-right
 boxverband.at##.slick-track
 aedt.de##.slide-box
+suche6.ch##.slideshow
 wallis24.it##.slideshowck
 finanznachrichten.de##.smartbroker--text
 finanznachrichten.de##.smartbroker-logo
