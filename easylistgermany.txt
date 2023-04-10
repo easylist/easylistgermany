@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304101656
+! Version: 202304101657
 ! Title: EasyList Germany
-! Last modified: 10 Apr 2023 16:56 UTC
+! Last modified: 10 Apr 2023 16:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2625,6 +2625,7 @@ t-online.de,www-t--online-de.cdn.ampproject.org###Tlibelle
 4crazy.de###UNWB300200
 4crazy.de###UNWB300300
 bbv-net.de,stadtanzeiger-borken.de###WallpaperBanner
+6navi.ch###WelcomeBannerDiv
 neumarktaktuell.de###Werbung
 ww3.cad.de###WzTtDiV + table[width="100%"][border="0"]
 mallorcazeitung.es###_mo_cti
