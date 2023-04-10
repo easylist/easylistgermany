@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304082050
+! Version: 202304100954
 ! Title: EasyList Germany
-! Last modified: 08 Apr 2023 20:50 UTC
+! Last modified: 10 Apr 2023 09:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3614,7 +3614,7 @@ de.motor1.com##.f1de-container
 fcbayern.com##.fcb-ad-banner-container
 bunte.de##.fe-channel-item--promo
 ff-bz.com##.ff-ba
-autoextrem.de,skodacommunity.de##.fh-inside-post
+autoextrem.de,skodacommunity.de,usp-forum.de##.fh-inside-post
 autoextrem.de##.fh-sidebar
 fussballinfo.net##.field--name-dynamic-token-fieldnode-wett-tipps-4-wettanbieter-h2 + .field--name-dynamic-block-fieldnode-top-3-anbieter
 zeitpunkt.ch##.field--name-field-werbebild
@@ -4412,7 +4412,7 @@ herz-fuer-tiere.de,schweizer-illustrierte.ch##a[rel="sponsored"]
 andalusien-aktuell.es,sex4u.ch##a[rel^="sponsored"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
-macuser.de##article.message--post:not([data-author])
+macuser.de,usp-forum.de##article.message--post:not([data-author])
 blick.ch##aside[id^="appnexus-placement"]
 weristdeinfreund.de##aside[id^="banner"]
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
