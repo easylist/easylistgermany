@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304101659
+! Version: 202304101700
 ! Title: EasyList Germany
-! Last modified: 10 Apr 2023 16:59 UTC
+! Last modified: 10 Apr 2023 17:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1397,6 +1397,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||bhc06.de/getattachment/*/sparkasse_remscheid.jpg
 ||bhc06.de/getattachment/*/sparkasse_solingen.jpg
 ||bhc06.de/getattachment/*/Wilkinson-Logo.jpg
+||biete6.ch/images/banner/
 ||bildschirmarbeiter.com/content/upload2/
 ||bitcoinnews.ch/bitcoin_mit_kreditkarte_kaufen.jpg
 ||bitcoinnews.ch/bitwala-bitcoin.jpg
@@ -4220,6 +4221,7 @@ nsladies.de##.webcam-premium
 seekxl.de##.welcome
 nydus.org,sbb.it##.werb
 dolomiten.de,fernsehserien.de##.werbemittel
+biete6.ch##.werbepartner
 ariva.de##.werbeplaetze_button
 wetter.com##.werbung:not(.toolbar-wrapper)
 weltwoche.ch##.werbungSmall
