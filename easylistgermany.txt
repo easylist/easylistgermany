@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304101649
+! Version: 202304101650
 ! Title: EasyList Germany
-! Last modified: 10 Apr 2023 16:49 UTC
+! Last modified: 10 Apr 2023 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2873,7 +2873,7 @@ immo4trans.de###halfpage-banner
 perfektdamen.co###hat_message
 belgieninfo.net###head_banner
 mtb-news.de###header
-archiexpo.de,directindustry.de,medicalexpo.de,nauticexpo.de###header-banner
+archiexpo.de,directindustry.de,medicalexpo.de,nauticexpo.de,rotelaterne.de###header-banner
 mtb-news.de###header-banner-mobile
 preis.de###header-image-js
 diegrenzgaenger.lu###header-wrapper + div[class="row "]
@@ -2924,6 +2924,7 @@ filmz.de###m > div[style="left:16px;width:468px;overflow:hidden"] + .p[style="le
 m.mobile.de###m_vip_slot_2
 m.mobile.de###m_vip_top
 t-online.de,www-t--online-de.cdn.ampproject.org###ma_mrec
+rotelaterne.de###main-banner
 hc-erlangen.de###main-sponsor
 ef-magazin.de###marktplatz
 africa-positive.de###masthead
