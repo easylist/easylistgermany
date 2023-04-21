@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304191330
+! Version: 202304211149
 ! Title: EasyList Germany
-! Last modified: 19 Apr 2023 13:30 UTC
+! Last modified: 21 Apr 2023 11:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2610,7 +2610,7 @@ slashcam.de###MEDMRECHome3Lazy
 kinderspiele-welt.de###MR
 mtb-news.de###MTB_M_ROS_Sticky
 skiinfo.de###Mid
-elektrikforen.de,megane-board.de,windows-7-forum.net###MidRectangle
+bauexpertenforum.de,elektrikforen.de,megane-board.de,windows-7-forum.net###MidRectangle
 chip.de###R1C1
 chip.de###R1C2
 chip.de###R1C3
@@ -2918,6 +2918,7 @@ abload.de###layerright
 tellows.de###lb_header
 1erforum.de,bauexpertenforum.de,dasheimwerkerforum.de,fitness-foren.de,lpgforum.de,mazda-forum.info,megane-board.de,mercedes-forum.com,notebookforum.at,pkw-forum.de,skodacommunity.de,toyota-forum.de,vermieter-forum.com,windows-7-forum.net###leader_top_desk
 anrufer.info,bergsteiger.de,hardwareluxx.de,skiinfo.ch,skiinfo.com,skiinfo.de,spieletipps.de,videoaktiv.de###leaderboard
+bauexpertenforum.de###leaderboardBelowNav
 koelner.de###leaderboard_nav
 anime-loads.org###leaderwidget
 macwelt.de,pcwelt.de###leadfullWrapper
