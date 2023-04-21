@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304211149
+! Version: 202304211151
 ! Title: EasyList Germany
-! Last modified: 21 Apr 2023 11:49 UTC
+! Last modified: 21 Apr 2023 11:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2702,6 +2702,7 @@ testedich.ch,testedich.de###banner-top-all-viewports
 kriminalpolizei.de###banner-wrapper-right-v3
 kriminalpolizei.de###banner-wrapper-top-v1
 altertuemliches.at###banner5
+bbheute.de###bannerLink
 erotik.quoka.de###bannerResultRegio
 nrhz.de###banner_container_rc
 geemag.de###banner_content
@@ -4569,7 +4570,7 @@ amazon.de##div[id^="sp_detail"]
 20min.ch##div[id^="sport__inside-"]
 supertipp-online.de##div[id^="super-"]
 tippscout.de##div[id^="tipps-"]
-berliner-zeitung.de,blick.de,donaukurier.de,frankenpost.de,mopo.de,pnp.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
+bbheute.de,berliner-zeitung.de,blick.de,donaukurier.de,frankenpost.de,mopo.de,pnp.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
 20min.ch##div[id^="wettbewerbe__inside-"]
 20min.ch##div[id^="wirtschaft__inside-"]
 20min.ch##div[id^="wissen__inside-"]
