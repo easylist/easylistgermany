@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304211329
+! Version: 202304211337
 ! Title: EasyList Germany
-! Last modified: 21 Apr 2023 13:29 UTC
+! Last modified: 21 Apr 2023 13:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -753,6 +753,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||flatad.de^$third-party
 ||flymangoo.com^$third-party
 ||forced-layer.de^$third-party
+||fotoscaseras.top^$third-party
 ||frvfrv.com^$third-party
 ||gamesaffiliate.de^$third-party
 ||gamigoads.com^$third-party
@@ -900,6 +901,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||websc.org^$third-party
 ||webspiration.de^$third-party
 ||werbeflut.net^$third-party
+||wowpornlist.xyz^$third-party
 ||wwm24.de^$third-party
 ||www.p.de^$third-party
 ||wz-adserver.de^$third-party
