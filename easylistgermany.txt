@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304231712
+! Version: 202304231714
 ! Title: EasyList Germany
-! Last modified: 23 Apr 2023 17:12 UTC
+! Last modified: 23 Apr 2023 17:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2340,6 +2340,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||unterwasserwelt.de/wp-content/uploads/*/Cressi-premiumsite-
 ||unterwasserwelt.de/wp-content/uploads/*/Footer-Premiumsite-
 ||unterwasserwelt.de/wp-content/uploads/*/hamatamangroves-banner_footer-premiumsite-
+||uscene.net/src/so/so.js
 ||velomotion.de^*/featured-ad.js
 ||vfb.de/?proxy=img/hauptsponsor_
 ||vfb.de^*/sponsoren/
