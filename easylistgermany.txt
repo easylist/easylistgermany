@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304231609
+! Version: 202304231712
 ! Title: EasyList Germany
-! Last modified: 23 Apr 2023 16:09 UTC
+! Last modified: 23 Apr 2023 17:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4699,6 +4699,7 @@ nh24.de##img[width="330"][height="220"]
 mikanews.de##img[width="400"][height="100"]
 teneriffa-aktuell.com##img[width="450"][height="300"]
 teneriffa-aktuell.com##img[width="450"][height="700"]
+ebook-land.cc##img[width="468"]
 lexolino.de##img[width="468"][height="60"]
 teneriffa-aktuell.com##img[width="500"]
 basicthinking.de##img[width="500"][height="500"]
