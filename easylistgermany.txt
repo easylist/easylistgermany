@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304231723
+! Version: 202304231726
 ! Title: EasyList Germany
-! Last modified: 23 Apr 2023 17:23 UTC
+! Last modified: 23 Apr 2023 17:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -725,6 +725,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||crmpilot.it^$third-party
 ||cuiron.de^$third-party
 ||cussixia.de^$third-party
+||cyonix.to^$third-party
 ||data-analyst.biz^$third-party
 ||de-ads.de^$third-party
 ||def-platform.com^$third-party
@@ -1926,6 +1927,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||motorrad2000.de/wp-content/uploads/*/8fa952cba73b0d4fbf043e9be45cb366.gif
 ||motorrad2000.de/wp-content/uploads/*/b67500ab7a18a07b9ef79e89bd077568.gif
 ||motorradundreisen.de^*/banner/
+||movie-share.one/images/banners/
 ||msecnd.net/endpoint/shipment/$domain=merkurist.de
 ||mtb-news.de/news/wp-content/plugins/mtbn-ads/
 ||mtb-news.de/news/wp-content/uploads/*/takeover-
@@ -4693,7 +4695,7 @@ mikanews.de##img[width="180"][height="120"]
 kultur-port.de,utvmagazin.de##img[width="200"][height="600"]
 messweb.de##img[width="250"]
 fcschweinfurt1905.de##img[width="280"][height="160"]
-basicthinking.de,buecher-magazin.de,fotoobjektiv.at,iplayapps.de,pi-news.net,radio-oldtimer.de,radiotirol.it,silentworld.eu,suedtirol1.it,tarnkappe.info,va-music-hits.one##img[width="300"]
+basicthinking.de,buecher-magazin.de,fotoobjektiv.at,iplayapps.de,movie-share.one,pi-news.net,radio-oldtimer.de,radiotirol.it,silentworld.eu,suedtirol1.it,tarnkappe.info,va-music-hits.one##img[width="300"]
 mikanews.de##img[width="300"][height="150"]
 gamepro.de##img[width="300"][height="246"]
 arbeitsunrecht.de,boxen.de,fruchthandel.de,mygermantimes.com,pornofilm.zone,stadt-bremerhaven.de,via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
