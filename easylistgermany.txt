@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304291628
+! Version: 202304291704
 ! Title: EasyList Germany
-! Last modified: 29 Apr 2023 16:28 UTC
+! Last modified: 29 Apr 2023 17:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1051,6 +1051,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||happyweekend-community.com/banner/
 ||heutenochficken.com/banner/$third-party
 ||hofmann.info^$subdocument,domain=sgf1903.de
+||hubu.cloud/app/js/md/
 ||hubu.cloud/app/js/med/
 ||hubu.cloud/app/js/media/
 ||hubu.cloud/vast/
