@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202304291305
+! Version: 202304291309
 ! Title: EasyList Germany
-! Last modified: 29 Apr 2023 13:05 UTC
+! Last modified: 29 Apr 2023 13:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4402,6 +4402,7 @@ pcwelt.de##a[href^="https://get.surfshark.net/aff_c?"]
 denkmalpflege-schweiz.ch,pornotim.com,reiseziele.ch,xhamsterde.com##a[href^="https://goo.gl/"]
 tarnkappe.info##a[href^="https://hide.me/de/promotion/"]
 hoerbuch.us##a[href^="https://hoerbuch.us/dll/"]
+ibooks.to##a[href^="https://ibooks.to/smart/"]
 blick.ch##a[href^="https://jackpot.onelink.me/"]
 hoerbuch.us##a[href^="https://linksnappy.com/?ref="]
 amor-frau.com##a[href^="https://lp.amateurcommunity.com/"]
@@ -4669,6 +4670,7 @@ werkenntdenbesten.de##div[x-data="modules.ad()"] + span
 werkenntdenbesten.de##div[x-data^="modules.adMedia"]
 ibooks.to##form[action="https://ibooks.to/smartland/?"]
 ibooks.to##form[action^="https://ibooks.to/daddel/"]
+ibooks.to##form[action^="https://ibooks.to/smart/"]
 reimmaschine.de##iframe[src="/more"]
 190.115.18.20,aniworld.to,s.to##iframe[style*="z-index: 2147483647"]
 windowspro.de##iframe[style="height:250px;overflow: hidden;"]
