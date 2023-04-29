@@ -766,6 +766,7 @@ aerzteblatt.de##.anzeigenbox
 reiseblog7.com##.ap
 willhaben.at##.apn-leaderboard-wrapper
 oefb.at##.app-foesvAdSpace
+chip.de##.app_nexus_banners_common
 blick.ch##.appnexus-container
 heise.de##.article-layout__header-wrbng
 computerbase.de##.article-view__rectangle
@@ -1714,6 +1715,7 @@ pornhutdeutsch.com##[href^="https://susi.live/"]
 pornhutdeutsch.com##[href^="https://www.zubivu.com/"]
 chip.de##[onclick*="/screen13."]
 chip.de##[onclick*="://network.screen13.com/"]
+chip.de##[onclick*="www.nah-versorger.de/"]
 ddl-warez.cc##[onclick^="window.location.href='/azn/"]
 chip.de##[style*="/screen13."]
 chip.de##[style*="://network.screen13.com/"]
@@ -2037,6 +2039,7 @@ gamereactor.de##div[style="min-height: 600px; margin-bottom: 20px;"]
 android-hilfe.de##div[style="min-height:265px;"]
 nn.de,nordbayern.de##div[style="min-height:290px"]
 winfuture.de##div[style="min-width: 300px; min-height: 250px;"]
+chip.de##div[style="min-width:1px;min-height:250px;"]
 nydus.org##div[style="overflow:hidden;border: 1px solid #ccc;background:#f7f7f7;border-radius:3px;"]
 quoka.de##div[style="overflow:hidden;text-align:center;position:relative;height:300px;"]
 sprachnudel.de##div[style="padding:5px 0 5px 0;"][align="center"]
