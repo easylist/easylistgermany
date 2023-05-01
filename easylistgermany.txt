@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305011420
+! Version: 202305011427
 ! Title: EasyList Germany
-! Last modified: 01 May 2023 14:20 UTC
+! Last modified: 01 May 2023 14:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4584,6 +4584,7 @@ tonspion.de##div[id^="netse-"]
 noz.de##div[id^="nozmhn_ad_"]
 frustfrei-lernen.de##div[id^="npm_"]
 nydus.org##div[id^="nydus_org_300x600_"]
+radiosaw.de##div[id^="oms_gpt_"]
 20min.ch##div[id^="onelove__inside-"]
 20min.ch##div[id^="ostschweiz__inside-"]
 formel1.de##div[id^="outer_sas_"]
