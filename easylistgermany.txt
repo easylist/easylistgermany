@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305011427
+! Version: 202305011758
 ! Title: EasyList Germany
-! Last modified: 01 May 2023 14:27 UTC
+! Last modified: 01 May 2023 17:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2720,6 +2720,7 @@ testedich.ch,testedich.de###banner-top-all-viewports
 kriminalpolizei.de###banner-wrapper-right-v3
 kriminalpolizei.de###banner-wrapper-top-v1
 altertuemliches.at###banner5
+tippspiel.wa.de###bannerContainer
 bbheute.de###bannerLink
 erotik.quoka.de###bannerResultRegio
 nrhz.de###banner_container_rc
@@ -4087,6 +4088,7 @@ fla.de##.skyscrapper-left
 fla.de##.skyscrapper-right
 boxverband.at##.slick-track
 aedt.de##.slide-box
+tippspiel.wa.de##.sliderContainer
 suche6.ch##.slideshow
 wallis24.it##.slideshowck
 finanznachrichten.de##.smartbroker--text
