@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305011329
+! Version: 202305011340
 ! Title: EasyList Germany
-! Last modified: 01 May 2023 13:29 UTC
+! Last modified: 01 May 2023 13:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1049,6 +1049,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||hallimash.com/werber/$third-party
 ||hamster.cc^*.php$subdocument,third-party
 ||happyweekend-community.com/banner/
+||heise.de/assets/pvg/widget.js$domain=hamburg-magazin.de|kiel-magazin.de|luebeck-magazin.de
 ||heutenochficken.com/banner/$third-party
 ||hofmann.info^$subdocument,domain=sgf1903.de
 ||hubu.cloud/app/js/md/
@@ -3987,6 +3988,7 @@ tchgdns.de##.pub-single-side
 mallorcazeitung.es##.publi_cabecera_270
 mallorcazeitung.es##.publi_mega
 mallorcamagazin.com##.publicidad
+hamburg-magazin.de,kiel-magazin.de,luebeck-magazin.de##.pvg-widget
 lifechannel.ch##.pz_cont
 radiobeo.ch##.qf-standard-banner-wrapp
 teneriffa-news.com##.qm-head
