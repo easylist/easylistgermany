@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305011758
+! Version: 202305011800
 ! Title: EasyList Germany
-! Last modified: 01 May 2023 17:58 UTC
+! Last modified: 01 May 2023 18:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3920,6 +3920,7 @@ tschechien-online.org##.pane-aktuelle-top-links
 grenzecho.net##.pane-dpipub-rossel-imu-middle-moblile
 grenzecho.net##.pane-dpipub-rossel-native-top
 fotomagazin.de##.pane-landing-advertorial
+isnichwahr.de##.pane-simpleads-ad-groups-9
 oekoportal.de##.panel-display > .panel-col-side > #block-views-website-block-1
 mytastedeu.com##.panorama
 paradiso.de##.paradiso-hp-ads-horizontal
@@ -4011,6 +4012,7 @@ anisearch.de##.rect_sidebar
 fussballdaten.de,i-fidelity.net,metal.de,modhoster.de,rheintaler.ch,telepolis.de##.rectangle
 hifistatement.net##.rectangles-row
 radioguetersloh.de##.rectright
+isnichwahr.de##.region-head-adbar-left
 jungle.world##.region-topad
 1000ps.at##.reifen-winter
 economyaustria.at##.ressort_ad
