@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305081717
+! Version: 202305091553
 ! Title: EasyList Germany
-! Last modified: 08 May 2023 17:17 UTC
+! Last modified: 09 May 2023 15:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4939,6 +4939,8 @@ marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
 mediamarkt.de,saturn.de#?#div[data-test="mms-search-srp-productlist-item"]:-abp-has([class^="StyledSponsoringInnerWrapper"])
 meinbezirk.at#?#.article-list-item.article-card.article-card-default:-abp-has(.commercial-tag)
 meissen-fernsehen.de#?#.text-center:-abp-contains(- Werbung -)
+metager.de#?#.result:-abp-has(.advertisement-mark)
+metager.de#?#.result:-abp-has(span:-abp-contains(Partnershop))
 mmnews.de#?#.sp-module:-abp-has(span:-abp-contains(Kleinanzeigen))
 mopo.de#?#.main-preview:-abp-has(.anzeige-label)
 mopo.de#?#.slider-preview:-abp-has(.anzeige-label)
