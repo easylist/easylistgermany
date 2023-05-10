@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305101430
+! Version: 202305101607
 ! Title: EasyList Germany
-! Last modified: 10 May 2023 14:30 UTC
+! Last modified: 10 May 2023 16:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1219,6 +1219,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||wazazu.com/pimage/bas/$third-party
 ||wazazu.com/pimage/sdc/$third-party
 ||wazazu.com/pimage/visit-x/$third-party
+||webinstaller.gartenplanze.de^
 ||weekli.de/widget-loader?$third-party
 ||weekli.systems/www/widgets/$third-party
 ||werbemittel.adisfaction.de^$third-party
@@ -1404,6 +1405,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||belgieninfo.net/wp-content/uploads/*/IDSB-Unser-Partner.jpg
 ||belgieninfo.net/wp-content/uploads/*/Verhellen.jpg
 ||beobachter-online.de^*/banner/
+||bergdamm.de^$domain=chip.de
 ||berlinertageszeitung.de/images/banners/
 ||bhc06.de/getattachment/*/becker.jpg
 ||bhc06.de/getattachment/*/forst.jpg
@@ -4490,6 +4492,7 @@ allround-pc.com##a[rel="external noopener"] > img[src^="/"]
 allround-pc.com##a[rel="noopener external"] > img[src^="/"]
 herz-fuer-tiere.de,schweizer-illustrierte.ch##a[rel="sponsored"]
 andalusien-aktuell.es,sex4u.ch##a[rel^="sponsored"]
+chip.de##a[style*="://bergdamm.de/"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 macuser.de,usp-forum.de##article.message--post:not([data-author])
