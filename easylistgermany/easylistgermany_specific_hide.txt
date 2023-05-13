@@ -168,9 +168,9 @@ duden.de###block-lexemleaderboardunten
 windowspro.de###block-views-sponsoredcontent-block
 windowspro.de###block-views-sponsoredpromo-block
 esport.cologne###brands
-ebay-kleinanzeigen.de###brws_banner-supersize
+kleinanzeigen.de###brws_banner-supersize
 formel1.de###bs-container
-ebay-kleinanzeigen.de###btf-billboard
+kleinanzeigen.de###btf-billboard
 gekonntgekocht.de###buybox
 vsport.at###c17
 dsv.de###c3296
@@ -335,12 +335,12 @@ bauexpertenforum.de###leaderboardBelowNav
 koelner.de###leaderboard_nav
 anime-loads.org###leaderwidget
 macwelt.de,pcwelt.de###leadfullWrapper
-ebay-kleinanzeigen.de###liberty-home-above-header
-ebay-kleinanzeigen.de###liberty-home-billboard
-ebay-kleinanzeigen.de###liberty-vip-billboard
-ebay-kleinanzeigen.de###liberty-vip-middle
-ebay-kleinanzeigen.de###liberty-zsrp-bottom
-ebay-kleinanzeigen.de###liberty-zsrp-top-banner
+kleinanzeigen.de###liberty-home-above-header
+kleinanzeigen.de###liberty-home-billboard
+kleinanzeigen.de###liberty-vip-billboard
+kleinanzeigen.de###liberty-vip-middle
+kleinanzeigen.de###liberty-zsrp-bottom
+kleinanzeigen.de###liberty-zsrp-top-banner
 lmdfdg.com###link_placeholder
 bbc-magazin.com###logo-right-widget
 adspecials.sevenonemedia.de###logoFalken
@@ -1175,7 +1175,7 @@ onvista.de##.isSponsored
 islamische-zeitung.de##.islam-widget
 buffed.de,pcgames.de##.item + .at_sponsored > .itemHeadline
 pragerzeitung.cz##.item-advert
-ebay-kleinanzeigen.de##.j-liberty-wrapper
+kleinanzeigen.de##.j-liberty-wrapper
 gamepro.de,gamestar.de##.jad-placeholder
 computerbild.de##.jobbioTeaser
 interaktiv.tagesspiegel.de##.jobunion-container
@@ -1928,7 +1928,7 @@ volksblatt.at##div[data-div-ratios="default:300_250"]
 volksblatt.at##div[data-div-ratios="default:696_280|500:300_250"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[data-dy*="Partner:"]
 apfelpage.de##div[data-embed-provider="rcm-eu-amazon-adsystem-com"]
-ebay-kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
+kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
 t-online.de##div[data-testid="TaboolaFeeds.Feed"]
 sportbild.bild.de##div[data-tr-doc-type="dt=InlineAd|st=BTOAdTag"]
 giga.de##div[data-trigger="sourcepoint-ad"]
