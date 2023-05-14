@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305141721
+! Version: 202305141723
 ! Title: EasyList Germany
-! Last modified: 14 May 2023 17:21 UTC
+! Last modified: 14 May 2023 17:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2363,6 +2363,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||viamichelin.at/static/*/adblocker/advertising.js
 ||viamichelin.ch/static/*/adblocker/advertising.js
 ||viamichelin.de/static/*/adblocker/advertising.js
+||videogameszone.de/tsimg/topbanner/
 ||vidonna.de/300$subdocument
 ||vienna-capitals.at/tl_files/capitals/banner/
 ||vienna-capitals.at/tl_files/capitals/partner/
