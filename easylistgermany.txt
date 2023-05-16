@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305151705
+! Version: 202305161317
 ! Title: EasyList Germany
-! Last modified: 15 May 2023 17:05 UTC
+! Last modified: 16 May 2023 13:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4545,6 +4545,7 @@ t-online.de,www-t--online-de.cdn.ampproject.org##div[data-dy*="Partner:"]
 apfelpage.de##div[data-embed-provider="rcm-eu-amazon-adsystem-com"]
 kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
 t-online.de##div[data-testid="TaboolaFeeds.Feed"]
+sport1.de##div[data-testid="better-collective"]
 sportbild.bild.de##div[data-tr-doc-type="dt=InlineAd|st=BTOAdTag"]
 giga.de##div[data-trigger="sourcepoint-ad"]
 prosiebengames.de##div[data-url-link^="https://track-adspree.com/"]
