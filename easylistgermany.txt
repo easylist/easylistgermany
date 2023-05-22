@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305181432
+! Version: 202305221602
 ! Title: EasyList Germany
-! Last modified: 18 May 2023 14:32 UTC
+! Last modified: 22 May 2023 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4370,6 +4370,7 @@ ddl-warez.cc,ostfussball.com##a[href*="/out/"]
 bild.de##a[href*="/partner/"]
 tarnkappe.info##a[href*="/prf.hn/click/"]
 emtb-news.de,ladies.de,mtb-news.de##a[href*="/redirect/"]
+ibooks.to##a[href*="/smland/?"]
 tarnkappe.info##a[href*="?sca_ref="]
 finanzen.net##a[href="#p500Werbehinweis"]
 areadvd.de##a[href="/panasonic_de"]
@@ -4940,6 +4941,7 @@ hornoxe.com#?#h2.storytitle:-abp-has(a[href^="https://bit.ly/"]) + p + div.clear
 hornoxe.com#?#h2.storytitle:-abp-has(a[href^="https://www.amazon.de/"])
 hornoxe.com#?#h2.storytitle:-abp-has(a[href^="https://www.amazon.de/"]) + p
 hornoxe.com#?#h2.storytitle:-abp-has(a[href^="https://www.amazon.de/"]) + p + div.clear + div.infobox
+ibooks.to#?#form:-abp-has(i.fa-download)
 imsueden.de#?#.swiper:-abp-has(.headline:-abp-contains(Partner))
 inside-digital.de#?#.td_module_ih_current_news:-abp-has(.spo)
 jameda.de#?#li:-abp-has([data-testid="advertisementSign-flag"])
