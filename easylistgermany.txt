@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305231621
+! Version: 202305231722
 ! Title: EasyList Germany
-! Last modified: 23 May 2023 16:21 UTC
+! Last modified: 23 May 2023 17:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1029,7 +1029,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||fastad.beepworld.de^
 ||fettverbrennen.net/bilder/banner/
 ||files.kartenlegen.gratis^$third-party
-||financeads.net/tb.php$third-party
 ||finanzen.net/partner/$subdocument,third-party,domain=~finanzen.at
 ||fireradio.fm/img/banner/$third-party
 ||flirty.com/?pr=*&wm=$subdocument,third-party
