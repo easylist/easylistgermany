@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305231722
+! Version: 202305281728
 ! Title: EasyList Germany
-! Last modified: 23 May 2023 17:22 UTC
+! Last modified: 28 May 2023 17:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4534,6 +4534,7 @@ rundschau.info##div[class^="runds-werbung-"]
 berliner-zeitung.de##div[class^="traffective_"]
 winfuture.de##div[class^="ws_contentAd"]
 amazon.de##div[data-ad-id]
+welt.de##div[data-ad]
 rtl.de,vox.de##div[data-adformat="halfpage"]
 rtl.de,vox.de##div[data-adformat="rectangle"]
 gmx.net,web.de##div[data-adservice-slot]
