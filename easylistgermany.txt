@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305291633
+! Version: 202305301735
 ! Title: EasyList Germany
-! Last modified: 29 May 2023 16:33 UTC
+! Last modified: 30 May 2023 17:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3413,7 +3413,7 @@ hsc2000.de##.avia-slideshow-1
 nrwhits.de##.ax-medium-rectangle-n
 az.com.na##.az-adverts
 blitzrechner.de##.azimg
-abmahnung.org##.azk-native-responsive
+abmahnung.org,arbeitslosenselbsthilfe.org##.azk-native-responsive
 fcaugsburg.de##.b-logo-listing
 hardwareschotte.de##.ba-fullsize
 browsergames.de##.background
