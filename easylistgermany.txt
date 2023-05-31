@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305301735
+! Version: 202305310428
 ! Title: EasyList Germany
-! Last modified: 30 May 2023 17:35 UTC
+! Last modified: 31 May 2023 04:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4364,6 +4364,7 @@ hd-source.to##a[href*="/af.php"]
 6chat.org##a[href*="/b1a8/"]
 amigafuture.de##a[href*="/boardheaderads/"]
 erogeschichten.com##a[href*="/go/"]
+osthessen-news.de##a[href*="/goto.php?"]
 tarnkappe.info##a[href*="/hide.me/de/?friend="]
 3druck.com,cannabis-special.com,supertipp-online.de##a[href*="/linkout/"]
 ddl-warez.cc,ostfussball.com##a[href*="/out/"]
