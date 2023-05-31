@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202305310759
+! Version: 202305311621
 ! Title: EasyList Germany
-! Last modified: 31 May 2023 07:59 UTC
+! Last modified: 31 May 2023 16:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3401,6 +3401,7 @@ bitreporter.de##.asa2_fbva_wrapper
 fitforfun.de##.aside-rectangle
 hottime.ch##.asideBoxB
 hockeyweb.de,scienceblogs.de,tourenfahrer.de,unicum.de,wissen.de,wissenschaft.de##.asm_async_creative
+will-mixen.de##.astra-advanced-hook-67722
 ichkoche.at##.asyncBanner
 pcgameshardware.de##.at_sponsored
 gartenratgeber.net##.atkp-container
@@ -4603,6 +4604,7 @@ journalistenwatch.com##div[id^="journ-"]
 20min.ch##div[id^="lifestyle_wein__inside-"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="ma_ar"]
 bergsteiger.de##div[id^="medium_rectangle"]
+will-mixen.de##div[id^="mixena-"]
 mo-web.de##div[id^="moads-"]
 modified-shop.org##div[id^="modifiedwerbung_"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="mrec"]
