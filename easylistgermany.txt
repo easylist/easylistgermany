@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306011342
+! Version: 202306011343
 ! Title: EasyList Germany
-! Last modified: 01 Jun 2023 13:42 UTC
+! Last modified: 01 Jun 2023 13:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3988,6 +3988,7 @@ prinz.de##.prinz-info--lb
 songtexte.com##.prmtnContentMin
 songtexte.com##.prmtnKeepHeight
 ariva.de##.prodo-shadow
+kaufland.de##.product--sponsored
 maclife.de##.productbox
 zentrum-der-gesundheit.de##.products-inarticle-slider--parent
 aktionspreis.de##.produkt_uebersicht > div > br.clear
