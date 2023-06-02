@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306021418
+! Version: 202306021700
 ! Title: EasyList Germany
-! Last modified: 02 Jun 2023 14:18 UTC
+! Last modified: 02 Jun 2023 17:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1083,6 +1083,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||laptops-fair.de/img/$third-party
 ||lcmmedia.de/kamp/
 ||lead-alliance.net/tb.php$third-party
+||lebt-noch.de^$domain=chip.de
 ||lieferando.de/widgets/$subdocument,third-party
 ||logiprint.com/partner/$third-party
 ||lotto-hh.de/lh/widget1/$subdocument,third-party
@@ -1688,6 +1689,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||gota6.ch/images/partner/
 ||gota6.ch/images/uploads/*/clubBannerPremium/
 ||gota6.ch/images/uploads/*/overlay/
+||graltek.net/php/amzad_$xmlhttprequest
 ||griechenland.net/images/banners/
 ||griechenlandaktuell.gr/_borders/agrafik_urlaubsreklamation1.jpg
 ||griechenlandaktuell.gr/_borders/faehren_info_w.gif
@@ -4442,6 +4444,7 @@ tarnkappe.info##a[href^="https://hide.me/de/promotion/"]
 hoerbuch.us##a[href^="https://hoerbuch.us/dll/"]
 ibooks.to##a[href^="https://ibooks.to/smart/"]
 blick.ch##a[href^="https://jackpot.onelink.me/"]
+chip.de##a[href^="https://lebt-noch.de/"]
 hoerbuch.us##a[href^="https://linksnappy.com/?ref="]
 amor-frau.com##a[href^="https://lp.amateurcommunity.com/"]
 pornkinox.to##a[href^="https://lp.mydirtyhobby.com/"]
