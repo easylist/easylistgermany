@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306051638
+! Version: 202306061622
 ! Title: EasyList Germany
-! Last modified: 05 Jun 2023 16:38 UTC
+! Last modified: 06 Jun 2023 16:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2159,6 +2159,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||schule-studium.de/images/Head-Dateien-jpgs/Thalia-Startseite.jpg
 ||schwany.de/images/Slider1-Tyrolis-music-shop-Banner-
 ||scm-handball.de^*/Sponsoren/
+||script.webinstaller.$domain=chip.de
 ||segelflug.de/images/2018/banner_
 ||segeljournal.com/wp-content/uploads/*/730x90_
 ||segeljournal.com/wp-content/uploads/*_webbanner_
@@ -4547,6 +4548,7 @@ via-ferrata.de##div[class^="overlay-"]
 grenzecho.net##div[class^="pane-dpipub-"]
 pictures-magazin.de##div[class^="pictu-"]
 rundschau.info##div[class^="runds-werbung-"]
+chip.de##div[class^="rv-di-step__"]:not(.rv-di-step__footer)
 berliner-zeitung.de##div[class^="traffective_"]
 winfuture.de##div[class^="ws_contentAd"]
 amazon.de##div[data-ad-id]
