@@ -1897,6 +1897,7 @@ chip.de##a[style*="://bergdamm.de/"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 macuser.de,usp-forum.de##article.message--post:not([data-author])
+otto.de##article[data-producttile-tracking*="wk.san_ProductType\":\"sponsored\""]
 blick.ch##aside[id^="appnexus-placement"]
 weristdeinfreund.de##aside[id^="banner"]
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
