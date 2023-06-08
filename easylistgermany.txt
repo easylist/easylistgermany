@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306081800
+! Version: 202306081811
 ! Title: EasyList Germany
-! Last modified: 08 Jun 2023 18:00 UTC
+! Last modified: 08 Jun 2023 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -101,6 +101,7 @@
 /werbeanzeigen/*
 /werbebanner-
 /werbebanner.
+/werbebanner/*
 /werbebanner2.
 /werbebanner_
 /werbebannerneu/*
@@ -213,6 +214,7 @@ _woz_banner_vote.
 ###ar_detail_werb103
 ###bannerwerbung
 ###block-views-Topsponsoren-block_1
+###block-werbung
 ###callya_freikarte_layer
 ###cnt_bgwerbung
 ###cont-werb
@@ -1902,6 +1904,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Elecars_Weblink_bouton.jpg
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Guav-Banner.png
 ||luxprivat.lu/uploads/tx_luxprivat/tx_ads/Pub_CPE_01.jpg
+||macgadget.de/mgbanner/
 ||mailcdn.de/w.php?$domain=mail.de
 ||mainpost.de/storage/image/*_kickers-sponsor-
 ||mainz05.de/fileadmin/_processed_/*-Sponsorenlogos_
@@ -2776,6 +2779,7 @@ finanzen-nerd.de###block-2
 realtotal.de###block-3
 finanzen-nerd.de###block-7
 jungle.world###block-anzeige
+macgadget.de###block-anzeige2
 zum.de###block-block-14
 hoerzu.de###block-block-217
 hoerzu.de###block-block-218
@@ -2787,6 +2791,9 @@ buecher-magazin.de###block-block-8
 duden.de###block-dudende-d-970x250-1billboard
 duden.de###block-leaderboard2ndslot
 duden.de###block-lexemleaderboardunten
+macgadget.de###block-macgadget-anzeigen-3
+macgadget.de###block-macgadget-textwerbunglinks1
+macgadget.de###block-macgadget-verlosung
 windowspro.de###block-views-sponsoredcontent-block
 windowspro.de###block-views-sponsoredpromo-block
 esport.cologne###brands
