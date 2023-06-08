@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306071237
+! Version: 202306081203
 ! Title: EasyList Germany
-! Last modified: 07 Jun 2023 12:37 UTC
+! Last modified: 08 Jun 2023 12:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2996,6 +2996,9 @@ wallstreet-online.de###mooTickerContainerMobile
 gamereactor.de###mpu
 bild.de,bz-berlin.de,finanzen.net###mrec
 hoerzu.de###mrec-wrapper
+rezeptwelt.de###mso-dplusc-banner_1
+rezeptwelt.de###mso-dplusc-banner_2
+rezeptwelt.de###mso-dplusc-banner_5
 meetingpoint-brandenburg.de###myspacerinner
 meetingpoint-brandenburg.de###myspacerright
 wissens-quiz.de###naMediaAd_MR_WRAPPER
