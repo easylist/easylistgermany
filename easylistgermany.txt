@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306081811
+! Version: 202306091340
 ! Title: EasyList Germany
-! Last modified: 08 Jun 2023 18:11 UTC
+! Last modified: 09 Jun 2023 13:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1675,6 +1675,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||german-porno-deutsch.info/bilder/kommrein.jpg
 ||german-porno-deutsch.info/bilder/whatssex.jpg
 ||german-porno-deutsch.info/src11/
+||germancorrector.com/cnc/
 ||germanscooterforum.de/bannermanagement/
 ||glarus24.ch/uploads/tx_xeiroads/
 ||gn-online.de/ad/
@@ -3991,6 +3992,7 @@ zuckerporno.com##.pornofilme_recht
 reise-preise.de##.port.hi
 iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:center;"]
 hartware.de##.postanzeige
+swz.it##.pr
 ostbelgiendirekt.be##.pr-area
 prad.de##.prad-td-header-sp-recs
 oljo.de##.preisboxinner
