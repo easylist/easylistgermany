@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306131411
+! Version: 202306131742
 ! Title: EasyList Germany
-! Last modified: 13 Jun 2023 14:11 UTC
+! Last modified: 13 Jun 2023 17:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5156,6 +5156,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||stylebook.de^$generichide
 @@||sueddeutsche.de^$generichide
 @@||symplr.de^$script,domain=ableitungsrechner.net|integralrechner.de
+@@||tdn.da-services.ch/current/20min_durable.js$domain=20min.ch
 @@||techbook.de^$generichide
 @@||transfermarkt.de^$generichide
 @@||travelbook.de^$generichide
