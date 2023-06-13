@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306131204
+! Version: 202306131411
 ! Title: EasyList Germany
-! Last modified: 13 Jun 2023 12:04 UTC
+! Last modified: 13 Jun 2023 14:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2895,7 +2895,7 @@ swiss-divers.ch###execphp-3
 fremdwort.de###ezisgib
 bundesliga-streams.net###fcnbox
 uhrforum.de###fh-div
-autoextrem.de,skodacommunity.de,uhrforum.de###fh-inside-bottom
+autoextrem.de,roboter-forum.com,skodacommunity.de,uhrforum.de###fh-inside-bottom
 autoextrem.de,skodacommunity.de,usp-forum.de,win-10-forum.de,winboard.org###fh-outside-top
 spreeblick.com###flattr > a
 spreeblick.com###flattr > p
@@ -3075,6 +3075,8 @@ gebraucht-kaufen.de###right-banners
 nydus.org###right160x600
 tvhalle.de###rightCont
 einrichtungsbeispiele.de###rightcolumndiv
+roboter-forum.com###roboter-forum\.com_mpu_bot
+roboter-forum.com###roboter-forum\.com_mpu_top
 rollertuningpage.de###rollertuningpage\.de_lb_1
 rollertuningpage.de###rollertuningpage\.de_sitebar_1
 rollertuningpage.de###rollertuningpage\.de_sitebar_2
