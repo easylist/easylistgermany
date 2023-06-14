@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306131742
+! Version: 202306141647
 ! Title: EasyList Germany
-! Last modified: 13 Jun 2023 17:42 UTC
+! Last modified: 14 Jun 2023 16:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -622,8 +622,12 @@ wetter.com#@#div[id^="div-gpt-"]
 ||alleswegenmicha.de^
 ||aluhutmafia.de^
 ||bd742.com^
+||cdu-offline.de^
 ||dierussensindschuld.de^
 ||gayads.biz^
+||gema-online.de^
+||holyjesus.de^
+||spd-spenden.de^
 ||wirverkaufennichts.de^
 ||wixnm.com^
 ! 
@@ -1056,6 +1060,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||hubu.cloud/app/js/md/
 ||hubu.cloud/app/js/med/
 ||hubu.cloud/app/js/media/
+||hubu.cloud/app/js/pux/
 ||hubu.cloud/vast/
 ||hurenkartei.com/teaser-$third-party
 ||hyp-tech.com/img/$third-party
