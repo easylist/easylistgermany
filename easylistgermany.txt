@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306141719
+! Version: 202306151534
 ! Title: EasyList Germany
-! Last modified: 14 Jun 2023 17:19 UTC
+! Last modified: 15 Jun 2023 15:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3826,6 +3826,7 @@ pragerzeitung.cz##.item-advert
 kleinanzeigen.de##.j-liberty-wrapper
 gamepro.de,gamestar.de##.jad-placeholder
 computerbild.de##.jobbioTeaser
+nextpit.de##.jobbioapp
 interaktiv.tagesspiegel.de##.jobunion-container
 nur-positive-nachrichten.de##.jrCardBanner
 eurocampings.de##.js-mock-banner
@@ -3941,6 +3942,8 @@ versicherungsjournal.at,versicherungsjournal.de##.norm-rsp-wbox1
 wochenblatt.cc##.normal-banner
 team.gamed.de##.normal_text[width="100%"][valign="top"][height="100"][align="left"][border="0"]
 noz.de##.nozmhn_ad
+nextpit.de##.np-product-offers
+nextpit.de##.np-top-deals
 netzwoche.ch##.np8-type-advertorial
 promiflash.de##.ob-p
 winfuture.de##.ob_what
