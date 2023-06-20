@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306201401
+! Version: 202306202024
 ! Title: EasyList Germany
-! Last modified: 20 Jun 2023 14:01 UTC
+! Last modified: 20 Jun 2023 20:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2042,6 +2042,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||pcgamesdatabase.de/images/amazon_small.jpg
 ||pcgamesdatabase.de/images/bt_orderamazon.jpg
 ||pcgameshardware.de/tsimg/topbanner/
+||pear.focus.de^
 ||pesterlloyd.net/assets/images/autogen/Betway-Casino-300x400.jpg
 ||pfaffenhofen-today.de/images/banners/
 ||pfalz-echo.de/wp-content/uploads/*-Banner-
