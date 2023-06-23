@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202306221841
+! Version: 202306231150
 ! Title: EasyList Germany
-! Last modified: 22 Jun 2023 18:41 UTC
+! Last modified: 23 Jun 2023 11:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2567,6 +2567,8 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||ad.yieldlab.net^$domain=gofeminin.de
 ||ad4mat.de^$domain=googlesyndication.com
 ||adcell.com^$domain=autobild.de
+||adform.net/banners/$domain=gofeminin.de
+||adform.net/serving/$domain=gofeminin.de
 ||adform.net^$domain=autobild.de|googlesyndication.com
 ||adition.com^$domain=autobild.de|g.doubleclick.net
 ||adnxs-simple.com/creative/$domain=autobild.de
