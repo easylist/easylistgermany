@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307051444
+! Version: 202307061652
 ! Title: EasyList Germany
-! Last modified: 05 Jul 2023 14:44 UTC
+! Last modified: 06 Jul 2023 16:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1286,6 +1286,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||vavoo.tv/promo/$popup,third-party
 ||vidonna.de/pop.php$popup,third-party
 ||vodafone.de^*&tsid=$popup,third-party
+||vulkanbet.pro^$popup
 ||vulkanbetting.biz^$popup
 ! -------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block.txt ***
