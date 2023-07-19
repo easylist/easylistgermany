@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307191759
+! Version: 202307191801
 ! Title: EasyList Germany
-! Last modified: 19 Jul 2023 17:59 UTC
+! Last modified: 19 Jul 2023 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4921,12 +4921,12 @@ t-online.de##section[data-stage-layout^="custom_nativendo_"]
 ! Advanced element hiding rules for Adblock Plus
 stol.it#?##ContainerFull:-abp-has(a:-abp-contains(Anzeige))
 abendzeitung-muenchen.de#?#article[class^="teaser nummer-"]:-abp-has(span.specialfeature)
+all-electronics.de,automotiveit.eu,produktion.de#?#.ce_topicbox:-abp-has(.label-ad-highlight)
 android-hilfe.de#?#article.message--post:-abp-has(span.username:-abp-contains(Anzeige))
 apfeltalk.de#?#div.wpb_text_column:-abp-has(h5:-abp-contains(Werbung))
 apfeltalk.de#?#div.wpb_text_column:-abp-has(h6:-abp-contains(Werbung))
 ariva.de#?#a.background-red-bright:-abp-has(span.anzeige)
 automotiveit.eu,instandhaltung.de,produktion.de,technik-einkauf.de#?#.ce_postlistbox:-abp-has(.label-ad-highlight)
-automotiveit.eu,produktion.de#?#.ce_topicbox:-abp-has(.label-ad-highlight)
 avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorials))
 avguide.ch#?#.gridteaser.gridteaser-m:-abp-has(h4:-abp-contains(Sponsored Post))
 az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
