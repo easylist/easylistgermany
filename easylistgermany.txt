@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307211358
+! Version: 202307211400
 ! Title: EasyList Germany
-! Last modified: 21 Jul 2023 13:58 UTC
+! Last modified: 21 Jul 2023 14:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3229,7 +3229,6 @@ my-ladies.ch###topBannerContainer
 lust24.ch###topCustomers
 tarnkappe.info###top_0
 raidrush.net###top_ga
-hcgherdeina.com###top_sponsor_inner
 wintotal.de###topads
 selbstaendig-im-netz.de###topb
 bitsundso.de###topbanner
@@ -3535,6 +3534,7 @@ bunte.de##.bfa-ad-slot
 seekxl.de##.bg
 boersennews.de##.bg-smartbroker-dark
 boersennews.de##.bg-smartbroker-light
+hcgherdeina.com##.big-sponsor-box
 finanzen.ch##.big_size
 iplayapps.de##.bigbanner
 bildercache.de##.bilde-widget
@@ -4165,6 +4165,7 @@ aedt.de##.slide-box
 tippspiel.wa.de##.sliderContainer
 suche6.ch##.slideshow
 wallis24.it##.slideshowck
+hcgherdeina.com##.small-sponsor-box
 finanznachrichten.de##.smartbroker--text
 finanznachrichten.de##.smartbroker-logo
 finanznachrichten.de##.smartbroker1
