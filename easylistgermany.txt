@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307211329
+! Version: 202307211346
 ! Title: EasyList Germany
-! Last modified: 21 Jul 2023 13:29 UTC
+! Last modified: 21 Jul 2023 13:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2107,6 +2107,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||quadjournal.eu/wp-content/uploads/*-Banner-
 ||queer.de/gfx/air-france-presented-by-
 ||queer.de/gfx/mein-kondom-
+||quoka.de/mages/public/
 ||radio-oberland.de/images/banners/
 ||radio-oldtimer.de/fileadmin/Bilder/Banner/
 ||radio2000.it^*/banner_
@@ -4239,6 +4240,7 @@ broncos.it##.supporter
 ntz.de,scdhfk-handball.de##.swiper-container
 swp.de##.swp-adbox
 frauporno.com##.sz_300_250
+quoka.de##.t-ctr
 t-online.de##.tMRM_billiger
 duden.de##.tabloid__side-column-top
 selbstaendig-im-netz.de##.tad1
