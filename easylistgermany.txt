@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307251930
+! Version: 202307251940
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2023 19:30 UTC
+! Last modified: 25 Jul 2023 19:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1814,10 +1814,13 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||hybrid-prd.ad-prd.s.joyn.de^
 ||ibiza-heute.de/wp-content/uploads/*/Banner_
 ||ibiza-heute.de/wp-content/uploads/*/Leaderboard-
+||ibooks.to/plpscript.php
 ||ibooks.to/plscript.php
 ||ibooks.to/wp-content/uploads/*/daddel.png
 ||ibooks.to/wp-content/uploads/*/ddnew2728.png
 ||ibooks.to/wp-content/uploads/*/dldl.png
+||ibooks.to/wp-content/uploads/*/ffree.png
+||ibooks.to/wp-content/uploads/*/goforblock.png
 ||idealo.de/banner/
 ||images-amazon.com/images/*/marquee/
 ||images-amazon.com/images/*/marqueestatic/
@@ -5033,6 +5036,7 @@ hornoxe.com#?#h2.storytitle:-abp-has(a[href^="https://www.amazon.de/"])
 hornoxe.com#?#h2.storytitle:-abp-has(a[href^="https://www.amazon.de/"]) + p
 hornoxe.com#?#h2.storytitle:-abp-has(a[href^="https://www.amazon.de/"]) + p + div.clear + div.infobox
 ibooks.to#?#.code-block:-abp-has(i.fa-cloud-download-alt)
+ibooks.to#?#form:-abp-has(button:-abp-contains(Download))
 imsueden.de#?#.swiper:-abp-has(.headline:-abp-contains(Partner))
 inside-digital.de#?#.td_module_ih_current_news:-abp-has(.spo)
 jameda.de#?#li:-abp-has([data-testid="advertisementSign-flag"])
