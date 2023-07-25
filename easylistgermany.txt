@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307251638
+! Version: 202307251919
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2023 16:38 UTC
+! Last modified: 25 Jul 2023 19:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5034,6 +5034,7 @@ imsueden.de#?#.swiper:-abp-has(.headline:-abp-contains(Partner))
 inside-digital.de#?#.td_module_ih_current_news:-abp-has(.spo)
 jameda.de#?#li:-abp-has([data-testid="advertisementSign-flag"])
 kajak-magazin.com#?#.custom:-abp-has(span:-abp-contains(Anzeige))
+kaufland.de#?#.rd-recommender__tile:-abp-has(div.rd-product-tile__badge--ad)
 kaufland.de#?#.recommender-wrapper:-abp-contains(Gesponsert)
 laola1.at#?#.block.medium:-abp-has(a[href^="https://dt.sportradar.com/"])
 lausitz-tv.de#?#.small-12.column:-abp-contains(Anzeige)
