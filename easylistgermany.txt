@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307251233
+! Version: 202307251609
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2023 12:33 UTC
+! Last modified: 25 Jul 2023 16:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4553,6 +4553,7 @@ pornhubdeutsch.info,xhamsterde.com##a[href^="https://www.wazazu.com/LA/Landingpa
 xhamsterde.com##a[href^="https://www.zononi.com/LA/LP/Finder?"]
 xhamsterde.com##a[href^="https://www.zononi.com/VX/LP/Roulette?"]
 myhomebook.de##a[href^="https://www6.smartadserver.com/"] > img
+chip.de##a[href^="https://x.chip.de/intern/dl/?"] > img[src^="https://im.chip.de/ii/"]
 ladies.de##a[href^="https://zwinkr.de/landing/"]
 dervinschger.it##a[id="bottombanner"]
 wallstreet-online.de##a[onclick*="'tableAd'"]
@@ -4950,9 +4951,11 @@ bitreporter.de#?#.code-block:-abp-has(span:-abp-contains(/ANZEIGE|Anzeige|Werbun
 boersennews.de#?##bnTickerContainer:-abp-has(#bnTickerAdNotice)
 caravaning.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 carpediem.life#?#.post-overview:-abp-has(div:-abp-contains(Anzeige))
+chip.de#?#.AD:-abp-has(img)
 chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEIGE)
 chip.de#?#.mt-md > div:-abp-contains(Gesponserte Empfehlung)
 chip.de#?#a.secondary:-abp-has(.Badge__Content:-abp-contains(/anzeige|gesponsert/))
+chip.de#?#a[href^="https://x.chip.de/"]:-abp-has(path[d$="92.456,64.241 z"])
 chip.de#?#a[onclick]:-abp-has(path[d^="M92.456,64.241L66.18"])
 chip.de#?#article > a:-abp-contains(Anzeige)
 chip.de#?#div[id][style*="min-height:"]:-abp-has(div:-abp-contains(/Anzeige|WERBUNG/))
