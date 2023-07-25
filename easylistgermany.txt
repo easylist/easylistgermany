@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307251611
+! Version: 202307251638
 ! Title: EasyList Germany
-! Last modified: 25 Jul 2023 16:11 UTC
+! Last modified: 25 Jul 2023 16:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2336,6 +2336,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||telefonsexmitcam.com/images/
 ||telefonsexwebcam.com/images/livestrip-
 ||teltarif.de/scripts/ads/
+||teltarif.de/scripts/foo/
 ||teneriffa-aktuell.com/wp-content/uploads/*/banner-
 ||teneriffa-heute.net/images/banners/
 ||tennisnet.com/widgets/williamhill/
@@ -2675,6 +2676,7 @@ onvista.de###SMART_BILLBOARD
 wiesbaden.de###SP-commercials
 fussballn.de###SPMADS_fussballn_HOME_MEDREC_1
 teltarif.de###SpaceRectangle
+teltarif.de###SpaceTgtLink
 t-online.de,www-t--online-de.cdn.ampproject.org###T-85628670
 t-online.de,www-t--online-de.cdn.ampproject.org###T-86926496
 t-online.de,www-t--online-de.cdn.ampproject.org###T-Shopping
@@ -3241,6 +3243,8 @@ hc-neumarkt.com###tr-contentbottom
 pornotim.com###tracking-url
 kinofilme.ucoz.com###trade
 biallo.de###tso-billboard-1
+teltarif.de###ttParallaxcontainer
+teltarif.de###ttTarifTable
 beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,halloporno.net,hd-sexfilme.com,hdpornos.net,herzporno.com,lesbenhd.com,meinyouporn.com,milffabrik.com,nursexfilme.com,pornhub-sexfilme.net,pornoaffe.net,pornodavid.com,pornoente.tv,pornofelix.com,pornofisch.com,pornohammer.com,pornohans.com,pornohelm.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornoleon.com,pornolisa.com,pornoritze.com,pornoschlange.com,pornosusi.com,pornotanja.com,pornotom.com,pornotommy.com,pornovideos-hd.com,pornozebra.com,sexente.com,sexfilme-gratis.com,sexvideos-gratis.com,sexvideos-hd.com,tube8-pornos.com,xnxx-porno.com,xnxx-pornos.xxx,xnxx-sexfilme.com###tt_wrapper
 tvdigital.de###tvd-ad-top
 finanzen.net###ubs-banner-fallback
@@ -4701,6 +4705,7 @@ smarthomes.de##div[id^="smart-"]
 amazon.de##div[id^="sp_detail"]
 20min.ch##div[id^="sport__inside-"]
 supertipp-online.de##div[id^="super-"]
+teltarif.de##div[id^="tarifSlider"]
 tippscout.de##div[id^="tipps-"]
 bbheute.de,berliner-zeitung.de,blick.de,donaukurier.de,frankenpost.de,krzbb.de,mopo.de,pnp.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
 20min.ch##div[id^="wettbewerbe__inside-"]
@@ -5146,13 +5151,15 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||g.doubleclick.net/gampad/$xmlhttprequest,domain=kochbar.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=11freunde.de|n-tv.de|stern.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|moviepilot.de
+@@||g.doubleclick.net/gampad/ads?*&iu_parts=21917048853%2CTargetlink%2CBill-%2CLeaderboard%2CMedium-Rectangle%2CSkyscraper%2CHalfpage%2CShop%2CHalfpageLO%2CAffiPlatzierung&$script,xmlhttprequest,domain=teltarif.de
+@@||g.doubleclick.net/gampad/ads?*&iu_parts=27763518%3A21917048853%2Cteltarif-de_Onlineverlag_GmbH%2Cteltarif.de%2CParallax%2Chalfpagelu%2Chalfpageru%2Cnavisky&$script,xmlhttprequest,domain=teltarif.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%2Ckochbar.de%2Chomepage&$domain=kochbar.de
 @@||g.doubleclick.net/gampad/ads?*&iu_parts=6032%3A22339103238%2Cmanma_dt%2Chomepage&$domain=manager-magazin.de
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|gentside.de|kochbar.de|manager-magazin.de|moviepilot.de|n-tv.de|ohmymag.de|stern.de
-@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$script,domain=gamepro.de|gamestar.de
+@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$script,domain=gamepro.de|gamestar.de|teltarif.de
 @@||g.doubleclick.net/pagead/ppub_config?$domain=manager-magazin.de
 @@||g.doubleclick.net/pagead/ppub_config?ippd=$xmlhttprequest,domain=gamepro.de|gamestar.de|moviepilot.de
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=11freunde.de|auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|gentside.de|kochbar.de|manager-magazin.de|moviepilot.de|n-tv.de|ohmymag.de|stern.de
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=11freunde.de|auto-motor-und-sport.de|gala.de|gamepro.de|gamestar.de|gentside.de|kochbar.de|manager-magazin.de|moviepilot.de|n-tv.de|ohmymag.de|stern.de|teltarif.de
 @@||gamestar.de^$generichide
 @@||getjad.io/library/$script,domain=gamepro.de|gamestar.de|moviepilot.de
 @@||getjad.io/prebid/$script,domain=gamepro.de|gamestar.de|moviepilot.de
