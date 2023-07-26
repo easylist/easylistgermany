@@ -1858,12 +1858,14 @@ hoerbuch.us##a[href^="https://linksnappy.com/?ref="]
 amor-frau.com##a[href^="https://lp.amateurcommunity.com/"]
 pornkinox.to##a[href^="https://lp.mydirtyhobby.com/"]
 ero-world.info##a[href^="https://media.campartner.com/"]
+metager.de##a[href^="https://metager.de/partner/r?"]
 pcwelt.de##a[href^="https://ndirect.ppro.de/"]
 chip.de##a[href^="https://network.screen13.com/"]
 bbszene.de##a[href^="https://neu.turbo-d.de/"]
 goal.com##a[href^="https://prf.hn/"]
 pcwelt.de##a[href^="https://pvn.mediamarkt.de/"]
 pcwelt.de##a[href^="https://pvn.saturn.de/"]
+metager.de##a[href^="https://r.search.yahoo.com/"]
 emuenzen.de##a[href^="https://rover.ebay.com/"]
 dkamera.de##a[href^="https://servedby.flashtalking.com/"]
 wallstreet-online.de##a[href^="https://smartbroker.de/"][href*="/?utm_"]
@@ -2397,8 +2399,8 @@ mediamarkt.de#?#div[data-test="mms-product-card"]:-abp-has(div[class^="CardProdu
 mediamarkt.de,saturn.de#?#div[data-test="mms-search-srp-productlist-item"]:-abp-has([class^="StyledSponsoringInnerWrapper"])
 meinbezirk.at#?#.article-list-item.article-card.article-card-default:-abp-has(.commercial-tag)
 meissen-fernsehen.de#?#.text-center:-abp-contains(- Werbung -)
-metager.de#?#.result:-abp-has(img[src="/img/mark-de.svg"])
-metager.de#?#.result:-abp-has(span:-abp-contains(Partner))
+metager.de#?#.result:-abp-has(a[href^="https://metager.de/partner/r?"])
+metager.de#?#.result:-abp-has(a[href^="https://r.search.yahoo.com/"])
 mmnews.de#?#.sp-module:-abp-has(span:-abp-contains(Kleinanzeigen))
 mopo.de#?#.main-preview:-abp-has(.anzeige-label)
 mopo.de#?#.slider-preview:-abp-has(.anzeige-label)
