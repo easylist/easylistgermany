@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307271321
+! Version: 202307271326
 ! Title: EasyList Germany
-! Last modified: 27 Jul 2023 13:21 UTC
+! Last modified: 27 Jul 2023 13:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3531,6 +3531,7 @@ diebildschirmzeitung.de##.banneritem
 ariva.de##.bannerleiste
 klappeauf.de##.bannerprom
 strafbock.ch##.banners
+lokalkompass.de##.bannerslot-centered
 sportal.ch##.bannerspot
 frischauf-gp.de##.bannertop
 nnz-online.de##.bannerwrapper
