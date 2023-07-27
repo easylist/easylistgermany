@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307271516
+! Version: 202307271644
 ! Title: EasyList Germany
-! Last modified: 27 Jul 2023 15:16 UTC
+! Last modified: 27 Jul 2023 16:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4025,7 +4025,6 @@ dererker.it##.partvert-right
 tagesstimme.com##.pb-8.text-center.float-center
 fla.de##.pbph
 otto.de##.pdp_reco-sponsored
-otto.de##.product.spa
 heise.de##.perf-cls-reduc-leaderboard
 heise.de##.perf-cls-reduc-rectangle
 kino.de##.performance-pub
@@ -4057,6 +4056,7 @@ songtexte.com##.prmtnKeepHeight
 ariva.de##.prodo-shadow
 kaufland.de##.product--spa
 kaufland.de##.product--sponsored
+otto.de##.product.spa
 maclife.de##.productbox
 zentrum-der-gesundheit.de##.products-inarticle-slider--parent
 aktionspreis.de##.produkt_uebersicht > div > br.clear
@@ -5046,6 +5046,7 @@ imsueden.de#?#.swiper:-abp-has(.headline:-abp-contains(Partner))
 inside-digital.de#?#.td_module_ih_current_news:-abp-has(.spo)
 jameda.de#?#li:-abp-has([data-testid="advertisementSign-flag"])
 kajak-magazin.com#?#.custom:-abp-has(span:-abp-contains(Anzeige))
+kaufland.de#?#.product:-abp-has(div.product__sponsored-ad-label)
 kaufland.de#?#.rd-recommender__tile:-abp-has(div.rd-product-tile__badge--ad)
 kaufland.de#?#.recommender-wrapper:-abp-contains(Gesponsert)
 laola1.at#?#.block.medium:-abp-has(a[href^="https://dt.sportradar.com/"])
