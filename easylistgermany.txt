@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307281246
+! Version: 202307281449
 ! Title: EasyList Germany
-! Last modified: 28 Jul 2023 12:46 UTC
+! Last modified: 28 Jul 2023 14:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4450,7 +4450,7 @@ bild.de##a[href*="/partner/"]
 tarnkappe.info##a[href*="/prf.hn/click/"]
 emtb-news.de,ladies.de,mtb-news.de##a[href*="/redirect/"]
 tarnkappe.info##a[href*="?sca_ref="]
-chip.de##a[href*="https://x.chip.de/intern/dl/?"] > img[src^="https://im.chip.de/ii/"]
+chip.de##a[href*="https://x.chip.de/intern/dl/?"] > img[src*="https://im.chip.de/ii/"]
 finanzen.net##a[href="#p500Werbehinweis"]
 areadvd.de##a[href="/panasonic_de"]
 strippokerregeln.com##a[href="/www/888casino"]
