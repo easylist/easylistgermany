@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307291037
+! Version: 202307291048
 ! Title: EasyList Germany
-! Last modified: 29 Jul 2023 10:37 UTC
+! Last modified: 29 Jul 2023 10:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4695,6 +4695,7 @@ mo-web.de##div[id^="moads-"]
 modified-shop.org##div[id^="modifiedwerbung_"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="mrec"]
 20min.ch##div[id^="my-news-plus__inside-"]
+wallstreet-online.de##div[id^="nativendo-"]
 tonspion.de##div[id^="netse-"]
 noz.de##div[id^="nozmhn_ad_"]
 frustfrei-lernen.de##div[id^="npm_"]
@@ -5108,9 +5109,11 @@ tag24.de#?#article.article-tile:-abp-has(span.article-tile__badge2:-abp-contains
 tonight.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Anzeige))
 um-tv.de#?#.small-12.column.space:-abp-has(p:-abp-contains(--Anzeige--))
 unicum.de#?#.artikel-preview-content:-abp-has(p:-abp-contains(-ANZEIGE-))
+wallstreet-online.de#?#.breakingNewsOfferteBox:-abp-has(span.offerteFlag)
 wallstreet-online.de#?#.footnote:-abp-has(.headline-box:-abp-contains(Werbung))
 wallstreet-online.de#?#.module.c1.hidden-xs:-abp-has(span.issuerPromotionHint:-abp-contains(Werbung))
 wallstreet-online.de#?#.newsflash:-abp-has(span.suffix.wo-inline-block.pull-right:-abp-contains(Anzeige))
+wallstreet-online.de#?#.newsflash:-abp-has(span.wo-inline-block:-abp-contains(Anzeige))
 wallstreet-online.de#?#.sliderItem.active:-abp-has(span.news-item:-abp-has(img[alt="Anzeige"]))
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.angebot)
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
