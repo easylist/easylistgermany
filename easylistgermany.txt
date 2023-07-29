@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307291007
+! Version: 202307291023
 ! Title: EasyList Germany
-! Last modified: 29 Jul 2023 10:07 UTC
+! Last modified: 29 Jul 2023 10:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1732,6 +1732,8 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||happyweekend-club.com/images/default/banner_
 ||happyweekend-club.com/images/default/hw_ffgv_chat.gif
 ||hardware-factory.com/images/01_ban/
+||hardware-mag.de/images/ads/
+||hardware-mag.de/js/ads.min.js
 ||hardwareluxx.de/images/stories/werbung/
 ||hartgeld.com/images/banners/
 ||hausgeraete-test.de/images/trademarks/
@@ -4642,6 +4644,7 @@ giga.de##div[data-trigger="sourcepoint-ad"]
 prosiebengames.de##div[data-url-link^="https://track-adspree.com/"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
 t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="T-"][oncontextmenu="return false"]
+hardware-mag.de##div[id^="ad-"]
 gamestar.de##div[id^="ad-div-"]
 argoviatoday.ch,fm1today.ch,nzz.ch,pilatustoday.ch,swissmom.ch##div[id^="adnz_"]
 haus.de##div[id^="adtech_"]
