@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307291825
+! Version: 202307301031
 ! Title: EasyList Germany
-! Last modified: 29 Jul 2023 18:25 UTC
+! Last modified: 30 Jul 2023 10:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4425,6 +4425,7 @@ ddl-warez.cc##[onclick^="window.location.href='/azn/"]
 chip.de##[style*="/screen13."]
 chip.de##[style*="://network.screen13.com/"]
 allround-pc.com##[style*="background-color: #001d4a;"]
+onvista.de##a[class*="ArticleTeaserBox"][href^="https://bnpp.lk/"]
 manomano.de##a[class*="sponsoredProductCard"]
 neuwagen.de##a[class="placement"]
 camping.de##a[class^="herobanner-adv"]
@@ -4592,6 +4593,7 @@ abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][sty
 winfuture.de##div[align="center"][style="min-height: 320px;"]
 3dchip.de##div[align="center"][width="468px"] > table[height="60"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 bitreporter.de##div[class$="-adlabel"]
+onvista.de##div[class*="InteractionTypeReference_ov-interaction-slot--fallback"]
 onlinehaendler-news.de##div[class*="adplacement_"]
 chartsurfer.de##div[class*="adszone-"]
 homegate.ch##div[class^="AdSlotContainer_"]
