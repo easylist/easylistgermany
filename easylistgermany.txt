@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202307301031
+! Version: 202308011636
 ! Title: EasyList Germany
-! Last modified: 30 Jul 2023 10:31 UTC
+! Last modified: 01 Aug 2023 16:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3711,6 +3711,9 @@ mobile.de##.dsp-placeholder
 bolzano-bozen.it##.dt
 metropolico.org##.e_adv
 euractiv.de##.ea-gat-slot-wrapper
+ebike-news.de##.ebn-billboard
+ebike-news.de##.ebn-billboard-mobil
+ebike-news.de##.ebn-incontent-1
 der-rissener.de##.ed-element
 laborjournal.de##.ed_d
 l-mag.de##.editorial-teaser
