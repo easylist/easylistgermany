@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202308111521
+! Version: 202308111544
 ! Title: EasyList Germany
-! Last modified: 11 Aug 2023 15:21 UTC
+! Last modified: 11 Aug 2023 15:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3753,6 +3753,7 @@ fight24.tv##.fixed.bottom-0.pb-8
 uepo.de##.flexslider
 floatmagazin.de##.float-widget
 tvinfo.de##.floatLeft[style="padding:10px;"]
+freiburger-nachrichten.ch##.fn-edp-section__slider
 amazona.de##.fnetbr-pbb-container
 gwd-minden.de##.footer
 katzeausdemsack.de##.footer-banner
