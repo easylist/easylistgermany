@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202308111340
+! Version: 202308111421
 ! Title: EasyList Germany
-! Last modified: 11 Aug 2023 13:40 UTC
+! Last modified: 11 Aug 2023 14:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3557,6 +3557,7 @@ galaxy-ingolstadt.de##.block-11
 galaxy-ingolstadt.de##.block-12
 galaxy-ingolstadt.de##.block-13
 celler-presse.de,galaxy-ingolstadt.de##.block-15
+suedostschweiz.ch##.block-np8-audienzz
 ak-kurier.de##.block-weather-link
 wissen.de##.block-wissen-ads
 computerbase.de##.block1--banner
@@ -5055,6 +5056,8 @@ ibooks.to#?#form:-abp-has(button:-abp-contains(Download))
 imsueden.de#?#.swiper:-abp-has(.headline:-abp-contains(Partner))
 inside-digital.de#?#.td_module_ih_current_news:-abp-has(.spo)
 jameda.de#?#li:-abp-has([data-testid="advertisementSign-flag"])
+jungefreiheit.de#?#div[data-widget_type="shortcode.default"]:-abp-has(.adsbygoogle)
+jungefreiheit.de#?#div[style="text-align: center;"]:-abp-has(.adsbygoogle)
 kajak-magazin.com#?#.custom:-abp-has(span:-abp-contains(Anzeige))
 kaufland.de#?#.product:-abp-has(div.product__sponsored-ad-label)
 kaufland.de#?#.rd-recommender__tile:-abp-has(div.rd-product-tile__badge--ad)
