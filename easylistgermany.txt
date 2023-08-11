@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202308101705
+! Version: 202308111340
 ! Title: EasyList Germany
-! Last modified: 10 Aug 2023 17:05 UTC
+! Last modified: 11 Aug 2023 13:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4401,6 +4401,7 @@ allround-pc.com##.wp-element-button[href^="https://amzn.to/"]
 technic3d.com##.wrap > footer[style="bottom: -260px;"]:last-child > div:first-child
 fkk24.de##.wrapper-banner
 come-on.de,fnp.de,fr.de,merkur.de,soester-anzeiger.de,tz.de,wa.de##.wv_story_el_billboard
+buzzfeed.de##.wv_story_el_insertedAd
 analysedeutschland.de##.wwd
 image-hifi.com,utvmagazin.de##.x-topbar
 games-mag.de##.yftovjn
