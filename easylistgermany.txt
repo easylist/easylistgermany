@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202308111607
+! Version: 202308111618
 ! Title: EasyList Germany
-! Last modified: 11 Aug 2023 16:07 UTC
+! Last modified: 11 Aug 2023 16:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3868,8 +3868,8 @@ interaktiv.tagesspiegel.de##.jobunion-container
 nur-positive-nachrichten.de##.jrCardBanner
 eurocampings.de##.js-mock-banner
 eurogirlsescort.de##.js-stt-click
-lustmap.ch##.js_bns
 wetter.com##.jsDaa-D
+lustmap.ch##.js_bns
 chip.de##.kasperskyshown
 kochbar.de##.kb-home-medrec-halfpage
 kauperts.de##.kca-wrapper
@@ -4042,6 +4042,7 @@ blick.ch##.placement-rectangle
 englisch-lernen-online.de##.plainContentCollection
 zuckerporno.com##.pornofilme_recht
 reise-preise.de##.port.hi
+ga.de##.portal-top
 iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:center;"]
 hartware.de##.postanzeige
 swz.it##.pr
