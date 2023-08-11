@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202308111544
+! Version: 202308111547
 ! Title: EasyList Germany
-! Last modified: 11 Aug 2023 15:44 UTC
+! Last modified: 11 Aug 2023 15:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1875,6 +1875,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||kronenachrichten.com/wp-content/uploads/banner/
 ||krzbb.de/revive/
 ||kulturmd.de/images/*_Banner_
+||kunststoffweb.de/_g/_ads/
 ||laborjournal.de/infos/m99/img/b_
 ||lad.sumikai.com^
 ||laden.to/img/7821908c4d368c195af41a8d778901d011.jpg
@@ -4365,6 +4366,7 @@ nydus.org,sbb.it##.werb
 dolomiten.de,fernsehserien.de##.werbemittel
 biete6.ch##.werbepartner
 ariva.de##.werbeplaetze_button
+kunststoffweb.de##.werbeplatzierung-container
 wetter.com##.werbung:not(.toolbar-wrapper)
 weltwoche.ch##.werbungSmall
 weltwoche.ch##.werbungWide
