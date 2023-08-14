@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202308121343
+! Version: 202308141355
 ! Title: EasyList Germany
-! Last modified: 12 Aug 2023 13:43 UTC
+! Last modified: 14 Aug 2023 13:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3291,6 +3291,7 @@ au-ja.de##.ADVBOX
 preissuchmaschine.de##.AFS_ADD
 onvista.de##.ANZEIGE
 finanzfrage.net,gutefrage.net,praxistipps.focus.de##.Ad
+chip.de##.Ad-hor-height:not([id^="advertisment-"])
 finanznachrichten.de##.Ad_FinativeHome
 finanznachrichten.de##.Ad_ImageTeaser
 finanznachrichten.de##.Ad_SmartAd
@@ -4979,8 +4980,6 @@ automotiveit.eu,instandhaltung.de,produktion.de,technik-einkauf.de#?#.ce_postlis
 avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorials))
 avguide.ch#?#.gridteaser.gridteaser-m:-abp-has(h4:-abp-contains(Sponsored Post))
 az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
-barfuss.it#?#.panels-flexible-region:-abp-has(span:-abp-contains(Gesponsert))
-barfuss.it#?#.views-row:-abp-has(.partner-label)
 baur.de#?#div[data-testid="card"]:-abp-has(span.MuiCardHeader-title:-abp-contains(Gesponserte Artikel))
 baur.de#?#div[data-testid="reco-wrapper"]:-abp-has(div[class^="indexesm__HeadlineElement-fragment-product-master__"]:-abp-contains(Gesponserte Artikel))
 bergsteiger.de#?#.eight.columns.alpha.content:-abp-has(span:-abp-contains(Advertorial))
