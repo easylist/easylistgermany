@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202308141355
+! Version: 202308141605
 ! Title: EasyList Germany
-! Last modified: 14 Aug 2023 13:55 UTC
+! Last modified: 14 Aug 2023 16:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4610,6 +4610,7 @@ winfuture.de##div[align="center"][style="min-height: 320px;"]
 3dchip.de##div[align="center"][width="468px"] > table[height="60"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 bitreporter.de##div[class$="-adlabel"]
 onvista.de##div[class*="InteractionTypeReference_ov-interaction-slot--fallback"]
+rewe.de##div[class*="Product_productSponsoredTile"]
 onlinehaendler-news.de##div[class*="adplacement_"]
 chartsurfer.de##div[class*="adszone-"]
 homegate.ch##div[class^="AdSlotContainer_"]
