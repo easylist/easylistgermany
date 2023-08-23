@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202308231630
+! Version: 202308231647
 ! Title: EasyList Germany
-! Last modified: 23 Aug 2023 16:30 UTC
+! Last modified: 23 Aug 2023 16:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3872,7 +3872,7 @@ eurocampings.de##.js-mock-banner
 eurogirlsescort.de##.js-stt-click
 wetter.com##.jsDaa-D
 lustmap.ch##.js_bns
-chip.de##.kasperskyshown
+chip.de##.kasperskyclick[href]
 kochbar.de##.kb-home-medrec-halfpage
 kauperts.de##.kca-wrapper
 kicker.de##.kick__ad-pos_wrapper
@@ -4454,6 +4454,7 @@ gawina.de##a[data-track]
 t-online.de,www-t--online-de.cdn.ampproject.org##a[data-url^="https://count.shopping.t-online.de/RE?ID="]
 bildschirmarbeiter.com##a[href$="xref=nosim/wwwbildschirm-21"]
 onvista.de##a[href*="&adname="]
+chip.de##a[href*="(randomString)"]
 tarnkappe.info##a[href*=".rokkr.net/promo/"]
 dkamera.de,donau3fm.de,isaswomo.de,ofdb.de,picdumps.com,polizei.news,rechtsdepesche.de,spox.com,via-ferrata.de##a[href*="//bit.ly/"]
 hd-source.to##a[href*="/af.php"]
@@ -4820,6 +4821,7 @@ italienisch-lernen-online.net##div[style^="width:300px;height:250px;"]
 werkenntdenbesten.de##div[x-data="modules.ad()"]
 werkenntdenbesten.de##div[x-data="modules.ad()"] + span
 werkenntdenbesten.de##div[x-data^="modules.adMedia"]
+chip.de##h2[style*="background-image:url('https://im.chip.de/ii/"] + a
 reimmaschine.de##iframe[src="/more"]
 190.115.18.20,aniworld.to,s.to##iframe[style*="z-index: 2147483647"]
 windowspro.de##iframe[style="height:250px;overflow: hidden;"]
