@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202308191118
+! Version: 202308231630
 ! Title: EasyList Germany
-! Last modified: 19 Aug 2023 11:18 UTC
+! Last modified: 23 Aug 2023 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3989,6 +3989,8 @@ noz.de##.nozmhn_ad
 nextpit.de##.np-product-offers
 nextpit.de##.np-top-deals
 netzwoche.ch##.np8-type-advertorial
+shop-apotheke.com##.o-ProductSliderItem[data-ssr-as*="\"clickUrl\":\"https://retail-api.sa-tech.de/api/"]
+shop-apotheke.com##.o-SearchProductListItem[data-ssr-as*="\"clickUrl\":\"https://retail-api.sa-tech.de/api/"]
 promiflash.de##.ob-p
 winfuture.de##.ob_what
 gs-forum.eu##.oc24-sidebar
