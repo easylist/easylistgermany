@@ -1,4 +1,6 @@
 $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.to
+/as1.php$domain=boerse.ai|boerse.am|boerse.im|boerse.kz|boerse.sx|boerse.tw
+/b.php$domain=boerse.ai|boerse.am|boerse.im|boerse.kz|boerse.sx|boerse.tw
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
 ||112-magazin.de/images/banners/
@@ -162,8 +164,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||bluray-disc.de/images/banner/
 ||boerse-online.de/images/Postbank-75x25.png
 ||boerse-social.com/media/Content/Partner/
-||boerse.im/as1.php
-||boerse.im/b.php
 ||boersennews.de/images/smartbroker/
 ||bolzano-bozen.it/images/banner/
 ||bolzano-bozen.it/images/logo/
