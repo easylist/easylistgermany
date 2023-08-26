@@ -405,6 +405,7 @@ bundesliga-streams.net###nwmlay
 nydus.org###ny_banner
 nydus.org###nyba
 nydus.org###nybanner
+nydus.org###nydus_org_970x300_billboard_responsive
 autoexperience.de,flugzeugforum.de,gs-forum.eu,uhrforum.de,xbox-passion.de###oc24-div
 elektrikforen.de###oc24_container_top
 yasni.de###offer
@@ -522,6 +523,7 @@ queer.de###startrechts
 11889.com###sticky-aside
 11880.com###sticky-aside-placeholder
 finanzen.net###sticky-superbanner
+nydus.org###stickyaside
 studis-online.de###ston-billboard
 studis-online.de###ston-footer-ad
 eu-vertretung.de###stream-item-widget-2
@@ -2449,6 +2451,8 @@ motorradonline.de#?#.v-A_-topteaser__rotationbox__item:-abp-has(.v-A_-teaser__ta
 motorsport-total.com#?#.teaser_container.teaser-htmlcode.relative.row:-abp-has(.f1de-container-title:-abp-contains(Die besten Leasing-Deals))
 mountainbike-magazin.de#?#.v-A_-white__tile:-abp-has(.v-A_-teaser__tag--ad)
 nur-positive-nachrichten.de#?#.moduletable.text-center:-abp-has(.bildunterschrift:-abp-contains(Anzeige))
+nydus.org#?#div.ui-tabs:-abp-has(#nydus_org_300x600_desktop_1)
+nydus.org#?#div:-abp-has(> #nydus_org_970x300_billboard_responsive)
 o-sport.de#?#.card-body:-abp-contains(Sponsoren)
 onvista.de#?#.flex-layout:-abp-has(div[class^="ArticleTeaser_ov-article-teaser__onvistaCustomer_"])
 onvista.de#?#.outer-spacing--xxlarge-top:-abp-contains(Werbung von)
