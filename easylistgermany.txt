@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202308261219
+! Version: 202308261228
 ! Title: EasyList Germany
-! Last modified: 26 Aug 2023 12:19 UTC
+! Last modified: 26 Aug 2023 12:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1826,6 +1826,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||ibooks.to/wp-content/uploads/*/ffree.png
 ||ibooks.to/wp-content/uploads/*/goforblock.png
 ||ibooks.to/wp-content/uploads/*/offdd728.png
+||ibooks.to^*.php|$script
 ||idealo.de/banner/
 ||images-amazon.com/images/*/marquee/
 ||images-amazon.com/images/*/marqueestatic/
@@ -2657,6 +2658,7 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||delamar.de/out/$popup
 ||sexei.net/go.html$popup
 ||sptopf.de/tshp/RE?ID=$popup,domain=t-online.de
+||warez.cx^$popup,domain=ibooks.to
 ! -----Seitenspezifische Regeln zum Verstecken von Werbung(süberbleibseln)-----!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_hide.txt ***
 dtb.de###AD
@@ -3655,6 +3657,7 @@ raptastisch.net##.code-block-14
 borncity.com##.code-block-16
 borncity.com,buenasideas.de##.code-block-2
 borncity.com##.code-block-3
+ibooks.to##.code-block-3[style]
 borncity.com,deinhandy.de##.code-block-4
 borncity.com##.code-block-5
 borncity.com##.code-block-6
@@ -4622,6 +4625,7 @@ blick.ch##aside[id^="appnexus-placement"]
 weristdeinfreund.de##aside[id^="banner"]
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
 ddl-warez.cc##button[onclick*="/af.php"]
+ibooks.to##button[type="submit"]
 abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
 winfuture.de##div[align="center"][style="min-height: 320px;"]
 3dchip.de##div[align="center"][width="468px"] > table[height="60"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
