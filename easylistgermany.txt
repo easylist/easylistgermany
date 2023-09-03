@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309031606
+! Version: 202309031609
 ! Title: EasyList Germany
-! Last modified: 03 Sep 2023 16:06 UTC
+! Last modified: 03 Sep 2023 16:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -592,7 +592,6 @@ di.fm,kellertheater.at#@#.firstload
 hochzeitswahn.de#@#.internal-ad
 mietmobil-fuchs.ch#@#.jquery-script-ads
 11freunde.de#@#.js_deferred-ad
-spox.com#@#.ob-feed-layout
 wetter.de#@#.outbrain-ad-slot
 phytodoc.de#@#.plain-ad
 quoka.de#@#.related-ads
