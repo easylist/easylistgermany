@@ -2320,6 +2320,7 @@ focus.de##a[href^="https://www.financeads.net/tc.php"]
 autobild.de,computerbild.de,finanzen.net,focus.de,gamestar.de,metal-hammer.de,n-tv.de,pcwelt.de,ran.de,sport.de,tvspielfilm.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 autobild.de,computerbild.de,finanzen.net,gamestar.de,n-tv.de,ran.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source
 t-online.de##aside[data-testid="StageLayout.StreamItem"]
+t-online.de##div[class^="adContainer"]
 t-online.de##div[data-component="CommercialNativendo"]
 t-online.de##div[data-testid="Stage.Companion.Commercial"]
 t-online.de##div[data-testid^="Nativendo.ArticleFeed"]
