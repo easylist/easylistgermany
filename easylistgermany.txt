@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309031609
+! Version: 202309041634
 ! Title: EasyList Germany
-! Last modified: 03 Sep 2023 16:09 UTC
+! Last modified: 04 Sep 2023 16:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3871,6 +3871,7 @@ lippe-news.de##.inline_wrapper
 erotikinserate.ch##.inner
 blitzrechner.de##.inserter-5
 sueddeutsche.de##.iqad
+saechsische.de##.iqadtile-wrapper
 tri-mag.de##.irypolkj
 allround-pc.com##.is-fp-outer
 onvista.de##.isSponsored
@@ -4757,7 +4758,7 @@ amazon.de##div[id^="sp_detail"]
 supertipp-online.de##div[id^="super-"]
 teltarif.de##div[id^="tarifSlider"]
 tippscout.de##div[id^="tipps-"]
-bbheute.de,berliner-zeitung.de,blick.de,donaukurier.de,evangelische-zeitung.de,frankenpost.de,krzbb.de,mopo.de,pnp.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
+bbheute.de,berliner-zeitung.de,blick.de,donaukurier.de,evangelische-zeitung.de,frankenpost.de,krzbb.de,mopo.de,np-coburg.de,pnp.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
 20min.ch##div[id^="wettbewerbe__inside-"]
 20min.ch##div[id^="wirtschaft__inside-"]
 20min.ch##div[id^="wissen__inside-"]
