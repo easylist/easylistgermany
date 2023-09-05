@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309051230
+! Version: 202309051231
 ! Title: EasyList Germany
-! Last modified: 05 Sep 2023 12:30 UTC
+! Last modified: 05 Sep 2023 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3990,7 +3990,7 @@ lavendel.net##.netpoint
 fruchthandel.de##.news-item-wbg
 fussballdaten.de##.news-spiel-quoten
 kitzanzeiger.at##.news_sponsoren_banner
-pz-news.de,rheinpfalz.de##.nfy-banner
+pz-news.de,rheinpfalz.de,zvw.de##.nfy-banner
 dtb-tennis.de##.ng-banner
 mallorcazeitung.es##.no-baldomero
 frustfrei-lernen.de##.noContentBannerArea
