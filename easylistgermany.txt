@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309061628
+! Version: 202309091446
 ! Title: EasyList Germany
-! Last modified: 06 Sep 2023 16:28 UTC
+! Last modified: 09 Sep 2023 14:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3862,12 +3862,14 @@ heise.de##.img-ad
 kronenachrichten.com##.img-banner
 emmikochteinfach.de,karrierebibel.de##.in-content
 funcloud.club##.inArticleA
+heise.de##.incontent3-cls-reduc
 bikemarkt.mtb-news.de##.incontent__container
 autoline.de,autoline24.at,autoline24.ch##.index-bns
 sparneuwagen.de##.infeedthingy
 allround-pc.com##.infoHeadWrap1
 lippe-news.de##.inline_wrapper
 erotikinserate.ch##.inner
+heise.de##.inread-cls-reduc
 blitzrechner.de##.inserter-5
 sueddeutsche.de##.iqad
 saechsische.de##.iqadtile-wrapper
