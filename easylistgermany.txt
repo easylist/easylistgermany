@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309121631
+! Version: 202309131241
 ! Title: EasyList Germany
-! Last modified: 12 Sep 2023 16:31 UTC
+! Last modified: 13 Sep 2023 12:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3888,7 +3888,6 @@ eurocampings.de##.js-mock-banner
 eurogirlsescort.de##.js-stt-click
 wetter.com##.jsDaa-D
 lustmap.ch##.js_bns
-chip.de##.kasperskyclick[href]
 kochbar.de##.kb-home-medrec-halfpage
 kauperts.de##.kca-wrapper
 kicker.de##.kick__ad-pos_wrapper
@@ -4557,6 +4556,7 @@ metager.de##a[href^="https://metager.de/partner/r?"]
 pcwelt.de##a[href^="https://ndirect.ppro.de/"]
 bbszene.de##a[href^="https://neu.turbo-d.de/"]
 goal.com##a[href^="https://prf.hn/"]
+chip.de##a[href^="https://prf.hn/click/"] > img
 pcwelt.de##a[href^="https://pvn.mediamarkt.de/"]
 pcwelt.de##a[href^="https://pvn.saturn.de/"]
 metager.de##a[href^="https://r.search.yahoo.com/"]
