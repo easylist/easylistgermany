@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309131241
+! Version: 202309151544
 ! Title: EasyList Germany
-! Last modified: 13 Sep 2023 12:41 UTC
+! Last modified: 15 Sep 2023 15:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2346,6 +2346,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||teilzeithelden.de/wp-content/uploads/*/Teilzeit-Truant-
 ||telefonsexmitcam.com/images/
 ||telefonsexwebcam.com/images/livestrip-
+||teltarif.de/img/smartphone/apple/iphone.jpg$script
 ||teltarif.de/scripts/ads/
 ||teltarif.de/scripts/foo/
 ||teneriffa-aktuell.com/wp-content/uploads/*/banner-
