@@ -526,7 +526,7 @@ queer.de###startrechts
 finanzen.net###sticky-superbanner
 nydus.org###stickyaside
 studis-online.de###ston-billboard
-studis-online.de###ston-footer-ad
+bafoeg-rechner.de,studis-online.de###ston-footer-ad
 eu-vertretung.de###stream-item-widget-2
 eu-vertretung.de###stream-item-widget-3
 sims-3.net###subheader
@@ -1604,6 +1604,7 @@ spieletipps.de##.stiRectangleRgt
 spieletipps.de##.stiSkyscraperRgt
 radiobob.de##.stickyBanner-wrapper
 salto.bz##.stj-sidebar-widget
+bafoeg-rechner.de,studis-online.de##.ston-contentad
 spielregeln.de##.strack_cli
 tutonaut.de##.stream-item
 ecvsv.at##.stream-item-top-wrapper
@@ -2172,6 +2173,7 @@ tarnkappe.info##div[style="width:300px;height:250px"]
 news.ch##div[style="width:300px;padding:12px;float:left;"]
 winfuture.de##div[style="width:670px;height:280px;"]
 korrekturen.de##div[style="width:728px; height: 90px; text-align: center; background-color:#c0c0c0;"]
+bafoeg-rechner.de,studis-online.de##div[style^="min-height: 90px;"]
 froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com##div[style^="text-align:center;font-size:80%;"]
 news.ch##div[style^="width: 300px;"]
 ableitungsrechner.net,integralrechner.de##div[style^="width: 728px;"]
