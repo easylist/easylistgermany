@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309201304
+! Version: 202309201507
 ! Title: EasyList Germany
-! Last modified: 20 Sep 2023 13:04 UTC
+! Last modified: 20 Sep 2023 15:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3132,7 +3132,7 @@ finanzen100.de###section-partner
 fuw.ch###section-sponsored-blogs
 darkpantersclan.de.tl###selfpromotionOverlay
 gmx.ch,gmx.net,web.de###service-linklist
-web.de###service-middle
+gmx.net,web.de###service-middle
 boersennews.de###sgFeedList
 uhrforum.de###shuffled-item
 uhrforum.de###shuffled-sponsored
