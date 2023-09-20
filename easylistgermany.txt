@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309181755
+! Version: 202309201304
 ! Title: EasyList Germany
-! Last modified: 18 Sep 2023 17:55 UTC
+! Last modified: 20 Sep 2023 13:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4961,7 +4961,7 @@ t-online.de##.css-1lb3bt5
 t-online.de##.css-2k2lok
 n-tv.de##.ems-slot
 focus.de##.fol_mew-flying-carpet-wrapper
-chip.de,focus.de##.ob-ad-carousel-layout
+focus.de##.ob-ad-carousel-layout
 chip.de##.ob-widget .ob-p
 jetzt.de,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
