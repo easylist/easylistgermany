@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309271757
+! Version: 202309281238
 ! Title: EasyList Germany
-! Last modified: 27 Sep 2023 17:57 UTC
+! Last modified: 28 Sep 2023 12:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5032,6 +5032,7 @@ chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEI
 chip.de#?#.mt-md > div:-abp-contains(Gesponserte Empfehlung)
 chip.de#?#.mt-md:-abp-has(path[d$="92.456,64.241 z"])
 chip.de#?#a.secondary:-abp-has(.Badge__Content:-abp-contains(/anzeige|gesponsert/))
+chip.de#?#a[href^="https://www.chip.de/downloads/"]:-abp-has(div:-abp-contains(Anzeige))
 chip.de#?#a[href^="https://x.chip.de/"]:-abp-has(path[d$="92.456,64.241 z"])
 chip.de#?#a[onclick]:-abp-has(path[d^="M92.456,64.241L66.18"])
 chip.de#?#article > a:-abp-contains(Anzeige)
