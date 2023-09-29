@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309281649
+! Version: 202309291608
 ! Title: EasyList Germany
-! Last modified: 28 Sep 2023 16:49 UTC
+! Last modified: 29 Sep 2023 16:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3568,6 +3568,8 @@ iplayapps.de##.bigbanner
 bildercache.de##.bilde-widget
 designtagebuch.de##.billbo
 baupool.com,bundesliga.com,fnweb.de,formel1.de,laborjournal.de,ligaportal.at,mannheimer-morgen.de,tarnkappe.info,traktorpool.de,winfuture.de##.billboard
+android-hilfe.de##.billboard-ad-footer
+android-hilfe.de##.billboard-ad-top
 infranken.de##.billboard-wrapper
 computerbild.de##.billboardBtfContainer
 djmag.de##.billboardbanner
