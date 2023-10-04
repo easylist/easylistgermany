@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202309291608
+! Version: 202310041419
 ! Title: EasyList Germany
-! Last modified: 29 Sep 2023 16:08 UTC
+! Last modified: 04 Oct 2023 14:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1224,7 +1224,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||versandtarif.de^*?partnerid=$third-party
 ||vesalia.de/af.gif$third-party
 ||view.autoscout24.de^$third-party
-||viralize.tv/display/$script,domain=playboy.de
+||viralize.tv/display/$script,domain=n-tv.de|playboy.de
 ||visit-x.net/001/$third-party
 ||viversum.de/partnerprogramm/$third-party
 ||wazazu.com/iframe/$third-party
