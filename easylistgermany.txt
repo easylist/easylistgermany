@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202310111405
+! Version: 202310111500
 ! Title: EasyList Germany
-! Last modified: 11 Oct 2023 14:05 UTC
+! Last modified: 11 Oct 2023 15:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1080,6 +1080,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||imgur.com/0OkYj6J.png$domain=mmnews.de
 ||imgur.com/flJZ3gf.gif$domain=mmnews.de
 ||internetoptiker.de/banner/$third-party
+||inv.lapippa.com^
 ||iphpbb3.com/banner4_iframe.html
 ||joyclub.de/partner/aff/
 ||js.stroeermediabrands.de^$third-party
@@ -1176,6 +1177,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||ranksider.de/img/banner/$third-party
 ||rastplatzsex.com/banner/$third-party
 ||ref.cdnplus.de^$third-party
+||rev.lapippa.com^
 ||rhein.rfw-koeln.de^$third-party
 ||rocketcdn.me^*/Banner_$domain=marktindex.ch
 ||roemerforum.com/banner/
@@ -4018,6 +4020,7 @@ noz.de##.nozmhn_ad
 nextpit.de##.np-product-offers
 nextpit.de##.np-top-deals
 netzwoche.ch##.np8-type-advertorial
+lapippa.com##.nva-center
 shop-apotheke.com##.o-ProductSliderItem[data-ssr-as*="\"clickUrl\":\"https://retail-api.sa-tech.de/api/"]
 shop-apotheke.com##.o-SearchProductListItem[data-ssr-as*="\"clickUrl\":\"https://retail-api.sa-tech.de/api/"]
 promiflash.de##.ob-p
@@ -4851,6 +4854,7 @@ psychic.de##div[style="width:160px;height:600px;"]
 korrekturen.de##div[style="width:300px; height:250px;float:left; margin-right:15px; margin-bottom:15px; border:0; background-color:#c0c0c0; overflow:hidden;"]
 tarnkappe.info##div[style="width:300px;height:250px"]
 news.ch##div[style="width:300px;padding:12px;float:left;"]
+anal-pornos.com##div[style="width:310px; height: 510px;"]
 winfuture.de##div[style="width:670px;height:280px;"]
 korrekturen.de##div[style="width:728px; height: 90px; text-align: center; background-color:#c0c0c0;"]
 bafoeg-rechner.de,studis-online.de##div[style^="min-height: 90px;"]
