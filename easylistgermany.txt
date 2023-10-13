@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202310121750
+! Version: 202310131602
 ! Title: EasyList Germany
-! Last modified: 12 Oct 2023 17:50 UTC
+! Last modified: 13 Oct 2023 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1573,6 +1573,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||eintracht.com/fileadmin/Sponsoren/
 ||eisbaeren.de/assets/img/sponsorenbox_
 ||eisenbahn-kurier.de/images/banners/
+||eishockey-online.com/images/banners/
 ||eltee.de/img/broker/
 ||elternforen.com/images/banner_
 ||elternforen.com/images/elternforen_banner.png
@@ -2665,6 +2666,7 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
 ||data-load.in/partner/$popup
 ||delamar.de/out/$popup
+||eishockey-online.news^$popup,domain=eishockey-online.com
 ||sexei.net/go.html$popup
 ||sptopf.de/tshp/RE?ID=$popup,domain=t-online.de
 ||warez.cx^$popup,domain=ibooks.to
@@ -2985,6 +2987,7 @@ diegrenzgaenger.lu###header-wrapper + div[class="row "]
 klamm.de###header_main
 amazon.de###heroQuickPromo_feature_div
 kino.de###hockeystick
+kleinanzeigen.de###home-billboard
 ladies.de###home-teaser
 nibelungen-kurier.de###homeDisplay
 winfuture.de###homepage_rectangle
@@ -4908,7 +4911,7 @@ mikanews.de##img[width="180"][height="120"]
 kultur-port.de,utvmagazin.de##img[width="200"][height="600"]
 messweb.de##img[width="250"]
 fcschweinfurt1905.de##img[width="280"][height="160"]
-basicthinking.de,buecher-magazin.de,fotoobjektiv.at,iplayapps.de,movie-share.one,pi-news.net,radforum.de,radio-oldtimer.de,radiotirol.it,silentworld.eu,suedtirol1.it,tarnkappe.info,va-music-hits.one##img[width="300"]
+basicthinking.de,buecher-magazin.de,eishockey-online.com,fotoobjektiv.at,iplayapps.de,movie-share.one,pi-news.net,radforum.de,radio-oldtimer.de,radiotirol.it,silentworld.eu,suedtirol1.it,tarnkappe.info,va-music-hits.one##img[width="300"]
 mikanews.de##img[width="300"][height="150"]
 gamepro.de##img[width="300"][height="246"]
 arbeitsunrecht.de,boxen.de,fruchthandel.de,mygermantimes.com,pornofilm.zone,stadt-bremerhaven.de,via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
