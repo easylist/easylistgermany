@@ -2360,7 +2360,7 @@ focus.de##div[id^="M_CONTENTAD"]
 focus.de##div[id^="M_TRSCT_hor"]
 t-online.de##div[id^="nativendo"]
 t-online.de##section[data-stage-layout^="custom_nativendo_"]
-!! Advanced element hiding rules for Adblock Plus
+! Advanced element hiding rules for Adblock Plus
 stol.it#?##ContainerFull:-abp-has(a:-abp-contains(Anzeige))
 abendzeitung-muenchen.de#?#article[class^="teaser nummer-"]:-abp-has(span.specialfeature)
 all-electronics.de,automotiveit.eu,produktion.de#?#.ce_topicbox:-abp-has(.label-ad-highlight)
