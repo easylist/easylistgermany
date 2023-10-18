@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202310171416
+! Version: 202310181603
 ! Title: EasyList Germany
-! Last modified: 17 Oct 2023 14:16 UTC
+! Last modified: 18 Oct 2023 16:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5146,8 +5146,8 @@ laola1.at#?#.block.medium:-abp-has(a[href^="https://dt.sportradar.com/"])
 lausitz-tv.de#?#.small-12.column:-abp-contains(Anzeige)
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
-mediamarkt.de#?#div[data-test="mms-product-card"]:-abp-has(div[class^="CardProductSponsoring"])
-mediamarkt.de,saturn.de#?#div[data-test="mms-search-srp-productlist-item"]:-abp-has([class^="StyledSponsoringInnerWrapper"])
+mediamarkt.de,saturn.de#?#div[data-test="mms-product-card"]:-abp-has(div[data-test="mms-plp-sponsored"])
+mediamarkt.de,saturn.de#?#li:-abp-has(div[data-test="mms-product-card"]:-abp-has(span:-abp-contains(Gesponsert)))
 meinbezirk.at#?#.article-list-item.article-card.article-card-default:-abp-has(.commercial-tag)
 meissen-fernsehen.de#?#.text-center:-abp-contains(- Werbung -)
 metager.de#?#.result:-abp-has(a[href^="https://metager.de/partner/r?"])
