@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202310241607
+! Version: 202310271613
 ! Title: EasyList Germany
-! Last modified: 24 Oct 2023 16:07 UTC
+! Last modified: 27 Oct 2023 16:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2901,7 +2901,7 @@ einkochen.info,ipadblog.de,leserbriefe.info,nh24.de,stimmt.at,wiener-online.at##
 popkultur.de###custom_html-21
 andalusien-aktuell.es###custom_html-22
 daily-pia.de,healthhelp.ch,likehifi.de,perbene.ch,prnet.at,signal-online.d,windowspower.de###custom_html-3
-ipadblog.de,presse-nachrichten.de,signal-online.d###custom_html-4
+ipadblog.de,presse-nachrichten.de,signal-online.d,urheberrecht.de###custom_html-4
 radsportjournaltourman.com###custom_html-42
 nachrichten.es,primavera24.de,radsportjournaltourman.com,signal-online.d###custom_html-5
 haus-garten-magazin.de,nachrichten.es###custom_html-6
@@ -3622,7 +3622,7 @@ msxfaq.de##.boxjob
 x-oo.com##.boxx
 radmarkt.de##.branchenberichte
 blick.ch##.brandstudio
-koerperverletzung.com##.brave_popup
+koerperverletzung.com,urheberrecht.de##.brave_popup
 idowa.de##.brick[data-b-title*="Traffective"]
 tri-mag.de##.bscb-23811
 btc-echo.de##.btc-sponsored
