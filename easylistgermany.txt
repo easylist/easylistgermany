@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202310281050
+! Version: 202310301556
 ! Title: EasyList Germany
-! Last modified: 28 Oct 2023 10:50 UTC
+! Last modified: 30 Oct 2023 15:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3503,7 +3503,7 @@ hsc2000.de##.avia-slideshow-1
 nrwhits.de##.ax-medium-rectangle-n
 az.com.na##.az-adverts
 blitzrechner.de##.azimg
-abmahnung.org,arbeitslosenselbsthilfe.org,bussgeld-info.de,datenschutz.org,koerperverletzung.com,urheberrecht.de##.azk-native-responsive
+abmahnung.org,arbeitslosenselbsthilfe.org,bussgeld-info.de,bussgeldkatalog.net,bussgeldkatalog.org,datenschutz.org,koerperverletzung.com,urheberrecht.de##.azk-native-responsive
 sumikai.com##.b
 fcaugsburg.de##.b-logo-listing
 hardwareschotte.de##.ba-fullsize
@@ -5198,6 +5198,7 @@ saechsische.de#?#.article-fill:-abp-has(.article-badge.article-badge--ad)
 satvision.de#?#.fc_bloglist_item:-abp-has(a:-abp-contains(Advertorial))
 satvision.de#?#.mod_flexicontent_standard_wrapper:-abp-has(span:-abp-contains(Advertorial))
 seo-suedwest.de#?#.moduletable:-abp-has(span:-abp-contains(Anzeige))
+shop-apotheke.com#?#article.o-CompactProductListItem:-abp-has(a[href^="https://retail-api.sa-tech.de/api/"])
 skodacommunity.de#?#article.message--post:-abp-has(a:-abp-contains(Anzeige))
 smartphonemag.de#?#.td_module_wrap:-abp-has(.td-post-author-name:-abp-contains(Werbung))
 sportdeutschland.tv#?#.text-right.text-white.col-6:-abp-contains(präsentiert von)
