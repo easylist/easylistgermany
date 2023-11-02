@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311012044
+! Version: 202311021416
 ! Title: EasyList Germany
-! Last modified: 01 Nov 2023 20:44 UTC
+! Last modified: 02 Nov 2023 14:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3941,6 +3941,7 @@ queer.de##.leistenbanner
 frischauf-gp.de##.ligaadd
 1000ps.ch##.links
 mydict.com,mydict.net##.list-group
+gmx.ch,gmx.net,web.de##.list-programmatic-inbox-ad-item__iframe
 queer.de##.listenbannerlinks
 liveticker.com##.live-betting-strip
 bibliomed-pflege.de##.lns-banners-zone
@@ -4955,6 +4956,8 @@ vital.de##kas[type="placement"]
 restegourmet.de##li[data-content-type="ad"]
 quoka.de##li[data-m3ads]
 gmx.ch,gmx.net,web.de##list-inbox-ad-item
+gmx.ch,gmx.net,web.de##list-inbox-pga-ad-item
+gmx.ch,gmx.net,web.de##list-programmatic-inbox-ad-item
 chip.de##section.Subchapter > div.fb-trim > div.fb-col-12 > div.ButtonAuswahl + div
 ariva.de##span[onpointerdown^="countClickOnGAorEs("]
 ariva.de##span[onpointerup*="prgAnalyticsEvent("]
