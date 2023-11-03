@@ -125,7 +125,6 @@ sonic-seducer.de###banner_oben
 dreingau-zeitung.de###banner_right
 juve.de###banner_sidebar
 dreingau-zeitung.de,linguee.de###banner_top
-chip.de###banner_top_table
 saiten.ch###banner_vertical
 queer.de###banneroben
 port01.com###bannerpos2
@@ -664,7 +663,6 @@ mactechnews.de##.Content_1-minheight
 mactechnews.de##.Content_3-minheight
 chip.de##.FC.mt-md-so[role="complementary"]
 praxistipps.focus.de##.FC__Ad
-chip.de##.FC__Container.min-height-250px-mu
 swoodoo.com##.Flights-Results-FlightRightRail
 perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
@@ -2397,6 +2395,7 @@ chip.de#?#.Subchapter div[id][class][style="display: flex;"]:-abp-contains(ANZEI
 chip.de#?#.mt-md > div:-abp-contains(Gesponserte Empfehlung)
 chip.de#?#.mt-md:-abp-has(path[d$="92.456,64.241 z"])
 chip.de#?#a.secondary:-abp-has(.Badge__Content:-abp-contains(/anzeige|gesponsert/))
+chip.de#?#a[href^="https://www.chip.de/downloads/"]:-abp-has(img + div:-abp-contains(Anzeige))
 chip.de#?#a[href^="https://x.chip.de/"]:-abp-has(path[d$="92.456,64.241 z"])
 chip.de#?#a[onclick]:-abp-has(path[d^="M92.456,64.241L66.18"])
 chip.de#?#article > a:-abp-contains(Anzeige)
