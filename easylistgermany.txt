@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311031753
+! Version: 202311041253
 ! Title: EasyList Germany
-! Last modified: 03 Nov 2023 17:53 UTC
+! Last modified: 04 Nov 2023 12:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4912,6 +4912,7 @@ areadvd.de##img[referrerpolicy="unsafe-url"]
 aerotelegraph.com,clever-tanken.de,supremacy1914.de##img[referrerpolicy]
 data-load.in##img[style="width:270px;height:80px;"]
 data-load.in##img[style="width:700px;height:90px;"]
+ibooks.to##img[title="Usenet"]
 vfl.de##img[width="110"]
 fruchthandel.de,nh24.de##img[width="140"][height="140"]
 wirsiegen.de##img[width="140"][height="180"]
@@ -4945,7 +4946,7 @@ hallescherfc.de##img[width="605"][height="690"]
 lokalezeitung.de##img[width="640"][height="165"]
 lokalo.de##img[width="700"]
 stereo.de##img[width="728"]
-championstream.de,fruchthandel.de,online-gebuehrenrechner.de,vfl.de##img[width="728"][height="90"]
+championstream.de,fruchthandel.de,ibooks.to,online-gebuehrenrechner.de,vfl.de##img[width="728"][height="90"]
 sportradio-deutschland.de##img[width="768"][height="768"]
 lokalo.de##img[width="770"]
 teneriffa-aktuell.com##img[width="800"][height="230"]
