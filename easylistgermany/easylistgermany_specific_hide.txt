@@ -316,9 +316,6 @@ kleinanzeigen.de###home-billboard
 ladies.de###home-teaser
 nibelungen-kurier.de###homeDisplay
 winfuture.de###homepage_rectangle
-chip.de###hp-aquamarin
-chip.de###hp-aquamarin-1
-chip.de###hp-aquamarin-2
 immoauktionen.de###immowebAdCont
 familienkost.de###incontent_1
 familienkost.de###incontent_2
@@ -1986,6 +1983,9 @@ kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px;
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 android-hilfe.de,macuser.de,usp-forum.de##article.message--post:not([data-author])
 otto.de##article[data-producttile-tracking*="wk.san_ProductType\":\"sponsored\""]
+chip.de##article[data-vr-zone="hp-aquamarin"]
+chip.de##article[data-vr-zone="hp-aquamarin-1"]
+chip.de##article[data-vr-zone="hp-aquamarin-2"]
 blick.ch##aside[id^="appnexus-placement"]
 weristdeinfreund.de##aside[id^="banner"]
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
