@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311061439
+! Version: 202311101441
 ! Title: EasyList Germany
-! Last modified: 06 Nov 2023 14:39 UTC
+! Last modified: 10 Nov 2023 14:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3323,7 +3323,7 @@ ladies.de###zeiten
 au-ja.de##.ADVBOX
 preissuchmaschine.de##.AFS_ADD
 onvista.de##.ANZEIGE
-chip.de,finanzfrage.net,gutefrage.net,praxistipps.focus.de##.Ad
+finanzfrage.net,gutefrage.net,praxistipps.focus.de##.Ad
 finanznachrichten.de##.Ad_FinativeHome
 finanznachrichten.de##.Ad_ImageTeaser
 finanznachrichten.de##.Ad_SmartAd
@@ -5013,7 +5013,7 @@ t-online.de##.css-2k2lok
 n-tv.de##.ems-slot
 focus.de##.fol_mew-flying-carpet-wrapper
 focus.de##.ob-ad-carousel-layout
-chip.de##.ob-widget .ob-p
+chip.de##.ob-widget-items-container > .ob-p
 jetzt.de,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
 notebookchat.com,prosieben.de,tvspielfilm.de##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
