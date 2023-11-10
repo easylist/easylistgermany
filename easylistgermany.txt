@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311101441
+! Version: 202311101744
 ! Title: EasyList Germany
-! Last modified: 10 Nov 2023 14:41 UTC
+! Last modified: 10 Nov 2023 17:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5319,7 +5319,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
 @@||metal-hammer.de^$generichide
-@@||middleware.marktjagd.de/proxy/$domain=fressnapf.ch|maxizoo.ch|sparwelt.de
+@@||middleware.marktjagd.de/proxy/$domain=aktionspreis.de|donau-ries-aktuell.de|fressnapf.ch|infranken.de|maxizoo.ch|sparwelt.de
 @@||mmcomputer.de^*&BannerID=$subdocument
 @@||musikexpress.de^$generichide
 @@||myhomebook.de^$generichide
@@ -5344,6 +5344,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||sport.de^$generichide
 @@||sport1.de^$generichide
 @@||sportbild.bild.de^$generichide
+@@||spotlight.offerista.com^$domain=aktionspreis.de|donau-ries-aktuell.de|infranken.de
 @@||stylebook.de^$generichide
 @@||sueddeutsche.de^$generichide
 @@||symplr.de^$script,domain=ableitungsrechner.net|integralrechner.de
