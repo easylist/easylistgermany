@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311121239
+! Version: 202311131533
 ! Title: EasyList Germany
-! Last modified: 12 Nov 2023 12:39 UTC
+! Last modified: 13 Nov 2023 15:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1005,7 +1005,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||china-gadgets.de^$subdocument,third-party
 ||communicationads.net/tb.php
 ||crawler.pearl.de/pearl-crawler/banner?
-||cript.to/plopscript.php
 ||datingpartner.com/medien/$third-party
 ||dealdog.net/dealdog.php
 ||dealdoktor.de/m/$third-party
@@ -3674,19 +3673,14 @@ gota6.ch,sex-infos.ch##.clubBox
 zueri6.ch##.cm-popup-modal
 preis24.de##.cms-cl_tariff-row--ad
 quoka.de##.cnt-rgt
-borncity.com,raptastisch.net##.code-block-1
-borncity.com##.code-block-10
+raptastisch.net##.code-block-1
 raptastisch.net##.code-block-12
 fussballnationalmannschaft.net,wohnungswirtschaft-heute.de##.code-block-13
 raptastisch.net##.code-block-14
-borncity.com##.code-block-16
-borncity.com,buenasideas.de##.code-block-2
-borncity.com##.code-block-3
+buenasideas.de##.code-block-2
 ibooks.to##.code-block-3[style]
-borncity.com,deinhandy.de##.code-block-4
-borncity.com##.code-block-5
-borncity.com##.code-block-6
-borncity.com,ibooks.to,raptastisch.net##.code-block-7
+deinhandy.de##.code-block-4
+ibooks.to,raptastisch.net##.code-block-7
 raptastisch.net##.code-block-h-250px
 raptastisch.net##.code-block-h-300px
 tech-review.de,wallstreet-online.de,watson.de,wn.de##.commercial
