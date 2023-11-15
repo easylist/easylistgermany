@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311131533
+! Version: 202311151701
 ! Title: EasyList Germany
-! Last modified: 13 Nov 2023 15:33 UTC
+! Last modified: 15 Nov 2023 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5268,7 +5268,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||live.primis.tech/live/liveView.php?$script,domain=nextpit.de
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
-@@||middleware.marktjagd.de/proxy/$domain=aktionspreis.de|donau-ries-aktuell.de|fressnapf.ch|infranken.de|maxizoo.ch|sparwelt.de
+@@||middleware.marktjagd.de/proxy/$domain=aktionspreis.de|angebote.focus.de|donau-ries-aktuell.de|fressnapf.ch|infranken.de|maxizoo.ch|sparwelt.de
 @@||mmcomputer.de^*&BannerID=$subdocument
 @@||native.emsservice.de/images/teaser*_*.jpeg$domain=11freunde.de
 @@||native.emsservice.de/teasers/*.json$domain=11freunde.de
