@@ -6,6 +6,7 @@
 ||chip.de/downloads/*.html|$popup,domain=chip.de
 ||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
 ||data-load.in/partner/$popup
+||ddownload.com/free$popup,domain=ibooks.to
 ||delamar.de/out/$popup
 ||eishockey-online.news^$popup,domain=eishockey-online.com
 ||sexei.net/go.html$popup
