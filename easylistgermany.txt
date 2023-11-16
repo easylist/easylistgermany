@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311161408
+! Version: 202311161844
 ! Title: EasyList Germany
-! Last modified: 16 Nov 2023 14:08 UTC
+! Last modified: 16 Nov 2023 18:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3415,6 +3415,7 @@ africa-positive.de,androidhow.eu,arbeitszeugnisgenerator.de,autoscout24.ch,badi-
 efahrer.chip.de##.ads-alignment
 glarus24.ch,radiocentral.ch,sunshine.ch##.ads-container
 6profis.de##.ads6p
+chefkoch.de##.ads__initialized
 meetingpoint-brandenburg.de##.ads_mobile
 eatsmarter.de##.adsense
 stereo.de##.adserver
@@ -4657,6 +4658,7 @@ ww3.cad.de##body > table[width="100%"][border="0"]:first-child
 ddl-warez.cc##button[onclick*="/af.php"]
 ibooks.to##button[type="submit"]
 abload.de##center > table > tbody > tr > td[valign="bottom"][align="center"][style="width: 100%;"]
+chefkoch.de##consent-for
 winfuture.de##div[align="center"][style="min-height: 320px;"]
 3dchip.de##div[align="center"][width="468px"] > table[height="60"][cellspacing="0"][cellpadding="0"][border="0"][align="center"]
 bitreporter.de##div[class$="-adlabel"]
