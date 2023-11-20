@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311162203
+! Version: 202311201522
 ! Title: EasyList Germany
-! Last modified: 16 Nov 2023 22:03 UTC
+! Last modified: 20 Nov 2023 15:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4339,7 +4339,7 @@ bauernzeitung.at##.tdi_59
 neumarkt-tv.de##.tdi_88
 bestattungen.de##.tdp
 bild.de##.tea-rectangle
-wort.lu##.teaser--sponsored
+nzz.ch,wort.lu##.teaser--sponsored
 ariva.de##.teaserPicturedNews
 watson.ch##.teaser_type_paid_content
 familie.de##.teaserheld-header-wrapper
