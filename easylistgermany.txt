@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311201550
+! Version: 202311211930
 ! Title: EasyList Germany
-! Last modified: 20 Nov 2023 15:50 UTC
+! Last modified: 21 Nov 2023 19:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4697,6 +4697,7 @@ amazon.de##div[data-ad-id]
 welt.de##div[data-ad]
 rtl.de,vox.de##div[data-adformat="halfpage"]
 rtl.de,vox.de##div[data-adformat="rectangle"]
+unsere-helden.com##div[data-ads-provider="sdg"]
 gmx.net,web.de##div[data-adservice-slot]
 studysmarter.de##div[data-adv-location]
 berliner-zeitung.de##div[data-component-type="ad-slot"]
