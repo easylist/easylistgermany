@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311221714
+! Version: 202311221715
 ! Title: EasyList Germany
-! Last modified: 22 Nov 2023 17:14 UTC
+! Last modified: 22 Nov 2023 17:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2091,6 +2091,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||pianonews.de/images/banners/
 ||pianonews.de/images/CASIO_grandhybrid_290x150px_
 ||picdumps.com/ddeal
+||pilotenboard.de/ad/
 ||pixelio.de/resources/widgets/clipdealer_
 ||plus.tourispo.com^
 ||pokerfirma.com^*-banner.
