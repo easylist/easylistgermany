@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311221715
+! Version: 202311221752
 ! Title: EasyList Germany
-! Last modified: 22 Nov 2023 17:15 UTC
+! Last modified: 22 Nov 2023 17:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4714,6 +4714,7 @@ giga.de##div[data-sdg-ad]
 t-online.de##div[data-testid="TaboolaFeeds.Feed"]
 evangelische-zeitung.de##div[data-testid="article-billboard-advertisement"]
 sport1.de##div[data-testid="better-collective"]
+ran.de##div[data-testid="display-ad"]
 sportbild.bild.de##div[data-tr-doc-type="dt=InlineAd|st=BTOAdTag"]
 giga.de##div[data-trigger="sourcepoint-ad"]
 prosiebengames.de##div[data-url-link^="https://track-adspree.com/"]
