@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311231930
+! Version: 202311241159
 ! Title: EasyList Germany
-! Last modified: 23 Nov 2023 19:30 UTC
+! Last modified: 24 Nov 2023 11:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2682,6 +2682,7 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||ddownload.com/free$popup,domain=ibooks.to
 ||delamar.de/out/$popup
 ||eishockey-online.news^$popup,domain=eishockey-online.com
+||linux-magazin.de/wp-content/uploads/*#$popup,domain=linux-magazin.de
 ||sexei.net/go.html$popup
 ||sptopf.de/tshp/RE?ID=$popup,domain=t-online.de
 ||warez.cx^$popup,domain=ibooks.to
