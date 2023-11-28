@@ -85,7 +85,6 @@
 @@||welect.de/$document,subdocument
 @@||werbebanner24.de/templates/_wb24/_assets/images/$image,domain=werbebanner24.de
 @@||windowspro.de^$~third-party,xmlhttprequest
-@@||www.quoka.de/services/qai/qac/autocomplete.php?$xmlhttprequest
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 ! $generichide/block
 @@||ableitungsrechner.net^$generichide
