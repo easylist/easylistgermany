@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311281855
+! Version: 202311281919
 ! Title: EasyList Germany
-! Last modified: 28 Nov 2023 18:55 UTC
+! Last modified: 28 Nov 2023 19:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2272,6 +2272,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||sportwetten.org/wp-content/uploads/*-400x300-
 ||sportwetten.org/wp-content/uploads/*-banner-
 ||spox.com/daznpic/
+||spox.com/de/xprod/adswitch.html
 ||sprachen-lernen-online.org/wp-content/uploads/*/skyscraper_
 ||sprade.tv/images/robin_banner.gif
 ||spreeblick.com/wp-content/themes/*/hosteurope.gif
@@ -3424,6 +3425,7 @@ chefkoch.de##.ads__initialized
 meetingpoint-brandenburg.de##.ads_mobile
 eatsmarter.de,quoka.de##.adsense
 stereo.de##.adserver
+spox.com##.adsurbg
 hierspielen.com##.adtitle
 fitforfun.de,ibb-anzeiger.de,suchen.mobile.de,suedtiroltv.it##.adv
 oberberg-aktuell.de##.adv-indicator
