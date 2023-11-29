@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311291503
+! Version: 202311291846
 ! Title: EasyList Germany
-! Last modified: 29 Nov 2023 15:03 UTC
+! Last modified: 29 Nov 2023 18:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4875,6 +4875,7 @@ anal-pornos.com##div[style="width:310px; height: 510px;"]
 winfuture.de##div[style="width:670px;height:280px;"]
 korrekturen.de##div[style="width:728px; height: 90px; text-align: center; background-color:#c0c0c0;"]
 livestreamde.com##div[style^="height:300px;"]
+buchstaben.com##div[style^="min-height: 330px;"]
 bafoeg-rechner.de,studis-online.de##div[style^="min-height: 90px;"]
 froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com##div[style^="text-align:center;font-size:80%;"]
 news.ch##div[style^="width: 300px;"]
