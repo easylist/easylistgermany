@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311301810
+! Version: 202311301811
 ! Title: EasyList Germany
-! Last modified: 30 Nov 2023 18:10 UTC
+! Last modified: 30 Nov 2023 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3131,6 +3131,8 @@ bluray-disc.de###pricechange-box
 golem.de###pricehits
 adspecials.sevenonemedia.de###promobalken
 fanfiktion.de###qql
+infoheute.de###r89-desktop-billboard-atf-0-wrapper
+infoheute.de###r89-desktop-incontent-0-wrapper
 tarnkappe.info###rectangle
 gamestar.de###rectangle-container-desktop
 gelbeseiten.de###rectangles
