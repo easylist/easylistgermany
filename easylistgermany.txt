@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311301811
+! Version: 202311301829
 ! Title: EasyList Germany
-! Last modified: 30 Nov 2023 18:11 UTC
+! Last modified: 30 Nov 2023 18:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3490,6 +3490,7 @@ willhaben.at##.apn-leaderboard-wrapper
 oefb.at##.app-foesvAdSpace
 blick.ch##.appnexus-container
 heise.de##.article-layout__header-wrbng
+onlinehaendler-news.de##.article-rectangle
 computerbase.de##.article-view__rectangle
 itmagazine.ch##.article_rectangle
 rhein-zeitung.de##.articlebody__rectangle
@@ -4015,6 +4016,7 @@ mopo.de##.mopo-ads-editor
 jetztspielen.de##.mpu
 finanzen.net##.mrec-height-prefix
 clever-tanken.de##.mrec-news
+meinestadt.de##.ms-adPlace
 mtb-news.de##.mtbn-fotos-incontent__container--mobile
 mtb-news.de##.mtbnews-forum__in-thread
 mtb-news.de##.mtbnews-forum__mobile-top
