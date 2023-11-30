@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202311301409
+! Version: 202311301810
 ! Title: EasyList Germany
-! Last modified: 30 Nov 2023 14:09 UTC
+! Last modified: 30 Nov 2023 18:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2751,6 +2751,7 @@ webwiki.de###addmeright
 webwiki.de###addmetop
 engadinerpost.ch###aditems
 gepostet.com,web.de###ads
+infoheute.de###adsight-slider
 abload.de###adunten + div[style="font-size:8pt; color:#999999; margin-left:39px; width: 728px;"]
 voucherwonderland.com###adup1
 voucherwonderland.com###adup3
