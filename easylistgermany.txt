@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312041709
+! Version: 202312041853
 ! Title: EasyList Germany
-! Last modified: 04 Dec 2023 17:09 UTC
+! Last modified: 04 Dec 2023 18:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3016,6 +3016,8 @@ juraforum.de###jf-stroer-sky
 juraforum.de###jf-stroer-superbanner
 local.ch###js-banner
 ostfriesischer-kurier.de###jsn-pos-user-top
+forum.kinder.de###kinder\.de_sitebar_1
+forum.kinder.de###kinder\.de_sitebar_2
 klamm.de###klamm\.de_forum_1
 klamm.de###klamm\.de_forum_3
 klamm.de###klamm\.de_incontent_1
@@ -5189,6 +5191,7 @@ photographie.de#?#.post.type-post.status-publish:-abp-has(.anzeige-box)
 pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
 preis24.de#?#.box.box-style1:-abp-has(.notice)
 print.de#?#.excerpt-tile.cell:-abp-has(.advertorials)
+produktion.de#?#.postlist-item:-abp-has(.label:-abp-contains(Gesponsert))
 promiflash.de#?#.onlyDesktop:-abp-has(div.adContainer)
 promobil.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 report-d.de#?#.content-view-containerbox:-abp-contains(SONDER-VERÖFFENTLICHUNG)
