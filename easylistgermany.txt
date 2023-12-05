@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312051758
+! Version: 202312051851
 ! Title: EasyList Germany
-! Last modified: 05 Dec 2023 17:58 UTC
+! Last modified: 05 Dec 2023 18:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4319,7 +4319,7 @@ tutonaut.de##.stream-item
 ecvsv.at##.stream-item-top-wrapper
 tutonaut.de##.stream-item-widget
 de.motor1.com,insideevs.de##.stroer-ap
-insideevs.de##.stroer-ap_wrapper
+de.motor1.com,insideevs.de##.stroer-ap_wrapper
 sinn-frei.com##.stx
 coincierge.de##.su-button
 handyraketen.de##.su-button-wide[href^="http://amzn.to/"]
@@ -4722,6 +4722,7 @@ volksblatt.at##div[data-div-ratios="default:300_250"]
 volksblatt.at##div[data-div-ratios="default:696_280|500:300_250"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[data-dy*="Partner:"]
 apfelpage.de##div[data-embed-provider="rcm-eu-amazon-adsystem-com"]
+de.motor1.com##div[data-entrypoint="heycar-search-widget"]
 ingolstadt-today.de##div[data-ez-block-id="3324017"]
 alles-mahlsdorf.de##div[data-id="904ffeb"]
 kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
