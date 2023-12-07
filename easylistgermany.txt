@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312051851
+! Version: 202312071550
 ! Title: EasyList Germany
-! Last modified: 05 Dec 2023 18:51 UTC
+! Last modified: 07 Dec 2023 15:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5114,6 +5114,8 @@ futurezone.de#?#article[data-post-id]:-abp-has(.sponsor-byline)
 games.ch#?#.col4:-abp-has(h3:-abp-contains(Unterstützt durch:))
 gamestar.de#?#.content-item-medium:-abp-has(data:-abp-contains(Anzeige))
 gamestar.de#?#.content-item-small:-abp-has(h3:-abp-contains(Anzeige))
+gamestar.de#?#.contentnewsitem-box .box-reload .news-list:-abp-has(span.media-heading:-abp-contains([Anzeige]))
+gamestar.de#?#.contentnewsitem-box .box-reload > div:-abp-has(.news-list span.media-heading:-abp-contains([Anzeige])) + hr
 gesundheit.de#?#.box.img_link:-abp-has(.advertorial_hint)
 giga.de#?#.alice-teaser-list-item:-abp-has(.alice-teaser-meta-text:-abp-contains(Anzeige))
 gofeminin.de#?#.af-block-native:-abp-contains(Anzeige)
@@ -5162,6 +5164,8 @@ linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(G
 marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
 mediamarkt.de,saturn.de#?#div[data-test="mms-product-card"]:-abp-has(div[data-test="mms-plp-sponsored"])
 mediamarkt.de,saturn.de#?#li:-abp-has(div[data-test="mms-product-card"]:-abp-has(span:-abp-contains(Gesponsert)))
+mein-mmo.de#?#li.article:-abp-has([data-type="sponsored"])
+mein-mmo.de#?#section.post:-abp-has([data-type="sponsored"])
 meinbezirk.at#?#.article-list-item.article-card.article-card-default:-abp-has(.commercial-tag)
 meissen-fernsehen.de#?#.text-center:-abp-contains(- Werbung -)
 metager.de#?#.result:-abp-has(a[href^="https://metager.de/partner/r?"])
