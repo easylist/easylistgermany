@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312071635
+! Version: 202312071719
 ! Title: EasyList Germany
-! Last modified: 07 Dec 2023 16:35 UTC
+! Last modified: 07 Dec 2023 17:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3033,6 +3033,7 @@ bauexpertenforum.de###leaderboardBelowNav
 koelner.de###leaderboard_nav
 anime-loads.org###leaderwidget
 macwelt.de,pcwelt.de###leadfullWrapper
+autouncle.de###left-banner-container
 kleinanzeigen.de###liberty-home-above-header
 kleinanzeigen.de###liberty-home-billboard
 kleinanzeigen.de###liberty-vip-billboard
@@ -3142,6 +3143,7 @@ gelbeseiten.de###rectangles
 produck.de###rel-article
 pressecop24.com###responsive_lightbox_image_widget-5
 pressecop24.com###responsive_lightbox_image_widget-6
+autouncle.de###right-banner-container
 gebraucht-kaufen.de###right-banners
 nydus.org###right160x600
 tvhalle.de###rightCont
@@ -4868,6 +4870,7 @@ nydus.org##div[style="overflow:hidden;border: 1px solid #ccc;background:#f7f7f7;
 sprachnudel.de##div[style="padding:5px 0 5px 0;"][align="center"]
 weristdeinfreund.de##div[style="position:absolute; top:5px; left:0px; text-align:center; width:100%; max-width:1000px; height:90px; overflow:hidden;"]
 4fansites.de##div[style="text-align: center; min-height: 110px;"]
+autouncle.de##div[style="text-align: center; min-height: 180px;"]
 4fansites.de##div[style="text-align: center; min-height:260px;"]
 quoka.de##div[style="width: 100%; height: 250px; overflow: hidden; text-align: center; padding-top: 10px;"]
 stroxley.de##div[style="width: 160px; height: 600px; margin: auto;"]
