@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312071852
+! Version: 202312071930
 ! Title: EasyList Germany
-! Last modified: 07 Dec 2023 18:52 UTC
+! Last modified: 07 Dec 2023 19:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4704,6 +4704,7 @@ t-online.de,www-t--online-de.cdn.ampproject.org##div[class^="Tsshopst"]
 sport.de##div[class^="ada-preservespace-"]
 berliner-zeitung.de##div[class^="article_billboard-"]
 2ix2.com##div[class^="bireklam"]
+experten.de##div[class^="c-ad-exper-"]
 costanachrichten.com##div[class^="lp_track_"]
 morecore.de##div[class^="morec-"]
 emtb-news.de,mtb-news.de##div[class^="mtbnews-ad-container"]
