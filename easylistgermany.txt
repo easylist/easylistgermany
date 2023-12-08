@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312072157
+! Version: 202312081510
 ! Title: EasyList Germany
-! Last modified: 07 Dec 2023 21:57 UTC
+! Last modified: 08 Dec 2023 15:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5105,6 +5105,7 @@ ebay.de#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 elektrobike-online.com#?#.v-A_-topteaser__article:-abp-has(.v-A_-teaser__tag--ad)
 emotion.de#?#.node--article:-abp-has(span:-abp-contains(Anzeige))
 eurotransport.de#?#.v-A_-sidecol__list__item:-abp-has(.v-A_-teaser__tag--ad)
+experten.de#?#.c-sidebar:-abp-has(> .widget-odd > div[class^="c-ad-exper-"])
 fazemag.de#?#h4:-abp-has(span:-abp-contains(ANZEIGEN))
 fertigung.de#?#.owl-carousel.owl-loaded.owl-drag:-abp-has(.label-ad-highlight)
 feuerwehrmagazin.de#?#.excerpt-tile.cell.small-12.medium-6:-abp-has(.advertorials)
