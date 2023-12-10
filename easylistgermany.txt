@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312101720
+! Version: 202312101721
 ! Title: EasyList Germany
-! Last modified: 10 Dec 2023 17:20 UTC
+! Last modified: 10 Dec 2023 17:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3012,7 +3012,7 @@ familienkost.de###incontent_2
 bz-berlin.de###inpage
 abload.de###iphpbannerleft
 golem.de###iqadtile5
-ariva.de###iqd_mainAd
+ariva.de,handelsblatt.com###iqd_mainAd
 rp-online.de###ir_rpd_lb
 finanzen.net###ishares_etf_variation
 juraforum.de###jf-stroer-sky
