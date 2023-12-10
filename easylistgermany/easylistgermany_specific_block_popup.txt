@@ -3,7 +3,6 @@
 ^utm_medium=popunder^$popup,domain=hilfreich.de
 ||amazon.de^*^tag=$popup,domain=rheinlandpfalz-news.de
 ||bitporno.to/api/direct/$popup
-||chip.de/downloads/*.html|$popup,domain=chip.de
 ||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
 ||data-load.in/partner/$popup
 ||ddownload.com/free$popup,domain=ibooks.to
