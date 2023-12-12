@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312121623
+! Version: 202312121730
 ! Title: EasyList Germany
-! Last modified: 12 Dec 2023 16:23 UTC
+! Last modified: 12 Dec 2023 17:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5176,6 +5176,8 @@ kajak-magazin.com#?#.custom:-abp-has(span:-abp-contains(Anzeige))
 kaufland.de#?#.product:-abp-has(div.product__sponsored-ad-label)
 kaufland.de#?#.rd-recommender__tile:-abp-has(div.rd-product-tile__badge--ad)
 kaufland.de#?#.recommender-wrapper:-abp-contains(Gesponsert)
+la-palma24.info#?#article[class^="dvs-ad-tyblqtres-uno"]:-abp-has(div:-abp-contains(AD))
+la-palma24.info#?#div[class^="dvbloqbasic"]:-abp-has(div:-abp-contains(Ad))
 laola1.at#?#.block.medium:-abp-has(a[href^="https://dt.sportradar.com/"])
 lausitz-tv.de#?#.small-12.column:-abp-contains(Anzeige)
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
