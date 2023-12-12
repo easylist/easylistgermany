@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312121730
+! Version: 202312121804
 ! Title: EasyList Germany
-! Last modified: 12 Dec 2023 17:30 UTC
+! Last modified: 12 Dec 2023 18:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5199,6 +5199,7 @@ motorradonline.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--
 motorradonline.de#?#.v-A_-topteaser__rotationbox__item:-abp-has(.v-A_-teaser__tag--ad)
 motorsport-total.com#?#.teaser_container.teaser-htmlcode.relative.row:-abp-has(.f1de-container-title:-abp-contains(Die besten Leasing-Deals))
 mountainbike-magazin.de#?#.v-A_-white__tile:-abp-has(.v-A_-teaser__tag--ad)
+notebookcheck.com#?#.introa_news:-abp-contains(Anzeige)
 nur-positive-nachrichten.de#?#.moduletable.text-center:-abp-has(.bildunterschrift:-abp-contains(Anzeige))
 nydus.org#?#div.ui-tabs:-abp-has(#nydus_org_300x600_desktop_1)
 nydus.org#?#div:-abp-has(> #nydus_org_970x300_billboard_responsive)
