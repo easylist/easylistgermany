@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312112048
+! Version: 202312121623
 ! Title: EasyList Germany
-! Last modified: 11 Dec 2023 20:48 UTC
+! Last modified: 12 Dec 2023 16:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5089,6 +5089,7 @@ bitreporter.de#?#.code-block:-abp-has(span:-abp-contains(/ANZEIGE|Anzeige|Werbun
 boersennews.de#?##bnTickerContainer:-abp-has(#bnTickerAdNotice)
 caravaning.de#?#.v-A_-teaser__halfcol__listitem:-abp-has(.v-A_-teaser__tag--ad)
 carpediem.life#?#.post-overview:-abp-has(div:-abp-contains(Anzeige))
+celleheute.de#?#div.YzqVVZ:-abp-has(span.wixui-rich-text__text:-abp-contains(Anzeigen))
 chip.de#?#.Listing > div[class]:-abp-has(path[d$="92.456,64.241 z"])
 chip.de#?#.mt-md:-abp-has(path[d$="92.456,64.241 z"])
 chip.de#?#a.secondary:-abp-has(.Badge__Content:-abp-contains(/anzeige|gesponsert/))
