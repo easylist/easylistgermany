@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312121804
+! Version: 202312141916
 ! Title: EasyList Germany
-! Last modified: 12 Dec 2023 18:04 UTC
+! Last modified: 14 Dec 2023 19:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1517,6 +1517,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||cyclingmagazine.de/wp-content/uploads/*_Banner_
 ||daily-pia.de/wp-content/uploads/*/manitu_hostedby-
 ||dasbewegtdiewelt.de/wp-content/banner/
+||dasoertliche.de/js/rmif.js
 ||dcmservice.de/_lib/toastr/toastr.min.js$domain=gesundheit.de
 ||deinesexfilme.com/img/linklist2/
 ||deister-echo.de/wp-content/uploads/*/ad_
@@ -3067,6 +3068,7 @@ kremser-sc.at###media_image-6
 kremser-sc.at###media_image-7
 kremser-sc.at###media_image-8
 kremser-sc.at###media_image-9
+dasoertliche.de###medium_rect
 av-views.com###mh_magazine_custom_posts-5
 koeln.de###mini-panel-rs_teaser_verpoorten
 hceintracht-hildesheim.de###module-sponsors
@@ -3104,6 +3106,7 @@ nydus.org###nybanner
 nydus.org###nydus_org_970x300_billboard_responsive
 autoexperience.de,flugzeugforum.de,gs-forum.eu,uhrforum.de,xbox-passion.de###oc24-div
 elektrikforen.de###oc24_container_top
+dasoertliche.de###oetb_entryAd
 yasni.de###offer
 planetradio.de###omsRectangleChannel
 onmeda.de###on-footer-banner
@@ -5328,7 +5331,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||live.primis.tech/live/liveView.php?$script,domain=nextpit.de
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
-@@||middleware.marktjagd.de/proxy/$domain=aktionspreis.de|angebote.focus.de|donau-ries-aktuell.de|fressnapf.ch|infranken.de|maxizoo.ch|meinestadt.de|sparwelt.de
+@@||middleware.marktjagd.de/proxy/$domain=aktionspreis.de|angebote.focus.de|dasoertliche.de|donau-ries-aktuell.de|fressnapf.ch|infranken.de|maxizoo.ch|meinestadt.de|sparwelt.de
 @@||mmcomputer.de^*&BannerID=$subdocument
 @@||native.emsservice.de/images/teaser*_*.jpeg$domain=11freunde.de
 @@||native.emsservice.de/teasers/*.json$domain=11freunde.de
@@ -5340,7 +5343,7 @@ zwischengas.com#?#.row.mt-0.mb-3.d-print-none:-abp-has(.fa-ad)
 @@||smartadserver.com/ac?nwid=*&tag=sas_45579^$script,domain=fitbook.de
 @@||smartclip.net/?plc=$script,domain=spiele.rtl.de
 @@||smartclip.net/ads?$script,domain=spiele.rtl.de
-@@||spotlight.offerista.com^$domain=aktionspreis.de|donau-ries-aktuell.de|infranken.de|meinestadt.de
+@@||spotlight.offerista.com^$domain=aktionspreis.de|dasoertliche.de|donau-ries-aktuell.de|infranken.de|meinestadt.de
 @@||symplr.de^$script,domain=ableitungsrechner.net|integralrechner.de
 @@||tdn.da-services.ch/current/20min_durable.js$domain=20min.ch
 @@||vcdn.adnxs.com/p/creative-image^$image,domain=stylebook.de
