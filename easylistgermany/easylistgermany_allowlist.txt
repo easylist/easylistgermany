@@ -63,7 +63,7 @@
 @@||live.primis.tech/live/liveView.php?$script,domain=nextpit.de
 @@||maxbanner.de/media/products/$image,domain=maxbanner.de
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
-@@||middleware.marktjagd.de/proxy/$domain=aktionspreis.de|angebote.focus.de|donau-ries-aktuell.de|fressnapf.ch|infranken.de|maxizoo.ch|meinestadt.de|sparwelt.de
+@@||middleware.marktjagd.de/proxy/$domain=aktionspreis.de|angebote.focus.de|dasoertliche.de|donau-ries-aktuell.de|fressnapf.ch|infranken.de|maxizoo.ch|meinestadt.de|sparwelt.de
 @@||mmcomputer.de^*&BannerID=$subdocument
 @@||native.emsservice.de/images/teaser*_*.jpeg$domain=11freunde.de
 @@||native.emsservice.de/teasers/*.json$domain=11freunde.de
@@ -75,7 +75,7 @@
 @@||smartadserver.com/ac?nwid=*&tag=sas_45579^$script,domain=fitbook.de
 @@||smartclip.net/?plc=$script,domain=spiele.rtl.de
 @@||smartclip.net/ads?$script,domain=spiele.rtl.de
-@@||spotlight.offerista.com^$domain=aktionspreis.de|donau-ries-aktuell.de|infranken.de|meinestadt.de
+@@||spotlight.offerista.com^$domain=aktionspreis.de|dasoertliche.de|donau-ries-aktuell.de|infranken.de|meinestadt.de
 @@||symplr.de^$script,domain=ableitungsrechner.net|integralrechner.de
 @@||tdn.da-services.ch/current/20min_durable.js$domain=20min.ch
 @@||vcdn.adnxs.com/p/creative-image^$image,domain=stylebook.de
