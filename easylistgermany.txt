@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312151635
+! Version: 202312151653
 ! Title: EasyList Germany
-! Last modified: 15 Dec 2023 16:35 UTC
+! Last modified: 15 Dec 2023 16:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4722,6 +4722,7 @@ via-ferrata.de##div[class^="overlay-"]
 grenzecho.net##div[class^="pane-dpipub-"]
 pictures-magazin.de##div[class^="pictu-"]
 rundschau.info##div[class^="runds-werbung-"]
+berliner-kurier.de##div[class^="showheroes_"]
 berliner-zeitung.de,evangelische-zeitung.de##div[class^="traffective_"]
 winfuture.de##div[class^="ws_contentAd"]
 amazon.de##div[data-ad-id]
@@ -4743,7 +4744,7 @@ alles-mahlsdorf.de##div[data-id="904ffeb"]
 kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
 giga.de##div[data-sdg-ad]
 t-online.de##div[data-testid="TaboolaFeeds.Feed"]
-evangelische-zeitung.de##div[data-testid="article-billboard-advertisement"]
+berliner-kurier.de,evangelische-zeitung.de##div[data-testid="article-billboard-advertisement"]
 sport1.de##div[data-testid="better-collective"]
 sportbild.bild.de##div[data-tr-doc-type="dt=InlineAd|st=BTOAdTag"]
 giga.de##div[data-trigger="sourcepoint-ad"]
@@ -4832,7 +4833,7 @@ amazon.de##div[id^="sp_detail"]
 supertipp-online.de##div[id^="super-"]
 teltarif.de##div[id^="tarifSlider"]
 tippscout.de##div[id^="tipps-"]
-bbheute.de,berliner-zeitung.de,bietigheimerzeitung.de,blick.de,donaukurier.de,evangelische-zeitung.de,frankenpost.de,ingolstadt-today.de,krzbb.de,mittelbayerische.de,mopo.de,np-coburg.de,pnp.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
+bbheute.de,berliner-kurier.de,berliner-zeitung.de,bietigheimerzeitung.de,blick.de,donaukurier.de,evangelische-zeitung.de,frankenpost.de,ingolstadt-today.de,krzbb.de,mittelbayerische.de,mopo.de,np-coburg.de,pnp.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
 20min.ch##div[id^="wettbewerbe__inside-"]
 20min.ch##div[id^="wirtschaft__inside-"]
 20min.ch##div[id^="wissen__inside-"]
