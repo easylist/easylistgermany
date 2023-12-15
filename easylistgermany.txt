@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312141944
+! Version: 202312151634
 ! Title: EasyList Germany
-! Last modified: 14 Dec 2023 19:44 UTC
+! Last modified: 15 Dec 2023 16:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5138,6 +5138,7 @@ gamestar.de#?#.content-item-small:-abp-has(h3:-abp-contains(Anzeige))
 gamestar.de#?#.contentnewsitem-box .box-reload .news-list:-abp-has(span.media-heading:-abp-contains([Anzeige]))
 gamestar.de#?#.contentnewsitem-box .box-reload > div:-abp-has(.news-list span.media-heading:-abp-contains([Anzeige])) + hr
 gesundheit.de#?#.box.img_link:-abp-has(.advertorial_hint)
+gewinn.com#?#.article-latest.article-layout-0 > .row:-abp-has(.advertorial-icon)
 giga.de#?#.alice-teaser-list-item:-abp-has(.alice-teaser-meta-text:-abp-contains(Anzeige))
 gofeminin.de#?#.af-block-native:-abp-contains(Anzeige)
 gofeminin.de#?#.af-block-native:-abp-contains(Sponsored Post)
