@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312151634
+! Version: 202312151635
 ! Title: EasyList Germany
-! Last modified: 15 Dec 2023 16:34 UTC
+! Last modified: 15 Dec 2023 16:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1715,6 +1715,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||godmode-trader.de/img/partner/
 ||gofeminin.de/home4/skin/*_*/home.css|
 ||goldesel.sx/img/b3f2784f11449ba054835ce14db00d7611.jpg
+||goldpreis.de/ajax/revs.php?
 ||golem.de/_img/200923-syseleven-kubernetes.jpg
 ||golfmagazin.de/content/uploads/*/banner_
 ||googlewatchblog.de/apt.png
@@ -2746,6 +2747,7 @@ pokewiki.de,timeanddate.de###ad1
 pokewiki.de###ad2
 pokewiki.de###ad3
 myboerse.bz,thinkpad-forum.de###ad_global_below_navbar
+goldpreis.de###ad_gsbuch
 kreuzwort-raetsel.net###ad_ic_1
 kreuzwort-raetsel.net###ad_ic_2
 1und1.de,gmx.net,web.de###adc1
