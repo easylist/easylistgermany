@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312272205
+! Version: 202312291533
 ! Title: EasyList Germany
-! Last modified: 27 Dec 2023 22:05 UTC
+! Last modified: 29 Dec 2023 15:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5096,6 +5096,7 @@ automotiveit.eu,instandhaltung.de,produktion.de,technik-einkauf.de#?#.ce_postlis
 avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorials))
 avguide.ch#?#.gridteaser.gridteaser-m:-abp-has(h4:-abp-contains(Sponsored Post))
 az.com.na#?#aside:-abp-has(img[src*="/adverts/"])
+bauernzeitung.ch#?#div:-abp-has(> .advert)
 baur.de#?#div[data-testid="card"]:-abp-has(span.MuiCardHeader-title:-abp-contains(Gesponserte Artikel))
 baur.de#?#div[data-testid="reco-wrapper"]:-abp-has(div[class^="indexesm__HeadlineElement-fragment-product-master__"]:-abp-contains(Gesponserte Artikel))
 bergsteiger.de#?#.eight.columns.alpha.content:-abp-has(span:-abp-contains(Advertorial))
