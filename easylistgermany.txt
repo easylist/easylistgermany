@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312291700
+! Version: 202312301945
 ! Title: EasyList Germany
-! Last modified: 29 Dec 2023 17:00 UTC
+! Last modified: 30 Dec 2023 19:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4016,7 +4016,7 @@ lokalo.de##.media_image-32
 fuersie.de,grazia-magazin.de,idee-fuer-mich.de,jolie.de,leben-und-erziehen.de,maedchen.de,ok-magazin.de,petra.de,vital.de##.mediumrectangle
 ligaportal.at##.medrec
 comback.ch##.mega-banner-outer
-hardwareluxx.de##.message--post:not([data-author])
+android-hilfe.de,hardwareluxx.de,macuser.de,toyota-forum.de,usp-forum.de##.message--post:not([data-author])
 lite-magazin.de##.metaslider
 goolive.de##.mgawerbungbase
 unterwasserwelt.de##.mh-footer
@@ -4688,7 +4688,6 @@ anisearch.de,herz-fuer-tiere.de,schweizer-illustrierte.ch##a[rel="sponsored"]
 andalusien-aktuell.es,sex4u.ch##a[rel^="sponsored"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
-android-hilfe.de,macuser.de,usp-forum.de##article.message--post:not([data-author])
 otto.de##article[data-producttile-tracking*="wk.san_ProductType\":\"sponsored\""]
 chip.de##article[data-vr-zone="hp-aquamarin"]
 chip.de##article[data-vr-zone="hp-aquamarin-1"]
