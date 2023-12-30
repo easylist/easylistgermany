@@ -238,6 +238,7 @@ wochenblatt.pl###custom_post_widget-6
 city23.at###dabplusshop
 finanznachrichten.de,wallstreet-online.de###dban1
 finanznachrichten.de,wallstreet-online.de###dban2
+wallstreet-online.de###dban3
 wallstreet-online.de###dcb1
 wallstreet-online.de###dcb2
 bluray-disc.de###deals-aktionen-box
@@ -2569,6 +2570,7 @@ wallstreet-online.de#?#.module.c1.hidden-xs:-abp-has(span.issuerPromotionHint:-a
 wallstreet-online.de#?#.newsflash:-abp-has(span.suffix.wo-inline-block.pull-right:-abp-contains(Anzeige))
 wallstreet-online.de#?#.newsflash:-abp-has(span.wo-inline-block:-abp-contains(Anzeige))
 wallstreet-online.de#?#.sbteaser:-abp-has(span.generalAdTag)
+wallstreet-online.de#?#.similarNews:-abp-has(span[title="Anzeige"])
 wallstreet-online.de#?#.sliderItem.active:-abp-has(span.news-item:-abp-has(img[alt="Anzeige"]))
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.angebot)
 wallstreet-online.de#?#.teaser.objectfit:-abp-has(div.anzeige)
