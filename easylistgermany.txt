@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202312311005
+! Version: 202401021615
 ! Title: EasyList Germany
-! Last modified: 31 Dec 2023 10:05 UTC
+! Last modified: 02 Jan 2024 16:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4730,7 +4730,7 @@ grenzecho.net##div[class^="pane-dpipub-"]
 pictures-magazin.de##div[class^="pictu-"]
 rundschau.info##div[class^="runds-werbung-"]
 berliner-kurier.de##div[class^="showheroes_"]
-berliner-zeitung.de,evangelische-zeitung.de##div[class^="traffective_"]
+berliner-kurier.de,berliner-zeitung.de,evangelische-zeitung.de##div[class^="traffective_"]
 winfuture.de##div[class^="ws_contentAd"]
 amazon.de##div[data-ad-id]
 welt.de##div[data-ad]
