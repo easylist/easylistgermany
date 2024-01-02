@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401021723
+! Version: 202401021824
 ! Title: EasyList Germany
-! Last modified: 02 Jan 2024 17:23 UTC
+! Last modified: 02 Jan 2024 18:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1516,9 +1516,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||crosswater-job-guide.com/pics/banner_
 ||curt.de^*/gastrobanner/
 ||curt.de^*/petabanner.jpg
-||cyclingmagazine.de/wp-content/uploads/*/Banner300pxbreit.jpg
-||cyclingmagazine.de/wp-content/uploads/*/Castelli_k_bib_s.jpg
-||cyclingmagazine.de/wp-content/uploads/*_Banner_
 ||daily-pia.de/wp-content/uploads/*/manitu_hostedby-
 ||dasbewegtdiewelt.de/wp-content/banner/
 ||dasoertliche.de/js/rmif.js
@@ -2921,8 +2918,8 @@ einkochen.info,ipadblog.de,leserbriefe.info,nh24.de,stimmt.at,wiener-online.at##
 popkultur.de###custom_html-21
 andalusien-aktuell.es###custom_html-22
 dvd-forum.at###custom_html-27
-daily-pia.de,healthhelp.ch,likehifi.de,perbene.ch,prnet.at,signal-online.de,windowspower.de###custom_html-3
-ipadblog.de,presse-nachrichten.de,signal-online.de,urheberrecht.de###custom_html-4
+daily-pia.de,healthhelp.ch,likehifi.de,perbene.ch,prnet.at,windowspower.de###custom_html-3
+ipadblog.de,presse-nachrichten.de,urheberrecht.de###custom_html-4
 radsportjournaltourman.com###custom_html-42
 nachrichten.es,primavera24.de,radsportjournaltourman.com,signal-online.d###custom_html-5
 haus-garten-magazin.de,nachrichten.es###custom_html-6
@@ -4366,7 +4363,7 @@ selbstaendig-im-netz.de##.tad1
 golem.de##.tags
 frustfrei-lernen.de##.tandem_right
 frustfrei-lernen.de##.tandem_top
-anime2you.de,bitreporter.de,condor.cl,elliniki-gnomi.eu,literaturwelt.com,oscar-am-freitag.de,pfalz-echo.de,pi-news.net,prad.de##.td-a-rec
+anime2you.de,bitreporter.de,condor.cl,cyclingmagazine.de,elliniki-gnomi.eu,literaturwelt.com,oscar-am-freitag.de,pfalz-echo.de,pi-news.net,prad.de##.td-a-rec
 smartphonemag.de##.td-banner-wrap-full
 primavera24.de##.td-header-container
 marktindex.ch##.td-header-header
@@ -4496,7 +4493,7 @@ nachbelichtet.com##.widget_aawp_widget_new_releases
 usa-info.net##.widget_atkp_widget
 zueri6.ch##.widget_banner
 diesachsen.de##.widget_commerce
-autogazette.de,schmunzelseite.de##.widget_custom_html
+autogazette.de,cyclingmagazine.de,schmunzelseite.de##.widget_custom_html
 nibelungen-kurier.de##.widget_dkge_wrapper
 freiluft-blog.de##.widget_links
 hebelschein-spekulant.de##.widget_media_image
@@ -4644,7 +4641,6 @@ ero-world.info##a[href^="https://vxcsh.com/"]
 spiele-umsonst.de##a[href^="https://wgaffiliate.com/?a="]
 bildschirmarbeiter.com,bitreporter.de,chip.de,emok.tv,naruto-tube.org,nickles.de,onepiece-tube.com,pcgamesdatabase.de,pcwelt.de,pi-news.net,ruhrbarone.de,schule-studium.de,wiiunews.at##a[href^="https://www.amazon."][href*="tag="]
 uepo.de##a[href^="https://www.amazon."][href*="tag="] > img
-cyclingmagazine.de##a[href^="https://www.amazon.de/"] > img
 apfeltalk.de##a[href^="https://www.apfeltalk.de/magazin/affiliate/"]
 aus-liebe.net,pcwelt.de,radsport-seite.de##a[href^="https://www.awin1.com/cread.php?"]
 chinahandys.net##a[href^="https://www.banggood.com/marketing-"]
@@ -4657,7 +4653,6 @@ beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,hd-sexfilme
 wallstreet-online.de##a[href^="https://www.etracker.de/ccr?"]
 pi-news.net##a[href^="https://www.fincabayano.net/"]
 rockitradio.ch,vintageradio.ch##a[href^="https://www.frankly.ch/"]
-cyclingmagazine.de##a[href^="https://www.google.com/"] > img
 beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,hd-sexfilme.com,hdpornos.net,herzporno.com,lesbenhd.com,meinyouporn.com,pornoaffe.com,pornoente.tv,pornofisch.com,pornohammer.com,pornohans.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornotom.com,pornotommy.com,pornozebra.com,sexente.com,sexvideos-hd.com,tube8-pornos.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.handy-sextreff.info/?c="]
 hockeyweb.de##a[href^="https://www.hockeyweb.de/?rex-api-call=pixel_forward&url="]
 beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,hd-sexfilme.com,hdpornos.net,lesbenhd.com,meinyouporn.com,pornoaffe.com,pornoente.tv,pornofisch.com,pornohammer.com,pornohans.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornotom.com,pornotommy.com,pornozebra.com,sexente.com,sexvideos-hd.com,tube8-pornos.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.julia-reaves.com/?bicc="]
@@ -5204,7 +5199,7 @@ chip.de#?#div:-abp-properties(min-height: 250px;)
 chip.de#?#section > header + a + div + div:-abp-has(div:-abp-contains(Anzeige))
 computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains(Anzeige))
 computerbild.de#?#article.gridArea__teaserM:-abp-has(div.teaserBlock__label:-abp-contains(Anzeige))
-cyclingmagazine.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Sponsored Post))
+cyclingmagazine.de#?#p:-abp-contains(Anzeige) > strong > a[target="_blank"][rel="noopener"] > picture
 dkamera.de#?#.node.teaser:-abp-has(a:-abp-contains(Anzeige))
 ebay.de#?#.b-module:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.mfe-lex:-abp-has(h2:-abp-contains(Anzeigen))
