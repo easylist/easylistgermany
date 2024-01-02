@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401021703
+! Version: 202401021704
 ! Title: EasyList Germany
-! Last modified: 02 Jan 2024 17:03 UTC
+! Last modified: 02 Jan 2024 17:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -589,6 +589,7 @@ finanzen.ch#@#.bc-ad__appnexus
 blog.notebooksbilliger.de#@#.category-advertorial
 openlimit.com#@#.content_ad
 di.fm,kellertheater.at#@#.firstload
+wallstreet-online.de#@#.footer-advertising
 11freunde.de,gala.de,geo.de,kochbar.de,rtl.de,vip.de#@#.gujAd
 11freunde.de#@#.house-ad
 hochzeitswahn.de#@#.internal-ad
@@ -4681,6 +4682,7 @@ ladies.de##a[href^="https://zwinkr.de/landing/"]
 dervinschger.it##a[id="bottombanner"]
 wallstreet-online.de##a[onclick*="'tableAd'"]
 wallstreet-online.de##a[onclick*="'tableAd'"] + img
+wallstreet-online.de##a[onclick*="tableAd"] + span
 shaz.ch##a[onclick^="__gaTracker('send', 'event', 'Ads'"]
 allround-pc.com##a[rel*="sponsored"]
 computerbase.de##a[rel*="sponsored"] > img[alt="Anzeige"]
@@ -5176,6 +5178,7 @@ jameda.de##li:has([data-testid="advertisementSign-flag"])
 golem.de##li[data-article-id]:has(.icon-addy)
 mein-mmo.de##section.post:has([data-type="sponsored"])
 finanznachrichten.de##tr:has(span.sprite.h-w-c)
+wallstreet-online.de##tr:has(td > .float-end > span[title="Anzeige"])
 wallstreet-online.de##tr:has(td.right:has(img[alt="Anzeige"]))
 ! Advanced element hiding rules for Adblock Plus
 stol.it#?##ContainerFull:-abp-has(a:-abp-contains(Anzeige))
