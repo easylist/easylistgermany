@@ -1668,7 +1668,7 @@ selbstaendig-im-netz.de##.tad1
 golem.de##.tags
 frustfrei-lernen.de##.tandem_right
 frustfrei-lernen.de##.tandem_top
-anime2you.de,bitreporter.de,condor.cl,elliniki-gnomi.eu,literaturwelt.com,oscar-am-freitag.de,pfalz-echo.de,pi-news.net,prad.de##.td-a-rec
+anime2you.de,bitreporter.de,condor.cl,cyclingmagazine.de,elliniki-gnomi.eu,literaturwelt.com,oscar-am-freitag.de,pfalz-echo.de,pi-news.net,prad.de##.td-a-rec
 smartphonemag.de##.td-banner-wrap-full
 primavera24.de##.td-header-container
 marktindex.ch##.td-header-header
@@ -1798,7 +1798,7 @@ nachbelichtet.com##.widget_aawp_widget_new_releases
 usa-info.net##.widget_atkp_widget
 zueri6.ch##.widget_banner
 diesachsen.de##.widget_commerce
-autogazette.de,schmunzelseite.de##.widget_custom_html
+autogazette.de,cyclingmagazine.de,schmunzelseite.de##.widget_custom_html
 nibelungen-kurier.de##.widget_dkge_wrapper
 freiluft-blog.de##.widget_links
 hebelschein-spekulant.de##.widget_media_image
@@ -2506,7 +2506,7 @@ chip.de#?#div:-abp-properties(min-height: 250px;)
 chip.de#?#section > header + a + div + div:-abp-has(div:-abp-contains(Anzeige))
 computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains(Anzeige))
 computerbild.de#?#article.gridArea__teaserM:-abp-has(div.teaserBlock__label:-abp-contains(Anzeige))
-cyclingmagazine.de#?#.td_block_wrap:-abp-has(a:-abp-contains(Sponsored Post))
+cyclingmagazine.de#?#p:-abp-contains(Anzeige) > strong > a[target="_blank"][rel="noopener"] > picture
 dkamera.de#?#.node.teaser:-abp-has(a:-abp-contains(Anzeige))
 ebay.de#?#.b-module:-abp-has(h2:-abp-contains(Anzeigen))
 ebay.de#?#.mfe-lex:-abp-has(h2:-abp-contains(Anzeigen))
