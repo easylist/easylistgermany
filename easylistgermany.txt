@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401042223
+! Version: 202401042227
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2024 22:23 UTC
+! Last modified: 04 Jan 2024 22:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -560,6 +560,7 @@ _woz_banner_vote.
 ##a[href^="https://www.tik-tok-date.com/"]
 ##a[href^="https://www.tipico.com/?affiliateId="]
 ##a[href^="https://www.vavoo.tv/promo/"] > img
+##a[href^="https://www.wazazu.com/NWS/"]
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_general_hide.txt ***
 ping-timeout.de#@##Advertisements
 openlimit.com#@##adLink
