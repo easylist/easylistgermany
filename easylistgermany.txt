@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401042213
+! Version: 202401042216
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2024 22:13 UTC
+! Last modified: 04 Jan 2024 22:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4511,7 +4511,7 @@ regensburg-digital.de##.wk-slideshow
 ariva.de##.woBannerHeader
 ariva.de##.wo_news_top_banner
 allround-pc.com##.wp-element-button[href^="https://amzn.to/"]
-pornohut.info##.wps-player__happy-inside
+pornohut.info,xvideos-deutsch.com##.wps-player__happy-inside
 technic3d.com##.wrap > footer[style="bottom: -260px;"]:last-child > div:first-child
 fkk24.de##.wrapper-banner
 come-on.de,fnp.de,fr.de,merkur.de,soester-anzeiger.de,tz.de,wa.de##.wv_story_el_billboard
