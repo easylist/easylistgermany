@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401021824
+! Version: 202401041350
 ! Title: EasyList Germany
-! Last modified: 02 Jan 2024 18:24 UTC
+! Last modified: 04 Jan 2024 13:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5153,7 +5153,6 @@ bauernzeitung.ch##div:has(> .advert)
 froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com##div:has(> img[referrerpolicy="unsafe-url"])
 wayfair.de##div[data-hb-id="Grid.Item"]:has(a[href*="&sponsoredid="])
 mediamarkt.de,saturn.de##div[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
-t-online.de##div[data-testid="StreamLayout.Companion"]:has(a[href^="https://ad.doubleclick.net/"])
 jungefreiheit.de##div[data-widget_type="shortcode.default"]:has(.adsbygoogle)
 jungefreiheit.de##div[style="text-align: center;"]:has(.adsbygoogle)
 hornoxe.com##h2.storytitle:has(a[href^="http://bit.ly/"])
