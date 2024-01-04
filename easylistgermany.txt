@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401041912
+! Version: 202401042213
 ! Title: EasyList Germany
-! Last modified: 04 Jan 2024 19:12 UTC
+! Last modified: 04 Jan 2024 22:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2118,6 +2118,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||pornohexen.com/js/a9k3jf823m4.js
 ||pornohirsch.net/cpanel/
 ||pornohirsch.net/img/linklist2/
+||pornohut.info/ad/
 ||pornohutdeutsch.net/wp-content/*/93kgk95aw2q.js
 ||pornojenny.com/cpanel/
 ||pornojenny.com/img/linklist/
@@ -3885,6 +3886,7 @@ my-homo.net##.gxt_feed
 qiez.de##.h5v
 news.de##.halfpage
 hallobuer.ruhr##.hallo-inhalt_2
+pornohut.info##.happy-player-beside
 hc-erlangen-ev.de##.hauptsponsor
 fc-hansa.de##.hauptsponsoren
 tagesspiegel.de##.hcf-news-aktuell
@@ -4509,6 +4511,7 @@ regensburg-digital.de##.wk-slideshow
 ariva.de##.woBannerHeader
 ariva.de##.wo_news_top_banner
 allround-pc.com##.wp-element-button[href^="https://amzn.to/"]
+pornohut.info##.wps-player__happy-inside
 technic3d.com##.wrap > footer[style="bottom: -260px;"]:last-child > div:first-child
 fkk24.de##.wrapper-banner
 come-on.de,fnp.de,fr.de,merkur.de,soester-anzeiger.de,tz.de,wa.de##.wv_story_el_billboard
