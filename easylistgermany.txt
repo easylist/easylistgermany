@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401051720
+! Version: 202401051743
 ! Title: EasyList Germany
-! Last modified: 05 Jan 2024 17:20 UTC
+! Last modified: 05 Jan 2024 17:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1365,6 +1365,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||algarve-entdecker.com/wp-content/uploads/*/xbanner-
 ||alles-mahlsdorf.de/wp-content/uploads/*-Banner-
 ||alles-mahlsdorf.de/wp-content/uploads/*-werbung-
+||allkeyshop.com/blog/wp-content/uploads/Game_over_2023_sale_-_AKS-up.webp
 ||allround-pc.com/com$image
 ||altesrad.net/phpBB3/images/banner/
 ||amazonaws.com/bnp_657x209_$domain=finanzen.net
@@ -2414,7 +2415,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||tvdigital.de/frontpage/deutschland_urlaub_horzu_
 ||tvinfo.de/info/TWIAGO/
 ||tweakpc.de/wpimages/tweakpc-skin-
-||twincdn.com/video/preroll_$rewrite=abp-resource:blank-mp4,domain=beeg-pornos.com|deinesexfilme.com|deutscherporno.biz|einfachtitten.com|gutesexfilme.com|halloporno.net|hd-pornos.info|hd-sexfilme.com|hdpornos.net|herzporno.com|kornhub.co|lesbenhd.com|meinyouporn.com|nursexfilme.com|pornhub-sexfilme.net|pornhutdeutsch.com|pornoaffe.net|pornodavid.com|pornoente.tv|pornofisch.com|pornohammer.com|pornohans.com|pornohirsch.net|pornohutdeutsch.net|pornojenny.com|pornoklinge.com|pornoleon.com|pornolisa.com|pornoritze.com|pornoschlange.com|pornosusi.com|pornotanja.com|pornotom.com|pornovideos-hd.com|pornozebra.com|sexente.com|sexfilme-gratis.com|sexfilme24.org|sexhamster.biz|sexvideos-gratis.com|sexvideos-hd.com|tube8-pornos.com|xnxx-porno.com|xnxx-pornos.xxx|xnxx-sexfilme.com|youporndeutsch.xyz
+||twincdn.com/video/susilive/$rewrite=abp-resource:blank-mp4,domain=beeg-pornos.com|deinesexfilme.com|deutscherporno.biz|einfachtitten.com|gutesexfilme.com|halloporno.net|hd-pornos.info|hd-sexfilme.com|hdpornos.net|herzporno.com|kornhub.co|lesbenhd.com|meinyouporn.com|nursexfilme.com|pornhub-sexfilme.net|pornhutdeutsch.com|pornoaffe.net|pornodavid.com|pornoente.tv|pornofisch.com|pornohammer.com|pornohans.com|pornohirsch.net|pornohutdeutsch.net|pornojenny.com|pornoklinge.com|pornoleon.com|pornolisa.com|pornoritze.com|pornoschlange.com|pornosusi.com|pornotanja.com|pornotom.com|pornovideos-hd.com|pornozebra.com|sexente.com|sexfilme-gratis.com|sexfilme24.org|sexhamster.biz|sexvideos-gratis.com|sexvideos-hd.com|tube8-pornos.com|xnxx-porno.com|xnxx-pornos.xxx|xnxx-sexfilme.com|youporndeutsch.xyz
 ||typo3blogger.de/wp-content/*/dkd-solr-werde-sponsor.jpg
 ||uhrforum.de/styles/uhrforum/anzeigen/
 ||uhrforum.de/styles/uhrforum/sponsored/
@@ -3629,6 +3630,8 @@ infranken.de##.billboard-wrapper
 computerbild.de##.billboardBtfContainer
 djmag.de##.billboardbanner
 computerbase.de##.blackfriday
+keyforsteam.de##.blc-left
+keyforsteam.de##.blc-right
 galaxy-ingolstadt.de##.block-11
 galaxy-ingolstadt.de##.block-12
 galaxy-ingolstadt.de##.block-13
@@ -4085,6 +4088,7 @@ promiflash.de##.ob-p
 winfuture.de##.ob_what
 gs-forum.eu##.oc24-sidebar
 liveticker.com##.odds
+keyforsteam.de##.offline
 maschinensucher.at,maschinensucher.ch,maschinensucher.de##.ofni
 finanznachrichten.de##.on-click--partner
 onmeda.de##.on-top-banner-wrapper
