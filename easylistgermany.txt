@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401051743
+! Version: 202401051751
 ! Title: EasyList Germany
-! Last modified: 05 Jan 2024 17:43 UTC
+! Last modified: 05 Jan 2024 17:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2112,6 +2112,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||pornoaffe.com/img/linklist2/
 ||pornoente.tv/cpanel/
 ||pornoente.tv/img/linklist2/
+||pornoente.tv/static/exnb/
 ||pornofisch.com/cpanel/
 ||pornohammer.com/cpanel/
 ||pornohammer.com/img/linklist/
@@ -2121,6 +2122,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||pornohexen.com/js/a9k3jf823m4.js
 ||pornohirsch.net/cpanel/
 ||pornohirsch.net/img/linklist2/
+||pornohirsch.net/static/exnb/
 ||pornohut.info/ad/
 ||pornohutdeutsch.net/wp-content/*/93kgk95aw2q.js
 ||pornojenny.com/cpanel/
@@ -2129,7 +2131,9 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||pornoklinge.com/cpanel/
 ||pornoklinge.com/img/linklist/
 ||pornoklinge.com/img/linklist2/
+||pornolisa.com/static/exnb/
 ||pornos-kostenlos.com/js/a9k3jf823m4.js
+||pornotanja.com/static/exnb/
 ||pornotom.com/cpanel/
 ||pornotom.com/img/linklist2/
 ||pornotommy.com/cpanel/
@@ -2658,10 +2662,6 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||pagead2.googlesyndication.com^$domain=autobild.de|gofeminin.de
 ||perfectmarket.com^$domain=autobild.de
 ||plista.com/pictureads/$domain=autobild.de
-||pornoente.tv/static/exnb/
-||pornohirsch.net/static/exnb/
-||pornolisa.com/static/exnb/
-||pornotanja.com/static/exnb/
 ||pubmatic.com^$domain=gofeminin.de
 ||redintelligence.net^$domain=g.doubleclick.net
 ||rtax.criteo.com^$domain=autobild.de
