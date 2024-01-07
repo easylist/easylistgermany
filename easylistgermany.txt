@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401051751
+! Version: 202401071829
 ! Title: EasyList Germany
-! Last modified: 05 Jan 2024 17:51 UTC
+! Last modified: 07 Jan 2024 18:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5190,8 +5190,7 @@ wallstreet-online.de##tr:has(td.right:has(img[alt="Anzeige"]))
 stol.it#?##ContainerFull:-abp-has(a:-abp-contains(Anzeige))
 alles-mahlsdorf.de#?#.elementor-section:-abp-has(h2.elementor-heading-title:-abp-contains(Werbung))
 android-hilfe.de#?#article.message--post:-abp-has(span.username:-abp-contains(Anzeige))
-apfeltalk.de#?#div.wpb_text_column:-abp-has(h5:-abp-contains(Werbung))
-apfeltalk.de#?#div.wpb_text_column:-abp-has(h6:-abp-contains(Werbung))
+apfeltalk.de#?#div.wpb_text_column:-abp-contains(Werbung)
 avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorials))
 avguide.ch#?#.gridteaser.gridteaser-m:-abp-has(h4:-abp-contains(Sponsored Post))
 baur.de#?#div[data-testid="card"]:-abp-has(span.MuiCardHeader-title:-abp-contains(Gesponserte Artikel))
