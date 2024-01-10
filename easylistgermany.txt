@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401091753
+! Version: 202401101743
 ! Title: EasyList Germany
-! Last modified: 09 Jan 2024 17:53 UTC
+! Last modified: 10 Jan 2024 17:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3760,6 +3760,7 @@ mannheimer-morgen.de##.core-commercial
 finanzen.net##.cpg_incontent1-container
 finanzen.net##.cpg_incontent2-container
 daswetter.com##.creatividad
+douglas.de##.criteo-product-carousel
 u1-radio.at##.csc-partner
 haus.de##.css-1mdt86f
 filmstreaming-de.life##.custom-ban-wrap
@@ -5173,7 +5174,7 @@ diegrenzgaenger.lu##article[id^=post-]:has(.sponsored-indicator)
 az.com.na##aside:has(img[src*="/adverts/"])
 hornoxe.com##div.post.hentry.ivycat-post:has(a[href^="https://amzn.to/"])
 hornoxe.com##div.post.hentry.ivycat-post:has(a[href^="https://www.amazon.de/"])
-douglas.de##div.product-tile:has(span.product-tile__sponsored)
+douglas.de##div.product-grid-column:has(span.product-tile__sponsored)
 nydus.org##div.ui-tabs:has(#nydus_org_300x600_desktop_1)
 nydus.org##div:has(> #nydus_org_970x300_billboard_responsive)
 bauernzeitung.ch##div:has(> .advert)
