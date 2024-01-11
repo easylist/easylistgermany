@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401112017
+! Version: 202401112103
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2024 20:17 UTC
+! Last modified: 11 Jan 2024 21:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4605,6 +4605,7 @@ hammerporno.xxx##a[href^="//plx.hammerporno.xxx/pool_link/"]
 porno-himmel.net##a[href^="//wixnm.com/"]
 dkamera.de##a[href^="/adserver/goto/"]
 herthabsc.de##a[href^="/de/hertha/sponsoren/exklusiv-partner/uebersicht/page/"]
+nacktefoto.com##a[href^="/red/red.php?"]
 bastel-elfe.de##a[href^="banners.php?"]
 zensiert.net##a[href^="http://camgirly.net"]
 t-online.de,www-t--online-de.cdn.ampproject.org##a[href^="http://count.shopping.t-online.de/RE?ID="]
