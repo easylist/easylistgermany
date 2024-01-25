@@ -2495,6 +2495,11 @@ froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com#
 wayfair.de##div[data-hb-id="Grid.Item"]:has(a[href*="&sponsoredid="])
 mediamarkt.de,saturn.de##div[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
 jungefreiheit.de##div[data-widget_type="shortcode.default"]:has(.adsbygoogle)
+windowspro.de##div[style="font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, Sans-Serif;padding:0;text-align:left;clear:both;"]:has(p[style="font-size:10px;line-height:12px;padding:0;margin:0px 0 0 0;text-align:right;clear:both;"])
+windowspro.de##div[style="font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, Sans-Serif;padding:0;text-align:left;clear:both;"]:has(p[style="font-size:10px;line-height:12px;padding:0;text-align:right;clear:both;"])
+windowspro.de##div[style="padding:2px 0 0 0;margin:0;font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, Sans-Serif;"]:has(span[style="font-size:0.6em;padding-left:0px;"])
+windowspro.de##div[style="padding:5px 0 0 0;margin:0;font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, Sans-Serif;"]:has(span[style="float: right; font-size:0.6em;"])
+windowspro.de##div[style="padding:5px 0 0 0;margin:0;font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, Sans-Serif;"]:has(span[style="font-size:0.6em; float: right"])
 jungefreiheit.de##div[style="text-align: center;"]:has(.adsbygoogle)
 hornoxe.com##h2.storytitle:has(a[href^="http://bit.ly/"])
 hornoxe.com##h2.storytitle:has(a[href^="http://bit.ly/"]) + p
