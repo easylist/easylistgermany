@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401251717
+! Version: 202401261438
 ! Title: EasyList Germany
-! Last modified: 25 Jan 2024 17:17 UTC
+! Last modified: 26 Jan 2024 14:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4483,6 +4483,7 @@ deutschsex.com##.video__sidebar-item
 1200grad.com##.videobanner
 finanztreff.de##.videosponsor_hsbc
 busplaner.de##.view--advertorial
+windowspro.de##.view-idcontent:has(a[href^="/sponsored/"])
 netzwoche.ch##.view-partners
 vip.de##.vip-medium-rectangle
 mobile.de##.vip-placeholder
