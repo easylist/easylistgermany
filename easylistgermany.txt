@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401281541
+! Version: 202401281542
 ! Title: EasyList Germany
-! Last modified: 28 Jan 2024 15:41 UTC
+! Last modified: 28 Jan 2024 15:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4003,6 +4003,7 @@ queer.de##.leistenbanner
 frischauf-gp.de##.ligaadd
 1000ps.ch##.links
 mydict.com,mydict.net##.list-group
+gmx.ch,gmx.net,web.de##.list-inbox-ad-item--multi-line
 gmx.ch,gmx.net,web.de##.list-programmatic-inbox-ad-item__iframe
 queer.de##.listenbannerlinks
 liveticker.com##.live-betting-strip
