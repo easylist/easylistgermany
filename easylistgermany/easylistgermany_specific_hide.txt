@@ -2504,6 +2504,7 @@ windowspro.de##div[style="padding:2px 0 0 0;margin:0;font-family: Verdana, Arial
 windowspro.de##div[style="padding:5px 0 0 0;margin:0;font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, Sans-Serif;"]:has(span[style="float: right; font-size:0.6em;"])
 windowspro.de##div[style="padding:5px 0 0 0;margin:0;font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, Sans-Serif;"]:has(span[style="font-size:0.6em; float: right"])
 jungefreiheit.de##div[style="text-align: center;"]:has(.adsbygoogle)
+windowspro.de##div[style]:has(a[onclick*="/pcs/click"])
 hornoxe.com##h2.storytitle:has(a[href^="http://bit.ly/"])
 hornoxe.com##h2.storytitle:has(a[href^="http://bit.ly/"]) + p
 hornoxe.com##h2.storytitle:has(a[href^="http://bit.ly/"]) + p + div.clear + div.infobox
