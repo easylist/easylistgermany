@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401292214
+! Version: 202401292215
 ! Title: EasyList Germany
-! Last modified: 29 Jan 2024 22:14 UTC
+! Last modified: 29 Jan 2024 22:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4529,6 +4529,7 @@ wp-koenigin.de##.widget__image--banner
 gameswirtschaft.de,haus-garten-magazin.de##.widget_aawp_widget_bestseller
 gameswirtschaft.de##.widget_aawp_widget_box
 nachbelichtet.com##.widget_aawp_widget_new_releases
+gearnews.de##.widget_adtag_rectangle
 usa-info.net##.widget_atkp_widget
 zueri6.ch##.widget_banner
 diesachsen.de##.widget_commerce
