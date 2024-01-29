@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401281542
+! Version: 202401291455
 ! Title: EasyList Germany
-! Last modified: 28 Jan 2024 15:42 UTC
+! Last modified: 29 Jan 2024 14:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4791,7 +4791,7 @@ giga.de##div[data-sdg-ad]
 t-online.de##div[data-testid="TaboolaFeeds.Feed"]
 berliner-kurier.de,evangelische-zeitung.de##div[data-testid="article-billboard-advertisement"]
 sport1.de##div[data-testid="better-collective"]
-sat1.de##div[data-testid="display-ad"]
+kabeleins.de,prosieben.de,ran.de,sat1.de##div[data-testid="display-ad"]
 suchen.mobile.de##div[data-testid^="SRP_SBANNER_"]
 suchen.mobile.de##div[data-testid^="SRP_TABLECELL_"]
 sportbild.bild.de##div[data-tr-doc-type="dt=InlineAd|st=BTOAdTag"]
@@ -5188,6 +5188,7 @@ abendzeitung-muenchen.de##article[class^="teaser nummer-"]:has(span.specialfeatu
 futurezone.de##article[data-post-id]:has(.sponsor-byline)
 diegrenzgaenger.lu##article[id^=post-]:has(.sponsored-indicator)
 az.com.na##aside:has(img[src*="/adverts/"])
+berlinstadtservice.de#?#.row.block03:-abp-has(p:-abp-contains(ANZEIGE))
 hornoxe.com##div.post.hentry.ivycat-post:has(a[href^="https://amzn.to/"])
 hornoxe.com##div.post.hentry.ivycat-post:has(a[href^="https://www.amazon.de/"])
 douglas.de##div.product-grid-column:has(span.product-tile__sponsored)
@@ -5208,6 +5209,8 @@ finanznachrichten.de##tr:has(span.sprite.h-w-c)
 wallstreet-online.de##tr:has(td > .float-end > span[title="Anzeige"])
 wallstreet-online.de##tr:has(td.right:has(img[alt="Anzeige"]))
 ! Advanced element hiding rules for Adblock Plus
+berlinstadtservice.de##.a.block04:has(a[href^="https://www.awin1.com/"])
+berlinstadtservice.de##.wrap-col.box4:has(a[href^="https://www.awin1.com/"])
 stol.it#?##ContainerFull:-abp-has(a:-abp-contains(Anzeige))
 alles-mahlsdorf.de#?#.elementor-section:-abp-has(h2.elementor-heading-title:-abp-contains(Werbung))
 android-hilfe.de#?#article.message--post:-abp-has(span.username:-abp-contains(Anzeige))
