@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401291553
+! Version: 202401291728
 ! Title: EasyList Germany
-! Last modified: 29 Jan 2024 15:53 UTC
+! Last modified: 29 Jan 2024 17:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4727,6 +4727,7 @@ anisearch.de,herz-fuer-tiere.de,schweizer-illustrierte.ch##a[rel="sponsored"]
 andalusien-aktuell.es,sex4u.ch##a[rel^="sponsored"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
+sportdeutschland.tv##app-top-banner
 otto.de##article[data-producttile-tracking*="wk.san_ProductType\":\"sponsored\""]
 chip.de##article[data-vr-zone="hp-aquamarin"]
 chip.de##article[data-vr-zone="hp-aquamarin-1"]
