@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401291728
+! Version: 202401291729
 ! Title: EasyList Germany
-! Last modified: 29 Jan 2024 17:28 UTC
+! Last modified: 29 Jan 2024 17:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3841,6 +3841,7 @@ immobilienscout24.de##.expose-ad-placeholder
 cannabis-medic.eu##.externalURL
 news.de##.extraContentContainer
 de.motor1.com##.f1de-container
+mywheels.tv##.falken-banner
 fcbayern.com##.fcb-ad-banner-container
 bunte.de##.fe-channel-item--promo
 ff-bz.com##.ff-ba
@@ -4488,6 +4489,7 @@ finanztreff.de##.videosponsor_hsbc
 busplaner.de##.view--advertorial
 windowspro.de##.view-idcontent:has(a[href^="/sponsored/"])
 netzwoche.ch##.view-partners
+mywheels.tv##.view-type-falken
 vip.de##.vip-medium-rectangle
 mobile.de##.vip-placeholder
 vip.de##.vip-teaser
