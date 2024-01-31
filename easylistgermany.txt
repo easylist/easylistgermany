@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202401301724
+! Version: 202401311931
 ! Title: EasyList Germany
-! Last modified: 30 Jan 2024 17:24 UTC
+! Last modified: 31 Jan 2024 19:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4758,7 +4758,7 @@ rnd.de##div[class^="Adstyled_"]
 zentralplus.ch##div[class^="Advertisement_container"]
 mactechnews.de##div[class^="Billboard-"]
 mactechnews.de##div[class^="Billboard_"]
-20min.ch##div[class^="ContentPage_insideFullTopPlaceholder_"]
+20min.ch,lessentiel.lu##div[class^="ContentPage_insideFullTopPlaceholder_"]
 lovelybooks.de##div[class^="MoliAd_"]
 derbund.ch##div[class^="PageLayout_topaddesktop_"]
 mactechnews.de##div[class^="Rectangle_"]
@@ -5134,6 +5134,7 @@ t-online.de##section[data-stage-layout^="custom_nativendo_"]
 ! :has()
 boersennews.de###bnTickerContainer:has(#bnTickerAdNotice)
 chip.de##.Listing > div[class]:has(path[d$="92.456,64.241 z"])
+berlinstadtservice.de##.a.block04:has(a[href^="https://www.awin1.com/"])
 saechsische.de##.article-box:has(> .article-box__text > .article-box__info > span.article-badge--ad)
 saechsische.de##.article-fill:has(.article-badge.article-badge--ad)
 gewinn.com##.article-latest.article-layout-0 > .row:has(.advertorial-icon)
@@ -5188,6 +5189,7 @@ caravaning.de,motorradonline.de,outdoor-magazin.com,promobil.de##.v-A_-teaser__h
 elektrobike-online.com,roadbike.de##.v-A_-topteaser__article:has(.v-A_-teaser__tag--ad)
 motorradonline.de,outdoor-magazin.com##.v-A_-topteaser__rotationbox__item:has(.v-A_-teaser__tag--ad)
 mountainbike-magazin.de,outdoor-magazin.com,roadbike.de##.v-A_-white__tile:has(.v-A_-teaser__tag--ad)
+berlinstadtservice.de##.wrap-col.box4:has(a[href^="https://www.awin1.com/"])
 zeit.de##.zett-teaser-trio:has(.zett-teaser-trio__kicker--ad-anzeige)
 ariva.de##a.background-red-bright:has(span.anzeige)
 shop-apotheke.com##article.o-CompactProductListItem:has(a[href^="https://retail-api.sa-tech.de/api/"])
@@ -5217,8 +5219,6 @@ finanznachrichten.de##tr:has(span.sprite.h-w-c)
 wallstreet-online.de##tr:has(td > .float-end > span[title="Anzeige"])
 wallstreet-online.de##tr:has(td.right:has(img[alt="Anzeige"]))
 ! Advanced element hiding rules for Adblock Plus
-berlinstadtservice.de##.a.block04:has(a[href^="https://www.awin1.com/"])
-berlinstadtservice.de##.wrap-col.box4:has(a[href^="https://www.awin1.com/"])
 stol.it#?##ContainerFull:-abp-has(a:-abp-contains(Anzeige))
 alles-mahlsdorf.de#?#.elementor-section:-abp-has(h2.elementor-heading-title:-abp-contains(Werbung))
 android-hilfe.de#?#article.message--post:-abp-has(span.username:-abp-contains(Anzeige))
@@ -5275,6 +5275,7 @@ koeln.de#?#.gb-container:-abp-contains(Anzeige)
 la-palma24.info#?#article[class^="dvs-ad-tyblqtres-uno"]:-abp-has(div:-abp-contains(AD))
 la-palma24.info#?#div[class^="dvbloqbasic"]:-abp-has(div:-abp-contains(Ad))
 lausitz-tv.de#?#.small-12.column:-abp-contains(Anzeige)
+lessentiel.lu#?#div:-abp-has(+ span:-abp-contains(Werbung))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
 mediamarkt.de,saturn.de#?#li:-abp-has(div[data-test="mms-product-card"]:-abp-has(span:-abp-contains(Gesponsert)))
