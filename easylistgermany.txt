@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402021804
+! Version: 202402041607
 ! Title: EasyList Germany
-! Last modified: 02 Feb 2024 18:04 UTC
+! Last modified: 04 Feb 2024 16:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3033,6 +3033,7 @@ lokalo.de###media_image-34
 lokalo.de###media_image-39
 africa-positive.de,golfmagazin.de,kremser-sc.at,pressecop24.com,synmag.de###media_image-4
 lokalo.de###media_image-41
+lokalo.de###media_image-42
 kremser-sc.at###media_image-5
 kremser-sc.at###media_image-6
 kremser-sc.at###media_image-7
@@ -4350,7 +4351,7 @@ anime2you.de,bitreporter.de,condor.cl,cyclingmagazine.de,elliniki-gnomi.eu,liter
 smartphonemag.de##.td-banner-wrap-full
 primavera24.de##.td-header-container
 marktindex.ch##.td-header-header
-bauernzeitung.at,krautundrueben.de,marktindex.ch##.td-header-rec-wrap
+bauernzeitung.at,krautundrueben.de,lokalo.de,marktindex.ch##.td-header-rec-wrap
 teilzeithelden.de##.td_11
 marktindex.ch##.td_uid_89_6141b5fdd19ca_rand
 sportsbusiness.at##.tdi_50
