@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402041616
+! Version: 202402111333
 ! Title: EasyList Germany
-! Last modified: 04 Feb 2024 16:16 UTC
+! Last modified: 11 Feb 2024 13:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4888,6 +4888,7 @@ weristdeinfreund.de##div[style="position:absolute; top:5px; left:0px; text-align
 autouncle.de##div[style="text-align: center; min-height: 180px;"]
 4fansites.de##div[style="text-align: center; min-height:260px;"]
 quoka.de##div[style="width: 100%; height: 250px; overflow: hidden; text-align: center; padding-top: 10px;"]
+quoka.de##div[style="width: 100%; height: 250px; overflow: hidden; text-align: center;"]
 quoka.de##div[style="width: 100%; height: 260px; overflow: hidden; text-align: center; padding-top: 10px;"]
 quoka.de##div[style="width: 100%; height: 90px; overflow: hidden; text-align: center;"]
 astroportal.com##div[style="width: 300px; height: 250px;"]
