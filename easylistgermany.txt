@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402121759
+! Version: 202402121800
 ! Title: EasyList Germany
-! Last modified: 12 Feb 2024 17:59 UTC
+! Last modified: 12 Feb 2024 18:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4578,6 +4578,7 @@ tarnkappe.info##a[href^=" https://www.bit.ly/"]
 kinoger.to##a[href^="//fbmedia-ckl.com/"]
 hammerporno.xxx##a[href^="//plx.hammerporno.xxx/pool_link/"]
 porno-himmel.net##a[href^="//wixnm.com/"]
+schausteller.de##a[href^="/ad/"]
 dkamera.de##a[href^="/adserver/goto/"]
 herthabsc.de##a[href^="/de/hertha/sponsoren/exklusiv-partner/uebersicht/page/"]
 nacktefoto.com##a[href^="/red/red.php?"]
