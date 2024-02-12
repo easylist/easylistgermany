@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402121800
+! Version: 202402121801
 ! Title: EasyList Germany
-! Last modified: 12 Feb 2024 18:00 UTC
+! Last modified: 12 Feb 2024 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3956,7 +3956,7 @@ klartext-ne.de##.klartads-widget
 1000ps.de##.kleinueber > .row + div > .topzubehoeranzeige-berichte
 sexgeschichten.com##.kosmonaut_120x600
 sexgeschichten.com##.kosmonaut_300x250
-kochbar.de##.ks-ad
+kochbar.de##.ks-ad:not([data-adslot="karotte"])
 holstein-kiel.de##.ksv-sponsoren-footer
 medienwoche.ch##.kurator
 swissfunddata.ch##.l-partnerSlideContainer
