@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402121709
+! Version: 202402121711
 ! Title: EasyList Germany
-! Last modified: 12 Feb 2024 17:09 UTC
+! Last modified: 12 Feb 2024 17:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4236,6 +4236,7 @@ newzs.de##.shopWidget
 pornoente.tv,pornohirsch.net,pornolisa.com,pornotanja.com##.sice-300x250
 xdate.ch##.side-ads
 german-porno-deutsch.info##.sidebar
+parfumo.de##.sidebar_a
 ploetzblog.de##.sidebar > .imglinks
 rheiderland.de##.sidebar-addbox
 giga.de##.sidebar-btn-affiliate[rel="nofollow noopener sponsored"]
