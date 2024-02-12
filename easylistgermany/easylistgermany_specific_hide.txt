@@ -2434,6 +2434,7 @@ laola1.at##.block.medium:has(a[href^="https://dt.sportradar.com/"])
 preis24.de##.box.box-style1:has(.notice)
 gesundheit.de##.box.img_link:has(.advertorial_hint)
 wallstreet-online.de##.breakingNewsOfferteBox:has(span.offerteFlag)
+rockantenne.hamburg##.c-image--left
 welt.de##.c-inline-teaser__body.c-inline-teaser__body--is-standalone:has(a[href^="https://www.financeads.net/tc.php?"])
 experten.de##.c-sidebar:has(> .widget-odd > div[class^="c-ad-exper-"])
 googlewatchblog.de##.card-content > center:has(ins.adsbygoogle)
