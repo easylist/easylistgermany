@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402121758
+! Version: 202402121759
 ! Title: EasyList Germany
-! Last modified: 12 Feb 2024 17:58 UTC
+! Last modified: 12 Feb 2024 17:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3659,6 +3659,8 @@ amerikawoche.com##.bxv
 coincierge.de##.c-FloatingPrompt
 t3n.de##.c-ad-container
 t3n.de##.c-ad__container-p1
+rockantenne.at##.c-image--center
+rockantenne.bayern,rockantenne.de##.c-image--left
 finanznachrichten.de##.c-sban1
 finanznachrichten.de##.c-sban2
 scfreiburg.com,sgf1903.de##.c-sponsors-list
