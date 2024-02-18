@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402171619
+! Version: 202402182121
 ! Title: EasyList Germany
-! Last modified: 17 Feb 2024 16:19 UTC
+! Last modified: 18 Feb 2024 21:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5132,6 +5132,7 @@ photographie.de##.post.type-post.status-publish:has(.anzeige-box)
 dashcamtest.de##.previewtile.swiper-slide:has(a[href^="https://amzn.to/"])
 kaufland.de##.product:has(div.product__sponsored-ad-label)
 guenstiger.de##.productCard:has(div.premiumProductCaption)
+kaufland.de##.rd-recommender:has(div.rd-product-tile__badge--ad)
 kaufland.de##.rd-recommender__tile:has(div.rd-product-tile__badge--ad)
 metager.de##.result:has(a[href^="https://metager.de/partner/r?"])
 metager.de##.result:has(a[href^="https://r.search.yahoo.com/"])
