@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402182121
+! Version: 202402191814
 ! Title: EasyList Germany
-! Last modified: 18 Feb 2024 21:21 UTC
+! Last modified: 19 Feb 2024 18:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -383,6 +383,7 @@ _woz_banner_vote.
 ##.ads_rechts
 ##.adsense-ArtikelOben
 ##.adzeiger
+##.alice-root-header-ads__ad--top
 ##.anzeigenwerbung
 ##.article-werb
 ##.artikelinlinead
@@ -3461,7 +3462,6 @@ blitzrechner.de##.ai_widget
 nextpit.de##.al-amazon
 ligaportal.at##.alert
 desired.de,familie.de,giga.de,kino.de,spielaffe.de##.alice-adslot
-spielaffe.de##.alice-root-header-ads__ad--top
 notebookcheck.com##.am_el
 indirekter-freistoss.de##.amalink
 plattentests.de##.amazon
