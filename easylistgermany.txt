@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402191814
+! Version: 202402211815
 ! Title: EasyList Germany
-! Last modified: 19 Feb 2024 18:14 UTC
+! Last modified: 21 Feb 2024 18:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2684,6 +2684,8 @@ skiinfo.de###Mid
 bauexpertenforum.de,elektrikforen.de,megane-board.de,windows-7-forum.net###MidRectangle
 seo-suedwest.de###Mod373
 seo-suedwest.de###Mod416
+netmoms.de###R1C2
+netmoms.de###R1C3
 onvista.de###SMART_BILLBOARD
 wiesbaden.de###SP-commercials
 fussballn.de###SPMADS_fussballn_HOME_MEDREC_1
@@ -3350,7 +3352,7 @@ swoodoo.com##.Common-Kn-Rp-Inline
 mactechnews.de##.Content_1-minheight
 mactechnews.de##.Content_3-minheight
 chip.de##.FC.mt-md-so[role="complementary"]
-praxistipps.focus.de##.FC__Ad
+netmoms.de,praxistipps.focus.de##.FC__Ad
 swoodoo.com##.Flights-Results-FlightRightRail
 perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
