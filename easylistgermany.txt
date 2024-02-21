@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402211815
+! Version: 202402211824
 ! Title: EasyList Germany
-! Last modified: 21 Feb 2024 18:15 UTC
+! Last modified: 21 Feb 2024 18:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2959,6 +2959,9 @@ winfuture.de###g_content_recommendation
 tschechien-online.org###gad-sky
 tschechien-online.org###gads-leaderboard
 hierspielen.com###gamelead
+mein-schoener-garten.de###gen_inside_mobile_wrapper
+mein-schoener-garten.de###gen_inside_wrapper
+mein-schoener-garten.de###gen_top_wrapper
 frag-mutti.de###gf-superbanner
 kartfahrer-forum.de###globalAnnouncement
 cz.de,goettinger-tageblatt.de,haz.de,kn-online.de,ln-online.de,lvz.de,maz-online.de,neuepresse.de,op-marburg.de,ostsee-zeitung.de,paz-online.de,waz-online.de###gpt_superbanner
@@ -3058,6 +3061,7 @@ wallstreet-online.de###mooTickerContainerMobile
 gamereactor.de###mpu
 bild.de,bz-berlin.de,finanzen.net###mrec
 hoerzu.de###mrec-wrapper
+mein-schoener-garten.de###msg_leaderboard_1_mobile_wrapper
 rezeptwelt.de###mso-dplusc-banner_1
 rezeptwelt.de###mso-dplusc-banner_2
 rezeptwelt.de###mso-dplusc-banner_5
@@ -3065,6 +3069,8 @@ meetingpoint-brandenburg.de###myspacerinner
 meetingpoint-brandenburg.de###myspacerright
 wissens-quiz.de###naMediaAd_MR_WRAPPER
 fupa.net###nab_container
+mein-schoener-garten.de###native_desktop_wrapper
+mein-schoener-garten.de###native_mobile_wrapper
 balaton-zeitung.info###nav_menu-2
 dvd-forum.at###nerdic_header
 wallstreet-online.de###newsDesktopFlag
