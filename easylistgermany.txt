@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402231549
+! Version: 202402251428
 ! Title: EasyList Germany
-! Last modified: 23 Feb 2024 15:49 UTC
+! Last modified: 25 Feb 2024 14:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4790,6 +4790,7 @@ yoga-aktuell.de##div[id^="aktue-"]
 arbeits-abc.de##div[id^="arbei-"]
 areadvd.de##div[id^="aread-"]
 20min.ch##div[id^="ausland__inside-"]
+digitalfernsehen.de##div[id^="ax-"]
 finanzen100.de,spielen.de##div[id^="banner_"]
 20min.ch##div[id^="basel__inside-"]
 basic-tutorials.de##div[id^="basic-"]
