@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402251428
+! Version: 202402252010
 ! Title: EasyList Germany
-! Last modified: 25 Feb 2024 14:28 UTC
+! Last modified: 25 Feb 2024 20:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4748,7 +4748,7 @@ via-ferrata.de##div[class^="overlay-"]
 grenzecho.net##div[class^="pane-dpipub-"]
 pictures-magazin.de##div[class^="pictu-"]
 rundschau.info##div[class^="runds-werbung-"]
-berliner-kurier.de##div[class^="showheroes_"]
+berliner-kurier.de,berliner-zeitung.de##div[class^="showheroes_"]
 berliner-kurier.de,berliner-zeitung.de,evangelische-zeitung.de##div[class^="traffective_"]
 winfuture.de##div[class^="ws_contentAd"]
 amazon.de##div[data-ad-id]
