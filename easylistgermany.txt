@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402271843
+! Version: 202402272015
 ! Title: EasyList Germany
-! Last modified: 27 Feb 2024 18:43 UTC
+! Last modified: 27 Feb 2024 20:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3396,7 +3396,7 @@ ak-kurier.de##.ad + #flashContent
 ak-kurier.de##.ad + .tdt
 ak-kurier.de##.ad + .uk-panel
 immobilienscout24.de##.ad-banner
-gebraucht-kaufen.de,it-daily.net,mixed.de,raetsel-hilfe.de,sueddeutsche.de,swissmom.ch,tt.com,watchtime.net,zeit.de##.ad-container
+gebraucht-kaufen.de,it-daily.net,mixed.de,nebelspalter.ch,raetsel-hilfe.de,sueddeutsche.de,swissmom.ch,tt.com,watchtime.net,zeit.de##.ad-container
 hallo-minden.de##.ad-info
 xdate.ch##.ad-item
 diegrenzgaenger.lu##.ad-listing
