@@ -993,6 +993,7 @@ offroadforen.de##.boxgenericBox41
 msxfaq.de##.boxjob
 x-oo.com##.boxx
 radmarkt.de##.branchenberichte
+schnittberichte.com##.branding
 blick.ch##.brandstudio
 koerperverletzung.com,scheidung.org,urheberrecht.de##.brave_popup
 idowa.de##.brick[data-b-title*="Traffective"]
@@ -1992,7 +1993,9 @@ bbszene.de##a[href^="https://neu.turbo-d.de/"]
 goal.com##a[href^="https://prf.hn/"]
 chip.de##a[href^="https://prf.hn/click/"] > img
 pcwelt.de##a[href^="https://pvn.mediamarkt.de/"]
+schnittberichte.com##a[href^="https://pvn.mediamarkt.de/trck/eclick/"] > img[src^="https://www.schnittberichte.com/resources/images/mediamarkt_"]
 pcwelt.de##a[href^="https://pvn.saturn.de/"]
+schnittberichte.com##a[href^="https://pvn.saturn.de/trck/eclick/"] > img[src^="https://www.schnittberichte.com/resources/images/saturn_"]
 metager.de##a[href^="https://r.search.yahoo.com/"]
 emuenzen.de##a[href^="https://rover.ebay.com/"]
 dkamera.de##a[href^="https://servedby.flashtalking.com/"]
