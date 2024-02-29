@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402291711
+! Version: 202402291820
 ! Title: EasyList Germany
-! Last modified: 29 Feb 2024 17:11 UTC
+! Last modified: 29 Feb 2024 18:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2183,7 +2183,10 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||sbb.it/images/default-source/*_banner.
 ||scfreiburg.com^*/04_Sponsoren/
 ||schausteller.de/media/ad/
-||schnittberichte.com^*/werbung/
+||schnittberichte.com/pics/blackillusions/
+||schnittberichte.com/pics/werbung/
+||schnittberichte.com/resources/images/mediamarkt_
+||schnittberichte.com/resources/images/saturn_
 ||schule-studium.de/AmazonBestellung.jpg
 ||schule-studium.de/buhv-Unterrichtsmaterial/Banner/
 ||schule-studium.de/images/Head-Dateien-jpgs/Thalia-Startseite.jpg
@@ -3073,6 +3076,7 @@ meetingpoint-brandenburg.de###myspacerinner
 meetingpoint-brandenburg.de###myspacerright
 wissens-quiz.de###naMediaAd_MR_WRAPPER
 fupa.net###nab_container
+utopia.de###native_ads2
 mein-schoener-garten.de###native_desktop_wrapper
 mein-schoener-garten.de###native_mobile_wrapper
 balaton-zeitung.info###nav_menu-2
@@ -3655,6 +3659,7 @@ offroadforen.de##.boxgenericBox41
 msxfaq.de##.boxjob
 x-oo.com##.boxx
 radmarkt.de##.branchenberichte
+schnittberichte.com##.branding
 blick.ch##.brandstudio
 koerperverletzung.com,scheidung.org,urheberrecht.de##.brave_popup
 idowa.de##.brick[data-b-title*="Traffective"]
@@ -4654,7 +4659,9 @@ bbszene.de##a[href^="https://neu.turbo-d.de/"]
 goal.com##a[href^="https://prf.hn/"]
 chip.de##a[href^="https://prf.hn/click/"] > img
 pcwelt.de##a[href^="https://pvn.mediamarkt.de/"]
+schnittberichte.com##a[href^="https://pvn.mediamarkt.de/trck/eclick/"] > img[src^="https://www.schnittberichte.com/resources/images/mediamarkt_"]
 pcwelt.de##a[href^="https://pvn.saturn.de/"]
+schnittberichte.com##a[href^="https://pvn.saturn.de/trck/eclick/"] > img[src^="https://www.schnittberichte.com/resources/images/saturn_"]
 metager.de##a[href^="https://r.search.yahoo.com/"]
 emuenzen.de##a[href^="https://rover.ebay.com/"]
 dkamera.de##a[href^="https://servedby.flashtalking.com/"]
