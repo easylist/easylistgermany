@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402291820
+! Version: 202403042231
 ! Title: EasyList Germany
-! Last modified: 29 Feb 2024 18:20 UTC
+! Last modified: 04 Mar 2024 22:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3688,6 +3688,7 @@ focus.de##.cad
 ka-news.de##.cad_box
 focus.de##.cad_native
 1000ps.at##.cadbox
+heizsparer.de##.cadheight[style="min-height:600px;"]
 fairaudio.de##.candy-top
 filmlaune.de##.card-streaming-btns
 neuwagen.de##.cardealers
@@ -4474,6 +4475,7 @@ free-gay.org,pornohutdeutsch.net,sexfilme24.org##.video-side-adds
 deutschsex.com##.video__sidebar-item
 1200grad.com##.videobanner
 finanztreff.de##.videosponsor_hsbc
+heizsparer.de##.vidheight[style="min-height:450px;"]
 busplaner.de##.view--advertorial
 windowspro.de##.view-idcontent:has(a[href^="/sponsored/"])
 netzwoche.ch##.view-partners
