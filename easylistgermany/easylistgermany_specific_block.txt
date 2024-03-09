@@ -181,7 +181,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||casinowelt.com/images/spinit.jpg
 ||cathkathcatt.ch^*/banner-
 ||cathkathcatt.ch^*/banner_
-||ccstatic.toggo.de/cc-static-files/bumper-video/Toggolino_WT_$media
 ||chartsurfer.de/getthead.php?
 ||cherry.ch/images/banner/
 ||chip-secured-download.de/tmp/free-service-hotline.png$domain=chip.de
@@ -1373,3 +1372,9 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||tpc.googlesyndication.com^$domain=autobild.de
 ||track.webgains.com/link.html?wglinkid=$script,domain=autobild.de
 ||yieldlab.net^$domain=autobild.de
+! toggo.de
+||ccstatic.toggo.de/cc-static-files/bumper-video/$rewrite=abp-resource:blank-mp4,domain=toggo.de
+||flashtalking.com^$~media,domain=toggo.de
+||flashtalking.com^*.mp4$rewrite=abp-resource:blank-mp4,domain=toggo.de
+||smartclip.net/creatives/uploads/*.mp4$rewrite=abp-resource:blank-mp4,domain=toggo.de
+||smartclip.net^$~media,domain=toggo.de
