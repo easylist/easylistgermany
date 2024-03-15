@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202403131549
+! Version: 202403151744
 ! Title: EasyList Germany
-! Last modified: 13 Mar 2024 15:49 UTC
+! Last modified: 15 Mar 2024 17:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4126,6 +4126,7 @@ finanzen.ch##.page-layout__ad-header-bottom
 tour-magazin.de##.page-sponsoring
 eltern.de##.page__ad-element
 rhein-zeitung.de##.page__billboard
+windowspro.de##.paid
 hamburg-magazin.de,kiel-magazin.de,luebeck-magazin.de##.paidContent
 tschechien-online.org##.pane-aktuelle-top-links
 grenzecho.net##.pane-dpipub-rossel-imu-middle-moblile
