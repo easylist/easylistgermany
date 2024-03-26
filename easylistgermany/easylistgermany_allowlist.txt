@@ -59,6 +59,7 @@
 @@||maxbanner.de/templates/_maxbanner/_assets/images/$image,domain=maxbanner.de
 @@||middleware.marktjagd.de/proxy/$domain=aktionspreis.de|angebote.focus.de|dasoertliche.de|donau-ries-aktuell.de|fressnapf.ch|infranken.de|maxizoo.ch|meinestadt.de|sparwelt.de
 @@||mmcomputer.de^*&BannerID=$subdocument
+@@||mps-gba.de/ads/adserving/close_black.png$domain=auto-motor-und-sport.de
 @@||native.emsservice.de/images/teaser*_*.jpeg$domain=11freunde.de
 @@||native.emsservice.de/teasers/*.json$domain=11freunde.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=windowspro.de
