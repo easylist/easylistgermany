@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202403271450
+! Version: 202403272204
 ! Title: EasyList Germany
-! Last modified: 27 Mar 2024 14:50 UTC
+! Last modified: 27 Mar 2024 22:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4853,6 +4853,7 @@ finanzmarktwelt.de##div[id^="finan-"]
 vrnerds.de##div[id^="findexp-"]
 foodwissen.de##div[id^="foodw-"]
 windowspro.de##div[id^="gWrapper-"]
+nationalgeographic.de##div[id^="gpt-"]
 hardware-helden.de##div[id^="hardw-"]
 ibiza-heute.de##div[id^="ibiza-"]
 teltarif.de##div[id^="ideaload"]
