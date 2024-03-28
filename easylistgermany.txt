@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202403272204
+! Version: 202403281725
 ! Title: EasyList Germany
-! Last modified: 27 Mar 2024 22:04 UTC
+! Last modified: 28 Mar 2024 17:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3966,6 +3966,7 @@ lippe-news.de##.inline_wrapper
 erotikinserate.ch##.inner
 heise.de##.inread-cls-reduc
 blitzrechner.de##.inserter-5
+blitzrechner.de##.inserter[data-ai]
 sueddeutsche.de##.iqad
 saechsische.de##.iqadtile-wrapper
 tri-mag.de##.irypolkj
