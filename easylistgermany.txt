@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404011740
+! Version: 202404041713
 ! Title: EasyList Germany
-! Last modified: 01 Apr 2024 17:40 UTC
+! Last modified: 04 Apr 2024 17:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2724,6 +2724,7 @@ mallorcazeitung.es###_mo_cti
 musiker-board.de###abAside
 spielesite.com###acTop
 sis-handball.de###ad
+heise.de###ad-landingpage-top
 pokewiki.de,timeanddate.de###ad1
 pokewiki.de###ad2
 pokewiki.de###ad3
@@ -4059,6 +4060,7 @@ lite-magazin.de##.metaslider
 goolive.de##.mgawerbungbase
 unterwasserwelt.de##.mh-footer
 hallanzeiger.de##.mh-widget.s5214-widget
+heise.de##.middle-ad-container
 schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
 intimesrevier.com##.miragobox
 abendblatt.de##.mj-pf-widget
