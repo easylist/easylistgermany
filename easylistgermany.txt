@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404081127
+! Version: 202404101701
 ! Title: EasyList Germany
-! Last modified: 08 Apr 2024 11:27 UTC
+! Last modified: 10 Apr 2024 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5073,6 +5073,7 @@ gmx.ch,gmx.net,web.de##list-inbox-pga-ad-item
 gmx.ch,gmx.net,web.de##list-programmatic-inbox-ad-item
 nau.ch##nau-external-content-lazy
 areadvd.de##onehr
+windowspro.de##section#block-viewscontent-block
 chip.de##span.Button--Clickout[data-submit]
 ariva.de##span[onpointerdown^="countClickOnGAorEs("]
 ariva.de##span[onpointerup*="prgAnalyticsEvent("]
