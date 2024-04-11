@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404101701
+! Version: 202404111528
 ! Title: EasyList Germany
-! Last modified: 10 Apr 2024 17:01 UTC
+! Last modified: 11 Apr 2024 15:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5382,6 +5382,7 @@ zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
 @@||asadcdn.com/adlib/templates/oneTag.js$script,domain=stylebook.de
 @@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||commundia.de^*/affilinet/$~third-party
+@@||cpdsrv.de/cpt.js$domain=radiobob.de
 @@||creatives.sascdn.com^$image,domain=fitbook.de
 @@||feuerwehr-marchtrenk.at/homepage/banner.php$subdocument
 @@||football-aktuell.de/links/banner_oben.png
