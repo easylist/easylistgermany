@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404111528
+! Version: 202404121224
 ! Title: EasyList Germany
-! Last modified: 11 Apr 2024 15:28 UTC
+! Last modified: 12 Apr 2024 12:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5178,6 +5178,7 @@ gesundheit.de##.box.img_link:has(.advertorial_hint)
 wallstreet-online.de##.breakingNewsOfferteBox:has(span.offerteFlag)
 rockantenne.hamburg##.c-image--left
 welt.de##.c-inline-teaser__body.c-inline-teaser__body--is-standalone:has(a[href^="https://www.financeads.net/tc.php?"])
+sportscheck.com##.c-product-tile:has(div.c-product-tile__sponsored)
 experten.de##.c-sidebar:has(> .widget-odd > div[class^="c-ad-exper-"])
 googlewatchblog.de##.card-content > center:has(ins.adsbygoogle)
 automotiveit.eu,instandhaltung.de,produktion.de,technik-einkauf.de##.ce_postlistbox:has(.label-ad-highlight)
@@ -5214,6 +5215,7 @@ mopo.de##.slider-preview:has(.anzeige-label)
 wallstreet-online.de##.sliderItem.active:has(span.news-item:has(img[alt="Anzeige"]))
 finanzen.net##.snapshot__trading:has(.button-advertising-hint)
 szene-hamburg.com##.swiper-slide:has(.entry-adv)
+sportscheck.com##.swiper-slide:has(div.c-product-tile__sponsored)
 inside-digital.de##.td_module_ih_current_news:has(.spo)
 wallstreet-online.de##.teaser.objectfit:has(div.angebot)
 wallstreet-online.de##.teaser.objectfit:has(div.anzeige)
