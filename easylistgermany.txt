@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404151337
+! Version: 202404151912
 ! Title: EasyList Germany
-! Last modified: 15 Apr 2024 13:37 UTC
+! Last modified: 15 Apr 2024 19:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5248,7 +5248,7 @@ nydus.org##div:has(> #nydus_org_970x300_billboard_responsive)
 bauernzeitung.ch##div:has(> .advert)
 froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com##div:has(> img[referrerpolicy="unsafe-url"])
 wayfair.de##div[data-hb-id="Grid.Item"]:has(a[href*="&sponsoredid="])
-mediamarkt.de,saturn.de##div[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
+mediamarkt.at,mediamarkt.de,saturn.de##div[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
 jungefreiheit.de##div[data-widget_type="shortcode.default"]:has(.adsbygoogle)
 jungefreiheit.de##div[style="text-align: center;"]:has(.adsbygoogle)
 windowspro.de##div[style]:has(a[onclick*="/pcs/click"])
