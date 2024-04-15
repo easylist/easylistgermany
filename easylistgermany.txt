@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404151912
+! Version: 202404151915
 ! Title: EasyList Germany
-! Last modified: 15 Apr 2024 19:12 UTC
+! Last modified: 15 Apr 2024 19:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5321,7 +5321,7 @@ lausitz-tv.de#?#.small-12.column:-abp-contains(Anzeige)
 lessentiel.lu#?#div:-abp-has(+ span:-abp-contains(Werbung))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
-mediamarkt.de,saturn.de#?#li:-abp-has(div[data-test="mms-product-card"]:-abp-has(span:-abp-contains(Gesponsert)))
+mediamarkt.at,mediamarkt.de,saturn.de#?#li:-abp-has(div[data-test="mms-product-card"]:-abp-has(span:-abp-contains(Gesponsert)))
 meissen-fernsehen.de#?#.text-center:-abp-contains(- Werbung -)
 metro.de#?#.mfcss_card-article-2--grid-container-flex > span:-abp-contains(WERBUNG)
 metro.de#?#.product-teaser-container:-abp-contains(WERBUNG)
