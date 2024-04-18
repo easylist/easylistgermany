@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404181657
+! Version: 202404181659
 ! Title: EasyList Germany
-! Last modified: 18 Apr 2024 16:57 UTC
+! Last modified: 18 Apr 2024 16:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2853,6 +2853,7 @@ macgadget.de###block-macgadget-textwerbunglinks1
 macgadget.de###block-macgadget-verlosung
 windowspro.de###block-views-sponsoredcontent-block
 windowspro.de###block-views-sponsoredpromo-block
+trendyone.de###bottom-blocks
 esport.cologne###brands
 kleinanzeigen.de###brws_banner-supersize
 formel1.de###bs-container
@@ -4240,6 +4241,7 @@ games.ch##.rect
 anisearch.de##.rectX
 anisearch.de##.rect_sidebar
 fussballdaten.de,i-fidelity.net,metal.de,modhoster.de,rheintaler.ch,telepolis.de##.rectangle
+trendyone.de##.rectangle-right
 hifistatement.net##.rectangles-row
 radioguetersloh.de##.rectright
 isnichwahr.de##.region-head-adbar-left
