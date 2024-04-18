@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404181037
+! Version: 202404181038
 ! Title: EasyList Germany
-! Last modified: 18 Apr 2024 10:37 UTC
+! Last modified: 18 Apr 2024 10:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5261,6 +5261,7 @@ mein-mmo.de##li.article:has([data-type="sponsored"])
 jameda.de##li:has([data-testid="advertisementSign-flag"])
 baur.de##li:has(a[href^="https://b.fr3.eu.criteo.com/rm?"])
 golem.de##li[data-article-id]:has(.icon-addy)
+rewe.de#?#.rs-qa-product:-abp-contains(Gesponsert)
 mein-mmo.de##section.post:has([data-type="sponsored"])
 finanznachrichten.de##tr:has(span.sprite.h-w-c)
 wallstreet-online.de##tr:has(td > .float-end > span[title="Anzeige"])
