@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404171649
+! Version: 202404181037
 ! Title: EasyList Germany
-! Last modified: 17 Apr 2024 16:49 UTC
+! Last modified: 18 Apr 2024 10:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5236,6 +5236,7 @@ windowspro.de##.view-idcontent:has(a[href^="/sponsored/"])
 gebrauchtwagenberater.de##.wp-block-group:has(.wp-block-button__link)
 berlinstadtservice.de##.wrap-col.box4:has(a[href^="https://www.awin1.com/"])
 zeit.de##.zett-teaser-trio:has(.zett-teaser-trio__kicker--ad-anzeige)
+flaconi.de##[data-product-list-id]:has([data-badge-type="sponsored"])
 ariva.de##a.background-red-bright:has(span.anzeige)
 shop-apotheke.com##article.o-CompactProductListItem:has(a[href^="https://retail-api.sa-tech.de/api/"])
 finanzen.net##article.page-content__item:has(img[alt="UBS"])
