@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404211119
+! Version: 202404221148
 ! Title: EasyList Germany
-! Last modified: 21 Apr 2024 11:19 UTC
+! Last modified: 22 Apr 2024 11:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3444,6 +3444,7 @@ suedtiroltv.it##.add
 computersm.com##.add-inner
 abg-net.de##.add_top
 ladies.de##.additional-banner
+gastrojournal.ch##.addslider
 inselradio.com##.addslot
 laengengrad-breitengrad.de##.addtop
 gartenjournal.net##.adinj
@@ -3512,7 +3513,7 @@ musiker-board.de,recording.de##.anz
 quoka.de##.anz-grey-content
 quoka.de##.anz-grey-title
 musiker-board.de##.anzC
-112-magazin.de,drwindows.de,filmpost.de,gesetzlichekrankenkassen.de,helles-koepfchen.de,lehrerfreund.de,medizin-netz.de,ntg24.de,oekotest.de,oktoberfestportal.de,pharmazeutische-zeitung.de,radsport-news.com,sportal.de,stuttgarter-zeitung.de,touristik-aktuell.de,tweakpc.de,vhs-ol.de##.anzeige
+112-magazin.de,drwindows.de,filmpost.de,gastrojournal.ch,gesetzlichekrankenkassen.de,helles-koepfchen.de,lehrerfreund.de,medizin-netz.de,ntg24.de,oekotest.de,oktoberfestportal.de,pharmazeutische-zeitung.de,radsport-news.com,sportal.de,stuttgarter-zeitung.de,touristik-aktuell.de,tweakpc.de,vhs-ol.de##.anzeige
 ntg24.de##.anzeige + .slider
 ntg24.de##.anzeige + p
 designtagebuch.de##.anzeige-links
