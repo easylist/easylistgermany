@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404261320
+! Version: 202404261339
 ! Title: EasyList Germany
-! Last modified: 26 Apr 2024 13:20 UTC
+! Last modified: 26 Apr 2024 13:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4929,7 +4929,7 @@ smarthomes.de##div[id^="smart-"]
 amazon.de##div[id^="sp_detail"]
 20min.ch##div[id^="sport__inside-"]
 wasserburger-stimme.de##div[id^="stimm-"]
-supertipp-online.de##div[id^="super-"]
+supermarktblog.com,supertipp-online.de##div[id^="super-"]
 teltarif.de##div[id^="tarifSlider"]
 tippscout.de##div[id^="tipps-"]
 bbheute.de,berliner-kurier.de,berliner-zeitung.de,bietigheimerzeitung.de,blick.de,donaukurier.de,evangelische-zeitung.de,frankenpost.de,ingolstadt-today.de,krzbb.de,mittelbayerische.de,mopo.de,np-coburg.de,pnp.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de##div[id^="traffective-ad-"]
