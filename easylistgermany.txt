@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404261502
+! Version: 202404261603
 ! Title: EasyList Germany
-! Last modified: 26 Apr 2024 15:02 UTC
+! Last modified: 26 Apr 2024 16:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3520,6 +3520,7 @@ fairytail-tube.org,naruto-tube.org,onepiece-tube.com##.amz
 suedtirol.de,tirol.de##.angebot-der-woche-slider
 bauernzeitung.ch##.anriss-item-advert
 musiker-board.de,recording.de##.anz
+quoka.de##.anz-content
 quoka.de##.anz-grey-content
 quoka.de##.anz-grey-title
 musiker-board.de##.anzC
@@ -4510,6 +4511,7 @@ tritime-magazin.de##.tritime-ads-middle
 pnn.de,tagesspiegel.de##.ts-sptag
 biallo.de##.tso-pub
 dastelefonbuch.de##.tt-dataset-entryads
+dastelefonbuch.de##.tt_dataset_entryads
 tvsportguide.de##.tvg-manager-box
 lolabrause.ch##.tx-admanager
 hamburg-pride.de##.tx-imagecycle-pi1
