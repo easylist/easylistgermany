@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404261603
+! Version: 202404261621
 ! Title: EasyList Germany
-! Last modified: 26 Apr 2024 16:03 UTC
+! Last modified: 26 Apr 2024 16:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -240,6 +240,7 @@ _woz_banner_vote.
 ###nativendo-home
 ###nativendo-home-1
 ###nativendo-home-2
+###nativendo-homemiddle
 ###nativendo-homepage
 ###nativendo-hometop
 ###nativendo-infeed-1
@@ -387,6 +388,7 @@ _woz_banner_vote.
 ##.anzeigenwerbung
 ##.article-werb
 ##.artikelinlinead
+##.azk-native-responsive
 ##.b-werbung
 ##.babbelMultilangAdBannerHorizontal
 ##.babbelMultilangAdRectangle
@@ -3569,7 +3571,6 @@ hsc2000.de##.avia-slideshow-1
 nrwhits.de##.ax-medium-rectangle-n
 az.com.na##.az-adverts
 blitzrechner.de##.azimg
-abmahnung.org,arbeitslosenselbsthilfe.org,bussgeld-info.de,bussgeldkatalog.net,bussgeldkatalog.org,datenschutz.org,koerperverletzung.com,scheidung.org,schuldenanalyse-kostenlos.de,urheberrecht.de##.azk-native-responsive
 sumikai.com##.b
 fcaugsburg.de##.b-logo-listing
 ukraine-nachrichten.de##.b_top
