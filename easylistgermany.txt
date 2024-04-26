@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404261340
+! Version: 202404261348
 ! Title: EasyList Germany
-! Last modified: 26 Apr 2024 13:40 UTC
+! Last modified: 26 Apr 2024 13:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1216,6 +1216,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||werbemittel.adisfaction.de^$third-party
 ||wgfreiheit.de/fileadmin/web_banner/$third-party
 ||widget.marktjagd.de^
+||widget.medianord.de^$third-party
 ||widget.s24.com^$third-party
 ||widgets.cam-content.com^$third-party
 ||wien-girls.at/img/ba/$third-party
@@ -3358,6 +3359,7 @@ travelguide-en.org###wn-insurance-quote-editor
 ariva.de###woAktieiF
 wetteronline.de###woFooterBillboard
 meetingpoint-brandenburg.de###wobra-suche
+digitalkamera.de###workshopWidget
 ariva.de###wpAktieImFokus
 areadvd.de###wrapper > div[class] > img
 unicum.de###wrapper-banner-head
@@ -3391,6 +3393,8 @@ perspektive-mittelstand.de##.Laddbox300
 simmentalzeitung.ch##.PrintMotifRotator
 dieharke.de##.Rectangle
 onvista.de##.SKYSCRAPER
+digitalkamera.de##.SkyscraperLeft
+digitalkamera.de##.SkyscraperRight
 onvista.de##.TEASERBOX.DEPOT_KONTO
 t-online.de,www-t--online-de.cdn.ampproject.org##.Tadc
 t-online.de,www-t--online-de.cdn.ampproject.org##.Tgbox--anz
@@ -4383,6 +4387,7 @@ tv.herthabsc.com##.sponsors-holder
 tsg-hoffenheim.de##.sponsors-slider
 freiburgesports.de##.sponsors-wrapper
 sportclub-meran.it##.sponsorslider
+digitalkamera.de##.sponsortext
 hceppan.it##.sportnews
 windowspro.de##.spost
 1milf.com,frauporn.com,wildesporno.xxx,xfilmen.com##.spot
@@ -4559,6 +4564,7 @@ kostenloses-fernsehen.de,melodieundrhythmus.com##.widget-3
 kt1.at##.widget-5
 kt1.at##.widget-7
 onlineuebung.de##.widget-aal-unit-by-id
+digitalkamera.de##.widget-injection-point
 primeleague.gg##.widget-list-sponsors
 wp-koenigin.de##.widget__image--banner
 gameswirtschaft.de,haus-garten-magazin.de##.widget_aawp_widget_bestseller
