@@ -2086,7 +2086,7 @@ wallstreet-online.de##a[onclick*="'tableAd'"]
 wallstreet-online.de##a[onclick*="'tableAd'"] + img
 wallstreet-online.de##a[onclick*="tableAd"] + span
 shaz.ch##a[onclick^="__gaTracker('send', 'event', 'Ads'"]
-allround-pc.com##a[rel*="sponsored"]
+allround-pc.com,supermarktblog.com##a[rel*="sponsored"]
 computerbase.de##a[rel*="sponsored"] > img[alt="Anzeige"]
 smartdroid.de##a[rel=" noreferrer noopener sponsored nofollow"]
 allround-pc.com##a[rel="external noopener"] > img[src^="/"]
