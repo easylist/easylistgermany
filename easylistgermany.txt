@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202404291311
+! Version: 202404301540
 ! Title: EasyList Germany
-! Last modified: 29 Apr 2024 13:11 UTC
+! Last modified: 30 Apr 2024 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1937,6 +1937,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||miba.de/bilder/banner/
 ||michas-spielmitmir.de^*/anzeige.gif
 ||microspiele.com/img/gdesire.jpg
+||mietminderungstabelle.de/templates/RRT2/adBoxes/
 ||minimed.at/fileadmin/templates/minimed.at/nl_promobox/
 ||mistershoplister.de/mips.php
 ||mmnews.de/images/*_Banner_
@@ -4823,6 +4824,7 @@ sport.de##div[class^="ada-preservespace-"]
 berliner-zeitung.de##div[class^="article_billboard-"]
 2ix2.com##div[class^="bireklam"]
 experten.de##div[class^="c-ad-exper-"]
+mietminderungstabelle.de##div[class^="contentAdBox_"]
 costanachrichten.com##div[class^="lp_track_"]
 morecore.de##div[class^="morec-"]
 emtb-news.de,mtb-news.de,rennrad-news.de##div[class^="mtbnews-ad-container"]
@@ -4830,6 +4832,7 @@ berliner-kurier.de,berliner-zeitung.de##div[class^="outbrain_"]
 via-ferrata.de##div[class^="overlay-"]
 grenzecho.net##div[class^="pane-dpipub-"]
 pictures-magazin.de##div[class^="pictu-"]
+mietminderungstabelle.de##div[class^="placeholderAdBox_"]
 rundschau.info##div[class^="runds-werbung-"]
 berliner-kurier.de,berliner-zeitung.de##div[class^="showheroes_"]
 berliner-kurier.de,berliner-zeitung.de,evangelische-zeitung.de##div[class^="traffective_"]
