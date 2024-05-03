@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405021613
+! Version: 202405031638
 ! Title: EasyList Germany
-! Last modified: 02 May 2024 16:13 UTC
+! Last modified: 03 May 2024 16:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1845,7 +1845,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||katzeausdemsack.de/banner/
 ||kauf6.com/img/banner/
 ||kaufland.de^*&showSpads=true^
-||kaufland.de^*/spads-
 ||kauperts.de/images/partners/
 ||ketoforum.de/Banner/
 ||kinderlandparks.de/cms/media/thumbnail_5240_w_650.jpg
@@ -5262,7 +5261,7 @@ kaufland.de##.product:has(div.product__sponsored-ad-label)
 guenstiger.de##.productCard:has(div.premiumProductCaption)
 kaufland.de##.rd-recommender:has(div.rd-product-tile__badge--ad)
 kaufland.de##.rd-recommender__tile:has(div.rd-product-tile__badge--ad)
-kaufland.de##.recommender-min-height:has(div[data-recommender-type="PdpSimrecoWithSpads"])
+kaufland.de##.recommender-min-height:has(div.rd-product-tile__badge--ad)
 metager.de##.result:has(a[href^="https://metager.de/partner/r?"])
 metager.de##.result:has(a[href^="https://r.search.yahoo.com/"])
 finanzen.net##.row.d-flex.align-items-center:has(a[href^="http://g.finanzen.net/allvest-fonds-home-intelligent-invest"])
