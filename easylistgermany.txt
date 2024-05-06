@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405051613
+! Version: 202405061358
 ! Title: EasyList Germany
-! Last modified: 05 May 2024 16:13 UTC
+! Last modified: 06 May 2024 13:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4206,6 +4206,7 @@ blick.ch##.placement-rectangle
 englisch-lernen-online.de##.plainContentCollection
 zuckerporno.com##.pornofilme_recht
 reise-preise.de##.port.hi
+wz.de##.portal-slot
 ga.de##.portal-top
 iphone-tricks.de##.post div[style="float:none;margin:0px 0 0px 0;text-align:center;"]
 hartware.de##.postanzeige
@@ -5171,6 +5172,7 @@ t-online.de##.css-1lb3bt5
 t-online.de##.css-2k2lok
 n-tv.de##.ems-slot
 focus.de##.fol_mew-flying-carpet-wrapper
+sueddeutsche.de##.iqdcontainer
 focus.de##.ob-ad-carousel-layout
 jetzt.de,prosieben.de,transfermarkt.de,tvspielfilm.de##.plistaList > .itemLinkPET
 plista.com##.plistaList > .plista_widget_belowArticle_item[data-type="pet"]
