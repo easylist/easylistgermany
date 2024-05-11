@@ -2631,6 +2631,7 @@ froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com#
 wayfair.de##div[data-hb-id="Grid.Item"]:has(a[href*="&sponsoredid="])
 mediamarkt.at,mediamarkt.de,saturn.de##div[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
 jungefreiheit.de##div[data-widget_type="shortcode.default"]:has(.adsbygoogle)
+mobile.de##div[style="min-height:250px"]:has(#SRP_BILLBOARD_ADSENSE)
 jungefreiheit.de##div[style="text-align: center;"]:has(.adsbygoogle)
 windowspro.de##div[style]:has(a[onclick*="/pcs/click"])
 mein-mmo.de##li.article:has([data-type="sponsored"])
