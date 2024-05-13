@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405131428
+! Version: 202405131436
 ! Title: EasyList Germany
-! Last modified: 13 May 2024 14:28 UTC
+! Last modified: 13 May 2024 14:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4857,6 +4857,7 @@ volksblatt.at##div[data-div-ratios="default:696_280|500:300_250"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[data-dy*="Partner:"]
 apfelpage.de##div[data-embed-provider="rcm-eu-amazon-adsystem-com"]
 de.motor1.com##div[data-entrypoint="heycar-search-widget"]
+t-online.de##div[data-external-sdi-mark="banner-placeholder"]
 ingolstadt-today.de##div[data-ez-block-id="3324017"]
 alles-mahlsdorf.de##div[data-id="904ffeb"]
 kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
