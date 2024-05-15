@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405151601
+! Version: 202405151615
 ! Title: EasyList Germany
-! Last modified: 15 May 2024 16:01 UTC
+! Last modified: 15 May 2024 16:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -146,6 +146,7 @@
 /werbungsky.
 /werbungsr3.
 /Widgets/Werbung/*
+/wp-content/plugins/vxcash/*
 /wpbanner/*$script
 /wrbg.js?
 /zzz/init.php?$script
@@ -1190,6 +1191,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||suedtirol.live/delivery.js
 ||sunpepper.de/shop/banner/$third-party
 ||tdn.da-services.ch^
+||telefon-sex-luder.com/banner/
 ||telsso.de/dnwe//gallery/*-800x250-billboard-$domain=biallo.de
 ||tennis.de/dtbdst/$domain=dtb-tennis.de
 ||tnt-game.com^*/banner/$third-party
@@ -1226,7 +1228,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||wpseo.de/banner/$third-party
 ||wpseo.de^*/banner/$third-party
 ||xup.to^$domain=raidrush.ws
-||xxx-amateur.eu/banner/$third-party
 ||yogsototh.bytecamp.net^$third-party
 ||yospace.com/csm/access/$domain=magentamusik.de
 ||youtube.com/embed/YTW9icnws8I$domain=nachrichten.fr
@@ -2572,6 +2573,9 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||xn--zri6-0ra.ch/banner/
 ||xnxx-porno.com/img/linklist2/
 ||xup.in/com/pop.
+||xxx-amateur.eu/banner/
+||xxx-amateur.eu/werbung.php
+||xxx-amateur.eu/wordpress/wp-content/plugins/rnotify1.5.4_fullversion/
 ||yoga-aktuell.de/wp-content/uploads/*_wide-banner-
 ||yoga-aktuell.de/wp-content/uploads/*_Wide-Banner_
 ||zebradem.com^*/banner/
@@ -4594,7 +4598,7 @@ gearnews.de##.widget_adtag_rectangle
 usa-info.net##.widget_atkp_widget
 zueri6.ch##.widget_banner
 diesachsen.de##.widget_commerce
-autogazette.de,cyclingmagazine.de,schmunzelseite.de,signal-online.de,solaranlage-ratgeber.de##.widget_custom_html
+autogazette.de,cyclingmagazine.de,schmunzelseite.de,signal-online.de,solaranlage-ratgeber.de,xxx-amateur.eu##.widget_custom_html
 nibelungen-kurier.de##.widget_dkge_wrapper
 freiluft-blog.de##.widget_links
 hebelschein-spekulant.de,werbestandard.de##.widget_media_image
