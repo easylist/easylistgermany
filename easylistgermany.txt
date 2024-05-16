@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405151615
+! Version: 202405161521
 ! Title: EasyList Germany
-! Last modified: 15 May 2024 16:15 UTC
+! Last modified: 16 May 2024 15:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1434,6 +1434,8 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||blockbuster.to/img/8a844213f1ae29efaf836ffe63805fe618.jpg
 ||blog-der-republik.de/wp-content/uploads/*/square.png
 ||blog-der-republik.de/wp-content/uploads/*/trinkwasser_umfrage_square.jpg
+||blog4you.biz/banner/
+||blog4you.biz/wp-content/plugins/rnotify1.5.4_fullversion/
 ||blogprojekt.de/Bilder/affiliate-banner/
 ||blogprojekt.de/Bilder/Profi/
 ||blogspot.com^*/bet.gif$domain=fussball-livestream.info
