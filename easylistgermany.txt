@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405161521
+! Version: 202405161527
 ! Title: EasyList Germany
-! Last modified: 16 May 2024 15:21 UTC
+! Last modified: 16 May 2024 15:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -984,6 +984,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||cect-shop.com/CMBannerCECT-SHOP.gif
 ||ced.sascdn.com^
 ||china-gadgets.de^$subdocument,third-party
+||com-porn-free.com/banner/
 ||communicationads.net/tb.php
 ||crawler.pearl.de/pearl-crawler/banner?
 ||cript.to/plopscript.php
