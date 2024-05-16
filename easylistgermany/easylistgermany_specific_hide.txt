@@ -1947,6 +1947,7 @@ german-bash.org##.zitat > div[style="width:300px;"]
 3drei3.de##.zona_publi
 lifeverde.de##.zusatz_billboard
 heise.de##A-PATERNOSTER
+mediamarkt.de##[data-test="mms-search-showcase"]
 pornhutdeutsch.com##[href^="https://start.amateurcommunity.com/"]
 pornhutdeutsch.com##[href^="https://susi.live/"]
 pornhutdeutsch.com##[href^="https://www.zubivu.com/"]
@@ -2708,6 +2709,7 @@ lessentiel.lu#?#div:-abp-has(+ span:-abp-contains(Werbung))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
 mediamarkt.at,mediamarkt.de,saturn.de#?#li:-abp-has(div[data-test="mms-product-card"]:-abp-has(span:-abp-contains(Gesponsert)))
+mediamarkt.de#?#[data-test="mms-search-showcase"] + div:-abp-contains(Gesponsert)
 meissen-fernsehen.de#?#.text-center:-abp-contains(- Werbung -)
 metro.de#?#.mfcss_card-article-2--grid-container-flex > span:-abp-contains(WERBUNG)
 metro.de#?#.product-teaser-container:-abp-contains(WERBUNG)
