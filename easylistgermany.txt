@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405211426
+! Version: 202405211433
 ! Title: EasyList Germany
-! Last modified: 21 May 2024 14:26 UTC
+! Last modified: 21 May 2024 14:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4445,6 +4445,7 @@ de.motor1.com,insideevs.de##.stroer-ap_wrapper
 sinn-frei.com##.stx
 coincierge.de##.su-button
 handyraketen.de##.su-button-wide[href^="http://amzn.to/"]
+mt.de##.superad
 fuersie.de,grazia-magazin.de,i-fidelity.net,idee-fuer-mich.de,inside-digital.de,jagderleben.de,jolie.de,ka-news.de,kochbar.de,leben-und-erziehen.de,maedchen.de,ok-magazin.de,petra.de##.superbanner
 pharmazeutische-zeitung.de##.superbanner-frame
 scfreiburg.com##.superbanner-top
