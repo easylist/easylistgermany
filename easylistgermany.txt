@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405161700
+! Version: 202405211426
 ! Title: EasyList Germany
-! Last modified: 16 May 2024 17:00 UTC
+! Last modified: 21 May 2024 14:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3787,6 +3787,7 @@ tvg-grosssachsen.de##.cont-60
 ak-kurier.de,nr-kurier.de,ww-kurier.de##.container-banner
 deutscherskiverband.de##.container-banner-2
 1000ps.at,1000ps.de##.container-billboard
+mt.de##.container.margin-bottom-40.fullwidth-container-mobile.min-280
 goslarsche.de##.container_skyscraper
 android-hilfe.de##.content-ad-first
 hoerzu.de##.content-amazon
@@ -4099,6 +4100,7 @@ goolive.de##.mgawerbungbase
 unterwasserwelt.de##.mh-footer
 hallanzeiger.de##.mh-widget.s5214-widget
 heise.de##.middle-ad-container
+mt.de##.min-280.mr
 schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
 intimesrevier.com##.miragobox
 abendblatt.de##.mj-pf-widget
