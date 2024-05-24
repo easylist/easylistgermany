@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405241338
+! Version: 202405242131
 ! Title: EasyList Germany
-! Last modified: 24 May 2024 13:38 UTC
+! Last modified: 24 May 2024 21:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4829,6 +4829,7 @@ chartsurfer.de##div[class*="adszone-"]
 amazona.de##div[class*="fnetbr"]
 t-online.de##div[class] > img[referrerpolicy="unsafe-url"]
 homegate.ch##div[class^="AdSlotContainer_"]
+stol.it##div[class^="AdSuperBanner_"]
 stol.it##div[class^="AdUnit_"]
 rnd.de##div[class^="Adstyled_"]
 zentralplus.ch##div[class^="Advertisement_container"]
