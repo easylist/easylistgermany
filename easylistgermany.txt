@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202406021317
+! Version: 202406031629
 ! Title: EasyList Germany
-! Last modified: 02 Jun 2024 13:17 UTC
+! Last modified: 03 Jun 2024 16:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1667,6 +1667,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||gartennatur.com/wp-content/uploads/371x430-319x370.jpg
 ||gawina.de/wp-content/uploads/*-Banner_
 ||gazzettadellambri.ch/wp-content/uploads/*_Banner_
+||gearwom.de^$domain=finanzen.at|finanzen.ch|finanzen.net
 ||geile-deutsche-pornos.com/wp-content/plugins/rnotify/assets/public/custom.js
 ||gentleman-blog.de/wp-content/uploads/270x191.jpg
 ||gentleman-blog.de/wp-content/uploads/870x150.jpg
@@ -4854,6 +4855,7 @@ morecore.de##div[class^="morec-"]
 emtb-news.de,mtb-news.de,rennrad-news.de##div[class^="mtbnews-ad-container"]
 berliner-kurier.de,berliner-zeitung.de##div[class^="outbrain_"]
 via-ferrata.de##div[class^="overlay-"]
+finanzen.ch,finanzen.net##div[class^="page-layout__ad-"]
 grenzecho.net##div[class^="pane-dpipub-"]
 pictures-magazin.de##div[class^="pictu-"]
 mietminderungstabelle.de##div[class^="placeholderAdBox_"]
@@ -5074,6 +5076,8 @@ ibooks.to##img[alt="Kostenlos Download"]
 rbleipzig.com##img[alt="Logo Partner"]
 finanzen.net##img[alt="Passende Produkte von Vontobel"]
 finanzen.net##img[alt="Passende Produkte von der Société Générale"]
+finanzen.net##img[alt="Vontobel Banner"]
+finanzen.ch##img[alt="vontobel-banner"]
 t-online.de,www-t--online-de.cdn.ampproject.org##img[alt^="Modetrends"]
 hallespektrum.de,kultur-port.de##img[alt^="Werbung"]
 rc-news.de##img[class="bnr"]
