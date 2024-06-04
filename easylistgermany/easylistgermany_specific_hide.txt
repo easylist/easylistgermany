@@ -2762,3 +2762,7 @@ windowspro.de#?#article:-abp-has(:-abp-properties(content: "Anzeige";))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + button
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
+www.bahn.de##.reactive-teaser > .sld-tsr--single-teaser.sld-tsr.sld.c
+www.bahn.de##.sld-tsr--with-headline.sld-tsr--three-columns.sld-tsr.sld.c
+www.bahn.de##.sld-tsr--single-teaser.sld-tsr.js-slider-teaser.sld.c
+www.bahn.de##.flex-100.flex.c.teaser-block
