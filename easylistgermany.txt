@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202406081354
+! Version: 202406081853
 ! Title: EasyList Germany
-! Last modified: 08 Jun 2024 13:54 UTC
+! Last modified: 08 Jun 2024 18:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3748,6 +3748,7 @@ filmlaune.de##.card-streaming-btns
 neuwagen.de##.cardealers
 anzeigervomrottal.ch##.carousel
 alles-mahlsdorf.de##.category-werbung-kopfzeile
+faktastisch.de##.cca
 all-electronics.de,automobil-produktion.de,automotiveit.eu,chemietechnik.de,fertigung.de,fluid.de,instandhaltung.de,ke-next.de,kgk-rubberpoint.de,ki-portal.de,neue-verpackung.de,pharma-food.de,plastverarbeiter.de,produktion.de,technik-einkauf.de,werkzeug-formenbau.de##.ce_banneradbox
 e-formel.de##.ce_plista
 technik-einkauf.de##.ce_promotionbox
@@ -4958,7 +4959,7 @@ t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="mrec"]
 wallstreet-online.de##div[id^="nativendo-"]
 tonspion.de##div[id^="netse-"]
 noz.de##div[id^="nozmhn_ad_"]
-frustfrei-lernen.de##div[id^="npm_"]
+faktastisch.de,frustfrei-lernen.de##div[id^="npm_"]
 nydus.org##div[id^="nydus_org_300x600_"]
 radiosaw.de##div[id^="oms_gpt_"]
 20min.ch##div[id^="onelove__inside-"]
