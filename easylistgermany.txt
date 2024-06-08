@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202406031655
+! Version: 202406081354
 ! Title: EasyList Germany
-! Last modified: 03 Jun 2024 16:55 UTC
+! Last modified: 08 Jun 2024 13:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3383,6 +3383,7 @@ digitalkamera.de###workshopWidget
 ariva.de###wpAktieImFokus
 areadvd.de###wrapper > div[class] > img
 unicum.de###wrapper-banner-head
+raidrush.net###wraptt
 pocketpc.ch###xxParentDivForWerbPostbit
 ladies.de###zeiten
 au-ja.de##.ADVBOX
@@ -3848,6 +3849,7 @@ gload.to##.dl2019main
 express.de,ksta.de,rundschau-online.de##.dm-slot
 rundschau-online.de##.dm-slot__skyContainer
 ksta.de##.dm_ta300x300.sold_content
+raidrush.net##.double-wrapper
 scp07.de##.dp-sponsorenfooter
 mobile.de##.dsp-placeholder
 bolzano-bozen.it##.dt
