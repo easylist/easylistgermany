@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202406101608
+! Version: 202406111649
 ! Title: EasyList Germany
-! Last modified: 10 Jun 2024 16:08 UTC
+! Last modified: 11 Jun 2024 16:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2336,6 +2336,8 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||swz.it^*/pichler.gif
 ||swz.it^*_Webbanner_
 ||synchronkartei.de/img/ext/
+||t.alpin.de^
+||t.kicker.de^
 ||tagblatt.de/CustomImages/Bannerkarusell/
 ||tageblatt.com.ar/banners/
 ||tah.de^*&tx_sfbanners_
