@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202406121607
+! Version: 202406121655
 ! Title: EasyList Germany
-! Last modified: 12 Jun 2024 16:07 UTC
+! Last modified: 12 Jun 2024 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3838,7 +3838,6 @@ nextpit.de##.deals-ticker
 furche.at##.default-teaser--ads-teaser
 deutschsex.com,deutschsex.mobi##.default__interest-block
 deutschsex.com##.default__realtive-block
-ok-magazin.de##.define
 wetter.com##.desk-pv.desk-pb\+.portable-pv.lap-pr--.lap-ml.lap-pl-.bg--green-lightest.portable-ml0.border--top.border--bottom.palm-ph15
 nau.ch##.desktop-wideboard-top
 liveticker.com##.detailLeaderboard
@@ -5145,7 +5144,7 @@ teneriffa-aktuell.com##img[width="800"][height="230"]
 teneriffa-aktuell.com##img[width="900"][height="350"]
 t-online.de,www-t--online-de.cdn.ampproject.org##img[width="920"][usemap^="#immap"]
 sumikai.com##ins[data-meh-id]
-petra.de##kas
+fuersie.de,idee-fuer-mich.de,jolie.de,leben-und-erziehen.de,maedchen.de,ok-magazin.de,petra.de,vital.de##kas
 vital.de##kas[type="placement"]
 restegourmet.de##li[data-content-type="ad"]
 gmx.ch,gmx.net,web.de##list-inbox-ad-item
