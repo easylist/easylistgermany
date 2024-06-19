@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202406181609
+! Version: 202406191347
 ! Title: EasyList Germany
-! Last modified: 18 Jun 2024 16:09 UTC
+! Last modified: 19 Jun 2024 13:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5424,8 +5424,6 @@ marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
 mediamarkt.at,mediamarkt.de,saturn.de#?#li:-abp-has(div[data-test="mms-product-card"]:-abp-has(span:-abp-contains(Gesponsert)))
 mediamarkt.de#?#[data-test="mms-search-showcase"] + div:-abp-contains(Gesponsert)
 meissen-fernsehen.de#?#.text-center:-abp-contains(- Werbung -)
-metro.de#?#.mfcss_card-article-2--grid-container-flex > span:-abp-contains(WERBUNG)
-metro.de#?#.product-teaser-container:-abp-contains(WERBUNG)
 mmnews.de#?#.sp-module:-abp-has(span:-abp-contains(Kleinanzeigen))
 motorsport-total.com#?#.teaser_container.teaser-htmlcode.relative.row:-abp-has(.f1de-container-title:-abp-contains(Die besten Leasing-Deals))
 notebookcheck.com#?#.introa_news:-abp-contains(Anzeige)
