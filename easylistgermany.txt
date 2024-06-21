@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202406191347
+! Version: 202406211607
 ! Title: EasyList Germany
-! Last modified: 19 Jun 2024 13:47 UTC
+! Last modified: 21 Jun 2024 16:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -637,6 +637,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||holyjesus.de^
 ||spd-spenden.de^
 ||swissadserver.ch^
+||windows-pro.net^
 ||wirverkaufennichts.de^
 ||wixnm.com^
 ||zazufi.com^
@@ -2478,6 +2479,8 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||windows-pro.net^$subdocument,domain=windowspro.de
 ||windowspower.de/banner/
 ||windowspower.de/wp-content/uploads/*/stromanbieter-vergleich.gif
+||windowspro.de/sites/windowspro.de/files/advagg_js/js__yS7CyIP-Nk7K6Xt2G3mkGWAXfGOwTiI0wwdn0GmIwwM__EoiDJPZdpk85X0xGBYAHn0PN-HgV1AgHgvavV0KhvYU__TMlUvrl4Tp-Amoh5neqH3DnP3Q9BotH6wQFrQU0fNjo.js
+||windowspro.de/sites/windowspro.de/files/advagg_js/js__zR8PlSNczRzr6koUp2G5KQAvTGnSHH4_giYMfmb7o6E__ubjIHesQrPLSNRsqQ33aNf5LD12YLbbs0H8RairmULU__TMlUvrl4Tp-Amoh5neqH3DnP3Q9BotH6wQFrQU0fNjo.js
 ||windowspro.de^$subdocument,domain=windowspro.de
 ||wir-leben-outdoor.de/wp-content/uploads/*/banner-
 ||wirin.de/images/banners/
@@ -2705,7 +2708,6 @@ druckkosten.de###DKGA_LEAD
 druckkosten.de###DKGA_SKY
 eatsmarter.de###EAT_D_Index_Top_Wrapper
 anime2you.de###Fallback-Content
-news.de###FlexSky
 inside-digital.de###INS_D_ROS_Parallax
 staedte-info.net###Layer1
 staedte-info.net###Layer2
@@ -4190,6 +4192,7 @@ eltern.de##.page__ad-element
 rhein-zeitung.de##.page__billboard
 windowspro.de##.paid
 hamburg-magazin.de,kiel-magazin.de,luebeck-magazin.de##.paidContent
+windowspro.de##.paidc
 tschechien-online.org##.pane-aktuelle-top-links
 grenzecho.net##.pane-dpipub-rossel-imu-middle-moblile
 grenzecho.net##.pane-dpipub-rossel-native-top
