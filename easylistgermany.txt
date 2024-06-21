@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202406211607
+! Version: 202406211652
 ! Title: EasyList Germany
-! Last modified: 21 Jun 2024 16:07 UTC
+! Last modified: 21 Jun 2024 16:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3124,6 +3124,7 @@ mein-schoener-garten.de###native_mobile_wrapper
 balaton-zeitung.info###nav_menu-2
 dvd-forum.at###nerdic_header
 wallstreet-online.de###newsDesktopFlag
+news.de###news_content_1
 news.de###news_content_2
 news.de###news_content_3
 news.de###news_header
@@ -4979,6 +4980,7 @@ playfront.de##div[id^="playf-"]
 professional-audio.de##div[id^="profe-"]
 handballecke.de##div[id^="promotionHeader"]
 prost-magazin.at##div[id^="prost-"]
+radioszene.de##div[id^="radio-"]
 reisetopia.ch,reisetopia.de##div[id^="reise-"]
 persoenlich.com##div[id^="ring-slot-"]
 fitundgesund.at,ichkoche.at,metal-hammer.de##div[id^="sas_"]
