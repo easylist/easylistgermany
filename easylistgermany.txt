@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202406211712
+! Version: 202406211812
 ! Title: EasyList Germany
-! Last modified: 21 Jun 2024 17:12 UTC
+! Last modified: 21 Jun 2024 18:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2311,7 +2311,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||suedtirol.de/upload/Banner/
 ||suedtirol1.it/uploads/beitrag/*/300x70.gif
 ||suedtiroltv.it^*/banner
-||sunshine.it^*/raika.
+||sunshine.it/raika/
 ||supermarkt-inside.de/wp-content/uploads/*/akcenta-ad.gif
 ||supertipp-online.de/wp-content/uploads/*/47645_Animation.gif
 ||supertipp-online.de/wp-content/uploads/*/Edeka_Nissen_Content.gif
@@ -4800,6 +4800,7 @@ daily-pia.de##a[href^="https://www.manitu.de/?partner="]
 sexabc.ch##a[href^="https://www.mydirtyhobby.de/"][href*="?ats="]
 hoerbuch.us##a[href^="https://www.purevpn.com/?aff="]
 hoerbuch.us##a[href^="https://www.purevpn.com?aff="]
+sunshine.it##a[href^="https://www.raiffeisen.it/"]
 beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,halloporno.net,hd-sexfilme.com,hdpornos.net,herzporno.com,lesbenhd.com,meinyouporn.com,nursexfilme.com,pornoaffe.com,pornoente.tv,pornofelix.com,pornofisch.com,pornohammer.com,pornohans.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornoschlange.com,pornotom.com,pornotommy.com,pornozebra.com,sexente.com,sexvideos-gratis.com,sexvideos-hd.com,tube8-pornos.com,xhamster-sexfilme.com,xhamster-sexvideos.com,xnxx-porno.com,xnxx-sexfilme.com##a[href^="https://www.susi.live/FreeAccountLanding.aspx?"]
 areadvd.de##a[href^="https://www.teufel.de/sales?partner_id="]
 pornoente.tv,pornohirsch.net,pornolisa.com,pornotanja.com##a[href^="https://www.tik-tok-dates.com/"]
