@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202407011730
+! Version: 202407012018
 ! Title: EasyList Germany
-! Last modified: 01 Jul 2024 17:30 UTC
+! Last modified: 01 Jul 2024 20:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3900,7 +3900,7 @@ mywheels.tv##.falken-banner
 fcbayern.com##.fcb-ad-banner-container
 bunte.de##.fe-channel-item--promo
 ff-bz.com##.ff-ba
-autoextrem.de,skodacommunity.de,toyota-forum.de,usp-forum.de##.fh-inside-post
+2ertalk.de,autoextrem.de,skodacommunity.de,toyota-forum.de,usp-forum.de##.fh-inside-post
 autoextrem.de,skodacommunity.de##.fh-sidebar
 pedelecforum.de,toyota-forum.de##.fh-sidebar-top
 toyota-forum.de##.fh-sidebar.block > .block-container
@@ -4109,7 +4109,7 @@ lokalo.de##.media_image-32
 fuersie.de,grazia-magazin.de,idee-fuer-mich.de,jolie.de,leben-und-erziehen.de,maedchen.de,ok-magazin.de,petra.de,vital.de##.mediumrectangle
 ligaportal.at##.medrec
 comback.ch##.mega-banner-outer
-android-hilfe.de,grillsportverein.de,hardwareluxx.de,macuser.de,toyota-forum.de,usp-forum.de##.message--post:not([data-author])
+2ertalk.de,android-hilfe.de,grillsportverein.de,hardwareluxx.de,macuser.de,toyota-forum.de,usp-forum.de##.message--post:not([data-author])
 lite-magazin.de##.metaslider
 goolive.de##.mgawerbungbase
 unterwasserwelt.de##.mh-footer
