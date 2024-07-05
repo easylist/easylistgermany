@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202407032037
+! Version: 202407051614
 ! Title: EasyList Germany
-! Last modified: 03 Jul 2024 20:37 UTC
+! Last modified: 05 Jul 2024 16:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5361,6 +5361,7 @@ jungefreiheit.de##div[data-widget_type="shortcode.default"]:has(.adsbygoogle)
 mobile.de##div[style="min-height:250px"]:has(#SRP_BILLBOARD_ADSENSE)
 jungefreiheit.de##div[style="text-align: center;"]:has(.adsbygoogle)
 windowspro.de##div[style]:has(> a[onclick*="://www.windows-pro.net/"])
+windowspro.de##div[style]:has(a[onclick*="&utm_"])
 windowspro.de##div[style]:has(a[onclick*="/pcs/click"])
 windowspro.de##div[style]:has(a[onclick*="://windows-pro.net/"])
 windowspro.de##div[style]:has(div[style] > p > a[onclick*="://www.windows-pro.net/"])
