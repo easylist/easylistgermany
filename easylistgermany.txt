@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202407111406
+! Version: 202407131120
 ! Title: EasyList Germany
-! Last modified: 11 Jul 2024 14:06 UTC
+! Last modified: 13 Jul 2024 11:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5371,6 +5371,8 @@ windowspro.de##div[style]:has(a[onclick*="&utm_"])
 windowspro.de##div[style]:has(a[onclick*="/pcs/click"])
 windowspro.de##div[style]:has(a[onclick*="://windows-pro.net/"])
 windowspro.de##div[style]:has(a[onclick*="://www.windowspro.de/"])
+windowspro.de##div[style]:has(a[onclick*="adurl"])
+windowspro.de##div[style]:has(a[onclick*="xai"])
 windowspro.de##div[style]:has(div[style] > p > a[onclick*="://www.windows-pro.net/"])
 mein-mmo.de##li.article:has([data-type="sponsored"])
 dogforum.de##li:has(.wbbXdLocationAfter1stPostAsPost)
