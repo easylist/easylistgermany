@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202407171814
+! Version: 202407171859
 ! Title: EasyList Germany
-! Last modified: 17 Jul 2024 18:14 UTC
+! Last modified: 17 Jul 2024 18:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5114,7 +5114,7 @@ lokalo.de##img[height="250"]
 quadjournal.eu##img[height="600"]
 warez-ddl.net##img[height="90"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
-autoscout24.at,autoscout24.de##img[referrerpolicy="unsafe-url"]
+autoscout24.at,autoscout24.de,n-tv.de##img[referrerpolicy="unsafe-url"]
 aerotelegraph.com,clever-tanken.de,supremacy1914.de##img[referrerpolicy]
 data-load.in##img[style="width:270px;height:80px;"]
 data-load.in##img[style="width:700px;height:90px;"]
