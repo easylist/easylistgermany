@@ -31,6 +31,7 @@ fussballn.de###SPMADS_fussballn_HOME_MEDREC_1
 teltarif.de###SpaceBefore
 teltarif.de###SpaceRectangle
 teltarif.de###SpaceTgtLink
+back-intern.de###StyleTM-TopBanner
 t-online.de,www-t--online-de.cdn.ampproject.org###T-85628670
 t-online.de,www-t--online-de.cdn.ampproject.org###T-86926496
 t-online.de,www-t--online-de.cdn.ampproject.org###T-Shopping
@@ -726,6 +727,7 @@ dieharke.de##.Rectangle
 onvista.de##.SKYSCRAPER
 digitalkamera.de##.SkyscraperLeft
 digitalkamera.de##.SkyscraperRight
+back-intern.de##.StyleTM-PartnerImages
 onvista.de##.TEASERBOX.DEPOT_KONTO
 t-online.de,www-t--online-de.cdn.ampproject.org##.Tadc
 t-online.de,www-t--online-de.cdn.ampproject.org##.Tgbox--anz
@@ -2687,6 +2689,7 @@ android-hilfe.de#?#article.message--post:-abp-has(span.username:-abp-contains(An
 apfeltalk.de#?#div.wpb_text_column:-abp-contains(Werbung)
 avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorials))
 avguide.ch#?#.gridteaser.gridteaser-m:-abp-has(h4:-abp-contains(Sponsored Post))
+back-intern.de#?#.cm-post-widget-three.cm-post-widget-section:-abp-has(.section-title:-abp-contains(Partner))
 baur.de#?#div[data-testid="card"]:-abp-has(span.MuiCardHeader-title:-abp-contains(Gesponserte Artikel))
 baur.de#?#div[data-testid="reco-wrapper"]:-abp-has(div[class^="indexesm__HeadlineElement-fragment-product-master__"]:-abp-contains(Gesponserte Artikel))
 baur.de#?#span:-abp-contains(Gesponserte Artikel)
