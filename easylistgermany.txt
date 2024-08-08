@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202408081347
+! Version: 202408081443
 ! Title: EasyList Germany
-! Last modified: 08 Aug 2024 13:47 UTC
+! Last modified: 08 Aug 2024 14:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1383,6 +1383,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||azureedge.net/pickerimages/Lokalfreunde_$domain=bayer04.de
 ||b2run.de/run/de/de/components/partner-links/
 ||b2run.de/run/de/de/pics/partner/
+||back-intern.de/media/banner_img/
 ||badenerzeitung.at/images/bettfedernfabrik.jpg
 ||badenerzeitung.at/images/Bierbaum_VIP.jpg
 ||balaton-zeitung.info/wp-content/uploads/*-banner.jpg
@@ -2729,6 +2730,7 @@ fussballn.de###SPMADS_fussballn_HOME_MEDREC_1
 teltarif.de###SpaceBefore
 teltarif.de###SpaceRectangle
 teltarif.de###SpaceTgtLink
+back-intern.de###StyleTM-TopBanner
 t-online.de,www-t--online-de.cdn.ampproject.org###T-85628670
 t-online.de,www-t--online-de.cdn.ampproject.org###T-86926496
 t-online.de,www-t--online-de.cdn.ampproject.org###T-Shopping
@@ -3424,6 +3426,7 @@ dieharke.de##.Rectangle
 onvista.de##.SKYSCRAPER
 digitalkamera.de##.SkyscraperLeft
 digitalkamera.de##.SkyscraperRight
+back-intern.de##.StyleTM-PartnerImages
 onvista.de##.TEASERBOX.DEPOT_KONTO
 t-online.de,www-t--online-de.cdn.ampproject.org##.Tadc
 t-online.de,www-t--online-de.cdn.ampproject.org##.Tgbox--anz
@@ -5385,6 +5388,7 @@ android-hilfe.de#?#article.message--post:-abp-has(span.username:-abp-contains(An
 apfeltalk.de#?#div.wpb_text_column:-abp-contains(Werbung)
 avguide.ch#?#.avgrid_1_of_1.viewlet-bottom:-abp-has(h2:-abp-contains(Advertorials))
 avguide.ch#?#.gridteaser.gridteaser-m:-abp-has(h4:-abp-contains(Sponsored Post))
+back-intern.de#?#.cm-post-widget-three.cm-post-widget-section:-abp-has(.section-title:-abp-contains(Partner))
 baur.de#?#div[data-testid="card"]:-abp-has(span.MuiCardHeader-title:-abp-contains(Gesponserte Artikel))
 baur.de#?#div[data-testid="reco-wrapper"]:-abp-has(div[class^="indexesm__HeadlineElement-fragment-product-master__"]:-abp-contains(Gesponserte Artikel))
 baur.de#?#span:-abp-contains(Gesponserte Artikel)
