@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202408081729
+! Version: 202408111556
 ! Title: EasyList Germany
-! Last modified: 08 Aug 2024 17:29 UTC
+! Last modified: 11 Aug 2024 15:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1290,8 +1290,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||14-tage-wettervorhersage.de^*/anzeige_
 ||149.13.77.20^$domain=ww3.cad.de
 ||1und1.de/movein_$xmlhttprequest
-||2t3.alpin.de^
-||2t3.kicker.de^
 ||3drei3.de/3tres3_common/pub/
 ||3druck.com/wp-content/uploads/*/3Dmensionals-3druckcom3.jpg
 ||3druck.com/wp-content/uploads/*/adin.jpg
@@ -1481,7 +1479,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||classicwin.de/mybannerview.php
 ||climbing.de/fileadmin/banner/
 ||cloudfront.net^$domain=hd-streams.org
-||code.alpin.de^
 ||code.bergsteigen.com^
 ||codecheck.info/i/CTA-banner.png
 ||coincierge.de/wp-content/plugins/floating-banner/
@@ -2424,6 +2421,8 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||uscene.net/src/so/so.js
 ||utopix.net/utopia_de/js/loader.js
 ||va-music-hits.one/images/banners/
+||vates.alpin.de
+||vates.kicker.de^
 ||velomotion.de^*/featured-ad.js
 ||vfb.de/?proxy=img/hauptsponsor_
 ||vfb.de^*/sponsoren/
@@ -4937,6 +4936,7 @@ yoga-aktuell.de##div[id^="aktue-"]
 arbeits-abc.de##div[id^="arbei-"]
 areadvd.de##div[id^="aread-"]
 20min.ch##div[id^="ausland__inside-"]
+crucero-magazin.de##div[id^="avas-"]
 digitalfernsehen.de##div[id^="ax-"]
 finanzen100.de,spielen.de##div[id^="banner_"]
 20min.ch##div[id^="basel__inside-"]
@@ -5122,8 +5122,6 @@ datenschutz-berater.de##img[height="300"]
 datenschutz-berater.de,quadjournal.eu##img[height="600"]
 warez-ddl.net##img[height="90"]
 ak-kurier.de,nr-kurier.de,ww-kurier.de##img[name="banner"]
-autoscout24.at,autoscout24.de,n-tv.de##img[referrerpolicy="unsafe-url"]
-aerotelegraph.com,clever-tanken.de,supremacy1914.de##img[referrerpolicy]
 data-load.in##img[style="width:270px;height:80px;"]
 data-load.in##img[style="width:700px;height:90px;"]
 feinehilfen.com##img[title="Anzeige"]
