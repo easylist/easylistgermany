@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202408111556
+! Version: 202408132008
 ! Title: EasyList Germany
-! Last modified: 11 Aug 2024 15:56 UTC
+! Last modified: 13 Aug 2024 20:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2421,7 +2421,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||uscene.net/src/so/so.js
 ||utopix.net/utopia_de/js/loader.js
 ||va-music-hits.one/images/banners/
-||vates.alpin.de
+||vates.alpin.de^
 ||vates.kicker.de^
 ||velomotion.de^*/featured-ad.js
 ||vfb.de/?proxy=img/hauptsponsor_
@@ -4637,7 +4637,7 @@ gearnews.de##.widget_adtag_rectangle
 usa-info.net##.widget_atkp_widget
 zueri6.ch##.widget_banner
 diesachsen.de##.widget_commerce
-autogazette.de,cyclingmagazine.de,radio-aktiv.de,schmunzelseite.de,signal-online.de,solaranlage-ratgeber.de,xxx-amateur.eu##.widget_custom_html
+autogazette.de,cyclingmagazine.de,radio-aktiv.de,schmunzelseite.de,signal-online.de,solaranlage-ratgeber.de,unzensiert.ru,xxx-amateur.eu##.widget_custom_html
 nibelungen-kurier.de##.widget_dkge_wrapper
 freiluft-blog.de##.widget_links
 hebelschein-spekulant.de,werbestandard.de##.widget_media_image
