@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202408132008
+! Version: 202408162103
 ! Title: EasyList Germany
-! Last modified: 13 Aug 2024 20:08 UTC
+! Last modified: 16 Aug 2024 21:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1578,6 +1578,8 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||erogeschichten.com/mdhpic/
 ||erotikforum.at/data/siropu/
 ||erotikinserate.ch/banner/
+||es.alpin.de^
+||es.kicker.de^
 ||esports.ch^*/animated-banners/
 ||etcg.de/images/sponsoren/
 ||etcg.de/sponsor/
@@ -2421,8 +2423,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||uscene.net/src/so/so.js
 ||utopix.net/utopia_de/js/loader.js
 ||va-music-hits.one/images/banners/
-||vates.alpin.de^
-||vates.kicker.de^
 ||velomotion.de^*/featured-ad.js
 ||vfb.de/?proxy=img/hauptsponsor_
 ||vfb.de^*/sponsoren/
