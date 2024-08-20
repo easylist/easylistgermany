@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202408162103
+! Version: 202408201640
 ! Title: EasyList Germany
-! Last modified: 16 Aug 2024 21:03 UTC
+! Last modified: 20 Aug 2024 16:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4914,6 +4914,7 @@ ingolstadt-today.de##div[data-ez-block-id="3324017"]
 alles-mahlsdorf.de##div[data-id="904ffeb"]
 kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
 giga.de##div[data-sdg-ad]
+augsburger-allgemeine.de##div[data-slot-name="banner"]
 t-online.de##div[data-testid="TaboolaFeeds.Feed"]
 berliner-kurier.de,evangelische-zeitung.de##div[data-testid="article-billboard-advertisement"]
 sport1.de##div[data-testid="better-collective"]
