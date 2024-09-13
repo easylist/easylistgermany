@@ -1122,7 +1122,6 @@ mannheimer-morgen.de##.core-commercial
 finanzen.net##.cpg_incontent1-container
 finanzen.net##.cpg_incontent2-container
 daswetter.com##.creatividad
-douglas.de##.criteo-product-carousel
 u1-radio.at##.csc-partner
 haus.de##.css-1mdt86f
 filmstreaming-de.life##.custom-ban-wrap
@@ -2669,8 +2668,6 @@ az.com.na##aside:has(img[src*="/adverts/"])
 berlinstadtservice.de#?#.row.block03:-abp-has(p:-abp-contains(ANZEIGE))
 hornoxe.com##div.post.hentry.ivycat-post:has(a[href^="https://amzn.to/"])
 hornoxe.com##div.post.hentry.ivycat-post:has(a[href^="https://www.amazon.de/"])
-douglas.de##div.product-grid-column:has(span.product-tile__sponsored)
-douglas.de##div.swiper-slide:has(span.product-tile__sponsored)
 nydus.org##div.ui-tabs:has(#nydus_org_300x600_desktop_1)
 nydus.org##div:has(> #nydus_org_970x300_billboard_responsive)
 bauernzeitung.ch##div:has(> .advert)
