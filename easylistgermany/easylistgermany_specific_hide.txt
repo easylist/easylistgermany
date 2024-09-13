@@ -1491,6 +1491,8 @@ finanznachrichten.de##.on-click--partner
 onmeda.de##.on-top-banner-wrapper
 klappeauf.de##.opa
 autoscout24.at,autoscout24.de##.osa-as24-placeholder
+onvista.de##.ov-interaction-slot
+onvista.de##.ov-table-sponsored-row
 ssv-brixen.info##.owl-carousel
 oz-online.de##.ox
 6navi.ch##.p-banners-withborder
@@ -2161,6 +2163,7 @@ shop.rewe.de##div[class*="Product_productSpecialTile"]
 onlinehaendler-news.de##div[class*="adplacement_"]
 chartsurfer.de##div[class*="adszone-"]
 amazona.de##div[class*="fnetbr"]
+onvista.de##div[class="col col--sm-4 col--md-3 col--lg-4 col--xl-4"]
 t-online.de##div[class] > img[referrerpolicy="unsafe-url"]
 homegate.ch##div[class^="AdSlotContainer_"]
 stol.it##div[class^="AdSuperBanner_"]
