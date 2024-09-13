@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202409111813
+! Version: 202409131420
 ! Title: EasyList Germany
-! Last modified: 11 Sep 2024 18:13 UTC
+! Last modified: 13 Sep 2024 14:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -626,20 +626,11 @@ wetter.com#@#div[id^="div-gpt-"]
 ! ---------------------------Third-party Werbeserver---------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
 ! 
-||achmetsdoenerladen.de^
-||alleswegenmicha.de^
-||aluhutmafia.de^
 ||bd742.com^
-||cdu-offline.de^
-||dierussensindschuld.de^
 ||fantecio.com^
 ||gayads.biz^
-||gema-online.de^
-||holyjesus.de^
-||spd-spenden.de^
 ||swissadserver.ch^
 ||windows-pro.net^
-||wirverkaufennichts.de^
 ||wixnm.com^
 ||zazufi.com^
 ! 
@@ -665,7 +656,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||adcocktail.com^$third-party
 ||addefend.com^$third-party
 ||adhost.in^$third-party
-||adical.de^$third-party
 ||adiceltic.de^$third-party
 ||adindex.de^$third-party
 ||adition.de^$third-party
@@ -723,7 +713,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||bwads24.com^$third-party
 ||c-points.de^$third-party
 ||cashdorado.de^$third-party
-||cduspenden.de^$third-party
 ||chatintr.com^$third-party
 ||chatntr.com^$third-party
 ||ci-marketing.de^$third-party
@@ -761,8 +750,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||finad.de^$third-party
 ||finative.cloud^$third-party
 ||firstsponsor.de^$third-party
-||flatad.de^$third-party
-||flymangoo.com^$third-party
 ||fotoscaseras.top^$third-party
 ||frvfrv.com^$third-party
 ||gamesaffiliate.de^$third-party
@@ -776,7 +763,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||green-ads.net^$third-party
 ||guruads.de^$third-party
 ||h5v.eu^$third-party
-||heias.com^$third-party
 ||hot59.de^$third-party
 ||hovg.de^$third-party
 ||ibanner.de^$third-party
@@ -793,11 +779,8 @@ wetter.com#@#div[id^="div-gpt-"]
 ||klick4u.de^$third-party
 ||klicktausch.com^$third-party
 ||komplads.net^$third-party
-||korruptionundpartner.de^$third-party
 ||ktxtr.com^$third-party
-||letvertise.com^$third-party
 ||liferd.de^$third-party
-||lilaelefant.de^$third-party
 ||linkedads.de^$third-party
 ||linkstation.de^$third-party
 ||localpoint.ch^$third-party
@@ -823,7 +806,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||netwayer.de^
 ||network-marketing24.com^$third-party
 ||network-media.info^$third-party
-||networx.me^$third-party
 ||netzwerk-ad.de^$third-party
 ||nonstoppartner.net^$third-party
 ||notenpartner.de^$third-party
@@ -833,7 +815,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||paidsolution.de^$third-party
 ||payclick.it^$third-party
 ||performance-netzwerk.de^$third-party
-||performanceanalyser.net^$third-party
 ||planetactive.com^$third-party
 ||playamedia.com^$third-party
 ||ppac.de^$third-party
@@ -932,9 +913,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||1deluxe.eu/banner/
 ||213.133.100.18^*&clicktag=
 ||4fal.com/profilbannercreate/$third-party
-||62.146.108.97/banner/$third-party,domain=~arsmedium.de.ip
 ||6profis.de^*/banner_
-||88.198.13.8/publisher/$third-party,domain=~zadane.pl.or.sale-broker.com.ip
 ||a.check24.net/misc/view.php$domain=~wechseln.de
 ||abo2.de/abo-direkt/$third-party
 ||ad.71i.de^
@@ -1021,7 +1000,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||fairvital.com^*/banner_$third-party
 ||fantecio.com/ib/$third-party
 ||fastad.beepworld.de^
-||fettverbrennen.net/bilder/banner/
 ||files.kartenlegen.gratis^$third-party
 ||finanzen.net/partner/$subdocument,third-party,domain=~finanzen.at
 ||fireradio.fm/img/banner/$third-party
@@ -1037,7 +1015,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||goldsilbershop.de/widgets/$third-party
 ||gpaf.net/b/$third-party
 ||gratisland.de/rsbanner234x60.gif
-||gutscheinstore.com/fullsizebanner.gif
 ||hallimash.com/werber/$third-party
 ||hamster.cc^*.php$subdocument,third-party
 ||happyweekend-community.com/banner/
@@ -1218,7 +1195,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||wazazu.com/pimage/bas/$third-party
 ||wazazu.com/pimage/sdc/$third-party
 ||wazazu.com/pimage/visit-x/$third-party
-||webinstaller.gartenplanze.de^
 ||weekli.de/widget-loader?$third-party
 ||weekli.systems/www/widgets/$third-party
 ||werbemittel.adisfaction.de^$third-party
@@ -1675,7 +1651,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||gandersheimer-kreisblatt.de/files/gk/banner/
 ||gartennatur.com/wp-content/uploads/371x430-319x370.jpg
 ||gawina.de/wp-content/uploads/*-Banner_
-||gazzettadellambri.ch/wp-content/uploads/*_Banner_
 ||gearwom.de^$domain=finanzen.at|finanzen.ch|finanzen.net
 ||geile-deutsche-pornos.com/wp-content/plugins/rnotify/assets/public/custom.js
 ||gentleman-blog.de/wp-content/uploads/270x191.jpg
@@ -1706,10 +1681,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||gota6.ch/images/uploads/*/overlay/
 ||graltek.net/php/amzad_$xmlhttprequest
 ||griechenland.net/images/banners/
-||griechenlandaktuell.gr/_borders/agrafik_urlaubsreklamation1.jpg
-||griechenlandaktuell.gr/_borders/faehren_info_w.gif
-||griechenlandaktuell.gr/_borders/reisebaner.gif
-||griechenlandaktuell.gr/news/banner_
 ||grower.ch/partner/
 ||gutesexfilme.com/cpanel/
 ||gwars.de/index.php?page=advertisingpage
@@ -2000,7 +1971,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||naruto-tube.org/templates/caprica/amzl/
 ||naturundtherapie.at/images/banners/
 ||nebenwerte-magazin.com/wp-content/uploads/*/wrb-
-||netdna-ssl.com/wp-content/uploads/*/PopUp_TessinFerienwohnunge_300x250px.jpg$domain=reiseziele.ch
 ||netheweb.de/images/a-
 ||netheweb.de/images/trigami.png
 ||network.gofeminin.de^
@@ -2273,7 +2243,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||spieletest.at/backend/pictures/werbung/
 ||sport-90.de/images/banner-
 ||sport-90.de/images/casinoall.png
-||sport-fachhandel.com/appearance/sport-fachhandel.com/media/banner/
 ||sportgeschichte.at/static/partner/
 ||sportwette.net/wp-content/uploads/*-banner-
 ||sportwetten.org/wp-content/uploads/*-400x300-
@@ -2342,7 +2311,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||svww.de/fileadmin/media/*-970x250.jpg
 ||svww.de/fileadmin/media/*-banner.jpg
 ||svww.de/fileadmin/media/Sponsoren/
-||swiss-divers.ch/data/sliderbanner/
 ||swz.it^*/pichler.gif
 ||swz.it^*_Webbanner_
 ||synchronkartei.de/img/ext/
@@ -2933,11 +2901,11 @@ tarnkappe.info###custom_html-143
 tarnkappe.info###custom_html-144
 tarnkappe.info###custom_html-145
 rc-modellbau-blog.com###custom_html-17
-einkochen.info,ipadblog.de,leserbriefe.info,nh24.de,stimmt.at,wiener-online.at###custom_html-2
+einkochen.info,ipadblog.de,nh24.de,wiener-online.at###custom_html-2
 popkultur.de###custom_html-21
 andalusien-aktuell.es###custom_html-22
 dvd-forum.at###custom_html-27
-daily-pia.de,healthhelp.ch,likehifi.de,perbene.ch,prnet.at,windowspower.de###custom_html-3
+daily-pia.de,healthhelp.ch,likehifi.de,perbene.ch,windowspower.de###custom_html-3
 ipadblog.de,presse-nachrichten.de,urheberrecht.de###custom_html-4
 radsportjournaltourman.com###custom_html-42
 nachrichten.es,primavera24.de,radsportjournaltourman.com###custom_html-5
@@ -2983,8 +2951,6 @@ dastelefonbuch.de###dtm_multiboxcontainer
 gelbeseiten.de###dtm_super
 teilzeithelden.de###enhancedtextwidget-11
 teilzeithelden.de###enhancedtextwidget-12
-swiss-divers.ch###execphp-2
-swiss-divers.ch###execphp-3
 fremdwort.de###ezisgib
 bundesliga-streams.net###fcnbox
 uhrforum.de###fh-div
@@ -3063,7 +3029,7 @@ abload.de###layerleft
 abload.de###layerright
 tellows.de###lb_header
 1erforum.de,bauexpertenforum.de,dasheimwerkerforum.de,fitness-foren.de,lpgforum.de,mazda-forum.info,megane-board.de,mercedes-forum.com,notebookforum.at,pkw-forum.de,skodacommunity.de,toyota-forum.de,vermieter-forum.com,windows-7-forum.net###leader_top_desk
-anrufer.info,bergsteiger.de,hardwareluxx.de,skiinfo.ch,skiinfo.com,skiinfo.de,videoaktiv.de###leaderboard
+anrufer.info,bergsteiger.de,hardwareluxx.de,skiinfo.com,skiinfo.de,videoaktiv.de###leaderboard
 bauexpertenforum.de###leaderboardBelowNav
 koelner.de###leaderboard_nav
 anime-loads.org###leaderwidget
@@ -3327,7 +3293,7 @@ lokalo.de###text-60
 isaswomo.de###text-64
 apfelpage.de###text-65
 supermarkt-inside.de,via-ferrata.de###text-8
-gazzettadellambri.ch,via-ferrata.de###text-9
+via-ferrata.de###text-9
 windowspower.de###text-html-widget-15
 handy-auf-raten.com###text-html-widget-3
 focus.de###tfm_footer_yield
@@ -4093,6 +4059,7 @@ wallstreet-online.de##.lynxAds
 4investors.de##.lynxanzeige + .lynxcontainer
 stuttgarter-nachrichten.de##.m-weekli
 juedische-allgemeine.de##.magazinteaser
+email.t-online.de##.mailAdElem
 filmstarts.de##.main-banner
 ofc.de##.main-club-partner
 vienna-capitals.at##.main-sponsorlogo
@@ -4195,6 +4162,8 @@ finanznachrichten.de##.on-click--partner
 onmeda.de##.on-top-banner-wrapper
 klappeauf.de##.opa
 autoscout24.at,autoscout24.de##.osa-as24-placeholder
+onvista.de##.ov-interaction-slot
+onvista.de##.ov-table-sponsored-row
 ssv-brixen.info##.owl-carousel
 oz-online.de##.ox
 6navi.ch##.p-banners-withborder
@@ -4865,6 +4834,7 @@ shop.rewe.de##div[class*="Product_productSpecialTile"]
 onlinehaendler-news.de##div[class*="adplacement_"]
 chartsurfer.de##div[class*="adszone-"]
 amazona.de##div[class*="fnetbr"]
+onvista.de##div[class="col col--sm-4 col--md-3 col--lg-4 col--xl-4"]
 t-online.de##div[class] > img[referrerpolicy="unsafe-url"]
 homegate.ch##div[class^="AdSlotContainer_"]
 stol.it##div[class^="AdSuperBanner_"]
