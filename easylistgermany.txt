@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202409141256
+! Version: 202409161314
 ! Title: EasyList Germany
-! Last modified: 14 Sep 2024 12:56 UTC
+! Last modified: 16 Sep 2024 13:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -626,6 +626,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ! ---------------------------Third-party Werbeserver---------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_adservers.txt ***
 ! 
+||adnx.de^
 ||bd742.com^
 ||fantecio.com^
 ||gayads.biz^
