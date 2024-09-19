@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202409161314
+! Version: 202409191404
 ! Title: EasyList Germany
-! Last modified: 16 Sep 2024 13:14 UTC
+! Last modified: 19 Sep 2024 14:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1460,6 +1460,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||codecheck.info/i/CTA-banner.png
 ||coincierge.de/wp-content/plugins/floating-banner/
 ||com-magazin.de/img/*/Commerce-Week_450x94.jpeg
+||computerbase.de/creative/
 ||computerbase.de/creatives/
 ||computerschach.de^*/shredder_130x80.gif
 ||condor.cl/wp-content/uploads/*/aviso_condor-07.png
@@ -4773,6 +4774,7 @@ berliner-stadtplan.com,dein-plan.de,hamburger-stadtplan.com,hannover-stadtplan.c
 falk.de##a[href^="https://www.booking.com/searchresults.html?aid="]
 chip.de##a[href^="https://www.chip.de/downloads/"][href$=".html"] > figure > img
 stadt-bremerhaven.de##a[href^="https://www.communicationads.net/tc.php?"]
+computerbase.de##a[href^="https://www.computerbase.de/api/ad-click?"]
 beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,hd-sexfilme.com,hdpornos.net,herzporno.com,lesbenhd.com,meinyouporn.com,pornoaffe.com,pornoente.tv,pornofisch.com,pornohammer.com,pornohans.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornotom.com,pornotommy.com,pornozebra.com,sexente.com,sexvideos-hd.com,tube8-pornos.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.erocom.tv/?utm_"]
 beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,hd-sexfilme.com,hdpornos.net,herzporno.com,lesbenhd.com,meinyouporn.com,pornoaffe.com,pornoente.tv,pornofisch.com,pornohammer.com,pornohans.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornotom.com,pornotommy.com,pornozebra.com,sexente.com,sexvideos-hd.com,tube8-pornos.com,xhamster-sexvideos.com,xnxx-porno.com##a[href^="https://www.erotik-von-nebenan.com/?utm_"]
 wallstreet-online.de##a[href^="https://www.etracker.de/ccr?"]
