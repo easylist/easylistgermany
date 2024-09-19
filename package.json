@@ -1,0 +1,6 @@
+{
+  "name": "easylistgermany",
+  "devDependencies": {
+    "@adguard/dead-domains-linter": "^1.0.19"
+  }
+}
