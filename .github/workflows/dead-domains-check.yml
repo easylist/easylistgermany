@@ -4,19 +4,6 @@ env:
   NODE_VERSION: 20
 
 on:
-  - push
-  - pull_request
-
-jobs:
-  install:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: pnpm/action-setup@v4
-        with:
-          version: 9
-
-on:
   schedule:
     # Run the job on every Monday at 8:00 AM UTC
     - cron: '0 8 * * 1'
