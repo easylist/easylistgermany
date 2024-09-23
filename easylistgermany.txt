@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202409231241
+! Version: 202409231244
 ! Title: EasyList Germany
-! Last modified: 23 Sep 2024 12:41 UTC
+! Last modified: 23 Sep 2024 12:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5354,7 +5354,7 @@ mein-mmo.de##section.post:has([data-type="sponsored"])
 finanznachrichten.de##tr:has(span.sprite.h-w-c)
 wallstreet-online.de##tr:has(td > .float-end > span[title="Anzeige"])
 wallstreet-online.de##tr:has(td.right:has(img[alt="Anzeige"]))
-! ! Advanced element hiding rules for Adblock Plus
+! Advanced element hiding rules for Adblock Plus
 stol.it#?##ContainerFull:-abp-has(a:-abp-contains(Anzeige))
 alles-mahlsdorf.de#?#.elementor-section:-abp-has(h2.elementor-heading-title:-abp-contains(Werbung))
 android-hilfe.de#?#article.message--post:-abp-has(span.username:-abp-contains(Anzeige))
