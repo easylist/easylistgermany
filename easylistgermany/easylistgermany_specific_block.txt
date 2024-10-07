@@ -24,7 +24,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||abg-net.de/typo3temp/pics/f3f468fcef.png
 ||abg-net.de/uploads/tx_macinabanners/
 ||ad-hoc-news.de/js/aTraffic.js
-||ad.dl.dewezet.de^
 ||ad.dslr-forum.de^
 ||ad.games.ch^
 ||adhocnews.de/static/spreads/
@@ -94,8 +93,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||autogazette.de/wp-content/uploads/*/autoteileprofi-
 ||autoscout24.ch/content/startpage/
 ||az.com.na/img/banner/
-||azureedge.net/pickerimages/bayer04-superbanner_$domain=bayer04.de
-||azureedge.net/pickerimages/Lokalfreunde_$domain=bayer04.de
 ||b2run.de/run/de/de/components/partner-links/
 ||b2run.de/run/de/de/pics/partner/
 ||back-intern.de/media/banner_img/
@@ -153,8 +150,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||bitsundso.de/wp-content/uploads/*/ctdi.jpg
 ||black-dragons-erfurt.de^*/Banner/
 ||blackwings.at/fileadmin/content/sponsoren/
-||blob.core.windows.net/images/forst_topscorer.jpg$domain=fubas.it
-||blob.core.windows.net/images/volksbank_new_anzeige.jpg$domain=fubas.it
 ||blockbuster.to/img/8a844213f1ae29efaf836ffe63805fe618.jpg
 ||blog-der-republik.de/wp-content/uploads/*/square.png
 ||blog-der-republik.de/wp-content/uploads/*/trinkwasser_umfrage_square.jpg
@@ -189,13 +184,10 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||cathkathcatt.ch^*/banner_
 ||chartsurfer.de/getthead.php?
 ||cherry.ch/images/banner/
-||chip-secured-download.de/tmp/free-service-hotline.png$domain=chip.de
-||chip-secured-download.de^*/S13/$domain=chip.de
 ||cine4home.de^*/HKA-C4Hb.gif
 ||clap-club.de/wp-content/uploads/oeckl_Adress-Service_
 ||classicwin.de/mybannerview.php
 ||climbing.de/fileadmin/banner/
-||cloudfront.net^$domain=hd-streams.org
 ||code.bergsteigen.com^
 ||codecheck.info/i/CTA-banner.png
 ||coincierge.de/wp-content/plugins/floating-banner/
@@ -241,7 +233,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||dieantenne.it^*/csm_logo_young_direct_
 ||dieantenne.it^*/Viropa.png
 ||diebrennstoffzelle.de/images/banner/
-||digitaledienste.web.de/freemail/browser_decide/?$subdocument
 ||digitalfernsehen.de/wp-content/*/aqipa.jpg
 ||digitalfernsehen.de/wp-content/ca/NPAW-
 ||digitalfernsehen.de/wp-content/uploads/*/NPAW-
@@ -537,8 +528,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||ibooks.to/wp-content/uploads/*/offdd728.png
 ||ibooks.to^*.php|$script
 ||idealo.de/banner/
-||images-amazon.com/images/*/marquee/
-||images-amazon.com/images/*/marqueestatic/
 ||imgbox.de/img/blue_filsh_
 ||imgix.net/production/uploads/*/Banner_$domain=aerotelegraph.com
 ||imgur.com/cKTUKlX.gif$domain=mmnews.de
@@ -597,7 +586,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||kunststoffweb.de/_g/_ads/
 ||laborjournal.de/infos/m99/img/b_
 ||lad.sumikai.com^
-||laden.to/img/7821908c4d368c195af41a8d778901d011.jpg
 ||ladies.de/sol
 ||laengengrad-breitengrad.de/public/img/externbanner/
 ||land-der-traeume.de/bilder/banner/
@@ -682,7 +670,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||motorradundreisen.de/engine/count_banner_image/
 ||motorradundreisen.de^*/banner/
 ||movie-share.one/images/banners/
-||msecnd.net/endpoint/shipment/$domain=merkurist.de
 ||msh-online.de/_daten/banner/
 ||mtb-news.de/news/wp-content/plugins/mtbn-ads/
 ||mtb-news.de/news/wp-content/uploads/*/takeover-
@@ -715,8 +702,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||nebenwerte-magazin.com/wp-content/uploads/*/wrb-
 ||netheweb.de/images/a-
 ||netheweb.de/images/trigami.png
-||network.gofeminin.de^
-||network2.aufeminin.com^
 ||neumarkt-tv.de/wp-content/uploads/*/bestercasinomentor-original.jpg
 ||nh24.de/wp-content/uploads/*/Banner-
 ||nh24.de/wp-content/uploads/*/EAM_Juni2020_1200x200.gif
@@ -783,7 +768,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||pcgamesdatabase.de/images/amazon_small.jpg
 ||pcgamesdatabase.de/images/bt_orderamazon.jpg
 ||pcgameshardware.de/tsimg/topbanner/
-||pear.focus.de^
 ||pedelecforum.de/forum/styles/pedelec/direkt/
 ||pesterlloyd.net/assets/images/autogen/Betway-Casino-300x400.jpg
 ||pfaffenhofen-today.de/images/banners/
@@ -1316,10 +1300,9 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,~subdocument,third-party,domain=190.115.18.20|aniworld.to|bs.to|burningseries.ac|burningseries.nz|burningseries.se|burningseries.sx|burningseries.vc|kinoger.to|kinokiste.live|kinox.top|megakino.co|s.to|serien.cam|serienstream.to|streamcloud.movie|topstreamfilm.live
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=kinoger.com|kinoger.pw|kinokiste.live|megakino.co|streamcloud.movie|topstreamfilm.live
 ! Specific filters necessary for sites using $genericblock filter option
-g.doubleclick.net###adunit
 transfermarkt.de##.OUTBRAIN .ob-p
-/googleads.$domain=g.doubleclick.net|googlesyndication.com
-/pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
+/googleads.$domain=googlesyndication.com
+/pagead2.$domain=googlesyndication.com|imasdk.googleapis.com
 _video_ads/$domain=imasdk.googleapis.com
 autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 musikexpress.de,rollingstone.de,widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
@@ -1327,7 +1310,6 @@ musikexpress.de##iframe[src*="//fom.bildungscentrum.de/"]
 connextra.com##iframe[src^="https://ssl.connextra.com"]
 |http:$domain=adfarm1.adition.com
 |https:$domain=adfarm1.adition.com
-||2mdn.net^$domain=autobild.de|imasdk.googleapis.com|serving-sys.com
 ||a.df-srv.de^$domain=autobild.de
 ||ad.71i.de^$domain=autobild.de|gofeminin.de
 ||ad.doubleclick.net^$domain=autobild.de
@@ -1335,8 +1317,7 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||ad4mat.de^$domain=googlesyndication.com
 ||adcell.com^$domain=autobild.de
 ||adform.net^$domain=autobild.de|gofeminin.de|googlesyndication.com
-||adition.com^$domain=autobild.de|g.doubleclick.net
-||adnxs-simple.com/creative/$domain=autobild.de
+||adition.com^$domain=autobild.de
 ||adnxs.com^$domain=autobild.de|widgets.outbrain.com
 ||adrolays.de^$domain=autobild.de
 ||adsafeprotected.com^$domain=autobild.de|imasdk.googleapis.com
@@ -1351,14 +1332,9 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||cas.criteo.com^$domain=autobild.de
 ||cdn.flashtalking.com^$domain=autobild.de|imasdk.googleapis.com
 ||criteo.net/js/ld/publishertag.prebid.js$domain=gofeminin.de
-||f11-ads.com^$domain=gofeminin.de
-||flashtalking.com^$domain=g.doubleclick.net
-||g.doubleclick.net^$domain=autobild.de|gofeminin.de|imasdk.googleapis.com
 ||google.com/adsense/$domain=autobild.de
-||googlesyndication.com/daca_images/simgad/$domain=g.doubleclick.net
-||googlesyndication.com/pagead/$domain=g.doubleclick.net|googlesyndication.com
-||googlesyndication.com/sadbundle/$domain=g.doubleclick.net
-||googlesyndication.com/safeframe/$domain=g.doubleclick.net|gofeminin.de|googlesyndication.com
+||googlesyndication.com/pagead/$domain=googlesyndication.com
+||googlesyndication.com/safeframe/$domain=gofeminin.de|googlesyndication.com
 ||googlesyndication.com/sodar/$domain=googlesyndication.com
 ||googletagservices.com/dcm/dcmads.js$domain=autobild.de
 ||googletagservices.com/tag/js/gpt.js$domain=gofeminin.de
@@ -1366,20 +1342,13 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||moatads.com^$domain=autobild.de
 ||mookie1.com^$domain=autobild.de
 ||pagead2.googlesyndication.com^$domain=autobild.de|gofeminin.de
-||perfectmarket.com^$domain=autobild.de
 ||plista.com/pictureads/$domain=autobild.de
 ||pubmatic.com^$domain=gofeminin.de
-||redintelligence.net^$domain=g.doubleclick.net
 ||rtax.criteo.com^$domain=autobild.de
 ||sascdn.com^$domain=autobild.de
 ||servedby.flashtalking.com/imp/$script,xmlhttprequest,domain=autobild.de
-||serving-sys.com/BurstingCachedScripts/$domain=serving-sys.com
-||serving-sys.com/BurstingRes/$domain=imasdk.googleapis.com|serving-sys.com
-||serving-sys.com/BurstingScript/$domain=serving-sys.com
-||serving-sys.com/Serving/$domain=imasdk.googleapis.com
 ||smartadserver.com^$domain=autobild.de
 ||smartstream.tv^$domain=imasdk.googleapis.com
-||spotxchange.com^$domain=imasdk.googleapis.com
 ||static.criteo.net/js/ld/publishertag.prebid.js$domain=autobild.de
 ||teads.tv^$domain=autobild.de
 ||tmssl.akamaized.net//ads/ads.js$domain=transfermarkt.de

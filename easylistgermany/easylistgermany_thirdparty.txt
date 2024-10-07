@@ -5,8 +5,6 @@
 ||a.check24.net/misc/view.php$domain=~wechseln.de
 ||abo2.de/abo-direkt/$third-party
 ||ad.71i.de^
-||ad.bwise.ch^
-||ad.jaumo.com^
 ||adsby.de^$third-party
 ||aff.carvertical.com^$third-party
 ||affiliking.blogspot.com^$third-party
@@ -26,8 +24,6 @@
 ||ayurvedazentrum-brandenburg.de/webbanner/
 ||b.big7.com^$third-party
 ||backlinkseller.de/gfx/banner/
-||banner.1und1.com^$third-party
-||banner.1und1.de^$third-party
 ||banner.hosteurope.de^$third-party
 ||banner.immowelt.de^
 ||banner.upjers.com^$third-party
@@ -56,7 +52,6 @@
 ||china-gadgets.de^$subdocument,third-party
 ||com-porn-free.com/banner/
 ||communicationads.net/tb.php
-||crawler.pearl.de/pearl-crawler/banner?
 ||cript.to/plopscript.php
 ||datingpartner.com/medien/$third-party
 ||dealdog.net/dealdog.php
@@ -123,8 +118,6 @@
 ||icq-love.de/show_icqt.php$third-party
 ||icq-styler.de/promo.html
 ||idealo.de/extern/IdealoWidget.php?
-||idealo.net/js/idealoWidget-$third-party
-||idealo.net/widget/
 ||imaxcdn.com/promotool/banner/$third-party
 ||imgload.org/images/jpbannerfb8d0.jpg$domain=myboerse.bz
 ||imgur.com/0OkYj6J.png$domain=mmnews.de
@@ -174,18 +167,12 @@
 ||netzis.de/Banner/$third-party
 ||newsticker.save.tv^$third-party
 ||nexworld.tv^*/banner/$third-party
-||oddsserve-wqps7yvkz.stackpathdns.com^
 ||oecherdeal.de^$subdocument,third-party
 ||okm-community.com/banner/$third-party
-||om.1und1.info^$third-party
-||om.dsl.1und1.de^$third-party
 ||online-casino.de^$subdocument,third-party
-||partner.fondsdiscount.de^
 ||partner.gewinnspiele.de^$third-party
-||partner.leguide.com^$third-party
 ||partner.maxxim.de^
 ||partner.simplytel.de^
-||partner.zooplus.de^$third-party
 ||partnerprogramm.e-wie-einfach.de^$third-party
 ||partners2.das-onlinespiel.de/client.js?pid=*&_=2.12.3|$script,domain=games.focus.de|spiele.bild.de|spiele.stern.de
 ||partners2.das-onlinespiel.de/client.js?pid=pg_bildnew_kwr&zone=crosswords$domain=spiele.bild.de
@@ -225,7 +212,6 @@
 ||ranksider.de/img/banner/$third-party
 ||rastplatzsex.com/banner/$third-party
 ||recht-aktuell.de/js.ads?
-||ref.cdnplus.de^$third-party
 ||rev.lapippa.com^
 ||rhein.rfw-koeln.de^$third-party
 ||rocketcdn.me^*/Banner_$domain=marktindex.ch
@@ -274,7 +260,6 @@
 ||verleihshop.de/gfx/partner/$third-party
 ||versandtarif.de^*?partnerid=$third-party
 ||vesalia.de/af.gif$third-party
-||view.autoscout24.de^$third-party
 ||visit-x.net/001/$third-party
 ||viversum.de/partnerprogramm/$third-party
 ||wazazu.com/iframe/$third-party
