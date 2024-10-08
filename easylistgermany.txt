@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410082030
+! Version: 202410082105
 ! Title: EasyList Germany
-! Last modified: 08 Oct 2024 20:30 UTC
+! Last modified: 08 Oct 2024 21:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4938,6 +4938,7 @@ windowspro.de##div[id^="gWrapper-"]
 nationalgeographic.de##div[id^="gpt-"]
 hardware-helden.de##div[id^="hardw-"]
 ibiza-heute.de##div[id^="ibiza-"]
+ruhr24.de##div[id^="id-beep-slot-"]
 teltarif.de##div[id^="ideaload"]
 20min.ch##div[id^="influencer-radar__inside-"]
 journalistenwatch.com##div[id^="journ-"]
