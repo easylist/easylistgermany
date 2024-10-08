@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410082026
+! Version: 202410082030
 ! Title: EasyList Germany
-! Last modified: 08 Oct 2024 20:26 UTC
+! Last modified: 08 Oct 2024 20:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5146,6 +5146,7 @@ teneriffa-aktuell.com##img[width="800"][height="230"]
 teneriffa-aktuell.com##img[width="900"][height="350"]
 t-online.de,www-t--online-de.cdn.ampproject.org##img[width="920"][usemap^="#immap"]
 sumikai.com##ins[data-meh-id]
+tuhlteim.de##ins[style*="width: 300px; height: 250px;"]
 fuersie.de,idee-fuer-mich.de,jolie.de,leben-und-erziehen.de,maedchen.de,ok-magazin.de,petra.de,vital.de##kas
 vital.de##kas[type="placement"]
 restegourmet.de##li[data-content-type="ad"]
