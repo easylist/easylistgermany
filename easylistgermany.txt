@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410101406
+! Version: 202410101609
 ! Title: EasyList Germany
-! Last modified: 10 Oct 2024 14:06 UTC
+! Last modified: 10 Oct 2024 16:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2314,7 +2314,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||swz.it^*/pichler.gif
 ||swz.it^*_Webbanner_
 ||synchronkartei.de/img/ext/
-||tagblatt.de/CustomImages/Bannerkarusell/
 ||tageblatt.com.ar/banners/
 ||tah.de^*&tx_sfbanners_
 ||target-video.com^$script,domain=helpster.de
@@ -2888,7 +2887,6 @@ ladies.de###content-solads
 blogtotal.de###content_banner
 rund-magazin.de###contentbanner
 seorch.de###crazyclownhint
-tagblatt.de###ctl00_ctl00_m_ctrlMainMasterContentPlaceHolder_m_ctrlMainContentPlaceHolder_ctl03_m_ctrlEditContainer
 89.0rtl.de###customWer
 uepo.de###custom_html-107
 uepo.de###custom_html-110
@@ -4901,7 +4899,6 @@ prosiebengames.de##div[data-url-link^="https://track-adspree.com/"]
 chip.de##div[data-vr-zone="hp-aquamarin-1"]
 chip.de##div[data-vr-zone="hp-aquamarin-2"]
 gesundheit.de,onmeda.de##div[id$="SparkWrapper"]
-tagblatt.de##div[id^="AdServer_Banner_"]
 aerzteblatt.de##div[id^="Ads_BA_"]
 teltarif.de##div[id^="LxIdealo"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
