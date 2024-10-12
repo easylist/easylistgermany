@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410121859
+! Version: 202410121940
 ! Title: EasyList Germany
-! Last modified: 12 Oct 2024 18:59 UTC
+! Last modified: 12 Oct 2024 19:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4253,6 +4253,7 @@ aktionspreis.de##.produkt_uebersicht > div > br.clear
 coolibri.de##.promContainer
 endstation-rechts.de##.promo
 campervans.de,reisemobil-international.de##.promo-af-wrap
+tvspielfilm.de##.promo-box
 tvspielfilm.de##.promo-box-any-banner
 perfektdamen.co##.promo__item
 wegwerfemailadresse.com##.promobox
