@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410121940
+! Version: 202410141511
 ! Title: EasyList Germany
-! Last modified: 12 Oct 2024 19:40 UTC
+! Last modified: 14 Oct 2024 15:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -620,7 +620,7 @@ auto-motor-und-sport.de,hardwareluxx.de,wetter.com#@#[id^="div-gpt-ad"]
 11freunde.de,auto-motor-und-sport.de,motorradonline.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 11freunde.de,gofeminin.de#@#a[href^="https://pubads.g.doubleclick.net/"]
 telekom.de#@#a[href^="https://track.adform.net/"]
-onvista.de,topdepot24.de#@#a[href^="https://www.financeads.net/tc.php?"]
+onvista.de#@#a[href^="https://www.financeads.net/tc.php?"]
 11freunde.de,manager-magazin.de#@#div[data-google-query-id]
 wetter.com#@#div[id^="div-gpt-"]
 ! ---------------------------Third-party Werbeserver---------------------------!
@@ -847,7 +847,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||spoods.io^$third-party
 ||stilanzeigen.net^$third-party
 ||stroeerdigitalmedia.de^$third-party
-||stroeerdigitalpublishing.de^$third-party
 ||sunnysales.biz^$third-party
 ||superclix.de^$third-party
 ||superpromo24.de^$third-party
@@ -1857,7 +1856,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||kunststoffweb.de/_g/_ads/
 ||laborjournal.de/infos/m99/img/b_
 ||lad.sumikai.com^
-||laden.to/img/7821908c4d368c195af41a8d778901d011.jpg
 ||ladies.de/sol
 ||laengengrad-breitengrad.de/public/img/externbanner/
 ||land-der-traeume.de/bilder/banner/
@@ -1941,7 +1939,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||motorradundreisen.de/banner/
 ||motorradundreisen.de/engine/count_banner_image/
 ||motorradundreisen.de^*/banner/
-||movie-share.one/images/banners/
 ||msecnd.net/endpoint/shipment/$domain=merkurist.de
 ||msh-online.de/_daten/banner/
 ||mtb-news.de/news/wp-content/plugins/mtbn-ads/
@@ -2390,7 +2387,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||unterwasserwelt.de/wp-content/uploads/*/hamatamangroves-banner_footer-premiumsite-
 ||uscene.net/src/so/so.js
 ||utopix.net/utopia_de/js/loader.js
-||va-music-hits.one/images/banners/
 ||velomotion.de^*/featured-ad.js
 ||vfb.de/?proxy=img/hauptsponsor_
 ||vfb.de^*/sponsoren/
@@ -3809,7 +3805,6 @@ ingolstadt-today.de,mittelbayerische.de##.d-sm-block
 goldesel.sx##.d_695692
 blockbuster.to##.d_702192
 saugen.to##.d_702212
-laden.to##.d_702232
 unnuetzes.com##.da-container
 unnuetzes.com##.da-container-sky
 servus.com,terramatermagazin.com##.da__placeholder
@@ -4711,7 +4706,7 @@ nacktefoto.com##a[href^="/red/red.php?"]
 bastel-elfe.de##a[href^="banners.php?"]
 zensiert.net##a[href^="http://camgirly.net"]
 t-online.de,www-t--online-de.cdn.ampproject.org##a[href^="http://count.shopping.t-online.de/RE?ID="]
-blockbuster.to,goldesel.sx,laden.to,saugen.to##a[href^="http://filestore.to/premium"]
+blockbuster.to,goldesel.sx,saugen.to##a[href^="http://filestore.to/premium"]
 finanzen.net##a[href^="http://g.finanzen.net/bs-anlegerclub"]
 finanzen.net##a[href^="http://g.finanzen.net/hsbc-startseite-top-flop?id="]
 finanzen.net##a[href^="http://g.finanzen.net/premium-teaser-bnp"]
@@ -5124,7 +5119,7 @@ kultur-port.de,utvmagazin.de##img[width="200"][height="600"]
 naturalhorse.de##img[width="240"]
 messweb.de##img[width="250"]
 fcschweinfurt1905.de##img[width="280"][height="160"]
-basicthinking.de,buecher-magazin.de,eishockey-magazin.de,eishockey-online.com,fotoobjektiv.at,hockeyreport.net,iplayapps.de,meinbezirk.at,movie-share.one,nacktefoto.com,pi-news.net,radforum.de,radio-oldtimer.de,radioschwaben.de,radiotirol.it,silentworld.eu,suedtirol1.it,tarnkappe.info,va-music-hits.one##img[width="300"]
+basicthinking.de,buecher-magazin.de,eishockey-magazin.de,eishockey-online.com,fotoobjektiv.at,hockeyreport.net,iplayapps.de,meinbezirk.at,nacktefoto.com,pi-news.net,radforum.de,radio-oldtimer.de,radioschwaben.de,radiotirol.it,silentworld.eu,suedtirol1.it,tarnkappe.info##img[width="300"]
 mikanews.de##img[width="300"][height="150"]
 gamepro.de##img[width="300"][height="246"]
 arbeitsunrecht.de,boxen.de,fruchthandel.de,mygermantimes.com,pornofilm.zone,stadt-bremerhaven.de,via-ferrata.de,wirsiegen.de##img[width="300"][height="250"]
