@@ -2520,7 +2520,7 @@ ww3.cad.de##tr:first-child:last-child > td[valign="top"]:first-child + td[width=
 gmx.ch,gmx.net,web.de##tr[data-component-pixelurls*="adfarm1.adition.com"]
 gmx.net,web.de##tr[data-component="MessageListAdRow"]
 gmx.ch,gmx.net,web.de##tr[data-component="MessageListSpecialRow"]
-! Specific hiding filters necessary for sites using $generichide filter option
+!! Specific hiding filters necessary for sites using $generichide filter option
 focus.de###CT_DESKTOP_NATIVE_HOR_ANY_hor2
 autobild.de###billboard_btf_2Wrapper
 autobild.de###billboard_btf_rlWr
