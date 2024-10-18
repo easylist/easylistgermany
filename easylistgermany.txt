@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410172119
+! Version: 202410182003
 ! Title: EasyList Germany
-! Last modified: 17 Oct 2024 21:19 UTC
+! Last modified: 18 Oct 2024 20:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2846,6 +2846,7 @@ duden.de###block-lexemleaderboardunten
 macgadget.de###block-macgadget-anzeigen-3
 macgadget.de###block-macgadget-textwerbunglinks1
 macgadget.de###block-macgadget-verlosung
+haustec.de###block-network
 windowspro.de###block-views-sponsoredcontent-block
 windowspro.de###block-views-sponsoredpromo-block
 boersennews.de###bnBanner
@@ -3671,6 +3672,7 @@ galaxy-ingolstadt.de##.block-11
 galaxy-ingolstadt.de##.block-12
 galaxy-ingolstadt.de##.block-13
 celler-presse.de,galaxy-ingolstadt.de##.block-15
+haustec.de##.block-businessad
 suedostschweiz.ch##.block-np8-audienzz
 ak-kurier.de##.block-weather-link
 wissen.de##.block-wissen-ads
