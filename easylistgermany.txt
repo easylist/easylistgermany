@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410182012
+! Version: 202410182024
 ! Title: EasyList Germany
-! Last modified: 18 Oct 2024 20:12 UTC
+! Last modified: 18 Oct 2024 20:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3446,6 +3446,7 @@ goyellow.de##.adDetailRectangle
 11freunde.de##.ad_below-nav
 golfmagazin.de,jaegermagazin.de,st-georg.de,tennismagazin.de##.ad_list
 fairytail-tube.org,naruto-tube.org##.adb
+haie.de##.adbanner
 deutsche-wirtschafts-nachrichten.de,einrichtungsbeispiele.de,gevestor.de,latina-press.com,webwiki.de,weltfussball.at,weltfussball.com,weltfussball.de##.adbox
 computerbase.de##.adbox-outstream
 connect.de,krautundrueben.de,pc-magazin.de,vaterland.li##.adcontainer
@@ -3908,6 +3909,7 @@ schalke04.de##.footer-sponsors
 xhamsterde.com##.footer-widget-zone
 saechsische.de##.footer__partner
 rhein-neckar-loewen.de##.footer__slider
+haie.de##.footer__sponsors
 oefb.at##.footer_partner
 scdhfk-handball.de##.footer_sponsor_row
 1200grad.com##.footerbanner
@@ -3921,7 +3923,7 @@ raidrush.net##.funbox
 99ers.at##.fusion-builder-row-14
 fcschweinfurt1905.de##.fusion-builder-row-3
 ka-news.de##.fusslogos
-atv-quad-magazin.com,beautytipps.ch,betriebseinrichtung.net,business24.ch,celler-presse.de,denkmalpflege-schweiz.ch,docma.info,events24.ch,gailtal.news,gitschtal.news,gourmetnews.ch,greifenburg.news,hansa-online.de,haushaltsapparate.net,hermagor.news,hifi-today.de,islamiq.de,it-production.com,jungefreiheit.de,klagenfurt.news,lite-magazin.de,moebeltipps.ch,motortipps.ch,oldenburger-onlinezeitung.de,oscar-am-freitag.de,polizei-nachrichten.at,polizei.news,radenthein.news,radio-aktiv.de,rechtsdepesche.de,reiseziele.ch,skipper-bootshandel.de,spittal.news,stadt-nachrichten.de,steinfeld.news,swz.it,tierwelt.news,troepolach.news,umzugstipps.com,unternehmermagazin.de,via-ferrata.de,villacher.news,weissensee.news,werne-plus.de,wir-leben-outdoor.de##.g
+atv-quad-magazin.com,beautytipps.ch,betriebseinrichtung.net,business24.ch,celler-presse.de,denkmalpflege-schweiz.ch,docma.info,events24.ch,gailtal.news,gitschtal.news,gourmetnews.ch,greifenburg.news,haie.de,hansa-online.de,haushaltsapparate.net,hermagor.news,hifi-today.de,islamiq.de,it-production.com,jungefreiheit.de,klagenfurt.news,lite-magazin.de,moebeltipps.ch,motortipps.ch,oldenburger-onlinezeitung.de,oscar-am-freitag.de,polizei-nachrichten.at,polizei.news,radenthein.news,radio-aktiv.de,rechtsdepesche.de,reiseziele.ch,skipper-bootshandel.de,spittal.news,stadt-nachrichten.de,steinfeld.news,swz.it,tierwelt.news,troepolach.news,umzugstipps.com,unternehmermagazin.de,via-ferrata.de,villacher.news,weissensee.news,werne-plus.de,wir-leben-outdoor.de##.g
 ego4u.de##.g-adv-side
 ego4u.de##.g-adv-top > .inside
 golem.de##.g6 > .clearfix[style="margin: 20px 0; clear: both; min-height: 640px;"]
