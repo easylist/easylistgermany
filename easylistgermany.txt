@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410211234
+! Version: 202410211329
 ! Title: EasyList Germany
-! Last modified: 21 Oct 2024 12:34 UTC
+! Last modified: 21 Oct 2024 13:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3885,6 +3885,8 @@ de.motor1.com##.f1de-container
 mywheels.tv##.falken-banner
 fcbayern.com##.fcb-ad-banner-container
 bunte.de##.fe-channel-item--promo
+ligainsider.de##.feature.no_border.pull-left.mb-md
+ligainsider.de##.feature_column.pull-left.new_add
 ff-bz.com##.ff-ba
 2ertalk.de,autoextrem.de,skodacommunity.de,toyota-forum.de,usp-forum.de##.fh-inside-post
 autoextrem.de,skodacommunity.de##.fh-sidebar
