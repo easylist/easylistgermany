@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410211226
+! Version: 202410211234
 ! Title: EasyList Germany
-! Last modified: 21 Oct 2024 12:26 UTC
+! Last modified: 21 Oct 2024 12:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2118,6 +2118,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||ratingerzeitung.de/wp-content/uploads/*/physiotherapie_japa_
 ||ratingerzeitung.de/wp-content/uploads/*/podologie.jpg
 ||ratingerzeitung.de/wp-content/uploads/*/ragentur2019.jpg
+||rc-car-news.de/advert/
 ||rclineforum.de/forum/index.php?*&zoneid=$script
 ||rdrvision.com/images/content/*/reklame_
 ||readersdigest.de/images/banner/
@@ -3699,6 +3700,8 @@ xmedia-recode.de##.box_banner-container
 offroadforen.de##.boxesBottom
 offroadforen.de##.boxgenericBox41
 msxfaq.de##.boxjob
+rc-car-news.de,rc-car-rennsport.de##.boxschattenbutton
+rc-car-news.de,rc-car-rennsport.de##.boxschattenbuttonw
 x-oo.com##.boxx
 radmarkt.de##.branchenberichte
 schnittberichte.com##.branding
