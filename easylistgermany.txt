@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202410211221
+! Version: 202410211226
 ! Title: EasyList Germany
-! Last modified: 21 Oct 2024 12:21 UTC
+! Last modified: 21 Oct 2024 12:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -839,7 +839,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||sexgoesmobile.com^$third-party
 ||smartico.one^$third-party
 ||solads.media^$third-party
-||spaceeditors.com^$third-party
 ||sparkads.ws^$third-party
 ||sparkassen-partner.de^$third-party
 ||special-sponsor.de^$third-party
@@ -2119,8 +2118,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||ratingerzeitung.de/wp-content/uploads/*/physiotherapie_japa_
 ||ratingerzeitung.de/wp-content/uploads/*/podologie.jpg
 ||ratingerzeitung.de/wp-content/uploads/*/ragentur2019.jpg
-||rc-netzwerk.de/anzbanner/
-||rc-netzwerk.de/anzbutton/
 ||rclineforum.de/forum/index.php?*&zoneid=$script
 ||rdrvision.com/images/content/*/reklame_
 ||readersdigest.de/images/banner/
