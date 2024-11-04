@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202411031122
+! Version: 202411041309
 ! Title: EasyList Germany
-! Last modified: 03 Nov 2024 11:22 UTC
+! Last modified: 04 Nov 2024 13:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -900,7 +900,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||cgames.de^$popup
 ||delmovip.com^$popup
 ||gamigoads.com^$popup,third-party
-||insta-cash.net^$popup,third-party
 ||jinkads.com^$popup,third-party
 ||trafficfabrik.com^$popup,third-party
 ||websc.org^$popup,third-party
@@ -1310,7 +1309,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||ak-kurier.de/akkurier/www/images/
 ||ak-kurier.de/akkurier/www/pic/
 ||ak-kurier.de/akkurier/www/upload/
-||aktienportal1.de/img/banner/
 ||aktuell-kl.de/images/banners/
 ||akustik-gitarre.com/uploads/tx_ricrotation/
 ||algarve-entdecker.com/wp-content/uploads/*/xbanner-
