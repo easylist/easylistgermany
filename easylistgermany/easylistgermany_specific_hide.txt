@@ -1,4 +1,3 @@
-dtb.de###AD
 nd-aktuell.de###Ads
 haufe.de###Ads_Billboard_container
 blick.de###BSB
@@ -2187,6 +2186,7 @@ andalusien-aktuell.es,sex4u.ch##a[rel^="sponsored"]
 kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px; padding-left:28px; padding-right:0px; padding-top:14px; border:1pt solid #DADADC; background:#FFFFFF display:inline;"]
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 sportdeutschland.tv##app-top-banner
+hamburg-magazin.de##article.card:has(.with-ad-marker)dtb.de###AD
 windowspro.de##article.node-teaser:not(.node-promoted)
 otto.de##article[data-producttile-tracking*="wk.san_ProductType\":\"sponsored\""]
 weristdeinfreund.de##aside[id^="banner"]
@@ -2218,7 +2218,7 @@ lovelybooks.de##div[class^="MoliAd_"]
 derbund.ch##div[class^="PageLayout_topaddesktop_"]
 mactechnews.de##div[class^="Rectangle_"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[class^="Tsshopst"]
-90min.de,hamburg-magazin.de,kiel-magazin.de,luebeck-magazin.de##div[class^="ad_"]
+90min.de,kiel-magazin.de,luebeck-magazin.de##div[class^="ad_"]
 sport.de##div[class^="ada-preservespace-"]
 berliner-zeitung.de##div[class^="article_billboard-"]
 2ix2.com##div[class^="bireklam"]
@@ -2574,9 +2574,12 @@ focus.de###tfm_admanagerTeaser
 ran.de##.ad-component
 rollingstone.de##.ad-mrec
 ran.de##.ad-slot-container
+hamburg-magazin.de##.ad__skyscraper--wrapper
+hamburg-magazin.de##.ad__superbanner--wrapper
 ratehase.de##.adcolor
 focus.de##.adsBlock
 finanzen.net##.adsbygoogle
+hamburg-magazin.de##.article__ad__wrapper
 t-online.de##.css-1gm9xpz
 t-online.de##.css-1lb3bt5
 t-online.de##.css-2k2lok
@@ -2707,6 +2710,7 @@ zeit.de##.zett-teaser-trio:has(.zett-teaser-trio__kicker--ad-anzeige)
 expert.de##[data-key-id]:has([src^="//b.nl3.eu.criteo.com/rm?"])
 flaconi.de##[data-product-list-id]:has([data-badge-type="sponsored"])
 ariva.de##a.background-red-bright:has(span.anzeige)
+hamburg-magazin.de##article.card:has(.with-ad-marker)
 shop-apotheke.com##article.o-CompactProductListItem:has(a[href^="https://retail-api.sa-tech.de/api/"])
 finanzen.net##article.page-content__item:has(img[alt="UBS"])
 abendzeitung-muenchen.de##article[class^="teaser nummer-"]:has(span.specialfeature)
