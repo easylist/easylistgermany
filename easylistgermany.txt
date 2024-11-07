@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202411071924
+! Version: 202411071954
 ! Title: EasyList Germany
-! Last modified: 07 Nov 2024 19:24 UTC
+! Last modified: 07 Nov 2024 19:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -628,6 +628,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ! 
 ||adnx.de^
 ||bd742.com^
+||f11-ads.com^
 ||fantecio.com^
 ||gayads.biz^
 ||swissadserver.ch^
@@ -823,6 +824,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||ptadsrv.de^$third-party
 ||qualigo.de^$third-party
 ||quality-channel.de^$third-party
+||qualitymedianetwork.de^$third-party
 ||quartermedia.de^$third-party
 ||quarterserver.de^$third-party
 ||rapidads.de^$third-party
