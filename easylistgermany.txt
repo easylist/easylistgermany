@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202411131644
+! Version: 202411131655
 ! Title: EasyList Germany
-! Last modified: 13 Nov 2024 16:44 UTC
+! Last modified: 13 Nov 2024 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4338,6 +4338,8 @@ aol.de##.rmp-module__gam
 dfb.de##.rotation-partners
 vilan24.ch##.rotator
 apfeleimer.de##.rotslide-wrap
+reviersport.de##.rs-ad-tag
+reviersport.de##.rs-superbanner
 winfuture.de##.rutschdiv
 sport1.de##.s1-ad
 xn--solitr-fua.de##.sa2
