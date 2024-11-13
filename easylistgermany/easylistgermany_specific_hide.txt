@@ -1716,7 +1716,6 @@ german-porno-deutsch.info##.sidebar
 ploetzblog.de##.sidebar > .imglinks
 rheiderland.de##.sidebar-addbox
 giga.de##.sidebar-btn-affiliate[rel="nofollow noopener sponsored"]
-austriansoccerboard.at##.sidebar-partner
 kreativfieber.de##.sidebar-right > #text-11
 kreativfieber.de##.sidebar-right > #text-6
 explora.ch##.sidebar-sponsor-outlay
@@ -2665,6 +2664,8 @@ prad.de##.first-list > li:has(a[href^="https://tracking.s24.com/"])
 onvista.de##.flex-layout:has(div[class^="ArticleTeaser_ov-article-teaser__onvistaCustomer_"])
 mobiflip.de##.infinite-post:has(.adsbygoogle)
 onmeda.de##.inlinemod-item:has(.on-ad)
+austriansoccerboard.at##.ipsWidget:has(.sidebar-partner)
+austriansoccerboard.at##.ipsWidget:has(.sidebar-partner-links)
 mobile.de##.mN_WC:has([data-testid="sponsored-badge"])
 mopo.de##.main-preview:has(.anzeige-label)
 winfuture.de##.news330.floatL.mr10:has(.anzeige)
