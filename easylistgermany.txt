@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202411221708
+! Version: 202411231453
 ! Title: EasyList Germany
-! Last modified: 22 Nov 2024 17:08 UTC
+! Last modified: 23 Nov 2024 14:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3500,6 +3500,7 @@ chefkoch.de##.ads__initialized
 meetingpoint-brandenburg.de##.ads_mobile
 eatsmarter.de,quoka.de##.adsense
 stereo.de##.adserver
+libble.de##.adserver-container1
 persoenlich.com##.adslot-fireplace
 spox.com##.adsurbg
 hierspielen.com##.adtitle
