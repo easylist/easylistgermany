@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202412051650
+! Version: 202412051701
 ! Title: EasyList Germany
-! Last modified: 05 Dec 2024 16:50 UTC
+! Last modified: 05 Dec 2024 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3793,8 +3793,10 @@ raptastisch.net##.code-block-12
 fussballnationalmannschaft.net,wohnungswirtschaft-heute.de##.code-block-13
 raptastisch.net##.code-block-14
 buenasideas.de##.code-block-2
+movieblog.to##.code-block-3
 ibooks.to##.code-block-3[style]
-deinhandy.de##.code-block-4
+deinhandy.de,movieblog.to##.code-block-4
+movieblog.to##.code-block-5
 ibooks.to,raptastisch.net##.code-block-7
 raptastisch.net##.code-block-h-250px
 raptastisch.net##.code-block-h-300px
@@ -5190,7 +5192,7 @@ teneriffa-aktuell.com##img[width="500"]
 basicthinking.de##img[width="500"][height="500"]
 nh24.de##img[width="533"]
 report24.news##img[width="587"][height="562"]
-hamburger-allgemeine.de,silentworld.eu##img[width="600"]
+hamburger-allgemeine.de,movieblog.to,silentworld.eu##img[width="600"]
 basicthinking.de##img[width="600"][height="500"]
 report24.news##img[width="600"][height="550"]
 basicthinking.de##img[width="600"][height="600"]
