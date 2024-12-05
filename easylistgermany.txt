@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202412051705
+! Version: 202412051707
 ! Title: EasyList Germany
-! Last modified: 05 Dec 2024 17:05 UTC
+! Last modified: 05 Dec 2024 17:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3835,6 +3835,7 @@ u1-radio.at##.csc-partner
 haus.de##.css-1mdt86f
 filmstreaming-de.life##.custom-ban-wrap
 boerse-express.com##.custom-bexad
+disco-load.cc##.custom-footer-banners
 derkleinegarten.de##.custom-inhoadd
 satvision.de##.custom_googleanzeige
 digitalfernsehen.de##.custom_html-7
@@ -4359,7 +4360,7 @@ desired.de,familie.de##.sad_rectangle
 desired.de,familie.de##.sad_rectangle_2
 desired.de,familie.de##.sad_sky
 desired.de,familie.de##.sad_topmobile
-digital-eliteboard.com,musiker-board.de,woodworker.de##.samBannerUnit
+digital-eliteboard.com,disco-load.cc,musiker-board.de,woodworker.de##.samBannerUnit
 digital-eliteboard.com,macuser.de,musiker-board.de,vielfliegertreff.de##.samCodeUnit
 metal.de##.sb
 wallstreet-online.de##.sb_popularleverageproducts
