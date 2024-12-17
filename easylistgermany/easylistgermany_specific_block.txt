@@ -1395,3 +1395,5 @@ connextra.com##iframe[src^="https://ssl.connextra.com"]
 ||flashtalking.com^*.mp4$rewrite=abp-resource:blank-mp4,domain=toggo.de
 ||smartclip.net/creatives/uploads/*.mp4$rewrite=abp-resource:blank-mp4,domain=toggo.de
 ||smartclip.net^$~media,domain=toggo.de
+! $csp
+$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' static.veevcdn.co,domain=filmpalast.to
