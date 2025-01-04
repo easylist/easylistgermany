@@ -1,3 +1,7 @@
+# https://docs.travis-ci.com/user/reference/overview/#linux
+os: linux
+dist: bionic
+
 # https://docs.travis-ci.com/user/languages/python/
 language: python
 python:
@@ -15,7 +19,7 @@ env:
 
 # https://docs.travis-ci.com/user/customizing-the-build/#The-Build-Lifecycle
 install:
-  - pip install git+https://github.com/adblockplus/python-abp.git@4b0aec2
+  - pip install git+https://github.com/adblockplus/python-abp.git
 before_script:
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "TravisCI"
@@ -26,4 +30,3 @@ script:
   - git clone -b gh-pages "https://$GITHUB_TOKEN@github.com/easylist/easylistgermany" output
   - flrender -i easylistgermany=. easylistgermany.template output/easylistgermany.txt
   - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin gh-pages
-
