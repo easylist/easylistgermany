@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501071458
+! Version: 202501091740
 ! Title: EasyList Germany
-! Last modified: 07 Jan 2025 14:58 UTC
+! Last modified: 09 Jan 2025 17:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2819,8 +2819,11 @@ kroatien-nachrichten.de###bdaia-widget-e3-9
 kroatien-nachrichten.de###bdaia-widget-html-4
 kroatien-nachrichten.de###bdaia-widget-html-7
 karrierebibel.de###below-header
+mydealz.de###belowCommentsAdSlotPortal
 mydealz.de###belowCommentsFuseZonePortal
+mydealz.de###belowDescriptionAdSlotPortal
 mydealz.de###belowDescriptionFuseZonePortal
+mydealz.de###belowDetailsAdSlotPortal
 mydealz.de###belowDetailsFuseZonePortal
 osthessen-news.de###bigklick
 inside-digital.de,modhoster.de,tikonline.de###bigsize
@@ -3212,6 +3215,8 @@ madchensex.com###side-spot
 abnehmen.com,aquariumforum.de,auswandererforum.de,pferd.de,radforum.de###sidebar > li > .ffwidget_sidebar
 areadvd.de###sidebar-left #text-5
 primeleague.gg###sidebar-sponsor
+mydealz.de###sidebarMiddleAdSlotPortal
+mydealz.de###sidebarTopAdSlotPortal
 uhrforum.de###sidebar_container
 pinksugar-kessy.de###sidebar_right > #HTML7
 pinksugar-kessy.de###sidebar_right > #HTML9
