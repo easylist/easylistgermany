@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501111249
+! Version: 202501111316
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2025 12:49 UTC
+! Last modified: 11 Jan 2025 13:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5323,6 +5323,7 @@ saechsische.de##.article-fill:has(.article-badge.article-badge--ad)
 gewinn.com##.article-latest.article-layout-0 > .row:has(.advertorial-icon)
 meinbezirk.at##.article-list-item.article-card.article-card-default:has(.commercial-tag)
 heise.de##.bg-gray-50:has(div[id*="_Incontent-"])
+finanzfluss.de##.billboard-card:has(.partner-ad-and-title)
 laola1.at##.block.medium:has(a[href^="https://dt.sportradar.com/"])
 preis24.de##.box.box-style1:has(.notice)
 gesundheit.de##.box.img_link:has(.advertorial_hint)
