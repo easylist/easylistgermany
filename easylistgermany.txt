@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501131218
+! Version: 202501131220
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2025 12:18 UTC
+! Last modified: 13 Jan 2025 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2187,7 +2187,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||sex-infos.ch^*/clubBannerPremium/
 ||sex-inserate.ch/filestore/view/seco/
 ||sex4u.ch/img/banner_
-||sexabc.ch/js/rotator.js
 ||sexeldorado.ch/banner/
 ||sexente.com/img/linklist2/
 ||sexforum.ch/ForumPics/BaPics/
@@ -4385,6 +4384,8 @@ buffed.de,gamesaktuell.de,gamezone.de,pcgames.de##.shopLinkFrameWrapper
 newzs.de##.shopWidget
 xnxx2.de##.show-banner
 xnxx2.de##.show-block
+sexabc.ch##.showpopup
+sexabc.ch##.showpopup-background
 beeg-pornos.com,deinesexfilme.com,einfachtitten.com,gutesexfilme.com,halloporno.net,hd-pornos.info,hd-sexfilme.com,hdpornos.net,herzporno.com,lesbenhd.com,meinyouporn.com,milffabrik.com,nursexfilme.com,pornhub-sexfilme.net,pornoaffe.net,pornodavid.com,pornoente.tv,pornofelix.com,pornofisch.com,pornohammer.com,pornohans.com,pornohelm.com,pornohirsch.net,pornojenny.com,pornoklinge.com,pornoleon.com,pornolisa.com,pornoritze.com,pornoschlange.com,pornosusi.com,pornotanja.com,pornotom.com,pornotommy.com,pornovideos-hd.com,pornozebra.com,sexente.com,sexfilme-gratis.com,sexvideos-gratis.com,sexvideos-hd.com,tube8-pornos.com,xnxx-porno.com,xnxx-pornos.xxx,xnxx-sexfilme.com##.sicce-300x250
 pornoente.tv,pornohirsch.net,pornolisa.com,pornotanja.com##.sice-300x250
 german-porno-deutsch.info##.sidebar
@@ -4418,6 +4419,8 @@ a3kultur.de##.slick--optionset--anzeigen-slider
 boxverband.at##.slick-track
 aedt.de##.slide-box
 tippspiel.wa.de##.sliderContainer
+sexabc.ch##.sliderINSERATE
+sexabc.ch##.sliderTOP
 suche6.ch##.slideshow
 wallis24.it##.slideshowck
 hcgherdeina.com##.small-sponsor-box
