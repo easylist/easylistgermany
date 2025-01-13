@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501131249
+! Version: 202501131251
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2025 12:49 UTC
+! Last modified: 13 Jan 2025 12:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1387,6 +1387,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||bhc06.de/getattachment/*/Wilkinson-Logo.jpg
 ||biete6.ch/images/banner/
 ||bildschirmarbeiter.com/content/upload2/
+||bitch.ch/images/Banner/
 ||bitcoinnews.ch/bitcoin_mit_kreditkarte_kaufen.jpg
 ||bitcoinnews.ch/bitwala-bitcoin.jpg
 ||bitcoinnews.ch/coinbase.png
@@ -3945,6 +3946,7 @@ fcbayern.com##.footer-partner-container
 dtb.de##.footer-sponsor-section
 schalke04.de##.footer-sponsors
 xhamsterde.com##.footer-widget-zone
+bitch.ch##.footerBanner
 saechsische.de##.footer__partner
 rhein-neckar-loewen.de##.footer__slider
 haie.de##.footer__sponsors
