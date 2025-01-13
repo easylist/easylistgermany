@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501112225
+! Version: 202501131149
 ! Title: EasyList Germany
-! Last modified: 11 Jan 2025 22:25 UTC
+! Last modified: 13 Jan 2025 11:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1887,7 +1887,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||lounge.fm^*/topersatzteile.
 ||lowbeats.de/site/wp-content/banners/
 ||loz-news.de/images/banners/
-||lust24.ch/images/banner/
 ||lustvollesgeheimnis.com/banner/
 ||macgadget.de/mgbanner/
 ||mailcdn.de/w.php?$domain=mail.de
@@ -3315,7 +3314,6 @@ bluray-disc.de###top-angebote-box
 focus.de,fool.de,it-production.com###top-banner
 otr.datenkeller.net###topBanner
 my-ladies.ch###topBannerContainer
-lust24.ch###topCustomers
 tarnkappe.info###top_0
 raidrush.net###top_ga
 wintotal.de###topads
@@ -3630,7 +3628,7 @@ sexy-land.ch##.banner60
 sims4ever.de##.bannerBox
 eishockeynews.de##.bannerContent
 moviejones.de##.bannerInfo
-cherry.ch,lust24.ch##.bannerListPremium
+cherry.ch##.bannerListPremium
 cherry.ch##.bannerListPremiumTop
 goyellow.de##.bannerResult
 gota6.ch,sex-infos.ch##.bannerTop
