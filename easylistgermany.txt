@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501131235
+! Version: 202501131247
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2025 12:35 UTC
+! Last modified: 13 Jan 2025 12:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1542,6 +1542,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||erogeschichten.com/mdhpic/
 ||erosclubs.ch/banners/
 ||erosgirls.ch/banners/
+||erosjobs.ch/images/banner/
 ||erotikforum.at/data/siropu/
 ||erotikinserate.ch/banner/
 ||esports.ch^*/animated-banners/
@@ -3631,6 +3632,7 @@ sexy-land.ch##.banner200
 fickverein.com##.banner3box
 sexy-land.ch##.banner60
 sims4ever.de##.bannerBox
+erosjobs.ch##.bannerContainer
 eishockeynews.de##.bannerContent
 moviejones.de##.bannerInfo
 cherry.ch##.bannerListPremium
