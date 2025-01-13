@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501131156
+! Version: 202501131158
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2025 11:56 UTC
+! Last modified: 13 Jan 2025 11:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3406,6 +3406,7 @@ blick.de##.OAS_AD
 simmentalzeitung.ch##.PrintMotifRotator
 kostenlose-urteile.de##.RTaktAds
 dieharke.de##.Rectangle
+immoscout24.ch##.ResultListPage_adStyle_SPs8t
 onvista.de##.SKYSCRAPER
 digitalkamera.de##.SkyscraperLeft
 digitalkamera.de##.SkyscraperRight
