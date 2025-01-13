@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501131231
+! Version: 202501131235
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2025 12:31 UTC
+! Last modified: 13 Jan 2025 12:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4805,6 +4805,7 @@ hoerbuch.us##a[href^="https://linksnappy.com/?ref="]
 pornkinox.to##a[href^="https://lp.mydirtyhobby.com/"]
 ero-world.info##a[href^="https://media.campartner.com/"]
 metager.de##a[href^="https://metager.de/partner/r?"]
+biete6.ch##a[href^="https://mydirtyhobby.com/"][href*="?ats="]
 pcwelt.de##a[href^="https://ndirect.ppro.de/"]
 winfuture.de##a[href^="https://ndirect.ppro.de/click/"]
 bbszene.de##a[href^="https://neu.turbo-d.de/"]
