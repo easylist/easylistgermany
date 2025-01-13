@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501131155
+! Version: 202501131156
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2025 11:55 UTC
+! Last modified: 13 Jan 2025 11:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3820,7 +3820,7 @@ finanzen.net##.cpg_incontent2-container
 daswetter.com##.creatividad
 u1-radio.at##.csc-partner
 haus.de##.css-1mdt86f
-autoscout24.ch##.css-ljr5pl
+autoscout24.ch,motoscout24.ch##.css-ljr5pl
 filmstreaming-de.life##.custom-ban-wrap
 boerse-express.com##.custom-bexad
 disco-load.cc##.custom-footer-banners
