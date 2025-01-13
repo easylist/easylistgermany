@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501131158
+! Version: 202501131210
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2025 11:58 UTC
+! Last modified: 13 Jan 2025 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2521,6 +2521,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||ww4.cad.de^*.php?what=*:*&n=
 ||ww4.cad.de^*/axjs.php
 ||x.sumikai.com^
+||xdate.ch/cache/banner_
 ||xgadget.de/wp-content/uploads/*/ccbannersmall.jpg
 ||xhamster-sexvideos.com/cpanel/
 ||xhamster-sexvideos.com/img/linklist2/
@@ -4030,6 +4031,7 @@ lippe-news.de##.inline_wrapper
 erotikinserate.ch##.inner
 blitzrechner.de##.inserter-5
 blitzrechner.de##.inserter[data-ai]
+xdate.ch##.interstitial
 sueddeutsche.de##.iqad
 saechsische.de##.iqadtile-wrapper
 faz.net,tagesspiegel.de##.iqdcontainer
@@ -4076,6 +4078,7 @@ wasserburger-stimme.de##.lefthellwetter
 queer.de##.leistenbanner
 frischauf-gp.de##.ligaadd
 1000ps.ch##.links
+xdate.ch##.list-AxDxS
 mydict.com,mydict.net##.list-group
 gmx.ch,gmx.net,web.de##.list-inbox-ad-item--multi-line
 gmx.ch,gmx.net,web.de##.list-programmatic-inbox-ad-item__iframe
@@ -4135,7 +4138,6 @@ abendblatt.de##.mj-pf-widget
 finanzen.net##.mleft-10 + .table-quotes
 polizei.news,reiseziele.ch##.mobile-billboard-box
 gartenflora.de##.mobile-interscroller
-xdate.ch##.mobile-list-ads
 computerbase.de##.mobile-skin-ad
 gelbeseiten.de##.mod-RechteWerbespalteStartseite
 wohnglueck.de##.mod-adslot
