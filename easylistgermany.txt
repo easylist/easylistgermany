@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501131210
+! Version: 202501131218
 ! Title: EasyList Germany
-! Last modified: 13 Jan 2025 12:10 UTC
+! Last modified: 13 Jan 2025 12:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2190,7 +2190,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||sexabc.ch/js/rotator.js
 ||sexeldorado.ch/banner/
 ||sexente.com/img/linklist2/
-||sexforum.ch/ForumPics/Banners/
+||sexforum.ch/ForumPics/BaPics/
 ||sexgeschichten.com/kosmonaut/
 ||sexlink.ch/images/banner/
 ||sexnews.ch/uploads/tx_sfbanners/
@@ -3404,11 +3404,13 @@ swoodoo.com##.Flights-Results-FlightRightRail
 perspektive-mittelstand.de##.Laddbox
 perspektive-mittelstand.de##.Laddbox300
 blick.de##.OAS_AD
+sexforum.ch##.Partnerbox
 simmentalzeitung.ch##.PrintMotifRotator
 kostenlose-urteile.de##.RTaktAds
 dieharke.de##.Rectangle
 immoscout24.ch##.ResultListPage_adStyle_SPs8t
 onvista.de##.SKYSCRAPER
+sexforum.ch##.SideBannerbox
 digitalkamera.de##.SkyscraperLeft
 digitalkamera.de##.SkyscraperRight
 back-intern.de##.StyleTM-PartnerImages
@@ -4568,7 +4570,7 @@ zumfahren.de##.topRight300x250
 edelsteine.net,sternzeichen.net##.top_bannerbar
 xrel.to##.top_news_adv
 rheiderland.de##.topanzeigen-slider-wrapper
-boerse-online.de##.topbanner
+boerse-online.de,sexforum.ch##.topbanner
 n-tv.de##.topbanner-mobile
 queer.de##.toplinks
 mobile.de##.topresult + .dealerAd
