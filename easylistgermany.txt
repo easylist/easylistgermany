@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501201406
+! Version: 202501201410
 ! Title: EasyList Germany
-! Last modified: 20 Jan 2025 14:06 UTC
+! Last modified: 20 Jan 2025 14:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1792,7 +1792,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||idealo.de/banner/
 ||images-amazon.com/images/*/marquee/
 ||images-amazon.com/images/*/marqueestatic/
-||imgbox.de/img/blue_filsh_
 ||imgix.net/production/uploads/*/Banner_$domain=aerotelegraph.com
 ||imgur.com/cKTUKlX.gif$domain=mmnews.de
 ||imgur.com/zCsgpkZ.gif$domain=mmnews.de
