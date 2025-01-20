@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501201410
+! Version: 202501201546
 ! Title: EasyList Germany
-! Last modified: 20 Jan 2025 14:10 UTC
+! Last modified: 20 Jan 2025 15:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5523,6 +5523,7 @@ lessentiel.lu#?#div:-abp-has(+ span:-abp-contains(Werbung))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(span:-abp-contains(Gesponsert))
 marbacher-zeitung.de#?#.appetizer:-abp-contains(Anzeige)
 mediamarkt.at,mediamarkt.de,saturn.de#?#li:-abp-has(div[data-test="mms-product-card"]:-abp-has(span:-abp-contains(Gesponsert)))
+mediamarkt.de#?#[data-test="mms-base-teaser"]:-abp-contains(Gesponsert)
 mediamarkt.de#?#[data-test="mms-search-flagship-sba"]:-abp-contains(Gesponsert)
 mediamarkt.de#?#[data-test="mms-search-showcase"] + div:-abp-contains(Gesponsert)
 meissen-fernsehen.de#?#.text-center:-abp-contains(- Werbung -)
