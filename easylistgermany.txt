@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501231805
+! Version: 202501241306
 ! Title: EasyList Germany
-! Last modified: 23 Jan 2025 18:05 UTC
+! Last modified: 24 Jan 2025 13:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2048,6 +2048,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||pianonews.de/images/banners/
 ||pianonews.de/images/CASIO_grandhybrid_290x150px_
 ||picdumps.com/ddeal
+||pics.computerbase.de/forum-teaser/
 ||pilotenboard.de/ad/
 ||pixelio.de/resources/widgets/clipdealer_
 ||plus.tourispo.com^
@@ -3956,6 +3957,7 @@ haie.de##.footer__sponsors
 oefb.at##.footer_partner
 scdhfk-handball.de##.footer_sponsor_row
 1200grad.com##.footerbanner
+computerbase.de##.forum-teaser
 nordkurier.de,schwaebische.de##.fp-ad-placeholder
 fruchtportal.de##.fp-banner
 arboe.at##.frame-type-mask_toolboxcontentad1
