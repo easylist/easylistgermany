@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202502051748
+! Version: 202502081324
 ! Title: EasyList Germany
-! Last modified: 05 Feb 2025 17:48 UTC
+! Last modified: 08 Feb 2025 13:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5494,7 +5494,6 @@ carpediem.life#?#.post-overview:-abp-has(div:-abp-contains(Anzeige))
 celleheute.de#?#div.YzqVVZ:-abp-has(span.wixui-rich-text__text:-abp-contains(Anzeigen))
 chip.de#?#a:-abp-properties(min-height: 250px;)
 chip.de#?#a[href^="https://www.chip.de/downloads/"]:-abp-has(div[id]:-abp-contains(Werbung))
-chip.de#?#div:-abp-properties(min-height: 250px;)
 chip.de#?#div[data-vr-contentbox^="teaser-"]:-abp-has(div.Label__Content--Text:-abp-contains(Anzeige))
 computerbase.de#?#div.text-asset.text-width:-abp-has(p.text-width:-abp-contains(Anzeige))
 computerbild.de#?#article.gridArea__teaserM:-abp-has(div.teaserBlock__label:-abp-contains(Anzeige))
