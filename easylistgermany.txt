@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202502081324
+! Version: 202502081328
 ! Title: EasyList Germany
-! Last modified: 08 Feb 2025 13:24 UTC
+! Last modified: 08 Feb 2025 13:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5349,7 +5349,6 @@ t-online.de##section[data-stage-layout^="custom_nativendo_"]
 ! ! :has()
 boersennews.de###bnTickerContainer:has(#bnTickerAdNotice)
 chip.de###dlcharts-list + div:has(a[title*="Avast Free Antivirus"])
-chip.de##.Button__Wrapper:has(a[href^="https://x.chip.de/linktrack/button/"][href*="&type=text&"])
 baur.de##.MuiBox-root:has(a[href^="//b.fr3.eu.criteo.com/rm?"])
 mobile.de##.Q8G_R:has(div[data-testid="SRP_BILLBOARD-container"])
 berlinstadtservice.de##.a.block04:has(a[href^="https://www.awin1.com/"])
@@ -5373,7 +5372,6 @@ ibooks.to##.code-block:has(i.fa-cloud-download-alt)
 feuerwehrmagazin.de##.excerpt-tile.cell.small-12.medium-6:has(.advertorials)
 print.de##.excerpt-tile.cell:has(.advertorials)
 vergleichswelt.app##.fads-zeile:has(.fads-anzeige-text)
-chip.de##.fb-align-content-start:has(a[href^="https://x.chip.de/linktrack/button/"][href*="&type=text&"])
 prad.de##.first-list > li:has(a[href^="https://bit.ly/"])
 prad.de##.first-list > li:has(a[href^="https://ipn.idealo.de/ts/"])
 prad.de##.first-list > li:has(a[href^="https://tracking.s24.com/"])
