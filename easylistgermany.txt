@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202502081359
+! Version: 202502081401
 ! Title: EasyList Germany
-! Last modified: 08 Feb 2025 13:59 UTC
+! Last modified: 08 Feb 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5571,12 +5571,12 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + button
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
 ! top-level domain wildcard
-kaufland.de##.exp-vision__ext-wrapper--spad
-kaufland.de##.product--spa
-kaufland.de##.product--sponsored
-kaufland.de##.spads-recommender
-kaufland.de##.sponsored-brand-products-container
-kaufland.de##.teaser-orchestration__wrapper--online
+kaufland.*##.exp-vision__ext-wrapper--spad
+kaufland.*##.product--spa
+kaufland.*##.product--sponsored
+kaufland.*##.spads-recommender
+kaufland.*##.sponsored-brand-products-container
+kaufland.*##.teaser-orchestration__wrapper--online
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist.txt ***
 @@/iqadcontroller.$script,domain=manager-magazin.de
