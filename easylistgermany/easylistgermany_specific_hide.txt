@@ -2916,9 +2916,9 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + button
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
 ! top-level domain wildcard
-kaufland.de##.exp-vision__ext-wrapper--spad
-kaufland.de##.product--spa
-kaufland.de##.product--sponsored
-kaufland.de##.spads-recommender
-kaufland.de##.sponsored-brand-products-container
-kaufland.de##.teaser-orchestration__wrapper--online
+kaufland.*##.exp-vision__ext-wrapper--spad
+kaufland.*##.product--spa
+kaufland.*##.product--sponsored
+kaufland.*##.spads-recommender
+kaufland.*##.sponsored-brand-products-container
+kaufland.*##.teaser-orchestration__wrapper--online
