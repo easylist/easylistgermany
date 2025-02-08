@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202502081354
+! Version: 202502081359
 ! Title: EasyList Germany
-! Last modified: 08 Feb 2025 13:54 UTC
+! Last modified: 08 Feb 2025 13:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3907,7 +3907,6 @@ radioholiday.de##.elementor-element-f3e9036
 spielen-slots.at,spielen-slots.com,spielen-slots.de##.end-to-end-banner
 etcg.de##.eral_wrapper
 marina.ch##.et_pb_row_0_tb_header
-kaufland.de##.exp-vision__ext-wrapper--spad
 immobilienscout24.de##.expose-ad-placeholder
 cannabis-medic.eu##.externalURL
 news.de##.extraContentContainer
@@ -4296,8 +4295,6 @@ prinz.de##.prinz-info--lb
 songtexte.com##.prmtnContentMin
 songtexte.com##.prmtnKeepHeight
 ariva.de##.prodo-shadow
-kaufland.de##.product--spa
-kaufland.de##.product--sponsored
 otto.de##.product.spa
 maclife.de##.productbox
 zentrum-der-gesundheit.de##.products-inarticle-slider--parent
@@ -4450,7 +4447,6 @@ finanzen100.de##.snippet--cta
 finanzen100.de##.snippet-container
 ladies.de##.sol-content
 golem.de##.sp-breakout-affy
-kaufland.de##.spads-recommender
 4fansites.de##.spalten_33_werbung
 meetingpoint-brandenburg.de##.span > .white_bg[style="width: 100%; padding-right: 5px;"]
 meetingpoint-brandenburg.de##.span.white_bg[style="padding: 7px 2px; margin-left: 5px;"]
@@ -4470,7 +4466,6 @@ asv-hamm-westfalen.de##.sponsor_col
 eisbaeren.de##.sponsor_wrapper
 ariva.de,otto.de,tips.at,toolbox.webediagaming.de,zdnet.de##.sponsored
 caravaning.de,menshealth.de,motorradonline.de,runnersworld.de##.sponsored--container
-kaufland.de##.sponsored-brand-products-container
 heise.de##.sponsored-placement
 arminia.de,budapester.hu,rot-weiss-erfurt.de,seo-united.de,vfb.de##.sponsoren
 hc-erlangen-ev.de##.sponsoren-right
@@ -4549,7 +4544,6 @@ neumarkt-tv.de##.tdi_88
 bestattungen.de##.tdp
 bild.de##.tea-rectangle
 nzz.ch,themarket.ch,wort.lu##.teaser--sponsored
-kaufland.de##.teaser-orchestration__wrapper--online
 ariva.de##.teaserPicturedNews
 watson.ch##.teaser_type_paid_content
 familie.de##.teaserheld-header-wrapper
@@ -5394,10 +5388,7 @@ running-magazin.com##.post-grid-item.grid-item:has(.ad-badge)
 photographie.de##.post.type-post.status-publish:has(.anzeige-box)
 dashcamtest.de##.previewtile.swiper-slide:has(a[href^="https://amzn.to/"])
 intersport.de##.product--box:has(.rm-sponso)
-kaufland.de##.product:has(div.product__sponsored-ad-label)
 guenstiger.de##.productCard:has(div.premiumProductCaption)
-kaufland.de##.rd-recommender__tile:has(div.rd-product-tile__badge--ad)
-kaufland.de##.rd-recommender__tile:has(span.advertiser-info__button-icon)
 metager.de##.result:has(a[href^="https://metager.de/partner/r?"])
 metager.de##.result:has(a[href^="https://r.search.yahoo.com/"])
 finanzen.net##.row.d-flex.align-items-center:has(a[href^="http://g.finanzen.net/allvest-fonds-home-intelligent-invest"])
@@ -5462,6 +5453,9 @@ finanzen.*##.adnz-ad-placeholder--google
 finanzen.*##.adnz-ad-placeholder--wideboard
 finanzen.*##.page-layout__ad-content
 finanzen.*##div[class^="ad-wrapper-"]
+kaufland.*##.product:has(div.product__sponsored-ad-label)
+kaufland.*##.rd-recommender__tile:has(div.rd-product-tile__badge--ad)
+kaufland.*##.rd-recommender__tile:has(span.advertiser-info__button-icon)
 mein-mmo.de##li.article:has([data-type="sponsored"])
 dogforum.de##li:has(.wbbXdLocationAfter1stPostAsPost)
 dogforum.de##li:has(.wbbXdLocationPostList)
@@ -5526,7 +5520,7 @@ heise.de#?#p:-abp-contains(=== Anzeige / Sponsorenhinweis ende===)
 ibooks.to#?#form:-abp-has(button:-abp-contains(Download))
 imsueden.de#?#.swiper:-abp-has(.headline:-abp-contains(Partner))
 kajak-magazin.com#?#.custom:-abp-has(span:-abp-contains(Anzeige))
-kaufland.de#?#.recommender-wrapper:-abp-contains(Gesponsert)
+kaufland.*#?#.recommender-wrapper:-abp-contains(Gesponsert)
 koeln.de#?#.gb-container:-abp-contains(Anzeige)
 la-palma24.info#?#article[class^="dvs-ad-tyblqtres-uno"]:-abp-has(div:-abp-contains(AD))
 la-palma24.info#?#div[class^="dvbloqbasic"]:-abp-has(div:-abp-contains(Ad))
@@ -5576,6 +5570,13 @@ windowspro.de#?#article:-abp-has(:-abp-properties(content: "Anzeige";))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + button
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
+! top-level domain wildcard
+kaufland.de##.exp-vision__ext-wrapper--spad
+kaufland.de##.product--spa
+kaufland.de##.product--sponsored
+kaufland.de##.spads-recommender
+kaufland.de##.sponsored-brand-products-container
+kaufland.de##.teaser-orchestration__wrapper--online
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist.txt ***
 @@/iqadcontroller.$script,domain=manager-magazin.de
