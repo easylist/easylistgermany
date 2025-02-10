@@ -43,7 +43,6 @@
 ||blubroid.de^$domain=n-tv.de
 ||bm.hbtronix.de^$third-party
 ||bn.gewinn24.de^
-||bn.profiwin.de^$third-party
 ||bodyguardapotheke.com^*/banner/
 ||boerse.bz/toplist/vote/$third-party
 ||boerse.bz^*/banners/$third-party
@@ -217,7 +216,6 @@
 ||primusportal.de/banner/$third-party
 ||privatamateure.com/?wmid=*&program=$third-party
 ||profiseller.de/banner/$third-party
-||profiwin.de^$subdocument,third-party
 ||promotionmaterial.betacash.com^
 ||prospekt38.de^*/widget.php?anbieter_id=$subdocument,third-party
 ||publisher.outtra.com^$third-party
@@ -237,7 +235,6 @@
 ||secure-host.de/banner/$third-party
 ||secure-host.de^*/banner/$third-party
 ||seitensprungarea.com/medien/$third-party
-||sexei.net/com/
 ||sexkontaktportal.com/banner/$third-party
 ||shuuz.de/banner/
 ||silbertresor.de^*/banner/$third-party
