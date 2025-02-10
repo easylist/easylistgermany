@@ -1322,15 +1322,14 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,~subdocument,third-party,domain=190.115.18.20|aniworld.to|bs.to|burningseries.ac|burningseries.nz|burningseries.se|burningseries.sx|burningseries.vc|kinoger.to|kinokiste.live|kinox.top|megakino.co|s.to|serien.cam|serienstream.to|streamcloud.movie|topstreamfilm.live
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=kinoger.com|kinoger.pw|kinokiste.live|megakino.co|streamcloud.movie|topstreamfilm.live
 ! Specific filters necessary for sites using $genericblock filter option
-g.doubleclick.net###adunit
-transfermarkt.de##.OUTBRAIN .ob-p
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
 _video_ads/$domain=imasdk.googleapis.com
 autobild.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
-musikexpress.de,rollingstone.de,widgets.outbrain.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
-musikexpress.de##iframe[src*="//fom.bildungscentrum.de/"]
 connextra.com##iframe[src^="https://ssl.connextra.com"]
+g.doubleclick.net###adunit
+musikexpress.de##iframe[src*="//fom.bildungscentrum.de/"]
+transfermarkt.de##.OUTBRAIN .ob-p
 |http:$domain=adfarm1.adition.com
 |https:$domain=adfarm1.adition.com
 ||2mdn.net^$domain=autobild.de|imasdk.googleapis.com|serving-sys.com
