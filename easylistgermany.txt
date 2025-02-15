@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202502131732
+! Version: 202502151216
 ! Title: EasyList Germany
-! Last modified: 13 Feb 2025 17:32 UTC
+! Last modified: 15 Feb 2025 12:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5457,6 +5457,7 @@ jameda.de##li:has([data-testid="advertisementSign-flag"])
 prad.de##li:has(a[class*="_klickkampagne_"])
 baur.de##li:has(a[href^="https://b.fr3.eu.criteo.com/rm?"])
 golem.de##li[data-article-id]:has(.icon-addy)
+chip.de##section.mt-md:has(a[href^="https://www.chip.de/downloads/"][target="_blank"])
 mein-mmo.de##section.post:has([data-type="sponsored"])
 finanznachrichten.de##tr:has(span.sprite.h-w-c)
 wallstreet-online.de##tr:has(td > .float-end > span[title="Anzeige"])
