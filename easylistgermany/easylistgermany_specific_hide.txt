@@ -1214,7 +1214,6 @@ volksblatt.li##.divAdd_Banner
 tieronline.ch##.djslider-in
 kachelmannwetter.com##.dkpw
 gload.to##.dl2019main
-chip.de##.dlcharts + div:not(.List)
 express.de,ksta.de,rundschau-online.de##.dm-slot
 rundschau-online.de##.dm-slot__skyContainer
 ksta.de##.dm_ta300x300.sold_content
@@ -1306,7 +1305,6 @@ fruchtportal.de##.fp-banner
 arboe.at##.frame-type-mask_toolboxcontentad1
 freenet.de##.frn_contAmazon
 woz.ch##.frontpage-card-banner
-chip.de##.ft-charts-main > div:not(.List):not(.caps)
 puls24.at##.fullbanner-wrapper
 raidrush.net##.funbox
 99ers.at##.fusion-builder-row-14
@@ -2585,7 +2583,6 @@ gmx.ch,gmx.net,web.de##list-programmatic-inbox-ad-item
 nau.ch##nau-external-content-lazy
 areadvd.de##onehr
 windowspro.de##section#block-viewscontent-block
-chip.de##section[data-vr-zone="hp-neongelb"] [data-vr-zone]
 ariva.de##span[onpointerdown^="countClickOnGAorEs("]
 ariva.de##span[onpointerup*="prgAnalyticsEvent("]
 erogeschichten.com##table[align-center][cellpadding="13"][border="0"][bgcolor="lightgrey"]
@@ -2689,7 +2686,6 @@ ratehase.de##div[style="text-align:center; min-height: 260px; height: 260px; mar
 t-online.de##section[data-stage-layout^="custom_nativendo_"]
 !! :has()
 boersennews.de###bnTickerContainer:has(#bnTickerAdNotice)
-chip.de##.Button__Wrapper:has(a[href^="https://x.chip.de/linktrack/button/"][href*="&type=text&"])
 baur.de##.MuiBox-root:has(a[href^="//b.fr3.eu.criteo.com/rm?"])
 mobile.de##.Q8G_R:has(div[data-testid="SRP_BILLBOARD-container"])
 berlinstadtservice.de##.a.block04:has(a[href^="https://www.awin1.com/"])
@@ -2713,7 +2709,6 @@ ibooks.to##.code-block:has(i.fa-cloud-download-alt)
 feuerwehrmagazin.de##.excerpt-tile.cell.small-12.medium-6:has(.advertorials)
 print.de##.excerpt-tile.cell:has(.advertorials)
 vergleichswelt.app##.fads-zeile:has(.fads-anzeige-text)
-chip.de##.fb-align-content-start:has(a[href^="https://x.chip.de/linktrack/button/"][href*="&type=text&"])
 prad.de##.first-list > li:has(a[href^="https://bit.ly/"])
 prad.de##.first-list > li:has(a[href^="https://ipn.idealo.de/ts/"])
 prad.de##.first-list > li:has(a[href^="https://tracking.s24.com/"])
@@ -2810,7 +2805,6 @@ baur.de##li:has(a[href^="https://b.fr3.eu.criteo.com/rm?"])
 golem.de##li[data-article-id]:has(.icon-addy)
 obi.*##.find-brandshop-grid:has([data-ui-name="find-artikelkachel-gesponsert-marker"])
 obi.*##[data-find-artikelnummer]:has([data-ui-name="find-artikelkachel-gesponsert-marker"])
-chip.de##section.mt-md:has(a[href^="https://www.chip.de/downloads/"][target="_blank"])
 mein-mmo.de##section.post:has([data-type="sponsored"])
 finanznachrichten.de##tr:has(span.sprite.h-w-c)
 wallstreet-online.de##tr:has(td > .float-end > span[title="Anzeige"])
@@ -2917,6 +2911,13 @@ windowspro.de#?#article:-abp-has(:-abp-properties(content: "Anzeige";))
 winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(Anzeige)):not(.with_rep)
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + button
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
+! remove:true;
+chip.de##.Button__Wrapper:has(a[href^="https://x.chip.de/linktrack/button/"][href*="&type=text&"]) {remove:true;}
+chip.de##.dlcharts + div:not(.List) {remove:true;}
+chip.de##.fb-align-content-start:has(a[href^="https://x.chip.de/linktrack/button/"][href*="&type=text&"]) {remove:true;}
+chip.de##.ft-charts-main > div:not(.List):not(.caps) {remove:true;}
+chip.de##section[data-vr-zone="hp-neongelb"] [data-vr-zone] {remove:true;}
+chip.de#?#.Teaser--L:-abp-has(div:-abp-contains(Anzeige)) {remove:true;}
 ! top-level domain wildcard
 kaufland.*##.exp-vision__ext-wrapper--spad
 kaufland.*##.product--spa
