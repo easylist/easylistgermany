@@ -1607,6 +1607,7 @@ dererker.it##.partvert-right
 tagesstimme.com##.pb-8.text-center.float-center
 fla.de##.pbph
 otto.de##.pdp_reco-sponsored
+otto.de##.pdp_sda__slot
 heise.de##.perf-cls-reduc-leaderboard
 heise.de##.perf-cls-reduc-rectangle
 kino.de##.performance-pub
@@ -2304,6 +2305,7 @@ ingolstadt-today.de##div[data-ez-block-id="3324017"]
 alles-mahlsdorf.de##div[data-id="904ffeb"]
 kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
 heise.de##div[data-module-name="AdModule"]
+otto.de##div[data-module-type="SHOPPROMO_LARGE"]
 giga.de##div[data-sdg-ad]
 augsburger-allgemeine.de##div[data-slot-name="banner"]
 augsburger-allgemeine.de##div[data-slot-name="banner2"]
@@ -2319,6 +2321,7 @@ suchen.mobile.de##div[data-testid^="SRP_TABLECELL_"]
 sportbild.bild.de##div[data-tr-doc-type="dt=InlineAd|st=BTOAdTag"]
 giga.de##div[data-trigger="sourcepoint-ad"]
 prosiebengames.de##div[data-url-link^="https://track-adspree.com/"]
+otto.de##div[data-widget-type="SDA_LEGACY"]
 gesundheit.de,onmeda.de##div[id$="SparkWrapper"]
 aerzteblatt.de##div[id^="Ads_BA_"]
 teltarif.de##div[id^="LxIdealo"]
