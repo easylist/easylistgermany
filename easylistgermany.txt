@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202502282027
+! Version: 202502282028
 ! Title: EasyList Germany
-! Last modified: 28 Feb 2025 20:27 UTC
+! Last modified: 28 Feb 2025 20:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5424,6 +5424,7 @@ elektrobike-online.com,roadbike.de##.v-A_-topteaser__article:has(.v-A_-teaser__t
 motorradonline.de,outdoor-magazin.com##.v-A_-topteaser__rotationbox__item:has(.v-A_-teaser__tag--ad)
 mountainbike-magazin.de,outdoor-magazin.com,roadbike.de##.v-A_-white__tile:has(.v-A_-teaser__tag--ad)
 windowspro.de##.view-idcontent:has(a[href^="/sponsored/"])
+notebooksbilliger.de##.vue-cherry:has(a[href*="/adnuntius"])
 connect.de##.wkTeaser:has(.promolabel)
 gebrauchtwagenberater.de##.wp-block-group:has(.wp-block-button__link)
 berlinstadtservice.de##.wrap-col.box4:has(a[href^="https://www.awin1.com/"])
