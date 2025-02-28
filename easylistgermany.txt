@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202502282028
+! Version: 202502282029
 ! Title: EasyList Germany
-! Last modified: 28 Feb 2025 20:28 UTC
+! Last modified: 28 Feb 2025 20:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4712,6 +4712,7 @@ german-bash.org##.zitat > div[style="width:300px;"]
 3drei3.de##.zona_publi
 lifeverde.de##.zusatz_billboard
 heise.de##A-PATERNOSTER
+home24.de##[data-cnstrc-sl-campaign-owner]
 mediamarkt.de##[data-test="mms-search-showcase"]
 fitbook.de,petbook.de##[data-view-track="stickybar.display.Skyscanner"]
 pornhutdeutsch.com##[href^="https://start.amateurcommunity.com/"]
