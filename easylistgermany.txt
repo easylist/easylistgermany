@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202503041024
+! Version: 202503051702
 ! Title: EasyList Germany
-! Last modified: 04 Mar 2025 10:24 UTC
+! Last modified: 05 Mar 2025 17:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5475,6 +5475,7 @@ obi.*##.splide__slide:has(hobi-advertiser-tag)
 obi.*##[data-find-artikelnummer]:has(.artikelkachel__gesponsortmarker)
 obi.*##[data-find-artikelnummer]:has([data-ui-name="find-artikelkachel-gesponsert-marker"])
 obi.*##[data-track-section^="home-topteaser"]:has(hobi-advertiser-tag)
+obi.*##explore-recommendation-v1:has([data-recommendations-title-short="Gesponsert"])
 mein-mmo.de##section.post:has([data-type="sponsored"])
 breuninger.com##suchen-produkt:has(.suchen-produkt--gesponsert)
 finanznachrichten.de##tr:has(span.sprite.h-w-c)
