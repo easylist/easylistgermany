@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202503051704
+! Version: 202503051706
 ! Title: EasyList Germany
-! Last modified: 05 Mar 2025 17:04 UTC
+! Last modified: 05 Mar 2025 17:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5590,8 +5590,6 @@ chip.de##.Button__Wrapper:has(a[href^="https://x.chip.de/linktrack/button/"][hre
 chip.de##.dlcharts + div:not(.List) {remove:true;}
 chip.de##.fb-align-content-start:has(a[href^="https://x.chip.de/linktrack/button/"][href*="&type=text&"]) {remove:true;}
 chip.de##.ft-charts-main > div:not(.List):not(.caps) {remove:true;}
-chip.de##section[data-vr-zone="hp-neongelb"] [data-vr-zone] {remove:true;}
-chip.de#?#.Teaser--L:-abp-has(div:-abp-contains(Anzeige)) {remove:true;}
 ! top-level domain wildcard
 kaufland.*##.exp-vision__ext-wrapper--spad
 kaufland.*##.product--spa
