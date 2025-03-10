@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202503101612
+! Version: 202503101722
 ! Title: EasyList Germany
-! Last modified: 10 Mar 2025 16:12 UTC
+! Last modified: 10 Mar 2025 17:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3555,6 +3555,7 @@ musiker-board.de##.anzC
 ntg24.de##.anzeige + .slider
 ntg24.de##.anzeige + p
 designtagebuch.de##.anzeige-links
+meerwasser-lexikon.de##.anzeigeInfo
 ariva.de##.anzeigeText
 lippe-news.de##.anzeige_content
 motorsport-total.com##.anzeige_teas_rect
