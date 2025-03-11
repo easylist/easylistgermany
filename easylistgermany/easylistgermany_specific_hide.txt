@@ -2951,7 +2951,6 @@ zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
 ! remove:true;
 chip.de##.Button__Wrapper:has(a[href^="https://x.chip.de/linktrack/button/"][href*="&type=text&"]) {remove:true;}
 chip.de##.dlcharts + div:not(.List) {remove:true;}
-chip.de##.fb-align-content-start:has(a[href^="https://x.chip.de/linktrack/button/"][href*="&type=text&"]) {remove:true;}
 chip.de##.ft-charts-main > div:not(.List):not(.caps) {remove:true;}
 ! top-level domain wildcard
 kaufland.*##.exp-vision__ext-wrapper--spad
