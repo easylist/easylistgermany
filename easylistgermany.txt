@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202503111740
+! Version: 202503121625
 ! Title: EasyList Germany
-! Last modified: 11 Mar 2025 17:40 UTC
+! Last modified: 12 Mar 2025 16:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5599,12 +5599,6 @@ chip.de##.Button__Wrapper:has(a[href^="https://x.chip.de/linktrack/button/"][hre
 chip.de##.dlcharts + div:not(.List) {remove:true;}
 chip.de##.ft-charts-main > div:not(.List):not(.caps) {remove:true;}
 ! top-level domain wildcard
-kaufland.*##.exp-vision__ext-wrapper--spad
-kaufland.*##.product--spa
-kaufland.*##.product--sponsored
-kaufland.*##.spads-recommender
-kaufland.*##.sponsored-brand-products-container
-kaufland.*##.teaser-orchestration__wrapper--online
 ! ------------------Ausnahmeregeln zum Beheben von Problemen-------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist.txt ***
 @@/iqadcontroller.$script,domain=manager-magazin.de
