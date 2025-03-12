@@ -2953,9 +2953,3 @@ chip.de##.Button__Wrapper:has(a[href^="https://x.chip.de/linktrack/button/"][hre
 chip.de##.dlcharts + div:not(.List) {remove:true;}
 chip.de##.ft-charts-main > div:not(.List):not(.caps) {remove:true;}
 ! top-level domain wildcard
-kaufland.*##.exp-vision__ext-wrapper--spad
-kaufland.*##.product--spa
-kaufland.*##.product--sponsored
-kaufland.*##.spads-recommender
-kaufland.*##.sponsored-brand-products-container
-kaufland.*##.teaser-orchestration__wrapper--online
