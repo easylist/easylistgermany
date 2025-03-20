@@ -2962,3 +2962,4 @@ zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
 chip.de##.dlcharts + div:not(.List) {remove:true;}
 chip.de##.ft-charts-main > div:not(.List):not(.caps) {remove:true;}
 ! top-level domain wildcard
+obi.*##[data-ae-slot="pdp_old_banner"]
