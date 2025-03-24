@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202503241218
+! Version: 202503241220
 ! Title: EasyList Germany
-! Last modified: 24 Mar 2025 12:18 UTC
+! Last modified: 24 Mar 2025 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2845,6 +2845,7 @@ haustec.de###block-network
 windowspro.de###block-views-sponsoredcontent-block
 windowspro.de###block-views-sponsoredpromo-block
 boersennews.de###bnBanner
+boersennews.de###bnPromotional
 redensarten-index.de###bnnr_u_suchfeld
 trendyone.de###bottom-blocks
 austrianwings.info###box-bottom > .box-inner
@@ -4330,6 +4331,7 @@ europa-landmaschinen.de,suedtirolnews.it##.pub
 europa-landmaschinen.de##.pub-content
 tchgdns.de##.pub-footer
 tchgdns.de##.pub-single-side
+boersennews.de##.pub_slot_d
 mallorcazeitung.es##.publi_cabecera_270
 mallorcazeitung.es##.publi_mega
 mallorcamagazin.com##.publicidad
