@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202503241028
+! Version: 202503241207
 ! Title: EasyList Germany
-! Last modified: 24 Mar 2025 10:28 UTC
+! Last modified: 24 Mar 2025 12:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2847,6 +2847,8 @@ windowspro.de###block-views-sponsoredpromo-block
 boersennews.de###bnBanner
 redensarten-index.de###bnnr_u_suchfeld
 trendyone.de###bottom-blocks
+austrianwings.info###box-bottom > .box-inner
+austrianwings.info###box-top > .box-inner
 esport.cologne###brands
 kleinanzeigen.de###brws_banner-supersize
 formel1.de###bs-container
@@ -4067,6 +4069,8 @@ gamepro.de,gamestar.de##.jad-placeholder
 computerbild.de##.jobbioTeaser
 interaktiv.tagesspiegel.de##.jobunion-container
 nur-positive-nachrichten.de##.jrCardBanner
+austrianwings.info##.js-ads-index
+austrianwings.info##.js-ads-tablet
 suedostschweiz.ch##.js-audienzz
 eurocampings.de##.js-mock-banner
 eurogirlsescort.de##.js-stt-click > picture
