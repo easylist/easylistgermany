@@ -2723,6 +2723,7 @@ ratehase.de##div[style="text-align:center; min-height: 260px; height: 260px; mar
 t-online.de##section[data-stage-layout^="custom_nativendo_"]
 !! :has()
 boersennews.de###bnTickerContainer:has(#bnTickerAdNotice)
+rewe.de###productlist_1__flagship:has(.fsr-Header__AdInfo)
 baur.de##.MuiBox-root:has(a[href^="//b.fr3.eu.criteo.com/rm?"])
 mobile.de##.Q8G_R:has(div[data-testid="SRP_BILLBOARD-container"])
 berlinstadtservice.de##.a.block04:has(a[href^="https://www.awin1.com/"])
