@@ -1579,6 +1579,7 @@ finanznachrichten.de##.on-click--partner
 onmeda.de##.on-top-banner-wrapper
 klappeauf.de##.opa
 autoscout24.at,autoscout24.de##.osa-as24-placeholder
+onvista.de##.ov-carousel--table-fixed-cells .bg-premium
 onvista.de##.ov-interaction
 onvista.de##.ov-interaction-slot
 onvista.de##.ov-table-sponsored-row
@@ -2837,6 +2838,7 @@ bauernzeitung.ch##div:has(> .advert)
 froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com##div:has(> img[referrerpolicy="unsafe-url"])
 onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(span[class="mt-1 block"])
 onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(span[class="mt-xxsmall block"])
+onvista.de##div[class="col py-0"]:has(span[class="block -mb-1 mt-1 text-sm text-ellipsis text-foreground-300"])
 docmorris.de##div[class="min-h-[420px] px-2"]:has(a[data-testid="product-card-sponsored"])
 preispirat.ch##div[class="vc_row wpb_row vc_inner vc_row-fluid"]:has(#responsiveAd)
 mediamarkt.at,mediamarkt.de,saturn.de##div[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
