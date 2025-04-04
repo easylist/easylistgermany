@@ -25,6 +25,7 @@
 @@||asadcdn.com/adlib/pages/musikexpress.js$domain=musikexpress.de
 @@||asadcdn.com/adlib/pages/stylebook.js^$script,domain=stylebook.de
 @@||asadcdn.com/adlib/templates/oneTag.js$script,domain=stylebook.de
+@@||atf-tagmanager.de/config/*.js|$domain=onvista.de
 @@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||commundia.de^*/affilinet/$~third-party
 @@||cpdsrv.de/cpt.js$domain=radiobob.de
@@ -103,6 +104,7 @@
 @@||musikexpress.de^$generichide
 @@||myhomebook.de^$generichide
 @@||n-tv.de^$generichide
+@@||onvista.de^$generichide
 @@||pcwelt.de^$generichide
 @@||ran.de^$generichide
 @@||ratehase.de^$generichide

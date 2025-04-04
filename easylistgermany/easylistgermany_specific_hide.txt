@@ -1582,6 +1582,7 @@ onmeda.de##.on-top-banner-wrapper
 klappeauf.de##.opa
 autoscout24.at,autoscout24.de##.osa-as24-placeholder
 onvista.de##.ov-carousel--table-fixed-cells .bg-premium
+onvista.de##.ov-carousel__inner tr[class*="bg-premium"]
 onvista.de##.ov-interaction
 onvista.de##.ov-interaction-slot
 onvista.de##.ov-table-sponsored-row
@@ -2756,6 +2757,7 @@ prad.de##.first-list > li:has(a[href^="https://bit.ly/"])
 prad.de##.first-list > li:has(a[href^="https://ipn.idealo.de/ts/"])
 prad.de##.first-list > li:has(a[href^="https://tracking.s24.com/"])
 willhaben.at##.fkPYfx:has(#apn-large-leaderboard)
+onvista.de##.flex-layout:has(.ov-ad-slot-advice)
 onvista.de##.flex-layout:has(div[class^="ArticleTeaser_ov-article-teaser__onvistaCustomer_"])
 onvista.de##.flex-layout:has(div[style^="width: 900px;"])
 mobiflip.de##.infinite-post:has(.adsbygoogle)
@@ -2839,8 +2841,10 @@ nydus.org##div.ui-tabs:has(#nydus_org_300x600_desktop_1)
 nydus.org##div:has(> #nydus_org_970x300_billboard_responsive)
 bauernzeitung.ch##div:has(> .advert)
 froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com##div:has(> img[referrerpolicy="unsafe-url"])
+onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(small[class="mt-1 block text-sm"])
 onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(span[class="mt-1 block"])
 onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(span[class="mt-xxsmall block"])
+onvista.de##div[class="col py-0"]:has(div[class="-mb-1 mt-1 text-sm text-ellipsis text-foreground-300"])
 onvista.de##div[class="col py-0"]:has(span[class="block -mb-1 mt-1 text-sm text-ellipsis text-foreground-300"])
 docmorris.de##div[class="min-h-[420px] px-2"]:has(a[data-testid="product-card-sponsored"])
 preispirat.ch##div[class="vc_row wpb_row vc_inner vc_row-fluid"]:has(#responsiveAd)
