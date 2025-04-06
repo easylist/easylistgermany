@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202504041225
+! Version: 202504061240
 ! Title: EasyList Germany
-! Last modified: 04 Apr 2025 12:25 UTC
+! Last modified: 06 Apr 2025 12:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3700,6 +3700,7 @@ designtagebuch.de##.billbo
 baupool.com,bundesliga.com,fnweb.de,formel1.de,laborjournal.de,ligaportal.at,linux-community.de,linux-magazin.de,mannheimer-morgen.de,tarnkappe.info,traktorpool.de,winfuture.de##.billboard
 android-hilfe.de##.billboard-ad-footer
 android-hilfe.de##.billboard-ad-top
+finanzfluss.de##.billboard-as-yield-section
 finanzfluss.de##.billboard-card
 infranken.de##.billboard-wrapper
 computerbild.de##.billboardBtfContainer
@@ -4533,6 +4534,7 @@ sinn-frei.com##.stx
 wetter.com##.styles-module__KqHK9a__adSlot
 coincierge.de##.su-button
 handyraketen.de##.su-button-wide[href^="http://amzn.to/"]
+finanzfluss.de##.suggested-partner
 mt.de##.superad
 fuersie.de,grazia-magazin.de,i-fidelity.net,idee-fuer-mich.de,inside-digital.de,jagderleben.de,jolie.de,ka-news.de,kochbar.de,kress.de,leben-und-erziehen.de,maedchen.de,ok-magazin.de,petra.de##.superbanner
 pharmazeutische-zeitung.de##.superbanner-frame
@@ -4976,6 +4978,8 @@ gmx.net,web.de##div[data-adservice-slot]
 studysmarter.de##div[data-adv-location]
 berliner-zeitung.de##div[data-component-type="ad-slot"]
 freenet.de##div[data-componentid^="ext-frn-adtag-"]
+finanzfluss.de##div[data-cy="billboard-card"]
+finanzfluss.de##div[data-cy="sustainability-section-ad"]
 volksblatt.at##div[data-div-ratios="default:300_250"]
 volksblatt.at##div[data-div-ratios="default:696_280|500:300_250"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[data-dy*="Partner:"]
@@ -5544,6 +5548,7 @@ emotion.de#?#.node--article:-abp-has(span:-abp-contains(Anzeige))
 fazemag.de#?#h4:-abp-has(span:-abp-contains(ANZEIGEN))
 finanzen.net#?#.mleft-10.small-font.light-grey:-abp-contains(Werbung) + .box + .border-blue-2
 finanzen.net#?#.mleft-10:-abp-contains(Werbung) + .box
+finanzfluss.de#?#.component:-abp-has(div.disclaimer-text:-abp-contains(Anzeige))
 focus.de#?#article[id^="teaser-"][data-placement]:-abp-contains(Anzeige)
 games.ch#?#.col4:-abp-has(h3:-abp-contains(Unterstützt durch:))
 gamestar.de#?#.content-item-medium:-abp-has(data:-abp-contains(Anzeige))
