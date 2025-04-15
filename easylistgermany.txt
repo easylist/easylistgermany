@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202504150917
+! Version: 202504151347
 ! Title: EasyList Germany
-! Last modified: 15 Apr 2025 09:17 UTC
+! Last modified: 15 Apr 2025 13:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4056,6 +4056,7 @@ sueddeutsche.de##.iqad
 saechsische.de##.iqadtile-wrapper
 faz.net,sueddeutsche.de,tagesspiegel.de,zeit.de##.iqdcontainer
 tri-mag.de##.irypolkj
+welt.de##.is-commercial
 allround-pc.com##.is-fp-outer
 onvista.de##.isSponsored
 islamische-zeitung.de##.islam-widget
