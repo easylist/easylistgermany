@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202504211024
+! Version: 202504211030
 ! Title: EasyList Germany
-! Last modified: 21 Apr 2025 10:24 UTC
+! Last modified: 21 Apr 2025 10:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3077,7 +3077,7 @@ dasoertliche.de###medium_rect
 feinehilfen.com###metaslider_widget-3
 av-views.com###mh_magazine_custom_posts-5
 koeln.de###mini-panel-rs_teaser_verpoorten
-insuedthueringen.de,kurier.de###mobilebanner_1
+insuedthueringen.de,kurier.de,np-coburg.de###mobilebanner_1
 hceintracht-hildesheim.de###module-sponsors
 wallstreet-online.de###mooTicker
 wallstreet-online.de###mooTickerContainerMobile
@@ -3583,7 +3583,7 @@ lokalmatador.de##.article-adbanner
 heise.de##.article-layout__header-wrbng
 onlinehaendler-news.de##.article-rectangle
 computerbase.de##.article-view__rectangle
-insuedthueringen.de,kurier.de##.article_nachDerWerbungWeiterlesen-desktop
+insuedthueringen.de,kurier.de,np-coburg.de##.article_nachDerWerbungWeiterlesen-desktop
 itmagazine.ch##.article_rectangle
 rhein-zeitung.de##.articlebody__rectangle
 dererker.it##.articles-pr-box
