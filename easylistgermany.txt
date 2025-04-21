@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202504211502
+! Version: 202504211512
 ! Title: EasyList Germany
-! Last modified: 21 Apr 2025 15:02 UTC
+! Last modified: 21 Apr 2025 15:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4199,6 +4199,7 @@ ehv-aue.de##.n2-ss-slider-pipeline
 finanznachrichten.de##.nadT
 ploetzblog.de##.nav-anzeige
 lavendel.net##.netpoint
+dersonntag.at##.news-detail-ads-container
 fruchthandel.de##.news-item-wbg
 fussballdaten.de##.news-spiel-quoten
 wallstreet-online.de##.newsFlagSlider
