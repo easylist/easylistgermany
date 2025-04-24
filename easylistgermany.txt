@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202504211557
+! Version: 202504241446
 ! Title: EasyList Germany
-! Last modified: 21 Apr 2025 15:57 UTC
+! Last modified: 24 Apr 2025 14:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5402,6 +5402,7 @@ googlewatchblog.de##.card-content > center:has(ins.adsbygoogle)
 automotiveit.eu,instandhaltung.de,produktion.de,technik-einkauf.de##.ce_postlistbox:has(.label-ad-highlight)
 all-electronics.de,automotiveit.eu,produktion.de##.ce_topicbox:has(.label-ad-highlight)
 ibooks.to##.code-block:has(i.fa-cloud-download-alt)
+shop-apotheke.at##.cross-sell-horizontal-slider__item-wrapper:has([href^="https://api.sae.systems/rma/api/v"])
 feuerwehrmagazin.de##.excerpt-tile.cell.small-12.medium-6:has(.advertorials)
 print.de##.excerpt-tile.cell:has(.advertorials)
 vergleichswelt.app##.fads-zeile:has(.fads-anzeige-text)
