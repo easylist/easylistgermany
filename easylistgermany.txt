@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202504301940
+! Version: 202505051323
 ! Title: EasyList Germany
-! Last modified: 30 Apr 2025 19:40 UTC
+! Last modified: 05 May 2025 13:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -747,7 +747,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||guruads.de^$third-party
 ||h5v.eu^$third-party
 ||hot59.de^$third-party
-||hovg.de^$third-party
 ||ibanner.de^$third-party
 ||iias.eu^$third-party
 ||imo-cash.de^$third-party
@@ -1394,7 +1393,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||blogprojekt.de/Bilder/affiliate-banner/
 ||blogprojekt.de/Bilder/Profi/
 ||blogspot.com^*/bet.gif$domain=fussball-livestream.info
-||blupoint.ch/banner/
 ||bluray-disc.de/images/background/
 ||bluray-disc.de/images/banner/
 ||boerse-online.de/images/Postbank-75x25.png
@@ -2634,7 +2632,6 @@ $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' stati
 /^https?:\/\/.*\.(jpg|jpeg|gif|png|php|svg|ico|js|txt|css)/$popup,domain=190.115.18.20|aniworld.to|canna-power.to|canna.to|kinoger.com|kinoger.to|kinoonline.net|s.to|serien.cam|serienstream.to
 /lp/chip-$popup,domain=chip.de
 ^utm_medium=popunder^$popup,domain=hilfreich.de
-||amazon.de^*^tag=$popup,domain=rheinlandpfalz-news.de
 ||brainberries.co^$popup,domain=chip.de
 ||count.shopping.t-online.de/RE?ID=$popup,domain=t-online.de
 ||data-load.me/partner/$popup
