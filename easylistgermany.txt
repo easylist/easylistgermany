@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202505051323
+! Version: 202505051335
 ! Title: EasyList Germany
-! Last modified: 05 May 2025 13:23 UTC
+! Last modified: 05 May 2025 13:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1114,6 +1114,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||rotlichtkartei.com/banner/$third-party
 ||satchef.de/banner/$third-party
 ||satking.de/images/banners/$third-party
+||scout69.com/?wms=$third-party
 ||secure-host.de/banner/$third-party
 ||secure-host.de^*/banner/$third-party
 ||seitensprungarea.com/medien/$third-party
@@ -4616,6 +4617,7 @@ queer.de##.toplinks
 mobile.de##.topresult + .dealerAd
 f95.de##.topsponlink
 my-ladies.ch##.tpa-row
+xnxx-deutsch.com##.tracking-btn
 supermarkt-inside.de##.tracking_trigger
 photovoltaikforum.com##.traffectiveBox
 trauerhilfe.it##.trauerhilfe_ads
@@ -5250,7 +5252,7 @@ bbqpit.de##img[width="400"]
 mikanews.de##img[width="400"][height="100"]
 teneriffa-aktuell.com##img[width="450"][height="300"]
 teneriffa-aktuell.com##img[width="450"][height="700"]
-ebook-land.cc,premiumbesucher.de##img[width="468"]
+ebook-land.cc,premiumbesucher.de,xnxx-deutsch.com##img[width="468"]
 lexolino.de##img[width="468"][height="60"]
 teneriffa-aktuell.com##img[width="500"]
 basicthinking.de##img[width="500"][height="500"]
