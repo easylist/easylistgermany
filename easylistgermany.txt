@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202505151002
+! Version: 202505171008
 ! Title: EasyList Germany
-! Last modified: 15 May 2025 10:02 UTC
+! Last modified: 17 May 2025 10:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2088,6 +2088,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||pr.t-online.de^
 ||pragerzeitung.cz/wp-content/uploads/*_300x450px_
 ||preispirat.ch^*/partner-ads/
+||preispirat.ch^*/partner-promo/
 ||prispi.de/images/bluvista-cam1.gif
 ||privater.sex/images/banner/
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
@@ -4942,6 +4943,7 @@ chartsurfer.de##div[class*="adszone-"]
 amazona.de##div[class*="fnetbr"]
 biancazapatka.com##div[class="app-banner"]
 onvista.de##div[class="col col--sm-4 col--md-3 col--lg-4 col--xl-4"]
+preispirat.ch##div[class="vc_row wpb_row vc_inner vc_row-fluid"]:has(img[src*="/partner-promo/"])
 blick.de,gut-erklaert.de,hifi-forum.de,kino.de,meinestadt.de,news.de,nordbayern.de,t-online.de,teltarif.de##div[class] > img[referrerpolicy="unsafe-url"]
 homegate.ch##div[class^="AdSlotContainer_"]
 stol.it##div[class^="AdSuperBanner_"]
