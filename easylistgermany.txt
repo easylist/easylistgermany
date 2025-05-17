@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202505171008
+! Version: 202505171017
 ! Title: EasyList Germany
-! Last modified: 17 May 2025 10:08 UTC
+! Last modified: 17 May 2025 10:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5419,6 +5419,7 @@ print.de##.excerpt-tile.cell:has(.advertorials)
 vergleichswelt.app##.fads-zeile:has(.fads-anzeige-text)
 obi.*##.find-brandshop-grid:has(.artikelkachel__gesponsortmarker)
 obi.*##.find-brandshop-grid:has([data-ui-name="find-artikelkachel-gesponsert-marker"])
+prad.de##.first-list > li:has(a[href^="https://amzn.to/"])
 prad.de##.first-list > li:has(a[href^="https://bit.ly/"])
 prad.de##.first-list > li:has(a[href^="https://ipn.idealo.de/ts/"])
 prad.de##.first-list > li:has(a[href^="https://tracking.s24.com/"])
@@ -5614,6 +5615,7 @@ onvista.de#?#div[class="flex justify-between mb-4 border-b-1 border-b-grey-100 p
 pctipp.ch#?#.list_item:-abp-has(.dachzeile:-abp-contains(Partnerzone))
 pcwelt.de#?#div.box:-abp-has(span.banner-text + h4:-abp-contains(/Partner-Angebot|Angebote/))
 pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
+prad.de#?#.pd-teaser:has(div.teaser-subtitle:has-text(Anzeige))
 produktion.de#?#.postlist-item:-abp-has(.label:-abp-contains(Gesponsert))
 report-d.de#?#.content-view-containerbox:-abp-contains(SONDER-VERÖFFENTLICHUNG)
 satvision.de#?#.fc_bloglist_item:-abp-has(a:-abp-contains(Advertorial))
