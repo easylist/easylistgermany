@@ -27,6 +27,7 @@
 @@||asadcdn.com/adlib/templates/oneTag.js$script,domain=stylebook.de
 @@||atf-tagmanager.de/config/*.js|$domain=onvista.de
 @@||bf-ad.net/adengine/onvista/adengine.js$domain=onvista.de
+@@||bf-ad.net/adengine/onvista/chunk-prepareEngine-$script,domain=onvista.de
 @@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||commundia.de^*/affilinet/$~third-party
 @@||cpdsrv.de/cpt.js$domain=radiobob.de
