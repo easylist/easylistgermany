@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202505241443
+! Version: 202505241445
 ! Title: EasyList Germany
-! Last modified: 24 May 2025 14:43 UTC
+! Last modified: 24 May 2025 14:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5692,6 +5692,7 @@ obi.*##[data-ae-slot="pdp_old_banner"]
 @@||asadcdn.com/adlib/templates/oneTag.js$script,domain=stylebook.de
 @@||atf-tagmanager.de/config/*.js|$domain=onvista.de
 @@||bf-ad.net/adengine/onvista/adengine.js$domain=onvista.de
+@@||bf-ad.net/adengine/onvista/chunk-prepareEngine-$script,domain=onvista.de
 @@||ced.sascdn.com/tag/2161/smart.js$domain=metal-hammer.de|rollingstone.de
 @@||commundia.de^*/affilinet/$~third-party
 @@||cpdsrv.de/cpt.js$domain=radiobob.de
