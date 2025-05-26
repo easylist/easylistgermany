@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202505261016
+! Version: 202505261019
 ! Title: EasyList Germany
-! Last modified: 26 May 2025 10:16 UTC
+! Last modified: 26 May 2025 10:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2256,6 +2256,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||spvggunterhaching.de^*/logo_saatgut.png
 ||spvggunterhaching.de^*/partner-
 ||ssv-jahn.de/fileadmin/user_upload/sponsoren/
+||ssvnaturns.it/images/Fussball/Sponsoren/
 ||stadt-bremerhaven.de/wp-content/uploads/*/amazonAktion.jpg
 ||stadt-bremerhaven.de^*/psw.jpg
 ||stadtanzeiger-coesfeld.de^*/heimbach.png
@@ -3835,6 +3836,7 @@ tvg-grosssachsen.de##.cont-60
 ak-kurier.de,nr-kurier.de,ww-kurier.de##.container-banner
 deutscherskiverband.de##.container-banner-2
 1000ps.at,1000ps.de##.container-billboard
+ssvnaturns.it##.container-sponsoren
 mt.de##.container.margin-bottom-40.fullwidth-container-mobile.min-280
 goslarsche.de##.container_skyscraper
 android-hilfe.de##.content-ad-first
@@ -4078,6 +4080,8 @@ onvista.de##.isSponsored
 islamische-zeitung.de##.islam-widget
 it-daily.net##.itd-ad-sidebar
 buffed.de,pcgames.de##.item + .at_sponsored > .itemHeadline
+ssvnaturns.it##.item-464
+ssvnaturns.it##.item-596
 pragerzeitung.cz##.item-advert
 kleinanzeigen.de##.j-liberty-wrapper
 gamepro.de,gamestar.de##.jad-placeholder
