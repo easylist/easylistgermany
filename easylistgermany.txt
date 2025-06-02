@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202506021828
+! Version: 202506021916
 ! Title: EasyList Germany
-! Last modified: 02 Jun 2025 18:28 UTC
+! Last modified: 02 Jun 2025 19:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3995,6 +3995,7 @@ ego4u.de##.g-adv-top > .inside
 golem.de##.g6 > .clearfix[style="margin: 20px 0; clear: both; min-height: 640px;"]
 koeln.de##.gb-container-0d2cd1d0
 golem.de##.gbox_affiliate
+gastgewerbe-magazin.de##.ggm-ad
 jungfrauzeitung.ch##.gokb
 jungfrauzeitung.ch##.gokwblock
 nydus.org##.googl
