@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202506021916
+! Version: 202506022128
 ! Title: EasyList Germany
-! Last modified: 02 Jun 2025 19:16 UTC
+! Last modified: 02 Jun 2025 21:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3590,6 +3590,7 @@ arbeits-abc.de##.arbei-widget
 lokalmatador.de##.article-adbanner
 heise.de##.article-layout__header-wrbng
 onlinehaendler-news.de##.article-rectangle
+autohaus.de##.article-rectangle-height
 computerbase.de##.article-view__rectangle
 frankenpost.de,insuedthueringen.de,kurier.de,np-coburg.de##.article_nachDerWerbungWeiterlesen-desktop
 itmagazine.ch##.article_rectangle
@@ -4046,6 +4047,7 @@ gebraucht-kaufen.de##.hitdb
 berlinmitkind.de##.hm_widget_banner
 b2run.de##.hmpartnersglobal
 emmikochteinfach.de##.holder-box-5
+autohaus.de##.home-side-ad-wrapper
 intimesrevier.com##.home_rennab
 hallescherfc.de##.home_sponsor_slider
 tirol.de##.hotelempfehlung
@@ -4178,6 +4180,7 @@ lite-magazin.de##.metaslider
 goolive.de##.mgawerbungbase
 unterwasserwelt.de##.mh-footer
 hallanzeiger.de##.mh-widget.s5214-widget
+autohaus.de##.mid-ad-section
 heise.de##.middle-ad-container
 mt.de##.min-280.mr
 schweizer-illustrierte.ch##.ministage-channel-sponsor-paragraph
