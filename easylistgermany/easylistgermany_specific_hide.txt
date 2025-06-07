@@ -2344,7 +2344,7 @@ winfuture.de##div[class^="ws_contentAd"]
 amazon.de##div[data-ad-id]
 heute.at##div[data-ad-position]
 pcspezialist.de##div[data-ad-type]
-welt.de##div[data-ad]
+kurier.at,welt.de##div[data-ad]
 rtl.de,vox.de##div[data-adformat="halfpage"]
 rtl.de,vox.de##div[data-adformat="rectangle"]
 unnuetzes.com,unsere-helden.com##div[data-ads-provider="sdg"]
@@ -2954,6 +2954,7 @@ imsueden.de#?#.swiper:-abp-has(.headline:-abp-contains(Partner))
 kajak-magazin.com#?#.custom:-abp-has(span:-abp-contains(Anzeige))
 knuspr.de#?#div[data-test="whisperer-product-wrapper"]:-abp-contains(Gesponsert)
 koeln.de#?#.gb-container:-abp-contains(Anzeige)
+kurier.at#?#.gridContainer:has-text(Sponsored Content)
 la-palma24.info#?#article[class^="dvs-ad-tyblqtres-uno"]:-abp-has(div:-abp-contains(AD))
 la-palma24.info#?#div[class^="dvbloqbasic"]:-abp-has(div:-abp-contains(Ad))
 lausitz-tv.de#?#.small-12.column:-abp-contains(Anzeige)
