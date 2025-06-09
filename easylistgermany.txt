@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202506091149
+! Version: 202506091155
 ! Title: EasyList Germany
-! Last modified: 09 Jun 2025 11:49 UTC
+! Last modified: 09 Jun 2025 11:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1900,6 +1900,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||meetingpoint-brandenburg.de/bilder/*/werbung/
 ||meetingpoint-brandenburg.de/upload/ads_
 ||mef-line.de/images/banners/
+||mein-klagenfurt.at/fileadmin/banner/
 ||mein-wetter.com/include/$subdocument
 ||meinyouporn.com/img/linklist2/
 ||melodieundrhythmus.com^*/Granma-Abo.png
@@ -4646,6 +4647,7 @@ tritime-magazin.de##.tritime-ads-middle
 pnn.de,tagesspiegel.de##.ts-sptag
 biallo.de##.tso-pub
 lolabrause.ch##.tx-admanager
+mein-klagenfurt.at##.tx-ghrandomcontent-pi1
 hamburg-pride.de##.tx-imagecycle-pi1
 astronomie.de##.tx-sf-banners
 bayernwelle.de##.type-banner
