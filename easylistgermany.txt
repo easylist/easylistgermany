@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202506131857
+! Version: 202506131900
 ! Title: EasyList Germany
-! Last modified: 13 Jun 2025 18:57 UTC
+! Last modified: 13 Jun 2025 19:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3847,6 +3847,7 @@ futurezone.de,imtest.de,leckerschmecker.me,news38.de##.contentAd--pos1
 buffed.de,gamezone.de,pcgames.de,pcgameshardware.de##.contentFrameEddie
 koeln.de##.contentRect
 tourispo.de##.contentRefsAside
+android-hilfe.de##.content_ad_last
 windowspro.de##.content_before_3rd_para
 avguide.ch##.contest-frame
 mannheimer-morgen.de##.core-commercial
@@ -4063,6 +4064,8 @@ heise.de##.img-ad
 kronenachrichten.com##.img-banner
 emmikochteinfach.de,karrierebibel.de##.in-content
 funcloud.club##.inArticleA
+android-hilfe.de##.incontent-wrapper
+android-hilfe.de##.incontent-wrapper_big
 heise.de##.incontent3-cls-reduc
 bikemarkt.mtb-news.de##.incontent__container
 autoline.de,autoline24.at,autoline24.ch##.index-bns
