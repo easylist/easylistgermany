@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202506140927
+! Version: 202506211021
 ! Title: EasyList Germany
-! Last modified: 14 Jun 2025 09:27 UTC
+! Last modified: 21 Jun 2025 10:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4853,7 +4853,7 @@ allround-pc.com##a[href^="https://allround-pc.com/"][href*="/?"]
 adventures-kompakt.de##a[href^="https://allvideoslots.com/"]
 anderes-wort.de,bitreporter.de,fairytail-tube.org,onepiece-tube.com,picdumps.com##a[href^="https://amzn.to/"]
 googlewatchblog.de,schrift-generator.com##a[href^="https://amzn.to/"] > img
-allround-pc.com##a[href^="https://bit.ly/"]
+allround-pc.com,wnoz.de##a[href^="https://bit.ly/"]
 adventures-kompakt.de##a[href^="https://casino-bonus24.net/"]
 adventures-kompakt.de##a[href^="https://casinoandy.com/"]
 adventures-kompakt.de##a[href^="https://casinopilot24.com/"]
