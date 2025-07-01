@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202507011538
+! Version: 202507011548
 ! Title: EasyList Germany
-! Last modified: 01 Jul 2025 15:38 UTC
+! Last modified: 01 Jul 2025 15:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5540,13 +5540,13 @@ nydus.org##div.ui-tabs:has(#nydus_org_300x600_desktop_1)
 nydus.org##div:has(> #nydus_org_970x300_billboard_responsive)
 bauernzeitung.ch##div:has(> .advert)
 froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com##div:has(> img[referrerpolicy="unsafe-url"])
-mobile.de##div[class="Q8G_R KnOLI W0RYj"]:has(#SRP_BILLBOARD_ADSENSE)
+mobile.de##div[class*="KnOLI W0RYj"]:has(#SRP_BILLBOARD_ADSENSE)
+mobile.de##div[class*="KnOLI W0RYj"]:has(#VIP_BILLBOARD_ADSENSE)
 onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(small[class="mt-1 block text-sm"])
 onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(span[class="mt-1 block"])
 onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(span[class="mt-xxsmall block"])
 onvista.de##div[class="col py-0"]:has(div[class="-mb-1 mt-1 text-sm text-ellipsis text-foreground-300"])
 onvista.de##div[class="col py-0"]:has(span[class="block -mb-1 mt-1 text-sm text-ellipsis text-foreground-300"])
-mobile.de##div[class="m7u5r KnOLI W0RYj"]:has(#VIP_BILLBOARD_ADSENSE)
 docmorris.de##div[class="min-h-[420px] px-2"]:has(a[data-testid="product-card-sponsored"])
 preispirat.ch##div[class="vc_row wpb_row vc_inner vc_row-fluid"]:has(#responsiveAd)
 preispirat.ch##div[class="vc_row wpb_row vc_inner vc_row-fluid"]:has(#responsivePromo)
