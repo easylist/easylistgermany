@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202508031811
+! Version: 202508040957
 ! Title: EasyList Germany
-! Last modified: 03 Aug 2025 18:11 UTC
+! Last modified: 04 Aug 2025 09:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5386,6 +5386,7 @@ focus.de##.ps-trackingposition_PDFkasten
 focus.de##.shoppingcartctn
 ratehase.de##.sidestickycon300x600
 autobild.de,computerbild.de##.superbannerBtfContainer
+pcwelt.de##.taboola_container
 businessinsider.de,bz-berlin.de,giga.de,myhomebook.de,sport1.de,sueddeutsche.de,t-online.de,transfermarkt.de##.trc-content-sponsored
 businessinsider.de,giga.de,metal-hammer.de,myhomebook.de,sport1.de,sueddeutsche.de,t-online.de,transfermarkt.de##.trc-content-sponsoredUB
 computerbild.de##.trc_related_container .syndicatedItem:not(.inNetworkItem)
