@@ -42,7 +42,7 @@ OPTIONPATTERN = re.compile(r"^(.*)\$(~?[\w\-]+(?:=[^,\s]+)?(?:,~?[\w\-]+(?:=[^,\
 # Compile regular expressions that match element tags and pseudo classes and strings and tree selectors; "@" indicates either the beginning or the end of a selector
 SELECTORPATTERN = re.compile(r"(?<=[\s\[@])([a-zA-Z]*[A-Z][a-zA-Z0-9]*)((?=([\[\]\^\*\$=:@#\.]))|(?=(\s(?:[+>~]|\*|[a-zA-Z][a-zA-Z0-9]*[\[:@\s#\.]|[#\.][a-zA-Z][a-zA-Z0-9]*))))")
 PSEUDOPATTERN = re.compile(r"(\:[a-zA-Z\-]*[A-Z][a-zA-Z\-]*)(?=([\(\:\@\s]))")
-REMOVALPATTERN = re.compile(r"((?<=([>+~,]\s))|(?<=(@|\s|,)))(\*)(?=(?:[#\.\[]|\:(?!-abp-contains)))")
+REMOVALPATTERN = re.compile(r"((?<=([>+~,]\s))|(?<=(@|\s|,)))(\*)((?=[#\.\[]|\:(?!-abp-contains)))")
 ATTRIBUTEVALUEPATTERN = re.compile(r"^([^\'\"\\]|\\.)*(\"(?:[^\"\\]|\\.)*\"|\'(?:[^\'\\]|\\.)*\')|\*")
 TREESELECTOR = re.compile(r"(\\.|[^\+\>\~\\\ \t])\s*([\+\>\~\ \t])\s*(\D)")
 UNICODESELECTOR = re.compile(r"\\[0-9a-fA-F]{1,6}\s[a-zA-Z]*[A-Z]")
@@ -58,14 +58,38 @@ COMMITPATTERN = re.compile(r"^(A|M|P)\:\s(\((.+)\)\s)?(.*)$")
 # List the files that should not be sorted, either because they have a special sorting system or because they are not filter files
 IGNORE = ("CC-BY-SA.txt", "easytest.txt", "GPL.txt", "MPL.txt",
           "easylist_specific_hide_abp.txt", "easyprivacy_specific_uBO.txt", "enhancedstats-addon.txt", "fanboy-tracking", "firefox-regional", "other",
-          "easylist_cookie_specific_uBO.txt", "fanboy_annoyance_specific_uBO.txt", "fanboy_newsletter_specific_uBO.txt", "fanboy_notifications_specific_uBO.txt", "fanboy_social_specific_uBO.txt", "fanboy_newsletter_shopping_specific_uBO.txt", "fanboy_agegate_specific_uBO.txt")
+          "easylist_cookie_specific_uBO.txt", "fanboy_annoyance_specific_uBO.txt", "fanboy_newsletter_specific_uBO.txt", "fanboy_notifications_specific_uBO.txt", "fanboy_social_specific_uBO.txt", "fanboy_newsletter_shopping_specific_uBO.txt", "fanboy_agegate_specific_uBO.txt", "config-clean2.json", "config-clean.json", "config-clean.json.txt", "config-clean2.json.txt", "config-clean2.txt", "config-clean.txt")
+
+# List of domains that should ignore the 7 character size restriction
+IGNORE_DOMAINS = {"a.sampl"}
 
 # List all Adblock Plus options (excepting domain, which is handled separately), as of version 1.3.9
 KNOWNOPTIONS = ("collapse", "csp", "csp=frame-src", "csp=img-src", "csp=media-src", "csp=script-src", "csp=worker-src", "document", "elemhide", "font",
                 "genericblock", "generichide", "image", "match-case", "media", "object-subrequest", "object", "other", "ping", "popup", "rewrite=abp-resource:1x1-transparent-gif",
                 "rewrite=abp-resource:2x2-transparent-png", "rewrite=abp-resource:32x32-transparent-png", "rewrite=abp-resource:3x2-transparent-png", "rewrite=abp-resource:blank-css",
                 "rewrite=abp-resource:blank-html", "rewrite=abp-resource:blank-js", "rewrite=abp-resource:blank-mp3", "rewrite=abp-resource:blank-mp4", "rewrite=abp-resource:blank-text",
-                "script", "stylesheet", "subdocument", "third-party", "webrtc", "websocket", "xmlhttprequest")
+                "script", "stylesheet", "subdocument", "third-party", "webrtc", "websocket", "xhr", "xmlhttprequest", "css", "1p", "3p", "frame", "doc", "ghide")
+
+# convert any ubo rules into standard rules
+def convert_ubo_options(optionlist):
+    """ Convert uBO-specific options for compatibility. """
+    # Mapping of uBO options to standard options
+    ubo_conversions = {
+        "xhr": "xmlhttprequest",
+        "~xhr": "~xmlhttprequest",
+        "css": "stylesheet", 
+        "~css": "~stylesheet",
+        "1p": "~third-party",
+        "~1p": "third-party",
+        "3p": "third-party",
+        "~3p": "~third-party",
+        "frame": "subdocument",
+        "~frame": "~subdocument",
+        "doc": "document",
+        "ghide": "generichide"
+    }
+    
+    return [ubo_conversions.get(option, option) for option in optionlist]
 
 # List the supported revision control system commands
 REPODEF = collections.namedtuple("repodef", "name, directory, locationoption, repodirectoryoption, checkchanges, difference, commit, pull, push")
@@ -230,6 +254,16 @@ def fopsort (filename):
                             lineschecked += 1
                         line = elementtidy(domains, elementparts.group(2), elementparts.group(3))
                     else:
+                        # Skip network domain rules 7 chars or less starting with "|", "||", "|||" etc. or directly with a-z or 0-9 to prevent false positives
+                        # unless the domain is in the IGNORE_DOMAINS list
+                        if len(line) <= 7 and re.match(r'^\|*[a-zA-Z0-9]', line):
+                            # Extract the domain part to check against IGNORE_DOMAINS
+                            domain_match = re.match(r'^\|*([^\/\^\$\*]+)', line)
+                            if domain_match:
+                                domain = domain_match.group(1)
+                                if domain not in IGNORE_DOMAINS:
+                                    print("Skipped short domain rule: {line} (domain: {domain})".format(line=line, domain=domain))
+                                    continue
                         if lineschecked <= CHECKLINES:
                             filterlines += 1
                             lineschecked += 1
@@ -275,6 +309,8 @@ def filtertidy (filterin):
         # Sort all options other than domain alphabetically
         # For identical options, the inverse always follows the non-inverse option ($image,~image instead of $~image,image)
         optionlist = sorted(set(filter(lambda option: option not in removeentries, optionlist)), key = lambda option: (option[1:] + "~") if option[0] == "~" else option)
+        # Apply uBO conversions only to network blocking filters (not element hiding rules)
+        optionlist = convert_ubo_options(optionlist)
         # If applicable, sort domain restrictions and append them to the list of options
         if domainlist:
             optionlist.append("domain={domainlist}".format(domainlist = "|".join(sorted(set(filter(lambda domain: domain != "", domainlist)), key = lambda domain: domain.strip("~")))))
