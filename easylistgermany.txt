@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202508121533
+! Version: 202508121615
 ! Title: EasyList Germany
-! Last modified: 12 Aug 2025 15:33 UTC
+! Last modified: 12 Aug 2025 16:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5825,11 +5825,10 @@ obi.*##[data-ae-slot="pdp_old_banner"]
 @@||www.t-online.de^$generichide
 ! 
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de
-@@||asadcdn.com/adlib/$domain=bz-berlin.de|fitbook.de|petbook.de|stylebook.de|travelbook.de|welt.de
-@@||capi.connatix.com^$domain=bz-berlin.de|fitbook.de|petbook.de|stylebook.de|travelbook.de|welt.de
-@@||cd.connatix.com/connatix.player.js$domain=travelbook.de
-@@||cd.connatix.com/connatix.player.js?$domain=bz-berlin.de|fitbook.de|petbook.de|stylebook.de|welt.de
-@@||cds.connatix.com^$domain=bz-berlin.de|fitbook.de|petbook.de|stylebook.de|travelbook.de|welt.de
+@@||asadcdn.com/adlib/$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
+@@||capi.connatix.com^$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
+@@||cd.connatix.com/connatix.player.js$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
+@@||cds.connatix.com^$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=brigitte.de|eltern.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=geo.de
 @@||g.doubleclick.net/gampad/adx?$script,domain=gala.de
@@ -5841,7 +5840,7 @@ obi.*##[data-ae-slot="pdp_old_banner"]
 @@||g.doubleclick.net/static/glade/extra_$script,domain=autobild.de
 @@||g.doubleclick.net/tag/js/gpt.js$domain=brigitte.de|eltern.de|fitbook.de|geo.de|petbook.de|welt.de
 @@||googlesyndication.com/pagead/imgad?$image,domain=auto-motor-und-sport.de
-@@||ib.adnxs.com/ut/v3$domain=bz-berlin.de|fitbook.de|petbook.de|stylebook.de|travelbook.de|welt.de
+@@||ib.adnxs.com/ut/v3$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
 @@||sascdn.com/diff/251/*/Abo-Teaser_fuer_ab.de-Home.png$image,domain=autobild.de
 @@||sascdn.com/diff/251/*/aktionen_191x108.jpg$image,domain=autobild.de
 @@||sascdn.com/diff/251/*/gebrauchtwagenmarkt.png$image,domain=autobild.de
