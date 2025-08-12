@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202508091132
+! Version: 202508121533
 ! Title: EasyList Germany
-! Last modified: 09 Aug 2025 11:32 UTC
+! Last modified: 12 Aug 2025 15:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -568,7 +568,6 @@ _woz_banner_vote.
 ##a[href^="https://www.wazazu.com/NWS/"]
 ! *** easylistgermany:easylistgermany/easylistgermany_allowlist_general_hide.txt ***
 ping-timeout.de#@##Advertisements
-openlimit.com#@##adLink
 az.com.na#@##ad_block_1
 ad-tuning.de#@##ad_footer
 ad-tuning.de#@##ad_header
@@ -592,7 +591,6 @@ rtl.de#@#.adslot
 az.com.na#@#.adverts
 wetter.de#@#.base-ad-slot
 bz-berlin.de,fitbook.de,petbook.de,stylebook.de,travelbook.de,welt.de#@#.cnx-player-wrapper
-openlimit.com#@#.content_ad
 wallstreet-online.de#@#.footer-advertising
 11freunde.de,gala.de,geo.de,kochbar.de,rtl.de,vip.de#@#.gujAd
 11freunde.de#@#.house-ad
@@ -1053,7 +1051,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||oddsserve-wqps7yvkz.stackpathdns.com^
 ||oecherdeal.de^$subdocument,third-party
 ||okm-community.com/banner/$third-party
-||om.1und1.info^$third-party
 ||om.dsl.1und1.de^$third-party
 ||online-casino.de^$subdocument,third-party
 ||partner.fondsdiscount.de^
@@ -1129,7 +1126,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||storage.googleapis.com/ba_utils/
 ||suchebiete.com/bilder/allgemein_kleinanzeigen.png
 ||suedtirol.live/delivery.js
-||sunpepper.de/shop/banner/$third-party
 ||tdn.da-services.ch^
 ||telefon-sex-luder.com/banner/
 ||telsso.de/dnwe//gallery/*-800x250-billboard-$domain=biallo.de
