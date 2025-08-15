@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202508121615
+! Version: 202508150908
 ! Title: EasyList Germany
-! Last modified: 12 Aug 2025 16:15 UTC
+! Last modified: 15 Aug 2025 09:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5825,7 +5825,6 @@ obi.*##[data-ae-slot="pdp_old_banner"]
 @@||www.t-online.de^$generichide
 ! 
 @@||amazon-adsystem.com/aax2/amzn_ads.js$domain=autobild.de
-@@||asadcdn.com/adlib/$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
 @@||capi.connatix.com^$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
 @@||cd.connatix.com/connatix.player.js$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
 @@||cds.connatix.com^$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
