@@ -1354,6 +1354,10 @@ golem.de##.g6 > .clearfix[style="margin: 20px 0; clear: both; min-height: 640px;
 koeln.de##.gb-container-0d2cd1d0
 golem.de##.gbox_affiliate
 gastgewerbe-magazin.de##.ggm-ad
+golem.de##.go-ad-slot
+golem.de##.go-alink-list
+golem.de##.go-teaser--variant-affiliate
+golem.de##.go-ticker-teaser:has(.go-label--sponsored)
 jungfrauzeitung.ch##.gokb
 jungfrauzeitung.ch##.gokwblock
 nydus.org##.googl
@@ -1859,7 +1863,6 @@ administrator.de##.snhb-ads
 finanzen100.de##.snippet--cta
 finanzen100.de##.snippet-container
 ladies.de##.sol-content
-golem.de##.sp-article
 golem.de##.sp-breakout-affy
 4fansites.de##.spalten_33_werbung
 meetingpoint-brandenburg.de##.span > .white_bg[style="width: 100%; padding-right: 5px;"]
