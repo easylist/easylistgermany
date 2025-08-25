@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202508211454
+! Version: 202508251609
 ! Title: EasyList Germany
-! Last modified: 21 Aug 2025 14:54 UTC
+! Last modified: 25 Aug 2025 16:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1145,6 +1145,8 @@ wetter.com#@#div[id^="div-gpt-"]
 ||view.autoscout24.de^$third-party
 ||visit-x.net/001/$third-party
 ||viversum.de/partnerprogramm/$third-party
+||watchbetter.com/embedPartner.js$third-party
+||watchbetter.com/tdt-category.js$third-party
 ||wazazu.com/iframe/$third-party
 ||wazazu.com/js/pu_$third-party
 ||wazazu.com/pimage/bas/$third-party
@@ -4376,6 +4378,7 @@ lifechannel.ch##.pz_cont
 radiobeo.ch##.qf-standard-banner-wrapp
 teneriffa-news.com##.qm-head
 teneriffa-news.com##.qm-side
+gartenfreunde.de##.qmn_ad
 ssvbozenhandball.it##.qodef-e-logo > img[height="80"]
 jamesfm.ch##.qt-sponsor
 grazia-magazin.de,idee-fuer-mich.de,ok-magazin.de,vital.de##.quartermedia
@@ -5568,6 +5571,7 @@ dogforum.de##li:has(.wbbXdLocationPostList)
 jameda.de##li:has([data-testid="advertisementSign-flag"])
 prad.de##li:has(a[class*="_klickkampagne_"])
 baur.de##li:has(a[href^="https://b.fr3.eu.criteo.com/rm?"])
+gartenfreunde.de##li:has(span.gfadmarker)
 mein-mmo.de##section.post:has([data-type="sponsored"])
 breuninger.com##suchen-produkt:has(.suchen-produkt--gesponsert)
 finanznachrichten.de##tr:has(span.sprite.h-w-c)
