@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202508251618
+! Version: 202508251650
 ! Title: EasyList Germany
-! Last modified: 25 Aug 2025 16:18 UTC
+! Last modified: 25 Aug 2025 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1218,7 +1218,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||vulkanvegascasino.at^$popup
 ! -------------Seitenspezifische Regeln zum Blockieren von Werbung-------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_specific_block.txt ***
-$stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.to
+$subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.to
 /as1.php$domain=boerse.ai|boerse.am|boerse.im|boerse.kz|boerse.sx|boerse.tw
 /b.php$domain=boerse.ai|boerse.am|boerse.im|boerse.kz|boerse.sx|boerse.tw
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
@@ -4660,6 +4660,7 @@ bayernwelle.de##.type-banner
 boersen-zeitung.de##.u-ad
 lr-online.de,moz.de,swp.de##.u-adSlot:not(.u-adSlot--sky-left):not(.u-adSlot--sky-right)
 uhrenratgeber.com##.uhren-widget
+sport.sky.de##.ui-advert
 funcloud.club##.underContentA
 urlaubsguru.de##.uniq-ads
 hausgeraete-test.de,heimwerker-test.de,hifitest.de##.unsereP
