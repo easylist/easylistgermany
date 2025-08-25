@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202508251650
+! Version: 202508251658
 ! Title: EasyList Germany
-! Last modified: 25 Aug 2025 16:50 UTC
+! Last modified: 25 Aug 2025 16:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3465,6 +3465,7 @@ alpin.de,immobilienscout24.de,radioklassik.at##.ad-banner
 alpin.de##.ad-banner-billboard
 apollo-news.net##.ad-before-content
 finanzen.net,gebraucht-kaufen.de,it-daily.net,mixed.de,nebelspalter.ch,northdata.de,raetsel-hilfe.de,sueddeutsche.de,swissmom.ch,the-decoder.de,tt.com,watchtime.net,zeit.de##.ad-container
+aerzteblatt.de##.ad-container-dont-remove-me
 heise.de##.ad-desktop-group-2
 hallo-minden.de##.ad-info
 augsburger-allgemeine.de##.ad-list_small-native-container
@@ -4771,6 +4772,7 @@ german-bash.org##.zitat > div[style="width:300px;"]
 lifeverde.de##.zusatz_billboard
 heise.de##A-PATERNOSTER
 home24.de##[data-cnstrc-sl-campaign-owner]
+aerzteblatt.de##[data-cy="section-ad"]
 mediamarkt.de##[data-test="mms-search-showcase"]
 fitbook.de,petbook.de##[data-view-track="stickybar.display.Skyscanner"]
 pornhutdeutsch.com##[href^="https://start.amateurcommunity.com/"]
