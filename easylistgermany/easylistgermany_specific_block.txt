@@ -592,7 +592,6 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ||kauperts.de/images/partners/
 ||ketoforum.de/Banner/
 ||kinderlandparks.de/cms/media/thumbnail_5240_w_650.jpg
-||kinox.top/templates/Kinox/images/stream.gif
 ||kitzanzeiger.at^*/sponsoren/
 ||klappeauf.de/images-banner/
 ||klexikon.de/banner/
@@ -1331,7 +1330,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=canna-power.to|canna.t
 ! (/sw.js)
 /^https?:\/\/.*\/.*(sw[0-9a-z._-]|\.notify\.).*/$script,domain=hammerporno.xxx
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,~subdocument,third-party,domain=190.115.18.20|aniworld.to|bs.to|burningseries.nz|burningseries.se|burningseries.sx|burningseries.vc|kinoger.to|kinokiste.live|kinox.top|megakino.co|s.to|serien.cam|serienstream.to|streamcloud.movie|topstreamfilm.live
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,~subdocument,third-party,domain=190.115.18.20|aniworld.to|bs.to|burningseries.nz|burningseries.se|burningseries.sx|burningseries.vc|kinoger.to|kinokiste.live|megakino.co|s.to|serien.cam|serienstream.to|streamcloud.movie|topstreamfilm.live
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=kinoger.com|kinoger.pw|kinokiste.live|megakino.co|streamcloud.movie|topstreamfilm.live
 ! Specific filters necessary for sites using $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
