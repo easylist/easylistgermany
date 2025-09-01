@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202508291833
+! Version: 202509010430
 ! Title: EasyList Germany
-! Last modified: 29 Aug 2025 18:33 UTC
+! Last modified: 01 Sep 2025 04:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2710,6 +2710,7 @@ webwiki.de###addmetop
 engadinerpost.ch###aditems
 web.de###ads
 infoheute.de###adsight-slider
+caraworld.de###adunit-container__caraworld\.de_Banner_1
 abload.de###adunten + div[style="font-size:8pt; color:#999999; margin-left:39px; width: 728px;"]
 voucherwonderland.com###adup1
 voucherwonderland.com###adup3
@@ -2851,6 +2852,7 @@ vsport.at###c17
 dsv.de###c3296
 hsg-wetzlar.de###c5307
 dsv.de###c5812
+caraworld.de###caraworld\.de_Banner_1
 gruen-weiss.at###carousel
 urnerwochenblatt.ch###carouselInserate
 sexei.net###catfad
@@ -4572,6 +4574,7 @@ vanion.eu##.support_banner_lead
 broncos.it##.supporter
 ntz.de,scdhfk-handball.de##.swiper-container
 swp.de##.swp-adbox
+caraworld.de##.symplr-ad-holder
 frauporno.com##.sz_300_250
 t-online.de##.tMRM_billiger
 duden.de##.tabloid__side-column-top
