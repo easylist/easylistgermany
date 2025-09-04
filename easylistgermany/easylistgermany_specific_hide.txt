@@ -2310,6 +2310,7 @@ kfz-steuer.de##a[style="position:relative; float:left; width:698px; height:63px;
 ak-kurier.de##a[target="_new"][href^="inc/inc_link.php?id="]
 sportdeutschland.tv##app-top-banner
 windowspro.de##article.node-teaser:not(.node-promoted)
+otto.de##article[data-origin="sponsored"]
 otto.de##article[data-producttile-tracking*="wk.san_ProductType\":\"sponsored\""]
 mobile.de##article[data-testid="srp-top-ad"]
 weristdeinfreund.de##aside[id^="banner"]
