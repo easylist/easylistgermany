@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202509081419
+! Version: 202509081420
 ! Title: EasyList Germany
-! Last modified: 08 Sep 2025 14:19 UTC
+! Last modified: 08 Sep 2025 14:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3139,6 +3139,7 @@ ladies.de###page-closing-sol
 hstt.net###page-header + br + .forabg
 ladies.de###page-top-sol
 nordbayern.de###page_billboard
+titelschutzanzeiger.de###page_content > div > div > a > img
 inside-digital.de###parallax
 parcello.org###parcello-mo
 moz.de,swp.de###parent-adbox-superbanner
