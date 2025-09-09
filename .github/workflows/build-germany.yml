@@ -1,0 +1,80 @@
+name: Build and Deploy EasyList Germany
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    if: github.repository == 'easylist/easylistgermany'
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Security Check
+      run: |
+        echo "? Repository: ${{ github.repository }}"
+        echo "? Actor: ${{ github.actor }}"
+        if [ "${{ github.repository_owner }}" != "easylist" ]; then
+          echo "? Unauthorized repository owner: ${{ github.repository_owner }}"
+          exit 1
+        fi
+        
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+    
+    - name: Install dependencies
+      run: |
+        pip install git+https://github.com/adblockplus/python-abp.git
+    
+    - name: Configure Git
+      run: |
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git config --global push.default "matching"
+    
+    - name: Debug token and repository info
+      run: |
+        echo "Current repository: ${{ github.repository }}"
+        echo "Target repository: easylist/easylistgermany"
+        echo "Actor: ${{ github.actor }}"
+        echo "Token exists: ${{ secrets.GITHUB_TOKEN != '' }}"
+        echo "Token length: $(echo '${{ secrets.GITHUB_TOKEN }}' | wc -c)"
+        
+    - name: Clone output repository
+      run: |
+        echo "Attempting to clone with token authentication..."
+        git clone -b gh-pages "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/easylist/easylistgermany" output
+    
+    - name: Generate filter lists
+      run: |
+        flrender -i easylistgermany=. easylistgermany.template output/easylistgermany.txt
+        
+    - name: Add commit hash to filter lists
+      run: |
+        for file in output/*.txt; do
+          # Insert commit hash after the "Expires" line
+          sed -i "/^! Expires:/a ! Commit: ${{ github.sha }}" "$file"
+        done
+       
+    - name: Commit and push changes
+      run: |
+        cd output
+        echo "Current directory: $(pwd)"
+        echo "Git status before add:"
+        git status
+        git add --all .
+        echo "Git status after add:"
+        git status
+        git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)"
+        echo "Attempting to push to remote..."
+        git remote -v
+        git push --force origin gh-pages
