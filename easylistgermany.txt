@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202509151507
+! Version: 202509151511
 ! Title: EasyList Germany
-! Last modified: 15 Sep 2025 15:07 UTC
+! Last modified: 15 Sep 2025 15:11 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 9e51d48d3662bd73378ab93e9ffc423dfe3be33f
+! Commit: 57ef9cb795b5d5110b2ea9f652b6e9fb0576647e
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -1113,7 +1113,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||sims-3.net/xbox.jpg
 ||sn-multimedia.de/weitereangebote-v2/$third-party
 ||sn-multimedia.de/weitereangebote/$third-party
-||sonnige-aussichten.ch/_img/ad/$third-party
 ||sorgenlos.de^*/banner/
 ||space4free.net/images/banner/$third-party
 ||spotlight.offerista.com^$third-party
