@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202509241602
+! Version: 202509241604
 ! Title: EasyList Germany
-! Last modified: 24 Sep 2025 16:02 UTC
+! Last modified: 24 Sep 2025 16:04 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 98e77eb565d8eb1797b43fa2de869323705ec7dd
+! Commit: e3ee4c19fa023d9ab9dbf69aad3d355aacafad7d
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5735,14 +5735,6 @@ obi.*##[data-ae-slot="pdp_old_banner"]
 @@||adsafeprotected.com/services/pub?anId=$xmlhttprequest,domain=gentside.de|ohmymag.de
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=gamestar.de|moviepilot.de
 @@||amazon-adsystem.com/widgets/q?*^ad_type=product_link^$subdocument,domain=fotoworkshop-stuttgart.de|kombi.de
-@@||asadcdn.com/adlib/$domain=autobild.de|rollingstone.de
-@@||asadcdn.com/adlib/$script,domain=sportbild.bild.de
-@@||asadcdn.com/adlib/adlib_seq.js$script,domain=stylebook.de
-@@||asadcdn.com/adlib/libmodules/$script,domain=musikexpress.de
-@@||asadcdn.com/adlib/pages/bz-berlin.js$script,domain=bz-berlin.de
-@@||asadcdn.com/adlib/pages/musikexpress.js$domain=musikexpress.de
-@@||asadcdn.com/adlib/pages/stylebook.js^$script,domain=stylebook.de
-@@||asadcdn.com/adlib/templates/oneTag.js$script,domain=stylebook.de
 @@||atf-tagmanager.de/config/*.js|$domain=onvista.de
 @@||bf-ad.net/adengine/onvista/adengine.js$domain=onvista.de
 @@||bf-ad.net/adengine/onvista/chunk-prepareEngine-$script,domain=onvista.de
