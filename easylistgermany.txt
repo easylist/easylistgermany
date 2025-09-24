@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202509240415
+! Version: 202509241602
 ! Title: EasyList Germany
-! Last modified: 24 Sep 2025 04:15 UTC
+! Last modified: 24 Sep 2025 16:02 UTC
 ! Expires: 1 days (update frequency)
-! Commit: abc846293823f2788365ecfc51f5d6f5b242f1b7
+! Commit: f458f5ff6a9f3870e80e5711e17cf07f873e2340
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -1276,6 +1276,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||alles-mahlsdorf.de/wp-content/uploads/*-Banner-
 ||alles-mahlsdorf.de/wp-content/uploads/*-werbung-
 ||allround-pc.com/com$image
+||allround-pc.com/wp-json/apc/
 ||altesrad.net/phpBB3/images/banner/
 ||amazonaws.com/bnp_657x209_$domain=finanzen.net
 ||amigafuture.de/images/amazon234x60_
@@ -4079,6 +4080,7 @@ sueddeutsche.de##.iqad
 saechsische.de##.iqadtile-wrapper
 faz.net,spektrum.de,sueddeutsche.de,tagesspiegel.de,zeit.de##.iqdcontainer
 tri-mag.de##.irypolkj
+allround-pc.com##.is-apc-afa
 welt.de##.is-commercial
 allround-pc.com##.is-fp-outer
 onvista.de##.isSponsored
