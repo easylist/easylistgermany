@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202509241604
+! Version: 202509261815
 ! Title: EasyList Germany
-! Last modified: 24 Sep 2025 16:04 UTC
+! Last modified: 26 Sep 2025 18:15 UTC
 ! Expires: 1 days (update frequency)
-! Commit: e3ee4c19fa023d9ab9dbf69aad3d355aacafad7d
+! Commit: e86c79588655ce414de3136b2fe783f2d9e28f08
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -982,6 +982,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||heise.de/assets/pvg/widget.js$domain=hamburg-magazin.de|kiel-magazin.de|luebeck-magazin.de
 ||heutenochficken.com/banner/$third-party
 ||hofmann.info^$subdocument,domain=sgf1903.de
+||hub.daa.net/embed/$domain=photovoltaikforum.com
 ||hubu.cloud/app/amz
 ||hubu.cloud/app/js/b2/
 ||hubu.cloud/app/js/b3/
