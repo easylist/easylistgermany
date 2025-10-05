@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202510051358
+! Version: 202510051413
 ! Title: EasyList Germany
-! Last modified: 05 Oct 2025 13:58 UTC
+! Last modified: 05 Oct 2025 14:13 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 6a4896d2116690ee60d92c381349a734900a20f3
+! Commit: 4d2094ae929d1e1351b52e3a2fd7956046c936da
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5549,6 +5549,7 @@ shop-apotheke.com##[data-qa-id="cross-sell-widget"] li:has(> [data-as-xsell-prod
 mediamarkt.at,mediamarkt.ch,mediamarkt.de,saturn.de##[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
 obi.*##[data-track-section^="home-topteaser"]:has(hobi-advertiser-tag)
 ariva.de##a.background-red-bright:has(span.anzeige)
+t3n.de##article.c-pin:has(div.c-badge + span.u-text-extrasmall)
 hamburg-magazin.de,kiel-magazin.de,luebeck-magazin.de##article.card:has(.with-ad-marker)
 allround-pc.com##article.is-card:has(span.is-ad)
 shop-apotheke.com##article.o-CompactProductListItem:has(a[href^="https://retail-api.sa-tech.de/api/"])
