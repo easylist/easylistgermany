@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202510051414
+! Version: 202510051433
 ! Title: EasyList Germany
-! Last modified: 05 Oct 2025 14:14 UTC
+! Last modified: 05 Oct 2025 14:33 UTC
 ! Expires: 1 days (update frequency)
-! Commit: d67e069cb8c87684fe8d5d2cf09f7b5a17064624
+! Commit: 57ca7c27e6f0c7115e2a5d04bc0c9114e7d4f3f7
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5323,6 +5323,7 @@ sumikai.com##ins[data-meh-id]
 tuhlteim.de##ins[style*="width: 300px; height: 250px;"]
 fuersie.de,idee-fuer-mich.de,jolie.de,leben-und-erziehen.de,maedchen.de,ok-magazin.de,petra.de,vital.de##kas
 vital.de##kas[type="placement"]
+finanzfluss.de##li[class="suggestion suggested"]
 restegourmet.de##li[data-content-type="ad"]
 kleinanzeigen.de##li[data-liberty-position-name^="home-teaser-ads-"]
 shop-apotheke.com##li[data-ssr-as*="/api.sae.systems/rma/api/"]
@@ -5483,14 +5484,17 @@ aktiengram.de##.inside-right-sidebar > .gb-container:has(a[href^="https://aktien
 austriansoccerboard.at##.ipsWidget:has(.sidebar-partner)
 austriansoccerboard.at##.ipsWidget:has(.sidebar-partner-links)
 onvista.de##.justify-between:has(span[class="block -mb-1 mt-1 text-sm text-ellipsis text-grey-700"])
+finanzfluss.de##.linked-card:has(.disclaimer-text)
 mobile.de##.mN_WC:has([data-testid="sponsored-badge"])
 mopo.de##.main-preview:has(.anzeige-label)
+finanzfluss.de##.news-card:has(.disclaimer-text)
 winfuture.de##.news330.floatL.mr10:has(.anzeige)
 promiflash.de##.onlyDesktop:has(div.adContainer)
 onvista.de##.ov-article-teaser:has(.ov-article-teaser__onvistaCustomer)
 onvista.de##.ov-carousel__item:has(span[class="block text-sm text-ellipsis text-grey-700 mb-1 mt-4"])
 fertigung.de##.owl-carousel.owl-loaded.owl-drag:has(.label-ad-highlight)
 heise.de##.p-3.-mx-3.bg-gray-50:has(a[data-component="TeaserLinkContainer"]:not(a[href^="https://www.heise.de/api/accountservice/subscribe/"]))
+finanzfluss.de##.partner-wrappеr:has(span.disclaimer)
 prad.de##.pd-teaser:has(a[href^="https://bit.ly/"])
 rewe.de##.plrProductGrid__flagship:has(.fsr-Header__AdInfo)
 expert.de##.pm-items > [widget-child]:has([ping^="//b.nl3.eu.criteo.com/rm?"])
