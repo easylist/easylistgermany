@@ -86,7 +86,7 @@
 @@||werbebanner24.de/templates/_wb24/_assets/images/$image,domain=werbebanner24.de
 @@||windowspro.de^$~third-party,xmlhttprequest
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
-! $generichide/block
+!! $generichide/block
 @@||ableitungsrechner.net^$generichide
 @@||autobild.de^$genericblock,generichide
 @@||businessinsider.de^$generichide
