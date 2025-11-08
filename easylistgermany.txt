@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202511051708
+! Version: 202511081936
 ! Title: EasyList Germany
-! Last modified: 05 Nov 2025 17:08 UTC
+! Last modified: 08 Nov 2025 19:36 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 7e97fbb40a27b2d6e8d29b112aea43e810b766ba
+! Commit: f885c55cd8e15696e5d87a804f70baf832c862b5
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5724,7 +5724,6 @@ winfuture-forum.de#?#div.ExtraPostBlock:-abp-has(div.post_block:-abp-contains(An
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + button
 zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
 ! remove:true;
-chip.de##.dlcharts + div:not(.List) {remove:true;}
 chip.de##.ft-charts-main > div:not(.List):not(.caps) {remove:true;}
 ! top-level domain wildcard
 finanzen.*###HomepageIssuerNews
