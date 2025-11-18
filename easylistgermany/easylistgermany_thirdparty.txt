@@ -5,7 +5,6 @@
 ||a.check24.net/misc/view.php$domain=~wechseln.de
 ||abo2.de/abo-direkt/$third-party
 ||ad.71i.de^
-||ad.bwise.ch^
 ||ad.jaumo.com^
 ||adsby.de^$third-party
 ||aff.carvertical.com^$third-party
@@ -174,12 +173,10 @@
 ||netzis.de/Banner/$third-party
 ||newsticker.save.tv^$third-party
 ||nexworld.tv^*/banner/$third-party
-||oddsserve-wqps7yvkz.stackpathdns.com^
 ||oecherdeal.de^$subdocument,third-party
 ||okm-community.com/banner/$third-party
 ||om.dsl.1und1.de^$third-party
 ||online-casino.de^$subdocument,third-party
-||partner.fondsdiscount.de^
 ||partner.gewinnspiele.de^$third-party
 ||partner.leguide.com^$third-party
 ||partner.maxxim.de^
