@@ -194,8 +194,6 @@
 ||cathkathcatt.ch^*/banner_
 ||chartsurfer.de/getthead.php?
 ||cherry.ch/images/banner/
-||chip-secured-download.de/tmp/free-service-hotline.png$domain=chip.de
-||chip-secured-download.de^*/S13/$domain=chip.de
 ||cine4home.de^*/HKA-C4Hb.gif
 ||clap-club.de/wp-content/uploads/oeckl_Adress-Service_
 ||classicwin.de/mybannerview.php
@@ -335,7 +333,6 @@
 ||fickverein.com/moproxy|$xmlhttprequest
 ||files.der-farang.com/files/widget/
 ||filmpost.de^*/anzeigen/
-||filmstreaming-de.life/banners/
 ||filmundo.de/banner/
 ||filmz.de/f/ra.htm
 ||filmz.de/f/s.htm
@@ -1335,8 +1332,8 @@
 ! (/sw.js)
 /^https?:\/\/.*\/.*(sw[0-9a-z._-]|\.notify\.).*/$script,domain=hammerporno.xxx
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,~subdocument,third-party,domain=190.115.18.20|aniworld.to|bs.to|burningseries.nz|burningseries.se|burningseries.sx|burningseries.vc|kinoger.to|kinokiste.live|megakino.co|s.to|serien.cam|serienstream.to|streamcloud.movie|topstreamfilm.live
-/^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=kinoger.com|kinoger.pw|kinokiste.live|megakino.co|streamcloud.movie|topstreamfilm.live
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,~subdocument,third-party,domain=190.115.18.20|aniworld.to|bs.to|burningseries.nz|burningseries.se|burningseries.sx|burningseries.vc|kinoger.to|kinokiste.live|megakino.co|s.to|serien.cam|serienstream.to|topstreamfilm.live
+/^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=kinoger.com|kinoger.pw|kinokiste.live|megakino.co|topstreamfilm.live
 ! Specific filters necessary for sites using $genericblock filter option
 /googleads.$domain=g.doubleclick.net|googlesyndication.com
 /pagead2.$domain=g.doubleclick.net|googlesyndication.com|imasdk.googleapis.com
