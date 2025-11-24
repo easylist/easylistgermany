@@ -43,8 +43,6 @@
 ||bm.hbtronix.de^$third-party
 ||bn.gewinn24.de^
 ||bodyguardapotheke.com^*/banner/
-||boerse.bz/toplist/vote/$third-party
-||boerse.bz^*/banners/$third-party
 ||booking.com^$subdocument,domain=italien.de|travelguide-en.org|unser-seenland.de
 ||brandenburger-salzgrotte.de/webbanner/
 ||bumskontakte.ch/banner/
@@ -90,7 +88,6 @@
 ||fastad.beepworld.de^
 ||finanzen.net/partner/$subdocument,third-party,domain=~finanzen.at
 ||fireradio.fm/img/banner/$third-party
-||flirty.com/?pr=*&wm=$subdocument,third-party
 ||fs-location.de/img/partner/
 ||fuckshow.org^$subdocument,third-party
 ||funke.code.outtra.com/outtra-
@@ -160,7 +157,6 @@
 ||middleware.marktjagd.de^$third-party
 ||modellplan.de/banner/$third-party
 ||modules.wikifolio.com/v2/de/autocontent/stock/*?partner=
-||mondrian.twyn.com^$third-party
 ||monsterdealz.de/images/$third-party
 ||monsterdealz.de/script.js
 ||monstersgame.net^*&vid=$third-party
