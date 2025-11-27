@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202511261718
+! Version: 202511271624
 ! Title: EasyList Germany
-! Last modified: 26 Nov 2025 17:18 UTC
+! Last modified: 27 Nov 2025 16:24 UTC
 ! Expires: 1 days (update frequency)
-! Commit: d3a78b7141046941c243c01b6aae6c5f1d110473
+! Commit: 16bc4df619987620841bc2c3e0ac049723cde98f
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -1253,8 +1253,8 @@ wetter.com#@#div[id^="div-gpt-"]
 ||ag-muensterland.de/Banner_
 ||airtable.com^*/Superbanner728x90$domain=mediabiz.de
 ||ak-kurier.de/akkurier/www/images/
+||ak-kurier.de/akkurier/www/img/ads/
 ||ak-kurier.de/akkurier/www/pic/
-||ak-kurier.de/akkurier/www/upload/
 ||aktuell-kl.de/images/banners/
 ||akustik-gitarre.com/uploads/tx_ricrotation/
 ||algarve-entdecker.com/wp-content/uploads/*/xbanner-
