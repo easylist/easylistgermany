@@ -1818,6 +1818,7 @@ wallstreet-online.de##.shareTodayBox
 merkurist.de##.shipment
 merkurist.de##.shipmentPremium
 merkurist.de##.shipmentSuper
+merkurist.de##div.articleDisplayableList-article:has(div.articleDisplayable-meta:has-text(Gesponsert))
 gentleman-blog.de##.shoepassion_content_banner
 gentleman-blog.de##.shoepassion_sidebar_banner
 buffed.de,gamesaktuell.de,gamezone.de,pcgames.de##.shopLinkFrameWrapper
