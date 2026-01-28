@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202601281702
+! Version: 202601281804
 ! Title: EasyList Germany
-! Last modified: 28 Jan 2026 17:02 UTC
+! Last modified: 28 Jan 2026 18:04 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 44940f692dcb5af8b165943697697af8ea9d7f97
+! Commit: 9ed1eba3beb6f34e3e6ad1ba5dcd2c9d8febe992
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5425,6 +5425,7 @@ saechsische.de##.article-box:has(> .article-box__text > .article-box__info > spa
 saechsische.de##.article-fill:has(.article-badge.article-badge--ad)
 gewinn.com##.article-latest.article-layout-0 > .row:has(.advertorial-icon)
 meinbezirk.at##.article-list-item.article-card.article-card-default:has(.commercial-tag)
+merkurist.de##.articleDisplayableList-article:has(a[href*="/sparticles"])
 dnv-online.net##.artikel:has(.spitzmarketeaseranzeige)
 heise.de##.bg-gray-50:has(div[id*="_Incontent-"])
 finanzfluss.de##.billboard-card:has(.partner-ad-and-title)
