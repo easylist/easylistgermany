@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602051908
+! Version: 202602051909
 ! Title: EasyList Germany
-! Last modified: 05 Feb 2026 19:08 UTC
+! Last modified: 05 Feb 2026 19:09 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 569241ad5a33bcdcbff9606eaaf5209cc8b27e4f
+! Commit: 9811d6e83c4741b52d96c33da311d3f63031fd70
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3437,9 +3437,12 @@ ak-kurier.de,nr-kurier.de,ww-kurier.de##.ad + .uk-panel
 alpin.de,immobilienscout24.de,radioklassik.at##.ad-banner
 alpin.de##.ad-banner-billboard
 apollo-news.net##.ad-before-content
+apollo-news.net##.ad-box-border-space
 gebraucht-kaufen.de,it-daily.net,mixed.de,nebelspalter.ch,northdata.de,raetsel-hilfe.de,sueddeutsche.de,swissmom.ch,the-decoder.de,tt.com,watchtime.net,zeit.de##.ad-container
 aerzteblatt.de##.ad-container-dont-remove-me
 heise.de##.ad-desktop-group-2
+apollo-news.net##.ad-home-feed-box
+apollo-news.net##.ad-in-article-box
 hallo-minden.de##.ad-info
 augsburger-allgemeine.de##.ad-list_small-native-container
 diegrenzgaenger.lu##.ad-listing
