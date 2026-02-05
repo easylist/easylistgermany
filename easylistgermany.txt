@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602051909
+! Version: 202602051910
 ! Title: EasyList Germany
-! Last modified: 05 Feb 2026 19:09 UTC
+! Last modified: 05 Feb 2026 19:10 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 9811d6e83c4741b52d96c33da311d3f63031fd70
+! Commit: f421c4ee936035651950ff837b8234caad39bc84
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4989,7 +4989,7 @@ pictures-magazin.de##div[class^="pictu-"]
 mietminderungstabelle.de##div[class^="placeholderAdBox_"]
 rundschau.info##div[class^="runds-werbung-"]
 berliner-kurier.de,berliner-zeitung.de##div[class^="showheroes_"]
-berliner-kurier.de,berliner-zeitung.de,evangelische-zeitung.de##div[class^="traffective_"]
+berliner-kurier.de,berliner-zeitung.de,evangelische-zeitung.de,wochenblatt-reporter.de##div[class^="traffective_"]
 fraenkischertag.de##div[class^="werb-block-"]
 winfuture.de##div[class^="ws_contentAd"]
 amazon.de##div[data-ad-id]
@@ -5447,6 +5447,7 @@ automotiveit.eu,instandhaltung.de,produktion.de,technik-einkauf.de##.ce_postlist
 all-electronics.de,automotiveit.eu,produktion.de##.ce_topicbox:has(.label-ad-highlight)
 alfons-wurm-olpe.de,dreierlei-restaurant.de##.code-block:has(.hb-ad-inpage)
 ibooks.to##.code-block:has(i.fa-cloud-download-alt)
+wochenblatt-reporter.de##.content-card-wrap.pointer.outlined:has(.cmmrc-tag)
 shop-apotheke.at##.cross-sell-horizontal-slider__item-wrapper:has([href^="https://api.sae.systems/rma/api/v"])
 feuerwehrmagazin.de##.excerpt-tile.cell.small-12.medium-6:has(.advertorials)
 print.de##.excerpt-tile.cell:has(.advertorials)
