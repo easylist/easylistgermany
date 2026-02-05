@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602051707
+! Version: 202602051908
 ! Title: EasyList Germany
-! Last modified: 05 Feb 2026 17:07 UTC
+! Last modified: 05 Feb 2026 19:08 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 80a0a8c8365254df021c4005d4e62a15ae0acbda
+! Commit: 569241ad5a33bcdcbff9606eaaf5209cc8b27e4f
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3519,6 +3519,7 @@ fitbook.de,myhomebook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-o2
 fitbook.de,myhomebook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-saturn
 fitbook.de,myhomebook.de,stylebook.de,techbook.de,travelbook.de##.affiliate-tink
 pcgames.de##.affiliateBelowArticle
+achgut.com##.ag-wrapper
 radiodeutsch.com##.ai-placement
 nachbelichtet.com##.ai-track
 genialetricks.de,leckerschmecker.me,veggieboom.com##.ai-viewport-1
