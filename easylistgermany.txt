@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602051706
+! Version: 202602051707
 ! Title: EasyList Germany
-! Last modified: 05 Feb 2026 17:06 UTC
+! Last modified: 05 Feb 2026 17:07 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 2c39082e4765fb47cf4fef146700f5def72251bc
+! Commit: 80a0a8c8365254df021c4005d4e62a15ae0acbda
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -2665,7 +2665,7 @@ ww3.cad.de###WzTtDiV + table[width="100%"][border="0"]
 mallorcazeitung.es###_mo_cti
 musiker-board.de###abAside
 spielesite.com###acTop
-sis-handball.de###ad
+schnelle-online.info,sis-handball.de###ad
 schmidtisblog.de###ad-before-1stparagraph
 heise.de###ad-landingpage-top
 pokewiki.de,timeanddate.de###ad1
@@ -5299,6 +5299,7 @@ lokalo.de##img[width="770"]
 teneriffa-aktuell.com##img[width="800"][height="230"]
 teneriffa-aktuell.com##img[width="900"][height="350"]
 t-online.de,www-t--online-de.cdn.ampproject.org##img[width="920"][usemap^="#immap"]
+schnelle-online.info##ins[data-ad-client]
 sumikai.com##ins[data-meh-id]
 tuhlteim.de##ins[style*="width: 300px; height: 250px;"]
 fuersie.de,idee-fuer-mich.de,jolie.de,leben-und-erziehen.de,maedchen.de,ok-magazin.de,petra.de,vital.de##kas
