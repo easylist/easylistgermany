@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602061606
+! Version: 202602061607
 ! Title: EasyList Germany
-! Last modified: 06 Feb 2026 16:06 UTC
+! Last modified: 06 Feb 2026 16:07 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 873c833d58de8e43a1cf1cd67526510e592dd58b
+! Commit: 543dfb9badacb371a5d2ad720eaacf2c429817ce
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4589,6 +4589,7 @@ neumarkt-tv.de##.tdi_88
 bestattungen.de##.tdp
 bild.de##.tea-rectangle
 nzz.ch,themarket.ch,wort.lu##.teaser--sponsored
+meinbezirk.at##.teaser-box[data-cmst-container^="targeting_entry_"]
 ariva.de##.teaserPicturedNews
 watson.ch##.teaser_type_paid_content
 familie.de##.teaserheld-header-wrapper
