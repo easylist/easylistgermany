@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602061605
+! Version: 202602061606
 ! Title: EasyList Germany
-! Last modified: 06 Feb 2026 16:05 UTC
+! Last modified: 06 Feb 2026 16:06 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 755501b22c55dc8965903904b14f263c022a9b93
+! Commit: 873c833d58de8e43a1cf1cd67526510e592dd58b
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5028,6 +5028,7 @@ t-online.de##div[data-testid="TaboolaFeeds.Feed"]
 mobile.de##div[data-testid="VIP_BODY_1"]
 mobile.de##div[data-testid="VIP_BODY_CONTACT"]
 willhaben.at##div[data-testid="ad-detail-widget"]
+cosmopolitan.de,intouch.wunderweib.de##div[data-testid="ad-slot"]
 berliner-kurier.de,evangelische-zeitung.de##div[data-testid="article-billboard-advertisement"]
 esquire.de##div[data-testid="bcn-entity-base"]
 sport1.de##div[data-testid="better-collective"]
