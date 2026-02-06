@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602061556
+! Version: 202602061558
 ! Title: EasyList Germany
-! Last modified: 06 Feb 2026 15:56 UTC
+! Last modified: 06 Feb 2026 15:58 UTC
 ! Expires: 1 days (update frequency)
-! Commit: a8be699265e4a34eb08cf2e2e2e39aade40d8f2c
+! Commit: a442b867f62dfc755314527643b34f403f91f493
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3442,6 +3442,7 @@ apollo-news.net##.ad-box-border-space
 gebraucht-kaufen.de,it-daily.net,mixed.de,nebelspalter.ch,northdata.de,raetsel-hilfe.de,sueddeutsche.de,swissmom.ch,the-decoder.de,tt.com,watchtime.net,zeit.de##.ad-container
 aerzteblatt.de##.ad-container-dont-remove-me
 heise.de##.ad-desktop-group-2
+brigitte.de,gala.de##.ad-element
 apollo-news.net##.ad-home-feed-box
 apollo-news.net##.ad-in-article-box
 hallo-minden.de##.ad-info
