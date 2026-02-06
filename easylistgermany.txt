@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602061558
+! Version: 202602061559
 ! Title: EasyList Germany
-! Last modified: 06 Feb 2026 15:58 UTC
+! Last modified: 06 Feb 2026 15:59 UTC
 ! Expires: 1 days (update frequency)
-! Commit: a442b867f62dfc755314527643b34f403f91f493
+! Commit: 9196018e1259d7663150e36c75968c33ad689f07
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3451,6 +3451,7 @@ diegrenzgaenger.lu##.ad-listing
 spiesser.de##.ad-mark
 heise.de##.ad-mobile-group-1
 heise.de##.ad-mobile-group-3
+abendblatt.de##.ad-slot-wrapper
 finanztreff.de##.ad02p
 vsport.at##.ad1
 vsport.at##.ad2
