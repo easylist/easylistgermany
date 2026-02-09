@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602091912
+! Version: 202602091920
 ! Title: EasyList Germany
-! Last modified: 09 Feb 2026 19:12 UTC
+! Last modified: 09 Feb 2026 19:20 UTC
 ! Expires: 1 days (update frequency)
-! Commit: b0eb63fb2be6a97fa0f7e571ba6a939ef37b472e
+! Commit: 95e7602cffa51863813921f8c68792b873856b78
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3308,6 +3308,7 @@ my-ladies.ch###topBannerContainer
 tarnkappe.info###top_0
 raidrush.net###top_ga
 wintotal.de###topads
+rheiderland.de###topanzeigen-wrapper
 selbstaendig-im-netz.de###topb
 bitsundso.de###topbanner
 wetteronline.at,wetteronline.de###topcontainer
@@ -3452,6 +3453,7 @@ diegrenzgaenger.lu##.ad-listing
 spiesser.de##.ad-mark
 heise.de##.ad-mobile-group-1
 heise.de##.ad-mobile-group-3
+rheiderland.de##.ad-slider-image
 abendblatt.de##.ad-slot-wrapper
 finanztreff.de##.ad02p
 vsport.at##.ad1
