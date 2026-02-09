@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602081359
+! Version: 202602091912
 ! Title: EasyList Germany
-! Last modified: 08 Feb 2026 13:59 UTC
+! Last modified: 09 Feb 2026 19:12 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 9de49acb4308c3b25cba889be5b1ad0e683f2dbf
+! Commit: b0eb63fb2be6a97fa0f7e571ba6a939ef37b472e
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -674,7 +674,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||affiliwelt.net^$third-party
 ||affilixxl.de^$third-party
 ||agaso.de^$third-party
-||allads4you.de^$third-party
 ||alphaads.de^$third-party
 ||amunx.de^$third-party
 ||anzeigen-vor-ort.de^$third-party
@@ -4301,7 +4300,6 @@ vfl-wolfsburg.de##.partners-footer
 floatmagazin.de##.partners-title + .partners
 dererker.it##.partvert
 dererker.it##.partvert-right
-tagesstimme.com##.pb-8.text-center.float-center
 fla.de##.pbph
 otto.de##.pdp_reco-sponsored
 otto.de##.pdp_sda__slot
