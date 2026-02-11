@@ -2460,8 +2460,8 @@ bz-berlin.de##div[id^="billboard"]
 fitbook.de,petbook.de##div[id^="billboard_"]
 hpd.de##div[id^="block-views-advertising-"]
 finanzfluss.de##div[id^="breakdown-gerd-kommer-"]
-finanzfluss.de##div[id^="broker-top-scalable-capital-"]
-finanzfluss.de##div[id^="broker-yield-section-scalable-capital-"]
+finanzfluss.de##div[id^="broker-top-"]
+finanzfluss.de##div[id^="broker-yield-section-"]
 buongiornosuedtirol.it##div[id^="buong-"]
 fla.de##div[id^="cncpt-dsk_"]
 coincierge.de##div[id^="coinc-"]
@@ -2972,6 +2972,7 @@ onvista.de##div[class="bg-neutral-2 p-0 shadow-md rounded-2xl border-1 border-ne
 onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(small[class="mt-1 block text-sm"])
 onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(span[class="mt-1 block"])
 onvista.de##div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has(span[class="mt-xxsmall block"])
+madoo.net##div[class="col mb-4 mb-md-0"]:has(span[class="nav-link p-0 me-2"])
 onvista.de##div[class="col py-0"]:has(div[class="-mb-1 mt-1 text-sm text-ellipsis text-foreground-300"])
 onvista.de##div[class="col py-0"]:has(span[class="block -mb-1 mt-1 text-sm text-ellipsis text-foreground-300"])
 docmorris.de##div[class="min-h-[420px] px-2"]:has(a[data-testid="product-card-sponsored"])
