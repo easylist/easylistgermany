@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602181706
+! Version: 202602181712
 ! Title: EasyList Germany
-! Last modified: 18 Feb 2026 17:06 UTC
+! Last modified: 18 Feb 2026 17:12 UTC
 ! Expires: 1 days (update frequency)
-! Commit: d9d8a14d7cbafba0a9f48d0c750cf9c68e37f0b7
+! Commit: e61f7cc7594b39894d7389c3f2381c36013867c5
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -2629,6 +2629,10 @@ druckkosten.de###DKGA_LEAD
 druckkosten.de###DKGA_SKY
 eatsmarter.de###EAT_D_Index_Top_Wrapper
 anime2you.de###Fallback-Content
+immmo.at###IMM_M_Top
+immmo.at###IMM_R_Bot
+immmo.at###IMM_R_List
+immmo.at###IMM_R_List2
 inside-digital.de###INS_D_ROS_Parallax
 staedte-info.net###Layer1
 staedte-info.net###Layer2
