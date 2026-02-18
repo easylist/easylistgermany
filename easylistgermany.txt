@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602181704
+! Version: 202602181706
 ! Title: EasyList Germany
-! Last modified: 18 Feb 2026 17:04 UTC
+! Last modified: 18 Feb 2026 17:06 UTC
 ! Expires: 1 days (update frequency)
-! Commit: a1b0b01b254e7a8a4b255e30730388e311dd4479
+! Commit: d9d8a14d7cbafba0a9f48d0c750cf9c68e37f0b7
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5742,10 +5742,18 @@ zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
 chip.de##.ft-charts-main > div:not(.List):not(.caps) {remove:true;}
 ! top-level domain wildcard
 finanzen.*###HomepageIssuerNews
+wieistmeineip.*###billboard
+wieistmeineip.*###dynInpageWrapper
+wieistmeineip.*###mrec
+wieistmeineip.*###rectangle
+wieistmeineip.*###rectangle2
 geizhals.*###startpage-showrooms
+wieistmeineip.*###superbanner
+wieistmeineip.*##.addelivered
 finanzen.*##.adnz-ad-placeholder--google
 finanzen.*##.adnz-ad-placeholder--wideboard
 holidaycheck.*##.campaign-teaser
+wieistmeineip.*##.outstreamAd
 finanzen.*##.page-layout__ad-content
 obi.*##[data-ae-slot="pdp_old_banner"]
 finanzen.*##div[class^="ad-wrapper-"]
