@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602181611
+! Version: 202602181654
 ! Title: EasyList Germany
-! Last modified: 18 Feb 2026 16:11 UTC
+! Last modified: 18 Feb 2026 16:54 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 62e99d4434c16ca8eab46c3cbc5f86d266ce6627
+! Commit: 96ef20c870c59c6fe82595421180f94a17317cec
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3759,6 +3759,7 @@ rockantenne.bayern,rockantenne.de,rockantenne.hamburg##.c-image--left
 finanznachrichten.de##.c-sban1
 finanznachrichten.de##.c-sban2
 scfreiburg.com,sgf1903.de##.c-sponsors-list
+krone.at##.c_gpt-ad
 focus.de##.cad
 ka-news.de##.cad_box
 focus.de##.cad_native
@@ -5464,6 +5465,7 @@ freitag.de##.bv-grid__breakout-l:has(.bc-cluster--ad)
 welt.de##.c-inline-teaser__body.c-inline-teaser__body--is-standalone:has(a[href^="https://www.financeads.net/tc.php?"])
 sportscheck.com##.c-product-tile:has(div.c-product-tile__sponsored)
 experten.de##.c-sidebar:has(> .widget-odd > div[class^="c-ad-exper-"])
+krone.at##.c_banner:has(img[alt="KMM"])
 googlewatchblog.de##.card-content > center:has(ins.adsbygoogle)
 automotiveit.eu,instandhaltung.de,produktion.de,technik-einkauf.de##.ce_postlistbox:has(.label-ad-highlight)
 all-electronics.de,automotiveit.eu,produktion.de##.ce_topicbox:has(.label-ad-highlight)
