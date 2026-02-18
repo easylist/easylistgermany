@@ -3123,10 +3123,18 @@ zentrum-der-gesundheit.de#?#span:-abp-contains(/ANZ|EIGE/) + div
 chip.de##.ft-charts-main > div:not(.List):not(.caps) {remove:true;}
 ! top-level domain wildcard
 finanzen.*###HomepageIssuerNews
+wieistmeineip.*###billboard
+wieistmeineip.*###dynInpageWrapper
+wieistmeineip.*###mrec
+wieistmeineip.*###rectangle
+wieistmeineip.*###rectangle2
 geizhals.*###startpage-showrooms
+wieistmeineip.*###superbanner
+wieistmeineip.*##.addelivered
 finanzen.*##.adnz-ad-placeholder--google
 finanzen.*##.adnz-ad-placeholder--wideboard
 holidaycheck.*##.campaign-teaser
+wieistmeineip.*##.outstreamAd
 finanzen.*##.page-layout__ad-content
 obi.*##[data-ae-slot="pdp_old_banner"]
 finanzen.*##div[class^="ad-wrapper-"]
