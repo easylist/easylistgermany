@@ -1140,6 +1140,7 @@ rockantenne.bayern,rockantenne.de,rockantenne.hamburg##.c-image--left
 finanznachrichten.de##.c-sban1
 finanznachrichten.de##.c-sban2
 scfreiburg.com,sgf1903.de##.c-sponsors-list
+krone.at##.c_gpt-ad
 focus.de##.cad
 ka-news.de##.cad_box
 focus.de##.cad_native
@@ -2845,6 +2846,7 @@ freitag.de##.bv-grid__breakout-l:has(.bc-cluster--ad)
 welt.de##.c-inline-teaser__body.c-inline-teaser__body--is-standalone:has(a[href^="https://www.financeads.net/tc.php?"])
 sportscheck.com##.c-product-tile:has(div.c-product-tile__sponsored)
 experten.de##.c-sidebar:has(> .widget-odd > div[class^="c-ad-exper-"])
+krone.at##.c_banner:has(img[alt="KMM"])
 googlewatchblog.de##.card-content > center:has(ins.adsbygoogle)
 automotiveit.eu,instandhaltung.de,produktion.de,technik-einkauf.de##.ce_postlistbox:has(.label-ad-highlight)
 all-electronics.de,automotiveit.eu,produktion.de##.ce_topicbox:has(.label-ad-highlight)
