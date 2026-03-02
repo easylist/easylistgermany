@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602231421
+! Version: 202603021703
 ! Title: EasyList Germany
-! Last modified: 23 Feb 2026 14:21 UTC
+! Last modified: 02 Mar 2026 17:03 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 0e32332dfdd9df902bb7cef0c549c6bfe8c30f16
+! Commit: 0f5be602f8c4c52ee6a4bdf014b1ae1ef0841d34
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5717,6 +5717,7 @@ pcwelt.de#?#div.box:-abp-has(span.banner-text + h4:-abp-contains(/Partner-Angebo
 pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
 prad.de#?#.pd-teaser:has(div.teaser-subtitle:has-text(Anzeige))
 produktion.de#?#.postlist-item:-abp-has(.label:-abp-contains(Gesponsert))
+queer.de#?#.liste:-abp-contains(Top-Hotels (Anzeige))
 report-d.de#?#.content-view-containerbox:-abp-contains(SONDER-VERÖFFENTLICHUNG)
 satvision.de#?#.fc_bloglist_item:-abp-has(a:-abp-contains(Advertorial))
 satvision.de#?#.mod_flexicontent_standard_wrapper:-abp-has(span:-abp-contains(Advertorial))
