@@ -1,7 +1,8 @@
 {
   "name": "easylistgermany",
   "devDependencies": {
-    "@adguard/dead-domains-linter": "^1.0.33"
+    "@adguard/dead-domains-linter": "^1.0.33",
+    "brace-expansion": ">=2.0.2"
   },
-  "packageManager": "pnpm@10.26.2+sha512.0e308ff2005fc7410366f154f625f6631ab2b16b1d2e70238444dd6ae9d630a8482d92a451144debc492416896ed16f7b114a86ec68b8404b2443869e68ffda6"
+  "packageManager": "pnpm@10.30.3+sha512.c961d1e0a2d8e354ecaa5166b822516668b7f44cb5bd95122d590dd81922f606f5473b6d23ec4a5be05e7fcd18e8488d47d978bbe981872f1145d06e9a740017"
 }
