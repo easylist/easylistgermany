@@ -2,7 +2,13 @@
   "name": "easylistgermany",
   "devDependencies": {
     "@adguard/dead-domains-linter": "^1.0.33",
-    "brace-expansion": ">=2.0.2"
+    "brace-expansion": ">=2.0.2",
+    "js-yaml": ">=3.14.2",
+    "@babel/runtime": ">=7.26.10",
+    "@babel/runtime-corejs3": ">=7.26.10",
+    "glob": ">=10.5.0",
+    "minimatch": ">=9.0.7",
+    "cross-spawn": ">=7.0.5"
   },
   "packageManager": "pnpm@10.30.3+sha512.c961d1e0a2d8e354ecaa5166b822516668b7f44cb5bd95122d590dd81922f606f5473b6d23ec4a5be05e7fcd18e8488d47d978bbe981872f1145d06e9a740017"
 }
