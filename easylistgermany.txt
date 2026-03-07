@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603071608
+! Version: 202603071615
 ! Title: EasyList Germany
-! Last modified: 07 Mar 2026 16:08 UTC
+! Last modified: 07 Mar 2026 16:15 UTC
 ! Expires: 1 days (update frequency)
-! Commit: ef7ffacbc3f9c0e68c04b77935d3f1bdb694ab1f
+! Commit: 825daee53b14fb6bc4b918b9550c5071da61e3d3
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5515,7 +5515,7 @@ krone.at##.c_banner:has(img[alt="KMM"])
 googlewatchblog.de##.card-content > center:has(ins.adsbygoogle)
 automotiveit.eu,instandhaltung.de,produktion.de,technik-einkauf.de##.ce_postlistbox:has(.label-ad-highlight)
 all-electronics.de,automotiveit.eu,produktion.de##.ce_topicbox:has(.label-ad-highlight)
-alfons-wurm-olpe.de,dreierlei-restaurant.de##.code-block:has(.hb-ad-inpage)
+dreierlei-restaurant.de##.code-block:has(.hb-ad-inpage)
 ibooks.to##.code-block:has(i.fa-cloud-download-alt)
 wochenblatt-reporter.de##.content-card-wrap.pointer.outlined:has(.cmmrc-tag)
 shop-apotheke.at##.cross-sell-horizontal-slider__item-wrapper:has([href^="https://api.sae.systems/rma/api/v"])
