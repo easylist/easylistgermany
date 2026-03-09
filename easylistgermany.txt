@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603071615
+! Version: 202603091720
 ! Title: EasyList Germany
-! Last modified: 07 Mar 2026 16:15 UTC
+! Last modified: 09 Mar 2026 17:20 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 825daee53b14fb6bc4b918b9550c5071da61e3d3
+! Commit: ec6315a5d7a4a2e44587591623e824697fc4732f
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3366,7 +3366,6 @@ myfont.de###toplists
 buecher-magazin.de###topshadow
 suche.t-online.de###tpctop
 hc-neumarkt.com###tr-contentbottom
-pornotim.com###tracking-url
 kinofilme.ucoz.com###trade
 biallo.de###tso-billboard-1
 teltarif.de###ttParallaxcontainer
@@ -4057,7 +4056,7 @@ qiez.de##.h5v
 helpster.de##.h5v-ad
 news.de##.halfpage
 hallobuer.ruhr##.hallo-inhalt_2
-pornotim.com,xhammer.net##.happy-inside-player
+xhammer.net##.happy-inside-player
 pornohut.info##.happy-player-beside
 hc-erlangen-ev.de##.hauptsponsor
 fc-hansa.de##.hauptsponsoren
@@ -4917,7 +4916,7 @@ koeln.de##a[href^="https://ed.koeln.de/ad/www/delivery/ck.php"]
 finanzen.ch##a[href^="https://fra1-ib.adnxs.com/"]
 porn4k.to##a[href^="https://gadlt.nl/"]
 pcwelt.de##a[href^="https://get.surfshark.net/aff_c?"]
-denkmalpflege-schweiz.ch,pornotim.com,reiseziele.ch,xhamsterde.com##a[href^="https://goo.gl/"]
+denkmalpflege-schweiz.ch,reiseziele.ch,xhamsterde.com##a[href^="https://goo.gl/"]
 tarnkappe.info##a[href^="https://hide.me/de/promotion/"]
 hoerbuch.us##a[href^="https://hoerbuch.us/dll/"]
 ibooks.to##a[href^="https://ibooks.to/del"]
@@ -5112,7 +5111,7 @@ t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="T-"][oncontextmenu="re
 hardware-mag.de##div[id^="ad-"]
 gamestar.de##div[id^="ad-div-"]
 20min.ch##div[id^="ad_prime_"]
-argoviatoday.ch,baerntoday.ch,fm1today.ch,nzz.ch,pilatustoday.ch,swissmom.ch,zueritoday.ch##div[id^="adnz_"]
+argoviatoday.ch,baerntoday.ch,nzz.ch,pilatustoday.ch,swissmom.ch##div[id^="adnz_"]
 haus.de##div[id^="adtech_"]
 yoga-aktuell.de##div[id^="aktue-"]
 finanzfluss.de##div[id^="amundi-table-"]
@@ -5760,7 +5759,6 @@ pollenflug.de#?#.services-item:-abp-contains(bei Amazon)
 prad.de#?#.pd-teaser:has(div.teaser-subtitle:has-text(Anzeige))
 produktion.de#?#.postlist-item:-abp-has(.label:-abp-contains(Gesponsert))
 queer.de#?#.liste:-abp-contains(Top-Hotels (Anzeige))
-report-d.de#?#.content-view-containerbox:-abp-contains(SONDER-VERÖFFENTLICHUNG)
 satvision.de#?#.fc_bloglist_item:-abp-has(a:-abp-contains(Advertorial))
 satvision.de#?#.mod_flexicontent_standard_wrapper:-abp-has(span:-abp-contains(Advertorial))
 seo-suedwest.de#?#.moduletable:-abp-has(span:-abp-contains(Anzeige))
