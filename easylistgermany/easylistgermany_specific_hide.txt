@@ -1776,6 +1776,7 @@ videoaktiv.de##.rcu
 videoaktiv.de##.rec
 nydus.org##.recommend
 jobscout24.ch##.recommendations
+beobachter.ch##.recommendations-container:upward(1):has(> div:first-child:has-text(Partnerinhalte))
 games.ch##.rect
 anisearch.de##.rectX
 anisearch.de##.rect_sidebar
