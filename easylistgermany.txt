@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603231724
+! Version: 202603231730
 ! Title: EasyList Germany
-! Last modified: 23 Mar 2026 17:24 UTC
+! Last modified: 23 Mar 2026 17:30 UTC
 ! Expires: 1 days (update frequency)
-! Commit: aacc6d875cd4bffcf3569d6898d550db5a19f37c
+! Commit: 92ef3c5b5b32f7799d36eb4db9eaf9d7426bad2d
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -949,7 +949,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||fuckshow.org^$subdocument,third-party
 ||funke.code.outtra.com/outtra-
 ||gameliebe.com/affiliate/$third-party
-||gamesports.net/website_partners/
 ||gay-thailand.de^*/gay-thailand468x60.gif
 ||getdigital.de/banner/$third-party
 ||globetrotter.de/de/service/banner/$third-party
