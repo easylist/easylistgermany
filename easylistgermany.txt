@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603191706
+! Version: 202603231724
 ! Title: EasyList Germany
-! Last modified: 19 Mar 2026 17:06 UTC
+! Last modified: 23 Mar 2026 17:24 UTC
 ! Expires: 1 days (update frequency)
-! Commit: b9cc536c0bfef6a9f1015f42d6ff1a4fab964081
+! Commit: aacc6d875cd4bffcf3569d6898d550db5a19f37c
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4271,6 +4271,9 @@ fussballdaten.de##.news-spiel-quoten
 wallstreet-online.de##.newsFlagSlider
 kitzanzeiger.at##.news_sponsoren_banner
 pz-news.de,rheinpfalz.de,zvw.de##.nfy-banner
+lkz.de##.nfy-element-ad
+lkz.de##.nfy-row-ad
+lkz.de##.nfy-topbox-small-ad
 dtb-tennis.de##.ng-banner
 mallorcazeitung.es##.no-baldomero
 frustfrei-lernen.de##.noContentBannerArea
@@ -5577,6 +5580,7 @@ prad.de##.second-list > li:has(a[href^="https://tracking.s24.com/"])
 podcast.de##.section:has(.ad-container)
 wallstreet-online.de##.similarNews:has(span[title="Anzeige"])
 allround-pc.com##.singlePostInfo:has(iframe[src^="https://www.allround-pc.com/wp-json/"])
+lkz.de##.slick-slide:has(.nfy-topbox-small-ad)
 mopo.de##.slider-preview:has(.anzeige-label)
 wallstreet-online.de##.sliderItem.active:has(span.news-item:has(img[alt="Anzeige"]))
 finanzen.net##.snapshot__trading:has(.button-advertising-hint)
