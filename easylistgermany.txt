@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603231730
+! Version: 202603251825
 ! Title: EasyList Germany
-! Last modified: 23 Mar 2026 17:30 UTC
+! Last modified: 25 Mar 2026 18:25 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 92ef3c5b5b32f7799d36eb4db9eaf9d7426bad2d
+! Commit: e52357dc9946a57dc7b11c57dd78885c4f81cc90
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5631,6 +5631,7 @@ abendzeitung-muenchen.de##article[class^="teaser nummer-"]:has(span.specialfeatu
 futurezone.de##article[data-post-id]:has(.sponsor-byline)
 diegrenzgaenger.lu##article[id^=post-]:has(.sponsored-indicator)
 az.com.na##aside:has(img[src*="/adverts/"])
+saturn.de##aside[class="sc-a2fcee8-0 fmYGst"]:has(button[aria-label="Erfahre mehr über Produktsponsoring"])
 travelbook.de##div.has-mark[style="min-width: 300px; min-height: 250px;"]
 hornoxe.com##div.post.hentry.ivycat-post:has(a[href^="https://amzn.to/"])
 hornoxe.com##div.post.hentry.ivycat-post:has(a[href^="https://www.amazon.de/"])
