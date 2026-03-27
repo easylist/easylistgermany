@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603271734
+! Version: 202603271735
 ! Title: EasyList Germany
-! Last modified: 27 Mar 2026 17:34 UTC
+! Last modified: 27 Mar 2026 17:35 UTC
 ! Expires: 1 days (update frequency)
-! Commit: f1ea418c907cb8ea96e02ac7bb5fae2117251128
+! Commit: b8a88f715f900d18bd34715e034f9da8f8e424c4
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -2853,6 +2853,7 @@ macgadget.de###block-macgadget-anzeigen-3
 macgadget.de###block-macgadget-textwerbunglinks1
 macgadget.de###block-macgadget-verlosung
 haustec.de###block-network
+schwulissimo.de###block-schwulissimo-petelo
 windowspro.de###block-views-sponsoredcontent-block
 windowspro.de###block-views-sponsoredpromo-block
 boersennews.de###bnBanner
