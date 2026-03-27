@@ -2447,6 +2447,7 @@ giga.de##div[data-trigger="sourcepoint-ad"]
 otto.de##div[data-widget-type="SDA_LEGACY"]
 gesundheit.de,onmeda.de##div[id$="SparkWrapper"]
 aerzteblatt.de##div[id^="Ads_BA_"]
+finanzfluss.de##div[id^="Gerd-Kommer-"]
 teltarif.de##div[id^="LxIdealo"]
 t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="T-"].Tmm.Tltb.Tts.Tmc1.Tww1.Thh3[onfocus^="A('zid="] > .Ttsc.Ttsv169
 t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="T-"][oncontextmenu="return false"]
@@ -2470,8 +2471,10 @@ bayreuther-tagblatt.de##div[id^="bayre-"]
 20min.ch##div[id^="bern__inside-"]
 bz-berlin.de##div[id^="billboard"]
 fitbook.de,petbook.de##div[id^="billboard_"]
+finanzfluss.de##div[id^="bitpanda-"]
 hpd.de##div[id^="block-views-advertising-"]
 finanzfluss.de##div[id^="breakdown-gerd-kommer-"]
+finanzfluss.de##div[id^="breakdown-invesco-"]
 finanzfluss.de##div[id^="broker-top-"]
 finanzfluss.de##div[id^="broker-yield-section-"]
 buongiornosuedtirol.it##div[id^="buong-"]
@@ -2551,6 +2554,7 @@ fitbook.de,petbook.de##div[id^="superbanner_"]
 finanzfluss.de##div[id^="sustainability-gerd-kommer-"]
 teltarif.de##div[id^="tarifSlider"]
 tippscout.de##div[id^="tipps-"]
+finanzfluss.de##div[id^="trading212-"]
 bbheute.de,berliner-kurier.de,berliner-zeitung.de,bietigheimerzeitung.de,blick.de,donaukurier.de,evangelische-zeitung.de,frankenpost.de,ingolstadt-today.de,krzbb.de,main-echo.de,mittelbayerische.de,mopo.de,np-coburg.de,pnp.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de,wochenblatt-reporter.de##div[id^="traffective-ad-"]
 galeria.de##div[id^="viewHomeDesktop-outGrid-sponsored_products-"]
 galeria.de##div[id^="viewSearchResultDesktop-inGrid-sponsored_products-"]
@@ -3057,6 +3061,7 @@ emotion.de#?#.node--article:has(span:has-text(Anzeige))
 fazemag.de#?#h4:has(span:has-text(ANZEIGEN))
 finanzen.net#?#.mleft-10.small-font.light-grey:has-text(Werbung) + .box + .border-blue-2
 finanzen.net#?#.mleft-10:has-text(Werbung) + .box
+finanzfluss.de#?#.component.card.white.has-shadow:has-text(Anzеigе)
 finanzfluss.de#?#.component:has(div.disclaimer-text:has-text(Anzeige))
 focus.de#?#article[id^="teaser-"][data-placement]:has-text(Anzeige)
 games.ch#?#.col4:has(h3:has-text(Unterstützt durch:))
