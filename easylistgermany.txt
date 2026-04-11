@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604111306
+! Version: 202604111311
 ! Title: EasyList Germany
-! Last modified: 11 Apr 2026 13:06 UTC
+! Last modified: 11 Apr 2026 13:11 UTC
 ! Expires: 1 days (update frequency)
-! Commit: c7071552cad24e68cdf12a050e605fdb43ef085a
+! Commit: 8776685103871ca343bc4e80f9aeedfca09f6df6
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3429,7 +3429,6 @@ finanznachrichten.de##.Ad_SmartAd
 elektrikforen.de,jungewelt.de,vermieter-forum.com##.Anzeige
 praxistipps.chip.de,praxistipps.focus.de##.Article__Ad
 praxistipps.chip.de,praxistipps.focus.de##.Article__Promo
-onvista.de##.BILLBOARD
 blackdevils.team##.Banner
 reisereporter.de##.Banner--isAd
 fc-suedtirol.com##.BannerContainer
