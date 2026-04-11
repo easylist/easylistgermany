@@ -3069,6 +3069,7 @@ fazemag.de#?#h4:has(span:has-text(ANZEIGEN))
 finanzen.net#?#.mleft-10.small-font.light-grey:has-text(Werbung) + .box + .border-blue-2
 finanzen.net#?#.mleft-10:has-text(Werbung) + .box
 finanzfluss.de#?#.component.card.white.has-shadow:has-text(Anzеigе)
+finanzfluss.de#?#.component.linked-card.hero-card:has-text(Anzеigе)
 finanzfluss.de#?#.component:has(div.disclaimer-text:has-text(Anzeige))
 focus.de#?#article[id^="teaser-"][data-placement]:has-text(Anzeige)
 games.ch#?#.col4:has(h3:has-text(Unterstützt durch:))
