@@ -3,7 +3,7 @@
 ! Title: EasyList Germany
 ! Last modified: 20 Apr 2026 16:08 UTC
 ! Expires: 1 days (update frequency)
-! Commit: e0fbc4af6ee11c95f004981ea9e210db85a7536a
+! Commit: 013bac00bf8df743ca0c27455b199a1d62f05b73
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4740,6 +4740,7 @@ finanztreff.de##.videosponsor_hsbc
 heizsparer.de,solaranlage-ratgeber.de##.vidheight[style="min-height:450px;"]
 busplaner.de##.view--advertorial
 netzwoche.ch##.view-partners
+windowspro.de##.view-sponsoredcontent
 mywheels.tv##.view-type-falken
 vip.de##.vip-medium-rectangle
 mobile.de##.vip-placeholder
