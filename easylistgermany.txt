@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604181102
+! Version: 202604201302
 ! Title: EasyList Germany
-! Last modified: 18 Apr 2026 11:02 UTC
+! Last modified: 20 Apr 2026 13:02 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 11136021eab134261b7b68202710864b904ce059
+! Commit: 81db0dfeab5ffe0e70046b656a88acfa112f2200
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -1171,7 +1171,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||probefahrt.gratis^$popup
 ||putenbrust.net^$popup
 ||sau-billig.net/?log=$popup,third-party
-||sloganmaker.net/?utm_campaign=*&utm_source=$popup,third-party
 ||smsdate.com^$popup
 ||start.sexpartnercommunity.com^$popup
 ||sunmaker.com/?a_aid=$popup
@@ -1946,7 +1945,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||notebookcheck.com/fileadmin/templates/wbg/
 ||nr-kurier.de/images/mankwetter.png
 ||nrhz.de/flyer/media/banner/
-||nurbilder.com/mdh1.php
 ||nurgay.to/scpu.js
 ||nurxxx.mobi/ai/s/s/js/ssu.v2.js
 ||nurxxx.net/ai/s/s/js/ssu.v2.js
