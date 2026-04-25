@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604251334
+! Version: 202604251338
 ! Title: EasyList Germany
-! Last modified: 25 Apr 2026 13:34 UTC
+! Last modified: 25 Apr 2026 13:38 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 7cb82881f64ffaff82dd6d227890815031e535cb
+! Commit: 75218442b90041d44614ae00083947ff19ea2f38
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5012,6 +5012,7 @@ otto.de##article[data-origin="sponsored"]
 otto.de##article[data-producttile-tracking*="wk.san_ProductType\":\"sponsored\""]
 mobile.de##article[data-testid="srp-top-ad"]
 android-hilfe.de##article[id^="fh-"]
+nius.de##aside[aria-label="Werbung"]
 weristdeinfreund.de##aside[id^="banner"]
 bazar.at,dibeo.at##bb-gpt-ad
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
