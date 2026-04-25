@@ -1219,6 +1219,7 @@ deutscherskiverband.de##.container-banner-2
 ssvnaturns.it##.container-sponsoren
 mt.de##.container.margin-bottom-40.fullwidth-container-mobile.min-280
 goslarsche.de##.container_skyscraper
+android-hilfe.de##.content-ad
 android-hilfe.de##.content-ad-first
 hoerzu.de##.content-amazon
 kostenlosspielen.net##.content-main-box-300x250
@@ -2356,6 +2357,7 @@ android-hilfe.de##article[class="message message--post"]
 otto.de##article[data-origin="sponsored"]
 otto.de##article[data-producttile-tracking*="wk.san_ProductType\":\"sponsored\""]
 mobile.de##article[data-testid="srp-top-ad"]
+android-hilfe.de##article[id^="fh-"]
 weristdeinfreund.de##aside[id^="banner"]
 bazar.at,dibeo.at##bb-gpt-ad
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
