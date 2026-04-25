@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604251329
+! Version: 202604251334
 ! Title: EasyList Germany
-! Last modified: 25 Apr 2026 13:29 UTC
+! Last modified: 25 Apr 2026 13:34 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 0dfdb540ee8d163ffd49a244fa6e3cc4305e0f39
+! Commit: 7cb82881f64ffaff82dd6d227890815031e535cb
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3018,6 +3018,7 @@ finanzfluss.de###in-search-ad-kommer-matomo
 finanzfluss.de###in-search-invesco-01-25
 familienkost.de###incontent_1
 familienkost.de###incontent_2
+heilfastenkur.de###infobereich123
 moviedream.cx###informationbox2
 bz-berlin.de###inpage
 abload.de###iphpbannerleft
@@ -3788,6 +3789,7 @@ btc-echo.de##.btc-sponsored
 hockeyweb.de##.btn-danger
 boersennews.de##.btn-smartbroker
 radioguetersloh.de##.btn2
+heilfastenkur.de##.buch_produkt_rechts_ausgerichtet
 tvspielfilm.de##.button.affiliate
 lounge.fm##.buy
 eventelevator.de##.bwdfb-widget
@@ -5290,6 +5292,7 @@ astroportal.com##div[style="width: 336px; height: 280px;"]
 strafbuch.de##div[style="width: 468px;height: 60px;overflow: hidden;float: right"]
 immoscout24.ch##div[style="width: auto; height: auto; min-height: 250px; display: flex; justify-content: center; align-items: center;"]
 immoscout24.ch##div[style="width: auto; height: auto; min-height: 250px; justify-content: center; align-items: center;"]
+heilfastenkur.de##div[style="width:100%; color:#b3b3b3; font-size:11px; margin-bottom:-5px;"]
 gutefrage.net##div[style="width:100%;height:252px;overflow:hidden"]
 gutefrage.net##div[style="width:100%;height:602px;overflow:hidden"]
 ariva.de##div[style="width:1000px; text-align:center; min-height:270px;"]
