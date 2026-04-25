@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604251317
+! Version: 202604251322
 ! Title: EasyList Germany
-! Last modified: 25 Apr 2026 13:17 UTC
+! Last modified: 25 Apr 2026 13:22 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 3a451d6e3a2072b62d5a09fb299fa5d330a8a3af
+! Commit: bb31e3efb883b6dc30ba30a609c3edb4cf67b048
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3867,6 +3867,7 @@ deutscherskiverband.de##.container-banner-2
 ssvnaturns.it##.container-sponsoren
 mt.de##.container.margin-bottom-40.fullwidth-container-mobile.min-280
 goslarsche.de##.container_skyscraper
+android-hilfe.de##.content-ad
 android-hilfe.de##.content-ad-first
 hoerzu.de##.content-amazon
 kostenlosspielen.net##.content-main-box-300x250
@@ -5004,6 +5005,7 @@ android-hilfe.de##article[class="message message--post"]
 otto.de##article[data-origin="sponsored"]
 otto.de##article[data-producttile-tracking*="wk.san_ProductType\":\"sponsored\""]
 mobile.de##article[data-testid="srp-top-ad"]
+android-hilfe.de##article[id^="fh-"]
 weristdeinfreund.de##aside[id^="banner"]
 bazar.at,dibeo.at##bb-gpt-ad
 ww3.cad.de##body > table[width="100%"][border="0"]:first-child
