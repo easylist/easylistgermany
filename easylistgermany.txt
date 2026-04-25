@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604251322
+! Version: 202604251329
 ! Title: EasyList Germany
-! Last modified: 25 Apr 2026 13:22 UTC
+! Last modified: 25 Apr 2026 13:29 UTC
 ! Expires: 1 days (update frequency)
-! Commit: bb31e3efb883b6dc30ba30a609c3edb4cf67b048
+! Commit: 0dfdb540ee8d163ffd49a244fa6e3cc4305e0f39
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3229,6 +3229,7 @@ madchensex.com###side-spot
 abnehmen.com,aquariumforum.de,auswandererforum.de,pferd.de,radforum.de###sidebar > li > .ffwidget_sidebar
 areadvd.de###sidebar-left #text-5
 primeleague.gg###sidebar-sponsor
+mydealz.de###sidebarBottomAdSlotPortal
 mydealz.de###sidebarMiddleAdSlotPortal
 mydealz.de###sidebarTopAdSlotPortal
 uhrforum.de###sidebar_container
@@ -4542,6 +4543,9 @@ sexabc.ch##.sliderINSERATE
 sexabc.ch##.sliderTOP
 suche6.ch##.slideshow
 wallis24.it##.slideshowck
+mydealz.de##.slot
+mydealz.de##.slot-wrapper--sidebarLinked-left
+mydealz.de##.slot-wrapper--sidebarLinked-right
 hcgherdeina.com##.small-sponsor-box
 finanznachrichten.de##.smartbroker--text
 finanznachrichten.de##.smartbroker-logo
@@ -5245,6 +5249,7 @@ hardwareluxx.de##div[style="float: right; clear: both; padding-left: 1rem; margi
 wirtschaftslexikon24.com##div[style="float:left;clear:left;height:620px;width:180px;padding-top:15px;"]
 breakpoint.untergrund.net##div[style="float:right; width: 110px; margin-left: 15px; margin-top: 12px; margin-bottom: 15px; padding: 2px 6px; text-align: center; border: 1px solid black; background:white; line-height: 2em; color: black;"]
 pixelio.de##div[style="float:right; width: 300px; height: 250px"]
+mydealz.de##div[style="height: 126px;"]
 scifiscene.de##div[style="height: 166px"]
 news.reiseuhu.de##div[style="height: 250px"]
 n-mag.org##div[style="height: 280px; margin: 5px 0 5px 0;"]
