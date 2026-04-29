@@ -801,7 +801,6 @@ simmentalzeitung.ch##.PrintMotifRotator
 kostenlose-urteile.de##.RTaktAds
 dieharke.de##.Rectangle
 immoscout24.ch##.ResultListPage_adStyle_SPs8t
-onvista.de##.SKYSCRAPER
 sexforum.ch##.SideBannerbox
 digitalkamera.de##.SkyscraperLeft
 digitalkamera.de##.SkyscraperRight
@@ -3132,16 +3131,20 @@ onvista.de#?#.cursor-pointer:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u
 onvista.de#?#.mt-7:has(div:-abp-properties(content: "W​e​r​b​u​n​g"))
 onvista.de#?#.mt-8:-abp-properties(content: "Werbung")
 onvista.de#?#.outer-spacing--xxlarge-top:has-text(Werbung von)
+onvista.de#?#.ov-carousel__item:-abp-has(span:-abp-properties(content: "Wer"))
 onvista.de#?#.ov-carousel__item:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 onvista.de#?#a[class*="ArticleTeaserBox"]:has(div.ov-subline:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/))
 onvista.de#?#div[class*="Styles_ov-content-item-list__item"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
+onvista.de#?#div[class="bg-neutral-2 p-0 border-neutral-4 rounded-none shadow-none border-0 divide-solid border-b-1 border-b-neutral-4 last:border-b-0 mb-0"]:-abp-has(span:-abp-properties(content: "Wer"))
 onvista.de#?#div[class="bg-neutral-2 p-0 shadow-md rounded-2xl border-1 border-neutral-4 mb-0"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
+onvista.de#?#div[class="bg-neutral-2 p-0 shadow-md rounded-2xl border-1 border-neutral-4 mb-4"]:-abp-has(span:-abp-properties(content: "Wer"))
 onvista.de#?#div[class="bg-neutral-2 p-0 shadow-md rounded-2xl border-1 border-neutral-4 mb-4"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 onvista.de#?#div[class="bg-neutral-2 shadow-md rounded-2xl border-1 border-neutral-4 mb-4 p-0"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 onvista.de#?#div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 onvista.de#?#div[class="col col-12"]:has(:-abp-properties(Werbung))
 onvista.de#?#div[class="col py-0"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 onvista.de#?#div[class="flex justify-between mb-4 border-b-1 border-b-grey-100 pb-2 dark:border-b-grey-700"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
+onvista.de#?#div[class="md:col-span-3 lg:col-span-4"]:-abp-has(span:-abp-properties(content: "Wer"))
 onvista.de#?#div[class="md:col-span-3 lg:col-span-4"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 pctipp.ch#?#.list_item:has(.dachzeile:has-text(Partnerzone))
 pcwelt.de#?#div.box:has(span.banner-text + h4:has-text(/Partner-Angebot|Angebote/))
