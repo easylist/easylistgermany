@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604291656
+! Version: 202605011109
 ! Title: EasyList Germany
-! Last modified: 29 Apr 2026 16:56 UTC
+! Last modified: 01 May 2026 11:09 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 37378bccedf7ca3034be8d32322f242721d805af
+! Commit: a8db754ad5dfba6a4c2c928e383ae5bd38a87b3a
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3561,7 +3561,6 @@ sol.de##.advert__archive
 sol.de##.advert__content
 sol.de##.advert__footer
 sol.de##.advert__native
-onvista.de##.advertisedFund
 4investors.de,abendblatt.de,apotheken-umschau.de,az.com.na,dpd.de,extremnews.com,finanzen.ch,heise.de,iplayapps.de,tarnkappe.info,wetteronline.de##.advertisement
 kochrezepte.at##.advertisement_widget
 oefb.at,zeit.de##.advertising
@@ -5779,20 +5778,20 @@ onvista.de#?#.cursor-pointer:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u
 onvista.de#?#.mt-7:has(div:-abp-properties(content: "W​e​r​b​u​n​g"))
 onvista.de#?#.mt-8:-abp-properties(content: "Werbung")
 onvista.de#?#.outer-spacing--xxlarge-top:has-text(Werbung von)
-onvista.de#?#.ov-carousel__item:-abp-has(span:-abp-properties(content: "Wer"))
+onvista.de#?#.ov-carousel__item:-abp-has(span:-abp-properties(content: "W*"))
 onvista.de#?#.ov-carousel__item:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 onvista.de#?#a[class*="ArticleTeaserBox"]:has(div.ov-subline:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/))
 onvista.de#?#div[class*="Styles_ov-content-item-list__item"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
-onvista.de#?#div[class="bg-neutral-2 p-0 border-neutral-4 rounded-none shadow-none border-0 divide-solid border-b-1 border-b-neutral-4 last:border-b-0 mb-0"]:-abp-has(span:-abp-properties(content: "Wer"))
+onvista.de#?#div[class="bg-neutral-2 p-0 border-neutral-4 rounded-none shadow-none border-0 divide-solid border-b-1 border-b-neutral-4 last:border-b-0 mb-0"]:-abp-has(span:-abp-properties(content: "W*"))
 onvista.de#?#div[class="bg-neutral-2 p-0 shadow-md rounded-2xl border-1 border-neutral-4 mb-0"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
-onvista.de#?#div[class="bg-neutral-2 p-0 shadow-md rounded-2xl border-1 border-neutral-4 mb-4"]:-abp-has(span:-abp-properties(content: "Wer"))
+onvista.de#?#div[class="bg-neutral-2 p-0 shadow-md rounded-2xl border-1 border-neutral-4 mb-4"]:-abp-has(span:-abp-properties(content: "W*"))
 onvista.de#?#div[class="bg-neutral-2 p-0 shadow-md rounded-2xl border-1 border-neutral-4 mb-4"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 onvista.de#?#div[class="bg-neutral-2 shadow-md rounded-2xl border-1 border-neutral-4 mb-4 p-0"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 onvista.de#?#div[class="col col--md-3 col--sm-4 col--lg-4 col--xl-4"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 onvista.de#?#div[class="col col-12"]:has(:-abp-properties(Werbung))
 onvista.de#?#div[class="col py-0"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 onvista.de#?#div[class="flex justify-between mb-4 border-b-1 border-b-grey-100 pb-2 dark:border-b-grey-700"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
-onvista.de#?#div[class="md:col-span-3 lg:col-span-4"]:-abp-has(span:-abp-properties(content: "Wer"))
+onvista.de#?#div[class="md:col-span-3 lg:col-span-4"]:-abp-has(span:-abp-properties(content: "W*"))
 onvista.de#?#div[class="md:col-span-3 lg:col-span-4"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 pctipp.ch#?#.list_item:has(.dachzeile:has-text(Partnerzone))
 pcwelt.de#?#div.box:has(span.banner-text + h4:has-text(/Partner-Angebot|Angebote/))
