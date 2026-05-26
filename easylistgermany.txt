@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202605260742
+! Version: 202605260745
 ! Title: EasyList Germany
-! Last modified: 26 May 2026 07:42 UTC
+! Last modified: 26 May 2026 07:45 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 641445bda4207ac17031ef6991b6e9ce88516c22
+! Commit: 63519b177294e867069560b15b5c26a1008efd6f
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5036,6 +5036,7 @@ berliner-kurier.de,berliner-zeitung.de##div[class^="outbrain_"]
 via-ferrata.de##div[class^="overlay-"]
 finanzen.ch,finanzen.net##div[class^="page-layout__ad-"]
 grenzecho.net##div[class^="pane-dpipub-"]
+elle.de##div[class^="paragraph-ad_placement"]
 esquire.de##div[class^="paragraph-ad_placement-"]
 pictures-magazin.de##div[class^="pictu-"]
 mietminderungstabelle.de##div[class^="placeholderAdBox_"]
