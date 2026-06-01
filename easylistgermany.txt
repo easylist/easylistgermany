@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202606011406
+! Version: 202606011412
 ! Title: EasyList Germany
-! Last modified: 01 Jun 2026 14:06 UTC
+! Last modified: 01 Jun 2026 14:12 UTC
 ! Expires: 1 days (update frequency)
-! Commit: ddf1d8ae4396686785a6ef6af152cfa2de79da7d
+! Commit: 0b69857da1ec1bcd9ec47c475268b0c251532eea
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -2299,6 +2299,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||thinkpad-forum.de/Neu/Banner-
 ||tieronline.ch/images/partner/
 ||tobitech.de/images/banners/
+||travelbook.de/wp-json/page-manager/block/stickybar/
 ||trustedoffers.de^$domain=chip.de
 ||trvlcounter.de/media/advert/
 ||tschechien-online.org/sites/default/files/hotel-kleine-brauerei.jpg
