@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202606060948
+! Version: 202606061005
 ! Title: EasyList Germany
-! Last modified: 06 Jun 2026 09:48 UTC
+! Last modified: 06 Jun 2026 10:05 UTC
 ! Expires: 1 days (update frequency)
-! Commit: b878321d8d81fd7b5570388a055d496bdadea494
+! Commit: 33a8e2e1e392f1c248edaf674b3cd8171a8dcdc5
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4810,6 +4810,7 @@ lifeverde.de##.zusatz_billboard
 heise.de##A-PATERNOSTER
 home24.de##[data-cnstrc-sl-campaign-owner]
 aerzteblatt.de##[data-cy="section-ad"]
+gmx.net##[data-sda-slot]
 fitbook.de,petbook.de##[data-view-track="stickybar.display.Skyscanner"]
 pornhutdeutsch.com##[href^="https://start.amateurcommunity.com/"]
 pornhutdeutsch.com##[href^="https://susi.live/"]
