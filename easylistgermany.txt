@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202606081329
+! Version: 202606091557
 ! Title: EasyList Germany
-! Last modified: 08 Jun 2026 13:29 UTC
+! Last modified: 09 Jun 2026 15:57 UTC
 ! Expires: 1 days (update frequency)
-! Commit: f429a6906be8d0bd090213d881b2daceaa2a4974
+! Commit: 47c19942764e7ab90b257ad626f78622284cea73
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5064,6 +5064,7 @@ alles-mahlsdorf.de##div[data-id="904ffeb"]
 mobile.de##div[data-label="Anzeige"]
 kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
 kleinanzeigen.de##div[data-liberty-position-name="home-billboard"]
+kleinanzeigen.de##div[data-liberty-position-name*="srp"]
 heise.de##div[data-module-name="AdModule"]
 otto.de##div[data-module-type="SHOPPROMO_LARGE"]
 giga.de##div[data-sdg-ad]
