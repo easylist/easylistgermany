@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202606111429
+! Version: 202606180709
 ! Title: EasyList Germany
-! Last modified: 11 Jun 2026 14:29 UTC
+! Last modified: 18 Jun 2026 07:09 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 75f6ae94f1ddf357ef271a4bb927ff032281af57
+! Commit: b495fda57ba1fe8f17276f6378a1efc94cdd05dc
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5514,6 +5514,7 @@ dreierlei-restaurant.de##.code-block:has(.hb-ad-inpage)
 ibooks.to##.code-block:has(i.fa-cloud-download-alt)
 wochenblatt-reporter.de##.content-card-wrap.pointer.outlined:has(.cmmrc-tag)
 shop-apotheke.at##.cross-sell-horizontal-slider__item-wrapper:has([href^="https://api.sae.systems/rma/api/v"])
+nrwz.de##.elementor-element:has([id^="nrwzad-"])
 feuerwehrmagazin.de##.excerpt-tile.cell.small-12.medium-6:has(.advertorials)
 print.de##.excerpt-tile.cell:has(.advertorials)
 vergleichswelt.app##.fads-zeile:has(.fads-anzeige-text)
