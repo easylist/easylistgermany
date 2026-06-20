@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202606180713
+! Version: 202606201420
 ! Title: EasyList Germany
-! Last modified: 18 Jun 2026 07:13 UTC
+! Last modified: 20 Jun 2026 14:20 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 1c685087bd529e4fbcb9bc417363e496defa11ff
+! Commit: d1e01da86d6c69b023bca784066a776b1fccd092
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5642,6 +5642,7 @@ docmorris.de##div[class="min-h-[420px] px-2"]:has(a[data-testid="product-card-sp
 preispirat.ch##div[class="vc_row wpb_row vc_inner vc_row-fluid"]:has(#responsiveAd)
 preispirat.ch##div[class="vc_row wpb_row vc_inner vc_row-fluid"]:has(#responsivePromo)
 schwulissimo.de##div[class^="news-group__side-"]:has(.news-group-ad-container)
+schwarzwald-aktuell.eu##div[data-element_type="widget"]:has(.schwa-adlabel)
 reitschuster.de##div[data-elementor-type="single-post"] a[target="_blank"]:has(> img)
 mediamarkt.*##div[data-test="mms-product-carousels"]:has(button[aria-label="Erfahre mehr über Produktsponsoring"])
 docmorris.de##div[data-testid="search-grid-product-card-wrapper"]:has(a[data-testid="product-card-sponsored"])
