@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202606291602
+! Version: 202607011603
 ! Title: EasyList Germany
-! Last modified: 29 Jun 2026 16:02 UTC
+! Last modified: 01 Jul 2026 16:03 UTC
 ! Expires: 1 days (update frequency)
-! Commit: fa3ff4e0ae6058bb240131ed014278054d6d2f5d
+! Commit: acbb0b88d5d6fae85b5c8d689ccee505bef8cd21
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -762,7 +762,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||mupads.de^$third-party
 ||murcs.org^$third-party
 ||nativendo.de^$third-party
-||netpoint-media.de^$third-party
 ||netwayer.de^
 ||network-marketing24.com^$third-party
 ||network-media.info^$third-party
