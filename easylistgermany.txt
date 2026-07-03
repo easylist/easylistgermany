@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202607011604
+! Version: 202607032017
 ! Title: EasyList Germany
-! Last modified: 01 Jul 2026 16:04 UTC
+! Last modified: 03 Jul 2026 20:17 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 8ebec1efeda737ad27825e3aa4ffabb42c09bb41
+! Commit: 472f923452dce9058263cc986b711231f6094134
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3529,6 +3529,7 @@ ukraine-nachrichten.de##.ads-336
 efahrer.chip.de##.ads-alignment
 administrator.de##.ads-below-comments
 glarus24.ch,radiocentral.ch,sunshine.ch##.ads-container
+ich-tanke.de##.ads-sticky-container
 6profis.de##.ads6p
 chefkoch.de##.ads__initialized
 meetingpoint-brandenburg.de##.ads_mobile
