@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202607130703
+! Version: 202607130709
 ! Title: EasyList Germany
-! Last modified: 13 Jul 2026 07:03 UTC
+! Last modified: 13 Jul 2026 07:09 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 45ca669e87b8038c28824b91884101434c280c3a
+! Commit: a74079f3d9763d0ea14b9858bdd473163c9e4aba
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4700,7 +4700,7 @@ hamburg-pride.de##.tx-imagecycle-pi1
 astronomie.de##.tx-sf-banners
 bayernwelle.de##.type-banner
 boersen-zeitung.de##.u-ad
-lr-online.de,moz.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de,swp.de##.u-adSlot:not(.u-adSlot--sky-left):not(.u-adSlot--sky-right)
+lr-online.de,moz.de,schwarzwaelder-bote.de,stuttgarter-nachrichten.de,stuttgarter-zeitung.de,swp.de##.u-adSlot:not(.u-adSlot--sky-left):not(.u-adSlot--sky-right)
 uhrenratgeber.com##.uhren-widget
 sport.sky.de##.ui-advert
 funcloud.club##.underContentA
