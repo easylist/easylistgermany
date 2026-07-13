@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202607130712
+! Version: 202607130717
 ! Title: EasyList Germany
-! Last modified: 13 Jul 2026 07:12 UTC
+! Last modified: 13 Jul 2026 07:17 UTC
 ! Expires: 1 days (update frequency)
-! Commit: febc14ef4d87fa77f7cd0ea03bed8ef8d96f5096
+! Commit: 19df62e7375a8be0b0b2abb44ebee7d002bbe840
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3552,7 +3552,7 @@ sol.de##.advert__footer
 sol.de##.advert__native
 4investors.de,abendblatt.de,apotheken-umschau.de,az.com.na,dpd.de,extremnews.com,finanzen.ch,heise.de,iplayapps.de,tarnkappe.info,wetteronline.de##.advertisement
 kochrezepte.at##.advertisement_widget
-oefb.at,zeit.de##.advertising
+oefb.at,szbz.de,zeit.de##.advertising
 kauf6.com##.advertisments
 speedweek.com##.advheader
 smartdroid.de##.advorp1
