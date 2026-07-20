@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202607201311
+! Version: 202607201456
 ! Title: EasyList Germany
-! Last modified: 20 Jul 2026 13:11 UTC
+! Last modified: 20 Jul 2026 14:56 UTC
 ! Expires: 1 days (update frequency)
-! Commit: fbeff47d87a273bc87dffc1ee7999297ffb3e47a
+! Commit: e0aa70886a9bc89399525be9c03df02a5322cea4
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -1595,6 +1595,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||gelbeseiten.de/webgs/js/detailseite_below.js
 ||gelbeseiten.de/webgs/js/trefferliste_below.js
 ||generic.gmx.net^
+||generic.web.de^
 ||gentleman-blog.de/wp-content/uploads/270x191.jpg
 ||gentleman-blog.de/wp-content/uploads/870x150.jpg
 ||genussmaenner.de/content/images/0d8bdefa9e44c18e37dee4680dc827ed.jpg
@@ -3896,6 +3897,7 @@ unnuetzes.com##.da-container
 unnuetzes.com##.da-container-sky
 servus.com,terramatermagazin.com##.da__placeholder
 bergwelten.com##.da_placeholder
+gmx.net,web.de##.dap-container
 wochenblitz.com##.data-wb-main-adv-dir-right
 bluewin.ch##.daydeal-container
 spox.com##.dazn
