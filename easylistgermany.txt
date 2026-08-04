@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202608040521
+! Version: 202608041540
 ! Title: EasyList Germany
-! Last modified: 04 Aug 2026 05:21 UTC
+! Last modified: 04 Aug 2026 15:40 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 2adab573a30536d047b98c9272fc7b7474cc18cb
+! Commit: f237c1e95d28880dcc320e48441c596872dc850e
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5214,6 +5214,7 @@ galeria.de##div[id^="viewSearchResultDesktop-inGrid-sponsored_products-"]
 20min.ch##div[id^="wissen__inside-"]
 wochenblick.at##div[id^="woche-"]
 yenivatan.at##div[id^="yeniv-"]
+radioszene.de##div[id^="zapp-"]
 20min.ch##div[id^="zentralschweiz__inside-"]
 20min.ch##div[id^="zuerich__inside-"]
 blitzrechner.de##div[onclick^="ga('send', 'event', 'Ad',"]
