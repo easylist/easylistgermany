@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202608111132
+! Version: 202608191650
 ! Title: EasyList Germany
-! Last modified: 11 Aug 2026 11:32 UTC
+! Last modified: 19 Aug 2026 16:50 UTC
 ! Expires: 1 days (update frequency)
-! Commit: aea2e6cd029be71e04e840db07b5b68578c9e3b4
+! Commit: a2dec0fab775efeb50240f028ae8ce269561e4cd
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4026,6 +4026,7 @@ golem.de##.gbox_affiliate
 gastgewerbe-magazin.de##.ggm-ad
 golem.de##.go-ad-slot
 golem.de##.go-alink-list
+golem.de##.go-teaser--item-variant-sponsored
 golem.de##.go-teaser--variant-affiliate
 golem.de##.go-teaser--variant-sponsored
 jungfrauzeitung.ch##.gokb
