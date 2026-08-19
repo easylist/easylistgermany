@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202608191650
+! Version: 202608191651
 ! Title: EasyList Germany
-! Last modified: 19 Aug 2026 16:50 UTC
+! Last modified: 19 Aug 2026 16:51 UTC
 ! Expires: 1 days (update frequency)
-! Commit: a2dec0fab775efeb50240f028ae8ce269561e4cd
+! Commit: 1bd540a01777a21db32a6aa3c895573a40006e26
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4988,6 +4988,7 @@ ak-kurier.de,nr-kurier.de,ww-kurier.de##a[target="_new"][href^="inc/inc_link.php
 sporteurope.tv##app-top-banner
 windowspro.de##article.node-teaser:not(.node-promoted)
 android-hilfe.de##article[class="message message--post"]
+android-hilfe.de##article[data-author="Anzeige"]
 otto.de##article[data-origin="sponsored"]
 otto.de##article[data-producttile-tracking*="wk.san_ProductType\":\"sponsored\""]
 mobile.de##article[data-testid="srp-top-ad"]
