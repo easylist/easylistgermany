@@ -158,12 +158,13 @@
 ||monsterdealz.de/script.js
 ||monstersgame.net^*&vid=$third-party
 ||montessori-shop.de/banner/$third-party
-||mothor.de/webbanner/
+||mothor.de^*/webbanner/$third-party
 ||musica.at/banner/
 ||mydirtyhobby.de/track/$third-party
 ||nestoria.de^*?partner=$script,third-party
 ||netatwork.de^$subdocument,third-party
 ||netzis.de/Banner/$third-party
+||neu.brbnews.de/wobra/$third-party
 ||newsticker.save.tv^$third-party
 ||nexworld.tv^*/banner/$third-party
 ||oecherdeal.de^$subdocument,third-party
@@ -265,6 +266,7 @@
 ||wazazu.com/pimage/sdc/$third-party
 ||wazazu.com/pimage/visit-x/$third-party
 ||web-ads.10sq.net^
+||webbanner.mothor.de^$third-party
 ||weekli.de/widget-loader?$third-party
 ||weekli.pub/widget-loader?
 ||weekli.systems/www/widgets/$third-party

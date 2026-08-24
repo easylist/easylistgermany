@@ -1,5 +1,9 @@
+/api/ad-track$domain=meetingpoint-brandenburg.de|meetingpoint-dahme-spreewald.de|meetingpoint-jl.de|meetingpoint-magdeburg.de|meetingpoint-potsdam.de|meetingpoint-stadtnachrichten.de
 /as1.php$domain=boerse.ai|boerse.am|boerse.im|boerse.sx|boerse.tw
 /b.php$domain=boerse.ai|boerse.am|boerse.im|boerse.sx|boerse.tw
+/uploads/~0/ads/$domain=meetingpoint-brandenburg.de|meetingpoint-dahme-spreewald.de|meetingpoint-jl.de|meetingpoint-magdeburg.de|meetingpoint-potsdam.de|meetingpoint-stadtnachrichten.de
+/uploads/~0/embed/$domain=meetingpoint-brandenburg.de|meetingpoint-dahme-spreewald.de|meetingpoint-jl.de|meetingpoint-magdeburg.de|meetingpoint-potsdam.de|meetingpoint-stadtnachrichten.de
+/werbung/$domain=meetingpoint-brandenburg.de|meetingpoint-dahme-spreewald.de|meetingpoint-jl.de|meetingpoint-magdeburg.de|meetingpoint-potsdam.de|meetingpoint-stadtnachrichten.de
 ^what=zone^$domain=ww3.cad.de|ww4.cad.de
 |http://$subdocument,third-party,domain=bonimail.de
 ||112-magazin.de/images/banners/
@@ -668,9 +672,6 @@
 ||media.outnow.ch/Site/Waerbig/
 ||mediaforum.ch/banner/
 ||mediaforum.ch/banner_
-||meetingpoint-brandenburg.de/bilder/*/kunden/
-||meetingpoint-brandenburg.de/bilder/*/werbung/
-||meetingpoint-brandenburg.de/upload/ads_
 ||mein-klagenfurt.at/fileadmin/banner/
 ||meinyouporn.com/img/linklist2/
 ||melodieundrhythmus.com^*/Granma-Abo.png
