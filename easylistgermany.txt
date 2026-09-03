@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609030927
+! Version: 202609031513
 ! Title: EasyList Germany
-! Last modified: 03 Sep 2026 09:27 UTC
+! Last modified: 03 Sep 2026 15:13 UTC
 ! Expires: 1 days (update frequency)
-! Commit: b8d3d79611479e9207565f4c68602de91554611a
+! Commit: 055433167662b6bd16329d49b05a4caab05bbb3d
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5075,6 +5075,8 @@ mobile.de##div[data-label="Anzeige"]
 kleinanzeigen.de##div[data-liberty-ad-loaded="true"]
 kleinanzeigen.de##div[data-liberty-position-name*="srp"]
 kleinanzeigen.de##div[data-liberty-position-name="home-billboard"]
+kleinanzeigen.de##div[data-liberty-position-name="vip-belly"]
+kleinanzeigen.de##div[data-liberty-position-name="vip-billboard"]
 heise.de##div[data-module-name="AdModule"]
 otto.de##div[data-module-type="SHOPPROMO_LARGE"]
 giga.de##div[data-sdg-ad]
@@ -5100,6 +5102,7 @@ sportbild.bild.de##div[data-tr-doc-type="dt=InlineAd|st=BTOAdTag"]
 giga.de##div[data-trigger="sourcepoint-ad"]
 otto.de##div[data-widget-type="SDA_LEGACY"]
 gesundheit.de,onmeda.de##div[id$="SparkWrapper"]
+kleinanzeigen.de##div[id="viewad-sidebar-banner"]
 aerzteblatt.de##div[id^="Ads_BA_"]
 blick.de##div[id^="CAD"]
 finanzfluss.de##div[id^="Gerd-Kommer-"]
