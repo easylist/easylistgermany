@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609031513
+! Version: 202609031607
 ! Title: EasyList Germany
-! Last modified: 03 Sep 2026 15:13 UTC
+! Last modified: 03 Sep 2026 16:07 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 055433167662b6bd16329d49b05a4caab05bbb3d
+! Commit: da947584d578e78036107083454aed7a01be71ae
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4108,6 +4108,7 @@ xdate.ch##.interstitial
 meetingpoint-brandenburg.de,meetingpoint-dahme-spreewald.de,meetingpoint-jl.de,meetingpoint-magdeburg.de,meetingpoint-potsdam.de,meetingpoint-stadtnachrichten.de##.intext-ad
 sueddeutsche.de##.iqad
 saechsische.de##.iqadtile-wrapper
+der-postillon.com##.iqd-dynamic-slot
 faz.net,spektrum.de,sueddeutsche.de,tagesspiegel.de,zeit.de##.iqdcontainer
 tri-mag.de##.irypolkj
 welt.de##.is-commercial
