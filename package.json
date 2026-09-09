@@ -1,7 +1,7 @@
 {
   "name": "easylistgermany",
   "devDependencies": {
-    "@adguard/dead-domains-linter": "^1.0.33",
+    "@adguard/dead-domains-linter": "^1.0.38",
     "brace-expansion": ">=5.0.7",
     "js-yaml": ">=4.3.1",
     "@babel/runtime": ">=7.26.10",
