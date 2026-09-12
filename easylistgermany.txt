@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609120900
+! Version: 202609120902
 ! Title: EasyList Germany
-! Last modified: 12 Sep 2026 09:00 UTC
+! Last modified: 12 Sep 2026 09:02 UTC
 ! Expires: 1 days (update frequency)
-! Commit: b35cf64929c8f19c1d40bdadbbbab6c51986c713
+! Commit: b7a4d6250b2f59723d8660af81f56567a0d7d5e1
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5081,6 +5081,7 @@ kleinanzeigen.de##div[data-liberty-position-name="vip-belly"]
 kleinanzeigen.de##div[data-liberty-position-name="vip-billboard"]
 heise.de##div[data-module-name="AdModule"]
 otto.de##div[data-module-type="SHOPPROMO_LARGE"]
+chip.de##div[data-qa-download-page-buy-button=""]
 giga.de##div[data-sdg-ad]
 gmx.net##div[data-service-slot^="box_"]
 augsburger-allgemeine.de##div[data-slot-name="banner"]
