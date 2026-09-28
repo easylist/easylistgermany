@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609281606
+! Version: 202609281607
 ! Title: EasyList Germany
-! Last modified: 28 Sep 2026 16:06 UTC
+! Last modified: 28 Sep 2026 16:07 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 5bf66c2046c5c210b08f2eb12d362d94091289a7
+! Commit: a4df62e9dec1e17a341dc65977fc9de0c740a252
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3769,7 +3769,10 @@ schnittberichte.com##.branding
 blick.ch##.brandstudio
 koerperverletzung.com,scheidung.org,urheberrecht.de##.brave_popup
 idowa.de##.brick[data-b-title*="Traffective"]
+blogspan.net##.bs-ad-slot
 schwulissimo.de##.bs-ad-wrapper
+blogspan.net##.bs-pm-leiste
+blogspan.net##.bs-pm-rail
 tri-mag.de##.bscb-23811
 btc-echo.de##.btc-sponsored
 hockeyweb.de##.btn-danger
