@@ -3209,6 +3209,8 @@ welt.de#?#div[id][data-qa]:has(.c-buelent-linkbox__label:has-text(Anzeige))
 windowspro.de#?#.views-row:-abp-has(> article > header > h2 > a > div:-abp-contains(/^\s*Anzeige\s*$/))
 windowspro.de#?#article:has(:-abp-properties(content: "(Anzeige)";))
 windowspro.de#?#article:has(:-abp-properties(content: "Anzeige";))
+windowspro.de#?#div:has(> div[id] > p:has-text(/ANZEIGE\W*$/))
+windowspro.de#?#div:has(> script:has-text(/\/a\.php/))
 winfuture-forum.de#?#div.ExtraPostBlock:has(div.post_block:has-text(Anzeige)):not(.with_rep)
 zentrum-der-gesundheit.de#?#span:has-text(/ANZ|EIGE/) + button
 zentrum-der-gesundheit.de#?#span:has-text(/ANZ|EIGE/) + div
