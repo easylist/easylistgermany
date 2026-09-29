@@ -3034,6 +3034,7 @@ redcare-apotheke.ch,shop-apotheke.*##article.o-CompactProductListItem:has(a[href
 finanzen.net##article.page-content__item:has(img[alt="UBS"])
 imtest.de##article.type-post[data-post-id]:has(.sponsor-label)
 meetingpoint-brandenburg.de,meetingpoint-dahme-spreewald.de,meetingpoint-jl.de,meetingpoint-magdeburg.de,meetingpoint-potsdam.de,meetingpoint-stadtnachrichten.de##article:has(.tile-link[rel*="sponsored"])
+android-hilfe.de##article:has(a[href^="/fh-ma/click?"])
 mobile.de##article[class^="contentBox-module__"]:has(span[data-testid="sponsored-badge"])
 abendzeitung-muenchen.de##article[class^="teaser nummer-"]:has(span.specialfeature)
 chip.de##article[data-element-tracking-channel="home"]:has(.RUC-Badge--Secondary)
