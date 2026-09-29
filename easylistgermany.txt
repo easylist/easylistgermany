@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609290915
+! Version: 202609291600
 ! Title: EasyList Germany
-! Last modified: 29 Sep 2026 09:15 UTC
+! Last modified: 29 Sep 2026 16:00 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 1b1ea55f9f3a7c9bbad360211392cac066367aef
+! Commit: 0b48784a2c283c460a43b7d1b445a83bf2504ace
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5666,6 +5666,7 @@ redcare-apotheke.ch,shop-apotheke.*##article.o-CompactProductListItem:has(a[href
 finanzen.net##article.page-content__item:has(img[alt="UBS"])
 imtest.de##article.type-post[data-post-id]:has(.sponsor-label)
 meetingpoint-brandenburg.de,meetingpoint-dahme-spreewald.de,meetingpoint-jl.de,meetingpoint-magdeburg.de,meetingpoint-potsdam.de,meetingpoint-stadtnachrichten.de##article:has(.tile-link[rel*="sponsored"])
+android-hilfe.de##article:has(a[href^="/fh-ma/click?"])
 mobile.de##article[class^="contentBox-module__"]:has(span[data-testid="sponsored-badge"])
 abendzeitung-muenchen.de##article[class^="teaser nummer-"]:has(span.specialfeature)
 chip.de##article[data-element-tracking-channel="home"]:has(.RUC-Badge--Secondary)
