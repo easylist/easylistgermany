@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609290904
+! Version: 202609290907
 ! Title: EasyList Germany
-! Last modified: 29 Sep 2026 09:04 UTC
+! Last modified: 29 Sep 2026 09:07 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 71529020e575a40094189263870a23da6deb07ee
+! Commit: 806bc3df04afa81c64a07e0664c650f1b298940a
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4488,6 +4488,8 @@ ladies.de##.section-banner
 meedia.de##.section-banner-fullwidth
 selbstaendig-im-netz.de##.selbs-blog-startseite-und-kategorien
 selbstaendig-im-netz.de##.selbs-unter-artikeln
+sparhamster.at##.sh-ad-unit
+sparhamster.at##.sh-deal-infeed-ad
 wallstreet-online.de##.shareInFocus
 wallstreet-online.de##.shareTodayBox
 merkurist.de##.shipment
