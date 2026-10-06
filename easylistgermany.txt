@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610051455
+! Version: 202610060443
 ! Title: EasyList Germany
-! Last modified: 05 Oct 2026 14:55 UTC
+! Last modified: 06 Oct 2026 04:43 UTC
 ! Expires: 1 days (update frequency)
-! Commit: cb47f6d4a5088825b048a8730f58f0d4eee4662a
+! Commit: e490520e8e3f281dffdd6ff50c411ddf9eef1b7c
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -2952,7 +2952,6 @@ rewe.de###flagship_productlist
 spreeblick.com###flattr > a
 spreeblick.com###flattr > p
 finanznachrichten.de###fn-ankuendigung
-rasa.ch###footer
 zum.de###footer-banner-frame
 tennis.de###footer-partner
 americaurlaub.de,kremser-sc.at###footer-widgets
@@ -5759,6 +5758,7 @@ finanzfluss.de#?#.component.card.white.has-shadow:has-text(Anzеigе)
 finanzfluss.de#?#.component.linked-card.hero-card:has-text(Anzеigе)
 finanzfluss.de#?#.component:has(div.disclaimer-text:has-text(Anzeige))
 focus.de#?#article[id^="teaser-"][data-placement]:has-text(Anzeige)
+rasa.ch#?##footer:has-text(SPONSOREN)
 games.ch#?#.col4:has(h3:has-text(Unterstützt durch:))
 gamestar.de#?#.content-item-medium:has(data:has-text(Anzeige))
 gamestar.de#?#.content-item-small:has(h3:has-text(Anzeige))
