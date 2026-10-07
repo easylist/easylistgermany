@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610061610
+! Version: 202610071453
 ! Title: EasyList Germany
-! Last modified: 06 Oct 2026 16:10 UTC
+! Last modified: 07 Oct 2026 14:53 UTC
 ! Expires: 1 days (update frequency)
-! Commit: d961f440f94b6420729177b55ae79bbd4ebc7f25
+! Commit: 98dec0203420240b05f328f33ae324722d519798
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -793,7 +793,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||superclix.de^$third-party
 ||superpromo24.de^$third-party
 ||tagrpd.de^$third-party
-||target-video.com^$third-party
 ||textklicks.de^$third-party
 ||tip-ads.de^$third-party
 ||trabro.com^$third-party
@@ -2250,7 +2249,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||t3n.de^*/ad-scripts-
 ||tageblatt.com.ar/banners/
 ||tah.de^*&tx_sfbanners_
-||target-video.com^$script,domain=helpster.de
 ||taschenlampen-forum.de/images/acebeam/
 ||taschenlampen-forum.de/images/armytek/
 ||taschenlampen-forum.de/images/gatzetec/
