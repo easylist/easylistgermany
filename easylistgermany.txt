@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610121621
+! Version: 202610121625
 ! Title: EasyList Germany
-! Last modified: 12 Oct 2026 16:21 UTC
+! Last modified: 12 Oct 2026 16:25 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 843d9904cfd0fc98c88d61dfb1c0fa720d908f2c
+! Commit: 08f1c15cbe76915120a69c879e8b5ac189b0bd17
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -1433,6 +1433,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||digitalfernsehen.de/wp-content/uploads/*/NPAW-
 ||dkamera.de/media/article_banners/
 ||dlvr.t-online.de/static/lisa/placement/
+||dnbl.literatur-couch.de^
 ||dnv-online.net/_data/*_Superbanner_
 ||dnv-online.net/_data/Fullsize-Banner.gif
 ||docma.info/wp-content/banners/
