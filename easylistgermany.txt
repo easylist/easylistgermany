@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610131620
+! Version: 202610141304
 ! Title: EasyList Germany
-! Last modified: 13 Oct 2026 16:20 UTC
+! Last modified: 14 Oct 2026 13:04 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 7197621727b28cf76ed1906b7f2d2cd6c6c3e2b7
+! Commit: e46d628db913cc64567679dd5279bb8893c4fcb3
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5655,7 +5655,9 @@ basicthinking.de##.widget-post:has(.widget-p-listing > .p-wrap:only-child a[href
 windowspro.de##.wip-block-3:has(> style + div[id])
 windowspro.de##.wip-node-content .field--name-body > div:has(> div[id] + script)
 windowspro.de##.wip-node-content .field--name-body > div:has(> div[id]):has(> script)
+windowspro.de##.wip-node-content .field--name-body > div:has(a[onmouseover] img)
 windowspro.de##.wip-node-content .field--name-body > div:has(img[src*="/sites/windowspro.de/files/images/"]):not(:has(a[href*="/landing-page/"]))
+windowspro.de##.wip-node-content .field--name-body > div:has(script ~ div[id], div[id] ~ script):not(:has(div[id^="div-gpt-ad-"]))
 connect.de##.wkTeaser:has(.promolabel)
 connect.de##.wk_promptbox__listitem:has(.paistry-ad-label)
 connect.de##.wk_promptbox__listitem:has(.wk-anzeige-label)
