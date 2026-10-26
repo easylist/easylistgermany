@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610231856
+! Version: 202610261336
 ! Title: EasyList Germany
-! Last modified: 23 Oct 2026 18:56 UTC
+! Last modified: 26 Oct 2026 13:36 UTC
 ! Expires: 1 days (update frequency)
-! Commit: f36a17723fe469dc3e9e988f5fba975f5d52e03d
+! Commit: 733bf1936e6fb622fc76d0580f27a48bd11b1e72
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -818,7 +818,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||www.p.de^$third-party
 ||wz-werbewelt.de^$third-party
 ||xiji.de^$third-party
-||xtreff69.com^$third-party
 ||yoomedia.de^$third-party
 ||youspacko.com^$third-party
 ||z0a.de^$third-party
@@ -840,7 +839,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||trafficfabrik.com^$popup,third-party
 ||websc.org^$popup,third-party
 ||wixnm.com^$popup
-||xtreff69.com^$popup
 ! -----------------------------Third-party Werbung-----------------------------!
 ! *** easylistgermany:easylistgermany/easylistgermany_thirdparty.txt ***
 ||1deluxe.eu/banner/
