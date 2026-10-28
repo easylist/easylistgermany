@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610261400
+! Version: 202610281717
 ! Title: EasyList Germany
-! Last modified: 26 Oct 2026 14:00 UTC
+! Last modified: 28 Oct 2026 17:17 UTC
 ! Expires: 1 days (update frequency)
-! Commit: c95a272f4ef164af549724c17ddd65d1f5b8e0da
+! Commit: b843c0a4854a4b01680681083f83756d5b5ab411
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5813,6 +5813,7 @@ onvista.de#?#div[class="md:col-span-3 lg:col-span-4"]:-abp-has(span:-abp-propert
 onvista.de#?#div[class="md:col-span-3 lg:col-span-4"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 pctipp.ch#?#.list_item:has(.dachzeile:has-text(Partnerzone))
 pcwelt.de#?#div.box:has(span.banner-text + h4:has-text(/Partner-Angebot|Angebote/))
+photovoltaikforum.com,waermepumpenforum.com#?#.message:has(.messageSidebar:has-text(Anzeige))
 pollenflug.de#?#.services-item:has-text(bei Amazon)
 prad.de#?#.pd-teaser:has(div.teaser-subtitle:has-text(Anzeige))
 produktion.de#?#.postlist-item:has(.label:has-text(Gesponsert))
