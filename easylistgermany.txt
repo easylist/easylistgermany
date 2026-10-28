@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610281717
+! Version: 202610281729
 ! Title: EasyList Germany
-! Last modified: 28 Oct 2026 17:17 UTC
+! Last modified: 28 Oct 2026 17:29 UTC
 ! Expires: 1 days (update frequency)
-! Commit: b843c0a4854a4b01680681083f83756d5b5ab411
+! Commit: 68e214c98a0677b9c8caf767b880a9e2f5b358dc
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3000,6 +3000,7 @@ juraforum.de###jf-stroer-sky
 juraforum.de###jf-stroer-superbanner
 local.ch###js-banner
 ostfriesischer-kurier.de###jsn-pos-user-top
+4kfilme.de###kb-top-row
 forum.kinder.de###kinder\.de_sitebar_1
 forum.kinder.de###kinder\.de_sitebar_2
 klamm.de###klamm\.de_forum_1
@@ -3264,7 +3265,6 @@ ddl-warez.cc###tab-1 p:nth-of-type(1),#tab-1 p:nth-of-type(2),#tab-1 p:nth-of-ty
 liveticker.com###tab-live-odds
 stuttgarter-zeitung.de###taboola-mhsd
 marktindex.ch###td_uid_9_6141b5fdcbe72
-4kfilme.de###tdi_39
 lokalo.de###tdi_67
 giga.de,kino.de,watson.de###teaserheld-header
 tennisnet.com###tennisnetWidget
