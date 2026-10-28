@@ -3186,6 +3186,7 @@ onvista.de#?#div[class="md:col-span-3 lg:col-span-4"]:-abp-has(span:-abp-propert
 onvista.de#?#div[class="md:col-span-3 lg:col-span-4"]:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/)
 pctipp.ch#?#.list_item:has(.dachzeile:has-text(Partnerzone))
 pcwelt.de#?#div.box:has(span.banner-text + h4:has-text(/Partner-Angebot|Angebote/))
+photovoltaikforum.com,waermepumpenforum.com#?#.message:has(.messageSidebar:has-text(Anzeige))
 pollenflug.de#?#.services-item:has-text(bei Amazon)
 prad.de#?#.pd-teaser:has(div.teaser-subtitle:has-text(Anzeige))
 produktion.de#?#.postlist-item:has(.label:has-text(Gesponsert))
