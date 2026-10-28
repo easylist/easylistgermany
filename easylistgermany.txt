@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610281729
+! Version: 202610281735
 ! Title: EasyList Germany
-! Last modified: 28 Oct 2026 17:29 UTC
+! Last modified: 28 Oct 2026 17:35 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 68e214c98a0677b9c8caf767b880a9e2f5b358dc
+! Commit: 8ac8a0787fba421708eb7ede07e6712cdf64c9e5
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5517,6 +5517,7 @@ dnv-online.net##.artikel:has(.spitzmarketeaseranzeige)
 pnp.de##.bb-fixheight:has(div[id^="traffective-ad-"])
 heise.de##.bg-gray-50:has(div[id*="_Incontent-"])
 finanzfluss.de##.billboard-card:has(.partner-ad-and-title)
+data-load.me##.block-container:has(a[href^="/partner/"])
 laola1.at##.block.medium:has(a[href^="https://dt.sportradar.com/"])
 express.de##.bottom-0:has(button[id="sticky-label"])
 preis24.de##.box.box-style1:has(.notice)
@@ -5664,6 +5665,7 @@ futurezone.de##article[data-post-id]:has(.sponsor-byline)
 diegrenzgaenger.lu##article[id^=post-]:has(.sponsored-indicator)
 az.com.na##aside:has(img[src*="/adverts/"])
 mediamarkt.*,saturn.de##aside[class="sc-3e143820-0 erAlUN"]:has(button[aria-label="Erfahre mehr über Produktsponsoring"])
+data-load.me##div > a[href^="https://vennetv.shop/"]
 travelbook.de##div.has-mark[style="min-width: 300px; min-height: 250px;"]
 hornoxe.com##div.post.hentry.ivycat-post:has(a[href^="https://amzn.to/"])
 hornoxe.com##div.post.hentry.ivycat-post:has(a[href^="https://www.amazon.de/"])
