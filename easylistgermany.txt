@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610281735
+! Version: 202610290559
 ! Title: EasyList Germany
-! Last modified: 28 Oct 2026 17:35 UTC
+! Last modified: 29 Oct 2026 05:59 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 8ac8a0787fba421708eb7ede07e6712cdf64c9e5
+! Commit: 9747ceaf2e867357aa0e7e394a050e444754c2bc
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -1727,6 +1727,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||idealo.de/banner/
 ||images-amazon.com/images/*/marquee/
 ||images-amazon.com/images/*/marqueestatic/
+||images.literatur-couch.de^$script
 ||imgix.net/production/uploads/*/Banner_$domain=aerotelegraph.com
 ||imgur.com/cKTUKlX.gif$domain=mmnews.de
 ||imgur.com/zCsgpkZ.gif$domain=mmnews.de
