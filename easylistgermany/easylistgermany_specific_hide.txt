@@ -1434,6 +1434,7 @@ intimesrevier.com##.home_rennab
 hallescherfc.de##.home_sponsor_slider
 tirol.de##.hotelempfehlung
 homeandsmart.de##.hs_anbieter_box_block
+homeandsmart.de##.hs_topoffer_bar
 boerse-online.de##.hsbc_homepage_topflop
 news.de##.ialayerContainer
 gmx.net,web.de##.iba-variant-test
@@ -2468,7 +2469,7 @@ giga.de##div[data-trigger="sourcepoint-ad"]
 otto.de##div[data-widget-type="SDA_LEGACY"]
 gesundheit.de,onmeda.de##div[id$="SparkWrapper"]
 kleinanzeigen.de##div[id="viewad-sidebar-banner"]
-aerzteblatt.de##div[id^="Ads_BA_"]
+aerzteblatt.de,homeandsmart.de##div[id^="Ads_BA_"]
 blick.de##div[id^="CAD"]
 finanzfluss.de##div[id^="Gerd-Kommer-"]
 teltarif.de##div[id^="LxIdealo"]
