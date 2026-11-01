@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611012025
+! Version: 202611012029
 ! Title: EasyList Germany
-! Last modified: 01 Nov 2026 20:25 UTC
+! Last modified: 01 Nov 2026 20:29 UTC
 ! Expires: 1 days (update frequency)
-! Commit: dfb49fb29808230b34fe1970864a3a200de3869a
+! Commit: 744dc0b58def1db538e0c1f4be64a35fb89d6f2e
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -619,6 +619,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||fantecio.com^
 ||gayads.biz^
 ||kctag.net^
+||quartermedia-ad-service.net^
 ||swissadserver.ch^
 ||windows-pro.net^
 ||wixnm.com^
@@ -3590,6 +3591,7 @@ frankenpost.de,insuedthueringen.de,kurier.de,np-coburg.de##.article_nachDerWerbu
 itmagazine.ch##.article_rectangle
 rhein-zeitung.de##.articlebody__rectangle
 dererker.it##.articles-pr-box
+abendzeitung-muenchen.de##.artikel-detail-mobile-ad
 plattformj.ch##.artikel_blockunten
 neue-braunschweiger.de##.as-frame-center
 apfeleimer.de##.asa1_fbh
