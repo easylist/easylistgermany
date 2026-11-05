@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611051451
+! Version: 202611051916
 ! Title: EasyList Germany
-! Last modified: 05 Nov 2026 14:51 UTC
+! Last modified: 05 Nov 2026 19:16 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 3a6ee263ecb571bbfd2ee99f21a35738c330f6cc
+! Commit: a7112066de4377984a1e7a30377b55cc7c3710aa
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4323,6 +4323,7 @@ finanzfluss.de##.partner-news-card
 finanzfluss.de##.partner-suggestion
 bhc06.de##.partner-teaser
 eintracht.com,finanzfluss.de##.partner-wrapper
+finanzfluss.de##.partner-wrappеr
 wallstreet-online.de##.partnerNews > a[target="_blank"]
 rts-salzburg.at##.partner_section
 gota6.ch,highway-magazin.de##.partnerlinks
