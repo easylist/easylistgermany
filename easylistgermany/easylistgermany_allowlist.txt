@@ -71,6 +71,8 @@
 @@||rurweb.de/kleinanzeigen/adverts_image.php?$image
 @@||s1.adform.net^$script,domain=rewe.de
 @@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=fitbook.de
+@@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/$script,domain=onvista.de
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=onvista.de
 @@||smartadserver.com/ac?nwid=*&tag=sas_45579^$script,domain=fitbook.de
 @@||smartclip.net/?plc=$script,domain=spiele.rtl.de
 @@||smartclip.net/ads?$script,domain=spiele.rtl.de
