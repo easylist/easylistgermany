@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611091715
+! Version: 202611101710
 ! Title: EasyList Germany
-! Last modified: 09 Nov 2026 17:15 UTC
+! Last modified: 10 Nov 2026 17:10 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 26cc296dcbc880247b66d3dee5035b6d722b96a7
+! Commit: de5ebb8372a9f03358f8a3f58f7de9fdd37782c9
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5660,6 +5660,7 @@ t3n.de##article.c-pin:has(div.c-badge + span.u-text-extrasmall)
 hamburg-magazin.de,kiel-magazin.de,luebeck-magazin.de##article.card:has(.with-ad-marker)
 chip.de##article.download-item:has(.download-item__image:not([data-nuxt-img]))
 allround-pc.com##article.is-card:has(span.is-ad)
+mopo.de##article.k5a-slot:has(.k5a-sticker > .k5a-label)
 redcare-apotheke.ch,shop-apotheke.*##article.o-CompactProductListItem:has(a[href^="https://retail-api.sa-tech.de/api/"])
 finanzen.net##article.page-content__item:has(img[alt="UBS"])
 imtest.de##article.type-post[data-post-id]:has(.sponsor-label)
