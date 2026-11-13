@@ -3256,7 +3256,11 @@ holidaycheck.*##.campaign-teaser
 wieistmeineip.*##.outstreamAd
 finanzen.*##.page-layout__ad-content
 obi.*##[data-ae-slot="pdp_old_banner"]
+mediamarkt.*##[data-test="mms-search-main"] > aside[aria-label*="spons"]
 mediamarkt.*##[data-test="mms-search-showcase"]
+mediamarkt.*##[data-test="mms-search-srp-productlist"] li:has(> aside[aria-label*="spons"])
+mediamarkt.*##[data-test="mms-search-srp-productlist"] li:has(> div:only-child:empty)
+mediamarkt.*##[data-test="mms-search-srp-productlist"] li:has(article[data-test="mms-cofr-product-card"] button[aria-label*="spons"])
 mediamarkt.*,saturn.de##aside[aria-label="Gesponserte Inhalte"]
 finanzen.*##div[class^="ad-wrapper-"]
 !
