@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611131353
+! Version: 202611131435
 ! Title: EasyList Germany
-! Last modified: 13 Nov 2026 13:53 UTC
+! Last modified: 13 Nov 2026 14:35 UTC
 ! Expires: 1 days (update frequency)
-! Commit: d9c14bafd39e90cf51308489d9443bb6f62f8504
+! Commit: 6f2720977076374d4acb770f256a03e7edae6c1c
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5883,7 +5883,11 @@ holidaycheck.*##.campaign-teaser
 wieistmeineip.*##.outstreamAd
 finanzen.*##.page-layout__ad-content
 obi.*##[data-ae-slot="pdp_old_banner"]
+mediamarkt.*##[data-test="mms-search-main"] > aside[aria-label*="spons"]
 mediamarkt.*##[data-test="mms-search-showcase"]
+mediamarkt.*##[data-test="mms-search-srp-productlist"] li:has(> aside[aria-label*="spons"])
+mediamarkt.*##[data-test="mms-search-srp-productlist"] li:has(> div:only-child:empty)
+mediamarkt.*##[data-test="mms-search-srp-productlist"] li:has(article[data-test="mms-cofr-product-card"] button[aria-label*="spons"])
 mediamarkt.*,saturn.de##aside[aria-label="Gesponserte Inhalte"]
 finanzen.*##div[class^="ad-wrapper-"]
 ! 
