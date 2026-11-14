@@ -954,6 +954,7 @@ willhaben.at##.apn-leaderboard-wrapper
 oefb.at##.app-foesvAdSpace
 blick.ch##.appnexus-container
 arbeits-abc.de##.arbei-widget
+ariva.de##.arivaLink
 lokalmatador.de##.article-adbanner
 heise.de##.article-layout__header-wrbng
 onlinehaendler-news.de##.article-rectangle
@@ -2986,6 +2987,7 @@ obi.*##.splide__slide:has(hobi-advertiser-tag)
 spirituelles-bewusstsein.net##.su-note:has(a[href*="//www.amazon."][href*="tag="])
 szene-hamburg.com##.swiper-slide:has(.entry-adv)
 sportscheck.com##.swiper-slide:has(div.c-product-tile__sponsored)
+ariva.de##.tPicNews:has(.anzeige)
 preisvergleich.de##.tariffTipp:has(.indication)
 inside-digital.de##.td_module_ih_current_news:has(.spo)
 wallstreet-online.de##.teaser.objectfit:has(div.angebot)
