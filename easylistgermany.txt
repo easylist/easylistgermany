@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611141320
+! Version: 202611141328
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2026 13:20 UTC
+! Last modified: 14 Nov 2026 13:28 UTC
 ! Expires: 1 days (update frequency)
-! Commit: de4af5c340caaabf30dba03d66f58e9811d939e2
+! Commit: b099372e24344e32f9857df61137c3bcc4168973
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -2148,6 +2148,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||shopanbieter.de/SponsorLogos/
 ||shortpixel.ai^*/Banner_$domain=zwerg-am-berg.de
 ||silbernews.com^*/banner/
+||silver-gmbh.de/media/$domain=dogforum.de
 ||simnews.de/images/omsi_ad.jpg
 ||simnews.de/img/werbung_
 ||sinoptik.de/ad/
@@ -5732,6 +5733,8 @@ techbook.de##div[style="min-width: 300px; min-height: 250px;"]:has(#mrec)
 jungefreiheit.de##div[style="text-align: center;"]:has(.adsbygoogle)
 windowspro.de##div[style]:has(a[onclick])
 obi.*##explore-recommendation-v1:has([data-recommendations-title-short="Gesponsert"])
+dogforum.de##li.anchorFixedHeader:has([aria-label="Werbung"])
+dogforum.de##li.anchorFixedHeader:has(a[href^="https://www.dogforum.de/fh-ma/"])
 mein-mmo.de##li.article:has([data-type="sponsored"])
 dogforum.de##li:has(.wbbXdLocationAfter1stPostAsPost)
 dogforum.de##li:has(.wbbXdLocationPostList)
