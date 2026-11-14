@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611141252
+! Version: 202611141304
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2026 12:52 UTC
+! Last modified: 14 Nov 2026 13:04 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 4fcea9d3fcae87aa47428d634015060cc2357c09
+! Commit: 7536c855b9f1b6f1d4ee53af88c53476b28be67b
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5586,6 +5586,7 @@ promiflash.de##.onlyDesktop:has(div.adContainer)
 fertigung.de##.owl-carousel.owl-loaded.owl-drag:has(.label-ad-highlight)
 heise.de##.p-3.-mx-3.bg-gray-50:has(a[data-component="TeaserLinkContainer"]:not(a[href^="https://www.heise.de/api/accountservice/subscribe/"]))
 basicthinking.de##.p-wrap:has(a[href*="/category/sponsored-post/"])
+der-farang.com##.page_spot_item:has(a:not([href^="https://der-farang.com"]))
 finanzfluss.de##.partner-wrappеr:has(span.disclaimer)
 prad.de##.pd-teaser:has(a[href^="https://bit.ly/"])
 rewe.de##.plrProductGrid__flagship:has(.fsr-Header__AdInfo)
