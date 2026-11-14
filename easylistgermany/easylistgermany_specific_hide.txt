@@ -3023,6 +3023,7 @@ berlinstadtservice.de##.wrap-col.box4:has(a[href^="https://www.awin1.com/"])
 zeit.de##.zett-teaser-trio:has(.zett-teaser-trio__kicker--ad-anzeige)
 willhaben.at##[aria-hidden="true"]:has(#apn-large-leaderboard)
 dm.*##[data-dmid="product-tile"]:has([data-dmid="sponsored-marker"])
+focus.de##[data-element-tracking-property^="Admanager"]
 obi.*##[data-find-artikelnummer]:has(.artikelkachel__gesponsortmarker)
 obi.*##[data-find-artikelnummer]:has([data-ui-name="find-artikelkachel-gesponsert-marker"])
 expert.de##[data-key-id]:has([src^="//b.nl3.eu.criteo.com/rm?"])
