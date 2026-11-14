@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611141308
+! Version: 202611141311
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2026 13:08 UTC
+! Last modified: 14 Nov 2026 13:11 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 71e120bb3880490ed98e6e78f227da11243fae90
+! Commit: 8e347137406373746b412fae43912ce5edcb4ad9
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3976,6 +3976,7 @@ tvinfo.de##.floatLeft[style="padding:10px;"]
 freiburger-nachrichten.ch##.fn-edp-section__slider
 seo-suedwest.de##.fnet-banner
 amazona.de##.fnetbr-pbb-container
+foerde.news##.foerde-live-ad
 gwd-minden.de##.footer
 katzeausdemsack.de##.footer-banner
 deutschepornos.co,erotik-sexvideos.com,geilesexclips.com,gratis-sex-videos.net,gratisfickvideos.net,sexfilmetube.net,sexkostenlos.biz,xhamsterdeutsch.xyz##.footer-dingens
@@ -4121,6 +4122,7 @@ wetter.com##.jsDaa-D
 lustmap.ch##.js_bns
 kochbar.de##.kb-home-medrec-halfpage
 kauperts.de##.kca-wrapper
+foerde.news##.ki-inline-ad
 kicker.de##.kick__ad-pos_wrapper
 euro.kicker.de##.kick__euro2020-brand-sponsor
 euro.kicker.de##.kick__modul--euro__sponsor
@@ -4445,6 +4447,7 @@ funpot.net##.rotdiv_dspnone
 apfeleimer.de##.rotslide-wrap
 reviersport.de##.rs-ad-tag
 reviersport.de##.rs-superbanner
+foerde.news##.rte
 winfuture.de##.rutschdiv
 sport1.de##.s1-ad
 xn--solitr-fua.de##.sa2
