@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611141241
+! Version: 202611141252
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2026 12:41 UTC
+! Last modified: 14 Nov 2026 12:52 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 9c9529acece53d83db41b8afe413b26a282d82b1
+! Commit: 4fcea9d3fcae87aa47428d634015060cc2357c09
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3077,6 +3077,8 @@ rezeptwelt.de###mso-dplusc-banner_1
 rezeptwelt.de###mso-dplusc-banner_2
 rezeptwelt.de###mso-dplusc-banner_5
 kleinanzeigen.de###my_ads-top-banner
+kleinanzeigen.de###my_wishlist-btf-billboard
+kleinanzeigen.de###my_wishlist-top-banner
 wissens-quiz.de###naMediaAd_MR_WRAPPER
 fupa.net###nab_container
 utopia.de###native_ads2
@@ -3345,6 +3347,9 @@ ifun.de,iphone-ticker.de###verbraucherhinweis-single-300x250
 raidrush.net###vidcrunch
 drpornofilme.com###video-right
 kleinanzeigen.de###vip-billboard
+kleinanzeigen.de###vip-bottom
+kleinanzeigen.de###vip-middle
+kleinanzeigen.de###vip-sky-atf-right-sidebar
 kleinanzeigen.de###vip_pro-billboard
 digitalphoto.de###vlybyOneByOneWrapper
 t-online.de,www-t--online-de.cdn.ampproject.org###vmsky
@@ -5215,6 +5220,7 @@ bbheute.de,berliner-kurier.de,berliner-zeitung.de,bietigheimerzeitung.de,blick.d
 dealdoktor.de,mytopdeals.net##div[id^="trimexa-ads_"]
 galeria.de##div[id^="viewHomeDesktop-outGrid-sponsored_products-"]
 galeria.de##div[id^="viewSearchResultDesktop-inGrid-sponsored_products-"]
+kleinanzeigen.de##div[id^="vip-similar-ads-"]
 20min.ch##div[id^="wettbewerbe__inside-"]
 20min.ch##div[id^="wirtschaft__inside-"]
 20min.ch##div[id^="wissen__inside-"]
