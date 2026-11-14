@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611141311
+! Version: 202611141320
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2026 13:11 UTC
+! Last modified: 14 Nov 2026 13:20 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 8e347137406373746b412fae43912ce5edcb4ad9
+! Commit: de4af5c340caaabf30dba03d66f58e9811d939e2
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -2944,6 +2944,7 @@ tennis.de###footer-partner
 americaurlaub.de,kremser-sc.at###footer-widgets
 b2run.de###footerpartners
 dforum.net###forumbanner
+raidrush.info###fowerb
 heilfastenkur.de###fragenflex
 mufa.de###freikarten
 freenet.de###frnBanner
@@ -3259,7 +3260,7 @@ allgaeuer-zeitung.de###stroeer-container-banner2
 all-in.de###stroeer-container-pubperform
 deutsche-versicherungsboerse.de###superBContainer
 aktionspreis.de###superBanner
-1000ps.at,1000ps.ch,1000ps.de,bild.de,bz-berlin.de,ffn.de,firmenwissen.de,fitbook.de,fussballdaten.de,golem.de,myhomebook.de,petbook.de,stylebook.de,techbook.de,travelbook.de###superbanner
+1000ps.at,1000ps.ch,1000ps.de,bild.de,bz-berlin.de,ffn.de,firmenwissen.de,fitbook.de,fussballdaten.de,golem.de,myhomebook.de,petbook.de,raidrush.info,stylebook.de,techbook.de,travelbook.de###superbanner
 hoerzu.de###superbanner-wrapper
 chilloutzone.net###superreplacement
 suche.t-online.de###tMRM_amazon
@@ -4820,6 +4821,7 @@ pornhutdeutsch.com##[href^="https://susi.live/"]
 pornhutdeutsch.com##[href^="https://www.zubivu.com/"]
 skodacommunity.de##[id^="fh-afp_"]
 ddl-warez.cc##[onclick^="window.location.href='/azn/"]
+raidrush.info##[style="min-height:90px;"]
 nebenwerte-magazin.com##a[aria-label="auvesta-gold-sparvertrag"]
 manomano.de##a[class*="sponsoredProductCard"]
 neuwagen.de##a[class="placement"]
