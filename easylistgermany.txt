@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611141204
+! Version: 202611141219
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2026 12:04 UTC
+! Last modified: 14 Nov 2026 12:19 UTC
 ! Expires: 1 days (update frequency)
-! Commit: b885c025fe2a47635650bc84bd260d2246a656c8
+! Commit: d7fc6961d7f22768a3db0e7fdc71725208b5d670
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3581,6 +3581,7 @@ willhaben.at##.apn-leaderboard-wrapper
 oefb.at##.app-foesvAdSpace
 blick.ch##.appnexus-container
 arbeits-abc.de##.arbei-widget
+ariva.de##.arivaLink
 lokalmatador.de##.article-adbanner
 heise.de##.article-layout__header-wrbng
 onlinehaendler-news.de##.article-rectangle
@@ -5613,6 +5614,7 @@ obi.*##.splide__slide:has(hobi-advertiser-tag)
 spirituelles-bewusstsein.net##.su-note:has(a[href*="//www.amazon."][href*="tag="])
 szene-hamburg.com##.swiper-slide:has(.entry-adv)
 sportscheck.com##.swiper-slide:has(div.c-product-tile__sponsored)
+ariva.de##.tPicNews:has(.anzeige)
 preisvergleich.de##.tariffTipp:has(.indication)
 inside-digital.de##.td_module_ih_current_news:has(.spo)
 wallstreet-online.de##.teaser.objectfit:has(div.angebot)
