@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611141304
+! Version: 202611141308
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2026 13:04 UTC
+! Last modified: 14 Nov 2026 13:08 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 7536c855b9f1b6f1d4ee53af88c53476b28be67b
+! Commit: 71e120bb3880490ed98e6e78f227da11243fae90
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5734,6 +5734,7 @@ jameda.de##li:has([data-testid="advertisementSign-flag"])
 prad.de##li:has(a[class*="_klickkampagne_"])
 baur.de##li:has(a[href^="https://b.fr3.eu.criteo.com/rm?"])
 gartenfreunde.de##li:has(span.gfadmarker)
+prad.de##li[class^="bg-"]:has(.pd-anzeige)
 finanzfluss.de##li[data-cy="suggestion-item"]:has(a[href^="https://link.finanzfluss.de/inf/"])
 redcare-apotheke.ch,shop-apotheke.*##li[data-qa-id="result-list-entry"]:has(a[href^="https://api.sae.systems/"])
 radiowaf.de#?#.csc-frame.csc-frame-default:has-text(Anzeige)
