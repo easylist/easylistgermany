@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611141223
+! Version: 202611141241
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2026 12:23 UTC
+! Last modified: 14 Nov 2026 12:41 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 1c62c0477e9a7e005882ed18bd09723dec47806b
+! Commit: 9c9529acece53d83db41b8afe413b26a282d82b1
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5530,6 +5530,7 @@ finanzfluss.de##.billboard-card:has(.partner-ad-and-title)
 data-load.me##.block-container:has(a[href^="/partner/"])
 laola1.at##.block.medium:has(a[href^="https://dt.sportradar.com/"])
 express.de##.bottom-0:has(button[id="sticky-label"])
+dwdl.de##.box-topic-collection:has(a[href*="smalltalk-entertainment.de"])
 preis24.de##.box.box-style1:has(.notice)
 gesundheit.de##.box.img_link:has(.advertorial_hint)
 preisjaeger.at##.boxAlign-ai--all-c:has(.slot)
