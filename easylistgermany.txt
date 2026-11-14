@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611141219
+! Version: 202611141223
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2026 12:19 UTC
+! Last modified: 14 Nov 2026 12:23 UTC
 ! Expires: 1 days (update frequency)
-! Commit: d7fc6961d7f22768a3db0e7fdc71725208b5d670
+! Commit: 1c62c0477e9a7e005882ed18bd09723dec47806b
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5650,6 +5650,7 @@ berlinstadtservice.de##.wrap-col.box4:has(a[href^="https://www.awin1.com/"])
 zeit.de##.zett-teaser-trio:has(.zett-teaser-trio__kicker--ad-anzeige)
 willhaben.at##[aria-hidden="true"]:has(#apn-large-leaderboard)
 dm.*##[data-dmid="product-tile"]:has([data-dmid="sponsored-marker"])
+focus.de##[data-element-tracking-property^="Admanager"]
 obi.*##[data-find-artikelnummer]:has(.artikelkachel__gesponsortmarker)
 obi.*##[data-find-artikelnummer]:has([data-ui-name="find-artikelkachel-gesponsert-marker"])
 expert.de##[data-key-id]:has([src^="//b.nl3.eu.criteo.com/rm?"])
