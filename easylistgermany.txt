@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611141328
+! Version: 202611161347
 ! Title: EasyList Germany
-! Last modified: 14 Nov 2026 13:28 UTC
+! Last modified: 16 Nov 2026 13:47 UTC
 ! Expires: 1 days (update frequency)
-! Commit: b099372e24344e32f9857df61137c3bcc4168973
+! Commit: 64cffe4e07db141eee1079fce9fce207f42eb61e
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5833,7 +5833,6 @@ motorsport-total.com#?#.teaser_container.teaser-htmlcode.relative.row:has(.f1de-
 notebookcheck.com#?#.introa_news:has-text(Anzeige)
 nur-positive-nachrichten.de#?#.moduletable.text-center:has(.bildunterschrift:has-text(Anzeige))
 o-sport.de#?#.card-body:has-text(Sponsoren)
-onvista.de#?#.col__content--no-padding-vertical:-abp-has(div:-abp-properties(content: "W*"))
 onvista.de#?#.cursor-pointer > div:-abp-properties(content: "W​e​r​b​u​n​g";)
 onvista.de#?#.cursor-pointer:has-text(/Werbung|gnubreW|gnubreW|gnubreW|g​n​u​b​r​e​W|W​e​r​b​u​n​g/))
 onvista.de#?#.ov-carousel__item:-abp-has(span:-abp-properties(content: "W*"))
