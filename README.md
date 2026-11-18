@@ -44,6 +44,10 @@ flrender -i easylistgermany=. easylistgermany.template easylistgermany.txt
 
 A separate **Dead Domains Check** workflow runs every Monday. It uses [AdGuard's Dead Domains Linter](https://github.com/AdguardTeam/DeadDomainsLinter) to find rules that target domains that no longer exist then opens an issue and a pull request to remove them. Low-traffic sites are occasionally flagged by mistake, so these pull requests are reviewed before merging.
 
+## Contributing
+
+See [CONTRIBUTING.md](https://github.com/easylist/easylistgermany/blob/master/CONTRIBUTING.md).
+
 ## Licence
 
 EasyList Germany is dual-licensed under the GNU General Public License (version 3 or later) and the Creative Commons Attribution-ShareAlike 3.0 Unported licence. See the [EasyList licence page](https://easylist.to/pages/licence.html) for details.
