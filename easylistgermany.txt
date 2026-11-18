@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611181356
+! Version: 202611181401
 ! Title: EasyList Germany
-! Last modified: 18 Nov 2026 13:56 UTC
+! Last modified: 18 Nov 2026 14:01 UTC
 ! Expires: 1 days (update frequency)
-! Commit: f16b1ce0afb6eb2ae7f16e2327af7714b7028cb5
+! Commit: 37ed177358dd13bee8ccc8e37cc65351af91bc09
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -1271,7 +1271,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||az.com.na/img/banner/
 ||azureedge.net/pickerimages/bayer04-superbanner_$domain=bayer04.de
 ||azureedge.net/pickerimages/Lokalfreunde_$domain=bayer04.de
-||azurefd.net/endpoint/shipment/$domain=merkurist.de
 ||b2run.de/run/de/de/components/partner-links/
 ||b2run.de/run/de/de/pics/partner/
 ||back-intern.de/media/banner_img/
@@ -1869,7 +1868,6 @@ wetter.com#@#div[id^="div-gpt-"]
 ||motorradundreisen.de/banner/
 ||motorradundreisen.de/engine/count_banner_image/
 ||motorradundreisen.de^*/banner/
-||msecnd.net/endpoint/shipment/$domain=merkurist.de
 ||msh-online.de/_daten/banner/
 ||mtb-news.de/news/wp-content/plugins/mtbn-ads/
 ||mtb-news.de/news/wp-content/uploads/*/takeover-
@@ -4485,9 +4483,6 @@ sparhamster.at##.sh-ad-unit
 sparhamster.at##.sh-deal-infeed-ad
 wallstreet-online.de##.shareInFocus
 wallstreet-online.de##.shareTodayBox
-merkurist.de##.shipment
-merkurist.de##.shipmentPremium
-merkurist.de##.shipmentSuper
 gentleman-blog.de##.shoepassion_content_banner
 gentleman-blog.de##.shoepassion_sidebar_banner
 buffed.de,gamesaktuell.de,gamezone.de,pcgames.de##.shopLinkFrameWrapper
@@ -5537,7 +5532,6 @@ saechsische.de##.article-box:has(> .article-box__text > .article-box__info > spa
 saechsische.de##.article-fill:has(.article-badge.article-badge--ad)
 gewinn.com##.article-latest.article-layout-0 > .row:has(.advertorial-icon)
 meinbezirk.at##.article-list-item.article-card.article-card-default:has(.commercial-tag)
-merkurist.de##.articleDisplayableList-article:has(a[href*="/sparticles"])
 dnv-online.net##.artikel:has(.spitzmarketeaseranzeige)
 pnp.de##.bb-fixheight:has(div[id^="traffective-ad-"])
 heise.de##.bg-gray-50:has(div[id*="_Incontent-"])
