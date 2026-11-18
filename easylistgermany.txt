@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611181401
+! Version: 202611181402
 ! Title: EasyList Germany
-! Last modified: 18 Nov 2026 14:01 UTC
+! Last modified: 18 Nov 2026 14:02 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 37ed177358dd13bee8ccc8e37cc65351af91bc09
+! Commit: cefcbdd211e2786c7833744a9669a4b47ad5a72a
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -3391,6 +3391,7 @@ gutefrage.net##.AdSticky
 finanznachrichten.de##.Ad_FinativeHome
 finanznachrichten.de##.Ad_ImageTeaser
 finanznachrichten.de##.Ad_SmartAd
+merkurist.de##.Advertorial
 elektrikforen.de,jungewelt.de,vermieter-forum.com##.Anzeige
 praxistipps.chip.de,praxistipps.focus.de##.Article__Ad
 praxistipps.chip.de,praxistipps.focus.de##.Article__Promo
@@ -5118,7 +5119,7 @@ t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="T-"][oncontextmenu="re
 hardware-mag.de##div[id^="ad-"]
 gamestar.de##div[id^="ad-div-"]
 20min.ch##div[id^="ad_prime_"]
-argoviatoday.ch,baerntoday.ch,nzz.ch,pilatustoday.ch,swissmom.ch##div[id^="adnz_"]
+argoviatoday.ch,baerntoday.ch,merkurist.de,nzz.ch,pilatustoday.ch,swissmom.ch##div[id^="adnz_"]
 haus.de##div[id^="adtech_"]
 yoga-aktuell.de##div[id^="aktue-"]
 finanzfluss.de##div[id^="amundi-table-"]
