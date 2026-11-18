@@ -765,6 +765,7 @@ gutefrage.net##.AdSticky
 finanznachrichten.de##.Ad_FinativeHome
 finanznachrichten.de##.Ad_ImageTeaser
 finanznachrichten.de##.Ad_SmartAd
+merkurist.de##.Advertorial
 elektrikforen.de,jungewelt.de,vermieter-forum.com##.Anzeige
 praxistipps.chip.de,praxistipps.focus.de##.Article__Ad
 praxistipps.chip.de,praxistipps.focus.de##.Article__Promo
@@ -2492,7 +2493,7 @@ t-online.de,www-t--online-de.cdn.ampproject.org##div[id^="T-"][oncontextmenu="re
 hardware-mag.de##div[id^="ad-"]
 gamestar.de##div[id^="ad-div-"]
 20min.ch##div[id^="ad_prime_"]
-argoviatoday.ch,baerntoday.ch,nzz.ch,pilatustoday.ch,swissmom.ch##div[id^="adnz_"]
+argoviatoday.ch,baerntoday.ch,merkurist.de,nzz.ch,pilatustoday.ch,swissmom.ch##div[id^="adnz_"]
 haus.de##div[id^="adtech_"]
 yoga-aktuell.de##div[id^="aktue-"]
 finanzfluss.de##div[id^="amundi-table-"]
