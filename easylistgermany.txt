@@ -3,7 +3,7 @@
 ! Title: EasyList Germany
 ! Last modified: 19 Nov 2026 07:29 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 3f4adcfdaeebd173b41918278e58020496af355c
+! Commit: 04a77b94da26817fdeb715907ff1fe2f702d4c2a
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -4817,6 +4817,7 @@ foerde.news##[aria-label="Anzeige"]
 foerde.news##[aria-label="Werbung"]
 home24.de##[data-cnstrc-sl-campaign-owner]
 aerzteblatt.de##[data-cy="section-ad"]
+focus.de##[data-element-tracking-campaign-name="anzeige-top-empfehlungen-von-fachfirmen"]
 gmx.net##[data-sda-slot]
 fitbook.de,petbook.de##[data-view-track="stickybar.display.Skyscanner"]
 pornhutdeutsch.com##[href^="https://start.amateurcommunity.com/"]
