@@ -3,7 +3,7 @@
 ! Title: EasyList Germany
 ! Last modified: 20 Nov 2026 17:04 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 2eb4be57c3a2fb14d6dc6014a8384bb9fdd7f171
+! Commit: 10d2f007ceca7a4abc5c3abe246e85445d8ff5d4
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -1563,6 +1563,7 @@ wetter.com#@#div[id^="div-gpt-"]
 ||fuechse.berlin^*/modul-hauptsponsoren/
 ||fundresearch.de^*/partnercenter/
 ||funkbasis.de/_static/ban-
+||fupa.net/ads/
 ||fupa.net/static/js/fupa_ads-
 ||fussball-em-2020.com/wp-content/uploads/*/Sidebar_11prozent.jpg
 ||fussball.de^*/partner/
@@ -5087,6 +5088,7 @@ heise.de##div[data-module-name="AdModule"]
 otto.de##div[data-module-type="SHOPPROMO_LARGE"]
 chip.de##div[data-qa-download-page-buy-button]
 giga.de##div[data-sdg-ad]
+fupa.net##div[data-sentry-component="AdSlotContainer"]
 haus.de##div[data-sentry-component="ParagraphAdSlotVlyby"]
 haus.de##div[data-sentry-component="STFAdSlot"]
 gmx.net##div[data-service-slot^="box_"]
