@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611201703
+! Version: 202611201704
 ! Title: EasyList Germany
-! Last modified: 20 Nov 2026 17:03 UTC
+! Last modified: 20 Nov 2026 17:04 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 200adba0b5585016297751486c46d15bc2e36d75
+! Commit: 2eb4be57c3a2fb14d6dc6014a8384bb9fdd7f171
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5708,6 +5708,7 @@ onvista.de##div.shrink-0:has(> div.bg-neutral-2 > div.bg-accent-2)
 nydus.org##div.ui-tabs:has(#nydus_org_300x600_desktop_1)
 nydus.org##div:has(> #nydus_org_970x300_billboard_responsive)
 bauernzeitung.ch##div:has(> .advert)
+der-farang.com##div:has(> a[rel~="nofollow"][target="_blank"]:not([href*="der-farang.com"]) img)
 onvista.de##div:has(> div.bg-neutral-3 a[href="/ratgeber/broker-vergleich"] > div[title$=" Prozent"])
 froheweihnachten.info,weihnachten.me,weihnachts-bilder.org,weihnachts-filme.com##div:has(> img[referrerpolicy="unsafe-url"])
 mobile.de##div[class*="KnOLI W0RYj"]:has(#SRP_BILLBOARD-container)
