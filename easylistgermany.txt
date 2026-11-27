@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611201704
+! Version: 202611271637
 ! Title: EasyList Germany
-! Last modified: 20 Nov 2026 17:04 UTC
+! Last modified: 27 Nov 2026 16:37 UTC
 ! Expires: 1 days (update frequency)
-! Commit: 10d2f007ceca7a4abc5c3abe246e85445d8ff5d4
+! Commit: b14f628fd942ddaeacbad9a3a55e49951bceb8ab
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
 ! 
@@ -5021,6 +5021,7 @@ windowspro.de##div[class*="sponsored"]
 biancazapatka.com##div[class="app-banner"]
 preispirat.ch##div[class="vc_row wpb_row vc_inner vc_row-fluid"]:has(img[src*="/partner-promo/"])
 blick.de,gut-erklaert.de,hifi-forum.de,kino.de,meinestadt.de,news.de,nordbayern.de,t-online.de,teltarif.de##div[class] > img[referrerpolicy="unsafe-url"]
+blick.ch##div[class^="AdContextual_"]
 homegate.ch##div[class^="AdSlotContainer_"]
 stol.it##div[class^="AdSuperBanner_"]
 stol.it##div[class^="AdUnit_"]
